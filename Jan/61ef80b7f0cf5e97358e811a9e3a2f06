@@ -24,6 +24,17 @@ In recent years, Algeria has seen an influx of sub-Saharan migrants, many pourin
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The civil protection unit urged drivers to respect traffic rules in Algeria, where more than 3,000 people were killed on the roads in 2019 according to official figures. Aged 75 and a heavy smoker, President Tebboune was hospitalised in Germany on October 28. There has been a sharp increase in attacks in northeast Nigeria since the start of the month. According to family members, the deceased was attached to the DP’s security detail for several years. The footbridge was damaged by a trailer carrying an excavator earlier in December 2020. However they made us feel, the men and women in this list elicited different emotions in all of us.
