@@ -24,17 +24,6 @@ In a wide-ranging interview with Political Editor Guchu Ndungú, the 35-year old
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -85,17 +74,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 Nairobi has been mismanaged despite having all the resources. Don’t you think Nairobians deserve a change in the system of governance? 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
