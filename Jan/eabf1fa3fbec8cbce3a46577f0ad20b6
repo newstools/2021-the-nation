@@ -28,17 +28,6 @@ A source who spoke to the Saturday Nation on condition of anonymity because he i
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -99,17 +88,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 The officers have come up with 17 demands that they want the government to meet by February, including the acquisition of PPE, medical cover, group life insurance cover in case of fatalities in line of duty, well equipped health facilities, renewal of contracts, and increase of their risk allowance. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
