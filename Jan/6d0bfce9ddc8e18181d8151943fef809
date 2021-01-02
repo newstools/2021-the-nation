@@ -21,6 +21,17 @@ He had in mind the AstraZeneca vaccine, developed jointly with Oxford University
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 There’s a problem, though, which has been noted the world over: ordinary folk are extremely wary of being Covid-19 vaccinated. The possible side effects of the vaccines are causing the irrational fear.
