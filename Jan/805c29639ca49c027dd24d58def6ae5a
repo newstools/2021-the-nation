@@ -54,17 +54,6 @@ Kimilili MP Didmus Barasa on Friday told the Nation that the Tangatanga camp is 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 “Just the way we are set to support our own in Nairobi, the same will happen in both Kabuchai and Matungu,” said Mr Barasa. Already, Dr Juma Mukhwana has pulled out of the race on claims that the Ford Kenya nominations was not free and fair.
