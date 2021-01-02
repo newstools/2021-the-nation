@@ -63,17 +63,6 @@ There was also a spirit of defiance against Covid-19 control measures at some ar
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 As a result of disobeying the curfew, tens were arrested in Nakuru by an operation led by Nakuru Town East Sub-county police commander Ellena Kabukuru.
