@@ -21,17 +21,6 @@ For nearly three years since the ‘handshake’ , Dr Ruto has dominated the cam
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 “We are going to fight with Tangatanga openly now. We want to come back forcefully as ODM, through a scorched-earth campaign. We want to ensure that we protect our bases even as we grow the party support across the country,” Mr Mohamed added.
@@ -79,17 +68,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
