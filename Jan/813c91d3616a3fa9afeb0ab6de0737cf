@@ -23,17 +23,6 @@ Nderitu notes that one can ‘manufacture’ various types of organic manure fro
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Below are the different kinds of manure you can easily make on the farm:
@@ -72,17 +61,6 @@ To process the manure, farmers need to heap animal waste and cover it with raw t
 The heap is then left to decompose for three months, before it is ready for use.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
