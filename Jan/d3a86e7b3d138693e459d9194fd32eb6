@@ -21,17 +21,6 @@ The Royal Court of Jersey said the Gichuru-Okemo slush fund received bribes in h
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Mr Gichuru and Mr Okemo had subtly wired large sums from the Jersey account to themselves in the years to 2002 and authorities were only able to recover and forfeit foreign currency amounting to Sh526 million and Sh444 million will now be wired back to Kenya after deducting court expenses.
