@@ -23,7 +23,18 @@ He encouraged the authorities in DRC to take concrete steps to address the drive
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Guterres reiterated the determination of the UN peacekeeping mission in the DRC to continue to do its utmost to protect civilians in accordance with its mandate and to support national efforts to consolidate peace and stability in the country, it said.
-Dozens of civilians have been killed by the ADF in the past two weeks in the DRC's troubled east. In a statement, Wine says that his family has been living in fear for the past three years. The signing made Sudan the third Arab country to ink the "Abraham Accords" Deliberations of the secret night meeting resulted in the explosive letter that has ignited the current raging fire. The 92-year-old died at the Nairobi Hospital late last year. Boarding schools are melting pots where thousands of learners from all over the country converged this week.
+Dozens of civilians have been killed by the ADF in the past two weeks in the DRC's troubled east. Death toll in the country from the pandemic now stands at 1,702 after eight fatalities were reported in the last 24 hours. Uganda opposition presidential candidate says his friends living out of the country offered to host his children until the situation returned to normal. All funds will be channelled directly through implementing partners. Deliberations of the secret night meeting resulted in the explosive letter that has ignited the current raging fire. International broadcaster changes edits and removes some quotes.
