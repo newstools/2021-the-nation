@@ -21,17 +21,6 @@ In a statement on Thursday, Wine said that his family has been living in fear fo
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 He slammed “regime apologists” for questioning the travel of his children as the January 14 election draws close.“The regime propagandists should be very ashamed. In a free and democratic country, nobody should live in fear simply because they oppose the government in power. In a free country, a presidential candidate would never have to wear a bullet-proof jacket and helmet in order to go for campaigns! That is the country we are struggling to build. Gen Museveni should even be more ashamed that 35 years later, children have to yet again run away from their country over fears of vengeful attacks!,” he said.
