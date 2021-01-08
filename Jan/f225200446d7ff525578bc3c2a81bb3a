@@ -219,12 +219,6 @@ According to ODM Secretary-General Edwin Sifuna, the Raila-led party is not goin
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 
