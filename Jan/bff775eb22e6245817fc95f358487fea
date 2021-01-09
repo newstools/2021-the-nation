@@ -21,17 +21,6 @@ Dr Ruto lamented that politics of handshake and Building Bridges Initiative (BBI
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 Dr Ruto also challenged those in the opposition not to focus on the undoing of the government in terms of development but use the handshake for the sake of helping them to deliver on the development projects.
