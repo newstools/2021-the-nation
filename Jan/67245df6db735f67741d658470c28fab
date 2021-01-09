@@ -21,6 +21,17 @@ The 47-year-old daughter of Methodist ministers first ran for governor of Georgi
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 When she lost the race many, including myself, were heartbroken. It was a deeply hurtful experience, especially because of all the effort she had put in new voter registration though her grassroots organisation, The New Georgia Project, which she founded in 2013.
