@@ -68,17 +68,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
  Criticism that the RPF government had forced the Rwandese to vote almost as one was countered by questions as to why the critics felt that it was not democratic if Rwandese voted the way they wanted.
@@ -100,4 +89,4 @@ googletag.display("mobile-article-ad-4");
 
 
 
-tom.mshindi@bluecraneglobal.com, @tmshindi The man who holds a Nigerian passport was on Friday night arrested in connection with a gruesome killing in Syokimau. Stephen Thuku was reportedly blocked by another car at Nairobi’s Githurai Mwihoko area by three armed men. Politicians express their views on matters including the 2022 poll and Mudavadi's position as Mama Hannah is buried.
+tom.mshindi@bluecraneglobal.com, @tmshindi Experts say authorities may have destroyed or scrubbed away crucial evidence in a panicked initial response. The man who holds a Nigerian passport was on Friday night arrested in connection with a gruesome killing in Syokimau. Stephen Thuku was reportedly blocked by another car at Nairobi’s Githurai Mwihoko area by three armed men.
