@@ -105,6 +105,17 @@ Farmajo, who launched his 2016 campaign in Nairobi, cut diplomatic ties with Ken
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 If no election of the president takes place on February 8, it is likely the opposition will announce a caretaker president, pushing Somalia to the brink. Igad, AU and the international community need to put pressure on the government to hold credible and transparent election to avert Somalia’s slide to civil war.
