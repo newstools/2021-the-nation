@@ -89,6 +89,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 The other major political parties mark time in picking theirs  ahead of the January 18 deadline set by the Independent Electoral and Boundaries Commission (IEBC).
@@ -172,12 +183,6 @@ googletag.display("mobile-article-ad-6");
 Mr Oparanya had said the campaigns would be different from the previous ones.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
 
 
 
