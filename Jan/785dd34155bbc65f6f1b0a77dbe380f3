@@ -18,4 +18,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
 
 
 "The meeting came in response to Sudan's call for giving the AU experts a greater role to facilitate the talks among Sudan, Egypt and Ethiopia to contribute to preparation of a second document for the proposed memorandum of agreement that was received by the three countries in the previous six-party meeting," it noted.
-It said the meeting thoroughly discussed the importance of setting up a clear reference framework for the role of the AU experts, adding that Sudan has stressed the necessity that the AU plays a more effective leadership role than its role in the previous rounds of talks. The Sudanese negotiators believe that the GERD talks should go beyond the level of irrigation ministers. Previous three-way talks have failed to produce an agreement. The former Nairobi governor also explains why he did not file an election petition. The university student is now the prime suspect in the multiple homicides his parents, brother, cousin and his father's worker. Tough-talking President Kenyatta tells off his critics, saying he is fully in charge of the country.
+It said the meeting thoroughly discussed the importance of setting up a clear reference framework for the role of the AU experts, adding that Sudan has stressed the necessity that the AU plays a more effective leadership role than its role in the previous rounds of talks.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+} The Sudanese negotiators believe that the GERD talks should go beyond the level of irrigation ministers. Previous three-way talks have failed to produce an agreement. The former Nairobi governor also explains why he did not file an election petition. The university student is now the prime suspect in the multiple homicides his parents, brother, cousin and his father's worker. Tough-talking President Kenyatta tells off his critics, saying he is fully in charge of the country.
