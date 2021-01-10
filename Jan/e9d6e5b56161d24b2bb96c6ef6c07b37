@@ -73,17 +73,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 AChepkoech@ke.nationmedia.com Nandi governor Stephen Sang has warned against collection of signatures in his county Rift Valley politicians have hit out at the DP, saying he is sitting on the fence on the Building Bridges Initiative. Experts say authorities may have destroyed or scrubbed away crucial evidence in a panicked initial response. The man who holds a Nigerian passport was on Friday night arrested in connection with a gruesome killing in Syokimau. Stephen Thuku was reportedly blocked by another car at Nairobi’s Githurai Mwihoko area by three armed men.
