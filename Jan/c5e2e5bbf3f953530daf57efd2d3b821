@@ -22,6 +22,17 @@ During the pandemic, the first Polish charter flight touched down at Moi Interna
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 On December 19, 26 and January 2 the flight brought more tourists. The charter will be flying directly to the international airport every Saturday bringing over 150 international tourists for more than 10-days holiday at the Kenyan Coast and safari itinerary.
@@ -70,17 +81,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
