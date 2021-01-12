@@ -69,6 +69,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 At the meeting it was resolved that the contractor provide evidence to support its claim of work done whilst a Mr. S. K. Waweru was tasked to confirm whether the bush clearing had been done. Allies want him to name his successor as region’s kingpin in order to tame Ruto’s growing influence in his political backyard. The ODM leader says Kenya is a multi-ethnic society, hence the need to be sensitive to the ethnic differences. Experts are concerned about the rapid spread of new variants of the virus.
