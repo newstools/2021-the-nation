@@ -18,4 +18,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
 
 
 The OLA is a breakaway faction of an ex-rebel group Oromo Liberation Front (OLF), also an opposition political party claiming to fight for the rights of ethnic Oromos who make up about 35 per cent of Ethiopia's population. 
-Designated as a terrorist group by the Ethiopian parliament in 2011, the OLF was removed from the terror list in July 2018 to facilitate negotiations and foster reconciliation. Four people travelling in a private car also survived after their vehicle hit a roadside explosive. Pandor says she will refer the matter to current AU chairman Cyril Ramaphosa. Bobi Wine has also revealed that his National Unity Platform (NUP) party has established an independent tallying centre to check against potential rigging. The move means Ugandans will cast their ballots amidst an internet blackout. President Donald Trump urges 'NO violence' and appeals for calm in the US as Congress debates his impeachment.
+Designated as a terrorist group by the Ethiopian parliament in 2011, the OLF was removed from the terror list in July 2018 to facilitate negotiations and foster reconciliation.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+} Four people travelling in a private car also survived after their vehicle hit a roadside explosive. Pandor says she will refer the matter to current AU chairman Cyril Ramaphosa. Bobi Wine has also revealed that his National Unity Platform (NUP) party has established an independent tallying centre to check against potential rigging. The move means Ugandans will cast their ballots amidst an internet blackout. President Donald Trump urges 'NO violence' and appeals for calm in the US as Congress debates his impeachment.
