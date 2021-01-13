@@ -76,17 +76,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 In mid-November, at least 54 people were killed in clashes with police which were sparked by Wine's umpteenth arrest. In December a member of the singer's security team was killed by the army, according to his National Unity Platform (NUP).
