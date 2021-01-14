@@ -20,17 +20,6 @@ For many people, payments are done by mobile money or card, and it is now routin
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 There have been shifts at companies to embrace cashless and contactless interactions with their customers through online ordering. Newspapers, pharmacy drugs, weekend drinks, restaurant meals, seasonal fruit, fresh fish and other goods that one would go to the market for are all being delivered to homes now. 
@@ -59,17 +48,6 @@ But now that mobile money payments below Sh100 will be permanently free, perhaps
 There are other hurdles too, mainly around cost. Paying by mobile money, or checking a bill balance, is often quite expensive. The fees charged may look small but they are unsuited to the service. When you want to pay for electricity and can only afford to spend Sh300 on tokens, 10 per cent of that should not be a transaction fee. Same with school fees and government services on ecitizen that also attract significant fees and taxes. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
