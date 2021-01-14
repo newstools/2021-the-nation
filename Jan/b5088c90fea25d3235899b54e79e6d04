@@ -104,6 +104,17 @@ Outside Kampala, in the western district of Bunyangabu, some polling stations ha
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 According to our reporter on ground, Alex Ashaba, at Buheesi and Brain Bridge polling stations, no one showed up to witness the opening of the voting material and therefore the officials were stuck.
