@@ -21,6 +21,17 @@ He told us that he would have finished renovating that squalid habitat into a li
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Five-star treatment
@@ -67,17 +78,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
