@@ -80,6 +80,17 @@ Before the election, the opposition jointly said that a win for President Museve
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 The United States (US), the European Union (EU) and other international bodies earlier raised the alarm over lack of transparency in Uganda’s election.
