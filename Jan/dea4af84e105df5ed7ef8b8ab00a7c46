@@ -123,17 +123,6 @@ Officially, Mr Museveni is 76 years old, meaning if he completes the next term, 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
-
 
 
 stusingwire@ug.nationmedia.com His closest rival Robert Kyagulanyi, aka Bobi Wine, came second with 38.4 per cent of the votes cast. Museveni, 76, is seeking a sixth term after almost four decades in power. He warns the opposition that any attempt to disrupt social order will be dealt with decisively. For Kenya, Mr Museveni could be a major behind-the-scenes player in President Uhuru Kenyatta’s succession campaigns. His closest rival Robert Kyagulanyi, aka Bobi Wine, came second with 38.4 per cent of the votes cast.
