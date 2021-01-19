@@ -25,17 +25,6 @@ Summoned to Geneva Criminal Court, she did not appear -- nor did a dozen other d
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 "Mamadie Toure, who is the one who is corrupt, is not here."
@@ -72,4 +61,17 @@ Steinmetz's legal team said no marriage certificate had been produced.
 "No photos or video were taken on this supposed occasion," while Toure's diplomatic passport was not issued until many years after her "presumed marriage".
 Furthermore, Toure "was not a public official", whether a legitimate wife or otherwise, added her colleague Bonnant.
 The prosecution sought five years in prison for Steinmetz and the confiscation of 50 million Swiss francs ($56 million, 46 million euros) if the diamond magnate is convicted.
-Two business partners are being tried as well, and the verdict is expected on Friday. South Africa is by far the worst hit country in the continent, with more than 1.3 million Covid-19 cases. Morocco remains one of the world's largest producers of the narcotic plant. The city has seen a second wave after authorities relaxed some restrictions. Ms Mwenda is now facing an acid test that could dim her quest to become the first female governor of Nairobi. This comes after the President admitted that he instigated Sonko’s removal from office over his confrontational leadership style
+Two business partners are being tried as well, and the verdict is expected on Friday.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+} South Africa is by far the worst hit country in the continent, with more than 1.3 million Covid-19 cases. Morocco remains one of the world's largest producers of the narcotic plant. The city has seen a second wave after authorities relaxed some restrictions. Ms Mwenda is now facing an acid test that could dim her quest to become the first female governor of Nairobi. This comes after the President admitted that he instigated Sonko’s removal from office over his confrontational leadership style
