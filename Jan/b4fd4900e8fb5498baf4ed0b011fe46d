@@ -66,4 +66,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-However the fates of TPLF's leader, Debretsion Gebremicheal, and other top TPLF officials remain unknown as fighting reportedly continues in several parts of the Tigray region. N humanitarian assessment dated January 6 says Tigray remains "volatile" with "localised fighting". Clashes were started by a fight on Friday between two people in a camp in El Geneina. The court issued an order that gave Bensouda her first big win against the soft-spoken, laid back public servant. Biden has stressed the need to unite the country after President Donald Trump's chaotic four years in office. Kitui County boss defends her longtime rival Kalonzo over his spat with the deputy president on land grabbing claims.
+However the fates of TPLF's leader, Debretsion Gebremicheal, and other top TPLF officials remain unknown as fighting reportedly continues in several parts of the Tigray region.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+} N humanitarian assessment dated January 6 says Tigray remains "volatile" with "localised fighting". Clashes were started by a fight on Friday between two people in a camp in El Geneina. The court issued an order that gave Bensouda her first big win against the soft-spoken, laid back public servant. Biden has stressed the need to unite the country after President Donald Trump's chaotic four years in office. Kitui County boss defends her longtime rival Kalonzo over his spat with the deputy president on land grabbing claims.
