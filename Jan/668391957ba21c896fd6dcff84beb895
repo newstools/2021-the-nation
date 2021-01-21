@@ -22,6 +22,17 @@ The violence erupted on Saturday between Arab nomads and members of the non-Arab
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The transitional government in the capital Khartoum has deployed military units to the arid western region, where the recent end of a joint United Nation and African Union peacekeeping mission had raised fears of more bloodshed.
