@@ -22,6 +22,17 @@ There are three independent candidates in the Kabuchai by-election including Mr 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -62,6 +73,17 @@ If independent candidates were a party, their representation in the National Ass
 Of the 13, six were party candidates who did not win their parties’ nomination, but won as independent candidates in regions seen as Jubilee or National Super Alliance (Nasa) strongholds. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
