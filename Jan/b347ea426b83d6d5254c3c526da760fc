@@ -22,17 +22,6 @@ Now "the state of emergency has been proclaimed across the national territory fo
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 He told AFP the state of emergency would also allow authorities "to make arrests without going through national prosecutors".
