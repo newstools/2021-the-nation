@@ -69,6 +69,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 Kamala cannot be your role model when you have corruption cases running a relay on the corridors of justice. If you cannot sign a deal with your hands to slap your face whenever you are tempted to touch public money, at least sign a deal with your memory to give you an alternative list of role models whenever you want to sound cool for political clout.
