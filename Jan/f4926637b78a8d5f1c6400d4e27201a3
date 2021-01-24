@@ -68,17 +68,6 @@ But reports that more fighters came in from neighbouring Chad point to a lingeri
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 Darfur, divided in five regional states, is about 1,000 kilometres west of Khartoum via poor roads. Most areas rely on diesel-powered generators for electricity, the lingering scar of war.
