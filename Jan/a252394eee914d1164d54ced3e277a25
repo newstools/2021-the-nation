@@ -68,17 +68,6 @@ Iran’s embassy in Nairobi hosts a large cultural office aimed at creating a po
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 As a strategic ally in the war on terror, Kenya’s dalliance with Iran shocked the US and its allies. In June 2012, it caved in and cancelled Iran’s oil deal.
