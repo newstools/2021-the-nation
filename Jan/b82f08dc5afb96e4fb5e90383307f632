@@ -166,12 +166,6 @@ According to the law, judges are appointed by the president in consultation with
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 Another lawyer, who has litigated in all levels of courts of judicature and sometimes won and other times lost, Male Mabirizi Kiwanuka, said although he agrees that the appointment of judges sometime hinders their capacity to execute their duties without bias, he nevertheless believes that they have the capacity to annul an election.
