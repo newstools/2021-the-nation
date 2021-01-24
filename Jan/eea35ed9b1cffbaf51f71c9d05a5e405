@@ -68,6 +68,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 Mr Kang'ata has since admitted that he is retracing his political loyalty to Tangatanga saying "that is my brainchild, a founder member and Dr Ruto's chief marketer since 2013 in Mt Kenya region". Kang’ata says he reads political mischief in the new probe. Michael Chege Bunyi, from Kiambu, is accused of sending life threatening messages to the lawmaker. Locals are living in fear of more raids by the bandits, who are reported to be hiding in bushes. Party leader Raila Odinga has not stated whether he will run for the top seat but he is seen as the clear favourite. Benson Mutura, who lasted 28 days as Nairobi's acting governor, recounts his days at the helm of Kenya’s capital city.
