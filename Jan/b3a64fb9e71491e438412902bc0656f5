@@ -1,0 +1,114 @@
+The work you do should first and foremost sell itself.It should be good and useful and functional. My late grandmother, as those who knew her will confirm, was quite the character. She was feisty and bold and well ahead of her time. She told you what she thought of you, right to your face.
+I recall one moment as a teenager. I was sitting with her waiting for the evening news to start on television, as we all did in those days. The regular prime-time adverts were playing, and we both noticed a commercial we had not seen before: a well-known company had started plugging its wares.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+“Are these people in trouble?” Asked my grandmother suddenly.
+When I asked why she thought that, she replied: “Why else have they suddenly started advertising, when we all know who they are? Their products must be struggling.”
+I had, at that time, recently started taking an interest in business, and tried explaining to her that marketing was not an act of desperation, that even the most successful companies keep advertising, that advertising is both informational and persuasive.
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+She shook her head, pursed her lips and ignored me.
+A couple of years later, when I was visiting home from university, I noticed a newspaper report: the company we had been discussing had indeed fallen into hard times.
+Let’s press fast-forward and leap into the present day. One of my favourite business professors is Scott Galloway, professor of marketing at NYU. He is also a serial entrepreneur, writer and speaker. I read his books and listen to his podcasts. I like him for two reasons: one, he’s really sharp on all matters business; two, he’s hilariously blunt and profane. He takes no prisoners, disses all comers, calls it as he sees it.
+Prof G reminds me of my grandmother.
+One particular line in his new book, Post Corona, leaped off the page and buzzed around my head. This was it:
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+“If you spend a lot of time at dinners with people who aren’t your family, it means you’re selling something that is mediocre.”
+My grandmother had the same clear insight as the good professor: don’t get lost in the marketing and networking; first, make a great product. The work you do should first and foremost sell itself. It should be good and useful and functional. That is the heart of the matter.
+My grandmother had her effect on me. Those who know me know I will never be found on any evening schmoozing, hobnobbing or peddling.
+Gangster algorithm
+Prof G points out that until recently “the gangster algorithm for shareholder value was simple — create an average, mass-produced product and infuse it with intangible associations. You then reinforce these associations through cheap broadcast media.” Brand, he tells us, was “a new kind of pixie dust that offered an exceptional lifestyle to average businesspeople.”
+Selling mediocrity by infusing it with undeserved associations. Yep, I have written about it in my own book, The Bigger Deal. We were sold cigarettes as a path to machismo and sophistication; sugared fizz as though it was the elixir of happiness; toothpaste like we were buying success in our careers and with the opposite sex; bank accounts that promised lifelong financial security.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+}, 62000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+What changed? Well, the internet released us from ignorance: we all have a lot more ability to gather information and facts about what we buy. Also, we no longer have to look at manipulative adverts to get the news or watch our favourite shows. Are we using this power well? The jury’s out on that one. The dim and the gullible are still befuddled by the fakery of influencers and the pretend lifestyles being hawked on social media.
+A central truth rings out across the generations, though. You’re either in business to fool people into buying something shoddy and just bang-average; or you’re selling the real deal: something that offers genuine value in the lives of your customers.
+If you’re doing the former, your marketing efforts are likely to be shrill, sly and scheming. You will exaggerate and manipulate. You will trick folks and take them for a ride. That, I’m afraid, has always been the game for most businesspeople.
+There’s also a smaller group. The ones who actually want to be useful and valuable, not just successful. The ones who craft things carefully and painstakingly, who add rather than subtract useful features, whose sense of accomplishment comes from making great things and doing excellent work, not just hawking mediocrity.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+}
+
+
+
+Those people let their work speak for itself, most of the time. They sell through word of mouth, referrals and recommendations. They market discreetly and advertise subtly. They are in it for the long haul, not the quick kill.
+My grandmother knew which one you should be.
+www.sunwords.com If working hard alone was what it takes to be successful, many more folks would be clocking up the achievements. Don’t begin with a spreadsheet; start with the product and the customer. ODM leader Raila Odinga is a man of exciting political cunning. Uhuru’s inner circle is said to be planning a meeting to address the apparent disquiet in the region mid this week. Kang’ata says he reads political mischief in the new probe.
