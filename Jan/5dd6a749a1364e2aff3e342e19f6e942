@@ -22,6 +22,17 @@ The staff were informed by word of mouth or text. Ms Howie told the hearing she 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 A director of the company gave evidence that it did not occur to her to invite Ms Howie, being that it was not a proper party in the traditional sense.
@@ -72,6 +83,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 The order was obtained by the police under a law passed in 2011 to prevent movement and communication by gangs. The teenager had to provide his mobile phone numbers and social media accounts to the police. 
@@ -97,17 +119,6 @@ The judge said in his judgment: “In this case, there is no question that the d
 The son’s lawyer indicated they were expecting compensation of at least thrice the value of the property.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
