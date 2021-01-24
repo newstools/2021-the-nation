@@ -1,0 +1,23 @@
+Addis Ababa
+The number of confirmed Covid-19 cases on the African continent reached 3,393,591 as of Saturday evening, the Africa Centres for Disease Control and Prevention (Africa CDC) said.
+According to the agency's data, the death toll from the pandemic in Africa stood at 83,901 as of Saturday evening.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+A total of 2,854,275 people infected with Covid-19 have recovered across the continent so far, Africa CDC added.
+The southern Africa region is hardest-hit in terms of the number of confirmed cases, followed by the northern Africa region, according to the agency.
+The most affected countries in the continent include South Africa, Morocco, Tunisia, Egypt and Ethiopia, data showed.
+South Africa is also the most affected in terms of Covid-19-related deaths, with 40,076 fatalities so far. African countries say the move is crucial to the global fight against the Covid-19 pandemic and other future infections. Jackson Mthembu becomes the first South Africa cabinet minister to succumb to the virus. ODM leader Raila Odinga is a man of exciting political cunning. Uhuru’s inner circle is said to be planning a meeting to address the apparent disquiet in the region mid this week. Kang’ata says he reads political mischief in the new probe.
