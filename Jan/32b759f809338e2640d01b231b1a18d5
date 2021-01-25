@@ -23,6 +23,17 @@ The "complex and simultaneous" attacks occurred at around 3:30 am (0330 GMT), th
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Some 40 motorcycles and a large amount of military gear were seized from the attackers, according to the army.
@@ -54,4 +65,4 @@ The UN has also deployed to Mali its 13,000-strong Minusma peacekeeping force, w
 Violence linked to jihadist and separatist insurrections in Mali since 2012 have killed thousands and left hundreds of thousands displaced, with the country's centre having become one of the main flashpoints.
 The UN's High Commissioner for Refugees (UNHCR) said recently that more than two million people in the wider Sahel had fled their homes due to violence.
 The UN Security Council held a meeting earlier this month devoted to Mali's long-running crisis.
-UN Secretary-General Antonio Guterres has expressed concern about the deteriorating security environment, pointing to the situation in central Mali as particularly worrying. Their deaths brought to 50 the number of French soldiers killed in the West African nation since 2013. The two villages are in the vast and unstable Tillaberi region. The learners were expecting to find multiple-choice questions. It is made of solid granite with another heavy concrete layer beneath it reinforced with heavy metal. The ICC said that Said "was surrendered" by authorities in Bangui.
+UN Secretary-General Antonio Guterres has expressed concern about the deteriorating security environment, pointing to the situation in central Mali as particularly worrying. Their deaths brought to 50 the number of French soldiers killed in the West African nation since 2013. The two villages are in the vast and unstable Tillaberi region. Deputy President lists Jubilee achievements since 2013, blames ODM chief, Handshake for stalling projects. It is made of solid granite with another heavy concrete layer beneath it reinforced with heavy metal. Wine has not left his home since he cast his ballot on January 14.
