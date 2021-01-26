@@ -143,12 +143,6 @@ Mr Magara cautioned the people of Nyanza against "carrying all your eggs in one 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 "As a party leader, I was mandated to engage other parties on possibility of working together either directly or through a coalition and that is exactly what I'm doing. I have engaged Wiper, ANC, Kanu and even DP Ruto," Mr Magara said.
