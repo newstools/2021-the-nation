@@ -22,17 +22,6 @@ By the time of stalling, the projects that include water dams for irrigation, ro
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 “The legislators have a duty to help curb accumulation of stalled projects by review of draft estimates and regular oversight or monitoring of annual budget implementation,” says PBO in a document submitted to the National Assembly.
@@ -81,6 +70,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
