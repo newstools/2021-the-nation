@@ -1,0 +1,43 @@
+Vaccine hesitancy, a concept in bioethics, is defined by the World Health Organization (WHO) as a tendency to reject vaccines influenced by factors such as lack of trust in a vaccine or its provider or complacency. Vaccine-hesitant people may reject just certain vaccines, those of a particular disease or even discard all vaccines.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+It is attributed to a myriad of factors in the religious, political, social, environmental and economic contexts. The standout disposition is, however, the fear that vaccines have adverse side-effects in the body. The perceived fear outweighs the benefits.
+A blueprint of dealing with vaccine hesitancy is key to combating the Covid-19 pandemic. Well-designed and implemented interventions on an individual and systemic levels, such as sensitisation on the benefits and any effect of vaccination will do.
+
+
+
+
+
+The government can identify vaccine-hesitant populations, tailor information that is friendly to them and disseminate it through the various channels of communication. Alternatively, it can undertake a mass communication campaign by distributing non-tailored information to the general populace. Extensive training of healthcare providers and other relevant stakeholders in the health sector would make them the voice against the fear.
+Vaccine hesitancy has risen so astronomically in the West that the WHO cited it as a threat to global health in 2019. Kenya should not suffer this collective error of judgment. Let us remind ourselves of the health maladies that vaccines have helped to erase from the face of the earth — the bubonic plague, smallpox, rinderpest and even the biblical leprosy are now extinct. More recently, vaccines have been instrumental in fighting the deadly Ebola.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+We should not let negative voices undermine the role of immunization in curbing vaccine-preventable diseases. Vaccines tested and tried in the crucible of medical and human experience should not be at the mercy of superficial thought and critique. Polycarp Igathe wants the High Court to determine whether his resignation three years ago was formalised. Igad's fact-finding mission says there is no evidence that Kenya violated Somalia's sovereignty. He has warned against embracing some foreign vaccines, and also cautioned against the cervical cancer vaccine, claiming it had made some women infertile.
