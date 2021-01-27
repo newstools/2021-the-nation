@@ -1,0 +1,73 @@
+In our data-driven world, big technology firms are using every loophole in the law to siphon zillions of private data for free and without consent, which they use to mint billions of dollars in ad revenue.
+But while the developed world has taken huge steps towards curbing the malpractice, African countries are — whether inadvertently or intentionally — abetting the vice by delaying to enact data protection laws and playing a hands-off role when it comes to citizen awareness in this critical topic.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+}, 62000);
+}
+
+
+
+As at today, World Data Privacy Day ,only 24 out of Africa’s 54 countries have a data law, or at least related regulations or policies. But even the existing regulations are not punitive enough to curtail data breaches by rogue tech companies in the business of selling data to third parties with impunity.
+
+
+
+
+
+For instance, the Kenya Data Protection Act of 2019 will only fine one Sh5 million for violating the data law. Compare that to Sh2 billion for breaching the General Data Protection Regulation (GDPR) law in Europe.
+Facebook and Google have been fined billions of dollars for data malpractice through the GDPR but, in African countries that are slow to understand the sensitivity of the subject, the tech behemoths are taking advantage of an existential information gap.
+Just recently, Facebook even had the audacity to tell its WhatsApp users that their data will be shared across platforms, not revealing what their algorithms do with that data. As ‘netizens’ in the developed countries uninstall the app and move to Signal, in Africa, the reverse is happening. There are even more WhatsApp downloads; with just a few of their peers on Signal, they cannot afford to lose the juicy chats on their WhatsApp group.
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+}, 62000);
+}
+
+
+
+Recently, WhatsApp, which is owned by Facebook, posted on its newly introduced status feature that it cares about people’s privacy. Well, we all remember how the Cambridge Analytica scandal, orchestrated with support from Facebook, was accused of having undermined Kenya’s democracy in past elections.
+Don't care
+Africans’ gullibility, their lack of understanding of data privacy, is hurting the global war against data breach. The tragedy is that the few who understand don’t care about their secret data being misused or sold.
+The Schrems II judgment, delivered on July 16, 2020 by the Court of Justice of the European Union (EU), set a much-anticipated precedent regarding the transfer of data from one country to another.
+Max Schrems, a user of Facebook since 2008, had filed a complaint requesting, in essence, that Facebook Ireland Limited be prohibited from transferring his personal data to its United States-based parent company, Facebook Inc., on grounds that the law and practice in force in the US did not ensure adequate protection of the personal data held in its territory against the surveillance activities of its security agencies.
+
+
+
+
+
+The court ruled: “Where it is proved that contractual clauses are not or cannot be complied with in the destination country, transfer of personal data to such country should be prohibited by the national data protection regulator since, by their inherently contractual nature, such clauses are not capable of being binding on the governmental authorities of that country.”
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+}, 62000);
+}
+
+
+
+But even with such a precedent to protect Africa, we see little or no commitment in letting citizens acknowledge their right to data privacy, with governments allowing companies to introduce facial recognition ‘solutions’ without the consent of the image owners.
+Kenya now has an Office of the Data Commissioner but has done absolutely nothing to sensitise citizens on their right to data use. So, data-hungry companies keep amassing data related to users’ identity, geo-location, lifestyle, relationship, shopping, thoughts and ideologies to make predictions for marketing companies — without consent.
+Africa remains in the dark as foreign countries come, siphon all the data they want, analyse it, manufacture products related to your changing preferences, sell them to you and pay taxes only to their home countries without a fuss about committing data crime. Polycarp Igathe wants the High Court to determine whether his resignation three years ago was formalised. Igad's fact-finding mission says there is no evidence that Kenya violated Somalia's sovereignty. He has warned against embracing some foreign vaccines, and also cautioned against the cervical cancer vaccine, claiming it had made some women infertile.
