@@ -72,6 +72,17 @@ Trump’s presidency has been characterised by numerous best-selling books about
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 In Rage by Bob Woodward, the author cites interviews where Jared Kushner, the president’s advisor, marvelled at how Trump effectively used Twitter: “If the president didn’t tweet it, it didn’t happen. You send out a press release and nobody cares. He puts out a tweet and it’s on CNN one minute later”.
