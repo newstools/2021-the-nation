@@ -21,6 +21,17 @@ For other sectors, a total of Sh 1.29 trillion had been restructured mainly to t
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 The CBK said of the Sh35.2 billion that was released by the lowering of the Cash Reserve Ratio (CRR) in March, Sh32.6 billion (92.7 percent) has been used to support lending, especially to the tourism, trade and transport and communication, real estate, manufacturing and agriculture sectors.
@@ -53,22 +64,6 @@ googletag.display("mobile-article-ad-3");
 setInterval(function refreshAds() {
 googletag.cmd.push(function adCommands() {
 googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
-});
-}, 62000);
-}
-
-
-
-
-
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
 });
 }, 62000);
 } Embakasi West had the highest number of people infected at 60 per cent. The medical agency rejected an offer from Northlink GSC Ltd, which was ready to supply PPE at Sh4,500 instead of the Sh9,000. TI noted that the report revealed a direct link between persistent corruption and management of the Covid-19 pandemic.
