@@ -97,17 +97,6 @@ On the flip side, the Kenya National Highways Authority (Kenha) owes HP Gauff In
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 
