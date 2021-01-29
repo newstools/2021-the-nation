@@ -22,6 +22,17 @@ The GDP recorded a negative growth of 5.7 percent in the second quarter between 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Before the decline in quarter two of 2020, the economy last contracted in the third quarter of 2008, when post-election violence led to a 1.6% drop in output, according to the statistics office. The agency only started publishing quarterly GDP data in 2000.
@@ -107,17 +118,6 @@ The CBK said of the Sh35.2 billion that was released by the lowering of the Cash
 The Monetary Policy Committee (MPC) on Thursday retained the CBK base lending rate at 7 percent, which means that banks will retain the rates they are charging borrowers at the current levels.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
