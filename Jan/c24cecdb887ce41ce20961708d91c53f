@@ -80,17 +80,6 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 Amendment Act No. 18 of 1996 of the Zambian Constitution, in Article 34(3)(b), states: “A person shall be qualified to be a candidate for election as President if … both his parents are Zambians by birth or descent…”
