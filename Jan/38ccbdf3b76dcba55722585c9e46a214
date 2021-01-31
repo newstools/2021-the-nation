@@ -104,6 +104,17 @@ Even using vernacular radio broadcasts is not enough. You must go to the ground 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 A president is not the same as a technocrat. A president's job is first and foremost political. Technocrats implement projects. Presidents sell agendas.
