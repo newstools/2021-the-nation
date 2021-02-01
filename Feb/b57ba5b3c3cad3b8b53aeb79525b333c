@@ -221,12 +221,6 @@ Like other mandarins in the Nyayo regime who found safety in starting banks, Nya
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 
@@ -258,12 +252,6 @@ After that, Mr Nyachae was not only forced to hang his political boots but also,
 Once, he told parliament that he does not fear wananchi and that even when he was  Minister for Finance, he did not carry weapons: “I was licensed to have a gun in 1961, but I have never carried it. Even during weekends, I never carry a gun or bodyguard. I drive myself, I go round freely, and, therefore I do not need a gun. It is there and I never carry it.” 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-5");
-});
-}
 
 
 
