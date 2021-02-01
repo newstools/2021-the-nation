@@ -22,6 +22,17 @@ The Nation has changed her name to Abrehet Negash to protect her identity.
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 Abrehet, a mother of two, owned a shop before the conflict erupted and now has nothing left to support her family.
@@ -168,6 +179,12 @@ googletag.display("mobile-article-ad-6");
 "For the past two months, they have been using water from the river near the refugee camp to cook, drink and bathe. That is why diarrhea has worsened," it said.
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+}
 
 
 
