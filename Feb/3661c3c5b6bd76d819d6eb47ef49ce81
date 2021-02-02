@@ -81,17 +81,6 @@ Ms Aruasa said that Ruto has unmatched energy and that no one will beat him in s
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 “The President said in broad daylight that he will serve for 10 years and then support DP Ruto. What has changed now?” he said.
