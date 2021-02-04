@@ -23,17 +23,6 @@ He was accused of assaulting a Mr Alex Kioko, thereby occasioning him bodily har
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 He appeared before Kiambu senior principal magistrate Stella Ataambo.
