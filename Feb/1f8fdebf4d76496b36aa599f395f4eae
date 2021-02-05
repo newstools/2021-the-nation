@@ -22,6 +22,17 @@ Born in 1954 in Ogwashi Ukwu, in Delta State, western Nigeria, her father is a t
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 "She is not just liked in Nigeria, she is loved, because she is a symbol, and people are gunning for her because of what she represents for womanhood," said Hassan.
@@ -58,17 +69,6 @@ She was recently named the African Union's special envoy to mobilise internation
 Okonjo-Iweala has warned that growing protectionism and nationalism have been spurred on by the crisis and insists barriers need to be lowered to help the world recover.
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
