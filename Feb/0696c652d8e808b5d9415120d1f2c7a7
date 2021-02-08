@@ -20,17 +20,6 @@ It is one thing to be an obnoxious thug with an outlandish dress sense and quite
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 For the record, I have absolutely no time for Mr Sonko. In the annals of Kenyan leadership, he remains a tragic error and the sooner he is removed from positions of responsibility, the better.
