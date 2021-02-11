@@ -22,17 +22,6 @@ By that, they were digging in on Farmaajo’s own invitation which on Tuesday as
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 That proposal had been accepted by Puntland and Jubbaland states, but they disagreed on the venue, asking Farmaajo to relocate the meeting to Mogadishu and involve every other stakeholder including political parties, aspirants, civil society activists and the international community.
@@ -76,6 +65,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 “Farmaajo doesn't have a mandate to convene a meeting,” said Abdishakur Abdirahman, leader of Wadajir Party and one of the presidential aspirants.
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
