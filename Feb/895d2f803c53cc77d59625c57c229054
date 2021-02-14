@@ -24,6 +24,17 @@ On November 25, 2020, the Constitution of Kenya (Amendment) Bill, 2020, a produc
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -64,6 +75,17 @@ The seven consolidated suits have raised about 17 issues for determination. Some
 Is the BBI constitutional bill a popular initiative as envisaged under Article 257 of the 2010 Constitution? Was there a legislation or administrative structure governing the collection, endorsement, presentation and verification of the signatures? Can the county assemblies and Parliament alter or improve the contents of the constitutional amendment bill so as to incorporate views emanating from public participation? Should the amendment be voted for by citizens as one amendment or  as multiple questions? 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
@@ -114,6 +136,17 @@ Public participation on the constitutional bill should involve all citizens with
 Public fora preceded by civic education are necessary for constitutional review. If for legal bills, policies and other matters, county assemblies do hold public fora, this should be replicated for the BBI constitutional proposals. Token or symbolic public participation should be avoided. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
 
 
 
