@@ -26,17 +26,6 @@ Read: As Devani signed oil import deal in Nairobi, a full ship was already berth
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -87,17 +76,6 @@ With the contract between Total Kenya and Triton being terminated, the nation wa
 Worse, an internal audit ordered by the Kenya Pipeline Company (KPC) into the disappearance of the fuel was about to be released to investigators. It had more shocking details on how the scandal was executed. Mr Devani and Mr Pathak knew they had to be far away. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
@@ -198,6 +176,12 @@ Soon, politicians were scrambling for Mr Devani’s attention. So influential wa
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+}
+
 
 
 
@@ -248,12 +232,6 @@ Improving economy
 An improving economy under the National Rainbow Coalition (Narc) government meant a sharp increase in the demand for petroleum products. The Kenya Petroleum Refinery in Mombasa, which was providing 40 per cent of the local demand, was finding it hard to meet the eight million litres of petrol that it was supposed to produce daily. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-5");
-});
-}
 
 
 
