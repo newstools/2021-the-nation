@@ -28,17 +28,6 @@ Kenya Pipeline Company (KPC) had at the same time shut down its infrastructure a
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -183,17 +172,6 @@ He also said the Ministry of Energy had been consulted through PS Nyoike, who th
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -245,12 +223,6 @@ Two days later, on July 7, Triton CEO Yagnesh Devani arrived at Kenpipe Plaza ac
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 
@@ -288,6 +260,12 @@ With access to finances and the huge storage space his company already had at KO
 The scheme was put in motion on the very day Triton and KPC signed the CFA. As Mr Devani, Mr Somala, Dr Ochuodho, Mr Mecha and Mr Kapten were at Kenpipe Plaza signing the CFA and posing for media cameras, a ship was already berthed at Kipevu. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+}
 
 
 
