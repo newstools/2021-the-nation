@@ -71,17 +71,6 @@ Governor Oparanya is expected to meet the MCAs on Monday to rally them to pass t
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -220,12 +209,6 @@ The MCAs are not the only ones reaping big. A number of groups also making a kil
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
-
 
 
 
@@ -278,6 +261,12 @@ googletag.display("mobile-article-ad-8");
 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+}
 
 
 
