@@ -83,6 +83,17 @@ Two Weeks ago, Mr Mudavadi was hosted by European Union ambassadors as well as t
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -145,17 +156,6 @@ Political analysts Javas Bigambo, Mark Bichache and Dismas Mokua argue that any 
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -214,12 +214,6 @@ googletag.display("mobile-article-ad-6");
 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
 
 
 
