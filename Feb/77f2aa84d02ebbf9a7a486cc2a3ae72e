@@ -89,6 +89,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -100,4 +111,4 @@ The judge also noted that according to Section 48(7) of the Labour Relations Act
 
 The notices are to be forwarded to the union.  
 
-jwangui@ke.nationmedia.com Cotu boss says he will make this move should the CS fail to withdraw a circular stopping medics from remitting dues to unions. For the past two years, the teacher’s union and TSC have had strained relations and have been embroiled in disputes. ODM leader says his focus is the BBI and announces a "Super Tuesday" by when 24 assemblies will have passed the bill. The Tanganyika Law Society (TLS) says the government should declare a second wave and issue scientific measures for the public to observe. MCAs seek to arm-twist the government into acceding to their demand for car grants as they vote for the document.
+jwangui@ke.nationmedia.com Cotu boss says he will make this move should the CS fail to withdraw a circular stopping medics from remitting dues to unions. For the past two years, the teacher’s union and TSC have had strained relations and have been embroiled in disputes. MCAs seek to arm-twist the government into acceding to their demand for car grants as they vote for the document. Deputy President’s ‘hustler’ ideology has divided opinion among civil society actors who have taken opposing sides. On Monday, Kenyans noticed the perfect contrast in the burial rites accorded to two powerful, influential politicians.
