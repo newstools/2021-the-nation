@@ -291,6 +291,12 @@ Rowland had by this time moved his headquarters to Nairobi and appointed Mark To
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+}
+
 
 
 
