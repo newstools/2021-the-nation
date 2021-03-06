@@ -79,6 +79,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -111,4 +122,4 @@ We are still waiting for the bacterial analysis report. Mycoplasma bacteria take
 
 Two weeks from the visit, Joyce reported the rales in the birds had stopped and the eggs were getting back to normal. The laying percentage had risen close to normal. 
 
-jmugachia@yahoo.com To prevent the widespread of diseases, farmers must learn how to detect the early symptoms on their crops. At the age of 74, Ludava put in Sh500,000 into farming venture and so far, he is doing well. Plan will see an extra 150 poll units in the past 10 years, nearly twice the number added over previous 47 years. President Kenyatta wants the public to be cautious about politicians making empty promises. He is accused of attacking an IEBC officer during the by-election on Thursday.
+jmugachia@yahoo.com To prevent the widespread of diseases, farmers must learn how to detect the early symptoms on their crops. At the age of 74, Ludava put in Sh500,000 into farming venture and so far, he is doing well. Abandoned by his biological parents, Dr Gitamo has overcome many challenges in life to realise his ‘American Dream’. Plan will see an extra 150 poll units in the past 10 years, nearly twice the number added over previous 47 years. President Kenyatta wants the public to be cautious about politicians making empty promises.
