@@ -26,6 +26,17 @@ A masked Ouattara voted in the plush Cocody neighbourhood of Abidjan, Ivory Coas
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -78,17 +89,6 @@ Ouattara reached out to Gbagbo, whom he forced out in April 2011 after a post-el
 After his ouster, Gbagbo, 75, was flown to the International Criminal Court in The Hague to face war crimes charges arising from that conflict. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
