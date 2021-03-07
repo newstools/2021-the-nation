@@ -32,6 +32,17 @@ I have always tried to avoid discussing the position of Deputy Party Leader. At 
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -84,6 +95,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 So you try your best to be accommodative, to be patient and see if there is any room for correction of that approach they have taken and it took more than a year. So by the time a decision is made, they have made it no longer tenable for them to occupy that position. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
 
 
 
@@ -142,6 +164,17 @@ googletag.display("mobile-article-ad-5");
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -173,12 +206,6 @@ We have not opposed the BBI, what we are saying is that we need consensus — a 
 Again, the timing of BBI is wrong: the cost implications are enormous. We know now that our debt portfolio is Sh1 trillion a year, we have coronavirus ravaging the world, why champion constitutional amendments in the middle of a global pandemic? 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
 
 
 
