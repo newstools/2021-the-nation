@@ -33,6 +33,17 @@ The DP is on the record accusing the Western Kenya voters “misusing” him, no
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -103,6 +114,17 @@ googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -138,17 +160,6 @@ In public, DP’s allies hold the elections were a success and that things can o
 “Today after the intimidation, police attacks, voter bribery, lobbying teargas canisters at us, the great people of Nakuru Town, London Ward stood firm and voted for Antony Wachira Nzuki. No one can stop hustler nation, an idea whose time has come. Thank you Nakuru. We love you,” Elgeyo Marakwet Senator Kipchumba Murkomen said yesterday. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
@@ -198,12 +209,6 @@ Jamaa wa kitendawili
 “A person like jamaa wa kitendawili (in reference to former Prime Minister Raila Odinga) and Watermelon don’t even know where Kirigara is. They don’t even know what the hustlers go through,” Dr Ruto told parents and students of Kirigara Primary and Secondary schools in Imenti Central. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-4");
-});
-}
 
 
 
