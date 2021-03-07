@@ -215,6 +215,12 @@ googletag.display("mobile-article-ad-6");
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+}
+
 
 
 
@@ -256,6 +262,12 @@ Last evening, the President’s men, who felt that Mr Mohamed’s sentiments cou
 Sources indicated that they were making frantic efforts to get hold of Mr Odinga to call his troops to order. 
 
 
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+}
 
 
 
