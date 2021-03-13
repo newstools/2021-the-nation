@@ -24,17 +24,6 @@ Mr Muthama told the court he was apprehensive that his ambitions to vie for elec
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -129,17 +118,6 @@ After Justice Lenaola’s ruling, Mr Mwau proceeded to the Court of Appeal, wher
 Efforts to get comments from Ms Kavindu were fruitless as her mobile phone went unanswered but she told several rallies over the weekend that she couldn’t be endorsed by President Uhuru Kenyatta and Wiper party leader Kalonzo Musyoka, if she didn’t have the right credentials. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
