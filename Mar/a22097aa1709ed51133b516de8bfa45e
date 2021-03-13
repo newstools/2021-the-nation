@@ -22,17 +22,6 @@ A communique released by the 15-member Peace and Security Council called for “
 
 
 
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-1");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
-});
-}, 62000);
-}
-
 
 
 
@@ -69,17 +58,6 @@ Moroccan Minister of Foreign Affairs Nasser Bourita had written to Kenyan counte
 Morocco had lobbied so hard ahead of the meeting, they contacted ODM leader Raila Odinga, the African Union High Representative for Infrastructure Development to help pass the message. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-2");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
-});
-}, 62000);
-}
 
 
 
