@@ -102,6 +102,17 @@ James Ochieng’s entry into the company was in 1979, when he started working at
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
@@ -175,17 +186,6 @@ When he was retrenched in 2008, he had worked for the company for 21 years, havi
 “People who used to wear clothes with a waist size of 38 now wear size 24. Some of them have become beggars, and even these chokoras (street children) you see in town, some of them are children of our former colleagues. It breaks my heart,” says Wanga. 
 
 
-
-if (shouldRenderAd(false)) {
-googletag.cmd.push(function () {
-googletag.display("desktop-article-ad-3");
-});
-setInterval(function refreshAds() {
-googletag.cmd.push(function adCommands() {
-googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
-});
-}, 62000);
-}
 
 
 
