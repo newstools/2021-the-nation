@@ -67,6 +67,17 @@ However, Mr Chebukati declared that no such information will be passed to the bu
 
 
 
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+}, 62000);
+}
+
 
 
 
