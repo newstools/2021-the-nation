@@ -1,0 +1,135 @@
+The Kenya National Highway Authority has begun remedial works at the Makupa Causeway in Mombasa County to repair a section that was vandalized.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Traffic along the busy Makupa Causeway channel that leads to the Moi International Airport and the Standard Gauge Railway (SGR) was temporarily interrupted on Friday afternoon. 
+
+Motorists using the bridge which connects Mombasa Island to the mainland were forced to use the lower inbound road to get in and out of the city as the Authority continued with the repairs from 2pm for at least 3 hours. 
+
+KeNHA Coast Regional Deputy Director Howard M’mayi stated that the Changamwe bound direction from Mombasa Island would be closed to motorists as they try to prop up the remaining part of the bridge that was cut off and taken by vandals. 
+
+Traffic diversion 
+
+“All traffic shall be diverted to the Mombasa island-bound traffic carriageway to allow the necessary repair works. We request motorists to exercise caution around the work areas and to comply with the proposed traffic management plan and directions given by traffic marshals," KeNHA added. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Already the contractor, Fountain Construction Company Limited, is on site to begin work which the Authority says is an emergency. 
+
+The contractor will use structural timber, steel I sections, steel plates and jacks to prop the area which was destroyed.  
+
+Mr M’mayi said the vandals made away with two out of four beams supporting the bridge from below compromising its structural integrity. He however noted that the deck of the bridge which was made of reinforced concrete making the bridge still usable. 
+
+“We cannot let it stay like that, we are having interventions to prop up the deck and ensure that it can continue carrying traffic for the next 12 or so months before the new Makupa Bridge is completed. 
+
+We could take two to three days to complete the emergency repairs and there are plans of closing the outbound carriageway for at least 3 hours,” Mr M’mayi added. 
+
+
+
+
+
+
+
+
+
+
+
+Part of the Makupa Cause Way bridge in Mombasa that vandals cut off the steel structure. 
+Photo credit: Wachira Mwangi I Nation media Group.
+
+ 
+
+He said they are working closely with the security teams to pursue the vandals and called on the National Assembly to hasten legislations on vandalism which is yet to see the light of day. 
+
+“We need all people working with scrap metals to have an inventory of where these metals are coming from to clamp down on destruction of critical infrastructure. This is extreme,” Mr M’mayi said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Makupa Causeway which is one of the three road links between the island and mainland, the others being Nyali bridge and Kipevu Causeway was built by the British colonial government built in 1929 serving as the main road link between the island and the hinterland. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress. A court ruling has eliminated one of the hurdles in Anne Kananu's path to becoming governor. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
