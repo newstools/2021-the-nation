@@ -1,0 +1,91 @@
+While dismissing the case, the appellate court said the case had been overtaken by events as Ms Kananu was took the oath of office as deputy governor in January. A court ruling has eliminated one of the hurdles that prevented Nairobi Deputy Governor Anne Kananu from assuming office as the city’s third governor. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Court of Appeal on Friday dismissed a case filed by former Governor Mike Sonko, stopping Ms Kananu from being sworn-in as deputy governor and subsequently assuming office as governor. 
+
+While dismissing the case, the appellate court said the case had been overtaken by events as Ms Kananu was took the oath of office as deputy governor in January. 
+
+"The court does not, and ought not, make orders in vain, or engage in an academic exercise," the ruling stated. 
+
+"Accordingly, we agree that the instant application has been overtaken by events and dismiss it with no order as to costs.” 
+
+Sonko’s case 
+
+In the petition, Sonko sought conservatory orders injuncting the implementation of a January 15 ruling by High Court Judge Anthony Mrima. 
+
+The ruling by Justice Mrima paved the way for Ms Kananu’s vetting by the Nairobi County Assembly and her subsequent swearing-in as deputy governor. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Activists Okiya Omtatah and Habib Omar Kombo, the Nairobi County Assembly, Speaker Benson Mutura, Clerk Edward Gichana, Ms Kananu, the Attorney-General, the Senate and the Independent Electoral and Boundaries Commission (IEBC) were listed as respondents. 
+
+The  former City Hall boss wanted Ms Kananu restrained from being sworn-in as the deputy governor and from assuming the office of, or executing the functions of Nairobi governor, pending the hearing and determination of an intended appeal against the ruling by Justice Mrima. 
+
+Mr Omtatah and the IEBC did not file any papers either in support or in opposition to the application, a move which was a blow to Sonko. 
+
+Further, the remaining respondents opposed the application. 
+
+They stated, inter alia, that the application had been overtaken by events because of the January 15 oath-taking. 
+
+"That is not denied by the applicant, and in any event, it is a notorious fact that is in the public domain," read the ruling in support of the respondents. 
+
+comulo@ke.nationmedia.com A litany of court cases put paid to the by-election by the IEBC that was to be held today. While congratulations for Ms Mwenda have flowed, others have condemned the manner in which she was elevated. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
