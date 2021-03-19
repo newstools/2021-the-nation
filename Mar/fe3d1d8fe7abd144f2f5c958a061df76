@@ -1,0 +1,77 @@
+Machakos IEBC returning officer Joyce Wanyama has declared Wiper's Agnes Kavindu Muthama the winner of the just concluded Machakos senatorial by-election. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She bagged 104,352 votes followed by Urbanus Muthama Ngengele of UDA who bagged 19,726 votes. 
+
+Ms Wamalwa is among officials who were concerned by the low voter turnout recorded in the mini-poll. 21.9 per cent of the 623, 536 registered voters voted. 
+
+Going forward, Ms Wamalwa urged politicians to ensure they mobilise voters to participate in elections. 
+
+The win ends weeks of electioneering characterised by intense campaigns that kicked off following the death of senator Boniface Kabaka three months ago. 
+
+The highlight of the campaigns were the last minute withdrawal of John Mutua Katuku, who was the Maendeleo Chap Chap Party candidate. Machakos governor Alfred Mutua said that the move was influenced by President Uhuru Kenyatta who asked all friendly parties in the race to consider working as one. 
+
+Many observers saw the by-election as a contest between Wiper leader Kalonzo Musyoka and Deputy President William Ruto who is associated with UDA. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The voters have spoken loudly that Machakos is Mr Musyoka's bedrock," Transport CAS Wavinya Ndeti said. Maendeleo Chap Chap leaders maintains that the party made a wise decision. Musyoka made fun of Muthama’s difficult moments, urging the clergy to pray for him. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab.
