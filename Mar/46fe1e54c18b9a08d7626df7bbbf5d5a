@@ -1,0 +1,138 @@
+Three weeks ago, Hadon Mwiti a resident of Bulapesa in Isiolo had parked his motorbike outside his shop around 9pm when it disappeared. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I suspect the motorbike was carried in a vehicle because I did not hear any sound,” Mr Mwiti told the Nation outside his shop. 
+
+Incidents of riders being robbed of their motorcycles at night, with some being maimed or killed, have been on the rise in recent weeks. 
+
+At least 10 operators say they have been robbed in the last month. 
+
+In separate incidents, two boda boda riders were killed on Wednesday night in unclear circumstances and their bodies dumped near Waso Primary School and Isiolo International Airport junction at the Isiolo-Meru border, leaving many residents and operators worried. 
+
+The two cases are being handled by police from Isiolo and Buuri in Meru County. 
+
+Preliminary investigations show that the youthful man whose body was found near Isiolo School could have been hit with a blunt object as he had an injury on the head. 
+
+Police are relying on his mobile phone communication to establish the people he communicated with before his death to nail the culprits. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While condemning the incident, politician Lucy Mworia condoled with the bereaved families and asked police to expedite investigations for those involved to be arrested and prosecuted. 
+
+“Police should move with speed and arrest those involved in the killing. The riders should also avoid working late in the night,” said Ms Mworia. 
+
+Isiolo Sub-County Police Commander George Kariuki said patrols had been intensified at the affected areas to arrest the situation for the riders to continue working uninterrupted. 
+
+Criminals stealing motorcycles 
+
+To contain cases of criminals stealing motorcycles and selling them while dismantled, the police boss observed that an intensive crackdown will be launched on spare parts dealers. 
+
+Boda boda riders have called for immediate interventions to correct the situation saying the business had been adversely affected. 
+
+“Our motorbikes have become like masks. We cannot leave them behind because you could find them stolen and have issues with the owner,” Mr David Kirimi, a boda boda rider, said. 
+
+The security team met officials of the bodaboda operators in efforts to ensure continued collaboration on security matters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We will continue engaging them (boda boda riders) in ensuring continued working together especially on sharing of information and fast reporting of cases so that we expeditiously act on the alerts,” Mr Kariuki said during an interview with Nation. 
+
+He urged residents to volunteer information that could assist police nab the suspects saying it will be handled with the utmost confidentiality. 
+
+Mr Kariuki lamented that a number of the theft cases were not being reported and asked those affected to share with authorities for action. 
+
+Ms Celina Mukiri, a resident, asked the county government to install security lights at the stretch between Kwa Franco and Waso Primary to help tame such incidents. 
+
+Isiolo County Police Commander Joseph Kigen and Governor Mohamed Kuti recently asked business people to install CCTV cameras in their shops for security purposes. 
+
+The county government in partnership with the security team is in the process of registering boda boda operators in a bid to streamline the sector and prevent infiltration by criminals. 
+
+The riders will after the registration have their motorcycles branded with distinct colours for identification purposes and instilling discipline in the riders. Riders in Isiolo, like in other parts of the country, are known for recklessness and disregard of traffic rules. The war started when a boda boda rider was burnt alive for allegedly stealing motor cycle spare parts. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
