@@ -1,0 +1,298 @@
+Bongo stars Diamond Platnumz and Rayvanny did not see it coming. They were flying high with hit after hit produced by Lizer of the famous Wasafi Records.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Then in December 2018, they flew too close to the sun: They released their song ‘Mwanza’ (not Nyegezi as most Kenyans know it). The raunchy song, in which they liberally use the words nyege (horny), was banned by the Tanzania Art Regulatory Board (Basata). 
+
+But the two went ahead and performed the song during the annual Wasafi festival tour, flouting the ban. Basata banned the duo from performing in Tanzania and abroad and ordered them to remove the “dirty song” from YouTube.  
+
+That was the first time the Wasafi artistes would have a run-in with the late President John Pombe Magufuli’s administration. 
+
+Read: The heavyweights behind Wasafi’s rapid success 
+
+As if to atone for the misstep, Diamond would, a year later, in November 2019, release the song ‘Baba Lao’, in which he heaps praises on the man many called a benevolent dictator. That appeared to thaw the relationship between Wasafi and the government but bigger things were to come. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With the announcement of the passing of Tanzania’s fifth president, Magufuli, there have been mixed reactions.  
+
+Magufuli was known for his no-nonsense approach, and everything changed when he assumed power in 2015. The entertainment industry was not spared. Artistes started feeling the heat. The freedom to do things as they pleased during President Jakaya Kikwete’s tenure, was gone. 
+
+It is for this reason that while most Tanzanian entertainers are grieving at Magufuli’s demise, others have rejoiced, openly or silently. 
+
+Mange Kimambi 
+
+The American-based socialite tweeted: “The president of my country has passed away. My first reaction was to celebrate because the last five years have been pure hell for anyone who opposed him. But I know I’m a better human being than him, so I’m going to try my best to mourn with my country.”. 
+
+Kimambi started as a socialite, then rose to prominence after becoming an activist. Before she turned to activism, she was as a well-known blogger who published gossip about celebrities and prominent people in Tanzania and the diaspora. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her popularity grew even further when she started attacking and criticising Magufuli’s government from the time he came to power.  
+
+Nay Wa Mitego  
+
+
+
+
+
+
+Tanzanian artiste Nay Wa Mitego. 
+Photo credit: File
+
+ 
+
+Nay, regarded as one of the most eloquent, gifted, open-minded and hard-hitting rappers was arrested at his home in Morogoro, over a song ‘Wapo’, which he had released in March 2017. In the song, he criticises Magufuli’s government. 
+
+Police boss Ulrich Matei at the time confirmed to Mwananchi newspaper that the rapper had been arrested for criticising the government in the song. 
+
+In the song, Nay asks if there is still freedom of speech in Tanzania. He also questioned why the government was awarding top jobs to officials with fake certificates. 
+
+The news of his arrest gained traction in Tanzania. 
+
+However, after a day with the police, Nay was released, with the Information Minister at the time, Mr Harrison Mwakyembe, stating that President Magufuli “loved” the song and had asked Nay to “improve” it by taking on other issues such as tax evaders and corrupt officers. 
+
+Nay opted not to eulogise Magufuli on his social media, instead taking a swipe at compatriot and fellow artiste Harmonize for recording himself live on Instagram breaking down following the news of Magufuli’s death.  
+
+Roma Mkatoliki  
+
+
+
+
+
+
+Tanzanian rapper Roma Mkatoliki.
+Photo credit: File
+
+ 
+
+A month after Nay was arrested in March 2017, rapper Roma who had been at loggerheads with the Tanzanian government long before Magufuli came to power, mysteriously disappeared after he was picked up by unknown people from his studio in Dar es Salaam. His music recording equipment was also confiscated.   
+
+At the time of the incident, one of Roma’s close friends Joff Msumule was quoted saying the abductors were plainclothes policemen who had information that the rapper was preparing to release a song criticising Magufuli’s regime.  
+
+Roma was found a week later but never revealed much of what transpired following his abduction.  
+
+A year later, his song ‘Kibamia’ was banned and the rapper was suspended by the government from engaging in music for six months.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Roma fled to the US, where he has continued to release music. He is yet to mourn Magufuli, at least not publicly. 
+
+10 Banned Tanzanian songs 
+
+In February 2018, Tanzania Communications Regulatory Authority (TCRA), banned 10 songs from the country’s media and airwaves, terming them immoral. 
+
+The songs included Diamond Platnumz’s ‘Hallelujah’ featuring Morgan Heritage, ‘Waka Waka’ featuring Rick Ross, ‘Kibamia’ by Roma, ‘Chura’ and ‘Nimevurugwa’ by Snura, ‘Nampa Papa’ by Gigy Money, ‘Uzuri Wako’ by Juma Jux, ‘Nampaga’ by Barnaba, ‘Tema Mate Tumchape’ by Madee and ‘Pale Kati Patamu’ and ‘Maku Makuz’ by Nay. 
+
+In its statement, TCRA explained that it had relied on the advice of Basata. 
+
+TCRA noted that the songs were obscene and unfit for public consumption as they contravened the country’s 2005 content law. 
+
+Wasafi TV ban 
+
+In January 2021, TCRA was at it again, suspending Diamond Platnumz’s TV station Wasafi TV, for six months. 
+
+TCRA acting director Johannes Kalungule said Wasafi TV had violated broadcast regulations during a live show where the station aired socialite-cum-singer Gigy Money dancing at a concert while scantily dressed. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the authority reviewed the penalties it had imposed on the station and lifted the suspension on February 28. 
+
+Controversial Internet law 
+
+A controversial Internet law came into effect in 2015 just as Magufuli was ascending to the presidency. 
+
+Under the law, a majority of Tanzanian celebrities found themselves in trouble with Basata as it became illegal to post raunchy or steamy videos or pictures online. 
+
+Last year, rapper Rosa Ree was banned from engaging in music for six months after she shared a steamy promo video with Kenyan rapper Timmy Tdat for their song ‘Vitamin U’, on her Instagram. 
+
+She was also fined Sh95,000 even after she defended herself, saying her only mistake was trying to support Timmy’s project. 
+
+Model and actress Wema Sepetu also had a run-in with Basata and the Tanzania Films Commission after she was banned for sharing a video of herself making out with an ex-lover on Instagram. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Idris Sultan arrested 
+
+
+
+
+
+
+Idris Sultan, Big Brother Hotshots winner. 
+Photo credit: File | BBA
+
+ 
+
+Comedian Idris Sultan has also had a rough time in the past two years. In 2020, he faced cyberbullying charges after he shared a picture of himself laughing at an old photo of President Magufuli, in which he was wearing an oversized suit. 
+
+The 2014 Big Brother Africa winner was accused of contravening the Tanzania Cybercrimes Act of 2015. He was arrested and initially denied bail, however, he was released after some days in custody. 
+
+That was not the first time Idris had run into trouble with the law in his attempts to entertain his legion of fans. 
+
+In October 2019, he was ordered to report to the nearest police station after ‘swapping’ faces with Magufuli using photo editing software. 
+
+Idris then shared the photo as he wished the President a happy birthday.  
+
+However, the then Dar es Salaam Regional Commander Paul Makonda blasted him for going too far with his jokes. Idris apologised and was later released from the police station where he had surrendered to, as had been ordered by Mr Makonda. Tanzanian president was flown to Kenya secretly on March 8 after suffering acute cardiac and respiratory illnesses. In September 2018, he denounced family planning and asked women to shun contraceptives. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
