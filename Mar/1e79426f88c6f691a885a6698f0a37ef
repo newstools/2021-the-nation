@@ -1,0 +1,87 @@
+The second goal was however fiercely contested by Mathare United players, who were claiming the ball didn't cross the line. Posta Rangers continued their resurgence under new coach Stanley Okumbi in the Football Kenya Premier League after edging out relegation-threatened Mathare United 2-0 at Moi International Sports Centre Kasarani Annex on Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Alex Lungaji and second half substitute Amos Kigadi scored in the sixth and 80th minutes to give Okumbi a second successive win in the league. 
+
+The second goal was however fiercely contested by Mathare United players, who were claiming the ball didn't cross the line. 
+
+The loss piled more pressure on under-fire Mahare United boss Salim Ali. Mathare have not won a league match since beating bottom placed Zoo 2-0 at the same venue on January 18. They have now lost nine matches in the league and recorded only one win. 
+
+This was the second win for Rangers coach Stanley Okumbi after 1-0 beating of defending champions Gor Mahia two weeks ago. Okumbi took over the reigns at the club last month from Sammy 'Pamzo' Omoĺlo. 
+
+Okumbi was elated by his team's performance saying the level of confidence among his players is improving with each game after dismal start to the season. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We are working hard not to concede and now utilising the chances which come our way.  It was a tactical game, we executed our plan right and I attribute to improvement in our level of confidence," said the former Harambee Stars coach. 
+
+Ali bemoaned lack of clinical finishers, before slamming the referee. 
+
+"The ball didn't cross the line in the second goal awarded to them. You could see that even in the body language of my defenders," said Ali. 
+
+"Our main problem is the we are not scoring. However, it is good now we are playing as a team and in any event we concede then we should be scoring," he added. 
+
+The win took Rangers tally to 17 points after 16 matches but they remain 14th because of inferior goal difference to 13th placed Ulinzi Stars. Mathare are 17th with nine points from 14 games. 
+
+Mathare will have their custodian David Okello to blame for the first goal after his poor handling of low shot cost them in the early moments of the game. 
+
+Okello failed to grab the ball firmly and it slipped, before he made a frantic attempt to save it but it was too late. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
