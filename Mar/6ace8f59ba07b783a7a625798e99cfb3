@@ -1,0 +1,81 @@
+The German-based remote software firm will replace car manufacturers Chevrolet, who have been the English giants' main shirt sponsor since 2014Despite a decline in on-field performance since Alex Ferguson's retirement as manager in 2013, United's strong commercial appeal has allowed the Red Devils to maintain their position as the Premier League's wealthiest club London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester United have agreed a five-year deal with TeamViewer to become their principal shirt sponsor from next season. 
+
+The German-based remote software firm will replace car manufacturers Chevrolet, who have been the English giants' main shirt sponsor since 2014. 
+
+A world record deal when it was agreed in 2012, United's seven-year deal with Chevrolet was worth a reported $559 million (£401 million). 
+
+No figures were disclosed by the club on the value of the new deal. 
+
+In a statement, United's managing director Richard Arnold said: "We are tremendously proud to be establishing this partnership with one of the most exciting and dynamic global software companies. 
+
+"The ability to connect and collaborate has never been more important to the world and our community of 1.1 billion fans and followers. 
+
+"We are looking forward to working with TeamViewer to bring to life our vision for a partnership built on smarter ways of connecting people and businesses." 
+
+Despite a decline in on-field performance since Alex Ferguson's retirement as manager in 2013, United's strong commercial appeal has allowed the Red Devils to maintain their position as the Premier League's wealthiest club. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+United were fourth in the latest version of Deloitte's Football Money League, which ranks clubs based on their revenue, behind Spanish giants Barcelona and Real Madrid and European champions Bayern Munich. Everton have not won a major trophy since the 1995 FA Cup and they go into the City clash after two successive league defeats. Atletico have seen their lead at the top of the table reduced to four points from Barcelona. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
