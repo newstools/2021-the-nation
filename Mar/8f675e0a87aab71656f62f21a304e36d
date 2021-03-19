@@ -1,0 +1,168 @@
+Residents of Wiyoni in Lamu Island are accusing the county and national governments of neglect, in putting up a seawall, to prevent their houses from being swept away by the Indian Ocean. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Seawalls are crucial and common in almost all the islands across the Lamu archipelago, as they are erected along the seashores to prevent the overflow of water from the Indian Ocean to residential areas. 
+
+A spot check by nation.africa established that many buildings and even mosques in Wiyoni are at risk of being swept away by the Indian Ocean, after the previous seawall collapsed. 
+
+Some buildings have already been submerged in water, a situation that locals say is likely to cause disaster. 
+
+Ali Athman, a nyumba kumi official at Wiyoni, said at least 10 houses have been affected. 
+
+Mr Athman says it is worse, especially during the evening, when the Indian Ocean tidal waves are rough and strong. 
+
+
+
+
+
+
+
+
+
+
+
+A dilapidated seawall at Mkokoni Village in Lamu East. Residents are appealing to the government to construct new seawalls in the area.
+Photo credit: Kalume Kazungu I Nation Media Group. 
+
+ 
+
+He blamed the previous contractor for failing to put up stronger structures, that can withstand the constant strong ocean tides and instead putting up structurally unsound walls. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Athman says that in recent times, they have been forced to contend with frequent flow of water from the Indian Ocean into their houses and business premises, despite their frequent efforts to plead with the government to construct such a new seawall. 
+
+“The old Wiyoni seawall collapsed a while back. We are surrounded by the ocean and this risks our buildings being swept away or submerged in water. We have more than 10 houses, including our mosque, all of which border the Indian Ocean. We need seawalls that are strong enough to withstand the frequent knocks of the ocean waves,” said Mr Athman. 
+
+Zainab Salim, another resident, cited lack of maintenance as a key reason that led to the collapse of the Wiyoni seawall. 
+
+Collapsed 
+
+Ms Salim called for speedy construction of the seawall so that residents at Wiyoni can be relieved of the fear of their houses being swept away by the ocean waters. 
+
+“I blame both the national and county governments for neglecting the maintenance of the seawall here, causing it to collapse. Let them erect a new seawall and ensure it is well maintained,” said Ms Salim. 
+
+A similar situation is also facing residents of Mkokoni and Kizingitini in Lamu East, where seawalls have either collapsed or are in a dilapidated state. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mohamed Shosi, an elder at Mkokoni village said living without the seawalls was a disaster in waiting. 
+
+“The seawalls in this locality were built less than four years ago. Apart from the poor workmanship, they have not received the regular maintenance required, leading to their collapse. We need new seawalls built here,” said Mr Shosi. 
+
+Shukri Adnan, a resident said their biggest fear is waking up in the morning to find their village swept away by the Indian Ocean during high tides. 
+
+Mr Adnan noted that tens of residents whose houses are close to the shores have already been forced to relocate as their houses are filled with water. 
+
+“We not willing to relocate. That’s why we are pushing for the seawalls to be constructed as fast as possible. We are tired of living in water-filled houses. We need urgent intervention,” said Mr Adnan. 
+
+Contacted, Chief Structural Engineer in the State Department of  Public Works, Hillary Nyaanga said plans were underway to have all the dilapidated walls renovated. 
+
+
+
+
+
+
+
+
+
+
+
+Locals are pushing the government to construct seawalls to prevent their houses from being swept away by the Indian Ocean.
+Photo credit: Kalume Kazungu I Nation Media Group
+
+ 
+
+“At the moment, we are finalising the rehabilitation and construction of jetties in Lamu, including Mtangawanda, Mokowe, Mangrove and Manda Airport. After that, we shall embark on the improvement of the state of seawalls in Lamu," said Mr Nyaanga. 
+
+The national government has spent at least Sh700 million in the rehabilitation of Lamu jetties which are a crucial element in the water transportation sector in the region. 
+
+Efforts to seek comments from the Lamu County Chief Officer for Trade and Infrastructure, Atwa Salim were futile since he did not pick calls or respond to text messages sent. Private investor injects Sh150 million in exercise meant to attract more visitors to the citadel located at the Coast.  This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
