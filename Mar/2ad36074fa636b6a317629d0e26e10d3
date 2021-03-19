@@ -1,0 +1,79 @@
+Authorities in Ethiopia's Amhara regional state disclosed on Friday they have intercepted 30 individuals in a suspected case of human trafficking. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A press statement from the Lower Armacho Locality Communications Office, Central Gonder zone in Amhara regional state, said the 30 individuals were being transported secretly on a freight truck, when they were intercepted at a local security checkpoint. 
+
+The statement further said the driver of the freight vehicle and his assistant have been arrested on suspicion of engaging in a human trafficking operation. 
+
+The statement didn't specify the intended final destination of the 30 individuals that were being smuggled. 
+
+Although there are no exact estimates on the number of Ethiopians trafficked annually to foreign countries, it's estimated thousands of Ethiopians are trafficked to foreign countries annually. 
+
+The human trafficking goes through three different routes, with the northern one going through Sudan, Libya and Mediterranean Sea to reach the European mainland. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The second route goes east through Somalia, Djibouti and the Red Sea to reach Saudi Arabia. 
+
+The third one goes south through Kenya, Tanzania and Mozambique to reach South Africa. 
+
+Ethiopia has in recent years toughened its child welfare laws and anti-trafficking legislation to protect thousands of minors and youths that are estimated to be trafficked to various foreign destinations annually. Children, trafficked for sexual exploitation, forced labour and begging, constituted 30 per cent of all incidents observed in Sub-Saharan Africa. Over 1.5 billion young people out of school globally at increased risk of online harm This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
