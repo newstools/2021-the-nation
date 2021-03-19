@@ -1,0 +1,79 @@
+A new political alliance has been formed in Somalia by those opposing President Mohamed Abdullahi Farmaajo’s administration, the group announced Thursday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The members include the 15-member Coalition of Presidential Candidates (CPC), the presidents of Jubbaland and Puntland States, two of the five Federal Member States (FMS) under the Federal Government of Somalia (FGS). 
+
+The group selected Senate Speaker Abdi Hashi Abdullahi to lead the association, with the help of former president Sharif Sheikh Ahmed, Jubbaland President Ahmed Mohamed Islam Madobe and Puntland President Said Abdullahi Deni. 
+
+Speaker Abdullahi, who hails from Somaliland, is an ardent unionist and a hard-hitting opponent of Farmaajo whose term in office lapsed on February 8, but remains in Villa Somalia following flopped elections. 
+
+The announcement comes at a time the FGS was expected to negotiate with regional leaders on the implementation mechanisms of the indirect electoral system agreed upon on September 17, 2020. 
+
+The new alliance, the National Salvation Council (NSC), was formed following a series of meetings between March 14 and 18 in Mogadishu. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a statement, the NSC said the group has been “discussing for some time to reach a consensus on the election modalities.” But President Farmaajo is an obstacle to the election process, it added. 
+
+Somalia failed to hold elections in December last year as scheduled, with President Farmaajo’s term coming to an end on February 8. However, based on a legal motion endorsed by the Federal Parliament in September last year, he will remain in office as an election has not been held. The motion said all incumbents leave office once new ones are elected and sworn in. 
+
+However, his stay in office divided leaders. On one hand are those who believe that the parliamentary resolution was right, while on the other are those who say that extension of the term is illegal; that a mere parliamentary resolution is not enough. Opposition politicians and their supporters were demonstrating against delayed elections. Somalia, facing an electoral impasse, has seen cases of Covid-19 rise significantly this month. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
