@@ -1,0 +1,154 @@
+Earlier on Friday, one of the governor's aides said he had spoken to him and that he did not have any difficulties. Meru Governor Kiraitu Murungi has tested positive for Covid-19, the county's Health executive Misheck Mutuma announced Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Mutuma said the county boss, who took the test last week, is isolating at his home in Nairobi County. 
+
+“He has been advised to self-isolate. He is okay ... he is doing very well. He will be back [to work] after a few days," Mr Mutuma said. 
+
+The Health executive said that by Friday, the county had at least 137 active Covid-19 cases, 79 of them of people in the home-based care programme. 
+
+
+
+
+
+
+Meru Governor Kiraitu Murungi is vaccinated against the coronavirus at the Meru Teaching and Referral Hospital on March 8, 2021.
+Photo credit: David Muchui | Nation Media Group
+
+ 
+
+While warning residents against dropping their guard, he said "this third wave is strong so you should take all the precautionary measures given by the Ministry of Health". 
+
+"The number of cases rises everyday," he said. 
+
+Deputy Governor Titus Ntuchiu said Mr Murungi was being observed by doctors. 
+
+"He is not in danger," he said. 
+
+Earlier on Friday, one of the governor's aides said he had spoken to him and that he did not have any difficulties. 
+
+"I spoke to him this morning and he was okay," the official said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Governor vaccinated 
+
+Mr Murungi's diagnosis comes more than a week after he took the Covid-19 vaccine jab. 
+
+He was the first one to be vaccinated in the county on March 8 and said he was leading by example. 
+
+The Health ministry says the vaccine doesn’t mean one cannot get or transmit Covid-19. 
+
+"It makes your immune system alert and primes it for the fight against the virus. It prevents severe cases of Covid-19, reducing the number of cases throughout the country," Chief Administrative Secretary Mercy Mwangangi told the press in Friday's briefing. 
+
+She said those vaccinated must still adhere to anti-virus measures. 
+
+
+
+
+
+
+Meru Governor Kiraitu Murungi hands over a box of Covid-19 vaccines to senior health officials in the county on March 8, 2021. 
+Photo credit: David Muchui | Nation Media Group
+
+ 
+
+When the governor took the jab, he warned politicians against speaking ill of the Oxford/AstraZeneca vaccine, following its rollout in the country and suspensions in others, especially in Europe, for reasons including links to blood clots. 
+
+“We urge all the frontline workers to take the vaccine. It will be available to all health workers in private and public facilities. The vaccine has undergone elaborate research so those discouraging Kenyans from taking it should stop,” he said. 
+
+He was accompanied by top health officials from the county, including county assembly Health committee chair Martin Mworia. They were all vaccinated on that day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Meru has received 6,000 vaccine doses and is targeting at least 3,000 health workers and security officers in the first round. The repeat dose will be administered after eight months. 
+
+dmuchui@ke.nationmedia.com and gmarete@ke.nationmedia.com European medical regulator says the jab is "safe and effective" and not associated with a higher blood clot risk. Senior health officials in the county were the first to receive the jab. This is until the ex-governor's petition on the violation of his rights is determined. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
