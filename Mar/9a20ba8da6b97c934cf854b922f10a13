@@ -1,0 +1,172 @@
+Doctors in Marsabit have warned residents against a diet rich in animal proteins because it is to blame for the rising cases of kidney failure in the county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The warning is also partly backed by findings in a study conducted by the county in 2019 with the help of development partners. 
+
+The Marsabit Integrated Smart Survey of 2019 indicates that in the northern county, consumption of protein-rich foods was high compared to other foods. 
+
+“In terms of the average number of days micronutrients are consumed in a household, the major micronutrients consumed in Marsabit County were protein, staples and oil/fats, which were consumed over five days in a week. 
+
+The least consumed was Vitamin A, which was consumed for a day a week. These results explain the deficiency in dietary micronutrient intake among households,” the report states. 
+
+The study was undertaken by county experts working with Unicef, USAid, Concern Worldwide, World food Programme and World Vision–Kenya. Others involved were Kenya Nutrition and Health ProgramPlus and Food for the Hungry. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite the lack of conclusive research on the number of people affected by the condition, preliminary analyses performed by medics have linked the high rate of prevalence in kidney complications in Marsabit County to excessive intake of animal proteins by the locals. 
+
+Speaking during the World Kidney Day celebration at Marsabit Referral Hospital, Health Executive Jamma Wolde revealed that the number of patients with renal complications handled in the facility had grown over the past three years. 
+
+“There’s a need for heightened sensitisation on kidney health among the residents since many suffer due to low cognition of the early warnings of the renal failures,” said Dr Wolde. 
+
+Renal treatment unit 
+
+He noted that the county referral hospital, which is the only place equipped with a renal treatment unit, does 176 dialysis sessions for 22 patients monthly, up from only two in 2018. 
+
+Dr Wolde said the increase in cases was due to unhealthy lifestyles, ignorance and the nomadic lifestyle prevalent in the region. 
+
+He attributed the high kidney complication prevalence to excessive animal protein intake, use of painkillers by miraa chewers and the sedentary lifestyles of the majority of the urban dwellers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Marsabit, livestock is the readily available source of food, especially for urban dwellers, as other foodstuffs required for a balanced diet are expensive.  
+
+In Marsabit, a cabbage sells for between Sh100 and Sh200. A kilo of sukuma wiki (kale) costs Sh100, while oranges and mangoes go for between Sh30 and Sh50 each. 
+
+Dr Wolde called for intensive sensitisation campaigns across the region on healthy diets and kidney health. 
+
+Marsabit Referral Hospital Renal Unit Coordinator Jarso Galgallo told journalists that out of every 10 patients attended to in the facility, one has renal complications. 
+
+Daily consumption 
+
+High protein diets are defined as daily consumption of greater than or equal to 1.5 grammes of proteins per day, which is almost twice the current recommended dietary allowance but within the range of current dietary reference intakes (DRIs) for protein. 
+
+The effect of a high-protein diet on the decline of kidney function has been rarely explored. 
+
+However, a high-protein diet increases the risk of renal hyperfiltration (RHF) which is increased glomerular filtration rate above normal values and rapid renal function has been reported in the general population especially the well-to-do families in the region. 
+
+According to Mr Galgallo, at the centre of the problem is the concern that habitual consumption of dietary protein above recommended amounts promotes chronic renal diseases through increased glomerular pressure and hyperfiltration. 
+
+He said that evidence suggests that protein-induced changes in renal function are likely a normal adaptive mechanism well within the functional limits of a healthy kidney. 
+
+Marsabit Renal Nutritionist Aisha Mohammed urged the persons at risk to uphold healthy living and watch what they eat. 
+
+She said people suffering from hypertension, diabetes and heart conditions are predisposed to kidney failures. 
+
+“I appeal to all the residents to ensure their diets are largely composed of low fats, low salt ,low sugar,adequate fruits and vegetables, constant early emptying of their bladders and exercising to combat renal failure,” Ms Mohammed said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Driven by superstition and demand for meat, locals and poachers go for the wild animal. Experts say abnormal weather patterns and climate changes have created ideal conditions for the locusts. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
