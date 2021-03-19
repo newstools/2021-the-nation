@@ -1,0 +1,232 @@
+King Goodwill Zwelithini kaBhekuzulu, who recently died at the age of 72, was the longest reigning of all Zulu kings on record. This was the 50th year of his incumbency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+His reign spanned turbulent decades in South Africa. He assumed the throne at the height of apartheid, and went on to rule through the country’s violent and turbulent decades, a period which included contestation of the role of the Zulu monarchy. This spilled over into post-apartheid South Africa when the country’s new constitution recognised traditional leaders along with its democratically elected representatives. 
+
+Chapter 12 – a single page – of the 1996 constitution of the democratic Republic of South Africa recognises traditional leaders, laws and customs in general terms. Subsequently, through specific and continually contested legislation, attempts were made to concretise such authority, despite discriminatory consequences for millions of South African citizens who were made subjects of this parallel system. 
+
+Kings and other traditional leaders have continued to demand lucrative recognition under this chapter. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Goodwill bore ideological power of value to himself and to others. Core was the repeated reminder that without a “predestined” king there would be no Zulu nation. 
+
+But kingship is an historical creation, wherever it is found. 
+
+So whom did his rule benefit? And at whose expense? Why, during apartheid and beyond, did politicians and economic interests rush to show support for this “king of goodwill”, as his authorised biographers punned? Why was his actual, and not just symbolic, landlordship ensured, at the last minute, under apartheid by the Ingonyama Trust, which placed all kwaZulu land under King Zwelithini as the only trustee? And why was this confirmed in the democratic period? 
+
+It is because such undemocratic centralised power is too big a temptation for those who seek to benefit. Access to – and manipulation of – such power explains the cynically justified acceptance over half a century of his political influence and ideological authority by politicians and capitalists. It enabled human and material exploitation through association, control over people as workers, justification for exclusion, votes from a specific group, and, more recently, access to what lies beneath the land on which the subjects live. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The history 
+
+Kingship and nation are inextricably linked. In this case it most commonly starts with Shaka, the warlord who defeated other clans, and became the original father of a Zulu nation, people of legendary courage and prowess in war. 
+
+The Zulus themselves had to be made subservient. In the 19th century this was initially through military defeat of Zulu armies and the kings who held them together. Defeats were inflicted by the trekboere – settlers who left the Cape to escape British rule, reaching KwaZulu Natal (Natal and Zululand) in the late 1830s – and then British colonial authority. 
+
+In the newly formed state, the Union of South Africa, from 1910, policy was less clear: white rule, yes, but what of the black majority? 
+
+Under the 1913 Land Act the country was divided into African residential occupancy areas and white controlled areas which housed big industry, including mines, and farming. Initially 87% of the land was designated to white control and the remainder was set aside as reserves for African people. 
+
+The idea was to ensure spatial separation in reserves, but economic integration through migrant labour. Migrant labour provided individual workers without their families the right to periodic employment in white controlled areas and farmlands. 
+
+But it was apartheid, and its policy of “separate development” from 1951, that step by step defined an essentially different approach to the inhabitants of these erstwhile reserves (“bantustans”). Determining who was going to be in charge became important. Ethnic nations would govern themselves, but under whom? 
+
+Enter a 23-year-old Goodwill Zwelithini. Through bizarre processes – described with naïve directness by his elder sister in the authorised biography – he was installed on December 1 1971 into a Zulu Territorial Authority. This had been newly created in terms of the 1959 Promotion of Bantu (later Black) Self-Government Act. His relative, Prince Mangosuthu Buthelezi, was already the chief executive officer. 
+
+Power battles 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Over the next few years, there were struggles for control. These involved, on the one hand, the apartheid state and some of the Zulu middle class, on the other, the KwaZulu Legislative Assembly under Buthelezi. 
+
+Buthelezi increasingly had backers, and “sides” were taken by national and international supporters. One example was the sugar industry and Progressive Party sponsoring a major event in the 1980s to explore an integrated KwaZulu as an example of what South Africa could be. 
+
+Pretoria, and those who saw benefits in bantustan independence such as businesses wanting to operate outside the control of the apartheid government, desired an executive king as existed in Swaziland (now eSwatini). They found this in the person of the immature and malleable Goodwill. Buthelezi and most of the KwaZulu Legislative Assembly needed, for their purposes, kingship as a binding factor of the people over whom they governed, but certainly could not afford a contesting seat of authority. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They were helped by the fact that Goodwill, under the bantustan constitution, had limited powers, and was simply assigned the role of a cultural figurehead. 
+
+“Independence” would have boosted apartheid policy nationally and internationally. KwaZulu, most prominent of the bantustans, would then have been a state equivalent to Swaziland and Lesotho. 
+
+But Buthelezi had national political ambitions, which demanded resistance against such fragmentation. To safeguard himself against the apartheid state removing him, he established a political base by launching Inkatha in 1975. This provided him with a base from which to consolidate his popular power among Zulus. Goodwill’s kingship provided important leverage for the organisation. 
+
+After Inkatha’s break with the African National Congress (ANC) from 1979, Goodwill served in an alignment against the largest trade union federation, the Congress of South African Trade Unions, as well as the United Democratic Front, a loose alliance mobilising against apartheid. The result was that the politics of Zulu kingship became deeply mired in a civil war over battles for popular support – for the time, as well as for the anticipated changes that were to come. These contestation grew during the transition from apartheid. Both positions – the ANC camp and the Inkatha camp – needed the support of Zulus through the king. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Power dynamics 
+
+King Zwelithini could define kingship during his reign, but only while he had the support of whoever wielded wider power. From apartheid’s bantustan schemes, to support for the politics of Inkatha and Buthelezi, and then to the new ruling party, he claimed to be a bearer of traditional authority. 
+
+For example, association with the Zulu kingship was important for the authority of South Africa’s former president Jacob Zuma. His claim to be “100% Zulu” brought him votes and legitimised his behaviour as he pillaged the republic. King Goodwill costs millions of rands per year, but provided value through votes, through the “brand” he provided the tourist industry, and access to the mineral wealth under the Ingonyama Trust land. Battles continue over the trust. 
+
+But for Inkatha’s push-back against homelands (bantustans), the apartheid state might have succeeded in installing Goodwill into a King Sobhuza II equivalent (in other words an executive king) in kwaZulu. After all, the Swazi model of supreme monarchy was in the making by the end of 1971, following its constitutional independence from Britain in 1968. 
+
+By the time of his death King Zwelithini was firmly established not as executive king, but certainly as powerful Ingonyama Trust landholder. 
+
+Report by Gerhard Maré, Emeritus Professor of Political Sociology, University of KwaZulu-Natal This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
