@@ -1,0 +1,153 @@
+In terms of vaccination, the Health ministry said a total of 28,255 frontline workers, among them health workers, teachers and security personnel. The Health ministry on Friday reported 28 new Covid-19 deaths in Kenya, the highest number of single-day fatalities in the country since the pandemic struck last March. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+These new deaths raised Kenya's death toll to 1,982, Chief Administrative Secretary (CAS) Mercy Mwangangi told the press at Afya House in Nairobi, during the daily briefing on the pandemic. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+As of Friday, the country had tested a total of 1,402,480 samples for the coronavirus. 
+
+Dr Mwangangi further reported 1,354 new infections in the same period, raising the total number of confirmed cases in Kenya so far to 118,889. She said these patients were found after the analysis of 7,732 samples in the past 24 hours. 
+
+Of the new patients, 1,301 were Kenyans and 53 foreigners, 719 male and 635 female, the youngest seven months old and the oldest 100. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Nairobi County remained in the lead with 717 of the new cases and was followed by Nakuru with 174, Kiambu 100, Machakos 55, Kiambu 40, Mombasa 35, Trans Nzoia 28, Nandi 27 and Kericho 25. 
+
+And then came Siaya with 17, Bomet and Kajiado with 13 each, Baringo 11, Kilifi 10, Taita Taveta, Meru and Nyandarua eight each, Busia, Mandera and Kakamega seven each, Makueni six, Murang'a five, and Kitui, Homa Bay and Nyamira four each.  
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bungoma, Migori and Nyeri counties had three new infections each, Tharaka Nithi and Embu two each, and Kirinyaga, Kwale, Laikipia, Marsabit, Uasin Gishu, Vihiga, Wajir and Elgeyo Marakwet one each. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+The number of recoveries grew by 185 to 89,388, with 136 of the patients having been discharged from the home-based care programme and 49 from health facilities countrywide. 
+
+In terms of vaccination, the Health ministry said a total of 28,255 frontline workers, among them health workers, teachers and security personnel, had been vaccinated by Friday. 
+
+Asked about cases where people who have been vaccinated have contracted the virus, the CAS explained that the vaccine doesn’t mean one cannot get or transmit Covid-19. 
+
+"The vaccine makes your immune system alert and primes it for the fight against the virus. It prevents severe cases of Covid-19, reducing the number of such cases throughout the country," Dr Mwangangi said. 
+
+She noted that those who have been vaccinated must therefore continue adhering to anti-virus measures. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ambuthia@ke.nationmedia.com A number of mysteries still surround the spread of the disease that has killed nearly 2.7 million people worldwide. President Uhuru Kenyatta and his Cabinet have kept off the vaccination campaigns. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
