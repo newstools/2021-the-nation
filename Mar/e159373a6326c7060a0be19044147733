@@ -1,0 +1,148 @@
+University and college students have begun receiving loans and bursaries from the Higher Education Loans Board (Helb), ending the long suffering that had led to thousands of learners starving in hostels. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Helb Chief Executive Officer Charles Ringera said the students will receive funds meant both for their upkeep and also for tuition. 
+
+“The pending student loan payments are currently being addressed and will be concluded by Thursday March 18, 2021,” he said. 
+
+On Wednesday, Helb said on Twitter that the board had received Sh2.8 billion from the National Treasury, being the quarter three capitation for the financial year 2020/2021. 
+
+On Thursday, the Nation confirmed that students had begun receiving the funds in their personal accounts. 
+
+“This is to confirm that the above named student was awarded a loan of Sh37,270.10 and the loan status is disbursed,” read a confirmation letter from Helb to one of the students. 
+
+Loan amounts 
+
+Helb gives minimum of Sh37,000 and a maximum of Sh60,000 as loan to a university student annually. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From the amount, Helb has released Sh4,000 for the first semester which ended in February for some universities and Sh4,000 for the second semester which began in early March to the students’ university fees account. 
+
+The remaining amount has been disbursed to the student’s personal account for personal upkeep. 
+
+For self-sponsored learners, the whole loan amount is sent to the student’s university fees account. 
+
+Technical education and vocational training (TVET) students have each received Sh30,000, which is the amount disbursed annually by Helb. 
+
+The National Treasury was supposed to release the funds before the end of last year to enable Helb to disburse the same to students but there was a delay. 
+
+New applications 
+
+Helb now awaits a further Sh3 billion from National Treasury to process loans for new applications. 
+
+The release of the funds brings to an end the suffering that students have endured, with some going for days without food. 
+
+Last week, Moi University students protested in Eldoret, calling for the government to release the funds after it emerged that first years had gone without food for days. 
+
+Students in other universities had to clear last semester’s fees to enable them do their exams. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The delay also led to some students turning to small businesses such as hawking to fund their stay in campus. 
+
+Mr Ringera said the delay in releasing the funds was caused by the National Treasury’s failure to disburse the funds in time. 
+
+M-Pesa 
+
+He said students will now be able to receive their Helb loans through M-Pesa as long as their mobile phone numbers are registered using their personal IDs. 
+
+However, students can choose to receive their funds through their personal bank accounts. 
+
+Mr Ringera said the only challenge with sending money through M-Pesa is the possibility of funds being sent to the wrong mobile phone numbers. 
+
+He said Helb discovered that most students, especially the first years, have registered their mobile phones using their parents’ ID cards, which may make it difficult to know if the money is going to the student. 
+
+“However, we are going to embark on a programme where we shall be confirming whether the mobile numbers given by students belong to them to eliminate fraud,” said Mr Ringera. 
+
+ 
+
+fnyamai@ke.nationmedia.com Like Helb, parents and guardians opt to ignore their children’s problems. The board has about 67,000 non-performing accounts with about Sh6.5 billion in unpaid loan. This is until the ex-governor's petition on the violation of his rights is determined. His diagnosis comes just a week after he received the Covid-19 vaccine jab. Wiper Party's candidate got 104,352 votes, her closest competitor Ngengele of UDA got 19,726.
