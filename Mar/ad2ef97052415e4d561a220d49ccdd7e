@@ -1,0 +1,74 @@
+Addis Ababa, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Africa is facing significant challenges in gaining access to Covid-19 vaccines, the Africa Centers for Disease Control and Prevention (Africa CDC) said Friday. 
+
+Poor access to vaccines has hindered the continent from achieving its goal of vaccinating at least 60 percent of its population, the public health agency said in a statement. 
+
+About 23.6 million doses of vaccine have been distributed across Africa by Monday, which corresponds to a continental coverage of only 1.7 percent, showed the Africa CDC figures. 
+
+The agency called on African countries to facilitate rapid access to safe and effective vaccines for preventing severe cases and related deaths. 
+
+"This is strategic for the control of the epidemic and the rapid return of the growth and development of the continent," the Africa CDC said. 
+
+As of Friday evening, Covid-19 cases had reached 4,076,147 in Africa, while the death toll from the pandemic stood at 108,998, it said. 
+
+Nine African countries have reported more than 100,000 cases, and South Africa, with 1,532,497 infections, remains the hardest hit. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The official mortality figures appear to be a major under-count of the real death toll. DRC had already received 1.7 million doses of AstraZeneca vaccine. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
