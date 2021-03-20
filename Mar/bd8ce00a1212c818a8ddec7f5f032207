@@ -1,0 +1,112 @@
+In terms of recoveries, the ministry reported 120 more, 75 of them in hospital and 45 under the home-based care programme, raising the total to 89,508. Kenya’s Covid-19 death toll on Saturday increased by 12 to 1,994, the Health ministry saying five of them were new and that seven were found in the ongoing audit of county records. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The country recorded 28 new deaths on Friday, the highest number ever since the pandemic was first confirmed within its borders on March 13, 2020. 
+
+In a statement, Health Cabinet Secretary Mutahi Kagwe also announced 1,274 new infections, out of a sample of 7,240 analysed in the past 24 hours, raising the total to 120,163. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+By Saturday, Kenya had tested 1,409,720 samples for the coronavirus disease. 
+
+Of the new patients, 1,205 were Kenyans and 69 foreigners, 674 male and 600 female, the youngest patient two months old and the oldest 97. 
+
+Nairobi County accounted for 640 of the cases, Nakuru 93, Kiambu 81, Uasin Gishu 66, Mombasa 57, Machakos 51, Turkana 42, Nyandarua 31, and Kilifi and Kisumu 24 each. 
+
+Kisii County followed with 16 new infections, Kajiado 15, Kitui 13, Laikipia 12, Murang’a 11, Meru 10, Bungoma, Kakamega and Trans Nzoia nine each, Siaya and Nyamira eight each, Narok seven, and Busia, Garissa and Nandi  six each. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And then came Embu with five, Nyeri, Taita Taveta and Tharaka Nithi three each, Elgeyo Marakwet two, and Vihiga, Homa Bay, Isiolo and Marsabit one each. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+In terms of recoveries, the ministry reported 120 more, 75 of them in hospital and 45 under the home-based care programme, raising the total to 89,508. 
+
+As of Saturday, the CS said, 845 patients had admitted to health facilities countywide while 2,405 were being treated at home. 
+
+The number of those in intensive care units remained at 123, with 33 of the patients on ventilatory support, 87 on supplemental oxygen and three patients under observation. 
+
+Another 59 patients were separately on supplementary oxygen, 41 of them in general wards and 18 in high dependency units. 
+
+ambutha@ke.nationmedia.com A number of mysteries still surround the spread of the disease that has killed nearly 2.7 million people worldwide. The country has recorded 28 more deaths and 1,354 new infections, the highest numbers since last March. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
