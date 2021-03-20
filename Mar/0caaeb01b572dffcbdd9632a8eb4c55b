@@ -1,0 +1,74 @@
+US President Joe Biden on Friday lost his footing and tripped multiple times while walking up the steps to Air Force One. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The American leader, 78, had proceeded swiftly about halfway up the airstairs to the presidential jet when he stumbled. 
+
+Holding on to the railing with his right hand, he attempted a quick recovery but tripped again, this time dropping to his knee. 
+
+Biden stood up, paused and brushed his left pant leg before he headed up to the top of the airstairs, turned and saluted, and then entered the aircraft. 
+
+Air Force One took off shortly afterwards from outside the capital Washington for a flight to Atlanta, where Biden was to meet members of the Asian-American community which has been shocked by a series of shootings in massage parlors. 
+
+"He is doing fine. He is doing just great," deputy press secretary Karine Jean-Pierre told reporters about Biden's stumble. 
+
+Biden, the oldest president ever to take office, made a point of hustling to his appearances while on the campaign trail. 
+
+Last year he was routinely seen jogging up steps to a stage or towards a podium. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
