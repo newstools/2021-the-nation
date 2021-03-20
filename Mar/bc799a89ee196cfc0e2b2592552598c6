@@ -1,0 +1,112 @@
+What you need to know: Pancras Karema is the CEO at Expeditions Maasai Safaris, a tour and travel company based in NairobiIn 2020 she won the annual Founder of the Year (FOYA) Awards while still under 30 Pancras Karema is the CEO at Expeditions Maasai Safaris, a tour and travel company based in Nairobi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2020 I was honoured to win the annual Founder of the Year (FOYA) Awards under 30. This was not just a validation of my business, but also a consolation in a year that saw many businesses in my sector go under. In 2018 I also won the Young Entrepreneur of the Year award. 
+
+A business idea is only as good as the market it hopes to target. You need to establish a solution that draws in your target audience and follow it through with a bulletproof execution plan. You will encounter many challenges ranging from finding suitable employees to accepting rejections from clients with grace. Without a good plan, you will not survive. 
+
+I have had to master the skill of budgeting to properly manage capital allocation. Adhering to a strict budget allows me to stay in control of the business’ finances in 2020. What has worked for me is to focus only on the business’ core expenses. 
+
+In 2020, I lost my dad, Dr. Karema. He was my biggest cheerleader, way before this business became a tangible enterprise. Navigating a global pandemic as a young entrepreneur without my father’s guidance has been tough. We almost closed, but we have adapted. Our company has now scaled to greater heights. I have learnt not to be afraid of failure, the more you learn the better you get at executing your dream. Never cave in to the pressure to be perfect in the public’s eye. Rather than striving to fit into the marketplace, follow your gut and stay true to your dream. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As a first time entrepreneur, I knew little about financial management. Like most young entrepreneurs just getting their feet wet, I was a little overwhelmed as there are so many numbers to track. Now that I have experience in the game, I have an easier time keeping my financial records in order and saving a portion in income generating investments.   
+
+It’s quite refreshing to see more youth choose entrepreneurship over employment. Africa and the world need more innovations, and the younger generations are proving they’ve got what it takes. I built a travel and tour company from scratch; I’m a fierce advocate for entrepreneurship. However, it’s okay to be employed. There is enough room for all of us to be whatever we want to be and to live a purposeful life.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Every business needs to evolve. This is why in 2018 I invented a flexible payment plan to enable travelers on a budget to afford decent holidays. This plan allows existing and aspiring travelers to pay for tour and travel packages in small installments without breaking the bank.   
+
+Not all decisions pan out greatly. Always be prepared to manage problems you have no control over. I have learnt that execution most times requires more time and money than initially anticipated. In life, make financial independence your ultimate goal. When you’re no longer worried about how much money you’re making, only then can you focus on making a difference in the lives of others. 
+
+mburusymonn@gmail.com American stock regulator discloses Sh139.5bn mobile clinics debt deal with Canadian and Belarus firms. The country’s sole power distribution company is technically insolvent. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
