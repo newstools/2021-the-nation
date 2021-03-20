@@ -1,0 +1,120 @@
+We have witnessed countless situations where societies are accepting of women as deputies but not as the number one. We have seen male leaders appointing women deputies just to tick the gender box and appeal to female voters. Samia Suluhu Hassan is set to be Tanzania’s first female president after the death of Dr John Pombe Magufuli. She is going to be the second female head of state in the East Africa, after Sylvie Kinigi, who served as acting President of Burundi from October 1993 to February 1994. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Suluhu becomes president at a delicate period in Tanzania’s history, amid intrigues in the Magufuli succession. The Constitution is firmly on her side, but are there guarantees that this will be a smooth ride for her? 
+
+I am having flashbacks from 2012, when former Malawian President Bingu wa Mutharika died in April and his vice-president Joyce Banda was set to take over.  
+
+In a book that I am currently enjoying, Women and Leadership by Julia Gillard and Ngozi Okonjo- Iweala, Joyce Banda details how some elements in government did everything in their power –including appointing the president’s brother against the law — to prevent her swearing in. 
+
+In fact, the law in Malawi stated that upon the death of the president, the vice-president should hold a Cabinet meeting and later be sworn in immediately. A Cabinet meeting was held without Dr Banda . Eventually she called a Cabinet meeting and was sworn in as president, but not without a fight. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I hope that the disrespect, sidelining and undermining that Joyce Banda endured will not follow Suluhu and thrust the country into unnecessary tension.  
+
+Smooth transition of power 
+
+I just pray that Suluhu will be spared the shenanigans faced by Banda and our neighbours next door will take the time to rightfully reflect on the Magufuli era while also according the Covid-19 fight the seriousness it deserves. 
+
+If our brothers and sisters across the border accord Suluhu the respect and dignity she deserves as a leader, then this will be a testament — and a glowing example — of a progressive society that is comfortable with female leadership. If not, many of us will be gravely disappointed. 
+
+I say this because we have witnessed countless situations where societies are accepting of women as deputies but not as the number one.  
+
+We are okay with women and girls doing well but not too well. We have seen male leaders appointing women deputies just to tick the gender box and appeal to female voters but never quite believe in the leadership capacities of these women.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the same book, Banda narrates how President Mutharika went against his word to support her for the presidency and instead told her that he would be backing his brother. Turns out that the grim reaper had other plans for President Mutharika. 
+
+We look forward to a smooth transition of power in Tanzania and hope our fellow East Africans support their first female head of state and her leadership will be an inspiration to women and girls. 
+
+Dr Chege is the Director, Innovation Centre at Aga Khan University; Njoki.chege@aku.edu The best gift she ever gave Kenyans was protecting the forest with everything she had. We must challenge stereotypes that define how people should act and behave based on their gender. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
