@@ -1,0 +1,144 @@
+The new President is expected to nominate a person, usually an MP who belongs to the same party or coalition as herself. Approval is a formality but could tell a lot about succession in the ruling Chama Cha Mapinduzi. President Samia Suluhu Hassan is expected to name a vice-president soon but the procedure is lengthy, meaning the actual office holder may not start the job until next week. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Under the law, the President is expected to nominate a person, usually an MP who belongs to the same party or coalition as herself.  
+
+Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. 
+
+Once the name is endorsed by the party, it is forwarded to debate in the National Assembly in Dodoma, the administrative capital of Tanzania.  
+
+The name must be endorsed by more than half of the MPs. CCM controls 262 of the 264 constituencies and has most nominated MPs, making it the party with absolute majority. 
+
+Essentially, the approval is expected to be a formality. But it could also say something about succession politics in Tanzania.  
+
+As a form of negotiated democracy, a presidents from the mainland appoint VP from the archipelago. With Ms Hassan coming from Zanzibar, it is expected she will name her deputy from the mainland. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+CCM factions 
+
+University of Dar es Salaam lecturer Muhidini Shangwe says the incoming vice-president should be a person who capable of reconcile CCM factions.  
+
+Faraja Christomus, another University of Dar es Salaam don with an understanding of Tanzania’s political terrain, says the vice-president will be charged with the responsibility of promoting national hope for a prosperous future, picking up from where Ms Hassan left under Magufuli. 
+
+“Big projects were started by former President Magufuli, so Tanzania will need a person who will support them under the stewardship of Ms Hassan,” Christomus said.  
+
+He cited Prime Minister Kassim Majaliwa as a suitable candidate for the vice-presidency “because he has a track record as an effective leader, especially his supervisory role of projects under Magufuli”.  
+
+Another name that has been floated by political pundits is Bumbuli MP January Makamba.  
+
+Makamba, once served as Minister of State in the Vice President’s Office for Union Affairs and Environment under Presidents Jakaya Kikwete and Magufuli. 
+
+He was, however, dismissed by the latter.Analysts say Makamba is a potential vice president candidate because of his knowledge on national matters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Makamba, the son of former CCM leader Yusuf Makamba, has in the past attempted to be party president but failed to garner enough support to make it on the shortlist. He has endeared himself with ordinary citizens, especially the youth, with his transparent style of leadership. 
+
+Another frontrunner 
+
+The other frontrunner is Foreign Affairs and East African Cooperation Minister Palamagamba Kabudi, a Magafuli devotee. Prof Kabudi has been on the frontline during negotiations of most big contracts and projects involving Tanzania and international organisations. He has also served as Minister of Constitution and Legal Affairs for two years under President Magufuli. 
+
+He has experience in international affairs.   
+
+Tanzania Chief Secretary, who also served as Chama Cha Mapinduzi Secretary-General Bashiru Ally, is another potential candidate for the VP position. Mr Ally was very close to Magufuli to the point of being made the country’s Chief Secretary following the death of John Kijazi.  
+
+Mr Ally is credited for leading the committee that traced stolen ruling party’s assets. He is an outspoken and results-oriented leader.  
+
+Former Minister for Home Affairs and MP of Songea Town Emmanuel Nchimbi is another name that is making headlines for possible nomination as the country’s second-in-command.  
+
+Mr Nchimbi is an experienced administrator who has held many positions in the government, such as being deputy minister of information, culture and sports, deputy minister of labour, employment and youth development and deputy minister of defence and national service. 
+
+His most recent position is Minister of Home Affairs.Mr Nchimbi, who is Tanzania’s ambassador to Brazil, has experience dealing with sensitive national affairs.  
+
+As Home Affairs minister, Nchimbi handled immigration matters and dealth directly with police.  
+
+hnachilongo@tz.nationmedia.com; Additional reporting by Aggrey Mutambo Pombe expelled pregnant schoolgirls, disallowed re-entry of teen mums, but Suluhu can demonstrate transformational leadership Under the constitution, she will serve the remainder of Magufuli's second five-year term, which does not expire until 2025. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
