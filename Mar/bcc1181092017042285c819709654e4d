@@ -1,0 +1,146 @@
+President Uhuru Kenyatta eulogised Kikwai as a devoted public servant who was deeply committed to everybody's progress and wellbeing. Kericho Deputy Governor Susan Kikwai is dead. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kericho Governor Paul Chepkwony said that his deputy succumbed to Covid-19 at 10am on Saturday. 
+
+Speaking at a press briefing at the Council of Governors offices in Nairobi on Saturday afternoon, Prof Chepkwony said funeral arrangements will be announced at a later date after full consultation with the family. 
+
+“Our deputy governor tested positive of Covid-19 and succumbed to the virus this morning. 
+
+"I urge Kenyans not to lower their guard, the disease is real. Let us take the containment measures set by the government seriously,” said Prof Chepkwony. 
+
+"Major blow" 
+
+The county boss, who was accompanied at the press briefing by Kericho Senator Aaron Cheruiyot and Ainamoi MP Sylvanus Maritim, expressed his condolences to the family, residents of Kericho and the country for the loss. 
+
+“We are proud of her achievement both as deputy governor and while serving in national government before plunging into politics. We celebrate her life as she was admired by many,” said Mr Cheruiyot. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Maritim said: “She was a hardworking deputy governor and we shall miss her. I am urging Kenyans to observe the regulations set by the government.” 
+
+Bomet Governor Hillary Barchok in a separate statement said, “The loss of Kikwai is a major blow to the leadership of South Rift region, the people of Kericho and the country.” 
+
+ “It is unfortunate that we have lost her at a time her valued administrative and leadership skills were needed in the region. I pray to God to give the family the strength to bear with the loss,” said Dr Barchok. 
+
+Fight against virus 
+
+Kikwai was serving her second term as the deputy to Kericho Governor Paul Chepkwony after the two were elected in 2013 and re-elected in the 2017 general election on a Jubilee party ticket. 
+
+She took the final blow at a time when she was at the front-line in ensuring Kericho residents adhered to all the Covid-19 containment measures set by the Ministry of Health. 
+
+“The fight against Covid-19 cannot be left to the government alone. It is a team effort that requires partnership with the private sector,” Ms Kikwai posted on Twitter in 2020. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Before plunging into politics, Ms Kikwai served as the managing director of Kenya Investment Authority (KenInvest) between 2005 and 2012. 
+
+Following her death, former Council of Governors chairman Isaac Ruto said, “I have learnt with shock and disbelief the passing on of Kikwai whom I have known for many years. 
+
+“She was a dedicated servant of the people who served in government as a technocrat and later a politician. May God give the family the fortitude to bear with the loss.” 
+
+“Ms Kikwai was a hard-working, focused and down to earth leader whose administrative skills will be missed by Kericho county and the country at large. May she rest in peace,” said Belgut MP Nelson Koech. 
+
+Kericho Woman Representative Florence Bore said “the demise of Ms Kikwai is a big blow to the people of Kericho and negates the progress made in entrenching women leadership in the country,” 
+
+Mrs Mary Rotich, the Kenya Union of Post Primary Education Teachers (Kuppet) Kericho branch said “The death of the Kericho deputy governor came as a shock and a major setback to women leadership as she was a trailblazer in the political front and as a technocrat of high standing.” 
+
+Uhuru's message 
+
+In his condolence message, President Uhuru Kenyatta eulogised Kikwai as a devoted public servant who was deeply committed to the progress and wellbeing of the Kericho community and all Kenyans in general. 
+
+The Head of State recalled the period when Kikwai served as the managing director of KenInvest. 
+
+She highly promoted Kenya as an attractive destination for foreign and local investment, Mr Kenyatta said. 
+
+“Susan was a great public servant. While working for the national government, she was instrumental in attracting various domestic, regional and international investments," he added. 
+
+vkimutai@ke.nationmedia.com Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
