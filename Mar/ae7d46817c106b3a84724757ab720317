@@ -1,0 +1,224 @@
+The Deputy President is a most sought-after guest of honour for fundraising meetings, owing to his deep pockets and generosity.But the donations are causing controversy, with some of the would-be beneficiaries crying foul. A battle for Deputy President William Ruto’s money is raging as groups angle for a share, leading to fights among his supporters and detractors. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The DP has built a reputation as a donor during fundraisers, making him one of the most sought-after guests of honour.  
+
+
+
+
+
+
+Deputy President William Ruto at Ntharene Market in Imenti South, Meru County, on March 5, 2021.
+Photo credit: Charles Wanyoro | Nation Media Group
+
+ 
+
+It at times requires months of advance notice to book him for an event. Priority is often given to his allies, events that appeal to the masses and those that amplify his “hustler” narrative.  
+
+The latest row is over a bus donated to Kianjai Girls’ Secondary School in Meru county. DP Ruto contributed Sh3.5 million of the Sh6.5 million budgeted for the bus and launched it during his tour of the region this month. 
+
+But according to a lobby, the bus vanished shortly after it was presented to the school on March 6. 
+
+Yesterday, Isuzu East Africa said the bus, which it said the school started paying for in September 2019 and completed in December last year, has never left its yard. 
+
+“The 46-seater bus was completed recently and number plates issued. We expect to make delivery to the school next week,” Isuzu EA Communications Manager Dancan Muhindi said in a statement to media houses. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deputy President William Ruto drives the new Kianjai Girls Secondary School bus in Meru on March 6, 2021.
+Photo credit: DPPS
+
+ 
+
+Mr Muhindi later told the Nation in the evening that the bus launched by Mr Ruto was different from the one at Isuzu EA. 
+
+He added that the vehicle at the ceremony came from Kenya Vehicle Manufacturers (KVM) Ltd, an Isuzu EA authorised body builder. 
+
+“There was an arrangement between the KVM and the school. For a ceremonial handover, the bus can be different from what was ordered,” Mr Muhindi said. 
+
+Contacted, the DP’s spokesman Emmanuel Tallam said Isuzu EA had already clarified the matter. 
+
+“The bus was bought by CDF and the Deputy President was a contributor. Tigania West MP John Mutunga can clarify which bus was handed over to the school,” Mr Tallam said. 
+
+Blaming DP’s political enemies, Dr Mutunga said the vehicle was released before being completed. 
+
+“Isuzu EA agreed to give us the bus for a ceremonial handover. It will be completed later. I cannot bring the DP all the way from Nairobi for a fake ceremony, yet we’ve been planning this for six months,” the lawmaker said. 
+
+Another fight is raging in Sotik, with bodabodas accusing area MP Dominic Koskei and his Emurua Dikirr counterpart Johanna Ngeno of disappearing with money raised by the DP for their savings and credit society. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Carrying twigs and placards, the riders urged the DP to intervene. 
+
+“There was a fundsdrive in Ndanai on February 15. We have not received the money to date. Our MP said he gave Ruto the money,” Mr Robin Koskei, one of the riders, said.  
+
+The riders asked the Ethics and Anti-Corruption Commission (EACC) and Directorate of Criminal Investigations (DCI) to quizz the two lawmakers and establish where the money is. 
+
+“We feel shortchanged. The DP should return and help us,” Sotik Boda Boda chairman Isaiah Kirwa said. Mr Ngeno told the Nation yesterday that he is not aware of the money and directed the Nation to the area MP, who did not pick our calls. 
+
+“Mr Koskei should be in a better position to answer that. I went to Sotik and asked the riders what they know about the claims. They said they were misled to include my name,” Mr Ngeno said yesterday. 
+
+“Honourable Koskei is launching the sacco tomorrow and it would be prudent if you talk to him.” 
+
+A more ugly fight is taking place in Kitengela, Kajiado county. 
+
+Some 7,512 bodabodas are quarrelling over the sharing of Sh750,000 that was reportedly given to them by the DP. Fingers are pointing at the riders’ leadership and area politicians. 
+
+The money was intended to start income-generating projects for the riders. 
+
+Some of the riders trace the problem to a meeting at the DP’s residence in Karen. 
+
+They say local politicians altered the list of attendants and invited riders who don’t belong to their group.  
+
+The money was given to the boda bodas by Nominated Senator Mary Seneta, with Sh650,000 going to the Kitengela team, while Sh100,000 went to Isinya. 
+
+Initially, the riders said the money was meant for the Kitengela group alone. 
+
+There was a near commotion when the money was handed to the Kitengela bodaboda leadership at a local hotel. 
+
+Some riders were locked out of the venue and the money split. Many riders say they never received anything while others pocketed as little as Sh100. 
+
+Kitengela Boda Boda Sacco splinter group chairman Daniel Muiruri said the riders made a mistake to invite politicians at the event. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We were tricked by politicians. We never received a coin as the money was shared at bodaboda stages. We will find other means to fund our projects,” Mr Muiruri said. 
+
+Political adversaries 
+
+Kitengela Boda Boda Sacco chairman Stephen Motiso said politicians used riders to fight one another. 
+
+Mr Talam asked the Nation to direct the questions to the lawmakers concerned even as he denied knowledge of the other cases where groups received cash the DP’s home. 
+
+Belgut MP Nelson Koech and his Turkana North colleague Christopher Nakileau came out in defence of the DP yesterday. 
+
+Mr Koech said the fights are being fanned by “our political adversaries are envious of the DP’s economic empowerment programmes. 
+
+By Onyango K’Onyango, Stanley Ngotho and David Muchui A group, "Tigania Eye", alleges that the bus belonged to another school. United Democratic Alliance will not field candidates for Garissa Senate and and Juja parliamentary by-elections. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
