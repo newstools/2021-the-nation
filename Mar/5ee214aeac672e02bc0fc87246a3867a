@@ -1,0 +1,130 @@
+The VP, who is currently abroad, urged South Sudanese to remain vigilant in order to protect themselves and their loved ones from the deadly disease. South Sudan's Fifth Vice President has contracted the novel coronavirus, her press office has confirmed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a Facebook post seen by The EastAfrican on Friday, Vice President Rebecca Nyandeng De Mabior, who is also in charge of the Gender and Youth cluster in the unity government, said she decided to get tested after exhibiting symptoms. 
+
+“She is in good spirits. All necessary precautions are being taken to protect her health and that of the people around her. The symptoms are currently mild. However, the Vice President will self-isolate for two weeks while her condition is closely monitored,” the press office said. 
+
+The VP, who is currently abroad, urged South Sudanese to remain vigilant in order to protect themselves and their loved ones from the deadly disease. 
+
+Other top officials 
+
+Ms Nyandeng is the last South Sudanese Vice President to contract Covid-19. 
+
+In May last year, South Sudan’s First Vice President Dr Riek Machar and his wife Angelina Teny, the minister of Defense and Veteran Affairs, became the first top government officials to publicly admit they had tested positive. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Weeks after his appointment, the chairman of the National Committee on Covid-19 and Fourth Vice President, Hussein Abdelbagi, confirmed that he too had also tested positive. 
+
+That very week, Second Vice President James Wani Igga revealed that he had contracted the virus. 
+
+Days after joining the unity government last year, Information Minister Michael Makuei Lueth announced that he tested positive for Covid-19.  
+
+That very week, the former minister for National Security, Dr Majak Agoot, also confirmed that he had gotten infected. 
+
+In December last year, former South Sudanese Ambassador to Russia and former Presidential Legal Advisor, Telar Ring Deng, died at an Aspen medical facility days after declaring on social media that he was sick with the virus. 
+
+Office of the President 
+
+In February, more than 20 junior and senior administrators in South Sudan’s Office of the President contracted the virus. 
+
+They included Presidential Press Secretary Ateny Wek Ateny and President Salva Kiir’s policy analyst Madut Majok. 
+
+Last month, the Under Secretary at the Ministry of East African Affairs, Mou Mou Athian, succumbed to the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The South Sudan National Taskforce on Covid-19 in February reintroduced a partial lockdown amid a surge of cases across the country. 
+
+The body recently extended the lockdown for a month but the cases have continued to increase. 
+
+On Friday, South Sudan recorded 40 new infections, which raised its total number of confirmed cases to 9,489, including 106 deaths and 8,215 recoveries. Tanzania's opposition leader says the President had succumbed to coronavirus and the government was "lying even now that he is dead". As of Friday evening, Covid-19 cases had reached 4,076,147 in Africa. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President.
