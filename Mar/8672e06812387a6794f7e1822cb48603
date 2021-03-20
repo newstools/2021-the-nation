@@ -1,0 +1,93 @@
+The project is currently being implemented by Community Road Empowerment (CORE).Project targets vulnerable communities currently in need of access road improvement. The government of Japan, through UNDP, has embarked on a Sh21million accessible rural roads network project in Bungoma and Busia Counties.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The project titled ‘Stabilization and Recovery of Communities Affected by Violent Extremism, Conflict and Disasters in Kenya’ is currently being implemented by Community Road Empowerment (CORE). 
+
+The site manager, Amos Biwott, on Friday told journalists who visited the projects site at Kibochi village in Kanduyi constituency, Bungoma County, where a two-kilometer road is being constructed, that the project aims to support communities affected by disasters.  
+
+"Under this project, UNDP has incorporated other stakeholders such as National Drought Management Agency (NDMA), National Counter Terrorism Centre (NCTC), National Steering Committee (NSC), Toyota Kenya Foundation and Community Road Empowerment," said Mr Biwott. 
+
+Mr Biwott said that the project will create jobs for hundreds of youths who have been greatly affected by Covid-19 pandemic. 
+
+
+
+
+
+
+Youths construct a road in Kiboch village, Kanduyi Constituency in Bungoma County.
+Photo credit: Brian Ojamaa | Nation Media Group
+
+ 
+
+Youth empowerment 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The project will transfer knowledge and skills on Do-nou technology, thus empowering the youth to be self-reliant through opening accessible rural roads network," Mr Biwott said. 
+
+He explained that Do-nou is a Japanese word meaning wrapping soil in a gunny bag.  
+
+"The bags opening are properly secured with a string and laid systematic manner along the road, compacted and covered with a surface wearing course of gravel," he said. 
+
+Mr Biwott said that the project targets vulnerable communities currently in need of access road improvement in both Busia and Bungoma Counties due to flooding and other natural disasters.  
+
+"Through the support of Japan Government and UNDP, 50 youths in Bungoma County are currently benefiting directly from the project while 200 households and 2,000 members of community as the indirect beneficiaries of the 2km improved road access which lead to six primary schools, seven secondary schools and one local market.  But Kituyi tells Bungoma senator that his journey to State House is unstoppable. Last year, 562 people perished in road crashes during the same period. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
