@@ -1,0 +1,163 @@
+In many countries of Europe and Asia, schools that had reopened had to be hastily closed after only a week or two.It would be foolhardy for Africans to drop their guard in view of the variant that appears to have mutated its way from Europe to the continent. After almost a year during which children were forced to stay at home due to the ravages of Covid-19, it has been refreshing to see these young souls go back to school where they rightly belong during their crucial formative years. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Schools were re-opened in January this year after a great deal of soul-searching by the authorities and agitation by parents fearful for the well-being of their offspring, but it was inevitable. As it turned out, most of the fears expressed that schools would turn into Covid super-spreaders did not materialise. 
+
+After all, even as the authorities, parents and other education stakeholders took a huge gamble knowing very well that most schools were ill-prepared for pupils to adhere to the Covid-19 protocols, there is scant evidence that these institutions were at any time in danger of becoming centres of mass infection. This, of course, is not to say that it can’t happen, especially now that we are truly in the middle of the third wave of infections, but so far, our children have been spared the worst of the pandemic. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Even where school administrations provided running water and soap, hand sanitisers and face masks, and tried to enforce physical distancing, some things can only be explained as divine intervention. Perhaps, in good time, our scientists will find answers as to why our worst fears did not come to be considering that in many countries of Europe and Asia, for instance, schools that had reopened had to be hastily closed after only a week or two, and this in the early days of the pandemic. 
+
+About a month ago, I raised this issue with a medical doctor who also happens to be an educationist, asking him why Kenyan institutions had been spared, and what he said was shocking. 
+
+Level of immunity 
+
+Social distancing at school, he said, is a myth. This country has very few schools with the necessary infrastructure to accommodate thousands of pupils while keeping them at the recommended distance from one another. 
+
+Then why, I asked, are the children not falling sick and infecting others? To which he replied: “Oh, that happens all the time but in a day or two the symptoms disappear... the children may not even notice they had it”. 
+
+If this is true, then it means that the level of immunity enjoyed by African children is extremely high compared to their counterparts in more advanced countries.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, it would be extremely foolhardy for Africans to drop their guard in view of the variant that appears to have mutated its way from Europe to the continent. 
+
+According to a Unicef report this month, 168 million children globally have been out of school for a whole year due to Covid-19 lockdowns. While millions have fallen by the wayside, a huge number after getting pregnant or marrying early, others have been forced by poverty to take up menial jobs.  
+
+In Kenya, when schools reopened on January 4, 17 million children were supposed to return but thousands didn’t. This drop-out rate can only get worse when the children lose the taste for learning and their parents can’t force them to resume studies, or may not have the money for fees and other necessities. 
+
+Straight and narrow path 
+
+In the meantime, although the drop-out rate is already too high, the situation is likely get even more worrying with the prolonged school holidays that started this week.  
+
+According to the 2021 calendar, those pupils making the transition from the fourth to the fifth grade, and those who will have sat for the Standard Eight examinations and are expected to transition to secondary school, will have it rough. 
+
+After spending 10 months at home last year, they will have to do another four months and five days at home before they can resume school. And herein lies the danger, especially for girls who are still underage but whose bodies mature faster than their chronological age.  
+
+Judging from what happened when schools closed last year, a sizeable number will get pregnant and simply opt out of school, while the boys will go rogue. To paraphrase Education Cabinet Secretary George Magoha, due to idleness, such boys and girls may stop using their brains and start thinking with other parts of their bodies, leading to unfortunate consequences. 
+
+The onus, therefore, entirely lies with parents to control them, a very tough, thankless job. The community should play a role by keeping these children fully occupied, leaving them little time to engage in sex and experiment with drugs and alcohol. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Church organisations could also lend a hand, not merely by preaching down to the young ones to follow the straight and narrow path, but by organising music concerts, plays, games and other pursuits that mould character. The government, philanthropists and non-governmental organisations ought to complement such efforts through funding. 
+
+Mr Ngwiri is a consultant editor; andrewngwiri@gmail.com It is not clear what the brouhaha is all about since pornography in Kenya is already illegal. The boda boda rider rules our roads, and among them are unruly knaves worse than any matatu driver ever was. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
