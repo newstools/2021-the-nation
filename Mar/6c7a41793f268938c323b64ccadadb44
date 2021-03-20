@@ -1,0 +1,351 @@
+Susan Wanjiru Kihiu would today be walking the corridors of justice as a lawyer. She would also be celebrating her 29th birthday this year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, at 22, her life was abruptly cut short by a ‘jealous’ woman, in what turned out to be a crime of passion. 
+
+At the time of her death in 2013, Susan was pursuing a law degree at the University of Nairobi after scoring a straight ‘A’ in her Kenya Certificate of Secondary Education exams. 
+
+Life prisoner 
+
+She was brutally killed on the night of June 30, 2013, at King’ori Estate in Maai Mahiu, Naivasha, by Cecilia Waruguru, who was aged 33 years at the time. 
+
+Waruguru, a mother of four, is now a life prisoner at the Nakuru women’s prison. 
+
+After killing the young university student for having a love affair with her husband, perhaps Waruguru thought she would have a happy marriage and family life. But that also never happened after the court consigned her to jail. 
+
+On June 30, 2013, Susan had attended Sunday service alongside her two sisters at Full Gospel Church in Mai Mahiu, only for her not to return home or to be seen alive again. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her disfigured body was found the following day in an open field with stab wounds on the head and in the neck region. 
+
+The torso (upper part of the body) appeared to have been extensively scalded, either by being burnt or by corrosive substances.  
+
+Crime of passion 
+
+The body was half naked, with only some fragments of her clothing on the body. 
+
+“The murder was a crime of passion. The accused pretended to be uninvolved and put forth a defence that was found to be flimsy and fictitious,” trial judge Richard Mwongo said. 
+
+“It was a cruel and cleverly schemed murder,” added the judge. 
+
+At the time of her death, Susan was on vacation and employed at a firm owned by Mr Peter Chege Kabura, who was a friend of one Simon Kibarabara – Waruguru’s husband and the alleged lover of the deceased. 
+
+Susan allegedly worked as a broker in the real estate field before going to university.  
+
+Mr Kibarabara was himself in the real estate business while his wife Waruguru used to operate a shop and MPESA business in Maai Mahiu town. 
+
+Susan’s family and that of Waruguru lived in King’ori estate and were friends. In fact, Waruguru and Susan related well and were close friends. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On June 30, 2013, Susan accompanied her sisters to Full Gospel Church, Mai Mahiu. After church, the sisters were joined by the househelp, Ms Njeri Ndungu, and all proceeded to a restaurant known as GMT Guest House for lunch. 
+
+Once at the hotel, their order took too long and Susan was growing impatient. 
+
+Death trap 
+
+She requested to be served what was ready. After the meal, she left the party at about 4pm, saying she had been called by Waruguru to view some boutique merchandise. 
+
+ The said beauty items, which included a beaded purse, were at Waruguru’s home. 
+
+As she was rushing to Waruguru’s home to view the beauty products, little did Susan know that she was being lured to a death trap. 
+
+“The evidence pointed to her having cunningly lured the deceased to her death. The motive attributed to the planned murder was that the deceased was engaged in a romantic affair with the accused’s husband, Simon Kibarabara,” said Justice Mwongo. 
+
+Before she left, Susan and her sisters agreed they would let her know once they got back home, as she was travelling to Nairobi later that day. 
+
+Several phone calls to her number, however, went unanswered. Eventually, the phone stopped  ringing.  
+
+One of the sisters, Ms Mary Nyambura, then rang Waruguru to inquire on Susan’s whereabouts. However, Waruguru denied asking Susan over to her home. 
+
+However, after the body was found, she admitted communicating with the deceased. 
+
+Ms Nyambura said after the body was collected by police officers, Waruguru, just like other neighbours, visited the bereaved family. 
+
+Ms Nyambura, however, questioned her on her last moments with the deceased. 
+
+“When I questioned her, she said when she got the call from Susan, she had promised to call her back 15 minutes later, as she was in a noisy place. She further said she had not called her back. She showed me her phone… and excused herself to go attend to her baby,” said Ms Nyambura. 
+
+Mobile phone data collected by police investigators showed that Susan related very closely with Waruguru’s husband. This was evidenced by multiple telephone calls and text messages between them. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The prosecution used the phone data to prove that Waruguru, a mother of four, had a motive to murder the young woman. 
+
+Call data evidence showed that Susan and Waruguru converged at the time of her death. Immediately after the cruel murder, Waruguru ceased all contact with Susan’s telephone. 
+
+An examination of the call log data, for instance, showed Waruguru’s husband had on June 20, 2013, made five calls and sent messages to Susan between 7.30am and 7.46pm. 
+
+The data further indicated that, on the same day, Waruguru’s husband had seven calls with his wife (Waruguru), most of which were initiated by her. 
+
+However, most of the calls between Susan and Kibarabara were initiated by the latter and lasted long. One call between the two lasted more than 800 seconds, as compared to those he had Waruguru, which were brief.  The longest with Waruguru on that day lasted only 23 seconds. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The phone data further showed that on June 22, eight calls were exchanged between Waruguru and her husband from 10.33am to 9.44pm, the longest lasting 112 seconds. 
+
+On the other hand, the first call between Susan and Waruguru’s husband was at 9.33am, followed by a further 10 calls, the last at 6.52pm and the longest taking 161 seconds. 
+
+According to the evidence, Waruguru’s husband and Susan appeared to have been together in Kiambu from the evening of June 22 to the early afternoon of June 23, 2013. 
+
+That could have explained why, unlike in the previous days, only two calls were exchanged between Mr Kibarabara and Susan. 
+
+“Business associate or not, the accussed’s husband was a married man; what business was so pressing that he allowed long and intermittent phone communication with a single young lady at odd hours in the morning, night and all day, while communicating by phone rather briefly, if at all, with his wife?” posed justice Mwongo. 
+
+The call data further shows June 29 was also an active day for Susan and Waruguru’s husband.  
+
+Exhibits adduced in court reflected 19 calls between Susan and Kibarabara, the first and longest one at 8:54am (lasting 1,296 seconds) and throughout the day until 8:24pm (the latter lasting 96 seconds). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In contrast, only two calls were made between the accused and her husband on that date, the longest lasting 20 seconds. 
+
+“And although the deceased’s sisters confirm that the accused and the deceased had a friendship, it is interesting that the call logs between June 20 and June 30, 2013 record three SMSs and one call on June 25, one call on June 28, two calls and an SMS on June 29 and on June 30 four SMSs exchanged between 3.25pm and 4.15pm,” said Justice Mwongo. 
+
+Waruguru wanted a non-custodial sentence, but Justice Mwongo said that would have passed the wrong message to many thousands of women and men stuck up in situations where their spouses are in romantic affairs with girlfriends and boyfriends, commonly called “mpango wa kando”. 
+
+“A non-custodial sentence may even trigger the idea that murder is fashionable and rewarding – that it is an appropriate cure for mpango wa kando.  The answer to this time-immemorial malady cannot be murder,” said Justice Mwongo. 
+
+He added: “The answer lies not in the liquidation of the third party but in the management of the deviant spouse. That is the message that ought to be communicated.” 
+
+During the entire murder trial and even after been found guilty, Waruguru maintained her innocence. 
+
+After her sentencing, her two lawyers told the court Waruguru was “sorrowful” and “very remorseful for the offence”. 
+
+Justice Mwongo noted the Probation Officer’s report, however, stated as follows on the attitude of the offender to the offence:  “The offender says she did not commit the offence.”  
+
+“Here, I sense contradiction and insincerity, rather than remorse,” said the judge. The probation officer had recommended a non-custodial sentence, pointing out that if granted, the accused would need comprehensive rehabilitation including mental health care through a psychiatrist to deter recidivism to such violent crime. 
+
+In her defence under oath, Waruguru said on the fateful Sunday, she had gone to church and in the evening she attended a pre-wedding meeting at PCEA Church Maai Mahiu. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+She said Susan had visited her shop some two weeks earlier and requested that a hand-made beaded purse like hers (Waruguru’s) be ordered for her. 
+
+She further said they had spoken on phone on June 28 and 29 and Waruguru informed her that the purse had been made. 
+
+But the court noted that none of those who were with Waruguru on the afternoon of June 30, neither the guests nor the hosts of the alleged pre-wedding party at the PCEA church were called to testify in her defence. 
+
+Waruguru said she learned about the discovery of the body early the next day as she did her chores. She said she then went to confirm the report and saw people huddled around the scene. Shortly after, she bumped into the deceased’s sister, Ms Nyambura and their househelp, Ms Njeri Ndung’u, and followed them to their home.  
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When she returned to the home the following day, she got alarmed at the conduct of the bereaved family towards her and left, never returning. 
+
+She asserted that while she was aware that her husband knew the deceased, she did not know they had an affair. 
+
+She stated that she thought the two collaborated in real estate business, as her husband engaged in that business, while the deceased acted as a broker. 
+
+She further said she knew that during one transaction between the two, her husband had lost some money to fraudsters, who were arrested and charged.  
+
+She said Susan had been a key witness in the case and that the fraud suspects had also been arrested in connection with Susan’s murder, but were later released. She had called four defence witnesses. 
+
+jwangui@ke.nationmedia.com A woman has been accused of killing her husband at their home in Nairobi on Friday, bringing to 11 the total number of people which domestic violence has claimed in the past month. The man said he had been directed to sacrifice a girl, goat and a chicken and surrender the hearts. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
