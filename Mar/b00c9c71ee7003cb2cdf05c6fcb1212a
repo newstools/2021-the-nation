@@ -1,0 +1,116 @@
+The inordinate amount of pressure on maize to address food security needs in Kenya is puzzling. It’s because of ugali’s exalted position on our lunch and dinner tables that conversations about maize often take a political tone. Kenyans love ugali. It’s our staple food. How many times have you heard or said these two lines? Yet long before ugali became the king of our plates, there were tastier, more nutritious alternatives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Such a comment might shiver the timbers of self-proclaimed ugali loyalists, but I hope they will bear with me as I make a case against overreliance on the dish. 
+
+History teaches us that maize was introduced to Africa by the Portuguese around the 16th century. It became an essential food crop in Africa during the slave trade times. Some scholars dispute this version of the maize journey, but the bottom line is that the crop was “introduced” to Kenya and, to date, it remains firmly at the centre of the food security debate.  
+
+According to the Food and Agriculture Organisation, food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life. Therefore, the inordinate amount of pressure on maize to address food security needs in Kenya is puzzling.  
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Surely, there must be a way out. It’s because of ugali’s exalted position on our lunch and dinner tables that conversations about maize often take a political tone. And the business elite, too, protect their interests when the topic comes up. Add unscrupulous middlemen to the bag and you have yourself a healthy recipe for a scandal.  
+
+Substituting ugali 
+
+If in doubt, think about Sirisia MP John Waluke’s 67-year jail sentence and his co-accused Grace Wakhungu’s 69-year jail sentence for, among other crimes, the grounds that the National Cereals and Produce Board lost Sh297 million in the white maize scandal.  
+
+A Daily Nation headline that read "Cost of ugali tipped to rise after maize import ban" grabbed my attention last week. The article stated that we needed 51 million tonnes of maize to feed Kenyans annually. The Agriculture and Food Authority  sounded an alarm on the tested samples showing high poison levels beyond acceptable standards. 
+
+If for no other reason, we should reconsider substituting ugali with a different carbohydrates source because of its propensity to have high aflatoxin levels. Aflatoxin is considered a carcinogen — something that is capable of causing cancer.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In January 2021, the Kenya Bureau of Standards banned 17 maize flour brands, saying their aflatoxin levels were high, going by Kenyan standards.  In short, we may have been ingesting poison all along and will continue to do so as long as tenderpreneurs and unscrupulous entrepreneurs exist.  
+
+It would serve us better to diversify our carbohydrates sources (rice, chapati, cassava, matooke, anyone?) and normalise not having ugali on our plates. Because the truth is that ugali is seriously overrated.  
+
+Ms Oneya comments on social and gender topics. foneya@ke.nationmedia.com; @FaithOneya And the UK strain of Covid-19 is in Kenya thanks to British soldiers. Period poverty keeps girls out of school, from socialising and other activities that they should enjoy alongside boys. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
