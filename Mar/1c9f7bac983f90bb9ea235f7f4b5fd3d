@@ -1,0 +1,111 @@
+The school's administration said they are in dire need of funds to improve the dilapidated infrastructure.Some of the learners are forced to relieve themselves at the school's fence, posing serious health risks. A primary school in Tongaren constituency in Bungoma County risks closure due to its poor infrastructure. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The administration of Mapera Primary School in Misemwa village, Ndalu/Tabani ward has said the school is in dire need of funds to improve its dilapidated infrastructure. 
+
+A spot check by the Nation on Friday at the school, which has a population of 530 pupils, revealed dilapidated classrooms with no toilets for the learners.  
+
+Some of the learners are forced to relieve themselves at the school's fence, posing serious health risks and possible outbreak of cholera and diarrhea.  
+
+
+
+
+
+
+Pupils of Mapera Primary School in Bungoma County learning under a tree on March 17, 2021. 
+Photo credit: Brain Ojamaa | Nation Media Group
+
+ 
+
+The school also lacks water which is also a big challenge especially during these times of Covid-19 pandemic.  
+
+As a result, the learners are also forced to walk for more than four kilometers to fetch water from a spring for cooking, cleaning and washing of hands.  
+
+The school's deputy head teacher, Anita Skwata, said some of the learners have to take their lessons under a tree because of Covid-19 regulations to avoid congestion in classrooms.  
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+School’s sorry state 
+
+"Our MP, Eseli Simiyu, through CDF, built some two classrooms some time back, but they now can’t accommodate all the learners, some of whom joined us after the pandemic struck," Ms Skwata said.  
+
+She further said that the county government's ministry of education recently built two early education childhood classrooms that also can’t accommodate all the learners at that level. 
+
+She said that the school has converted an old water tank into the head teacher’s and deputy head teacher's offices.  
+
+
+
+
+
+
+Pupils of Mapera Primary School in Bungoma County learning under a tree on March 17, 2021. 
+Photo credit: Brain Ojamaa | Nation Media Group
+
+ 
+
+"Some of our classes are usually smeared with cow dung which attracts jiggers," she said.  
+
+Jane Masafu, a village elder and a board of management member lamented the school’s sorry state. 
+
+She appealed to area politicians, business people and well-wishers to come out and assist the school overcome the challenges. 
+
+Dr Kilong Sheila, an alumnus of the school, said former learners at the school are organising a funds drive to drill a borehole and meet other challenges in the school. The Sh21million project to improve road network in the two counties. But Kituyi tells Bungoma senator that his journey to State House is unstoppable. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
