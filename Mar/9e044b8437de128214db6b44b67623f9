@@ -1,0 +1,122 @@
+We take the earliest opportunity to commend you for your deep grasp of geopolitical affairs.We are happy to admit you into the wall of famous political analysts. Dear Col (Rtd) Cyrus Oguna. We trust you are well. When the weatherman predicted that this week was going to be cloudy, with pockets of thunderstorms, we did not know it was your office that won the tender to send lightning to break our hearts. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+If we have previously given you the impression that we had underrated the important job you do giving the government a bad name, kindly accept our sincere apologies. 
+
+We take the earliest opportunity to commend you for your deep grasp of geopolitical affairs after your award-winning presentation this week; comparing the Government of Kenya with those of Europe.  
+
+In a country where there are more political analysts per square centimetre than there are grains of sand on Magical Kenya beaches, we are happy to admit you into the wall of famous political analysts. 
+
+The feedback from your gallant show on-screen this week has been immensely overwhelming. Kenyans want to say sorry for not having the experience of living in Europe to witness how governments there use their taxes. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We now understand why our government has always insisted that Kenyans must embrace a reading culture, for how would we have known that European governments also use their citizens’ taxes to buy powerful binoculars to watch garbage flowing on the streets from their porches in leafy suburbs? 
+
+Debt-ridden country 
+
+If you hadn’t reminded us, Kenyans would still have lived under the illusion that we are the only debt-ridden country in the world. Thanks to you, we now know that European countries have also been stealing their citizens’ taxes and have also checked into the hospital ward with us after going broke.  
+
+Our only request is that our government sleep in the corner, because we don’t want China to use us as an example when they decide to do their ward rounds, when they could borrow from your script and use European countries instead. 
+
+Above all, we would like to thank you for finally having the marbles to speak the government’s mind without fear, favour, ill will, or those things lawyers say in court to confuse judicial officers into handing them a friendlier ruling. 
+
+We have always suspected that we have a courageous government that doesn’t fear being crucified for throwing its people under the bus. We’ve never congratulated you for not biting your tongue while shifting between languages during your press briefings, but today we are grateful for your courage to expose our government for what it is: insensitive bureaucrats who thrive on inflicting emotional trauma on suffering citizens without a care in the world. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Thanks to your presentation this week, we now recognise that our personal sacrifices, working through the pain barrier to send taxes is still not good enough to pay your rent and take you on holiday. 
+
+We are really sorry to put you in a tight corner as to make you angry like that. We would love to inform you that we have done our best to pay for your upkeep — with the nothing the government has given us — and we are ready to die for your comfort in the spirit of observing this period of Lent. 
+
+While we understand that scientists are currently busy coming up with reliable Covid vaccines, we would however appreciate if some of them pooled aside and started working on an innovation that would facilitate the removal of Col Cyrus Oguna’s foot from his mouth. Otherwise if that is impossible, Kenyans would appreciate if he continued shooting his gun instead of shooting his mouth off. 
+
+Mr Oguda comments on topical issues; gabriel.oguda@gmail.com The Covid-19 has not been good to Kenyans, and the government is struggling to make ends meet. No one wants to hear of another Covid scandal when the previous one has not yet been resolved. Technically, the President can nominate anyone, but she will do so after consulting ruling party CCM. Kenya boycotted public hearings, leaving Somalia to argue its case in one-sided proceedings that closed on Thursday at The Hague. Joseph Kinyua Murimi, 33, is being investigated over the suspected murder of the 23-year-old waitress.
