@@ -1,0 +1,124 @@
+The country's pioneer pyrethrum processing company is technically insolvent and requires government support, the latest audit report has revealed.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The report by Auditor-General Nancy Gathungu for the year ending June 30, 2019, shows that Pyrethrum Processing Company of Kenya recorded a negative working capital of Sh481 million. 
+
+"The company is technically insolvent and its continued existence is dependent upon the financial support of the government and its creditors," says Ms Gathungu. 
+
+The financial statement reflects a company in deep financial troubles as its current assets stand at Sh376 million against total current liabilities of Sh857 million. 
+
+ Interestingly, the financial statement reveals a company property asset, plant and equipment are valued at Sh5.6 billion. 
+
+ The Auditor-General casts doubts on the assets since they were not disclosed in the financial statements and approval for the revaluation which was done by the management in the previous financial year. 
+
+ "In the previous year, the management revalued its assets and the revaluation was adopted in the year under review. However, the revaluation has not been disclosed in the financial statements and approval of the revaluation was not availed," read the report. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The report added: "Out of the 58 motor vehicles and heavy machinery, only six vehicles were valued, while there was no evidence that 35 motor vehicles, although serviceable, were valued. This is contrary to the International Accounting Standard (IAS) 16 which states that if an item of property, plant and equipment is revalued, the entire class of property, plant and equipment to which the asset belongs shall be revalued." 
+
+ The Auditor-General further states that physical verification of the company vehicles revealed that eight vehicles purchased at Sh11.5 million were impounded and auctioned on May 19, 2018, due to outstanding payments to a businessman. 
+
+"The disposal of the vehicles has not been recorded in the financial statements. Besides, out of the existing 50 vehicles, logbooks for 10 vehicles were not provided for audit review," said the Auditor-General’s report. 
+
+At the same time, the report reveals a shocking lack of land documents belonging to the company. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The company did not provide ownership documents of 18 parcels of land valued at Sh354 million for audit review," read the report. 
+
+The company did not provide information on two prime land in Nakuru Municipality valued at Sh7.5 million and another land in Nyandarua County valued at Sh45.8 million. 
+
+ "Audit verification conducted on the Nakuru property in January 2019 indicated that a perimeter wall fence was being erected around the house block. No explanation was provided for the construction of the wall. 
+
+Available information indicates that Nyandarua land had been sold to a private developer and the matter is in court," read the report. 
+
+fmureithi@ke.nationmedia.com More than 40 retirees are reported to have died, mostly of illnesses associated with frustrations. Officials say the company is unable to sell its assets because it has no board. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
