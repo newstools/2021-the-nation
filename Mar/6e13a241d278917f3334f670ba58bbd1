@@ -1,0 +1,83 @@
+Kikwete said many wished for Magufuli to serve as President for many years but that God’s will cannot be changed. Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Retired Tanzanian President Jakaya Kikwete is confident the country is in safe hands because newly sworn-in President Samia Suluhu Hassan knows what has happened, what needs to be done and what was planned for the next five years. 
+
+Kikwete, who was President from 2005 to 2015, said this in a post on his Twitter page on Friday, explaining how he found it difficult to write about this, but urging Tanzanians to cooperate with their new President. 
+
+"Tanzanians, we condole together in the face of this great tragedy that has befallen us. Our dear President Magufuli has left us unexpectedly. I never saw this coming. John Pombe Joseph Magufuli has left us at a time when his leadership was in great demand. We needed him to complete what he started and to do the many good things he had planned to do for our country and we, the citizens," he said. 
+
+God's will 
+
+Kikwete said many wished for Magufuli to serve as President for many years but that God’s will cannot be changed. 
+
+“Our responsibility is to pray to the Lord to give him rest. We will always remember Magufuli for the many good things he did for our country. Indeed, Tanzania has lost a patriotic leader who was sincere, courageous, smart and focused,” he said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kikwete expressed hope for President Hassan's success, noting she had been serving as Vice President. 
+
+"What is of great comfort to us Tanzanians is that his successor was the Vice President from 2015 until his death. She knows the details of what has been done and what needs to be completed, or what was planned for the next five years. I have no doubt that Tanzania is in safe hands," he said. 
+
+Kikwete congratulated President Hassan on her speech after being sworn-in at the State House in Dar es Salaam, noting that it built faith and hope. 
+
+"Let us pray to God to guide her in every decision she takes and every step she makes. I ask my fellow Tanzanians to give her cooperation so that she can lead Tanzania to the success we expect. ” Under the constitution, she will serve the remainder of Magufuli's second five-year term, which does not expire until 2025. Mourners lined the streets of Dar es Salaam to bid farewell to President, some of them weeping and throwing flower petals as the casket. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
