@@ -1,0 +1,77 @@
+Between 1976 and 2000 there were dramatic changes to the strips of land between Mt Kilimanjaro and Mt Meru.Nowadays, Mt Kilimanjaro is almost surrounded by developed areas that include wheat farms and sugar cane plantations. Over the years, there’s been extensive urbanisation and development at the base of Mt Kilimanjaro, which could change what lives on the mountain. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Satellite images show that between 1976 and 2000 there were dramatic changes to the strips of land between Mt Kilimanjaro and Mt Meru, which is less than 100km to the east. Areas that originally had dense natural vegetation were forced to make room for intensive agriculture and residential development to accommodate a growing population. 
+
+Nowadays, Mt Kilimanjaro is almost surrounded by developed areas that include wheat farms, commercial sugar cane plantations and rice paddies. There are also smallholder farms all around and growing, built-up settlements. 
+
+Ecological island 
+
+This means the ecosystem is at risk of turning into an “ecological island”. When natural habitats are isolated in this way, species are less able to migrate, leading to less genetic variation and diversity. Less genetic variation makes ecosystems more vulnerable during environmental changes. Diversity increases the ability to adapt.   
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It’s important for policymakers to address the growing isolation of Kilimanjaro as many species of animals ware at risk of extinction. Examples of important bridges in this area include the wildlife corridors that connect Amboseli and Kilimanjaro National Park or Manyara and Tarangire National Park. 
+
+The “Kitendeni Corridor,” a 7km strip of savanna bushland on the northern slope, links Kilimanjaro with the Amboseli National Park in Kenya. As a wildlife corridor, Kitendeni is meant to preserve access for elephants and other wild animals to the forests of the mountain’s northern slopes. Yet increasing human pressure, from cultivation and livestock grazing, is reducing this corridor. It’s forcing wildlife, especially elephants and buffalo, to remain longer on Kilimanjaro, having a further impact on the forests. 
+
+Andreas Hemp and Claudia Hemp are research associates at Bayreuth University © The Conversation Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
