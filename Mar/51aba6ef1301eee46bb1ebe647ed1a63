@@ -1,0 +1,174 @@
+Mandera County has triple challenges of severe and prolonged drought, flooding and conflict, only made worse by an acute scarcity of resources. Findings of the 2019 National Population and Housing Census put the population of Mandera County at 775,000. This population is distributed in the seven sub-counties of Mandera West, Lafey, Banisa, Madera North, Kotulo, Mandera Central and Mandera East. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In this expansive arid and semi-arid (ASAL) county, nomadic pastoralism is the main economic activity. About 62,000 households keep livestock, mostly indigenous breeds of cattle, sheep and goats, according to the census results. 
+
+Mandera County has triple challenges of severe and prolonged drought, flooding and conflict, only made worse by an acute scarcity of resources. 
+
+Whenever drought strikes, thousands of animals die, consigning the community to poverty and a long journey back to recovery. 
+
+At 39 per cent, Mandera has one of the highest rates of open defecation. This is more than five times the national average of 7.4 of Kenyans who don’t have proper latrines/toilets. As such, water is a critical commodity. 
+
+But it hasn’t rained for many months now. To mitigate a full-blown disaster, county authorities have, since the turn of the year been, trucking water to locals with hundreds of bowsers and sinking boreholes. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+A dry bed of Banisa Dam in Banisa Sub-County, Mandera County, as pictured on March 14, 2021.
+Photo credit: James Kahongeh | Nation Media Group
+
+ 
+
+Big project 
+
+Water drilling rigs are spread all over the county, drilling boreholes to salvage both human and animal life. Sometimes though, a borehole is low-yielding, producing too little to sustain a village.   
+
+‘‘We are drilling more boreholes and doing more surveys across the county to increase our permanent water sources,’’ says Mohamed Ali, the county executive chief (CEC) for water. 
+
+The CEC notes that his county is ready to draw water from as far as Mandera North to supply to villages in Banisa. 
+
+But sinking a borehole is a strategic investment, says Ahmed Aden, Mandera County’s director of water services. Pasture, Aden notes, is as critical as water to the pastoralists. 
+
+‘‘When you drill a borehole in a location where pasture is available, many herders are likely to raid the area, leading to overgrazing. You end up with a degraded environment.’’ 
+
+It’s for this reason that boreholes are sunk far from each other. This strategy is also a way to control conflict. 
+
+
+
+
+
+
+An excavator digs the silt out of Wangaydahan Dam in Takaba, Mandera County, on March 14, 2021.
+Photo credit: James Kahongeh | Nation Media Group
+
+ 
+
+Water collection 
+
+The county is also rehabilitating water collection facilities, including desilting (removal of soil) 41 earth pans and dams, all with a combined holding capacity of 2,400,000m³ (2.52 million litres). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lagwerera, the largest in the county, has a capacity of 120,000m³ (120 million litres). Smaller dams such as Sigenge, Tubadi and Garage have a volume of 60,000m³ (60 million litres) each. 
+
+Desilting these water facilities is an expensive undertaking as it’s a race against time. 
+
+‘‘We must dig out the silt before the onset of rains. To do this, we have to shut the inlets and to close the dam,’’ explains CEC Ali. 
+
+He adds: ‘‘Our dams have a short lifespan of 10 years, owing to heavy silting that occurs whenever it rains in the Ethiopian highlands. We have to desilt them after every few years.’’ 
+
+
+
+
+
+
+Residents of El Wak town in Mandera County wait their turn to fetch water from the El Wak well on November 8, 2016. 
+Photo credit: File | Nation Media Group
+
+ 
+
+High pressure 
+
+But pressure is taking a toll on the county. 
+
+Workers of non-governmental organisations that were operating here have fled following frequent attacks on non-locals by terror group Al-Shabaab. 
+
+Government employees in the area fled after they became a primary target for the militia. Consequently, interventions by the State and other entities have been minimal, if any. 
+
+This has left the county government dealing with the crisis virtually singlehandedly, against the backdrop of scarce resources and lean personnel.  
+
+‘‘It’s a very difficult time and we have to face the reality,’’ observes CEC Ali. 
+
+jkgitau@ke.nationmedia.com County in the grip of a prolonged drought that has seen animals die and pushed residents to the brink. NDMA reports fair livestock body condition but a significant drop in milk production. Norway is among the countries said to be influencing Somalia in its pursuit of the matter. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Rebecca Nyandeng De Mabior is the last South Sudan Vice President to contract Covid-19.
