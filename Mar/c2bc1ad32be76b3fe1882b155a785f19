@@ -1,0 +1,234 @@
+Trouble comes in threes, as the English say. It is true in our case: instability in the Handshake, uncertainty over the fate of BBI, and confusion about the Uhuru Kenyatta Succession. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+March 4: A routine by-election in Matungu, Kakamega County, has destabilising effects. 
+
+The Orange Democratic Movement (ODM) is convinced the “system” had a hand, somehow, in Musalia Mudavadi’s Amani National Congress (ANC) candidate winning the seat. 
+
+ANC had waged a fierce anti-ODM campaign, whose candidate came a strong second. 
+
+March 7: Attention shifts to Kibra where ODM has summoned a rally – to be addressed by Raila Odinga – hours after Siaya Senator James Orengo and National Assembly Minority Whip Junet Mohamed launch coordinated attacks against Interior Principal Secretary Karanja Kibicho, questioning the government’s commitment to the March 9, 2018 Handshake between Mr Odinga and President Uhuru Kenyatta and its child, the Building Bridges Initiative (BBI). 
+
+ODM’s grievance is that the Interior PS has taken over the operations of the BBI secretariat, which Junet Mohamed co-chairs. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Popularising BBI 
+
+Very loaded references to “betrayal” are made. Heavy hints are also dropped that the Handshake is on its death bed unless the Jubilee side lives up to its “commitments”. Aha! 
+
+Triumphant passage of BBI Bill 
+
+The planned Kibra rally does not happen. Or rather it takes place but without its main draw, Odinga, who keeps away. 
+
+Rather than deliver the anticipated ultimatum to Jubilee, or in the worst case scenario, announce their withdrawal from the Handshake, the second-league ODM leaders who show up turn the forum into one of popularising BBI. 
+
+Disaster has been averted. Word is that President Kenyatta had reached out to Mr Odinga in the nick of time to ask him to reconsider the rally so as to save the Handshake. 
+
+ODM’s discontent had simmered from much earlier. On February 25, Mr Kenyatta had hosted, at State House, political party leaders Odinga, Mudavadi, Wiper Party’s Kalonzo Musyoka, Moses Wetang’ula of Ford Kenya, Narc’s Charity Ngilu and Gideon Moi of Kanu. 
+
+The meeting was to celebrate the triumphant passage of the BBI Bill at the county assemblies and discuss the way forward ahead of the expected referendum. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A follow-up meeting was agreed for March 9, the day of the third anniversary of the Handshake. 
+
+Alas, that meeting could not take place. mR Odinga was diagnosed with coronavirus and went into isolation  after a hectic pro-BBI campaign in the Coast. 
+
+Until then, ODM had made no secret of its annoyance with the State House parleys involving Mr Mudavadi, Mr Kalonzo, Mr Wetang’ula and Mr Moi – the so-called G-4. 
+
+They were not the Handshake principals. The President and Odinga were. 
+
+ODM considers them interlopers gatecrashing the BBI party after the principals had done the spadework. 
+
+For the record, Jubilee and ODM always take pains to stress that BBI and the 2022 presidential election have no connection. They insist these are two separate assignments. Really? 
+
+Let’s do some deductive reasoning. The explosive word “betrayal” has been uttered by ODM. 
+
+Betrayal cannot be because the BBI secretariat has been commandeered by Kibicho. 
+
+That is administrative, and as many have pointed out, probably to do with BBI “facilitation” money streams. Besides, Kibicho’s entry would only reinforce the sense that the government is determined to see through the implementation of BBI by hook or crook, as was confirmed in January when Mr Kenyatta bulldozed Mt Kenya ward representatives to support the project. 
+
+Betrayal can only be, from this viewpoint, if the President and his government were showing no interest in the BBI project. 
+
+Yet, he certainly is obsessed with it. Now, do some further deduction. 
+
+Betrayal can then only be about 2022. That is to say, as per ODM, the Handshake may have promised something – implicitly – regarding the Kenyatta Succession. 
+
+The Matungu by-election aside, ODM top honchos think they have detected more than a hint of the “system’s” tilt towards Mr Mudavadi, a perception ANC does not downplay. 
+
+I am at sea as to where Mr Moi fits in the equation (it has been whispered he could be the Favoured One). 
+
+But if Mr Keyatta seriously considers him as a successor, then I overrated the son of Jomo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Shorn of other problems, a Moi card will play neatly, and disastrously, into the “hustlers versus dynasties” narrative peddled by Deputy President William Ruto and his followers. 
+
+Mr Odinga is not without options, of course. The “nuclear option” could come if he is left with no choice but to make common cause with Ruto. 
+
+The theories 
+
+The President is not stupid. That is the last thing he wants. Mr Odinga knows that too. There is still plenty of unspoken intentions surrounding the Handshake. 
+
+But to believe it was all about “restoring calm” and happy-happy times in the country would be naive. 
+
+I got this interesting summary from somewhere last week: Mr Mudavadi’s candidate wins Matungu, Mr Wetang’ula’s emerges victorious in Kabuchai, and Mr Kalonzo’s wins the Machakos senate by-election on March 18. All those candidates are fronted by parties playing a “home game” in their regions. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The wins ensure there’s no “friendly fire” amongst the pro-BBI parties. “Deep State” management? Those are the theories. 
+
+The State is obviously keen to ensure there’s no friction amongst the pro-BBI coalition parties as they coalesce for a common goal. 
+
+Papering over the inter-party quarrels was the agenda of a zoom meeting held between the pro-BBI leaders on March 16. 
+
+Dr Kibicho restated last week that he works for the President. Meaning his agenda is not his. 
+
+@GitauWarigi He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
