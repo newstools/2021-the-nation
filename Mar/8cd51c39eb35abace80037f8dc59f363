@@ -1,0 +1,50 @@
+The semi-finals will take place on the weekend of April 17-18 at Wembley, with the final at the same venue on May 15.The final could be played in front of 20,000 fans because it has been earmarked as one of the proposed pilot events to test the return of big crowds to UK venues this year. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Eight-time winners Chelsea will play quadruple-chasing Manchester City in the FA Cup semi-finals. 
+
+Leicester and Manchester United know they will face Southampton in the last four if they can earn victory in their quarter-final on Sunday. 
+
+Leicester and United were drawing 1-1 when the semi-final draw was made at half-time at the King Power Stadium. 
+
+The semi-finals will take place on the weekend of April 17-18 at Wembley, with the final at the same venue on May 15. 
+
+The final could be played in front of 20,000 fans because it has been earmarked as one of the proposed pilot events to test the return of big crowds to UK venues this year. 
+
+Draw for the English FA Cup semi-finals made on Sunday: 
+
+Leicester or Manchester United v Southampton 
+
+Chelsea v Manchester City 
+
+Ties to be played at Wembley on the weekend of April 17-18 Chelsea joined Manchester City and Southampton in the April semi-finals at Wembley. A blistering start from the Hammers had them three goals up inside 32 minutes. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
