@@ -1,0 +1,171 @@
+There has been just one big story mesmerising the British people of late and it is not the coronavirus pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For anybody who might be living on the planet Mars, that story concerns Queen Elizabeth’s grandson, Prince Harry, and his American wife, Meghan Markle, their defection from the royal family, and talk of racism and suicide. 
+
+Harry, aged 36, properly known as the Duke of Sussex and sixth in line to the throne of England, met Meghan, 39, an American actress from Los Angeles, California, in 2016. Meghan is mixed race, her mother African/American, her father from European stock. 
+
+Two years later, the couple married here in Windsor Castle, in an apparently happy event attended by Queen Elizabeth and all the royals. 
+
+However, it soon became apparent that the pair were unhappy with their situation, particularly the relentless media attention, including race-tinged stories in the tabloids, and in 2020, they walked away from the royal family and moved to southern California, where Meghan grew up. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The couple’s son, Archie, was born and the couple seemed happy to be an ocean away from Britain, although curiosity here about exactly had happened behind the scenes was intense. 
+
+Royal establishment 
+
+Some, but not all, of the answers were provided on March 7 in a widely watched television meeting (the US audience was 17 million, in the UK 12 million) with the American celebrity interviewer, Oprah Winfrey. 
+
+Two statements made the headlines. Meghan said she found royal life so difficult she “didn’t want to live anymore,” and though she asked for help, she got no assistance from the royal establishment. 
+
+She also said a member of the royal family had expressed “concerns” while she was pregnant about the likely skin colour of their son. She refused to name the person involved but later clarified that it was not the Queen or her husband, Prince Philip. Harry told Winfrey that racism in Britain’s tabloid newspapers, which filtered into the rest of society, was “a large part” of why they left Britain. 
+
+This is a viewpoint that is strongly endorsed by the mixed-race (Nigerian/British) author and broadcaster, Prof David Olusoga. In an interview with the BBC, he said that when the Sussexes were married, Britain projected itself as a modern, multicultural country with a black princess, but it failed utterly to live up to that image. “We allowed our Press to hound this woman and hound her family. Today millions of people around the world are reading about Britain’s problem with race. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We need to look at ourselves more honestly. Now is a moment of self-reflection, not just for the Palace, but for the country.” Letters to newspapers from some mixed-race couples have argued that it is natural and not racist to speculate on the skin tones of an expected baby, just as other couples make guesses about the colours of a baby’s eyes and whether it will inherit its father’s or mother’s features. 
+
+Others have speculated that in an establishment whose members will rarely have contact with people outside of their rich, white class, the reference to Meghan’s baby was more likely to be pejorative than idly curious. 
+
+* * * 
+
+Cameras in a pill photographing our insides? It’s hard to believe, but that is the latest weapon in the fight against bowel cancer. 
+
+Pioneered in Scotland, the Colon Capsule has a bright light and two tiny cameras which take pictures of the lining of the bowel to look for any signs of disease. Explained Dr Craig Mowat, “The capsule has a bright light and cameras which beam images to a recorder worn by the patient. The procedure is non-invasive and painless and the patient doesn’t have to be sedated.” 
+
+The procedure is an alternative to the traditional colonoscopy in which a camera is threaded into the body through the rear. The National Health Service is operating the new service at the Royal Infirmary in Perth, Scotland. 
+
+* * * 
+
+Two golfers were chatting in the clubhouse. “You won’t believe this,” said one, “but I got a set of golf clubs for my wife.” “Wow,” said the other, “what a great swap!” 
+
+* * * 
+
+Tom and Bill were fine footballers in their day but now they were getting old and they worried whether there would be football in heaven. So they made a deal that whoever died first would return and explain how things were football-wise. 
+
+In the event, Tom was the first to go and duly appeared soon after in Bill’s bedroom. “I have good news and bad news,” he said. Bill opted to hear the good news first and was assured that football was a big part of life in heaven, everyone was young and fit again, all their old pals were there and games took place all the time. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“So what’s the bad news?” asked Bill. Said Tom, “You’re playing tomorrow.” 
+
+gerryo69@hotmail.com He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
