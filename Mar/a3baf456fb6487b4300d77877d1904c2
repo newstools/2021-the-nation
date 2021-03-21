@@ -1,0 +1,171 @@
+The Assets Recovery Agency will require six months to investigate properties owned by the Akasha family, a court heard. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ARA investigator Isaac Nakitare told the court that they are also investigating Akasha properties in the United States of America and Pakistan. 
+
+“Investigations are complex, and they involve international cooperation,” said Mr Nakitare, while explaining why the investigations have taken long to be completed. 
+
+Mr Nakitare said once investigations are complete, they will forward the file to the agency’s director, who will file preservation proceedings through a state counsel. 
+
+The officer was testifying during the hearing of a petition filed by the wife and a mother of convicted drug lord Mr Baktash Akasha, who are seeking to have some properties seized by police during the raid at their upmarket Nyali home in November 2014, released to them. 
+
+Mr Nakitare told the court that he was not handed over any property belonging to the Akashas, neither did he visit any immovable properties owned the family. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We have not prepared a notice of seizure, we are still investigating proceeds of crime in the Akasha family,” the witness said. 
+
+The officer also told the court that they are investigating bank accounts in relation to Baktash Akasha. 
+
+Anti-Narcotics Police Unit head Hamisi Massa told the court that before Baktash and his brother Ibrahim Akasha were convicted of drug related offences in the US, they (police) had initiated verification of the properties. 
+
+Ms Najma Juma and her mother-in-law Ms Fatma Akasha, want a declaration that the continued holding of their properties is unlawful and in breach of their constitutional rights. 
+
+The properties they want released to them are two vehicles, a mobile phone, pistol, vehicle logbook, seven gold chains, seven gold earrings and one hand chain with coins. 
+
+The petitioners are also seeking for a declaration that the properties do not constitute part of the extradition proceedings, as per the applications filed and submissions made, hence are not subject to forfeiture.  
+
+The extradition proceedings had been filed by the DPP against Baktash, his brother Ibrahim, Gulam Hussein and Vijaygiri Goswami. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Baktash and his brother Ibrahim are serving 25 and 23-year prison sentences respectively in the US, for drug related offences. 
+
+Ms Juma and Ms Akasha have sued the DPP, Inspector General of Police, Director of Criminal Investigations, In Charge Anti-Narcotics Unit, Coast regional police commander and regional criminal investigation officer- Coast. 
+
+According to the petitioners, on the night of November 9, 2014, they were resting at Ms Juma’s matrimonial home in Nyali area, when police officers entered the house and began searching it. 
+
+They argue that notwithstanding the intention of the search, the inventory of the items seized demonstrate bad faith and an intention to punish them. 
+
+The petitioners contend, that they were not parties to the extradition proceedings and the seized properties belonging to them, are being held in violation of their rights to private property and they (properties) cannot be subject to forfeiture as ownership is clearly established. 
+
+“The petitioners not being parties to the extradition proceedings and not having been charged for any offence subsequent to the search, the continued detention of the properties under the pretext of extradition proceedings is untenable and illegal,” argues the petitioners. 
+
+They further argue that they have on several occasions demanded the release of the properties, but the respondents have refused, maintaining that they are being held as exhibits in the extradition case. 
+
+“The illegal seizure and continued holding of the properties have occasioned the petitioners grave prejudice and an injustice has been occasioned,” argue Ms Juma and Ms Akasha in their petition. 
+
+They further argue that the DPP is duty bound to advise the police, that the petitioners not being parties to the extradition proceedings and having not been charged for any offences after the search, the continued detention of their properties, is untenable and illegal. 
+
+The petitioners are also seeking for an order for immediate release of the properties to them and an order for damages for loss of user and prejudice occasioned by the seizure, and holding of the items. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The case will be heard on May 5. Kenya still doing badly in the fight against drug use and sale despite a strict regime being in place to tackle the menace. He is part of an international syndicate engaging in the illicit trade that has been evading arrest for years. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
