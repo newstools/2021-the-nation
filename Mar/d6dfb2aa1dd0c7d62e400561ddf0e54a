@@ -1,0 +1,234 @@
+There is some contention in the National Assembly on whether a person who holds dual-citizenship may be appointed as a foreign envoy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is a matter that went to court but the National Assembly does not appear to be satisfied with the decision of the court with regard to this particular individual. 
+
+Around the same time as the National Assembly was convulsing in objection the taking up of the office of an Ambassador by a Kenyan who holds citizenship of the United States, the Supreme Court in the United Kingdom made another decision on citizenship which has excited passions and arguments by those in support of the decision and those against it. 
+
+In the United Kingdom case, the Supreme Court made a decision last month on an appeal in which Shamima Begum challenged a Home Office decision that deprived her of British citizenship for the reason that it was not in the public interest for her to continue being a British citizen. 
+
+The background is that the citizen in issue had been born in Britain to parents who were of Bangladeshi origin. While aged about 15 years, Shamima Begum left the United Kingdom to join Isis, the terrorist organisation in Syria. While in Syria, she got married to a jihadi and had three children, all of whom died. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Following the defeat of Isis, she became a refugee in a Syrian camp and sought a return to the United Kingdom. It was in these circumstances that the Home Office declined her request to return and informed her that she would be deprived of her citizenship on account of her involvement with the terrorist group. 
+
+Supreme Court 
+
+She challenged this decision all the way to the Supreme Court and asked to go back to the United Kingdom to mount her challenge to the deprivation of British citizenship from there. The Supreme Court declined this request, holding that the Home Office had not acted unlawfully in that action. 
+
+Part of the reasons for the ruckus around this case was that Shamima left the country as child, and that this should be taken into account as there was otherwise a risk of her being rendered stateless. 
+
+Shamima is not alone among persons who have found themselves being deprived of citizenship. In the case of John Modise, his father was a citizen of Botswana who moved to South Africa, where he met and married Modise’s mother, a South African. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Following his mother’s death, Modise was taken to Botswana, where he grew up until he was issued with a Certificate of Citizenship by descent on attaining adulthood. 
+
+But, following his involvement in politics, with which the regime was uncomfortable, Modise was deported back to South Africa on the grounds that Botswana deemed him an undesirable immigrant. 
+
+He settled in the homeland state of Bophuthatswana for about seven years before Bophuthatswana in turn sought to deport him to Botswana. He remained in the no-man’s land between Bophuthatswana and Botswana for over a month before he was granted a limited permit to stay in the country. 
+
+He sued the government of Botswana for declaring him an illegal immigrant despite his possession of a certificate of citizenship. In this case, the court upheld his right as a citizen and ordered the government of Botswana to recognise his citizenship by descent as a right. 
+
+The other way in which persons risk loss of citizenship is if they work outside their countries for long periods. Seafarers are particularly vulnerable in this respect. A South African national and sailor named Ibrahim worked for three decades at sea and sought British citizenship as a way of advancing his career. 
+
+ The citizenship was awarded on the false claim that he had been living in the United Kingdom. The South African citizenship law at the time was to the effect that a citizen could lose his citizenship if he acquired the citizenship of another country while outside the Union. 
+
+Ibrahim was on a ship within South Africa’s territorial waters when the British citizenship was conferred upon him. When the minister of Interior discovered that Ibrahim had obtained British citizenship, he declared him a foreigner. 
+
+A court vindicated Ibrahim and stated that he was entitled to retain his South African citizenship because of the lucky circumstances of his having been within South African territorial waters when the British citizenship was conferred. 
+
+In India, a number of cases arose out of the separation with Pakistan at independence. This left a number of persons within one of these countries but with relatives within the other, and thus qualifying for citizenship of both countries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One example was the case of Mahomed Usman. He was born while India was still a unified British territory incorporating present day India, Pakistan and even Bangladesh in 1910. Under the constitution of India, at independence he was entitled to be an Indian citizen, having been born in India and being there at independence. 
+
+He then went to Pakistan in 1951, a few years after the Independence of the two countries from Britain and the partition into separate countries. 
+
+Desirous of returning to India, Usman applied for a Pakistani passport and came back to India on a visa upon that passport. The visa expired in 1954 and he returned to Pakistan. 
+
+When a few years later he sought to go to India and register as citizen, his application was rejected on the ground that his allegiance was Pakistan, whose passport he had obtained a few years earlier. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He sued for deprivation of a citizenship he had acquired by birth, and the court held that he lost his citizenship when he obtained a Pakistani passport and pledged allegiance to it. 
+
+Marriage certificate 
+
+ Kenya and Tanzania have had a similar instance of a citizen in the name of Anudo Ochieng. He was born in Tanzania in 1979 to a Kenyan-born father who migrated to Tanzania while young.  Anudo thus held a Tanzanian birth certificate, passport, and voter’s card. His passport was confiscated when he applied for a marriage certificate. 
+
+The reason given was that he was not a valid citizen of Tanzania. He was then deported to Kenya in 2014, where he was arrested and deported back to Tanzania. He was compelled to sue at the African Court of Human and Peoples’ Rights. 
+
+ The court found Tanzania liable for arbitrary deprivation of Anudo’s nationality, obtained by birth, and ordered that it be recognised. In this judgment, the court upheld the principle that citizenship by birth could not be taken away under such circumstances. 
+
+Kenya itself has an outstanding case where it purported to deport a citizen born in Kenya but who took up exile in another country, came back and even worked in the civil service for a number of years, only for the government to later claim that he lost his citizenship by acquiring another country while in exile and therefore should be deported or have to reapply for reinstatement of the citizenship acquired by birth. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+All these just go to show that citizenship on the whole is a status of law but takes socio-political consequences from country to another. 
+
+sowino@ke.nationmedia.com He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
