@@ -1,0 +1,40 @@
+The opposition presidential candidate in the Republic of Congo, Guy-Brice Parfait Kolelas, was hospitalized in Brazzaville after being diagnosed with Covid-19 on the eve of the elections scheduled for Sunday, his campaign manager said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 61-year-old candidate missed his last election campaign on Friday after fearing he might have malaria. 
+
+His campaign manager Christian Cyr Rodrigue Mayanda confirmed the authenticity of a video broadcast on the internet which showed Kolelas wearing an oxygen mask on a bed. 
+
+"My dear compatriots, I am in trouble. I am fighting death. However, I ask you to stand up and vote for change. I would not have fought for nothing," the candidate said in the video. 
+
+The presidential election is taking place this Sunday, with seven candidates running for the position, including President Denis Sassou Nguesso and his main opponent Guy Brice Parfait Kolelas who came second in 2016. The largest opposition group, the Pan-African Union for Social Democracy, is boycotting the poll. As of Friday evening, Covid-19 cases had reached 4,076,147 in Africa. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
