@@ -1,0 +1,116 @@
+Kenyans are still feeling the effects of the Covid-19 lockdown from mid-March 2020. One sector that has been severely affected is education, with the most strategic interventions being about making up for lost time via curriculum and exam catch-up plans. However, far more effort must be put into understanding the holistic changes to learners. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The economic status of many homes has drastically changed for the worse. Children, kept away from friends by social distancing, are increasingly lonely — something that is ignored. The digital education gap is wider than ever, exacerbated by socioeconomic class. Many children have thus been left behind, unable to take part in online classes due to lack of access to smart devices or data for learning. 
+
+Children bear the brunt of parental or guardian anxiety and domestic violence. Up to 50 per cent of Kenyans are aged 19 and under, showing the alarming scale of this urgent situation. This has been tied to the increase in teen pregnancies where adolescent girls have long been denied access to sexual and reproductive health care. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sex education 
+
+Comprehensive sex education has been turned from a right into a hot-button issue by uneasy parents, controlling clergy and clout-seeking politicians, while ignoring the young people who urgently need this information. The majority of these pregnancies are unwanted because of little knowledge and access to methods of prevention, because authorities fear it will make girls promiscuous. 
+
+Stigma and family shame make it easier for society to find ways to overtly and covertly punish pregnant students, from denial of access to quality and youth-friendly, judgement-free antenatal care, to denial of the holistic home, educational, economic and social access and support, limiting the life options of the young and usually single mothers. 
+
+Offer money 
+
+Additionally, the girls report being coerced into sex by adults who offer money, menstrual supplies, phone airtime and other things in exchange. They are also raped by relatives and people they know, in their homes and neighbourhoods, vastly increases their exposure to sexually transmitted infections. 
+
+Child defilers are rarely identified. These felons must be named and punished, especially the adult male predators. Comprehensive sex education should also be given to the public, so they know why it is necessary for learners. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Several ministries tasked with health, education, social services and gender, must resource social workers to give these girls and their families the support they need to negotiate their often risky pregnancies. They also need to manage childcare and education and get access to quality daycare services, counselling, supplementary exams, bridging courses and more. 
+
+Pregnant teens have been a Kenyan reality for decades. They are owed concern and mediations to help them deal with this challenging time in their lives. Pregnancy must not be used to stigmatise and criminalise them. 
+
+okoreschea@gmail.com He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
