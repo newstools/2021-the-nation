@@ -1,0 +1,232 @@
+In 2019, an attempt by the government to create an extra sub-county within South Imenti flopped after local leaders failed to agree on a formula for subdivision. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The government had proposed that the constituency, with a population of 206,500 people, be divided into two sub-counties, with headquarters in Nkubu town and Igoji market. 
+
+According to the proposal, Nkuene and Mitunguu wards — with a population of close to 85,000 people — were to form one sub-county, while Igoji East, Abogeta East, Abogeta West and Igoji West wards, with over 121,000 people, was to form another. 
+
+However, a meeting of local leaders in February 2019 scuttled the plans, with demands for a third sub-county to cater for the interests of the main clans, the Abogeta, Igoji and Nkuene. 
+
+Supremacy politics 
+
+Two years after the attempted creation of an extra sub-county was abandoned, the proposal in the Building Bridges Initiative (BBI) to create 70 new constituencies has awakened the clan and supremacy politics. 
+
+South Imenti Constituency, which is expected to benefit, has been a beehive of activity with various camps scheming and counter-scheming. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the centre of the delimitation politics are the constituency’s top politicians including Meru Governor Kiraitu Murungi, MP Kathuri Murungi, former parliamentary aspirants Gideon Kimathi, Mr Shadrack Mwiti and Mr Jenaro Gatangugi. 
+
+The debate has brought the four rival politicians into two camps, with Mr Kathuri and Mr Mwiti on one side and Mr Kimathi and Mr Gatangugi on the other, based on their interests. 
+
+Each camp has been claiming that they have the support of the governor, who has taken a neutral stand, at least in the public. 
+
+
+
+
+
+
+South Imenti MP Kathuri Murungi who says the focus should be on creation of an extra sub-county to ensure residents get more resources before the BBI proposals are passed.
+Photo credit: David Muchui | Nation Media Group
+
+ 
+
+Power brokers 
+
+Aligned to each camp are elders and power brokers from the three major clans in the constituency, where each is fronting their interests. 
+
+The result has been an endless political battle where groups have been making their stand known every weekend. 
+
+While Mr Kathuri's and Mr Mwiti's side is pushing for Nkuene-Mitunguu constituency, Mr Kimathi's and Mr Gatangugi's team wants the constituency split into three wards. 
+
+The split into East and West will see Igoji East, Abogeta East and Mitunguu wards form a constituency while Igoji West, Abogeta West and Nkuene wards will establish the other. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Our proposal is to have two constituencies with three wards each. This scenario balances the population since the east will have about 102,000 people while the west will be 103,000. The east is more into banana farming while the west is a tea growing zone. It is the fairest way of splitting the constituency,” Mr Kimathi said. 
+
+This stance is backed by five MCAs including Dennis Kiogora (Abogeta West), Mwirigi Karinga (Abogeta East), John Kireria (Igoji East), Mutembei Mbiuki (Igoji West) and Evans Mawira (Mitunguu). 
+
+“We cannot split the constituency using a deceptive formula. Nkuene and Mitunguu should not be given a constituency alone because it will be unfair in terms of land size and administrative units. The constituency should be sub-divided equally for fair distribution of resources and population,” Mr Karinga argues. 
+
+More resources 
+
+But Mr Kathuri, the South Imenti MP, says the focus should be on creation of an extra sub-county to ensure residents get more resources before the BBI proposals are passed. 
+
+“We must pass the BBI before starting the conversation. I have observed that some utterances being peddled might erode the unity gains that we enjoy as a constituency,” Mr Kathuri said. 
+
+His sentiments have been backed by several groupings from Nkuene and Mitunguu wards who felt side-lined after the attempted creation of a sub-county in 2019 failed. 
+
+Nkuene MCA Martin Makasi, the only ward rep opposed to the East and West delimitation, said Mitunguu and Nkuene cannot be separated, arguing that they are like Siamese twins. 
+
+He argued that they are pushing for the establishment of a sub-county, which had been approved by the Ministry of Interior, but the process was suspended due to disagreements. 
+
+"The government was ready to establish Nkuene Sub-County with headquarters in Nkubu town. We want this implemented and after we endorse the BBI Bill, we shall become a constituency. We are not ready to be merged with any other ward,” Mr Makasi said. 
+
+According to Mr Muthaura Njogu, the vice-chairman of a grouping dubbed Nkuene Community in the Diaspora, Nkuene and Mitunguu have the numbers needed to form a constituency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Our stand is that we cannot take a formula that splits Nkuene and Mitunguu because it is intended to favour Abogeta. If they insist on three wards, we are ready to have Abogeta East or Abogeta West added to Nkuene and Mitunguu to form a constituency,” Mr Njogu said. 
+
+‘Abogeta favoured’ 
+
+He says past administrative and political opportunities have favoured the Abogeta hence the proposed delimitation is a chance to correct the skewed allocation of resources. 
+
+On the other hand, a group of youths from Igoji, led by a local politician, Moses Kirimi, vowed to oppose a formula that would place Igoji West and Igoji East wards in separate constituencies. 
+
+“If there is a new constituency, it must include Igoji East and Igoji West wards because we are the most marginalised clan. It is common sense that priority should be given to the marginalised when opportunities arise. If Igoji will be separated, we are not ready for an extra constituency,” Mr Kirimi said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to the Independent Electoral and Boundaries Commission’s preliminary report on delimitation of boundaries in 2012, residents had proposed the creation of Nkuene Constituency — comprising Nkuene and Mitunguu divisions — and South Imenti Constituency with Abogeta East and West, and Igoji East and West. 
+
+ 
+
+dmuchui@ke.nationmedia.com The five travelled from Nairobi to Kisumu to visit a colleague whose father had died. Acting County Secretary Jairus Musumba is accused of making appointments in disregard of rules and procedures. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
