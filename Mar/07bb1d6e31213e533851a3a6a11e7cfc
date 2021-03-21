@@ -1,0 +1,125 @@
+Humphrey Polepole said the central committee stated that in the near future, there will be a special general meeting to approve President Hassan as CCM chairperson. Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Two days after she was sworn-in, President Samia Suluhu Hassan is set to become ruling party CCM’s national chairperson, a post that has been left vacant following the death of her predecessor Dr John Pombe Magufuli. 
+
+This comes after an extra ordinary meeting that took place on Saturday afternoon at the part’s sub-office in Dar es Salaam, hours after party stalwarts attended a requiem mass at  Uhuru Stadium. 
+
+Speaking to journalists immediately after the meeting on issues funeral arrangements, Humphrey Polepole said work started by Dr Magufuli will continue under President Hassan. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magufuli's body leaves Uhuru Stadium under tight security
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+“The Central Committee has discussed how to fill the position of the chairperson and has unanimously agreed that Samia Suluhu Hassan will be the sole candidate for the position of chairperson,” said Mr Polepole. 
+
+He said the session chaired by the party's vice-chairman in Zanzibar, Dr Ally Mohamed Shein, and vice-chairman mainland, Philip Mangula, was also attended by retired party and government leaders. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They included retired presidents Ally Hassan Mwinyi and Jakaya Kikwete, retired Zanzibar President Amani Abeid Karume and retired Prime Minister John Malecela. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanzanians speak highly of Magufuli’s leadership style
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Mr Polepole said the central committee stated that in the near future, there will be a special general meeting to approve President Hassan as CCM chairperson. 
+
+"This meeting should be organised and held soon. As is our custom, the general meeting is preceded by a meeting of the central council to fill the vacancy," he said. 
+
+Though he did not mention issues apart from the funeral of the late President, among the pressing issues the party has to deal with is the position of Vice President, which Ms Hassan held under President Magufuli. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Mourners lined the streets of Dar es Salaam to bid farewell to President, some of them weeping and throwing flower petals as the casket. There are concerns that India's "vaccine diplomacy" will come at a cost Ten of them are late death reports from the audit of facility records, CS Kagwe says.
