@@ -1,0 +1,122 @@
+Former Energy, Petroleum and Regulatory Authority (EPRA) director-general Pavel Oimeke will fly the Orange Democratic Movement (ODM) flag in the Bonchari constituency by-election. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Oimeke received a certificate on Friday from ODM confirming that he is the party's candidate. 
+
+ODM officials said, they settled on Mr Oimeke following consultations and consensus. Mr John Billy Momanyi and Mr David Ogega Oyugi who had expressed failed to get the flag. 
+
+"We're confident that he [Oimeke] will be able to persuade Bonchari [constituents]," Mr Edwin Sifuna, the ODM secretary general said on Friday. 
+
+The ODM officials said they settled on the energy expert after it emerged that Mr Oyugi is not officially an ODM party member. 
+
+“During the vetting we found that Mr Oyugi’s membership is not legitimate because he ran as an independent in 2017 and he had not re-registered as a member in accordance with our rules and regulations,” Ms Catherine Mumma, the ODM party elections board chair said. 
+
+Despite a cloud of corruption hanging on his head, Mr Oimeke is confident that the "trust" ODM party has in him to "deliver Bonchari constituency” will yield. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I am coming and believing that you will choose me." he said. “I want us to work together to make sure that Bonchari develops and to create a future for our children.” 
+
+Mr Oimeke’s exited EPRA amid a corruption case that accused him of demanding Sh200,000 to reopen a petrol station in Oyugis, Homa Bay County. He was arrested by Ethics and Anti-Corruption Commission (EACC) in December, spent a few days in the basement cells at EACC and was released on Sh20,000 police bond. 
+
+While still at EPRA, a petitioner accused Mr Oimeke of mismanagement of public institution, public resources, corruption, tribalism and favourism. 
+
+On whether EACC will clear him to vie, ODM is banking on a precedence of the High Court in 2013. 
+
+“We are 100 per cent confident that he will be cleared,” Mr Sifuna said. “We also take refuge in the decision of the High Court in the case involving the current president and DP in 2013 where in fact, the court saw no reason to bar them from running for [top] office because of any matters that were pending in the courts” 
+
+“People are presumed innocent until proven guilty,”Mr Sifuna added. And “We have looked at all these circumstances” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Bonchari constituency seat fell vacant following the death of Oroo Oyioka. Mr Oyioka got 11,963 votes to win the Bonchari MP seat in 2017 elections on People’s Democratic Party ticket. 
+
+Bonchari constituency by-election is scheduled for May 18, 2021. Ex-Epra boss Pavel Oimeke resigned last week from to venture into politics. His resignation comes about three months after he was arrested for allegedly receiving a Sh200,000 bribe. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
