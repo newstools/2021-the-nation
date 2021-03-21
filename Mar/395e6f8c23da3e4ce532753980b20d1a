@@ -1,0 +1,381 @@
+One Sunday evening in March 2018, Deputy President William Ruto assembled his strategists at his official Karen residence with unusual sense of urgency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+His boss Uhuru Kenyatta had just embraced ODM leader Raila Odinga, a man they had fiercely campaigned against the previous year and labelled all sorts of names, without his prior knowledge. 
+
+The DP panicked. While he was under the impression that the goal was to tame Tinga (tractor), as he often refers to Mr Odinga, so they could rule in peace, his sixth sense was troubled. There was something the President was not telling him, he thought. 
+
+Allies who attended March 11, 2018 strategy meeting, two days after the highly publicised rapprochement between Mr Kenyatta and Mr Odinga, told us that the event had all the hallmarks of betrayal. 
+
+“Even though most of us were in denial, we knew betrayal was in the offing. I mean the dynamic duo had were just smarting from a successful excursion, enduring the nullification of presidential poll outcome before resoundingly winning a fresh mandate, how then would Uhuru embrace the enemy without prior reference to his right hand man (DP)?” one of them wondered. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+United Democratic Alliance (UDA) chairman Johnstone Muthama addressing journalists on January 8 at Hustler Centre, the party’s headquarters in Nairobi, after handing nomination certificate to candidates for various by-elections in the country. 
+Photo credit: Jeff Angote | Nation Media Group
+
+ 
+
+There was only one agenda on the table. The handshake. How was the DP going to collect his pieces yet still appeal to the psyche of the nation with his eyes trained on succeeding Mr Kenyatta? 
+
+That’s is how ‘hustler’, now the buzz word in the political conversation, came into existence. The slogan had been there before but on this day, it found a new traction. There was need to galvanise the country without paying attention to the tribal blocs that have dominated the landscape since independence, it was resolved. 
+
+There were also those who wanted him to resign in protest but they were overruled. It is better to fight from inside than outside, they agreed. From then, it was agreed they would repackage the meaning of hustler, away from what the dictionary calls it. 
+
+Swindler 
+
+The traditional meaning – swindler, has been used to dismiss the DP and his movement as a bunch of crooks only waiting to milk the public coffers dry at the slightest opportunity. 
+
+Initial push to normalise its usage within DP’s ranks had been associated with ‘side hustle’, which has been in use and refers to an employment or gainful activity one engages in to supplement an income. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a number of occasions, Mr Kenyatta introduced his deputy to the public as ‘hustler’ before the 2017 General Election but from then on, it was going to be the rallying call. 
+
+Dr Ruto’s office traces the origin of the term hustler to as far back as 2005. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uhuru goes after Ruto’s ‘hustlers’ with grand plan
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+“The hustler tag came into being around 2005. When Ruto declared interest in running for President, critics started asking questions about his steady rise in politics. Questions about his wealth were also raised. In response, Ruto explained how he had entered politics as a youth leader and finally defeated Reuben Chesire in Eldoret North against all expectations. He also explained how he sold chicken along the road in his rural home before venturing into insurance business and small-scale real estate,” Mr Emanuel Talam, DP’s spokesman, said. 
+
+Mr Talam recalls that in the 2007 and 2013 elections, the name Hustler was already entrenched as his colleagues in ODM and Jubilee freely used the name. 
+
+Read: Raila rejects plan to legislate against DP Ruto's ‘hustler’ talk 
+
+“With time it became his brand name as more ordinary Kenyans hustling to put food on the table identified with him. That is how the hustler nation was born,” he said. 
+
+DP had been hoping to inherit President Kenyatta’s central backyard intact but the new order was not going to permit that since the Head of State remains the region’s kingpin. But through hustler clarion, he thought, the business community from the President’s backyard who had borne the brunt of tough economic times would listen to an outsider, for the first time, a DP’s ally said. 
+
+Soy MP Caleb Kositany, a confidante of the DP, sacked last week as the ruling party’s deputy secretary-general, told the Sunday Nation they settled on hustler clarion call when they met because it mirrors the humble beginning of their boss and also that it would resonate well with the masses. 
+
+“DP rose from a mere chicken seller to a key player in the national politics. Today you ignore him at your own peril. That is the true meaning of a hustler and we believe that he is an inspiration to millions of Kenyans who are struggling with bills and daily needs. There is hope for them through one of their own,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But what began as sloganeering premised on hitherto undesirable meaning has reshaped the political landscape even drawing the attention of the National Security Advisory Committee of Kenya, the top most security organ in the country warning that it had the potential of triggering class wars. 
+
+“Leadership is not about where you were born. It not about where you came from, tribe or colour. It is about a desire to serve, to do go good and make a difference in people’s lives and that’s why we will not allow anyone to plant division among Kenyans. We want a united country,” Mr Kenyatta. 
+
+Mr Odinga, although against outlawing the use of hustler slogan, believes it is capable of fomenting internal strife in the country. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I have explained on several occasions that “hustlers verses dynasties” is a dangerous slogan. However, I would strongly appeal to Members of Parliament to drop any attempts to legislate against this otherwise deadly slogan,” Mr Odinga said. 
+
+The National Assembly’s national security committee led by Kiambaa MP Paul Koinange wants the National Cohesion and Integration Act amended to include class as a basis for incitement and discrimination. 
+
+“The NCIC (National Cohesion and Integration Commission) had requested for strengthening of the Act to make it harsher to deter hate speech. As part of that strengthening, incitement along class lines will come up,” Mr Koinange said. 
+
+The law as it is mostly touches on discrimination and incitement on the basis of ethnicity, race, nation and religion. 
+
+There have been reported cases of irate members of the public torching peoples’ cars after accidents terming them dynasties. The State fears the DP may inadvertently be radicalising jobless youth in what may drive the country to the precipice. 
+
+Read: Bill seeks to make William Ruto's ‘hustler’ talk a crime 
+
+“Our attention has been drawn to hundreds of unruly riders who stormed the scene and set the vehicle on fire. The unruly boda boda riders were chanting terms that indicated their sworn allegiance to the Hustlers’ Movement. A boda boda rider is on record as claiming that the deputy governor is a member of the dynasty and that he should be taught a lesson for disrespecting hustlers,” Kisii county governor’s spokesman Isaac Ongiri said after the vehicle belonging to DG Joash Maangi was set ablaze last month. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Another concern by some government operatives is that the DP maybe over-promising the youths, what may also lead to an uprising in the event he was to become President and fails to live up to the promises. 
+
+DP Ruto is, however, satisfied with the kind of traction his slogan has gained over time even as his allies sought to downplay the accusation of sowing discord. 
+
+“We have managed to transfigure our politics and political discourse from ethnicity to hustlers and their tools of work. We are now activating the right formula — anchored on progressive ideas and visionary leaders—that will help create jobs, wealth and opportunities for the millions of ordinary Kenyans,” Dr Ruto said on February 17. 
+
+In his book, Don't think of an elephant, George Lakoff, an American cognitive linguist and philosopher explains how the conservatives in the US have maintained a stranglehold on political dialogue through sloganeering and strategy, the same script DP Ruto is applying through ‘the hustler nation’. 
+
+Lakoff explains how the right has over the years managed to co-opt traditional values to popularise its political agenda. 
+
+“This kind of language use is a science. Like any science, it can be used honestly or harmfully. When you think you just lack words, what you really lack are ideas. Ideas comes in frames. When the frames are there, the words come readily,” Lakoff writes. 
+
+He explains how politicians employ Orwellian language in their trade, “They are saying the opposite of what they mean. They are deceivers. Bad. Bad.” 
+
+The handshake was an easier way out of the impasse that had persisted since the disputed presidential election of 2017. 
+
+The two had each exhausted their options in the chess game. Mr Kenyatta needed breathing to space to govern while Mr Odinga’s support base was experiencing fatigue from a protracted face-off with the government. Something had to give in. 
+
+One promise in hustler narrative, some observers say, is the push (the jury is still out if it is genuine) to dismantle tribal based politics. DP Ruto says the grassroots mobilisation format he has adopted will transcend tribal voting blocs and enhance national unity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Were he to succeed, politics that pays no attention to one’s tribe, would ensure that those from minority communities get fair chance to lead the country. 
+
+The hustler script does so much lifting from the Jacksonian Era, a period in the 19th century when Andrew Jackson, the seventh United States President rose from obscurity to the White House. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Like is the story of Kenya, previous presidents in the US found themselves at the apex courtesy of household names and wealth. 
+
+Jackson’s humble background in Tennessee worked for him and the DP hopes to replicate it here through the ‘common man’ messaging. 
+
+Read: BBI: Bring it on, William Ruto dares ‘system’ 
+
+The irony though is that he makes it to the list of one of the wealthiest Kenyans. Team hustler normally lands in choppers or arrive in guzzlers to the venue of campaigns only to dish out wheelbarrows to the supporters. 
+
+Jacksonian era also diminished the stranglehold of the elites, what here they call dynasty, on government. In Britain, a similar scenario pitted oligarchs against commoners. 
+
+It is not the first time a politician is trying stoke ‘class wars’ in the country in an attempt to ‘correct an imbalance’. 
+
+Before his assassination in 1975, Josiah Mwangi Kariuki popularly referred to as JM Kariuki had become a fierce critic of President Jomo Kenyatta accusing him of presiding over the growing gap between the rich and the poor. He encouraged the masses to stand up to the challenges of their time. 
+
+"Kenya has become a nation of 10 millionaires and 10 million beggars," is one of the best known quote attributed to him. 
+
+Marxism, after Karl Marx, holds that class conflict is the means through which a society develops. 
+
+In capitalism, like in the case of Kenya, there is enduring conflict between the bourgeoisie (the ruling class) who control the means of production or power on one hand and the working class (proletariat) on the other. 
+
+In France, class wars and economic hardship caused the revolution of 1789 that toppled King Louis XVI. 
+
+Whether Kenyan voters, who loyally follow tribal gods, will disregard their regional kingpins for the first time and cast their ballot on the basis of class remains to be seen. It would be a miracle in our lifetime. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+jwanga@ke.nationmedia.com Kositany insists that they will not be pushed into leading the ‘No’ camp. Interior Cabinet Secretary says 'Hustler Nation' narrative has the potential to create serious national security problems. He listened. In some cases, he personally walked into offices to see how work was being done. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
