@@ -1,0 +1,130 @@
+Nairobi Deputy Governor Anne Kananu has cleared one of the hurdles preventing her from becoming county boss. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Court of Appeal dismissed a case filed by former Governor Mike Mbuvi Sonko and other petitioners seeking to stop her from being sworn in as deputy governor and subsequently assuming the role of governor. 
+
+The ruling, consolidated two constitutional petitions at the High Court, in essence affirming Ms Kananu as Nairobi deputy governor. 
+
+The 40-year-old is awaiting the outcome of a ruling by a three-judge bench formed by Acting Chief Justice Philomena Mwilu to hear and determine consolidated petitions against her swearing in as Nairobi governor. The ruling will be delivered on May 5. 
+
+On Thursday, Justices Said Chitembwe, Wilfrida Okwany and Weldon Korir told Ms Kananu wait for the Court of Appeal ruling on several applications challenging her position as the deputy governor and the process of her appointment. 
+
+Withdrawn petition 
+
+“Before us are several applications. It is our opinion that she should await the determination of the consolidated petitions,” the judges said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, they said orders granted by Justice Anthony Mrima on January 18 stopping the swearing-in of Ms Kananu as governor should remain, pending the hearing and determination of consolidated petitions challenging the event. 
+
+In early January, Mr Sonko went to court to challenge the withdrawal of a petition questioning the nomination of Ms Kananu as deputy governor. 
+
+The withdrawn petition had been filed by Mr Peter Agoro. 
+
+Mr Sonko, through his lawyer Harrison Kinyanjui, opposed the withdrawal and subsequently filed a cross-petition. 
+
+The former City Hall boss had also said he withdrew Ms Kananu’s nomination on December 7, 2020. 
+
+However, Justice Hedwig Ong’undi declined to suspend her ruling accepting the withdrawal of the petition, advising any party dissatisfied to proceed to the Appellate Court. The advice was immediately taken by Mr Sonko. 
+
+Academic exercise 
+
+Later, the Court of Appeal said the case had been overtaken by events – the swearing-in of Ms Kananu as deputy governor in January. 
+
+“The Court does not and ought not make orders in vain, or engage in an academic exercise,” read the ruling. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We agree that the instant application has been overtaken by events and dismiss it with no order as to costs.” 
+
+Mr Sonko sought orders stopping the implementation of a ruling by Justice Anthony Mrima on January 15. 
+
+comulo@ke.nationmedia.com A court ruling has eliminated one of the hurdles in Anne Kananu's path to becoming governor. Justice Anthony Mrima disqualified himself from handling the ten petitions that have been filed by different individuals and rights' groups challenging the nomination of Ms Kananu. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
