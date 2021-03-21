@@ -1,0 +1,122 @@
+If it affects ODM leader Raila Odinga, you are sure to see his supporters showing their love for the politician in ways only they know. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That is why a number of people believe the earthquake felt in various parts of the country in the wee hours of Thursday, March 11, was related to Mr Odinga’s positive Covid-19 diagnosis. After all, one of the titles he holds is “His Earthquakeness”. 
+
+“God has shown us a sign by sending the earthquake throughout Nyanza region. Raila Odinga has recharged. The Earthquakeness is as fine as a fiddle,” one Makori wrote on Facebook. 
+
+ “There was no earthquake. It is HE Raila Odinga, Baba, who sneezed,” posted John. 
+
+Okello was more dramatic: “When I felt the earthquake at around 4.30am, I expected some terrible news in the morning (but now I understand) it was the time the doctors had inserted the (swab) into His Earthquakeness, His Thunderstormness, Tinga, Nyundo , Hammer, His Tibimness for the corona test sample.” 
+
+Earth trembles 
+
+Emmanuel was also flowing in the same vein: “I am not a scientist or a seismologist but I am fully convinced that when Raila Odinga is sick, the earth trembles and he recovers.” 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There are others who view Mr Odinga as superhuman and thus cannot begin to think how the newest coronavirus could have dared pounced on him. Remember the man who was filmed saying that Mr Odinga being infected should translate to disbandment of the country so everyone can go home? 
+
+The reverence to Mr Odinga did not end with humorous explanations of the earthquake and his apparent invincibility. 
+
+Elsewhere, there were people seriously praying for the politician after he made it public that he had contracted Covid-19. Among them is the Nyanza Council of Churches led by Bishop Ogonyo Ngede that convened the following day to hold prayers for Mr Odinga. Across WhatsApp, recordings of people praying for Mr Odinga have also been circulating. 
+
+There have been expectations of a social media trend akin to the #RailaChallenge that filled up social media timelines in July last year when he was hospitalised in Dubai. 
+
+No ordinary person 
+
+An ordinary mortal won’t stir so much attention by appearing in a video where he is dressed down, recovering. But this was no ordinary person; it was Mr Odinga in a video posted by his daughter Winnie as he recovered in Dubai. The yellow polo shirt he wore with a blue pair of shorts inspired people to look for clothes of the same colour to post under #RailaChallenge. Anything to show support for the leader who has a fanatic support base. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Being in isolation after testing for Covid-19, his return to the public will most likely be met by a trend in the lines of #BabaWhileYouWereAway that was on everyone’s lips upon his return to Kenya in 2014 after being away for months. Or maybe there will be a song, if not songs. Any artiste from the shores of Lake Victoria who is worth his or her salt must have a song about Mr Odinga’s heroics. 
+
+eondieki@ke.nationmedia.com ODM leader posts a tweet showing a video of himself doing exercises. He spent his fifth night in hospital and remains under observation He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
