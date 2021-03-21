@@ -1,0 +1,159 @@
+Tom Mshindi: Magufuli made critical systems in Tanzania work 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ 
+
+It may yet turn out to be one of those extreme providential ironies that in dying so soon after he started his second five-year term as President of Tanzania, John Pombe Magufuli will be feted more as an unapologetic nationalist stubbornly committed to developing his country than as a vindictive, autocrat that brooked no dissent from any quarter and who turned the sanctuary of African nationalism into a hellhole from whence hope escaped. 
+
+Fate did not allow him the opportunity to serve the five years, and possibly extend his tenure if murmurs within CCM had conflagrated into a full-blown campaign - during which time he could have become a truly nasty number. 
+
+Magufuli’s handling of the pandemic was his evil swan song. He dismissed science and promoted quackery in the face of overwhelming evidence that this virus was real, a killer sweeping across the world. 
+
+He donned a messianic cloak and invoked God as all the shield Tanzania needed to defeat the enemy. And by refusing to impose measures to slow the march of Covid-19, he exposed his people to preventable deaths. He shut them up from complaining loudly about the deaths and burials they were attending to daily! 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tackle corruption 
+
+Mercifully for his legacy, Magufuli did not live through the pandemic to give history the chance to place this ignominy alongside the brutality he meted out to the opposition. And the malevolence with which he muzzled the media and ripped away people’s rights to speech by criminalising publication, on any platform, of any word or thought seen as critical of his government or of himself. Even the clergy was not spared. 
+
+Some, of course, will foreground these aspects of his presidency as the enduring legacy. But I suspect his sudden departure will instead immortalise his remarkable zeal in the early years of his first term to tackle corruption, sloth, inefficiency and what he considered as unfair and imbalanced reciprocity in economic and bilateral relations between Tanzania and foreign countries and companies trading in Tanzania. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He rounded up on theft and pilferage at Dar es Salaam port, at the investment promotions centres and at the tax authorities and cleaned them up in summary dismissals of those in charge and found to be lax. Many of his edicts qualified as “roadside declarations” but they packed serious presidential power. Suddenly, systems started working. 
+
+He banned unnecessary foreign trips for ministers, government officials and anyone else being paid from people’s taxes. He did not travel much – in fact he never took a trip outside Africa, and even within, they were very few. He banned meetings in expensive hotels, reminding Tanzanians that the government had more than enough meeting rooms. Billions of shillings were saved from this and Tanzania’s foreign interests did not suffer. Workers became more efficient. 
+
+He drove an unashamedly pro-Tanzania economic policy and forced foreign companies that mined the rich reservoirs to change their pricing formulas and ensure the country benefited from its minerals. 
+
+Magufuli told China to keep its loans and committed to use own funds and limited loans to build the new terminal at Julius Nyerere International Airport, the inter-changes on the main highway into the capital and the public commuter transport system. The standard gauge railway is being built on the same principle. 
+
+Now this is hugely popular stuff in a continent littered with tells of extreme corruption, laziness and lack of patriotism. Kenyans watched this in amazement and it was hardly a surprise when by 2019, it was clear that Tanzania was overtaking Kenya as the leading economy in this part of the world. 
+
+ There was a wistfulness and longing to have a Magufuli take over for a little while and kick sense into some heads. 
+
+Magufuli did plenty of bad things but he made critical systems in Tanzania work. He forced corruption to beat a retreat and demonstrated that countries can generate sufficient resources to fund development for their people. 
+
+ President Samia Suluhu has a great foundation to build on and the calling to ease off the suffocating burden of muzzled democracy. Greatness has been thrust onto her and we wish her Godspeed as she moves to consolidate the good and dismantle the ugly that is Magufuli’s legacy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+tom.mshindi@gmail.com, @tmshindi He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
