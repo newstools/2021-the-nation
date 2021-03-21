@@ -1,0 +1,234 @@
+ The third wave of Covid-19 continues to wreak havoc across the country, raising infections, hospital admissions and death figures above those experienced last November at the peak of the second wave. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Yesterday, Kericho County was thrown into mourning after deputy governor Susan Kikwai succumbed to the disease. Ms Kikwai, who died after five days of hospitalisation, was among a host of other victims of the deadly virus reported, including a doctor, Kenneth Mutuma, who worked at the Mbagathi Hospital. 
+
+Meru governor Kiraitu Murungi and ODM leader Raila Odinga are in isolation after contracting the virus. 
+
+Many more less prominent people are hospitalised in intensive care units and thousands are under home-based care as healthcare workers and counties prepare for a crisis. 
+
+The Health ministry yesterday reported that 1,274 people had tested positive for the disease, out of a sample size of 7,240 , bringing the total confirmed positive cases to 120,163. Some 123 patients are in the ICU. Twelve more deaths were reported, pushing the cumulative fatalities to 1,994. While announcing the death of his deputy at the Council of Governors headquarters in Nairobi, Kericho governor Prof Paul Chepkwony cautioned Kenyans against lowering their guards in the face of the lethal wave of the virus. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+“We must not lower the guard. It has taken away our deputy governor. This virus is not a respecter of persons,” Prof Chepkwony said. 
+
+The rising numbers are causing concern, with questions on what Covid strain is spreading. The new daily infections are now above 1,000, and the positivity rate stands at 17.5 per cent, almost four times the World Health Organisation recommended level of five per cent, pointing to a deepening crisis and fears of the health system getting overwhelmed. 
+
+On Friday, 28 persons lost their lives, the highest single-day count so far, as the country turns a critical stage in the battle with the virus. 
+
+November last year was the toughest month in the fight against Covid-19 with 456 people losing their lives to the virus. In the same month, the country recorded the highest fatalities in a single day, at 21. 
+
+But in just 10 days after the Ministry of Health announced the third wave, the country recorded the highest number of infections ever, 1,354, on Friday. This has brought back bad memories of November 2020, when the country lost some 30 healthcare workers, including 12 medical specialists. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The average daily double-digits death rate currently reported is being blamed on Kenyans not adhering to the public health measures as community infections have exposed vulnerable and immune-compromised age groups. 
+
+Some experts are raising concern that the worrying number of deaths and hospital admissions and even the cases could be blamed on new strain. 
+
+Health Cabinet Secretary Mutahi Kagwe has asked counties to equip hospitals in readiness to handle the numbers adding that the country’s health system is beginning to feel the strain. 
+
+Mr Kagwe told the Senate Health committee last week that critically ill patients are being transferred to Nairobi for treatment yet the counties were given money to equip their respective hospitals. 
+
+He said that already hospitals and even the ICUs in Nairobi are full and counties should get ready for the upsurge of the numbers. 
+
+All the intensive care beds at Kenyatta National Hospital and Mbagathi are full, forcing Kenyans to look for space in private facilities which are almost full. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+“It’s bad. All hospitals in Nairobi are now having a waiting list for ICU and Covid-19 isolation beds with oxygen. Please mask up, take care of yourselves,” Dr Ahmed Kalebi, Chief consultant pathologist, Lancet Group of Labs. 
+
+Central region coordinator Wilfred Nyagwanga has directed all area sub county security committees to launch immediate crackdowns on defaulters of Covid-19 protocols. 
+
+He cited public transport, entertainment, hospitality and markets as the drivers of the pandemic. 
+
+He said intelligence reports continue to capture matatus overloading, markets and bars flouting social distancing rules and majority discarding face masks and ignoring the national curfew. 
+
+Very vulnerable 
+
+He said, "The third wave of the pandemic is real, vicious and arrived here in our region." 
+
+The national Covid-19 Board chairman, Dr James Mwangi, warned Mt Kenya residents that they are very vulnerable to the pandemic owing to their underlying health conditions burden. 
+
+Dr Mwangi, who also is the CEO of Equity Bank, said unless the region's population took individual guard against the scourge, they would sink into a real Covid-19 tragedy. “When we are told to keep off bars, keep off gatherings and keep off carelessness, it is not because the government wants to punish us but it is because it needs us today and into the future for nation building. If you do not love living for the government, then at least you have the loved ones…try to be safe to keep them safe,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I am a bit worried at the trend things are taking. We are badly off. This virus is not a joke, It is going to go down with so many people, It is lethal,” says Prof Omu Anzala, microbiologist. 
+
+He said the seriousness of the virus will also be detected in the number of samples being tested and mapping the risk areas for possible measures. 
+
+“When we test more, we can be able to tell from the numbers where we are reporting more and how many are being captured in the laboratories, but the numbers as they are worrying,” he said 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Africa Centre for Disease Control warned African countries of the rising fatality rates saying that of the 55 countries they monitor, 20 are now reporting fatality rates above the current global average of 2.2 per cent. 
+
+Additional reporting by Mwangi Muiruri. Seven of the deaths occurred earlier and were discovered in an ongoing audit of county records. The country has recorded 28 more deaths and 1,354 new infections, the highest numbers since last March. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses.
