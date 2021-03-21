@@ -1,0 +1,165 @@
+Yesterday marked the end of an era for the academic community in general and for Kenya’s women’s movement in particular. Prof Norah Khadzini Olembo, who passed away on March 11, was laid to rest in her matrimonial home in Bunyore, Vihiga County, after losing the battle to a cancerous tumour in her mouth that was diagnosed only 10 months ago. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Norah, as all the eulogists at the Nairobi Baptist Church last Thursday called her, missed celebrating her 80th birthday on June 10 by a slim three months. 
+
+Like most luminaries of her generation — Prof Miriam Khamadi Were of primary healthcare fame, the women banking icon, Dr Mary Elizabeth Okelo, and Kenya’s first woman judge Effie Owuor — I first met Prof Olembo at the height of the women’s movement in Kenya in the 1980s. 
+
+The four — including Prof Julia Auma Ojiambo, who was instrumental in bringing to Kenya the 1985 World Conference to Review and Appraise the Achievements of the United Nations Decade for Women — have one thing in common: they laid their academic foundations at Butere Girls. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Although Prof Ojiambo, the current and first woman chairperson of the University of Nairobi (UoN) Council had long left Butere Intermediate Girls Boarding School for Alliance Girls, Prof Were and Norah were to pioneer present-day Butere Girls High School. 
+
+Guinea pigs 
+
+Prof Were’s tribute to Norah captures the girls’ disappointment on missing a place at the then African Girls High School. “We were an angry lot that arrived at what became Butere Girls High School. The headmistress congratulated us telling us that because many of us had excelled, this made a second high school for protestant girls in Kenya necessary.” 
+
+Notwithstanding their disappointment, the girls defied the odds of being guinea pigs in a newly-created girls’ high school to become super-achievers in their careers. Prof Were eulogised her classmate at the church service: “Norah handled disappointments so well and this took her far! She went to the UK for her A-levels”. 
+
+Norah’s stint at Mount School in York was sponsored by her home Friends Church Kaimosi. An all-round student, her leadership qualities saw her named head girl at Butere Girls. Those qualities manifested at York, where she was the school’s hockey team captain, lending a lie to the bookworm mentality that has destroyed many a young life as classwork is upheld at the expense of co-curricular activities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dr Okelo describes Norah as “an outstanding student and leader”, who somehow always managed to find a way around obstacles that threatened to scuttle her dreams. She explains how Norah wound up in the UK for her A-levels: “Norah wanted to be a medical doctor. But at that time in Butere we did not have science subjects.” 
+
+Although she never became a medical doctor, Norah, a product of the UoN through and through, having attained her bachelor’s, master’s and PhD degrees there, went on to become the first African professor of Biochemistry, Prof Were stated in her tribute. 
+
+After attaining her BSc degree in Chemistry, Botany and Zoology, she later earned a Masters in Zoology and a PhD in Biochemistry. She broke her incestuous union with her alma mater when she earned a post-doctoral degree in molecular biology from the Courtauld Institute of Biochemistry of the University of London. 
+
+Among Norah’s key achievements was leading the nation in recognising the importance of patents after foreigners patented Kenya’s kiondo. 
+
+Norah, who was an associate professor of Biotechnology and chairperson of the Biochemistry Department, dabbled with insects in her various research projects. She participated in studies that explored the role of biodiversity in food security, disease alleviation and environmental protection. Indeed, tributes to her were tinged with humour with one saying, “She would talk to plants and play music for them”. 
+
+Orchid Society of Kenya 
+
+Flower lovers, who came to buy her blooms, introduced her to the Orchid Society of Kenya, a society of amateur growers, whose goal is growing orchids, descried online as “plants with complex flowers that are often showy or bizarrely shaped”. 
+
+The university don’s role in public policy became evident when she was seconded to the Ministry of Trade and Industry in 1992 to set up the Kenya Intellectual Property Office, which she directed for 10 years, followed by two years as managing director, Kenya Industrial Property Institute. 
+
+However, her attempt at elective politics in 2007 failed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Norah sat on various boards, chairing some, including the Kenya Radiation Board, Pest Control Products Board and Canada’s International Development Research Centre. Widowed in 2005, Norah, a devout Quaker, is now hopefully in the company of soulmate and fellow intellectual Reuben Olembo, a Makerere University alumnus, who, like her, was a scientist and an environmentalist. 
+
+They are survived by two daughters, Lynette and Lilian, and firstborn, Kenneth. 
+
+dkweyu@ke.nationmedia.com He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
