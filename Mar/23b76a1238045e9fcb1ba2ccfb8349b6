@@ -1,0 +1,148 @@
+The Covid-19 pandemic continues to create challenges to the global economy and health care systems. Due to shortage of clear data on the virus, health care workers have had to rely on modelling and plans developed from previous emergencies to contain the spread of the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As it evolves, it is crucial that policymakers understand the difference between science and the real-world evidence so that programmes can adapt to the changing environment. 
+
+It invites ridicule to try and predict what will happen in the coming years, but the economic and social impacts of Covid-19 are likely to increase vulnerability among the already vulnerable. Delivery of dental care is likely to be more problematic and more expensive. 
+
+More than ever, we need to reduce the burden of avoidable dental disease. 
+
+This is why a new study by Unilever, which reveals an interesting trend during this pandemic may come in handy, amongst other efforts. 
+
+Mental health 
+
+The survey shows that people are brushing their teeth less. Parents are leading in this malpractice. Children have copied the habit from their parents. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While the study of nearly 7,000 participants reveals an overall positive shift in attitudes and behaviours towards the importance of physical and mental health during the pandemic, oral healthcare, which is the cornerstone of good overall health, is suffering and appears neglected. 
+
+The study found that during the pandemic, families have neglected their basic oral health habits, with four percentage drops in twice-daily brushing habit for adults, and a staggering nine per cent in children. 
+
+The oral health study also found that fewer people are brushing their teeth twice a day compared to two years ago. 
+
+Five per cent less adults are brushing their teeth twice a day and 11 per cent less children are touching the brush to clean their teeth in a day. 
+
+One in four children are not brushing their teeth day and night and 40 per cent of adults have reported going entire days without washing their mouths. 
+
+Greater risk 
+
+It may be tempting to put off dental care because you have become lazy or have questions about safety or new procedures, but doing so puts your overall health at greater risk. 
+
+Our collective experiences during the pandemic only serve to reinforce the fact that dental care should be a priority, essential and must continue because it is a valuable part of our individual and collective public health. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Issues like children not frequently brushing their teeth or not brushing at all, if not identified and rectified early enough, can develop into more serious problems. 
+
+Research has linked oral infections that spread throughout the body to dementia, heart disease and other life-threatening health challenges. 
+
+That is why healthcare workers should take studies like the one commissioned by Unilever serious. 
+
+It is therefore important to revisit the issue of encouraging parents and children to brush day and night, to create a positive lifelong routine for the family and ensure good oral health. 
+
+This behaviour change is being encouraged as a result of our research findings which show that the actions of parents have a startling influence on those of their children. 
+
+Why is it important to brush day and night? 
+
+It prevents tooth decay, the world’s most widespread disease. While losing teeth is a natural part of growing up, pain related to cavities and tooth decay is not. 
+
+Missing school 
+
+According to the World Health Organisation (WHO), oral diseases affect half of the global population. 
+
+While this might seem like a minor complaint, tooth decay can have a big knock-on effect on health, well-being and productivity of an individual and a country. 
+
+The WHO says toothache is the number one reason for children missing school in many countries especially developing ones. 
+
+The correlation to adverse effects on educational standards cannot therefore be ignored. 
+
+Tooth decay is 90 per cent preventable with the main arsenal touted as regular day and night brushing with a fluoride toothpaste, reduced sugary snacking and regular visits to a dentist. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
