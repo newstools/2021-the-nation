@@ -1,0 +1,126 @@
+ Uber drivers in the United Kingdom are set to earn a minimum wage following a landmark ruling by the union’s Supreme Court last month that the ride-hailing company’s drivers are its employees. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This means that the 70,000 drivers in the UK are now entitled to a minimum pay of £8.72 (Sh1,325) per hour, alongside rights to a pension and leave after the firm decided not to contest the ruling. 
+
+The firm had argued during hearing that it is a third-party booking agent and, as such, its drivers are self-employed and independent workers who earn depending on the trips they make in a day. 
+
+Uber Chief Executive Dara Khosrowshahi told the Evening Standard that the company will now create a new business model that regards drivers as employees who deserve worker protections. 
+
+“The judgment provides a clearer path forward, so that we can build a model that gives drivers the protections of worker status while continuing to let them work flexibly, in the same way they have been since Uber came to the UK in 2012,” he said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But this decision will mean little to thousands of Uber’s and other taxi ride-hailing apps’ drivers who have recently flooded the Kenyan market as they will continue to earn based on trips. It, however, could have serious legal ramifications across the world and give Uber drivers, who often complain of unfavourable terms, a reason to agitate for local protections too. Such protections could permeate other taxi-hailing services. 
+
+More rights 
+
+Digital Taxi Forum (DTF) Vice Chair David Muteru told the Sunday Nation that the association has petitioned Labour Cabinet Secretary Simon Chelugui to grant them more rights. 
+
+The National Transport and Safety Authority (NTSA) estimates that there are about 30,000 drivers who use ride-hailing apps in the country.  While they need protections, Mr Muteru said Mr Chelugui has dismissed their concerns. 
+
+“We have been petitioning the Cabinet Secretary for Labour for similar rights here in Kenya but he flatly told us that the laws in the UK do not necessarily apply to Kenya,” Mr Muteru said. “Our drivers are still paying the same amount to Uber and the other apps in commissions for each trip despite the increase in prices of fuel. How will the drivers survive when they cannot also pass on the cost to passengers by increasing fares?” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Chelugui told the Sunday Nation that the UK court’s ruling may not be enforceable in Kenya, but it gives the ministry information on how to regulate digital businesses like Uber. He added that draft regulations on regulating digital taxi ride-hailing apps are being studied by the Attorney-General. 
+
+“We can only be persuaded by the UK court’s ruling, but such orders may not be enforceable in our jurisdiction. The ruling gives us some insights into digital businesses, which the ministries of Labour and ICT are working on jointly, while the Attorney-General is looking at our draft regulations,” Mr Chelugui said. 
+
+Mr Muteru urged NTSA’s draft Digital Service Application Rules, 2020 to be swiftly passed to protect drivers from being charged high commissions by the ride-hailing apps. 
+
+The regulations propose the commissions to be pegged at 15 per cent per trip. Some of the firms currently charge drivers as high as 25 per cent. 
+
+Mr Washington Sumbi, a taxi driver in Mombasa, told the Sunday Nation that he had quit using the apps “because of the low pay”. 
+
+“This, coupled with reduced customer numbers during the pandemic, made it tough for me to provide for my family,” he said. 
+
+bambani@ke.nationmedia.com US prosecutors on Thursday charged Uber's former security chief with covering up a hack. Everyone tells me how brave I must be, but all I did was see an opportunity and take it. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
