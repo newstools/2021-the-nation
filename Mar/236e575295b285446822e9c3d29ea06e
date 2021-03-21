@@ -1,0 +1,91 @@
+Women's team captain Gilly Okumu(5th, 26th) and Flavia Mutiva (14th, 52nd ) each scored a brace while Naomi Kemunto (18th) and Carolyne Guchu (9th) scored a goal apiece as Kenya routed Uganda once more.The two nations will play their last test matches on Sunday. Kenya men and women's national hockey teams posted mixed results as the international friendlies matches against their Ugandan counterparts entered day two at the Sikh Union, Nairobi Saturday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The women's team picked from where they left on Thursday with a 6-0 win over Uganda, while the men's team succumbed to the neighbors 1-0. 
+
+The women's side, coached by Jacqueline Mwangi, had thumped Uganda 11-0 in their first friendly match on Thursday. 
+
+Men's coach Fedhils Kimanzi said his side didn't do enough. 
+
+"We have a long way to go. We couldn't just hold the ball and our possession was poor. I hope that tomorrow the players will step up," said Kimanzi. 
+
+"We have picked some positives with some players showing improvement. After the friendly matches,  the coaching department will meet and forge the way forward," said Kimanzi. 
+
+Uganda coach Vincent Kasasa was on cloud nine saying they had finally had their revenge. 
+
+In 2007, Uganda lost to Kenya 6-0 during the Olympics qualifier. 
+
+"The win has changed history. Tomorrow (Sunday) we need to finish what we have  started and confirm what we had came here for. The win is big to us," said Kasasa. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Brian Okodi scored the lone goal in the 21st minute through a fantastic field goal. 
+
+Uganda were the better side, dominating proceedings in all facets of play in the entire match and could scored more in the first quarter but Peter Walusansa was poor on delivery. 
+
+Kenya easily lost possession as Uganda pressed for an opener. Uganda then pushed Kenya to play in their own half but were wasteful as they led 1-0 at the break. 
+
+Uganda would have scored three more goals in the second half but Walusansa shot wide in open chances. 
+
+Women's team captain Gilly Okumu(5th, 26th) and Flavia Mutiva (14th, 52nd ) each scored a brace while Naomi Kemunto (18th) and Carolyne Guchu (9th) scored a goal apiece as Kenya routed Uganda once more. 
+
+The two nations will play their last test matches on Sunday. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
