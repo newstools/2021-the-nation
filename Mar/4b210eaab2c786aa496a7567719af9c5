@@ -1,0 +1,87 @@
+Also referred to as the National Integrated Identity Management System, the Huduma Namba was introduced in 2019 and was billed as the single source of personal identification for Kenyans. You will stop using your national identification card by the end of this year, government Spokesperson Col Cyrus Oguna has said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Instead, Kenyans will be required by law to use their new Huduma Namba cards in accessing or applying for jobs among other services. 
+
+Huduma Namba is a system that seeks to register all Kenyans under a new database. 
+
+Also referred to as the National Integrated Identity Management System, the Huduma Namba was introduced in 2019 and was billed as the single source of personal identification for Kenyans. 
+
+Speaking in Mombasa County on Saturday, Mr Oguna said at least 37 million Kenyans had been registered by the time the Sh9.6 billion exercise closed in May last year and are now waiting to receive their cards. 
+
+Smart phones 
+
+He noted that between now and December 31, Kenyans will start receiving short messages informing them of where they would like to have their cards delivered. 
+
+“By the end of this year we hope that all the 37 million Kenyans will have received their Huduma Namba cards as we phase out the national identification cards,” Mr Oguna stated. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The spokesman urged Kenyans to respond to the messages once they receive or else they will be forced to go and pick the cards where they first registered for the Huduma Namba. 
+
+So far, 4.5 million messages have been sent to Kenyans, with only 2, 000 people having responded accordingly, according to the government spokesperson. 
+
+For citizens who do not have smart phones, the government has set up a toll free number (08800221111), where they can call to get direction on how to get their cards. 
+
+Mr Oguna said those who missed out in the registration exercise should take advantage of the second phase, which will be rolled out soon. 
+
+The second round of the registration is set to take off in April. Only 300,000 out of 2.2 million city residents have responded to text messages. For me, Huduma Namba doesn’t have perks outside of what they’re claiming it’s for. Here are my reasons why. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
