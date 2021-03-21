@@ -1,0 +1,87 @@
+Cereals were a better side in the second half scoring at will as the students struggled to break through. In other results played at the same venue, Black Mamba won against Jomo Kenyatta University Agricultural Technology 32-23 as Technical University of Kenya were awarded a walk over after Nanyuki gave the match a wide berth in the men's league. Sarah Mabonga emerged the top scorer with 12 goals as National Cereals and Produce Board (NCPB) women's team defeated Kenyatta University 38-14 during their Kenya Handball Federation National League match at the Nyayo National Stadium handball court, Nairobi Sunday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+NCPB team manager Paul  Pudo was full of praise towards his players, saying it was a good way to start the season, but noted that the team needs to work on speed. 
+
+"We hope to build on this going forward. We are keen on developing talent and that's why we want to build a team around experienced player like Mabonga," said Pudo. 
+
+Cereals have played second fiddle to Kenya Defence Forces and champions Nairobi Water and the official believes the time is ripe for them to go for the title. 
+
+KU stand-in coach Samuel Mutinda said they will regroup in the forthcoming matches. 
+
+"We had lapses in the defence and our opponents were quick with fast-breaks. We will go back to the drawing board and hopeful we come back better," said Mutinda, who plays for the men's team. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mabonga (12) and Sheryl Atieno (5) top scored for the winners, while Doris Anyango (4) and Clare Wanyonyi (2) emerged top scorers for KU. 
+
+It was a slow start in the first few minutes of play as Mabonga, Atieno and Elizabeth Atieno combined well to build chances for Cereals as they squeezed a 5-4 lead. 
+
+Mabonga then scored through fast-breaks to extend their lead to 9-4 as the students' defence leaked. 
+
+Anyango scored two quick goals for the students, but it was not enough as they trailed 6-11 at the break. 
+
+On return, Cereals oiled their defence denying the students any chances to score. 
+
+Cereals were a better side in the second half scoring at will as the students struggled to break through.  
+
+In other results played at the same venue, Black Mamba won against Jomo Kenyatta University Agricultural Technology 32-23 as Technical University of Kenya were awarded a walk over after Nanyuki gave the match a wide berth in the men's league. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
