@@ -1,0 +1,134 @@
+Nominated MCA Millicent Okatch sayys the recent appointments are contrary to section 18 (1) of the County Attorneys Act, 2020. City Hall is once again on the spot over the alleged irregular appointment of senior officers at the county attorney’s office. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the centre of the accusations is acting County Secretary Jairus Musumba, who is accused of making appointments in disregard of rules and procedures. 
+
+It is alleged that in February, Mr Musumba unilaterally issued appointment letters for the positions of acting director of legal affairs department and acting county solicitor, against procedures, rules and enabling laws guiding the same. 
+
+Members of county assembly decried a worrying trend of impunity and disregard for the rule of law within the county executive. 
+
+Through a request for a statement by nominated MCA Millicent Okatch, the ward representatives say they want disciplinary action taken against the acting county secretary for usurping powers in making the appointments. 
+
+The guidelines 
+
+Ms Okatch said the recent appointments are contrary to section 18 (1) of the County Attorneys Act, 2020, which provides that the board shall, in consultation with the county attorney, appoint a county legal counsel. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Equally, the County Public Service Manual 2016 provides for clear guidelines to be followed on the issues of acting positions, appointments and promotions of staff. 
+
+“It is further alleged that one of the holders of the above-mentioned positions resigned from the public service, as a law clerk in the year 2020. It is not clear how such a person could be re-appointed irregularly,” said Ms Okatch. 
+
+Section 59 (1b) of the County Government Act, 2012 confers upon the County Public Service Board the functions and powers to appoint persons to hold or act in offices of the County Public Service, including in the boards of cities and urban areas within the county, and to confirm appointments. 
+
+In the same vein, section 63 (1) (2a) of the same Act confers upon the board power to make appointments including promotions in respect to offices in the County Public Service, at the request of the relevant county chief officer of the department to which the appointment is to be made. 
+
+Ms Akatch said that arbitrary appointments have led to a demoralised staff working, suffering in silence under similar circumstances. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“No comment” 
+
+Reached for comment, Mr Musumba laughed off the claims. 
+
+ “I have no comment,” he said, but added he is ready to appear before the assembly if need be. 
+
+“I have no powers to appoint but if they want me to go and give explanations, I will. For the time being.” 
+
+The county legislators have asked the assembly’s Justice and Legal Affairs, and the Labour and Social Welfare committees to investigate the matter. 
+
+They want the two committees to present a comprehensive list of all appointments made so far and measures taken by the County Public Service Board to uphold the rule of law and the laid down procedures for such appointments. 
+
+Further, they want a copy of resignation letters received from officers previously working in the County public Service, as well as minutes and resolutions of their reinstatement into the service. 
+
+This is in addition to measures taken and/or advisories given to the county attorney on irregular and unprocedural appointments, particularly in the said office. 
+
+comulo@ke.nationmedia.com The probe comes after Nairobi MCAs raised concerns over the payment of large amounts of money to certain law firms. The Justice and Legal affairs department wanted Sh1.5 billion to clear legal costs incurred by the county executive. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
