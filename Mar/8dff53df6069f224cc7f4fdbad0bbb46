@@ -1,0 +1,150 @@
+Tripoli 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A decade after the fall of Libyan dictator Muammar Gaddafi and the end of his regime's stranglehold on information, hopes for a free media remain a mirage. 
+
+With the 2011 uprising followed by a long and often violent transition, media professionals still face censorship, intimidation and threats to their lives. 
+
+"The state of the press reflects the state of the country: catastrophic!" said radio journalist Nahla Tarhouni, who added sadly that "we had such high hopes". 
+
+Fighting finally came to a halt last summer and a ceasefire has held since October, allowing for a new unity government to take office in mid-March with the mission of leading the North African country to elections in December. 
+
+Media professionals have paid a heavy price before this light at the end of the tunnel. 
+
+‘Total impunity’ 
+
+Around 20 journalists have been killed with "total impunity" over the past decade, according to media watchdog Reporters Without Borders (RSF). 
+
+The group ranked Libya 164th out of 180 countries in its 2020 press freedom index. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Scores of journalists, from both Libyan and foreign media, have been attacked or kidnapped by militias, with no recourse to justice. 
+
+Among them were Tunisian journalists Sofiene Chourabi and Nadhir Ktari, who disappeared in the Ajdabiya region of eastern Libya in 2014. 
+
+Their fate has never been officially confirmed, although several sources said the two men were killed by supporters of the Islamic State jihadist group, which for a time held sway over part of the country. 
+
+As two rival administrations vied for power in Libya up until last year's ceasefire, alongside a multitude of militias, foreign troops and mercenaries, the media has often been caught in the crossfire. 
+
+Journalists 'press-ganged' 
+
+Many journalists faced new pressure from a propaganda war between the United Nations-recognised Government of National Accord based in Tripoli, and its rivals in the east loyal to military strongman Khalifa Haftar. 
+
+An aborted 2019-2020 bid by Haftar's forces to seize the capital saw several media outlets "press-ganged" into serving one of the belligerents, according to RSF. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"As well as turning the media into propaganda outlets, the conflict's political and military actors have become news censors," the watchdog said. 
+
+Mohamed al-Najem, director of the Libyan Centre for Freedom of the Press, blames a "lack of political will" on the part of Libyan authorities "to guarantee a minimum of security for journalists and to defend their rights and freedom". 
+
+The post-Gaddafi era had started with high hopes for a freer society and access to news, as four decades of totalitarian rule collapsed. 
+
+Dozens of newspapers and private television channels sprang up to fill the void left by the end of a regime that had monopolised all information.  
+
+But in the ensuing chaos and years of war, many have since been forced to shut down or flee abroad. 
+
+Najem says a brief interlude of promise had ended in "total failure". 
+
+But Sanaa Habib, a private radio station host, tries to remain upbeat. 
+
+"The situation has somewhat improved, even if difficulties remain on the ground," she said. 
+
+Armed fiefdoms 
+
+Reporters, photographers and video journalists in Libya have to deal with power cuts, poor internet and roadblocks between multiple armed fiefdoms. 
+
+When it comes to sensitive social issues in the conservative Muslim country, "the problem is not so much with the authorities, but rather the violent reaction of people", said Habib. 
+
+Naima Mohamed, another colleague, said it was only natural for journalists to feel let down by the state of the media in Libya. 
+
+"For someone who fought for 10 years to have their voice heard, who managed to express themselves freely, suddenly to be confronted by censorship can only spell disappointment." According to the United Nations, 60 per cent of the population is now food insecure. The Cabinet is comprised of 26 ministers and six ministers of state, with women assigned to five posts. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
