@@ -1,0 +1,95 @@
+Last October, the train was delayed at the Ndii substation in Kanga as the Kenya Railways Corporation checked the structure of the railway after a tremor was reported in Voi. The Madaraka Express passenger train on Sunday stalled at the Miasenyi substation in Voi, Taita Taveta County, causing panic among passengers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The train which left Nairobi at 8am stopped suddenly, just one hour to the Mombasa terminus. 
+
+Agitated passengers said they had not received any communication from the management two hours later. 
+
+“No one is willing to explain what is happening yet we have been stuck here for two hours now. The attendants are telling us they are not allowed to tell us the reason for us not moving,” said one Millicent Odhiambo. 
+
+Stranded 
+
+Ms Odhiambo said those with children were stranded and scared. 
+
+"The children are hungry. It is chaos here. Worst is that they are not explaining anything. Not even the customer care attendants are saying anything. We demand to know what is going on," she said in a telephone interview. 
+
+Anne Mutua said she expected to reach her destination on time to see her sick parent at a Mombasa hospital. 
+
+"I don't know how long this delay will last. My mother is in the hospital alone. I was to take care of her," she said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Abandoned box 
+
+Later, a police report seen by Nation.Africa stated that an abandoned box forced the delay. 
+
+A member of the public informed police of a suspicious package at the Meli Kubwa Standard Gauge Railway bridge. 
+
+“The scene was visited by the Mombasa SGR terminus police officers together with the Maisenyi police station commander, who established that the box contained assorted jewelry,” the police report said, adding it was placed there by a conductor for collection by the owner. 
+
+Past incident 
+
+The Kenya Railways Corporation (KRC) was not immediately available for comment on the Sunday incident. 
+
+This is not the first time the Madaraka train has been delayed. 
+
+In October last year, the train was delayed at the Ndii substation in Kanga as the Kenya Railways Corporation checked the structure of the railway after a tremor was reported in Voi. Kenya Railways was on Friday night forced to dispatch a bus to complete the trip after its train stalled at Kirichu. In Butere, the station was converted into a church after train services ceased years ago. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson. Ten of them are late death reports from the audit of facility records, CS Kagwe says.
