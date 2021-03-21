@@ -1,0 +1,167 @@
+ If you work in corporate life, questions of meaning keep bubbling up. Really, is this all there is to a good life? For a few more megacorps to make more megaprofits? To devise even more cunning ploys that yield even more short-term payoffs to an elite band of shareholders and executives? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Those questions took me to a different path: that of working on leaders, not results. Teaching and sharing insights about the nature and essence of good leadership, to guide those who can stand for things bigger than themselves. 
+
+I have had the good fortune to work on some folks who have become noted leaders, achieving breakthrough results through others, creating widespread and widely shared successes. But even for them, there is a twist I put in the tale. 
+
+It is this: you are not a great leader, no matter how epochal your personal tenure, until you make other great leaders. 
+
+Inspire others 
+
+In other words, we are not just interested in what happens in your world at the time you lead it; we are also interested in what happens after you leave. Did your leadership transmit and propagate itself? Did you inspire others to wear the mantle with respect and reverence? Did you embed long-lived values in your people? Did you succeed in succession? 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Or did everything vanish, like froth on water, soon after you left? 
+
+I was heartened to read these words by Simon Sinek, in his book The Infinite Game: 
+
+“Think of an organization like a plant. No matter how strong it is, no matter how tall it grows, if it cannot make new seeds, if it is unable to produce new leaders, then its ability to thrive for generations beyond is nil. One of the primary jobs of any leader is to make new leaders.” 
+
+An apt metaphor. Whatever it is you lead — an organisation, a community, a nation — the measure of success is not just how big or successful your collective became. We will not measure you just by the profits amassed, the incomes improved or the gross national product clocked. We must also measure you by the continuity you created. Mr Sinek extends the imagery: “…if the current leaders are more focused on making their plant as big as possible, then, like a weed, it will do whatever it needs to do to grow. Regardless of the impact it has on the garden (or even the long-term prospects of the plant itself.)” 
+
+Momentary grandeur 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Wise, wise words. What this world needs is not giant-sized success in one era; it needs less greed in the now and more wisdom for the morrow. We must strive to build things that are sustainable and continuous, not things that erupt in momentary grandeur. 
+
+How then do we nurture continuity in our organisations and endeavours? 
+
+First, by example. Few things are more inspiring than people who walk their talk, who do as they say others should do, who live their message. All of us feel a shot in the arm from those genuine figures in our histories who were the real deal. Our first task, then, is to mean it, not feign it. 
+
+Next, by teaching. Good lives learn many good lessons; great lives get those lessons transmitted to others. Teaching does not happen just through the example of a life well lived; it requires a curriculum and pedagogy. It must be thought out and executed, and reach as many future leaders as possible. 
+
+Thirdly, continuity comes by developing structures — the institutions and processes that are bigger than the individual. Good leadership takes attention away from personalities and idiosyncrasies, and places it on values and controls. We do not need to wish for superhuman messiahs in our futures; we need to build practices and traditions that force a focus on the greater, collective good. 
+
+The final test 
+
+Lastly, a very powerful mode of continuity lies in culture — in the shared values and behaviours that are good for us and that make virtue something that can be disseminated. 
+
+Are our leaders, even successful ones, just clocking record results in the here and now, or are they creating a self-perpetuating force for the future? Most will fail this final test. 
+
+If you wish to be a leader who makes other leaders and plays beyond your own lifespan, you have much to do. Pay attention to the example you set — every day, in every action. Ask yourself what proportion of your time is spent teaching rather than doing, in coaching and mentoring the leaders of the future. And examine the structural and cultural strength of your work — will it perpetuate itself, even in the bodies and behaviours of the unborn? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That’s next-level leadership, if ever you want to get there. 
+
+www.sunwords.com He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
