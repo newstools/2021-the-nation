@@ -1,0 +1,148 @@
+The Lakers superstar collapsed to the Staples Center court in agony after a collision with Atlanta's Solomon Hill in the second quarter, crying out in pain and clutching his right ankleThe Milwaukee Bucks kept the accelerator down, notching their sixth straight victory 120-113 over the San Antonio SpursIn Memphis, the Grizzlies got the better of short-handed Golden State, turning the tables on the Warriors a night after losing to them with a 111-103 victory Los Angeles 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+LeBron James crashed out of the Los Angeles Lakers' 99-94 loss to the Atlanta Hawks Saturday with a right ankle injury that will sideline the NBA superstar indefinitely. 
+
+The Lakers superstar collapsed to the Staples Center court in agony after a collision with Atlanta's Solomon Hill in the second quarter, crying out in pain and clutching his right ankle. 
+
+The 36-year-old returned briefly to hit a three-pointer before limping back to the locker room, knocking over a chair in frustration. 
+
+ESPN later reported that an MRI scan revealed a high ankle sprain and that James faced an "indefinite" injury layoff. 
+
+Depending on the severity, high ankle sprains can take anywhere from a few weeks up to several months to recover from. 
+
+James did not speak to reporters, but tweeted later that he would return as soon as possible. 
+
+"Nothing angers and saddens me more than not being available to and for my teammates!" James wrote. "I'm hurt inside and out right now. The road back from recovery begins now. Back soon like I never left." 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A lengthy layoff for James would be a devastating blow to the reigning champion Lakers, who are already without star Anthony Davis as he recovers from Achilles tendon trouble. 
+
+"It's certainly going to be a challenge any time you're undermanned," Lakers coach Frank Vogel said. "But if you play team first basketball and you defend at our level you'll have a chance to win and that'll be our mindset." 
+
+Lakers team-mates Kyle Kuzma and Montrezl Harrell admitted that the sight of James leaving the arena was unnerving. 
+
+"We do forget he's human sometimes, to see him in pain like that," said Harrell, who was unhappy with Hill's dive for the ball that led to James's injury. 
+
+"We don't feel like it was one of those basketball-type plays," Harrell said. "He had to go through his leg to get the ball." 
+
+With James missing, the Lakers offense struggled to get in the groove as the Hawks - fueled by 27 points and 16 rebounds from John Collins - notched their eighth straight victory, the longest active streak in the league. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Lakers fell to 28-14 to remain in second place in the Western Conference behind the Utah Jazz. 
+
+The Hawks improved to 22-20, tied for fourth with the Miami Heat in the Eastern Conference led by the Philadelphia 76ers - who beat the Sacramento Kings 129-105 despite the absences of three injured starters. 
+
+Shortly before tipoff, the Sixers announced that Ben Simmons would be sidelined with a sore left knee. 
+
+Joel Embiid missed his fourth straight game with a bone bruise in his left knee and Seth Curry was out with a sprained left ankle. 
+
+Tobias Harris led the Sixers with 29 points, 11 rebounds and eight assists. Shake Milton added 28 points and Danny Green chipped in 18. 
+
+Despite the lack of star-power, the 76ers set an early tone, scoring 42 points in the first quarter. They led wire-to-wire, pushing their advantage to as many as 36 points. 
+
+The Milwaukee Bucks kept the accelerator down, notching their sixth straight victory 120-113 over the San Antonio Spurs. 
+
+Two-time reigning NBA Most Valuable Player Giannis Antetokounmpo had 26 points and a season-high 15 assists to go with eight rebounds for Milwaukee. 
+
+Khris Middleton scored 23 points and Jrue Holiday added 21. 
+
+Grizzlies bounce back 
+
+In Memphis, the Grizzlies got the better of short-handed Golden State, turning the tables on the Warriors a night after losing to them with a 111-103 victory. 
+
+Jonas Valanciunas scored 19 points and pulled down 15 rebounds. 
+
+Dillon Brooks scored 19, Brandon Clarke scored 16, Ja Morant chipped in 14 with eight assists and the Grizzlies clamped down defensively in a tight fourth quarter to get the win. 
+
+The Warriors were without Stephen Curry for a second straight game as he recovers from a bruised tailbone. Kevon Looney, James Wiseman and Eric Paschall were all sidelined by coronavirus contact tracing. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
