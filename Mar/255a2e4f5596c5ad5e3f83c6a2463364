@@ -1,0 +1,93 @@
+Kenya's Covid-19 vaccine taskforce has said it will offer free vaccines to Nairobi-based embassies and their staff as a goodwill gesture. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes after Foreign Affairs Principal Secretary Macharia Kamau, in an official letter on Friday, disclosed that the country will also be offering free Covid-19 jabs to UN diplomats and staff working in the capital city. 
+
+The vaccination is scheduled to start on March 23, with only accredited diplomats and their families being eligible to get the jab. 
+
+The jabs will come from the country's consignment of 1.02 million AstraZeneca doses supplied by Covax Facility and the 100,000 doses donated by the Indian government under their vaccine friendship initiative. 
+
+Priority list 
+
+At the beginning of March, the ministry of Health announced that it had set aside 492,000 doses for frontline health workers and other essential service providers on its priority list. 
+
+"We need to protect everyone resident in Kenya. It just made sense not to reach out only to Kenyans but also to the international community here," the PS said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite having only vaccinated about 30,000 frontline workers as of week two of the country's nationwide roll-out, the taskforce says Kenya’s gesture to foreign diplomats is due to the fact that other countries have prioritised Kenyans working in UN missions and embassies abroad. 
+
+UN agencies 
+
+Nairobi hosts many UN agencies such as Unicef, the UN headquarters in Africa and Unon — one of the four major UN sites — among others. 
+
+Speaking to the Nation, the Covid-19 taskforce advisory chairman, Dr Willis Akhwale, confirmed that they have decided to vaccinate the diplomatic community. 
+
+Nairobi is home to approximately 30,000 UN staff and diplomats, including their families. 
+
+ "We are the only United Nations capital headquarters in the global South. Once you have this kind of honour, it comes with a certain responsibility," PS Macharia stated. 
+
+"I don't how many people the Nairobi-based embassies have, but you see, countries like France have vaccinated our people working there. Will we deny [vaccination to] their people here?" Dr Akhwale posed. 
+
+ 
+
+llidigu@ke.nationmedia.com The Health ministry yesterday reported 1,274 people had tested positive to Covid-19. President Uhuru Kenyatta and his Cabinet have kept off the vaccination campaigns. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
