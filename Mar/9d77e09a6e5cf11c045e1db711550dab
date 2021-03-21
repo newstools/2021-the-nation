@@ -1,0 +1,79 @@
+Preparations for the Nation Media Group (NMG) annual SME conference and expo that is scheduled to run from Thursday to Saturday are in top gear. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Event organisers say already about 200 exhibitors have booked space at the expo set to be held at the Kenyatta International Conference Centre (KICC), a figure more than double what the conference attracted last year. 
+
+Some of the guests expected to grace the three-day event include senior government officials such as Cabinet Secretaries and stakeholders from different sectors of the economy, who will engage Kenyans in discussions on various issues affecting the economy. 
+
+NMG’s Commercial General Manager James Sogoti said the event would provide an opportunity for SMEs and other businesses to get questions they have been having answered by regulators, as well as for businesses to show case their innovations. 
+
+“They will be getting a lot of support in some of those areas that they feel need to be addressed. This is the opportunity because NMG is here to support SMEs,” Mr Sogoti said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last week, NMG’s Chief Executive Officer (CEO) Stephen Gitagama led a group of industry heads and other stakeholders in a pre-launch event for the conference, where they exuded confidence that the conference and expo will provide a platform for Kenyan businesses to explore various issues, including the healing from Covid-19 impacts which hit the SME sector heavily. 
+
+“This country relies on SMEs, we saw during Covid-19 how they came up with a number of new initiatives like making hospital beds, ventilators and other things. 
+
+“This is another time when we bring together all the SMEs in this country for them to share their experiences, learn from others and interact with government,” Mr Gitagama said. 
+
+The event will also recognise businesses that have proved to be resilient throughout the Covid-19 period, as they share secrets on how they survived through turbulent times. The three-day conference and expo will be held at KICC between March 18 and March 20. Industry players say an amicable regulatory environment will help more businesses be successful. He listened. In some cases, he personally walked into offices to see how work was being done. DP Ruto adopted the slogan soon after the handshake as he sought to appeal to the psyche of the masses. The Health ministry yesterday reported 1,274 people had tested positive to Covid-19.
