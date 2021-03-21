@@ -1,0 +1,130 @@
+The ministry further reported 114 more recoveries, 74 of them in hospital and 40 in the home-based care programme, raising the tally to 89,622. Kenya on Sunday recorded 17 more deaths due to the Covid-19 pandemic, which raised its death toll to 2,011. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The coronavirus was first reported in Wuhan, China, on December 31, 2019 and confirmed in Kenya on March 13, 2020. 
+
+In a statement, Health Cabinet Secretary (CS) Mutahi Kagwe said 10 of the 17 cases were late death reports from the audit of facility records. 
+
+In terms of the number of declared infections, CS Kagwe announced 747 more, out of a sample of 5,145 analysed in the past 24 hours, raising the total to 120,910. 
+
+By Sunday, Kenya had tested 1,414,865 samples for the coronavirus disease. 
+
+Case distribution 
+
+Of the new patients, 710 were Kenyans and 37 foreigners, 396 male and 351 females, the youngest seven months old and the oldest 101. 
+
+In terms of case distribution in counties, Nairobi led with 524 and was followed by Nakuru with 51, Kiambu 44, Kajiado 24, Kitui 19 and Makueni 18. 
+
+Then came Machakos with 15, Mombasa 14, Garissa 12, Meru six, Busia and Nyandarua five each, Kilifi and Nyeri three each, Uasin Gishu two, and Homa Bay and Murang’a one each. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The ministry further reported 114 more recoveries, 74 of them in hospital and 40 in the home-based care programme, raising the tally to 89,622. 
+
+As of Sunday, the CS said, 889 patients had been admitted to health facilities countywide while 2,545 were being treated at home. 
+
+The number of those in intensive care units dropped by two to 121, with 32 of the patients on ventilatory support, 86 on supplemental oxygen and three under observation. 
+
+Another 59 patients were separately on supplementary oxygen, 41 of them in general wards and 18 in high dependency units. 
+
+Vaccination 
+
+Regarding the ongoing vaccination campaign, Mr Kagwe said the plan is intact and targets all persons residing in Kenya including those serving in diplomatic corps. 
+
+"This first phase targets frontline workers who include health care workers, teachers and support staff in learning institutions, those serving in the security sector and others in all ports of entry," the CS said. 
+
+He was responding to media reports that the vaccine deployment plan is being abused. 
+
+Kenya has offered free Covid-19 vaccines to all diplomats even though it has not completed inoculating its own health workers, other front-line staff or the elderly. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ambuthia@ke.nationmedia.com The Health ministry yesterday reported 1,274 people had tested positive to Covid-19. Only accredited envoys and their families are eligible for jab to be given from March 23. There are concerns that India's "vaccine diplomacy" will come at a cost The new Tanzanian President is set to become the ruling party’s national chairperson.
