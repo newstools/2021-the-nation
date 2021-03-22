@@ -1,0 +1,193 @@
+Growing up in an area where rain is aplenty, Vivian Amoni Esekon always dreamt of days her homeland would enjoy the abundance of water and the good things that come with it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As the country marks the World Water Day today, Esekon has a special message of water conservation. 
+
+Esekon, 30, was born in Kakulit, Turkana East, but she spent most of her early life at Tinga farm in Kipkelion, Kericho, a county known for its year-round rainfall and a canopy of green matter and forests. 
+
+Her family moved to Kipkelion in the 1990s after her grandfather was employed as a guard at Tinga farm run by the Catholic Church. It is here where Esekon nursed her ambitions of being a water champion as she grew up. 
+
+With her roots in Turkana, the exact opposite of the green South Rift county, Esekon has found joy investing what she has learned about water over the last 10 years in the North Rift region. 
+
+Turkana is one of the country’s driest counties and often reports severe droughts every year that are accompanied by famine and deaths linked to lack of food and water for locals and livestock. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Environmental Engineering 
+
+Esekon completed her primary school education at St Bernard’s Mission School in Kipkelion and passed well.  She got admitted to Loreto High School in Limuru, where she scored B+ after sitting her KCSE in 2008. 
+
+She joined Egerton University to pursue a degree in Water and Environmental Engineering. 
+
+She graduated in 2015 and got internship opportunity at Turkana County government the same year.  She was later absorbed as an employee at the Water Department and has been working there since then. 
+
+Esekon is presently pursuing Masters in Water Science and Engineering, specialising in Hydrology and Water Resources at IHE Institute for Water Education in the Netherlands. 
+
+She joined the institute in October 2019 through a programme sponsored by the Dutch government- One Knowledge Programme. 
+
+IHE is the largest international global institute for graduate studies on water. 
+
+It is based in Delft, the Netherlands, and Esekon is one of the few young women from Turkana who have got a chance to study abroad. 
+
+For Esekon, however, studying about water—a scarce commodity among her people—at a high level institution like IHE, has presented her with a chance to expand her knowledge. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Turkana is highly dependent on groundwater for domestic and livestock use and in some cases, irrigation,” Esekon says. But even so, the biggest challenge lies in water quality “in many of our wells.” 
+
+“This has led to abolishing the use of some of the high-yielding wells. Reverse osmosis is being implemented in some of the wells to ensure the water is potable,” says Esekon. 
+
+
+
+
+
+
+Esekon Vivian Amoni, a water engineer from Turkana County currently pursuing her MSC in Hydrology and Water Resources in the Netherlands.
+Photo credit: Pool
+
+ 
+
+She notes that the osmosis technology is expensive to acquire but worth it for an area desirous of constant supply of water. 
+
+Turkana is home to some of the country’s massive aquifers that were discovered in 2013 in Lodwar and Loitikipi basins.  The two, when fully exploited, could supply water to the whole country for over 70 years, various studies indicate. 
+
+Esekon says her focus is finding ways for Turkana residents and the country to benefit from the aquifers.  “Throughout my studies, I have placed focus on groundwater,” she says. 
+
+Currently, Kenya is experiencing a decline in water level in some aquifers and quality issues in major aquifers such as Loitikipi due to salinity and the Nairobi aquifer that is highly polluted. 
+
+“I hope to get the opportunity to be able to study and understand further the nature of some of the aquifers, especially in Turkana.” 
+
+Groundwater 
+
+“This will inform how we use groundwater and how to improve the quality and enhance recharge of  aquifers,” she told the Nation.  In the Netherlands, she has so far gained knowledge on how the country has fought water shortages through technological exploitation. 
+
+“Any search on where one can get the best education on water and the Netherlands pops up. It is said that they have conquered water and walking around allows you to see that,” she says. 
+
+Presently, she is studying online owing to the travel restrictions imposed by various countries to stop spread of coronavirus. 
+
+“Water is not free and there is a lot that goes into ensuring that it is accessible. When you put a value on something, then you take care of it. If we understand this aspect, then we will guard our water resources.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We need to be mindful of how we utilise water in whatever aspect of our lives,” she says. 
+
+“We have an obligation to ensure that the next generations don’t blame us for being careless about water conservation.” 
+
+dmwere@ke.nationmedia.com Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
