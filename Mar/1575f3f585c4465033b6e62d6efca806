@@ -1,0 +1,216 @@
+The B.1.351/501Y.V2 variant was detected in samples taken from two South African nationals, who visited the country.The virus has been changing in ways that might help it beat some of the body’s immune system defences. Kenya appears to be literally shooting in the dark in its battle against Covid-19 after it emerged that an unknown new coronavirus strain is behind the current spike in infections and deaths. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Health experts told the Nation yesterday that the mysterious, more aggressive and lethal variant is silently spreading in communities, but efforts to discover and combat it have been hit by lack of funding.  
+
+ “As it is, we’re blindly seeing the numbers,” said Prof Omu Anzala, a virologist and a member of National Covid-19 Taskforce. 
+
+“This is not just about Kenyans lowering their guards, we have been here before, but the numbers are scary. Only understanding the virus will make us act. We have to allocate money for surveillance.” 
+
+He warned of a possibility that Kenyans, including survivors of Covid-19, lacked the immunity to fight the new strain, hence the surge in infections and deaths. 
+
+Read: Kemri warns of 16 new coronavirus variants in Kenya 
+
+For the last one week, Kenya has been recording new daily infections of above 1,000 cases, with a positivity rate of 17.5 per cent, almost four times the World Health Organization (WHO) recommended level of five per cent. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Crisis 
+
+The average daily death rate has doubled, with last Friday recording the highest single-day count of 28, pointing to a deepening crisis. The surge in deaths and infections has raised fears of the pandemic overrunning the country’s ill-equipped health system, with hospitals in the capital, Nairobi, already facing ICU-bed crisis. 
+
+“The priority now is how to cope with surge in very sick patients needing emergency ICU care as patients are forced to queue for ICU beds in Nairobi. Unless this is addressed urgently we shall lose more lives,” Dr Andrew Suleh, a consultant physician, renal, and tropical medicine specialist, said. 
+
+Prof Anzala dismissed claims that the rising numbers are due to community transmission. He attributed the spread to unknown factors that need investigation. 
+
+Read: Kenya records two cases of new South Africa coronavirus variant 
+
+Kenya’s fight against the virus has largely depended on donor funding, including the AstraZeneca vaccine that is being rolled out, and the new variant is likely to complicate matters for President Kenyatta’s administration that is reeling under a biting cash crunch. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ “We don’t have enough money to do the surveillance, making it difficult for us to detect the [unknown] variant. We really need to have our internal funding to completely understand the virus,” said Prof Anzala, who is also the team leader of National Covid-19 Case Management, Research and Modelling Consortium. 
+
+ “We need to understand the number of people who were initially infected and are getting re-infected so that we have a sense of the virus’s behaviour. This can only be possible if we conduct the studies,” he said. 
+
+While the country has an elaborate testing infrastructure, the microbiologist said they don’t have reagents to detect new variants of the virus they suspect to be spreading in communities. 
+
+There have been reports of the South African variant being in Kenya after two cases were detected in December. 
+
+The B.1.351/501Y.V2 variant was detected in samples taken from two South African nationals, who visited the country. 
+
+The two genome sequences that were identified as 501Y.V2 were obtained from samples that were collected on December 15 and 17 in Coast. 
+
+The virus has been changing in ways that might help it beat some of the body’s immune system defences. 
+
+Viruses classically change continuously, bit by bit. A changed virus is called a variant of the original virus, but the essential core of the pathogen remains the same. 
+
+South Africa first reported the existence of the 501Y.V2 variant in mid-December during its second wave of the pandemic, leading to many infections and deaths. 
+
+The South African variant, 501Y.V2, has acquired 23 mutations, when compared with the original Sars-CoV-2 virus. Importantly, 20 of the mutations cause amino acids changes and eight are located in the spike protein of Sars-CoV-2. In South Africa, with the support of the South African Medical Research Council and the Department of Science and Innovation, a group of leading virologists, immunologists, vaccinologists, infectious disease specialists and microbiologists have since formed a consortium to address the high number of infections and deaths from the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Blood plasma 
+
+The research team used blood plasma from patients who had Covid-19 in the earlier surges to see if antibodies in their blood could neutralise, or make ineffective, the new variant. 
+
+Read: Experts fear new Covid-19 variants spreading locally 
+
+They found that these patients’ antibodies were less able to neutralise 501Y.V2 relative to previous Covid-19 variants reported in the country. About a six to 200-fold higher plasma concentration was needed to neutralise 501Y.V2 in a lab setting. 
+
+And, while Kenya is vaccinating its population, Prof Anzala raised concerns at the slow pace of the inoculation, saying it could lead to new variants capable of beating the vaccines. 
+
+ “If we don’t move with speed and get the new variant in the community, then there is a possibility that the current vaccine that we’re giving out might not work with the new variant, so again we need to involve the manufacturers to come up with a vaccine that will be able to deal with the new variant,” he said. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Fears of new variants in Kenya come as the country stares at a gloomy future. Scientific projections from the Kenya Medical Research Institute released in January indicate that by June 1, approximately 13,700 additional people will be diagnosed with Covid-19. 
+
+Additional reporting by Elizabeth Merab and Nasibo Kabale   The Health ministry yesterday reported 1,274 people had tested positive to Covid-19. Ten of them are late death reports from the audit of facility records, CS Kagwe says. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
