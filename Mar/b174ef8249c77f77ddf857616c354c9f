@@ -1,0 +1,122 @@
+It’s World Water Day. Ideally, this would have been a day for driving greater awareness of improved accessibility to safe and affordable water but, on the ground, the pace towards that has been slow — especially with Covid-19 on the rampage. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It’s exactly a year since the first Covid-19 case was reported in Kenya. The government has urged the population to adhere to the recommendations of the World Health Organization (WHO) on safety protocols such as handwashing and general hygiene, masking and social-distancing.  
+
+Yet it remains difficult to implement these prevention measures, especially in informal settlements, where there is limited access to water, lack of sanitation facilities, and social distancing is difficult. 
+
+Only a few households have access to the less costly public water supply. Water supply has been privatised by ‘cartels’ and many residents rely on private water vendors. Nairobi Metropolitan Services (NMS) has tried to provide free water to informal settlements and the less privileged, but this is just a drop in the ocean, considering the needs of the masses. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In late 2019, UN Human Rights undertook a pilot assessment of the status of rights to water in Kenya, focusing on urban informal settlements, where there are deep inequalities. While the urban populace has better access to water than rural areas, inequalities in accessibility and affordability are acute for people living in informal settlements. 
+
+Safe water 
+
+The right to sufficient, safe, acceptable and physically accessible water for personal and domestic uses is essential for the full enjoyment of life and all human rights. Sustainable Development Goal 6 (SDG 6) aims at T and equitable access to safe and affordable drinking water by 2030. The right to safe and quality water in adequate quantities is enshrined in the Constitution yet access to it remains a pipe dream to many. 
+
+Among the 50 million Kenyans, about 60 per cent of the urban population live in informal settlements, mostly in Nairobi, Mombasa and Kisumu. Water commonly costs less in urban middle-class suburbs than in informal settlements. In the former, piped water costs Sh34-53 a cubic metre (1,000 litres) and a 20-litre jerrycan in the latter Sh10-50. But many people in the informal settlements who survive on just over a dollar (Sh100) a day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Economic challenge 
+
+Considering that informal settlement residents pay up to 50 times more for water than the middle class, affording water for frequent handwashing is an economic challenge. 
+
+Water is not just a basic human right, but a matter of life and death, especially amid the pandemic, in settlements where there is no water, sanitation or other basic services. Besides, Kenya has the third largest number of people in Sub-Saharan Africa who drink directly from contaminated surface water sources — just over a third of our population. 
+
+A World Bank survey estimates that, due to continued population growth, by 2025, Kenya’s per capita water availability will be 235 cubic metres per year, about two-thirds less than the current 650 cubic metres. Through various international development association investments in the Nairobi City Water and Sewerage Company, Athi Water Services Board and Kenya Informal Settlements Improvement Project, the World Bank has helped to increase access to water and sanitation services in Kenya, but there is still much more to do. 
+
+The private sector can supplement the efforts of the government and development partners in closing the gap in access to clean drinking water by placing the right infrastructure in urban and rural areas for the access of clean water. County governments, too, need to take the cue from the national government and international funders. 
+
+It’s time to extend the availability and accessibility of public water supply to informal settlements and other vulnerable communities, have regulatory frameworks to ensure affordability of safe drinking water and invest in water and sanitation infrastructure, noting the correlation between the rights to water and sanitation and the right to health. 
+
+info@megapipes.com. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
