@@ -1,0 +1,252 @@
+The helicopter carrying the guest of honour landed to a crowd of anxious youths and ululations from villagers at Ringa in Kasipul Kabondo in Homa Bay County, bringing life to what could have been an ordinary Sunday morning. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was a few weeks to Christmas last year. Ringa Catholic Church had organised a fundraiser for pending development projects. The chief guest was a man who had for over a year tried to lay low after receiving a lot of bad press due to his criminal court cases. 
+
+The first time Jared Kiasa Otieno’s name surfaced in public was in 2015 when he arrived with all the flamboyance money could buy to pay bride price for his fiancée in Meru County. 
+
+Accompanied by celebrities and politicians in a fleet of choppers and luxurious cars, Mr Otieno announced his name to the world in style. He soon after became a permanent fixture in blogs and social media pages before everything suddenly turned topsy-turvy. 
+
+For about two years from 2018, Jared Otieno was arrested several times and dragged to court for engaging in suspected fake gold deals. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He deleted his social media pages, went quiet for over a year before suddenly re-emerging in public events in his home county of Homa Bay. 
+
+During the fundraiser at Ringa, where—like in all other public engagements—Mr Otieno preferred to be identified by his third name Kiasa, the flamboyant personality gave a personal contribution of Sh1.5 million. 
+
+Goodies 
+
+“It’s said that, give generously to Him and do so without a grudging heart; then because of this the Lord your God will bless you in all your work and in everything you put your hand to,” he later said as he addressed the crowd on that morning of December 6. Over the past several months, Mr Otieno has been a permanent fixture in Homa Bay— dishing out either money or goodies through his Jared Kiasa Empowerment Programme, a charity he runs. 
+
+Behind the goodies are whispers that he plans to run for political office in the county and his generous gestures are just meant to mollycoddle the electorate. 
+
+While it is within his right as a Kenyan to vie for public office, the fact that he is doing so amid dozens of criminal cases is what is raising moral questions about the country’s politics. 
+
+Ahead of the 2022 General Elections, a number of politicians with active criminal cases, those accused of corruption or whose sources of income are unknown, are increasingly throwing their hats into the ring. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The latest do so is former Energy and Petroleum Regulatory Authority (Epra) boss Pavel Oimeke, who was this week handed a certificate by the Orange Democratic Movement (ODM) party to run in the upcoming Bonchari parliamentary by-election. He was arrested on December 10 last year for allegedly received a Sh200,000 bribe to approve the opening of a fuel station in Oyugis. 
+
+He denied the charges before Chief Magistrate Douglas Ogoti, who released him on a Sh700,000 bond or an alternative Sh200,000 cash bail. 
+
+He paid the cash bail and returned to work courtesy of a split in Epra’s board before announcing this week that he was resigning to join politics. 
+
+While announcing the decision by ODM to pick Mr Oimeke, the party’s secretary-general Edwin Sifuna said he was confident their candidate would be cleared to vie. 
+
+“People are presumed innocent until proven guilty. Oimeke will not be denied the certificate because of the matter that is in court,” said Mr Sifuna on Wednesday when he handed the aspirant the nomination certificate at Chungwa House. 
+
+Criminal cases 
+
+The law presumes a suspect to be innocent until proven guilty by a court of law. This argument has been used in the past by politicians to be allowed to vie for office. 
+
+The genesis of this whole quagmire was the passage of a watered down Leadership and Integrity Act in the run-up to the 2013 General Elections. During that time, MPs, afraid of being stopped from seeking re-election, allowed aspirants with pending criminal cases to contest for elective seats. 
+
+Additionally, they stripped the Ethics and Anti-Corruption Commission (EACC) of powers to obtain information from government bodies on aspirants and vetting them for clearance. This left the duty of clearing aspirants solely in the hands of the Independent Electoral and Boundaries Commission (IEBC). 
+
+But, with the constitutional threshold on criminal culpability, the IEBC’s hands are tied when it comes to clearing those with cases in court. 
+
+“It has been the position of the commission that people who are facing allegations of corruption where there is verifiable evidence, and those facing corruption charges in court ought not be cleared to vie by IEBC,” says Twalib Mbarak, the EACC chief executive. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“However previous recommendation to that effect has not be implemented by IEBC. There have been arguments that a person cannot be disqualified from election if he or she has not exhausted all possibilities of appeal or review in accordance with Article 193 of the constitution,” he adds. 
+
+In 2019, the Directorate of Criminal Investigations (DCI) was forced to explain to the public how former Nairobi Governor Mike Sonko managed to get a police clearance certificate allowing him to run for office. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“It is good to note that, if an applicant had cases and he or she was acquitted by a court of law, that criminal record is expunged from the criminal database,” DCI clarified. 
+
+“If one was convicted of a crime, the record is kept for 20 years before being deleted,” said the DCI. 
+
+Yesterday, DCI boss George Kinoti told Nation that anyone who has been charged with a crime and has not been found guilty will be given a police clearance certificate. Former Nairobi Governor Evans Kidero, who is facing a number of corruption charges, is among the politicians looking to take over from Mr Cyprian Awiti as Homa Bay governor. 
+
+In the past few months, Dr Kidero—who, after losing his Nairobi seat, was pushed out of ODM leader Raila Odinga’s inner circle—seems to have made a comeback. He was with Mr Odinga on his tour of the Coast before the opposition supremo suddenly tested positive for Covid-19. 
+
+“I wish Jakom a quick recovery. I spent four days with Jakom in Malindi and Mombasa last weekend where we drummed up support for BBI,” said Mr Kidero after Mr Odinga tested positive. 
+
+In Trans Nzoia, Mr Allan Chesang, who has declared his intention to be senator, is one of the key suspects in a Sh180 million fraud case involving the supply of 2,800 laptops purportedly for Deputy President William Ruto’s office. Mr Chesang, according to witness statements, presented himself the DP’s personal assistant to carry out the scam. 
+
+In Kisii, Don Bosco Gichana, who in 2018 pleaded guilty to money laundering charges before a Tanzania court, is said to be preparing to vie again for the Kitutu Chache parliamentary seat, which he lost in 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+His in-law, Mr Zaheer Jhanda, who was in 2019 mentioned adversely in the 2018 Dubai fake gold deal, is said to have set his eyes of capturing the Nyaribari Chache constituency seat after two barren attempts. 
+
+Both Mr Jhanda and Mr Gichana are key allies of Dr Ruto and have been photographed with him during the DP’s political tours of the region. And in Nairobi, Mr Steve Mbogo, who has not only been adversely mentioned in fake gold scams but charged in court, is said to be preparing to vie for the Starehe parliamentary seat, a race he lost in 2017. 
+
+He was last seen in public as one of the dignitaries during the unveiling of the BBI report in October. 
+
+“It shows that we are not serious as a people,” says political analyst Herman Manyora, of the thought that people charged in court with criminal offences or corruption can be allowed to vie for political office. 
+
+“As a leader, the society looks up to you. Because the public is vulnerable, the promise of money from any individual is welcome. But if you have stolen money, must you come back to us and tell us we are stupid?” Mr Manyora poses. 
+
+In September last year, the court released two corruption convicts—Sirisia MP John Waluke and his business partner Grace Wakhungu—on a Sh10 million and Sh20 million cash bails, respectively, pending their appeals. 
+
+Now out of prison, Mr Waluke, who is back in Parliament, has already launched his bid for re-election for the third time. For him though, only time will tell because, if he loses his appeal, he will not only go back to prison but also lose his seat. 
+
+vachuka@ke.nationmedia.com Bonchari constituency by-election is scheduled for May 18, 2021. Politician was in Tanzania jail for five years . Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant.
