@@ -1,0 +1,207 @@
+East Africa is engulfed in a dark cloud of a sombre mood with flags flying at half-mast in honour of the departed Tanzanian President John Pombe Magufuli. Although Magufuli’s death is attributed to heart disease, we can attest from his last days that the fierce critic of Covid-19 containment measures had loosened his stand and acknowledged the existence of the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Kenya, we’re losing prominent leaders to the pandemic even as more livelihoods are ravaged by this invisible enemy. We recently lost Kericho Deputy Governor of Susan Kikwai to the virus. Besides, former Prime Minister Raila Odinga and Meru Governor Kiraitu Murungi are battling the disease. 
+
+The pandemic is showing its ugly face to Kenyans yet again, and this time it is deadlier. The third wave is here with us and we must prudently handle the situation to get out of the woods safely. 
+
+Countries are reverting to lockdowns as others intensify vaccination of the citizenry. Nobody is safe until we are all safe. In retrospect, a year ago, when Kenya received the devastating news of the Covid-19 “Patient Zero”, the government, particularly the Ministry of Health, moved fast, imposing stringent measures and guidelines that were instrumental in breaking the chain of transmission. 
+
+Lockdowns, curfews, compulsory wearing of face masks, regular handwashing and social distancing, among others, helped the country to adopt to the “new normal”. We have been resilient in the battle against the virus and we must not drop the guard yet. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Perhaps the only hindrance in this battle is the monster of corruption, which has more often than not rolled back the gains in our country’s management of the global pandemic. In the face of the tragedy, evil public officials who have perfected the art of siphoning funds from public coffers stole even as the lives and livelihoods of Kenyans hung in balance. It’s a sorry situation. 
+
+The Kemsa scandal millionaires, who still walk free despite the atrocities they committed, are, perhaps, the worst news Kenyans have had to contend with in these unprecedented times. We hope no more of them will emerge from the ongoing vaccination programme. 
+
+The government, especially the legislators, must come up with strict rules to counter the snares of the public officials who orchestrate plans to achieve nefarious ends from public offices. 
+
+The law enforcement agencies must spare no efforts in protecting the citizenry from these vultures. We must also religiously observe all the Health ministry guidelines. With the sharp increase in both infections and deaths, we must get worried. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We must call up the paranoia that we had when the virus first emerged on March 12 last year. Lastly, our leaders must lead from the front by taking the jab to instil trust in the vaccines. 
+
+Timothy Mwirichia, Meru Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
