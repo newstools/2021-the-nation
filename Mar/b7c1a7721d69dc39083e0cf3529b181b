@@ -1,0 +1,263 @@
+The Kenya Savannah Classic, which tees off Tuesday at Karen, is a new competition which was introduced to give players more play time following the cancellation of various tournaments over the last one year due to the coronavirus pandemic.The European Tour’s decision to hand Kenya the tournament indicated global interest in the organisation of sports in Kenyan. The Kenyan government has accepted an apology from the European Tour for the failed live television coverage of the first three days of last weekend’s Magical Kenya Open golf tournament. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sports Cabinet Secretary Amina Mohamed said on Monday that officials of the European Tour expressed remorse after logistical challenges that saw the world miss out on the opening three rounds of the tournament at Karen Country Club. 
+
+South Africa’s Justin Harding won the tournament with an impressive score of 21-under-par 263, defeating his closest challenger, USA’s Kurt Kitayama, by two shots. 
+
+On Saturday, the Kenya Open Golf Limited issued a statement apologising for the failed coverage. 
+
+This was followed by a statement by the European Tour also offering their apology. 
+
+“While the various logistical difficulties which cause the delay in equipment reaching Karen Golf Club were beyond our control, we fully understand and share the frustrations of our worldwide broadcast partners and golf fans around the world, as well as the many Kenyan sports fans who were looking forward to coverage of their national Open,” the European Tour said in their statement of apology. 
+
+The European Tour also commended the Kenyan government and authorities for the speedy clearance of the broadcast equipment at the port of Mombasa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We are grateful for the co-operation of the Government of Kenya and its specialised agencies at the port of Mombasa in Kenya who have helped us expedite the clearing of the equipment and we are now pleased to be in a position to show live golf,” the European Tour statement said. 
+
+Kenya Savannah Classic 
+
+Sunday’s final round was broadcast live from the Karen Country Club with CS Amina saying the European Tour have assured there would be no hitch in the coverage of the second tournament of the Tour’s Kenyan double-header, the Kenya Savannah Classic, which tees off today, also at Karen. 
+
+“As a government we did everything possible to fast-track the clearance of the equipment in Mombasa and we are glad that the European Tour have appreciated this fact,” Amina said on Monday. 
+
+A statement issued by the Ministry of Sports, Culture and Heritage later on Monday further explained the situation. 
+
+“The European Tour has informed that the delay was occasioned by logistical setbacks in shipping the broadcast equipment from South Africa to the Port of Mombasa,” the statement said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“They have further informed that the equipment was inadvertently delivered to the Port of Maputo, Mozambique and by the time it got to Mombasa, the Championship was already underway.  
+
+“The European Tour has thanked the Government of Kenya, customs clearing Agencies and the Kenya Open Golf Limited for the swift and efficient response and clearance of the goods at the Port of Mombasa and subsequent transportation to Nairobi,” the statement added.   
+
+“We reiterate that neither the Government of Kenya nor related Agencies were responsible for transportation of the broadcast equipment to the Port of Mombasa.  It should therefore be noted that the delay was not caused by any lapses on the part of the Government of Kenya or the Kenya Open Golf Limited.  
+
+“The European Tour has assured that they will provide extended broadcast of the Kenya Open Tour as well as live broadcast of the Inaugural Kenya Savannah Classic which commences on Tuesday 23rd March 2021 and which has the same fields and players as the Kenya Golf Open Tour.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The Kenya Savannah Classic, which tees off Tuesday at Karen, is a new competition which was introduced to give players more play time following the cancellation of various tournaments over the last one year due to the coronavirus pandemic. 
+
+The European Tour’s decision to hand Kenya the tournament indicated global interest in the organisation of sports in Kenyan. 
+
+Kenya will also invite the world for the World Rally Championship Safari Rally from June 24 to 27. 
+
+The rally is returning to the World Championship circuit for the first time in 19 years. He was joint second in 2019. He posted an impressive 43 points to win well ahead of Category A men winner Isaac Githinji. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
