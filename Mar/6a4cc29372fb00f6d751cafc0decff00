@@ -1,0 +1,115 @@
+Street children are today one of the constant features of the Kenyan urbanscape. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Experts estimate that there are 250,000 to 300,000 children living and working on the streets, with more than 60,000 of them in Nairobi alone. 
+
+Mombasa, Kisumu and the aspiring cities of Nakuru and Eldoret are also home to large populations of homeless families. 
+
+To a majority of Kenyans, these are just numbers. But the fact that even old men and women are called street children should make us spare a thought for this neglected group. 
+
+In Kisumu where I study, you are most likely to meet a street boy or girl at almost every corner you turn. They play and beg at supermarket entrances, in markets, bus termini and even on the beaches of Lake Victoria. 
+
+But many of them are often pushed by circumstances into the streets. Some are escapees from orphanages and brutal homes, some are victims of abuse, others are total orphans while others never had a place to call home in the first place and were born in the streets. 
+
+Brutal 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The streets are brutal and life there is not for the faint-hearted. Street families lack food, clothing and medical care; they are targeted and abused by sexual predators; attacked by gangs; arrested by county askaris and their children stolen by human traffickers. 
+
+Many of them put up in the streets because they lack options, and we all need to change our attitudes and help address this problem. The best starting point is family. Are you a father or a mother? Where is the child your sired or gave birth to? 
+
+If that child is not under your care, you are part of this problem. Please go find them and play your parental role accordingly. 
+
+Well-wishers and NGOs that can offer help should step in and assist the government find homes for these families. 
+
+Some of the children could be adopted by a loving family while adults should be rehabilitated and provided with capital to start businesses. Addicts can be taken to rehabilitation centres and allowed to transform their lives. 
+
+ Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The procedure for the funeral of the late President John Magufuli has changed after the chaos that happened at Uhuru Stadium in Dar es Salaam. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
