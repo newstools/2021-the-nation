@@ -1,0 +1,253 @@
+Indeed, women are the backbone of democratic governance.  There’s an Ethiopian proverb that says, “When a woman rules, streams run uphill.” Indeed, women are the backbone of democratic governance. They are a driving force and agents of change to local, national and global development. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sadly, their leadership and political participation remain dismal due to patriarchal structural barriers and entrenched discriminatory laws and practices in society. 
+
+But the world has evolved and women can no longer be ignored or looked down upon. Women are scaling heights in academia, politics, businesses and corporate leadership. But while women empowerment is considered by some as a threat to the dominant male leadership, the world is quickly advancing, and so are its people and their mindset. An equitable balance of power is necessary. 
+
+It’s 25 years since governments, including Kenya’s, unanimously adopted and committed to the Beijing Declaration and Platform for Action at the Fourth United Nations World Conference on Women. 
+
+This historical blueprint marked a turning point for the global agenda on gender equality and empowerment of women and girls, who, for eons, had been overlooked and under-represented. The treaty recognised women’s rights as human rights by articulating a vision of equal rights, freedom and opportunities for all women. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the 75th session of the United Nations General Assembly (UNGA 2020), President Kenyatta reiterated his support and commitment to the implementation of the long overdue legal instrument. But while Kenya has adopted policy and legal frameworks to promote, implement and monitor gender equality, this commitment remains a promise as implementation is far off. 
+
+Civil society 
+
+Pressure from civil society and, recently, the Judiciary to implement the two-thirds gender representation in elective and appointive positions have not borne fruit. The persistent and bold action by then Chief Justice David Maraga in advising the President to dissolve Parliament for its failure to implement the constitutional clause is a clear indication of disregard of the rule of law in Kenya. 
+
+The political goodwill in promoting women’s leadership has been largely lacking in Africa; the patriarchal system has undermined their ability. But this has been proved wrong. The second-most powerful leader in the United States is a woman, a black woman for that matter, Kamala Harris. Same as the President of Tanzania, Samia Suluhu Hassan. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It takes a concerted effort for the commitments to be realised. However, political goodwill is key in shaping the agenda. An intentional and inclusive approach is crucial in positioning women for gender equality. 
+
+While Kenya is still hesitant on passing the two-thirds gender Bill, a number of African countries boast of more than half gender representation in parliament, with Rwanda topping the list globally at 61.3 per cent women. 
+
+The Constitution guarantees equality and freedom for all regardless of race, sex, pregnancy, marital status, health status, ethnic or social origin, colour, age, disability, religion, conscience, belief, culture, dress and language of birth. It provides equal treatment for women and men to fully participate in political, economic, cultural and social spheres. 
+
+To realise this freedom, the State is charged to institute an affirmative action programme and policies to redress any inequalities, including legislation of Article 27 (8) , which mandates it to take legislative and other measures to ensure that no more than two-thirds of the members of elective and appointive bodies are of the same gender. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Whereas this progressive provision has been instrumental in the creation of 47 woman representative and special seats in Parliament, the legislation has not taken full effect in other elective and appointive positions like the Cabinet, Senate, county assemblies, ambassadorial and parastatal boards. 
+
+Given equal resources, women can win against male competitors during elections. Let the electorate, government, civil society and development partners back women contestants to deliver at the ballot and in office. 
+
+ m.kachambwa@femnet.or.ke @kachambwa Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
