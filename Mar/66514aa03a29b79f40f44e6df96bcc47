@@ -1,0 +1,187 @@
+Meru has been allocated two more constituencies bring the total to 11.Kitui had a population of 1.13 million people in 2019 spread over 30,430 square kilometres. The national statistics agency has raised the red flag over the proposed creation and distribution of 70 new constituencies in the Building Bridges Initiative (BBI). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kenya National Bureau of Statistics (KNBS) is proposing 68 additional constituencies instead of the 70 that are captured in the Constitution of Kenya (Amendment) Bill 2020. 
+
+The bureau also further indicates that the allocation of constituencies in the Bill has disenfranchised at least six counties while eight others will be over-represented should the Bill be enacted. 
+
+KNBS arrived at the number of constituencies after dividing the 360 constituencies against the 2019 results of the national population census which indicated that Kenya’s population stood at 47.5 million. 
+
+Distribution of population 
+
+The simulation is based on the distribution of population by number of households, land area, population density, the number of constituencies and counties. 
+
+The analysis was handed over to the National Assembly and Senate committees of Justice and Legal Affairs, which are jointly conducting public hearings on the Bill, by KNBS Director-General McDonald George Obudho when he appeared before the committees on Wednesday last week. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the population data on political units was a subject of a heated exchange between the KNBS, IEBC and members of the joint committee during the Wednesday hearing. 
+
+While the two agencies admitted that none of them has official population data on the units, KNBS insisted it had collected the data but is unable to validate it for lack of cooperation from IEBC. 
+
+Mr Obudho said the refusal by the Chebukati-led commission to cooperate has undermined the process of having official data on political units and sought the intervention of Parliament 
+
+“We have tried since 2019 but we have not been able to get information from IEBC,” Mr Obudho said, adding that the non-cooperation has delayed the validation of the data on political units the bureau collected during the 2019 census. 
+
+However, Mr Chebukati argues that the primary data KNBS is demanding cannot be given out as it will amount to the commission ceding its mandate to another government agency. 
+
+Disenfranchised 
+
+The KNBS simulation indicates that six counties — Nairobi, Bungoma, Meru, Homa Bay, Kisii and Kitui — have been disenfranchised with the allocation of constituencies contained in the Bill, while eight other counties are overrepresented. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nairobi has been allocated 12 additional constituencies bringing the total to 29 should the Bill be adopted. 
+
+However, Nairobi should in actual fact have a total of 33 constituencies, according to KNBS simulation, meaning that the capital is underrepresented by up to four constituencies. 
+
+The capital has a population of 4.3 million people spread over an area of 704 square kilometres. 
+
+It has 1.4 million households with one of the heaviest population densities in the country where up to 6, 247 people live in a square kilometre. 
+
+Meru has been allocated two more constituencies bring the total to 11. The simulation shows that the county deserves three new constituencies bringing the total to 12, so is Kitui which, with eight constituencies, did not get any allocation, when in fact it requires one more to bring the total to nine. 
+
+Kitui had a population of 1.13 million people in 2019 spread over 30,430 square kilometres. The county has 261,814 households and it has 37 people per square kilometre. 
+
+Bungoma has a population of 1.67 million people according to the 2019 census with 357, 714 households. With 3,024 square kilometres in size, the county has 552 people living per square kilometre with nine constituencies. 
+
+KNBS says that instead of the three additional constituencies, the county should have received four. 
+
+Kisii County has nine constituencies against a population of 1.26 million people crammed in 1,323 square kilometres. The number of people living per square kilometre stands at 957. 
+
+The KNBS simulation indicate that the county should have 10 constituencies. 
+
+Over represented 
+
+In contrast, Tana River, Lamu, Taita Taveta, Marsabit, Samburu, Elgeyo Marakwet, Baringo and Vihiga are over represented, according to the simulation. 
+
+Lamu with a population 143,920 has two constituencies and KNBS suggests this should be reduced to one. 
+
+Taita Taveta has four constituencies when its population ratio only gives it three so is Tana River, which has three constituencies when in actual fact should have two. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Samburu had a population of 310,327 in 2019 spread over 21,090 square kilometres. It had 63, 951 households, meaning there are 15 people per square kilometre. 
+
+It has three constituencies and the KNBS believes that it should have only two. 
+
+Marsabit is the biggest county in Kenya with 70,944 in square kilometres, with a total population of 459,785. It has six persons per square kilometre and has four constituencies but KNBS believes that the number should be three. 
+
+Vihiga, the second smallest county in Kenya, is spread over an area of 564 square kilometres and has 1,027 people living per square kilometre. It has five constituencies but the simulations indicate that they should be four. IEBC terms as illegal BBI Steering Committee’s allocation of new constituencies to counties. From the two extremes, the BBI is full of promises and perils. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
