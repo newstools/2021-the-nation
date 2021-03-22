@@ -1,0 +1,94 @@
+Several people have been injured after a Mombasa-bound bus overturned at Thuchi River bridge at the border of Tharaka Nithi and Embu counties along the Meru-Nairobi highway. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some of the victims of the Monday morning accident were rushed to Chuka County Referral Hospital in Tharaka Nithi County and others to Kieni hospital in Embu County for treatment. 
+
+Mr James Nyaga, a witness, said that the driver of the bus was speeding from Meru town and he lost control of the bus and it fell at the bridge blocking the road completely. 
+
+“I suspect the bus skidded at the corner because the road was wet following heavy rainfall in the area bordering Mount Kenya forest,” said Mr Nyaga. 
+
+He said the bus hit an oncoming private vehicle as it slipped at the bridge. 
+
+He added that the strong guardrails blocked the 72-seater bus from plunging into the river. 
+
+The accident paralysed transport services for over six hours causing a traffic jam. 
+
+
+
+
+
+
+
+
+
+
+
+Paralysed transport services along the busy Meru-Nairobi highway after a Mombasa-bound bus was involved in an accident at Thuchi river bridge on March 22, 2021.  
+Photo credit: Alex Njeru/Nation Media Group
+
+ 
+
+Commuters faulted the government for failure to construct more roads linking the two counties. 
+
+The bridge is one of the black spots along the road that has many bends. Last year, 562 people perished in road crashes during the same period. The accident occurred at Muthiga Farm near Mwisho wa Lami trading centre on Friday evening. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
