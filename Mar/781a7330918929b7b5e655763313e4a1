@@ -1,0 +1,157 @@
+Services were paralysed at the county offices as employees took part in the preparations while others simply kept away. Kericho Deputy Governor Susan Kikwai will be buried on Tuesday at her parents’ home in Tugunon village, Kipkelion West Constituency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Monday, three governors and more than 20 deputy governors confirmed they will attend the burial. 
+
+Kikwai, 60, succumbed to Covid-19 related complications at Siloam Hospital in Kericho town on Saturday after four days of treatment. 
+
+The body will be transported from the hospital’s mortuary to her rural home  at 9 am Tuesday for the final burial rites, according to the programme released on Monday evening. 
+
+Members of the Kericho County Assembly held prayers on Monday ahead of the burial. 
+
+“We have come here to pray for the family and the county since not all of us will make it to the burial due to Covid-19 containment measures set by the Ministry of Health,” Speaker Dominic Rono said, citing the more lethal third wave. 
+
+“There is a lot of laxity among the people when it comes to containment measures despite the high number of infections and deaths being reported. It is important that we do not lower our guard,” he said. 
+
+
+
+
+
+
+Withering flowers are pictured in Kericho Deputy Governor Susan Kikwai's office on March 22, 2021.
+Photo credit: Vitalis Kimutai | Nation Media Group
+
+ 
+
+Preparations for the funeral were in high gear, with security and health officers visiting Kikwai’s home for inspections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Services were paralysed at the county offices as employees took part in the preparations while others simply kept away. 
+
+People seeking services or visiting staff were turned away, especially at the county headquarters. 
+
+County Secretary Joel Bett led the planning committee in putting in fine-tuning the funeral programme at the deputy governor’s residence at Chagaik on the outskirts of Kericho town. 
+
+vkimutai@ke.nationmedia.com Kericho Governor Paul Chepkwony says that Susan Kikwai died at Siloam Hospital. King’ori dies at The Nairobi Hospital where he had been admitted for almost two weeks. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
