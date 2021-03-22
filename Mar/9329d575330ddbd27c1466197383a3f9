@@ -1,0 +1,75 @@
+In February last year, the World Health Organization (WHO) dubbed the rapidly growing misinformation around Covid-19 an “infodemic” — an “overabundance of information, some accurate and some not, that makes it hard for people to find trustworthy sources or reliable guidance when they need it” — and has since been fighting it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Misinformation is not unique to the coronavirus; online platforms have been battling the phenomena for a long time. It is driven by the rapidly increasing access to internet and digital media and a huge public demand for information about Covid-19. ‘Social spread’, has had a significant impact on anxiety around the pandemic. And, with the rollout of Covid-19 vaccines, vaccine hesitancy has emerged. 
+
+Just as the coronavirus itself, misinformation has spread far and wide, drowning out credible sources of information. Furthermore, basic information on how to reduce transmission and exposure to the virus has been muddled by uncredited sources. This poses a serious risk to public health and action. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Disinformation and misinformation has chillingly fuelled disasters such as the First and Second World Wars, the 1990s Balkans conflict and recent natural disasters. Lessons from pandemics like HIV might prove helpful. Fear, worry, stigma and falsehoods may lead to adverse impacts on disease control. Examples include SARS and Ebola outbreaks. 
+
+A key component of managing any crisis is effective communication— which can be difficult during an infodemic. As the world scrambles to contain the coronavirus pandemic, the role of effective communication is becoming increasingly critical. 
+
+Efforts by the Ministry of Health, WHO and health experts to maintain a constant stream of information through press briefings is a good model. Frontline healthcare providers should be equipped with the most recent research findings and accurate information. The mass media, healthcare and community-based organisations and other key stakeholders should build strategic partnerships for disseminating authentic public health messages. 
+
+ judysheri@pharmacyboardkenya.org. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
