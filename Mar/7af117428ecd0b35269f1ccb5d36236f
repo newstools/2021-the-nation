@@ -1,0 +1,271 @@
+Only five police officers have been vaccinated against coronavirus in Mombasa as majority shy away from the jab.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Friday, Coast Regional Police Commander, Mr Gabriel Musau launched the vaccination drive targeting police officers, however, three days later only five have been vaccinated.  
+
+The Kenya Police Service is targeting 5,000 officers at the Coast region in the vaccination drive. 
+
+But the county emergency committee on Covid-19 response led by its co-chairman Mr Hassan Joho decried over low uptake of the virus among the targeted group especially the police force. 
+
+Mr Joho urged the police bosses to sensitise their officers on the importance of the jab.  
+
+“We were targeting frontline workers including health staff, teachers and security apparatus. But the trend we are witnessing today…those that were being targeted are avoiding it. But the good news is that we have bigger number of communities is asking for the vaccine,” said Mr Joho. 
+
+Speaking at his office, Mr Joho said his administration is contemplating giving the jab to those who want it. 
+
+“We have to make a decision, if those targeted do not want the jab we can give to those who need it. These vaccines have expiry dates. We will look at the trend if it doesn’t change we will be forced to allow communities to come forward for the jab,” insisted Mr Joho.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Joho decried over low uptake of the vaccination saying 800 health workers have so far received the jab. 
+
+“Over 1200 have so far received the jab in Mombasa but we are worried about our police force, only five have been vaccinated, that’s a major challenge yet the county commissioner Gilbert Kitiyo led by example. But we will encourage them to come forward. Only one journalist has received the jab I hope the rest will follow suit,” insisted Mr Joho.    
+
+On Friday, the Coast Regional Police Commander was the first policeman to be vaccinated against the virus at the Coast General Teaching and Referral Hospital in Mombasa, paving way for the rest of the police officers, as frontline workers in the region. 
+
+“This is a voluntary exercise but I encourage more police officers to be vaccinated to protect themselves and their families. Police officers in Lamu and Tana River will have to go to the county headquarters to get vaccinated,” said Mr Musau. 
+
+Last Friday, Mr Musau said they were targeting over five thousand police officers in Coast region in the Covid-19 vaccination drive 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes at the Covid-19 third wave has hit the country with more positive cases reported daily  and a higher number of people succumbing due to Covid-19 complications. 
+
+Mr Musau said the vaccination exercise on the police officers in counties will depend on their schedule, considering that most are now busy manning various national examination centers.  
+
+“Due to their busy schedule, they will be doing it in turns. We have also advised that they fill the vaccination forms early enough to avoid crowding at the centers,” he said  
+
+Vaccine campaign 
+
+Kenya launched its Covid-19 vaccine distribution early March after receiving 1 million doses of AstraZenca vaccines and rolled it out to its counties afterwards. 
+
+Mombasa County received 9,000 doses of the vaccine on March 9 where Health Chief Officer Pauline Oginga was the first to be jabbed.  
+
+She said that the vaccine will also be distributed to sub county hospitals in Tudor, Port Reitz and Likoni to ease access of those willing to be injected. Already the Kenya Navy in Mombasa received 3,000 doses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In Kwale County, 3,000 doses were given to the border county at the Msambweni Referral Hospital that that is also planning to distribute it in phases giving priority to the health workers. 
+
+Health Chief Executive Francis Gwama said 2,500 health workers are being targeted in Kwale as the devolved government is expecting more doses.. 
+
+This is despite low number of health workers taking the jab, since it was rolled out the counties. 
+
+The vaccine in Coast counties is set to be distributed in three phases beginning with the frontline workers, police and teachers. 
+
+In the second phase people with comorbidities, and diseases like diseases like diabetes, blood pressure and HIV patients and Tuberculosis. Roba laments that many Kenyans have dropped their guard in observing the set health protocols. The streets are brutal and life there is not for the faint-hearted. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
