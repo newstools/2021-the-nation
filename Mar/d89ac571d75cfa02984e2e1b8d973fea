@@ -1,0 +1,132 @@
+Ethiopia on Saturday reported some 35 cases of Covid-19 vaccine side-effects since the horn of Africa nation begun administering the AstraZeneca jab one week ago. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Ethiopian Food and Drug Regulatory Authority said more than 1,400 people have been vaccinated so far and side effects have been reported in about 35 people. 
+
+However, sources from the authority told the Nation that there are no "serious side-effects" that have been reported so far as a result of the vaccine. 
+
+No blood clotting 
+
+The sources further confirmed that no blood clotting side-effects have been reported unlike in some European countries.  
+
+"Headaches, fatigue, nausea, fever and muscle aches are some of the most common side-effects observed during the study," the source told the Nation. 
+
+Ethiopia on Monday announced that it will not ban the use of AstraZeneca vaccine despite concern in some European countries over blood clotting after people received the shot. 
+
+Ethiopia begun administering the AstraZeneca vaccine on March 14 and said it would continue doing so as there was no evidence it was unsafe for use. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A few days ago, the Ethiopian Ministry of Health echoed the World Health Organisation’s statement that there is no evidence linking the vaccine to blood clotting. 
+
+"Therefore, Ethiopia will continue to provide the vaccine to its citizens as long as there is no scientific evidence that the vaccine can cause blood clots," the ministry said. 
+
+Ethiopia received 2.2 million doses of the vaccine in the first round on March 7 from India's Serum Institute. 
+
+Ethiopia plans to vaccinate 20 per cent of its over 100 million population by December 2021, according to the Ministry of Health. 
+
+Very alarming 
+
+Ethiopia is one among the 25 African countries that have been supplied with the AstraZeneca vaccine through Covax, a joint initiative from WHO and the international vaccine alliance Gavi.  
+
+The Ethiopian Food and Drug Regulatory Authority said the vaccine will help control the spread of the disease and there is no need to panic over reported side-effects. 
+
+According to the Ministry of Health and the Institute of Public Health, the recent spread of the virus across the country is "very alarming". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Thursday last week, Ethiopia reported the highest number of coronavirus cases in a single day since the  the pandemic struck. 
+
+According to the Institute of Public Health, of the 8,055 people tested on Thursday, 2,057 tested positive for the visrud. 
+
+This means that 26 per cent of the individuals tested were infected with the virus. 
+
+The institute further said that the number of patients being treated in the Covid-19 intensive care unit is at an all-time high. Health ministry says preparations for the collaboration with China are going well and that Ethiopia will completely stop importing test kits. Members of the Rapid Response Team will also benefit from the insurance. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
