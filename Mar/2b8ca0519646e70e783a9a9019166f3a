@@ -1,0 +1,120 @@
+Agriculture is the biggest employer in Sub-Saharan Africa and a more effective way to lift people out of poverty is yet to emerge. But among economic sectors, it is also the most significant water user and deforestation driver. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As natural forests give way for agriculture and other types of development, the earth loses much of its biodiversity, making it vulnerable to climate change, desertification, increased greenhouse gases in the atmosphere and many other problems. 
+
+World over, agroforestry — growing trees among or around food crops — is a proven method for farmers to grow more diverse, productive and profitable crops while protecting the environment by reducing farmers’ reliance on forests. 
+
+But most large-scale efforts often bypass smallholders to focus on commercial plantations, which calls for a shift in thought. Equipping and training smallholders to farm trees alongside food crops can enhance economic resilience and climate-smart farming. 
+
+Natural environment 
+
+Agroforestry attempts to balance several needs: To grow a diverse, adequate supply of food that can both meet national demands and satisfy the needs of the producers themselves; grow trees for timber and other commercial purposes; and protect the natural environment to ensure it continues to provide resources for present and future generations. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Besides environmental benefits, tree-planting is the most important non-crop asset for the world’s rural poor. In our experience at One Acre Fund, a small Sh200 investment in tree seedlings can return 40 times as much — about Sh8,200 — after 10 years when a mature timber tree is harvested. 
+
+However, intended interventions fail to account for the social context and values, which limits adoption and uptake. For example, some farmers are reluctant to practise agroforestry since they associate trees with forests, not agriculture. Others fear the trees will out-compete crops for nutrients. 
+
+Successful tree planting initiatives depend on the soil, farm context and farmers’ goals. Adoption requires consistent communication — drawing success stories that illustrate how others use agroforestry and fostering personal communication between farmers to learn from one another. 
+
+Agroforestry programmes 
+
+In the longer term, their choices are influenced by the decisions and beliefs of entities such as local authorities and leadership, and community-based organisations. These powerful local actors can play key roles in the adoption of agroforestry programmes that partner with community institutions such as farmer groups to significantly increase agroforestry. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lastly, government support plays a vital role in facilitating the uptake of agroforestry. This is especially true for the policy and institutional context within which agroforestry is practised. 
+
+Specifically, governments can help to revise outdated forestry and environmental legislation, improve tree crop value chains, provide technical support for the diversification of farming practices and better coordinate cross-sectoral integration between agriculture, environmental and rural development initiatives. 
+
+koome.mccourt@oneacrefund.org. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
