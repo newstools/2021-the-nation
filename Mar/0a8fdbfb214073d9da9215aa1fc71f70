@@ -1,0 +1,79 @@
+The Cabinet secretary for Education, Prof George Magoha, has made a pronouncement that no candidate will miss the final national examinations that begin today. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The CS not only allowed students with special needs — such as those who relocated far away from their exam centres for various reasons — to sit the tests, but also declared that pregnant girls will be allowed in the exam room. 
+
+Allowing the pregnant girls to sit their final test and giving them options to do so in the exam centre that is nearest to them is a good gesture by the government. Ministry officials, especially those in the rural areas, should create awareness of this development immediately. 
+
+The lockdown caused by the Covid-19 pandemic last year, including the 10-month closure of schools, subjected students to an unprecedented lengthy stay at home, during which period many schoolgirls were exposed to vulnerable situations, which eventually led to their unplanned and unwanted early pregnancy. 
+
+Corrective measure 
+
+At the beginning of the term, the government had tasked chiefs and their assistants to trace girls who had delivered and those who had been married off and ensure that they report back to school. This is a welcome corrective measure by the government because, in the past, very intelligent and enterprising schoolgirls got pregnant and dropped out of school against their wish. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In most of the cases, the pregnant girls were condemned by the society as failures at an early age. The question is: Which child becomes a failure at the age of 13, 14 or 15? None, because they are too young to be failures in life! The government’s action is a milestone worth sustaining. 
+
+All of us must support the government and, more so, the ministry in this endeavour, especially as it seeks to salvage vulnerable schoolgirls. That will ensure all children in Kenya have equitable access to education and, therefore, reduce the gender equality gap. 
+
+  kapkiaimoses@gmail.com. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
