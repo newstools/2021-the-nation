@@ -1,0 +1,144 @@
+On Saturday, a light aircraft with two people ferrying examination papers crashed on a hill as it approached Marsabit town. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The cause of the crash is yet to be established though Marsabit County Police Commander Samuel Mutunga said bad weather could not be ruled out since it was foggy. 
+
+Witnesses said the Vix Wing Cessna, registration number 5y-JKN, went down on the notorious Kofia Mbaya Hill as it attempted to land. 
+
+It is the same site that claimed the lives of former Cabinet minister Bonaya Godana, his assistant Mirugi Kariuki, assistant regional development minister Titus Ngoyoni, legislators Abdi Sasura and Guracha Galgallo Boru, and nine others when their military plane crashed on April 10, 2006 as it attempted to land in bad weather. 
+
+A provincial administrator and two crew members aboard the ill-fated Chinese Y-12 aircraft were rescued at the scene.  However, one of those who was pulled out of the wreckage died en route to Nairobi for treatment. 
+
+Aviation black spot 
+
+Ever heard of an aviation black spot? This could be it. The theories are varied, but the most common is linked to an old man from Tanzania who lived around the hill before independence. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kofia Mbaya is about four kilometres to the east of Marsabit town and 1,300 metres above the sea level. It is close to Marsabit Mixed Secondary School, Marsabit Boys High School and Marsabit Old Primary School. On eastern side there is Hula Hulla village. 
+
+There is a sparse population around the hill following the tussle between the Kenya Forest Service and the inhabitants who have been blamed for encroaching on it. It was formerly part of Marsabit Forest. 
+
+It is not far from the county government headquarters and the governor’s office in Saku Constituency. It borders the Marsabit Catholic Maria Mfariji Shrine, which was established on July 3, 2006 for prayer, recollection and retreats. 
+
+The diocese built the shrine to encourage reconciliation and peace among the different communities in the area. 
+
+Colonial servant 
+
+Little is known about the origin of the name Kofia Mbaya, but it can be traced to one colonial servant. Mzee Daniel Damocha, a retired Red Cross employee, told the Nation that the hill got its name from a Tanzanian who worked for the British as a driver. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The name Kofia Mbaya was derived from the first man who inhabited the hill. Kabunge Kofia was the chauffeur of the then-Marsabit district commissioner long before independence. He was the first person to live on the hill with his family and a few relatives who had accompanied him to Kenya,” said Mzee Damocha. 
+
+“He used to wear an oddly-shaped large palm hat that often had a snake coiling around it. He was a mysterious person who was revered and at the same time feared by the locals because of his ability to co-exist with wild animals,” he added. 
+
+Locals feared him and named him Kofia Mbaya due to the shape of his large hat. His grandson, Guracha Kabunge, said he was a cryptic figure and was isolated by locals, who largely acted out of wiccaphobia (fear of witchcraft) towards him. 
+
+Kofia Mbaya’s grand-daughter, Rahma Kabunge, said he had the ability to tame wild animals. 
+
+Evicted from the hill 
+
+When the old man died just after independence, his family was evicted from the hill, which has remained as the only reminder of the mysterious legend. Most of Kofia Mbaya’s relatives now live in rental houses in Marsabit town. 
+
+The hill has become a black spot that has seen more than three plane crashes, claiming more than 20 lives. 
+
+An investigation report into the 2006 plane crash that killed 14 people cited fog and poor visibility on the hill as the cause of the accident. 
+
+Mzee Isaac Dokhle said that there was need to perform a ritual on the doomed hill to appease ancestors. 
+
+“Huu mlima umekuwa mbaya kuliko jina lake, kuna haja ya kufanywa kwa tambiko (The hill is dangerous, more than the name suggests. There’s a need for a ritual to be done on it,’’ Mzee Dokhle said. 
+
+According to Abdullahi Guyo, a witness of the Saturday accident, more than five planes have crashed on the hill since the 1990s. 
+
+ 
+
+jwalter@ke.nationmedia.com The plane crashed due to bad weather at Kofia Mbaya in Marsabit Central. The aircraft, model Harbin Y-12, was heading from Moi Air Base in Eastleigh, Nairobi County. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
