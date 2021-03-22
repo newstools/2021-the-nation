@@ -1,0 +1,301 @@
+It is obvious now that the government should be giving serious consideration to reinstating some of the measures imposed to limit gatherings at the onset of the coronavirus disease in Kenya one year ago. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The ban on political rallies announced last week was a step in the right direction but not nearly enough in the wake of a frightening surge in Covid-19 infections and fatalities. This third wave seems particularly virulent if the deaths being recorded everyday are anything to go by. 
+
+The statistics released daily by the Ministry of Health offer a sobering picture of a pandemic out of control. The healthcare system is overwhelmed and unable to cope with the deluge of patients, particularly those requiring specialised attention in intensive care and high-dependency units. 
+
+If the dry numbers are not frightening enough, the names and faces falling to the malevolent virus should be. Nobody in Kenya today can claim not to know a victim of the disease. It is not just politicians, media personalities, top civil servants, clergy, business people, professionals, entertainers and other leading public figures whose deaths rate press coverage but, much closer home, the scourge strikes at the very heart of all communities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Chama members 
+
+It’s taking away our parents, siblings, children, relatives, neighbours, friends, schoolmates, chama members and other close associates. We are not talking here about the occasional fatalities but about losing those close to us on an almost daily basis. 
+
+Indeed, many community, social, professional and other groups have been diverted from their core functions to full-time fundraising for hospital bills and funeral costs for members struck by the virus. 
+
+However, despite all the evidence of a pandemic that threatens to decimate the population, it is beyond comprehension that so many of us continue to operate as if it is business as usual. 
+
+We still have in our midst Covid deniers and peddlers of baseless conspiracy theories, disinformation and outright lies. 
+
+In the streets and marketplaces, social distancing, hand hygiene and face masks are hardly in evidence. Bars and restaurants are back to full throttle, widely ignoring the health restrictions retained after they were allowed to reopen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As for many churches, mosques and other houses of worship, business is back in full swing, in total defiance of regulations against closely packed crowds. Physical contact and generous showers of spittle abound during all the unrestrained praying, singing and dancing. 
+
+Personal responsibility 
+
+We cannot be oblivious to what is going on and the dangers we all face out of impunity, willful neglect and criminal irresponsibility. If we want to contain Covid-19, then we all must begin to exercise personal responsibility, and also demand that the government reimpose the toughest measures necessary to save our lives. 
+
+We must now face up to the fact that, pretty soon, there will be no option but to submit to tough restrictions on movement and gatherings. There is already talk that the government might be mulling near-total lockdown, including extending curfew hours and banning movement within and into or out of designated virus hotspots. 
+
+Whatever measures are under consideration must, of course, be weighed against their likely impact on business, trade and the economy in general. We are in a dire situation with no spare cash lying around to bail out suffering enterprises and feed, clothe and house distressed citizens. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The reality is that we can’t afford to kill business as we fight Covid-19 but we can still take very tough measures against those who continue to defy health guidelines and, therefore, put the lives of all those around them in mortal danger. 
+
+An obvious one is ruthless policing to ensure every person out in the streets is properly masked and that social distance is observed. Arrests and heavy fines should enforce compliance; if not, maybe some National Youth Service personnel patrolling with whips at the ready should be an adequate deterrence. 
+
+Health guidelines 
+
+Shops, markets, malls, restaurants, bars and other such places must be made to comply with health guidelines or shut down. Same with the churches, mosques, temples and other places of worship in need of aggressive reminders that the virus is no respecter of faith or those who claim a direct line to the Almighty. 
+
+These tough measures must, of course, be accompanied by skillful public education campaigns. Too often, the narrative is being owned by evil propagandists dominating the discourse with lies on the nature and origin of Covid-19 and its prevention and treatment, as well as the newly introduced vaccines against the coronavirus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The government is not doing enough to counter the disinformation with swift, timely and accurate rebuttals. 
+
+mgaitho@gaitho.co.ke www.gaitho.co.ke @MachariaGaitho Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
