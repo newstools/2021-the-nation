@@ -1,0 +1,140 @@
+Standard 8 candidates begin their Kenya Certificate of Primary Education (KCPE) exams Monday with the Kenya National Examinations Council (Knec) warning against any malpractices. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While overseeing the opening of the exams container Nairobi’s Lang’ata West, Knec Chief Executive Mercy Karogo asked headteachers to be on high alert and ensure they deliver credible exams. 
+
+“No exam malpractice should be witnessed during this exams," said Dr Karogo. 
+
+The exams, which are normally done at the end of the year, are coming five months later after the 2020 tests were postponed due to the Covid-19 pandemic. 
+
+Knec registered 1,191,725 candidates who will be doing the tests in 28,467 KCPE examination centres. 
+
+The exams will be administered from Monday, March 22 and end on Wednesday, March 24, 2021. 
+
+In central region, exam containers in all the sub-counties were opened by 6am. 
+
+The examination papers were picked by centre managers from local deputy county commissioners’ offices. 
+
+Central Regional Commissioner Wilfred Nyangwanga opened the exams container at the Narumoru East centre. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He confirmed that the distribution went on smoothly with no hitches. 
+
+The centre managers received a package consisting of three sets of papers — Mathematics, English and Composition — for the first day, as well as the answer sheets. 
+
+The centre managers, who must have a Teachers Service Commission (TSC) number, were also required to append their signatures confirming that they had received the exam materials. 
+
+Security 
+
+Mr Nyangwanga said that security had been beefed up to ensure credibility in the examination. 
+
+“The exams must be accompanied by a security officer so no vehicle can go without them to ensure safety and credibility in our examination,” he said. 
+
+In Nyeri County, there are 541 centres where over 17,300 candidates will sit their exams. 
+
+Heavy downpour 
+
+In Tharaka Nithi County, the exams started off smoothly in the five sub-counties despite a heavy downpour in Maara and Meru South sub-counties. 
+
+At the Meru South Sub-County collection centre in Chuka town, County Commissioner Beverly Opwora and County Director of Education Bridget Wambua supervised the exercise. 
+
+A total of 12,849 candidates are sitting for the examination in the county — 6,517 girls and 6,332 boys. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Wambua asked the media to keep off the examination centres and also warned them against publishing pictures regarding the examination exercise claiming that this is against the protocols issued by the Ministry of Education. 
+
+“We have been directed to avoid publishing pictures of the examination exercise and to keep off the media from examination centres,” Ms Wambua told the Nation. 
+
+ 
+
+Reporting by Faith Nyamai, Reginah Kinogu, Alex Njeru Over a million candidates sit mathematics paper at 8.30am amid Covid-19 protocols. Education CS says no student will miss the national test, including pregnant girls. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
