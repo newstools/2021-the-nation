@@ -1,0 +1,132 @@
+The Kenya Certificate of Secondary Education (KCSE) examinations start on Friday. After a topsy-turvy academic year brought about by the Covid-19 pandemic, it’s D-Day for primary school candidates. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenya Primary Certificate of Education (KCPE) examinations begin at 8.30am, when more than a million candidates across the country sit their mathematics paper in a unique environment. Fears of cheating have been raised, with face masks being a new challenge as cases of impersonation have been reported in the past. 
+
+Education CS George Magoha last week said some candidates intended to use the masks to cheat by using them as ‘mwakenya’, a piece of paper with crucial notes that is squeezed and shared in the exam room. He directed centre managers, supervisors and invigilators to ensure candidates remove their masks before entering exam rooms for identification, and singled out Isebania, Migori and Kisii as “the headquarters of cheating”. 
+
+The exams come amid apprehension by some parents that the candidates might not have prepared adequately having been away from school for a long period. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But Prof Magoha allayed the fears, saying the exams will be administered and marked “with a human face” and that candidates will not be disadvantaged. 
+
+Due to the ongoing rains, the ministry has requested a comprehensive weather forecast from the weatherman to ensure better planning. 
+
+Heavy rains 
+
+The Kenya Certificate of Secondary Education (KCSE) examinations start on Friday. 
+
+Different parts of the country are expected to receive heavy rains that might render some roads impassable. 
+
+However, the Kenya National Examinations Council (Knec) has put in place measures to ensure all candidates sit their papers “wherever they are”. There are at least three helicopters on standby for use, although more may be deployed if need be. 
+
+It is expected that there will be more candidates sitting the exams away from their registered centres, such as in hospitals, than in previous years. 
+
+This is because families have been forced to relocate by various factors brought about by Covid-19 and in some places, natural calamities like flooding. In certain counties, many candidates reportedly got pregnant when schools were closed for 10 months and some will be in hospitals either awaiting delivery or after giving birth. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The government has invited all Cabinet secretaries, principal secretaries, chief administrative secretaries and senior civil servants to monitor the administration of the exams.  
+
+Social Studies 
+
+After the maths paper, KCPE candidates will sit English Section A (Language) and composition. Tomorrow, they will take Science, Kiswahili (Lugha) and Insha in the afternoon. On Wednesday morning, they will finalise with Social Studies and Religious Education paper. 
+
+Papers have already been dispatched nationwide and will be distributed from as early as 5am. They are safely in 479 containers, where concerns over adherence to Covid-19 protocols like crowding have been raised. 
+
+Examination centre managers, who are also head teachers, will collect the papers ‘in person’ and deliver them to the supervisors stationed in their institutions. 
+
+They will also take back the answer sheets to the distribution centres. The Teachers Service Commission – which will have 227,679 tutors serve as centre managers, supervisors, invigilators and markers – yesterday advised them to observe Covid-19 protocols. “Let us uphold the highest integrity. While we are at it, let us not break from taking precaution against coronavirus.” 
+
+Knec has organised ‘shared transportation’, mapped according to the location of the schools and the head teachers are prohibited from using private transport. 
+
+The Kenya Women Teachers Association, however, said the measures put in place to prevent infections are inadequate and called for more vehicles, saying exam officials will be exposed due to the interactive nature of the exams. Form Four candidates began oral exams for German, Arabic, French on March 12. Examinations council is finalising logistics to distribute exam materials to counties. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
