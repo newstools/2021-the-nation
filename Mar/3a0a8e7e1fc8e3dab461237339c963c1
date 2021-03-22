@@ -1,0 +1,251 @@
+The number of hospitalised patients under intensive care stood at 120, another worrying figure, according to the Health ministry. Twelve people have died from Covid-19 in the past 24 hours bringing the total number of deaths in Kenya to 2,023. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Health Cabinet Secretary Mutahi Kagwe announced this on Monday, noting that the number of deaths and the positivity rate of 22 per cent were worrying. 
+
+This rate is the highest the country has experienced since the beginning of the year. 
+
+At a press briefing at Afya House in Nairobi, CS Kagwe also announced that 1,130 more people had tested positive for the virus, out of a sample of 5,119 tested within a day, raising the number of declared infections to 122,040. 
+
+Kenya confirmed its first Covid-19 case on March 13, 2020. By Monday, Kenya's number of cumulative tests was 1,419,984. 
+
+Of the new patients, 586 were male and 544 female, the youngest one year old and the oldest 94. 
+
+Seventy one of the 1,130 people were foreigners, most of whom are admitted at the Covid-19 Nairobi Hospital UN hospital. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+120 patients in ICU 
+
+As of Monday, 1,013 patients are admitted to health facilities countywide while 3,003 were being treated at home. 
+
+The number of hospitalised patients under intensive care stood at 120, another worrying figure, according to the Health ministry,  considering there were only 27 people in ICU towards the end of January. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Thirty one of the patients in ICU were on ventilatory support, 86 on supplemental oxygen and three under observation. 
+
+Another 67 patients were separately on supplementary oxygen, 50 of them in general wards and 17 in high dependency units. 
+
+Most of the new infections - 730 - were recorded in Nairobi County, which CS Kagwe said is starting to get overwhelmed by cases which have grown significantly since the beginning of the month. 
+
+In terms of recoveries, the ministry reported 754 more, 708 of them in the home-based care programme and 46 in hospital, raising the tally to 90,376. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Vaccinations 
+
+Regarding vaccinations, Mr Kagwe announced that a total of 40,359 frontline workers had received the Oxford/AstraZeneca vaccine, supplied by the Serum Institute of India, since the first phase of the campaign started early in March. 
+
+According to the CS, Kenya has so far received over 1.12 million vaccine doses from India. 
+
+“Out of these, 100,000 doses have been generously donated by the government of India, for which we are most grateful,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+India has officially requested to be part of Kenya's vaccine rollout through its vaccine maitri (Hindi for vaccine friendship) initiative. 
+
+Prime Minister Narendra Modi’s government has been supplying developing countries around the world with free coronavirus vaccine doses amid concerns that this "vaccine diplomacy" will come at a cost. 
+
+Speaking to the Nation on Sunday, Kenya's vaccine advisory task force chair, Dr Willis Akhwale, said India’s offer entails collaboration in technical exchange, virtual training and the sharing of notes and experiences. 
+
+knasibo@ke.nationmedia.com and ambuthia@ke.nationmedia.com Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. There are concerns that India's "vaccine diplomacy" will come at a cost Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
