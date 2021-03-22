@@ -1,0 +1,221 @@
+For many years, close to 8,000 residents of Cherab ward in Isiolo County have been depending on water bowsers to meet their domestic needs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But thanks to a Sh97 million project, they are soon set to get piped water. 
+
+The project is being implemented by the National Drought Management Authority, the Northern Water Works Development Agency and the Isiolo County government. 
+
+The water will be drawn from a borehole in Merti and supplied in a 26-kilometre pipeline to Matarba, Saleti, Riga, Korbesa and Biliqi areas and will feed several tanks that will be installed in strategic points to ensure residents have enough supply for domestic and livestock use. 
+
+The borehole has the capacity of producing 35,000 litres of water per hour. 
+
+The county and the national government have been incurring expenses to a tune of Sh10 million annually for water trucking services in the ward, a trend that is set to end following the completion of the project. 
+
+During a recent inspection tour of the project at Korbesa, Devolution CAS Abdul Bahari said the project will end the residents’ struggle in trekking for kilometres in search of water and that it was at an advanced stage. He said it would be completed in two weeks. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The CAS who was accompanied by Senator Fatuma Dullo assured that the government was committed to completing the project to provide a lasting solution to the water crisis that has bedevilled the area for many years. 
+
+Water access 
+
+“The government is committed to ensuring increased water access for residents in the Arid and Semi-Arid areas,” said Mr Bahari. 
+
+Isiolo NDMA Coordinator Lordman Lekalkuli said the Authority had already completed a 13-kilometre pipeline from Merti to Matarba and established a storage tank with a capacity of 225,000 litres at a cost of Sh30 million. 
+
+The Northern Water Works Development Agency is in the process of completing the remaining 13 kilometres to Korbesa and the Governor Mohamed Kuti administration will later lay a pipeline from Korbesa to Biliqi area. 
+
+The county government will also be responsible for the establishment of kiosks at strategic points and the supply of water to nearby schools and health facilities. 
+
+The project will ensure improved hygiene and help end cases of residents contracting water-borne diseases, which have been common in the area due to drinking of contaminated water from River Ewaso Nyiro. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Completion of the project will ensure regular supply of water to the areas and save funds that are usually committed to undertaking water trucking,” said Mr Lekalkuli. 
+
+Senator Dullo said the National Irrigation Authority and Water Resources Management Authority (Warma) will sink boreholes at Quri and Kulamawe areas to ensure local communities, schools and public facilities have a regular supply of water. 
+
+Mr Adan Ali, a Borana Community elder, lamented that cases of water-borne diseases were so common in the area and that access to clean water will address the challenge. 
+
+“We have been trekking for many kilometres to access water and the project is a relief for us,” said Mr Jarso Dima from Korbesa. Residents advised to sell some of their advised and not to wait until the animals are emaciated. Situation attributed to failed rains, Covid-19, locust invasion, conflicts and insecurity in arid and semi-arid areas. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
