@@ -1,0 +1,89 @@
+It is not surprising that Bandari has contributed two players, Danson Chetambe and Hassan Abdallah, to Harambee Stars, while Burudian goalkeeper, Justin Ndikumana, has been recalled to the national team in his country.  We need more corporates to support Bandari. The team needs to play international friendlies to sharpen their skills and perform better. We finally unleashed Ugandan import Umar Kasumba in our league match against battle- hardened Wazito Football Club on Saturday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Those who watched the match at the Moi International Sports Centre, Kasarani Annex can attest to the stellar showing by the boys. Even though they drew with Wazito, from their fighting spirit,  opponents should expect a tough time. 
+
+Bandari coach Andres Cassa Mbungo gave Kasumba a chance to play less than 10 minutes of the game, and the fleet-footed striker rose to the occasion and charmed spectators.   
+
+Experienced Wazito coach Francis Kimanzi was even forced to reorganise his defence to keep the Ugandan lad in check.   
+
+It is important to note that before Kasumba’s move to Zambia’s Zesco United FC two seasons ago, he was the top scorer in the Kenyan Premier League with 17 goals while playing  for Sofapaka. 
+
+With Bandari’s leading strikers Shaban Kenga out injured, Yema Mwama sick and David Kingatua having left for Sofapaka during this mid transfer window to be close to his family in Nairobi, Kasumba’s debut against Wazito must be sending shivers down rivals’ spines. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Team morale high 
+
+Bandari frustrated Wazito the entire game. The game ended 2-2, but again,  it emboldened the team’s dream of winning the league title for the first time. 
+
+Kudos to Bandari’s sponsors Kenya Ports Authority management and the board of trustees for ensuring funds are available to facilitate Kasumba’s transfer. 
+
+The KPA management has  cleared the players’  arrears which had threatened the team’s stability following the departure of former Managing Director Daniel Manduku. 
+
+The trustees and the team have a good working  relationship and  morale in the team is high. 
+
+It is not surprising that Bandari has contributed two players, Danson Chetambe and Hassan Abdallah, to Harambee Stars, while Burudian goalkeeper, Justin Ndikumana, has been recalled to the national team in his country.   
+
+We need more corporates to support Bandari. The team needs to play international friendlies to sharpen their skills and perform better. 
+
+ponyango@ke.nationmedia.com Kimani gave the hosts the lead. National team coach Jacob “Ghost” Mulee has already named his provisional squad for the qualifiers. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
