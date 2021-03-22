@@ -1,0 +1,149 @@
+The school bus belonging to Kianjai Girls secondary school in Meru was last Friday delivered to the institution days after it stoked controversy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 42-seater bus was driven to the local Kianjai market before heading to the school in Tigania West constituency, where ecstatic Form Four students received it. 
+
+The bus is inscribed with words indicating that it was “fully funded by Tigania West CDF”. 
+
+School Principal Mary Chule welcomed the arrival of the vehicle saying it would help ease travel during different academic trips and extracurricular activities. 
+
+“Today is a great day for Kianjai Secondary and the community of Kianjai as the long-awaited bus has come to school. We will endeavour to develop the school and raise the academic standards,” she said. 
+
+Kianjai Business Community chairman Samson Kirimi said the bus will serve the entire community and urged residents to embrace development. 
+
+Same passenger capacity  
+
+“We are very happy as a business community,” he said. 
+
+Former MCA Ntoribi Etirikia thanked Deputy President William Ruto and area MP John Mutunga for facilitating the delivery of the bus and urged residents to stop dwelling on whether the bus had the same passenger capacity as the one, which was launched. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I have seen people saying it was smaller than the original one and I was wondering what role they played in its sourcing. People should stop spreading propaganda as we can see that the bus is here,” said the former MCA. 
+
+Controversy started last week when a lobby calling itself “Tigania Eye” demanded full closure of the vehicle’s whereabouts after it was unveiled by DP Ruto a week earlier. 
+
+It later emerged the bus the DP unveiled came from an Isuzu authorised bodybuilder in Thika. 
+
+MP Mutunga said Dr Ruto had contributed Sh3.5million towards the bus purchase to honour a promise he made to the students when they entertained him at Urru Stadium in 2019. Bodaboda riders accuse local politicians of playing tricks on them and taking the money given by the DP. A group, "Tigania Eye", alleges that the bus belonged to another school. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
