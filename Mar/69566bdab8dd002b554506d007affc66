@@ -1,0 +1,249 @@
+For years, mental health stayed in the shadows of other clinical areas of focus and was side-lined for centuries. Thankfully, it is now gradually receiving the attention that it deserves including being a subject of research. Despite this, there are still many misconceptions about it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The stigma that is attached to mental health conditions such as depression, anxiety and bipolar mostly stems from outdated assumptions without the benefit of scientific evidence. 
+
+To begin with, most people think that mental health problems are uncommon. This has contributed to its neglect as a public health concern. Thankfully, the World Health Organization notes that mental disorders are among the leading causes of ill health and disability worldwide with around 450 million people currently suffering from such conditions as depression which is one of the main mental health problems. 
+
+Secondly, many people experiencing mental health challenges have often been labelled as weak. This is simply not the case because mental health disorders are illnesses like any other and not signs of poor character. If anything, the opposite is true: Fighting a mental health condition takes a great deal of strength just like it would in a condition like diabetes. 
+
+Mental illness 
+
+Thirdly, those suffering mental illness in some circles are considered anti-social or unfriendly. This is not necessarily true and it often deters their resolve to seek medical help. There is a big difference between professional therapy and speaking with friends. Both have a role to play in wellness; for instance; a trained therapist can address issues in a structured manner and in ways that the best of friends cannot match. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Also, not everyone can open up entirely in front of their nearest and dearest. Professional therapy is confidential, objective, and entirely focused on the individual, which is not generally possible in more informal conversations with untrained friends. 
+
+Further, there is a perception that metal health challenges are permanent. This is not entirely true. A mental health diagnosis is not a life sentence. Each individual’s experience is unique. Some people might experience instances between which they return to having no symptoms nor signs; others may find treatments that restore balance to their lives with the symptoms being under control; and others may fully recover never to experience the same for life. 
+
+Unpredictable behaviour 
+
+In addition, the notion that all people with mental health illnesses are violent is nothing but another myth. Thankfully, as people gain more understanding of mental health conditions, this one too is slowly dying away. It is true that certain mental illnesses can present with violent and unpredictable behaviour, but they are in the minority and there are professional treatments to help with this too. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Many societies have shunned people with mental health conditions over time. In some instances the people were even believed to have evil spirits or divine retribution hence the symptoms. More recently, this line of thinking has been extricated from most places, but it still casts a long shadow on mental health awareness. 
+
+There is need to increase awareness about mental health. Addressing untruths relating to this vital aspect of our well-being is a need more pressing now than ever before given the current high prevalence of depression, anxiety, suicide and psychoactive substance use among others; all triggered by the various dynamics of our current world. 
+
+Without the right information, the myths will continue to feed the perpetuated stigma while derailing efforts towards improving mental health in our societies. Consequently, the cumulative effects will be detrimental not only at the present time but also in the future. The sooner we act, the higher chance we stand of preventing individuals in need of mental health care from deterioration into the worst case scenarios. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+jeldahnyamache@gmail.com. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
