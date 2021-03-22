@@ -1,0 +1,213 @@
+Meanwhile, sports betting firm Betika has extended support to some of Kenya’s professional golfers as well amateurs, who featured in last week’s Magical Kenya Open as well as this week’s Kenya Savannah Classic.Through the Betika na Community Initiative, the firm extended support worth Sh545,000 towards John Wangai of Sigona Club, Justus Madoya of the Great Rift Valley Club, Edwin Inana, Mathew Omondi and Isaac Makhoha all from the Vet Lab. Kenyan golf enthusiasts will enjoy watching the newly introduced Kenya Savannah Classic tournament that starts Tuesday live on televison. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sunday’s final round of the Magical Kenya Open was broadcast live from the Karen Country Club after the first three days went on without coverage due to logistical challenges. 
+
+Like the Magical Kenya Open won by South Africa’s Justin Harding, the Classic which also forms part of the European Tour series will be a closed event, hence spectators can only the get the action though live TV in some of the designated golf clubs in the country including Karen itself. 
+
+DStv, which has the exclusive pay television rights will air the competiton. In announcing the Channel number and bouquet, MultiChoice Kenya Managing Director, Nancy Matimu said:  
+
+“We are proud that Kenya is hosting two editions of the European Tour for which DStv has the exclusive pay television rights. Our mission is to deliver value to our customers by making great entertainment more accessible. We find and develop the right mix of content and deliver it to Kenyans anytime, anywhere. You can either catch the action from the comfort of your house or anywhere else via DStv Now app," she said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Since international golfing activities was allowed mid- 2020, all events have been played under strictly adherence of the Covid-19 protocols. 
+
+“We want to assure Kenyan golf followers that they do not have to worry about not being at Karen as we will reach them wherever they will be’’ added the MultiChoice boss. 
+
+The following is the schedule time for the Classic from Tuesday’s first round until the final day on Friday, March 26: 
+
+Tuesday- Day One- March 23, 2021- Live schedule from Karen on SuperSport Golf (DStv Channel 233 from 12.00, ending at 15.00; 
+
+Wednesday- Day Two- March 24, 2021- Live Schedule from Karen on SuperSport Golf (DStv 233) from 12.00 ending at 15.00. 
+
+Thursday- Day Three- March 25, 2021- Live Schedule from Karen- SuperSport Golf (DStv 233) from 11.30 ending 14.30. 
+
+Friday- Day Four- March 26, 2021-Live from Schedule from Karen- SuperSport Golf (DStv channel 233 from 11.30 ending 14.30. 
+
+Meanwhile, sports betting firm Betika has extended support to some of Kenya’s professional golfers as well amateurs, who featured in last week’s Magical Kenya Open, and this week’s Kenya Savannah Classic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Through the Betika na Community Initiative, the firm extended support worth Sh545,000 towards John Wangai of Sigona Club, Justus Madoya of the Great Rift Valley Club, Edwin Inana, Mathew Omondi and Isaac Makhoha all from the Vet Lab. The field is made up of the same players who participated in the Magical Kenya Open. South Africa’s Justin Harding won the tournament. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
