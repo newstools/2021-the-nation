@@ -1,0 +1,331 @@
+Tuwei added the mass participation of athletics, inspired by, among others, First Lady Margaret Kenyatta, is something that needs to be encouraged.“A lot of Parliamentarians even came out and participated in the First Lady’s Half Marathon along with many other Kenyans.“For the First Lady to come out herself and run, and even run at the London Marathon, we owe her a lot of respect because she has created an inspiration for many other people.” World Athletics has launched an initiative inviting the international athletics community to contribute insights that will help shape the future of the sport. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dubbed “Global Conversation for the Future of Athletics”, the initiative seeks to gather feedback that will inform the future direction of the sport over the next 10 years. 
+
+In a statement released from World Athletics’ Monaco headquarters on Monday, the global body said the initiative is in line with their World Plan for Athletics 2022-2030. 
+
+“For the very first time in our history, World Athletics is reaching out to the entire international athletics community to participate in a Global Conversation and contribute insights and feedback that will shape the future direction of the sport for the next decade,” the statement said. 
+
+“This year World Athletics has committed to developing a World Plan for Athletics 2022-2030 in consultation with its Member Federations and other key interest groups, including athletes, coaches, officials, fans, schools, meeting directors, partners and media. 
+
+“The World Plan will be a key document for all involved in the sport, setting out a roadmap for the growth and development of athletics through to 2030. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Its purpose is to listen to the athletics community, to identify where the sport stands now throughout the world, and to establish a vision and direction for the period through to 2030, setting out how both World Athletics, its Member Federations and Area Associations, and other people involved in athletics can work together to develop and grow the sport across the world.” 
+
+World Athletics further said that the plan will contain “clear roles and responsibilities, timelines, measurable outcomes and resource and budget implications.” 
+
+World Athletics President Seb Coe said the initiative rides on the popularity of athletics as a mass participation sport which was key to keeping fit during the coronavirus lockdown. 
+
+“Today, we are embarking on an unprecedented Global Conversation with all those who love our sport and want to have a say in its future,’’ Coe said on Monday. 
+
+“The global pandemic has highlighted the need and desire of governments and communities to keep fit and healthy.   
+
+“Athletics, as the most accessible and participated sport on the planet has a key role in helping to achieve this,” the Olympic track legend added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+World Athletics President Seb Coe with Charles Gacheru of IMG on the sidelines of the 2017 World Under-18 Championships at Kasarani.
+Photo credit: File | Nation Media Group
+
+ 
+
+“Through this global engagement phase, I want to hear from everyone who cares about athletics and about health and fitness.  
+
+“Our strength as a sport lies in the diversity of our community and we need to hear the voices of our key stakeholders in all of our 214 countries and territories in order to develop a plan that fully represents our global aspirations for athletics to grow and thrive over the coming years.’’ 
+
+World Athletics further said the campaign will run for a six-week period in the form of a survey available in 12 different languages.  
+
+A draft plan will then be developed for presentation to the World Athletics Council mid-year, the World Athletics statement added. 
+
+“Once accepted, a final plan will be distributed to the Member Federations for formal approval at the biennial World Athletics Congress in November 2021.  
+
+“The process is being overseen by the World Plan Working Group, which comprises seven Council Members, chaired by former triple jump world record-holder Willie Banks, assisted by the Sports Business Group at Deloitte,” World Athletics explained, providing a link for the public to join the conversation at: https://surveyhub.deloitte.co.uk/wix/p402654971948.aspx 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Athletics Kenya President Jack Tuwei welcomed the campaign saying the Kenyan federation was working aggressively in introducing change in all aspects of track and field in the country. 
+
+
+
+
+
+
+Left to right- Athletics Kenya President Jackson Tuwei, Kenya's Minister of Sport, Culture and Heritage Amina Mohamed, World Athletics President Sebastian Coe and Kirimi Kaberia, then Sports PS, in Monaco in 2019.
+Photo credit: File | Nation Media Group
+
+ 
+
+The AK President said his association will work closely with schools and universities to reinvigorate interest in athletics as part of their development programme. 
+
+“Physical education classes in our schools are virtually non-existent because the playgrounds are inadequate and the teachers are also not properly trained,” he explained. 
+
+“We had started the kids athletics programme but because of Covid-19 we’ve not had it running.“We need for the kids to start identifying themselves with particular events right from the beginning,” Tuwei said. 
+
+Tuwei also appealed to universities and institutions of learning to be more proactive in talent search and development alongside the setting up of sports infrastructure. 
+
+“Every university should ideally have an indoor sports facility. And institutions like the military, police, prisons and even some of the ministries and top corporations also need these facilities to also keep their employees active,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Tuwei added the mass participation of athletics, inspired by, among others, First Lady Margaret Kenyatta, is something that needs to be encouraged. 
+
+“A lot of Parliamentarians even came out and participated in the First Lady’s Half Marathon along with many other Kenyans. 
+
+“For the First Lady to come out herself and run, and even run at the London Marathon, we owe her a lot of respect because she has created an inspiration for many other people.” A total of 11 Kenyan Paralympians have since qualified for the Tokyo games. The IOC has reportedly sought limited exemptions for some overseas guests. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
