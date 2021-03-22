@@ -1,0 +1,316 @@
+Nigeria hopes the PIB will encourage more investments while there is still time, as the world's interest in oil and financing of fossil-fuel projects are diminishing. Nigeria lures just a tiny fraction of oil and gas investment in Africa, even though it is the continent's largest crude producer and has significant untapped reserves. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The sector has a reputation for corruption, inefficiency and problems ranging from high production costs to unrest sparked by environmental damage and lack of development for local communities where oil is extracted. 
+
+To address these and maximise oil revenues for an OPEC-member country that records among the world's highest poverty rates, the Nigerian government has been working for 15 years on new regulations. 
+
+In September, lawmakers received an amended Petroleum Industry Bill (PIB) -- there were several attempts before -- with the aim of passing it by April and signing it into law by May. 
+
+Nigeria hopes the PIB will encourage more investments while there is still time, as the world's interest in oil and financing of fossil-fuel projects are diminishing. 
+
+Here's what you need to know about the bill: 
+
+What is the bill about? 
+
+The 239-page executive bill submitted for review to the National Assembly aims to provide a legal and fiscal framework for the Nigerian oil and gas industry. There are three main areas of change: 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+First, on royalties and taxes, the framework is very complex but essentially aims to shift from profit taxation to production tax and price-based royalties. 
+
+"On the whole, there's a reduction in taxes and royalties," said Gail Anderson, research director at Wood Mackenzie, a global energy consultancy group, but "actually there are many more costs that won’t be tax deductible." 
+
+Second, for host communities, the PIB in its current version requires oil firms to establish development trusts for communities in areas where oil is extracted. Companies will have to fund these trusts with 2.5 per cent of their operating expenses in the area. 
+
+Third, in terms of governance, the PIB will transition the publicly-owned Nigeria National Petroleum Commission (NNPC) which has partnerships with local and international producers, into a commercial entity, NNPC Limited. 
+
+Two new regulatory agencies will be created -- one for upstream, and one for midstream and downstream operations. 
+
+What has been the reaction? 
+
+International oil companies argue that the bill will deter investments offshore -- where half of Nigeria’s total output comes from. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During a public hearing, the chairman of the Oil Producers Trade Section, Mike Sangster, representing Total, Chevron, Exxon Mobil and Shell, pleaded for changes. 
+
+These include a full royalty relief during the first five years of production for deep-water projects, and a request for existing agreements to remain in place. 
+
+Host communities argue that after six decades of environmental degradation, oil firms should commit 10 percent of their accrued revenue to the trust funds. 
+
+"The truth is, host communities have a very genuine case," said Preye Oseke, member of the Joint National Assembly Adhoc Committee on the PIB, who also represents Southern Ijaw, in oil-rich Bayelsa State. 
+
+"They have suffered exploitation for a very long time." 
+
+Host communities don't just want more money, they also worry that the trust's representatives will be chosen by the oil companies. 
+
+On the proposed restructuring of the NNPC, some analysts believe that leverage will remain in hands of the president and his allies who can appoint the board. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The network of vested interests in Nigeria is too important, many argue, as the 36 states rely heavily on allocations from the federal government's oil revenues. 
+
+Parliament says it is working on finding a middle ground. 
+
+"We must do something now and we must find a way to get it right," said Oseke. "Some amendments will have to be done." 
+
+What impact will the bill have? 
+
+It's unclear when exactly the new terms would fully take effect, as the PIB allows companies to decide whether to convert current licenses immediately or wait for them to expire. 
+
+"If you switch to the new improved terms, you will have to forego any arbitration or any (legal) claims," said Anderson, "so that’s why I doubt international oil companies will convert their current licenses to PIB terms." 
+
+Passing the bill will certainly remove uncertainty that has discouraged investments for years. 
+
+But the answer to whether the PIB will make Nigeria's oil and gas industry more competitive remains to be seen. 
+
+Nigeria will most likely continue being a high-cost location for energy investments due to insecurity off the coast and across the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Hit by the Covid pandemic and falling oil prices last year, Nigeria slipped into recession in the third-quarter of 2020 for the second time in three years. All financial institutions are to identify persons and/or entities involved in cryptocurrency exchanges and close their accounts immediately. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
