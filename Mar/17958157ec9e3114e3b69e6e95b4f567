@@ -1,0 +1,138 @@
+The national examinations begin tomorrow with the Kenya Certificate of Primary Education (KCPE) tests at 8am. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The examinations this year are one of a kind, coming five months late due to the vagaries of the Covid-19 crisis, which led to months-long closure of schools. 
+
+The assessments were to start on October 27, 2020 but had to be postponed in the redrawn academic year calendar as the government grappled with managing the deadly virus. 
+
+Education Cabinet Secretary George Magoha said no candidate should miss the tests. 
+
+“Schools have assured us that the candidates have been prepared properly for the tests,” Prof Magoha said on Friday. 
+
+The candidates have had a crash learning programme following a contracted academic year. 
+
+When children were at home, some schools engaged their candidated in e-learning and broadcast lessons by the Kenya Institute of Curriculum Development. 
+
+However, the scheme left out the majority of the children who had little or no access to the media. 
+
+A decision by the government to finally open the schools on October 12, 2020 for the KCPE and Kenya Certificate of Secondary Education (KCSE) examination candidates alongside Grade Four pupils opened a new chapter in the children’s education. 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An assessment by Kenya National Examinations Council (Knec), on the Standard Eight candidates in January showed most could not remember what they had learnt over the years. 
+
+Nearly half the candidates scored below average in the assessment, which was given a week after their seven-month break. 
+
+The assessment was marked by teachers and results posted in the Knec portal. 
+
+Addressing education stakeholders a week ago, Prof Magoha said those who set the KCPE and KCSE examinations took into consideration the break occasioned by the pandemic. 
+
+“Knec is aware candidates were out of school for long and considered those factors,” he said. 
+
+A total of 1,191,725 candidates registered for the KCPE tests in 28,467 stations. 
+
+Some 752,981 KCSE examination candidates have been registered in 10,437 centres. KCPE test candidates increased by 104,061 over the 2019 numbers while KCSE examination candidates rose by 53,928. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Concerns have been raised about missing candidates in some regions, blamed on teen pregnancies, marriages and children seeking employment. 
+
+More than 30,000 girls aged 10 to 19 got pregnant last year, according to the African Institute for Development Policy. 
+
+The Ministry of Education is yet to release statistics on teen mothers in schools. 
+
+The government has procured 479 containers to be used as exam distribution centres. 
+
+Form Four candidates started oral tests for French, German, Arabic and Kenya sign language on March 12, while practicals for home science began the previous day. 
+
+Rehearsals for the KCSE examination will be on March 25. 
+
+fnyamai@ke.nationmedia.com Examinations council is finalising logistics to distribute exam materials to counties. Education CS says no student will miss the national test, including pregnant girls. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
