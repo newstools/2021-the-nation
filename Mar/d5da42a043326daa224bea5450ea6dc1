@@ -1,0 +1,271 @@
+Reports indicated that several people collapsed while others died in the chaos that erupted as some mourners defied the advice of security personnel and forced their way into the stadium. Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A family in Dar es Salaam is mourning the deaths of five members who were killed in the chaos that erupted Sunday as residents paid their respects to late President John Magufuli. 
+
+Sunday was a hectic day for first aid providers and security personnel as thousands of people thronged Uhuru Stadium in Tanzania’s commercial capital,  Dar es Salaam, for the event. 
+
+Reports indicated that several people collapsed while others died in the chaos that erupted as some mourners defied the advice of security personnel and forced their way into the stadium. 
+
+It was during this melee that the Mtuwa family of Kimara Mwisho in Dar es Salaam ended up registering its biggest loss. The five relatives who died were identified as Natalia (five), Nathan (six), Michael (eight), Chris (11) and Suzan Ndana Mtuwa (30s). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magufuli's body leaves Uhuru Stadium under tight security
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Mtuwa’s eldest son, Gerald, said Suzan was his sister-in-law. 
+
+“Suzan and my younger brother, Dennis, have three children. Two of them (Natalia and Nathan) died during yesterday’s chaos,” he told The Citizen at the family’s home in Dar es Salaam. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He did not give the name and the age of the third child, 
+
+Michael and Chris were the children of Gerald Mtuwa’s young brothers. 
+
+“Our father (Mtuwa) bought a large piece of land, where we (his family) have built our houses. We live in the same compound as a family,” he said. 
+
+He said the housemaid who accompanied the five to the stadium has been missing since Sunday. 
+
+“We have not seen her since yesterday despite searching for her throughout Temeke Hospital, so we are not sure whether she died or fled,” he said. 
+
+What happened 
+
+Suzan, the housemaid and the four children left their home in a family vehicle for Uhuru Stadium at 5.45am to view President Magufuli's body and pay their last respects. 
+
+Michael’s mother, Huruma Mpiluko, said that on the night before the tragic day, her daughter and several children in the family persistently asked to go to Uhuru Stadium, so Suzan decided to take them there. 
+
+“They arrived at Uhuru Stadium early in the morning and sent us pictures they took there.. At around noon, my brother-in-law (Suzan’s husband) called Suzan but she didn’t pick up the phone,” she said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He said someone later answered the phone and informed him that its owner had fainted. He directed the family to go to go to the office of the Temeke District Commissioner (DC) to collect Suzan’s belongings. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Janeth Magufuli and family leave Uhuru stadium after viewing body
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Henry Mtuwa, a family member, said that at the DC’s office, they were told to go to Temeke Referral Hospital to see Suzan. 
+
+“We went to the hospital and searched all patients’ wards but couldn’t find her and the five children. Later, the doctors told us to look for them in the mortuary," he said. 
+
+They found the five bodies there. Funeral arrangements are being made at the family home in Kimara Mwisho. 
+
+azacharia@tz.nationmedia.com He expressed hope for President Hassan's success, noting she had been serving as Vice President. Tanzanian president was flown to Kenya secretly on March 8 after suffering acute cardiac and respiratory illnesses. Nigeria lures just a tiny fraction of oil and gas investment, even though it is Africa's largest crude producer. Judge says the prosecution has made a case against the accused. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects.
