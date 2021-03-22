@@ -1,0 +1,148 @@
+With 17-time All-Star James sidelined, the Lakers struggled to get their offense going.Montrezl Harrell led Los Angeles with 23 points off the bench and Dennis Schroder added 22, but the Lakers connected on just 41.2 percent of their shots from the field. Los Angeles 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Los Angeles Lakers got a hard look at life without injured superstar LeBron James on Sunday in a 111-94 NBA loss to the Phoenix Suns. 
+
+Devin Booker and Deandre Ayton scored 26 points apiece and Chris Paul had a triple-double of 11 points, 10 rebounds and 13 assists for the Suns, who led wire-to-wire against a Lakers team that coach Frank Vogel acknowledged must find a "new identity" as James recovers from a high ankle sprain suffered in a loss to Atlanta on Saturday. 
+
+With 17-time All-Star James sidelined, the Lakers struggled to get their offense going. 
+
+Montrezl Harrell led Los Angeles with 23 points off the bench and Dennis Schroder added 22, but the Lakers connected on just 41.2 percent of their shots from the field. 
+
+"I'm optimistic," Vogel insisted after the game. "I think our guys really fought tonight. We didn't shoot the ball that well, but I thought we competed at a very high level. 
+
+"It's going to take a little time to adjust and figure out where the shots are coming from, what our new identity is going to look like." 
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No timeline has been given for James's return, and Vogel said before the game that he wasn't counting on a quick recovery. 
+
+"Those things take a while to heal," Vogel said. "They are slow recoveries. We're prepared to be without him indefinitely." 
+
+Phoenix took full advantage in posting their eighth win in 10 games. 
+
+It was a milestone game for Paul, whose alley-oop pass to Ayton for a dunk in the third quarter made him just the sixth player in NBA history with 10,000 assists. 
+
+Randle riled 
+
+The Eastern Conference-leading Philadelphia 76ers escaped with a 101-100 overtime victory over the New York Knicks, with Tobias Harris draining two free throws with 5.3 seconds remaining to seal the victory. 
+
+Harris went to the line after a foul by New York forward Julius Randle -- a call that brought a stream of complaints from the Knicks. 
+
+Randle would have one more chance to seize victory for New York, but his shot at the buzzer bounced out. 
+
+He was still steaming after the game when he said officials had "blown" the call on the foul that sent Harris to the line. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Yeah, it's ridiculous," said Randle, who led the Knicks with 24 points and drained a three-pointer with six seconds left in regulation that knotted the score at 86-86. "They've got to do a better job. It's too many games like this." 
+
+Harris said he just tried to go to the line and do "what I normally do. 
+
+"I just wanted to win a game, because we had too much going on," he said. "I was like 'Man, we've got to put this one down and win the game.'" 
+
+Shake Milton led the 76ers with 21 points off the bench. Harris added 20 points and guard Ben Simmons returned from a one-game injury absence to score 16 for a Philadelphia team still without star big man Joel Embiid and sharp-shooter Seth Curry. 
+
+The victory kept the Sixers a game ahead of the Brooklyn Nets, who beat the Washington Wizards 113-106 thanks to 28 points from Kyrie Irving and 26 from James Harden. 
+
+Former All-Star Blake Griffin played his first game for Brooklyn since signing with them as a free agent, scoring his only basket of the night in the fourth quarter on a two-handed dunk that had his new Nets teammates cheering. 
+
+Nicolas Claxton added 16 points for the Nets, who rallied from a 20-6 first-quarter deficit and withstood Russell Westbrook's triple-double of 29 points, 13 rebounds and 13 assists. 
+
+Lu Dort was the hero for Oklahoma City, scoring 23 points and coming up with a "heroic" late block on Houston's John Wall as the Thunder handed the Rockets a 20th straight defeat, 114-112. 
+
+The Thunder led by one when Dort missed a three-point attempt and the Rockets snagged the rebound with 15.8 seconds remaining. 
+
+Wall drove past Dort to the rim, but Dort managed to swat the ball cleanly away from behind, denying Wall's layup with nine seconds remaining. 
+
+"Honestly that was a heroic play," Thunder center Moses Brown said. "I've never seen anything like it and it was so clutch." 
+
+Dort acknowledged that Wall "kind of beat me, so I just had to recover and not give up on that play." Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
