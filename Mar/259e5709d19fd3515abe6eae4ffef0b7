@@ -1,0 +1,44 @@
+Niamey 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Niger's constitutional court on Sunday confirmed Mohamed Bazoum as the country's new president with more than 55 per cent of the votes cast in last month's run-off. 
+
+Former interior minister Bazoum was the preferred successor and right-hand man of outgoing president Mahamadou Issoufou. 
+
+"The court confirms and declares the definitive results of the second round presidential poll of February 2, 2021," said President of the Court Bouba Mahamane, adding that he had received 55.6 per cent of the vote while turnout was 62.9 per cent. 
+
+The court declared that Bazoum had a mandate for five years from April 2. 
+
+The results were contested by the opposition and violence in the capital Niamey claimed two lives. 
+
+President Issoufou voluntarily stepped down after two five-year terms, paving the way for the first elected transition since independence from France in 1960. Mahamadou Issoufou, 68, was awarded for facing "seemingly insurmountable challenges", ranging from deep poverty to jihadism. Hama Amadou is accused by the government of stoking unrest following the release of presidential election results. Lack of funds has hampered efforts to discover and deal with the mystery variant of the virus. Little is known about the origin of the name, but it can be traced to a colonial servant. Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring.
