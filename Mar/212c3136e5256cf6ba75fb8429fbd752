@@ -1,0 +1,349 @@
+Rukkiya Ahmed, 41, stands out like a sore thumb in the group of youths sitting around a stone in Bondeni slum, Nakuru County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She converses with the youths in sheng, amid laughter, which is interrupted by a gust of wind that curls over their heads and leaves them choking with dust. 
+
+Ms Rukkiya is here on a mission: Preventing the youths from engaging in violent extremism and keeping them away from drugs and illicit brews in the area known as the "operational base" of a criminal gang. 
+
+The gang, which operates in Nakuru town, has hogged headlines for swindling Kenyans out of hundreds of thousands of shillings through fake mobile phone transactions. 
+
+She has been instrumental in engaging the youths in the slum areas of Bondeni, Lumumba, Kivumbini, Kaloleni, Flamingo, Manyani, Shauri Yako, Ojuka, Kwa Rhonda, Lake View, Kaptembwa, Paul Machanga, Kanyon City and Baharini, where some members of the deadly gang are known to hide. 
+
+She is a member of Youth Bila Noma, a group that is in the frontline to end crime in Nakuru town. 
+
+Cooling down 
+
+Her group’s hard work is slowly bearing fruit, as crime, which has been rising, is now cooling down. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photo credit: Francis Mureithi | Nation Media Group
+
+ 
+
+Youth Bila Noma, which was founded in 2018, has been empowering neglected youths in the slums by engaging them in social-economic ventures such as painting. 
+
+“We started this organisation after attending a training sponsored by the American embassy in Nairobi. The training was an eye-opener as we got crucial tips on what leads to extremism,” says Ms Rukkiya. 
+
+She says Nakuru might not be a target of terrorist activities for now but it can be a ripe recruitment ground for extremists targeting youths to join radical groups. 
+
+“We saw many hints of violent extremism and Youth Bila Noma resolved that if we don’t tackle these issues now, then we will be facing a bigger problem in future,” she offers. 
+
+“Through prevention, what we are doing is strengthening the community resilience against radicalisation and we target the youth.” 
+
+The group has created a dialogue between the community, police and the youth. 
+
+Profile the arrested youths 
+
+"Bondeni Police station recognises our work. We hold meetings at the police station. Police call us to profile the arrested youths to determine their skills and mentor them. Youths offered to paint police station and canteen and repaired gender office roof, which was leaking," says Ms Rukkiya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The youths have also painted Bondeni Maternity Hospital’s perimeter wall with coronavirus messages, and in the process, earning a living. 
+
+This has won the group many admirers from the National Counter Terrorism Centre (NCTC) and the residents. 
+
+
+
+
+
+
+
+
+
+
+
+Photo credit: Francis Mureithi | Nation Media Group
+
+ 
+
+"Our vision is driven by the thought every youth in the slum has a right to a decent living," the mother of three says. 
+
+"Violent extremism destroys communities. Youth Bila Noma is engaging the youth and the community to strengthen resilience against violent extremism," says Ms Rukkiya, who is the programme coordinator of the organisation. 
+
+The group now plans to launch Youth Bila Noma clubs in primary and secondary schools. 
+
+"I'm a strong believer that violent extremism does not come from the skies. Some of the contributing factors emanate from very simple problems that we tend to ignore such as the sexual reproductive health of girls, who are lured into criminal activities to fend for themselves after getting pregnant," she explains. 
+
+She says she is passionate about her work, as there is a huge misconception about terrorism. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"Terrorism is not a religion and has no colour. I have been labelled an al-Shabaab because of my colour and the way I dress. It's very hurting. It hurts me to see young people arrested because of wearing dreads or an earring." 
+
+Violent extremism 
+
+She says lack of knowledge by the community on violent extremism and ignorance by the youths on opportunities available to transform their lives is a major challenge. 
+
+"Majority of people have zero knowledge on what extremism is all about. Many youths are not aware of any initiatives to uplift their lives such as the Youth Fund," she explains. 
+
+Nakuru has one of the lowest absorption rates of these funds due to a lack of information and awareness. 
+
+Youth Bila Noma has created a skills data bank and is connecting skilled youths to potential employers. 
+
+ "A stable youth population can face life head-on and would not be lured into violent extremism and radicalisation as they will have a stable mind," says Ms Rukkiya. 
+
+"I'm a painter. I can stand on my own," says Juma Ali from Bondeni slums. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"I was heavily addicted to heroin. I'm now on the path to recovery," says Carlos Kipng'etich. At 22, Susan Wanjiru's life was abruptly cut short by a ‘jealous’ woman, in what turned out to be a crime of passion. Unbeknown to many, once caught with stolen property, one suffers the consequences of the actual criminal. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
