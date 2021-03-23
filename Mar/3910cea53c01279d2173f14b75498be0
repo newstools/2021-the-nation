@@ -1,0 +1,271 @@
+The Court of Appeal has handed Pevans East Africa, the firm that operated the SportPesa brand until June 2019, another blow in its fight to get back its licence. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The court dismissed an appeal seeking to compel the betting regulator to renew SportPesa’s licence. 
+
+Pevans filed the appeal in September 2019 against the judgment of High Court Judge John Mativo, who ruled against the betting firm that had challenged the refusal by the Betting Control and Licensing Board (BCLB) to renew its licence. 
+
+BCLB cancelled the firm’s licence on July 1, 2019, due to non-payment of taxes and other compliance requirements. 
+
+But the appellate court upheld the High Court decision on Friday on grounds that the regulator is empowered to take enforcement actions against individual firms, including asking for proof of tax payments. 
+
+The ruling by judges Roselyn Nambuye, Hannah Okwengu and Fatuma Sichale, now dims hope that Pevans will be getting its licence anytime soon unless it complies with the BCLB conditions. 
+
+Read: The continuing battle for the SportPesa brand 
+
+Reacting to the development, SportPesa chief executive Ronald Karauri said the ruling did not affect its current operations under Milestone Games Limited, which is the new home for the SportPesa brand. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The ruling was about a Pevans appeal, so Milestone operations are not affected,” Karauri said. He said the company is yet to discuss whether or not to appeal the decision. Pevans had argued that its rights were violated since other betting firms’ licences were renewed and singling it out was unfair. 
+
+The firm added that, since the tax demand from the Kenya Revenue Authority (KRA) was disputed, it was not a relevant consideration in the processing of the licence, an argument that was rejected by the court. 
+
+The court said the law allows the regulator to investigate or require the submission of such declaration or further information as it may deem necessary before issuing a license. 
+
+“We are fully in agreement with the finding by the learned judge that proof of payment of tax was a relevant material consideration and a prerequisite prior to the grant or renewal of a licence,” the ruling reads in part. 
+
+Read: An angry president and how the SportPesa takeover was plotted 
+
+The court also said that no evidence was tendered whatsoever that Pevans was treated unfairly. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ “Accordingly, and in light of the above conclusions, we think we have stated enough reasons as to why this appeal is for dismissal. It is hereby dismissed with costs,” reads the judgment dated March 19, 2021. KRA had initially issued a Sh15 billion tax demand on Pevans. However, this amount has now shot up to Sh95 billion following fresh assessment. 
+
+The ruling comes at a time when the companies’ shareholders are involved in a bitter boardroom war, which has brought to the fore allegations of money laundering, profit shifting and embezzlement of funds. 
+
+The fight, pitting billionaire businessman Paul Ndung’u on one side and Mr Karauri and shadowy Bulgarian businessmen on the other, reached its peak when one faction sold the SportPesa brand to Milestone for about Sh15 million despite its value being estimated at more than Sh35 billion. 
+
+The transfer has been disputed Mr Ndung’u, the owner of a 17 percent stake in Pevans, who says the move was not authorised by the board. 
+
+The Interior ministry has declared that it will not allow Pevans back in operation, unless they pay taxes and subject their directors to a due diligence investigation as required by the law. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Read: Inside SportPesa’s Sh95bn tax gamble as KRA digs in 
+
+Mr Karauri and Mr Francis Waweru Kiarie acquired a combined 95.3 percent stake through several investment vehicles. 
+
+The two are also shareholders of Pevans in which Mr Karauri holds a seven percent equity and Mr Kiarie has a one percent stake. 
+
+The BCLB has also moved to shut down Milestone’s operations twice on several grounds, with the company securing temporary court orders that have allowed it to continue operating. 
+
+The regulator on October 30, 2020 ordered the company to stop using the SportPesa trade name, saying it belonged to Pevans, according to its records at the time. 
+
+pwafula@ke.nationmedia.com At the peak of its game, SportPesa made about Sh285,000 every minute from betting-hungry Kenyans. The revocation of the Kenyan licence was bound to hurt. And it did. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
