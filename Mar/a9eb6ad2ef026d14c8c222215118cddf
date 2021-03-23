@@ -1,0 +1,277 @@
+The Nairobi commuter rail service that seeks to decongest major roads is finally taking shape. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The aim is to provide an efficient and affordable mass transit system in a city controlled by notorious matatu cartels and compromised traffic police officers. 
+
+The journey begins in Lukenya, Athi River Sub-county, where a station will be commissioned this week to provide commuter services between the capital and new locations in Machakos and Kajiado. 
+
+Speaking to the Nation, Kenya Railways managing director, Philip Mainga, said the project is within the existing railway corridor. 
+
+“We are expanding our network on the commuter rail to Lukenya. This comes after we have had a lot of complaints from Kitengela residents. As of last week, I finalised my work on the station and hopefully this week we will have our first train from Nairobi there,” he said. 
+
+They are building 26 stations to serve the new routes in the first phase. Some of the newly built stations are located in existing railway corridors, including Syokimau, Makadara and Imara Daima. 
+
+The second phase will extend services to Thika and Limuru while the third will target the satellite towns of Ongata Rongai, Kiserian, Ngong, Kiambu, Ruai and Kangemi in the coming months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The corporation has procured 11 Diesel Multiple-Units (DMU) from Spain at Sh1.15 billion, five of which are already operational. The remaining six are expected next month. 
+
+Mid-April 
+
+“The six DMUs will be in the country by mid-April. They will boost the ongoing reforms to turn around transport in the city,” said Mr Mainga. 
+
+“Athi River Station is full, the ‘Park and Ride’ model is working as more people are parking their vehicles and taking the train to the city. After Lukenya, Limuru service should be operational in three weeks,” he added. 
+
+
+
+
+
+
+
+
+
+
+
+Train hostesses wait to usher in commuters at the newly refurbished Nairobi Central Railway Station on November 10, 2020, during the commissioning of the Diesel Multiple Units (DMU) by President Uhuru Kenyatta.
+
+ 
+
+The Limuru train will also serve residents of Kikuyu, Dagoretti and Kibera. 
+
+“We want to move people to the city in an orderly way and decongest our roads and that’s why we are expanding our facilities to get people off the road. By the end of the year, we will have introduced a train to Konza,” offered Mr Mainga. 
+
+“The aim is to integrate rail transport with other modes of transport, including road and air. The DMUs can ferry passengers from CBD to the other stations easily,” he added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On overcrowding and lack of social distancing in the trains, he said the corporation’s role is to facilitate the movement of thousands of Kenyans from disadvantaged backgrounds to “get to work”. 
+
+“We have observed the Covid-19 protocol requirements because our compliance levels are high. You have Kenyans who cannot afford to pay the high fares matatus are charging. The role of the government is to support its people and facilitate them to work. If we (Kenya Railways) do not provide transport to these people, who will do it?” posed Mr Mainga.   
+
+Cost implications 
+
+“Our numbers are also influenced by cost implications. However, our officers always ensure the sitting arrangements comply with the government requirements on Covid-19.” 
+
+While the commuter trains continue to transport passengers at full capacity, matatus and bus companies are forced to strictly adhere to the Ministry of Health protocols and ensure that social distancing is observed.   
+
+The corporation has also implemented a Bus Rapid Transit system offering last-mile connectivity to different parts of the city, including JKIA, which is served by an express train from the CBD. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+About 20,000 commuters use the rail network on weekdays through lines originating from the central station to Ruiru via Dandora, Githurai, Kahawa, to Syokimau via Makadara and Imara Daima, Embakasi village via Pipeline and Donholm and Kikuyu via Kibera and Dagoretti. Air travellers will from next week be able to avoid the traffic snarl-up along Mombasa road in the arrangement. The country is importing 11 used trains from Spain. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
