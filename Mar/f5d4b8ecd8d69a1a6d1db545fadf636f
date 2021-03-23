@@ -1,0 +1,73 @@
+A Nairobi court has ordered a mental assessment of a woman who was arrested for allegedly assaulting her former employer’s children. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The suspect, Gladys Naliaka Nalianya, is facing charges of attempted murder. 
+
+Makadara Law Courts chief magistrate Angelo Kithinji directed the Directorate of Criminal Investigations (DCI) to table the suspect’s psychiatrist report before him on March 29. 
+
+Naliaka injured the children aged eleven and five on the head after she stormed into their house in Donholm Greenfields estate while armed with a knife and a machete on March 11. 
+
+Naliaka was arrested in Eldoret on March 13 after fleeing from Nairobi. 
+
+She will remain in custody at the Buruburu police station pending the mental test.  Video providing information about the attack drew the fury of Kenyans on social media. Police hunt for woman who stabbed Kisumu mother and infant son to death. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
