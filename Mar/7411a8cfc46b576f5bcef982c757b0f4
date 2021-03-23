@@ -1,0 +1,231 @@
+There is also no room for Dortmund captain Marco Reus who has struggled for consistency after a lengthy injury lay off.Loew is also refusing to reverse his 2019 decision to end the international careers of Thomas Mueller, Mats Hummels and Jerome Boateng.Mueller is in arguably the form of his career with four assists in as many Bundesliga games. Berlin 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Germany will seek redemption for November's humiliating thrashing against Spain as Joachim Loew's squad look to get the fans back behind them by winning their first three World Cup qualifiers. 
+
+Germany host Iceland in Duisburg on Thursday before facing Romania away on Sunday, then play North Macedonia three days later back in Duisburg. 
+
+"We want to start the European championship year with an exclamation mark and please our fans again," Loew said after naming teenagers Jamal Musiala, 18, and Florian Wirtz, 17, in his squad. 
+
+"Our ambition and goal is to get ourselves into a good starting position with three wins." 
+
+A fortnight ago, Loew announced he will step down, after 15 years in charge, following the European championships, due to take place from June 11-July 11. 
+
+He badly needs convincing wins to restore their fans' faith in the Mannschaft following November's 6-0 rout by Spain which handed Germany their heaviest defeat since 1931. 
+
+In the aftermath, a survey of German fans by magazine Kicker showed 89 percent felt Loew had failed to rebuild the team since crashing out of the 2018 World Cup in the group stages. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As Germany team director Oliver Bierhoff acknowledged Monday, the Mannschaft must "set an example" after the disgrace of the thrashing in Seville. 
+
+It is a far cry from July 2014, when Loew could seemingly do no wrong after masterminding Germany's World Cup triumph in Brazil.  
+
+The 61-year-old is desperate to end on a high at the Euros after three lean years which have badly tarnished his glittering legacy. 
+
+The three World Cup qualifiers are his last chance to look at options before naming his squad for the European championships. 
+
+He has high hopes for Bayern Munich midfielder Musiala, who has dual nationality and has opted to play senior football for Germany despite two appearances for England Under-21 last November. 
+
+Likewise, Leverkusen's Wirtz, the youngest ever scorer in the Bundesliga, is considered a bright prospect and has also been called up by Loew for the first time. 
+
+The head coach wants to see his players working hard in training to win starting places for Germany. 
+
+"We want to see in the training sessions and matches which players are imposing themselves, who definitely wants to be there," said Loew. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He has been able to call up five Premier League players after Germany relaxed some of the Covid-19 travel restrictions at the weekend. 
+
+Nevertheless, Manchester City midfielder Ilkay Gundogan, Chelsea trio Kai Havertz, Timo Werner and Antonio Ruediger plus Arsenal goalkeeper Bernd Leno will be placed in a 'working quarantine' within the Germany camp. 
+
+The five will only be allowed contact with other players during training, team meetings and matches. Meals will be taken separately. 
+
+"The situation is aggravated, but we are not complaining," Bierhoff added. 
+
+There is also no room for Dortmund captain Marco Reus who has struggled for consistency after a lengthy injury lay off. 
+
+Loew is also refusing to reverse his 2019 decision to end the international careers of Thomas Mueller, Mats Hummels and Jerome Boateng. 
+
+Mueller is in arguably the form of his career with four assists in as many Bundesliga games. Some countries have been forced to take quite drastic action to get around possible restrictions. He retired from international football with 116 caps and 62 goals for his national team. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
