@@ -1,0 +1,174 @@
+Private hospitals are demanding deposits of up to Sh600,000 before admitting Covid-19 patients amid a scramble by the critically ill for limited Intensive Care Unit (ICU) beds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Inquiries by Nation in various top private and public hospitals exposed the frustrations families are undergoing to have their sick relatives admitted as the third wave of the deadly contagion sweeps across the country. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Following a call to one city hospital to find out how much it would cost to be admitted in the ICU and if there were any available beds, staff transferred us to various departments but at one point we overheard response that there were only two beds available. 
+
+
+
+
+
+
+A doctor checks on the machines next to a bed at the Infectious Disease Unit and Intensive Care Unit of the Kenyatta University Teaching Referral and Research Hospital on August 5, 2020. 
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+At Nairobi Hospital, which has a 35-bed facility, a nurse said a deposit of Sh600, 000 was needed before admission to the Covid-19 ICU or the hospital’s main ICU. 
+
+Read: Covid-19: Alarm as hospitals run out of ICU beds 
+
+At Kenyatta National Hospital (KNH), one would have to part with Sh200, 000 to access the ICU facility. 
+
+At Mater Hospital, a Sh600, 000 deposit is needed to admit a Covid-19 patient to the ICU of. For other patients, the amount for high dependence unit and ICU is Sh150, 000 and Sh200, 000, respectively.  But the cost of setting up an ICU is also quite high. A standard ICU room costs between Sh7 million and Sh8 million to set up. Before the pandemic struck, the country’s health system was already limping. Health Cabinet Secretary Mutahi Kagwe at the height of the first Covid-19 wave had announced that the ministry was planning to set up 1,000-bed ICU facilities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Garissa County Hospital ICU unit on July 27,2020.
+Photo credit: Sila Kiplagat | Nation Media Group 
+
+ 
+
+The ministry at one point suspended surgeries that required hospitalisation in the ICU to free up beds for critically ill Covid-19 patients. 
+
+Yesterday, the CS admitted that Nairobi and Machakos counties were getting overwhelmed, with 120 patients in different ICUs. 
+
+Kenya Medical Practitioners, Pharmacists and Dentists Union acting secretary general Chibanzi Mwachonda said it was a shame that ,a year later, the country was still struggling to expand its healthcare capacity. Executive director James Waweru died in Nairobi A bounty of USh10 million (about $2,857) has been offered following the poisoning of the lions. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
