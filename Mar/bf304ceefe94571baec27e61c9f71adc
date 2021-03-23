@@ -1,0 +1,73 @@
+The burial ceremony Kericho Deputy Governor Susan Kikwai, who died on March 20, is currently underway in Kipkelion East constituency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kikwai is being laid to rest at her rural home in Tugunon village. 
+
+Kikwai, 60, succumbed to Covid-19 related complications at Siloam Hospital in Kericho town after four days of treatment. 
+
+She took the final blow at a time when she was at the front-line in ensuring Kericho residents adhered to all the Covid-19 containment measures set by the Ministry of Health. 
+
+“The fight against Covid-19 cannot be left to the government alone. It is a team effort that requires partnership with the private sector,” Ms Kikwai posted on Twitter in 2020. 
+
+Before plunging into politics, Ms Kikwai served as the managing director of Kenya Investment Authority (KenInvest) between 2005 and 2012. Kericho Governor Paul Chepkwony says that Susan Kikwai died at Siloam Hospital. Security and health officers have visited her home home for inspections. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
