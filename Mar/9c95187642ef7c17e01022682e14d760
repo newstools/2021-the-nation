@@ -1,0 +1,229 @@
+Scores of people have died in the deadliest suspected jihadist massacre ever to hit Niger, the government said Monday, underscoring the huge security challenge facing new President Mohamed Bazoum. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Government spokesman Zakaria Abdourahamane said 137 people had died in Sunday's raids in villages near Niger's border with Mali. 
+
+"In treating civilian populations systematically as targets now, these armed bandits have gone a step further into horror and brutality," Abdourahamane said in a statement read on public television. 
+
+Announcing three days of national mourning for the victims from Tuesday, he vowed that the government would reinforce security in the region and bring "the perpetrators of these cowardly and criminal acts" to justice.  
+
+Gunmen arriving on motorbikes attacked the villages of Intazayene, Bakorat and Wistane on Sunday, shooting "at everything which moved," a local official said. 
+
+The jump in the death toll, which had been given as at least 60 earlier Monday, would make Sunday's attacks the deadliest ever committed by suspected jihadists in Niger. 
+
+It brings the number of fatalities in the Mali-Niger border region to 236 in just over a week. 
+
+The world's poorest nation according to the UN's development rankings for 189 countries, Niger is also struggling with Islamist insurgencies that have spilled over from Mali and Nigeria. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Hundreds of lives have been lost, nearly half a million people have fled their homes, and devastating damage has been inflicted in the former French colony. 
+
+The three villages are located in the arid Tahoua region in western Niger, abutting the Tillaberi region in a border zone notorious for jihadist attacks. 
+
+On March 15, suspected jihadists killed 66 people in the Tillaberi region, attacking a bus carrying shoppers from the market town of Banibangou, and then raided the village of Darey-Daye, killing inhabitants and torching grain stores. 
+
+'Barbaric' 
+
+The same day, an attack claimed by the Islamic State group (IS) in the so-called "tri-border area" where the frontiers of Niger, Burkina Faso and Mali converge left 33 Malian soldiers dead. 
+
+"After the Banibangou massacre, yesterday the terrorists, in the same barbaric way, struck the peaceful civilian populations of Intazayene and Bakorat," Bazoum said in a tweet on Monday, offering "heartfelt condolences to the victims' relatives". 
+
+Bazoum's election was confirmed on Sunday by the poor Sahel nation's constitutional court. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On January 2, 100 people were killed in attacks on two villages in the Mangaize district of Tillaberi. 
+
+The massacre, one of the worst in Niger's history, occurred between two rounds of the country's presidential election. 
+
+A year earlier, on January 9, 2020, the Niger army lost 89 men in an attack on a military camp in Chinegodar, one month after 71 troops died in an attack at Inates. 
+
+Bazoum, elected on February 21, is a former interior minister who was the preferred successor and right-hand man of outgoing president Mahamadou Issoufou. 
+
+He has vowed to fight insecurity, and ordered army reinforcements to the Tillaberi region after the bloodletting of March 15. 
+
+Niger is part of a France-backed alliance of countries in the Sahel region known as the G5. 
+
+A contingent of 1,200 troops from the Chadian army, considered the region's toughest, has been deployed under the G5 banner. Mahamadou Issoufou, 68, was awarded for facing "seemingly insurmountable challenges", ranging from deep poverty to jihadism. It saw the first of several coups in April 1974. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
