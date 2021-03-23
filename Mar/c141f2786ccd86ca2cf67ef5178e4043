@@ -1,0 +1,297 @@
+You are 79 per cent less likely to get sick with coronavirus if you get an AstraZeneca Covid-19 vaccine, a new trial has shown. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Further, the vaccine has been found to be “100 per cent” effective at preventing people from falling seriously ill and getting hospitalised. In a press release published on Monday, British-Swedish multinational pharmaceutical, AstraZeneca, also said there were no safety issues reported from the study. 
+
+“It checks almost every box one would want to see from a vaccine trial at this point,” said Dr Catherine Kyobutungi,  the Executive Director of the African population and health research center (Aphrc) “This answers many questions about safety, dosing, interval, age range.” 
+
+The results, Dr Kyobutungi noted, hold “best news” about three aspects that experts have been grappling with answering: first, she explained, unlike previous trials that showed the vaccine to be 70 per cent efficacious against symptomatic Covid-19 did not include elderly people above 65 years. Around a fifth of the included more than 32,000 participants in this trial were over 65 and the vaccine, given as two doses, four weeks apart, provided as much protection to them as to younger age groups. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Phase 3 trials included more than 32,449 participants in the United States (US) Chile, and Peru. Two-thirds received an initial dose of the vaccine followed by a booster dose four weeks later while the other third received placebo shots. 
+
+“Vaccine efficacy was consistent across ethnicity and age. Notably, in participants aged 65 years and over, vaccine efficacy was 80 per cent,” the statement said. 
+
+“The second great news is that they specifically looked for thrombo-embolic events and found none. The third great news is that they are able to say something about the extended 12-week interval,” said Dr Kyobutungi, an epidemiologist. 
+
+Although the press statement indicated that there had been 141 cases of symptomatic Covid-19 in the trial over all, AstraZeneca did not specify how many cases occurred in the placebo and vaccine groups. 
+
+“It means that out of the observed cases of Covid-19 that were severe and requiring hospitalisation, none (zero) were in the group that received the vaccine. This is very important and consistent with the other vaccines,” explained Dr Kyobutungi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The AstraZeneca vaccine, co-invented in partnership with the University of Oxford, consists of the gene for the spike protein of Sars-CoV-2 integrated into a harmless adenovirus. Many countries especially those in the low- and middle-income category like Kenya have banked hope on the vaccine due to its affordability and ease of storage and transportation. 
+
+It can be stored at normal refrigerated conditions (2-8 degrees Celsius) for at least six months and administered without the need for preparation within existing healthcare settings. 
+
+Lead investigator of the trial of the vaccine, Prof Andrew Pollard said: "These results are great news as they show the remarkable efficacy of the vaccine in a new population and are consistent with the results from Oxford-led trials. We can expect strong impact against Covid-19 across all ages and for people of all different backgrounds from widespread use of the vaccine." 
+
+The vaccine has faced some challenges that have eroded confidence in its shots following news of possible rare, serious side effects. Last week at least a dozen European countries paused on administering the vaccine following reports of rare strokes called cerebral venous sinus thromboses (CVST) and clotting disorders in people who had received it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But on Thursday, the European Medicines Agency (EMA) said that while it could not rule out that the symptoms were connected to the vaccine, the benefits strongly outweighed the risks, and as a result, the countries resumed using the Covid-19 vaccine. Three African countries, the Democratic Republic of Congo (DRC), Mali, and Cameroon put the rollout of the AstraZeneca vaccine on hold as a precaution following the EU safety concerns. 
+
+The company also faced challenges in South Africa which early this year paused its rollout of the vaccine after a small study suggested it offers minimal protection against mild and moderate infection from the variant known as B.1.351. 
+
+The statement for the new efficacy trial says that a specific search for CVST found none in the 21,583 participants who received the vaccine but did not rule out such a side effect occuring in rare instances. 
+
+AstraZeneca, which co-invented the vaccine known as AZD1222 with the University of Oxford added that the vaccine was well-tolerated, and had no safety concerns identified by the independent data safety monitoring board (DSMB). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“These findings reconfirm previous results observed in AZD1222 trials across all adult populations but it’s exciting to see similar efficacy results in people over 65 for the first time. This analysis validates the AstraZeneca Covid-19 vaccine as a much-needed additional vaccination option, offering confidence that adults of all ages can benefit from protection against the virus,” said Ann Falsey, Professor of Medicine, University of Rochester School of Medicine, US, and co-lead Principal Investigator for the trial. 
+
+Kenya is among African countries that have kicked off vaccination programmes after receiving doses of AstraZeneca’s vaccine through the international Covax initiative designed to help poorer countries access supplies. 
+
+AstraZeneca said it now plans to submit its data to U.S. Food and Drug Administration (FDA) to be considered for emergency use authorisation. There are concerns that India's "vaccine diplomacy" will come at a cost The British variant has become the dominant strain circulating in Germany. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
