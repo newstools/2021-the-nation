@@ -1,0 +1,213 @@
+Reigning confusion between three government agencies over the eight-year age-limit rule for used cars is causing huge losses to importers whose vehicles have been held up at the Mombasa port for the fourth month running. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Close to 20,000 vehicles, which were loaded onto ships as early as October last year, delayed to land at the port as due to disruptions in the supply chain occasioned by the outbreak of Covid-19. 
+
+The vehicles are yet to be cleared as Kenya Bureau of Standards (Kebs), Kenya Revenue Authority (KRA) and National Transport and Safety Authority (NTSA) bicker over whether to use the block year or the month the vehicles were registered to determine their ages. 
+
+Car Importers Association of Kenya (CIAK) national chairman Peter Otieno wondered why it would take more than three months for the three agencies to reconcile and agree on the fate of the vehicles with each pulling its own way as vehicles continue to accrue demurrage charges. 
+
+20,000 vehicles 
+
+“In the eight sampled documents of the vehicles being held over the age limit debate between KRA, Kebs and NTSA, they indicate that the vehicles were shipped within the time frame but delayed to land at the port after spending more than two months in the sea as a result of Covid-19. Normally, it only takes about 28 days to ship a car from Japan but this time there were delays thus causing the quagmire,” said Mr Otieno. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He added: “I do not have an exact figure of the vehicles being held but I can estimate that between 10,000 and 20,000 vehicles have not been released for four months now as importers continue to lose millions and storage charges increase.” 
+
+The vehicles had been cleared by Kebs-appointed agents after undergoing on-time inspection in the country of origin, and issued with Certificates of Road-worthiness but the KRA wants to use block year rather than month of manufacture to determine the age limit. 
+
+The affected batch are vehicles manufactured or first registered in 2013. 
+
+Only second-hand cars of up to eight years are allowed into the country, meaning starting January 1, this year, only 2014 units were being cleared. 
+
+At the same time, KRA has warned of the increased number of motor vehicles operating without payment of duty and the use of trucks or motor vehicles to transport prohibited goods, un-customed goods and excisable goods affixed with counterfeit stamps or no excise stamps affixed on them. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The tax collector in its statement said an investigation has been launched over an increasing number of vehicles which have either been fraudulently registered or affixed with registration numbers belonging to other vehicles. Some of those vehicles may have been sold to innocent Kenyans who are not aware of the scheme. 
+
+“Irregularly registered” 
+
+“There have been a number of irregularly registered motor vehicles which have been found to be over-age and, as such, they are prohibited imports since they do not comply with Kebs KS 1515:2000 standard on the eight-year rule. The public is urged to verify the payment status of customs duty of all registered vehicles with KRA before purchasing and taxpayers are further requested to report any suspected non-compliant vehicles operating in the country,” said KRA in its notice to the public. The National Treasury has said a presidential directive easing importation of cars by the diaspora is being implemented. Cars registered in 2013 arriving after December 31 will not be rejected at importer’s cost. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
