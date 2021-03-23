@@ -1,0 +1,219 @@
+Children who are 10 and younger produce more antibodies in response to coronavirus infection than adolescents and adults, a study showed Monday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The authors of the paper, which appeared in JAMA Network Open, said the finding helped illuminate why children are less susceptible to severe Covid-19 than adults -- though this is still an area of very active research and many factors are believed to be at play. 
+
+A team led by researchers at Weill Cornell Medicine examined almost 32,000 antibody tests from New York City between April and August 2020, finding that a similar number of the 1,200 children and 30,000 adults showed signs of past infection -- 17 percent and 19 percent. 
+
+The scientists then examined a subset of patients who tested positive -- 85 children and 3,648 adults -- to determine the levels of immunoglobulin G (IgG) antibodies.  
+
+This is a key type of "neutralizing" antibody that binds to the spike protein of the virus, preventing it from invading cells. 
+
+The 32 children aged one to 10 years showed median IgG levels almost five times higher than 127 young adults aged 19 to 24 years. 
+
+Finally, they focused on a subset of 126 positive patients aged one to 24 years, none of whom had experienced severe Covid-19, to further characterize the antibody response. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In this final group, children aged one to 10 years had on average more than twice the levels of IgG antibodies of adolescents aged 11 to 18 years, who in turn had more than twice the average level of young adults aged 19 to 24 years. 
+
+Paradoxical result 
+
+The authors wrote: "Our findings suggest that the differences in clinical manifestations of Covid-19 in pediatric patients compared with adult patients could be partly due to age-related immune response." 
+
+The fact that children are less prone to severe Covid-19 is in some ways counterintuitive, given how much they are affected by other respiratory illnesses, and many theories abound.  
+
+A paper in Nature Communications last month by researchers in Australia suggested children have a more active "innate" immunity -- the immune system's first line of defence which gets triggered before it raises antibodies, and involves cells such as neutrophils that patrol the body looking for infections. 
+
+Another theory is linked to the fact that children have fewer cell receptors in their respiratory tracts called "ACE2" which the coronavirus uses to gain entry to our cells. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One paradoxical result from the new research was that antibody levels were lowest for young adults but rose again with age -- despite the fact that we know older people are more vulnerable.  
+
+The authors admitted they could not completely explain this and suggested the reason for higher hospitalisation and death rates among the elderly could relate to higher rates of comorbidities.  
+
+Obesity, which is a major risk factor for severe Covid-19, is associated with a phenomenon called "cytokine storm" where the immune system goes into overdrive, damaging organs.  
+
+The fact that obese people have a higher baseline level of the signalling proteins called cytokines could also be associated with heightened antibody production, the authors wrote. Study shows role of children in the transmission of the disease may have been underestimated. Their response to the deadly disease has been found to be subtle. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
