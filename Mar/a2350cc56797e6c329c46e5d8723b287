@@ -1,0 +1,145 @@
+Kenya Airways has sunk deeper into the red after it reported a Sh36.2 billion loss for the year ended December 2020, the biggest loss in the airline's history. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the Covid-19 pandemic took a toll on the national carrier. Its passenger numbers dipped by 65.7 per cent to 1.8 million in the year under review. This saw its customer revenue shrink from Sh103.6 billion to Sh33.7 billion. 
+
+Its comprehensive losses were worsened by a further Sh5.1 billion loss on hedged exchange differences on borrowings and another Sh4.8 billion, was lost on fuel related hedges.  
+
+This pushed the total comprehensive loss for the airline, which made a loss of Sh12.9 billion in a similar period last year, to Sh46.2 billion, which is five time the Sh8.8 billion comprehensive loss made last year. 
+
+The loss comes at a time when the government advanced a Sh10 billion bailout package to keep the airline afloat, as it pursues its nationalisation. 
+
+"The year 2020 was globally the worst year in the history of aviation. Airline passenger traffic was reduced to levels last seen in 1999, wiping out 21 years of airline passenger traffic growth," KQ chairman Michael Joseph said in a statement.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+KQ said that for the first time in its history, it shut down scheduled operations from April to July 2020 following the government's directive to suspend all scheduled passenger services into and out of the country to curb spread of Covid-19. 
+
+"Upon resumption of scheduled operations in August, network operations in August, network operations remained low as the effects of the pandemic continue to be felt and with travel restrictions still prevalent in some of our key destinations," Mr Joseph said. 
+
+KQ said it operated some charter flights and repatriation flights for foreign governments during the lockdown to support its revenue generation. It also operated several repatriation flights to bring Kenyans home. 
+
+"In addition, the company ramped up its cargo operations, attaining new customers and penetrating new sectors," the airline said. 
+
+pwafula@ke.nationmedia.com New report notes that many African airlines risk closing down due to liquidity crisis caused by the Covid-19 pandemic. Kenya Airways launches the service dubbed Economy Max for flyers who want extra space for in-flight safety. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
