@@ -1,0 +1,269 @@
+Veteran Congo President Denis Sassou Nguesso appeared on course for a fourth term on Monday after elections overshadowed by the sudden death of his main rival, Guy-Brice Parfait Kolelas, who passed away from coronavirus on polling day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Provisional official results from 35 polling stations indicated that Sassou Nguesso, 77, was on track for a landslide first-round victory. 
+
+In the Poto-Poto district of the capital Brazzaville, for instance, he had picked up 89.15 percent of the vote, according to figures issued by the electoral commission. 
+
+"Across the country, the results are mostly in line with this trend," commission chief Henri Bouka said. 
+
+One of the world's longest-serving rulers, Sassou Nguesso was frontrunner in an election boycotted by the main opposition and under an internet blackout. 
+
+In power for a total of 36 years, he has long been accused by critics of iron-fisted rule and turning a blind eye to corruption, poverty and inequality despite abundant oil wealth. 
+
+Kolelas, 61, his only significant challenger, died on Sunday aboard a medical plane that took him to Paris, his campaign director Christian Cyr Rodrigue Mayanda said.  
+
+A close friend of Kolelas told AFP that he had died five minutes after the plane touched down at Le Bourget airport north of Paris. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kolelas had initially feared he had malaria, and discovered too late that it was coronavirus, the source said.  
+
+Unable to host his closing campaign rally in the capital Brazzaville, he posted a video from his sickbed, declaring he was "battling against death". 
+
+"Rise up as one person... I'm fighting on my deathbed, you too fight for your change," he urged his supporters, saying the election was "about the future of your children". 
+
+A Paris court said a criminal probe had been opened into the cause of death. 
+
+Rose to power in 1979 
+
+Sassou Nguesso, a former paratrooper, first rose to power in the Republic of Congo in 1979. 
+
+He was forced to introduce multi-party elections in 1991 and was defeated at the ballot box a year later.  
+
+But he returned to power in 1997 following a prolonged civil war and has won every election since then, in conditions that the opposition says were fraudulent. 
+
+A constitutional amendment in 2015, which ended a ban on presidential candidates aged over 70 and scrapped a two-term limit, allowed him to run again in 2016. Two candidates in that vote -- former army general Jean-Marie Michel Mokoko and ex-minister Andre Okombi Salissa -- were sentenced in 2018 to 20 years in prison for "undermining state security". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kolelas was the only major contender this time around after Congo's largest opposition group, the Pan-African Union for Social Democracy (UPADS), announced a boycott and other candidacies were withdrawn or excluded. 
+
+He came second in the presidential election of 2016, picking up 15 percent of the vote against 60 percent for Sassou Nguessou, according to official results. 
+
+Speaking after he cast his ballot, Sassou Nguesso said the "atmosphere of peace" during the election campaign was "a good sign for our democracy". 
+
+But when asked about security when election results are announced -- a moment that triggered a wave of violence at the last vote in 2016 -- he responded: "I'm not God". 
+
+Full results are likely to be announced on Tuesday or Wednesday, according to the electoral commission. 
+
+Flanked by its giant neighbour the Democratic Republic of Congo, the former French colony, also known as Congo-Brazzaville, has suffered a succession of coups, attempted putsches and insurrections since independence in 1960. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It has large reserves of oil, its major source of revenue, but its economy is in a slump, hurt by a collapse in crude prices, long-standing debt as well as the impact of the Covid-19 pandemic. Kolelas died in medical aircraft which had gone to pick him from Brazzaville. The largest opposition group, the Pan-African Union for Social Democracy, is boycotting the poll. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. They claim the majority leader is not effectively pushing the government agenda in the National Assembly. With at least 121 MPs loyal to the Tangatanga camp, the pro-impeachment team would have to lure at least five legislators to tilt the balance in the House.
