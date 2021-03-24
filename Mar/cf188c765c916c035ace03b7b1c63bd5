@@ -1,0 +1,147 @@
+MPs will review all the levies imposed on petroleum and its products in the next budget in an attempt to make it cheaper and accessible. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Energy Committee of the National Assembly at a virtual meeting with Petroleum Principal Secretary Andrew Kamau and Energy and Petroleum Regulatory Authority acting CEO Daniel Kiptoo was unanimous that the high fuel prices have made life unbearable for a majority of Kenyans. 
+
+Nakuru Town East MP David Gikaria, who chairs the committee, noted that other than the Finance Bill 2021, the committee also plans to review the legal notice of 2010 on the energy (petroleum pricing regulations) which governs the current regime of petroleum pricing in the country. 
+
+“We should avoid posting on Twitter to complain before Kenyans yet we have the solutions here,” said Mr Gikaria. “We need to speed up as a committee to review these levies so that life does not become unbearable to Kenyans,” Mr Gikaria said. 
+
+The Finance Bill is enacted annually and provides a legal tax regime to finance the country’s budget passed every year. 
+
+A breakdown of the taxes and levies in Kenya as at March 2021 shows that Excise duty tax on petrol attracted Sh21.95 per litre, Sh11.37 per litre for diesel and Sh11.37 per litre for kerosene. 
+
+Road maintenance levy is charged at Sh18.00 per litre for petrol and diesel, with kerosene exempted. 
+
+Petroleum development levy is Sh5.40 per litre for petrol and Sh0.40 per litre for kerosene. 
+
+The other levies include petroleum regulatory levy, railway development levy, anti-adulteration levy, merchant shipping levy, import declaration fee levy and value added tax. 
+
+VAT is Sh9.10 per litre of petrol and Sh7.97 and Sh7.25 per litre respectively for diesel and kerosene. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Parliament needs to go on a soul searching to save Kenyans from exploitative prices. You cannot compare the prices with the region yet a majority of our neighbours use our port,” Gem MP Elisha Odhiambo, a member of the committee, said. 
+
+A document presented to the committee by Mr Kiptoo shows that for the period January to March 2021, the tax regime on fuel in Kenya was the highest in the East African region. MoH insists it is not part of any deal allowing distribution and sale of the vaccine to Kenyans. Mr Janan, who has been on the run since March last year, is expected to surrender. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
