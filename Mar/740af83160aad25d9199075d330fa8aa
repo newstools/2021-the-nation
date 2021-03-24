@@ -1,0 +1,167 @@
+An eight-year-old boy from Manyanga village in Tharaka, Tharaka Nithi County was on Tuesday evening dragged to death by his family’s donkey in an area where the beasts of burden are treated with utmost care and respect. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The victim’s father, Mbogo Kiige, said his son tied around his waist one end of a rope that had been strapped on the donkey’s neck as most of the children in the area do while grazing the animals. 
+
+But unexpectedly, the animal pulled him down and ran fast, dragging the minor through rocks and thickets for almost a kilometre. 
+
+Residents heard the cries of the Grade One boy who was a pupil at Ntongoro Primary School and rescued him. 
+
+The boy, who was in critical condition was rushed to Marimanti Sub County Hospital but was referred to Chuka County Referral Hospital where he was confirmed dead on arrival. 
+
+Grazing fields 
+
+“The boy had been sent to take the donkey back home from the grazing fields when the incident happened,” said Mr Kiige. 
+
+Area Chief Mwinja Nyaga said because most of the donkeys in the region are friendly, children who graze them tend to have fun with the animals oblivious of the fact that they can turn wild. 
+
+“We are urging the children and even adults to be keen when handling domestic animals because they can sometimes be dangerous,” said Mr Nyaga. 
+
+According to the Kenya Network for Dissemination of Agricultural Technologies (Kendat) that advocates for donkeys’ welfare, the animal can be dangerous when mishandled. 
+
+Ms Cynthia Njeri, Kendat social officer said donkeys can attack or run for safety when they feel threatened. 
+
+“Donkeys should be handled carefully because they turn violent when they feel their lives are threatened,” said Ms Njeri. 
+
+For Tharaka people, the beasts of burden are the economic heart of their households and have for long provided the cheapest method of transport, dependably hauling goods from village to village. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mistreating donkeys 
+
+But it has not always been this way. 
+
+When Kendat started operations in the area in 2015, farmers were mistreating donkeys and the animal’s population was dwindling. 
+
+Ms Njeri said research shows that 90 percent of the donkey owners were mishandling the animals by overworking, beating and even hacking those that trespassed into farms. 
+
+“In 2015, there were about 12,000 donkeys in Tharaka constituency which were owned by 9,000 people but currently the population is gone up tremendously,” said Ms Njeri. 
+
+She said the organisation is currently educating donkey owners on the treatment of the animals against various diseases and also the provision of fodder. 
+
+The organisation has built fodder banks in the drier parts of Kathangacini, Kamarandi, Gatunga and Kamanyaki where farmers store fodder for feeding animals during the dry spell. 
+
+The officer said after the government banned the commercial slaughter of donkeys and closed the four slaughterhouses, the population is improving though there reports of people slaughtering them at night. 
+
+anjeru@ke.nationmedia.com Unscrupulous meat inspection officers are abetting the theft of livestock by approving the slaughter of stolen animals at night. The cause of the fire is yet to be established. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
