@@ -1,0 +1,83 @@
+Twenty-seven rebels, five civilians and a soldier have died in a two-day military operation against a notorious armed group in eastern DR Congo, the army said on Tuesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 27 slain members of the CODECO militia include "one of its major commanders, Malo-Maki," Lieutenant Jules Ngongo, the army's spokesman for the Ituri region, said. 
+
+"Among the civilian population, five people were killed and decapitated" by CODECO, while one soldier died in the fighting and a second was wounded, he said. 
+
+CODECO -- the Cooperation for the Development of Congo -- is an armed political-religious sect that has been linked to more than 1,000 deaths since December 2017. 
+
+Experts say it comprises various militia groups claiming to defend ethnic Lendus in Ituri, a gold-rich province bordering Uganda and South Sudan. 
+
+The Lendu have been in historic conflict with the Hema community -- tens of thousands of people on both sides died in a savage war between 1999 and 2003. 
+
+That fighting was brought to an end thanks to an EU military mission, Operation Artemis. 
+
+But bloodshed resumed at the end of 2017, starting in the territory of Djugu before spreading eastwards to Irumu, Mahagi and Aru. 
+
+Ngongo said the latest operation was launched on Sunday after CODECO sought to cut off a strategic road, Highway 27, at the trading town of Iga-Barriere, just 25 kilometres of Ituri's provincial capital of Bunia. 
+
+Troops managed to dislodge the militia from two strongholds, he said. 
+
+COEDECO is only one of an estimated 122 armed groups which roam eastern Democratic Republic of Congo, many of them a legacy of wars in the 1990s that sucked in countries from around central Africa. The ADF militia are Ugandan Islamic fighters who have made their base in eastern DR Congo since 1995. In the province of North Kivu, at least 10 civilians were killed in the attack. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
