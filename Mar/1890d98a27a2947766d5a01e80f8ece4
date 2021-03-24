@@ -1,0 +1,151 @@
+WPP-Scangroup chief executive Bharat Thakrar has resigned weeks after he was suspended from a company he founded, over allegations of gross misconduct. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Thakrar, 69, was suspended alongside the chief finance officer Satyabrata Das on February 18. 
+
+In a notice to the financial markets on Wednesday, the firm announced that further to the cautionary announcement regarding the suspension of Mr Thakrar alongside the CFO, Thakrar has tendered his resignation as CEO and board member, which the board has accepted. 
+
+"Mr Thakrar has also resigned a director of the Company's subsidiaries and affiliates. The investigation into the allegations of gross misconduct and possible offences against the two executives will continue," the statement reads in part. 
+
+The board said it would now commence the process to recruit a new CEO for the Company. 
+
+"In the interim, the Board has delegated authority to an interim Chief Operating Officer, Mr Alec Graham, so as to ensure the continued management of the Company, with the support of the Board and the senior executives of the subsidiaries," the statement ends. 
+
+This becomes a painful end for a man who founded the marketing services firm, and has now been forced out after selling a stake to WPP. 
+
+The suspension of the CFO indicates that the allegations facing the executives could be financial in nature. 
+
+This is the first time a chief executive of an NSE-listed firm has been suspended or sacked publicly for ethical misconduct. Most firms have opted not to disclose the reasons for the sudden departure of their leaders. 
+
+Mr Thakrar has been the face of Scangroup, which he took public on August 29, 2006 in an initial public offering (IPO) that raised Sh94 million. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He was the top shareholder at the time with a 28.53 per cent stake and his holdings were at one time valued at more than Sh1 billion. His ownership now has a mark-to-market value of about Sh250 million. 
+
+He sold his shares over the years, contributing to his ownership dropping to the current 10.6 percent. 
+
+UK-based conglomerate WPP on the other hand raised its stake in the company to a controlling 56.3 percent through a mix of share purchases and folding some of its subsidiaries into Scangroup. 
+
+pwafula@ke.nationmedia.com He was suspended alongside chief finance officer Satyabrata Das amid claims of gross misconduct. He was suspended on Friday over allegations of gross misconduct and diversion of funds. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. The government is citing national security threats posed by some of the refugees.
