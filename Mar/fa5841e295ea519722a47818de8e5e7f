@@ -1,0 +1,155 @@
+Four security guards have denied vandalising 18 transformers worth Sh8 million from a Kenya Power sub-station. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The four are Mr Sammy Murule, Mr Nickson Kipng’etich, Mr Edwin Yego and Mr Erick Orina. 
+
+They were brought before Makadara Chief Magistrate Angelo Kithinji on Tuesday where they faced three counts of vandalism, stealing and handling suspected stolen property. 
+
+The prosecution informed Mr Kithinji that the four vandalised the 18 transformers, thereby interfering with power supply at the Roysambu sub-station and its environs. 
+
+Transformer oil 
+
+The court heard on March 21, 2021 the four stole 100 litres of transformer oil valued at Sh1 million. 
+
+The accused sought to be released on bond, with their lawyer telling the court that they are not a flight risk. 
+
+“I urge this court to free the four suspects on bond. All of them have young families and their incomes are very little given that they are security officers employed by a private company,” the court heard. 
+
+The lawyer said the accused would comply with the bond terms that would be imposed on them. 
+
+The prosecutor did not oppose their release on bond. 
+
+Freed on bond 
+
+Mr Kithinji ordered each of the accused to deposit Sh300,000 cash bail with an alternative bond of Sh500,000 with one surety. 
+
+The case will be mentioned in two weeks when the defence lawyer will disclose whether he has been supplied with witness statements. 
+
+At the same time two Kenya Power employees were charged with extorting Sh60,000 from a trader they accused of having an illegal electricity connection. 
+
+Mr Robinson Ongeri Mogaka and Philip Muteti Kaluli denied extorting the money from Ms Alice Akumu Orengo after accusing her of an illegal connection to the national grid at her V-Mall home in Utawala, Nairobi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The two were released on bond. The Kenya Power and Lighting Company (KPLC) is set to initiate the process of replacing conventional transformers in vandalism-prone areas with new types that do not use oil in a bid to beat... As a result of the vandalism, a section of the Kari estate does not have power. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
