@@ -1,0 +1,241 @@
+Mark Lumbasi Natala, 20, was tortured before he was killed inside a police station cell in Machakos County, a post-mortem report has confirmed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The examination, conducted at the City Mortuary in Nairobi on Tuesday, concluded that he died from homicidal hanging after being injured on various parts of his body, including his private parts. 
+
+"As a result of my examination, I formed the opinion that the cause of death was asphyxia due to neck compression secondary to homicidal hanging. Other significant findings are multiple generalised contusions," stated the report signed by the chief government pathologist, Dr Johansen Oduor, Dr Charles Muturi, representing rights lobby Haki Africa and Dr Watenga Kamotho, representing the family. 
+
+Homicidal hanging refers to death that occurs when a person is hanged to simulate suicide, while asphyxia refers to when the body is deprived of oxygen, causing unconsciousness or death -- suffocation. 
+
+Marks of injuries 
+
+The body had injuries on the hands, legs, shoulders and neck, and his mouth was stuffed with parts of his torn shirt's collar and the face mask he had been wearing. 
+
+Additionally, his hands were tied at the back, all of which point to the possibility of him having been tortured before death. 
+
+“Is it that he tied his hands then hanged himself or hanged himself before tying his hands both of which do not make sense?” wondered Lumbasi’s elder brother, Mr Ezekiel Natala, moments after the family was briefed on the findings. 
+
+Mr Natala, who lives in Malaba, Bungoma County, said he received a call on March 10, informing him that his brother had died after being involved in an accident in Kangundo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Upon probing how the death occurred, the family heard that Lumbasi had hanged himself in a police cell. Concerned, the family sent representatives to Kangundo to check on the body. 
+
+Hands tied 
+
+They found it at the Kangundo District Hospital Mortuary, but were alarmed to find the deceased’s hands were tied to the back and his mouth was stuffed with parts of his torn shirt, foil paper and a face mask, which raised suspicions of murder. 
+
+“A DCI officer handling the case then told us that my brother had died inside the KBC Police station cells under mysterious circumstances,” Mr Natala told journalists. 
+
+At the station, officers told Mr Natala that his brother had been arrested at Malaa market with a stolen bath tub and booked at KBC Police Station for the offence of stealing. However, Mr Natala was not shown the bathtub allegedly stolen by his brother, neither was he shown the OB number for the case. 
+
+“The officers said they had booked him on March 8 at around 9:30pm, only to find him hanging in the cells at 6am the following morning. They said he hanged himself using his shirt and pair of trousers. 
+
+“A second suspect, who was booked in the same cell at around 4am, reportedly did not hear any commotion. Officers said the inmate woke up and was shocked to find the deceased hanging from the roof,” Mr Natala told journalists. 
+
+Directorate of Criminal Investigations (DCI) detectives, the Independent Policing Oversight Authority (Ipoa) and Haki Africa took over the case, and yesterday witnessed the post mortem exam at City Mortuary, a day after the body was moved from the mortuary in Kangundo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Haki Africa Executive Director Hussein Khalid called on the DCI to speed up investigations into the case so that the family can get justice. 
+
+Civilian deaths 
+
+According to data from Missing Voices Kenya, 137 civilians lost their lives at the hands of police, while others were reported missing in the country last year. 
+
+“Cases of civilians losing their lives in the hands of police officers have been on the rise in this country, action needs to be taken by the DCI and Ipoa and ensure that if officers are involved, they are arrested and prosecuted,” said Mr Khalid. 
+
+He further asked the investigative agencies to establish the motive behind the killing and the circumstances in which the deceased was arrested. 
+
+“Why is it that no OB was recorded when the arrest was made and there has been no complainant in the case? The truth needs to come out,” said Mr Khalid. 
+
+Ms Pamela Kavulu, Lumbasi’s aunt, described him as a quiet and hardworking young man who was waiting to harvest crops back home. 
+
+“Those involved must be brought to book to explain how he died in the cells,” said Ms Kavulu. 
+
+The body was taken to Malaba ahead of his burial on Thursday. 
+
+ 
+
+mwambui@ke.nationmedia.com Investigators have failed to find evidence on the presence of other people on the day of the murders. Maina’s decomposing body was found by herders in a thicket in Paranai, Kajiado County on February 15. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
