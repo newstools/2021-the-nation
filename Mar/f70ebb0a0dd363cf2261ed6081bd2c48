@@ -1,0 +1,153 @@
+The death of a president is a big deal. State funerals held in their honour often see leaders from across the region come together to mourn the departed Head of State. And the late Tanzanian President John Pombe Magufuli's requiem mass was no different. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, during Monday's farewell, one thing was clear: far more leaders from the Southern African Development Community (SADC) showed up in Tanzania's administrative capital, Dodoma, to bid their counterpart goodbye compared to those from the East African Community (EAC). Tanzania is a member of the two regional blocs. 
+
+From SADC, Malawi's president Lazarus Chakwera, Botswana's Mokgweetsi Masisi, South Africa's Cyril Ramaphosa and Zimbabwe's Emmerson Mnangagwa attended the State funeral. 
+
+Others SADC Presidents who attended the funeral were DRC's Felix Tshisekedi, who is also the current AU chairman, Zambia's Edgar Lungu and Comoros' Azali Assoumani. 
+
+From the EAC, only President Uhuru Kenyatta of Kenya was in attendance. He gave a moving speech eulogising the departed leader as a pan-african who taught the rest how to utilise local resources. 
+
+President Yoweri Museveni was at the Tanzanian High Commission in Kampala to sign a condolence book on the day of the funeral. All other members of the EAC sent out their condolence messages. 
+
+But if there was any doubt as to which, between EAC and SADC, that Magufuli favoured most, the attendance of Heads of States could be taken as a marker that points to the latter. 
+
+Dr Magufuli had served as chairman of SADC until end of last year and it is the region he travelled to most, for a man who hardly left the country or the continent. 
+
+“The entire SADC is here, all of us are here at this big farewell to this great man, a great leader of our generation,” Mozambique President Nyusi, who is also SADC chairman, said in a statement issued after the funeral in Dodoma. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“With the passing on of Dr Magufuli, the people of the United Republic of Tanzania, the SADC Region and Africa as a whole have lost a great, committed and inspirational leader admired across the African continent and the entire world”. 
+
+President Chakwera said Dr Magufuli was not just an icon, but a hero who had the knack to fight laziness, sloth, and corruption. 
+
+President Masisi said the SADC Region has lost a true leader, a real friend and doyen of democracy, unity and development. 
+
+President Ramaphosa described Dr Magufuli as a true Pan-Africanist and tireless champion of the cause of Africa’s progress who was unapologetic about being African. 
+
+President Mnangagwa noted that as SADC Chair, Dr Magufuli supported the regional call for the unconditional removal of illegal sanctions imposed on Zimbabwe by the West. SADC has since set October 25 as a day the Region will stand in solidarity with Zimbabwe in calling for the removal of the economic embargo. 
+
+“Under Dr Magufuli’s leadership, the United Republic of Tanzania was the first African country to come to the aid of Zimbabwe when it was hit by Cyclone Idai in 2019, through providing food stuffs, blankets, medicine and tents for the affected people”, the SADC statement quoted President Mnangagwa as saying. Mr Kenyatta, a Christian honouring Adhaan, an Islamic call to prayer, is a very important gesture. They were killed in chaos that erupted at Uhuru Stadium as Tanzanians paid their last respects to President John Magufuli. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
