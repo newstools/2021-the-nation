@@ -1,0 +1,142 @@
+AK has hosted several eventss this year including all the events in its national cross country calendar, three relay weekend meetings and two track and field weekend meetings.A national team of 42 athletes was picked during the National Cross Country Championships on February 13 at the Ngong Racecourse for the Africa Cross Country that was planned for March 6 to 7 in Lome, Togo. Athletics Kenya (AK) has postponed the national trials for the World Relays Championships that were set for Saturday at the Nyayo National Stadium. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+AK director of competitions, Paul Mutwii, disclosed Tuesday that they have deferred the event to a later date to enable them explore ways of handling the Covid-19 protocols following the third wave of infections. 
+
+“We want to consult with our experts in the coming days to see how we shall handle the protocols with a view of not exposing our athletes, officials and everyone to Covid-19.  
+
+“We must come up with better ways keeping in mind that the third wave seems lethal. It’s important that we give it time,” explained Mutwii. 
+
+AK was due to pick a team for the World Relay Championships slated for May 1-2 in Silesia, Poland.  
+
+A total of 1130 people had tested positive for Covid-19 on Tuesday bringing to 122,040 cases that have been confirmed from 1,419,984 tests. 
+
+Out of these, 90, 397 have recovered but 12 had died within 24 hours bringing the total fatalities to 2, 023. 
+
+AK has hosted several eventss this year including all the events in its national cross country calendar, three relay weekend meetings and two track and field weekend meetings. 
+
+A national team of 42 athletes was picked during the National Cross Country Championships on February 13 at the Ngong Racecourse for the Africa Cross Country that was planned for March 6 to 7 in Lome, Togo. 
+
+The team proceeded for residential training in Kigari, Embu, but the Confederation of Africa Athletics (CAA) cancelled the event after the hosting nation proved not ready to implement Covid-19 protocols. 
+
+The camp was disbanded after almost two weeks. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
