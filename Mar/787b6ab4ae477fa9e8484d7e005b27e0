@@ -1,0 +1,310 @@
+Taita Taveta is experiencing a slow uptake of the Covid-19 vaccine, with the latest figures showing only 300 jabs have been administered, two weeks after the consignment was delivered to the county.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The department of Health received 1,500 doses of AstraZeneca vaccine from the Ministry of Health, in the first phase of the vaccination exercise, where they targeted 3,000 healthcare workers, from both private and public facilities in the county.  
+
+The exercise was rolled out at Moi County Referral Hospital in Voi by Governor Granton Samboja on March 8. 
+
+Mr Samboja, who had announced that healthcare workers will be among the first frontline workers eligible to receive the vaccines, was forced to be vaccinated a week later, to motivate the medics to go for their jabs and reduce fear and uncertainty among members of the public.  
+
+Others who have also been immunised are County executive for Health John Mwakima, his Chief Officer Philomena Kirote, director Elvis Mwandawiro, Moi County Referral Hospital medical superintendent Dr Felix Kimotho, among other officials from the department. 
+
+Mr Mwakima said the slow uptake has been caused by lack of centralised designated Covid-19 vaccination clinics in the county.  
+
+"The healthcare workers had to travel to Moi County Referral Hospital in Voi for them to be inoculated," he said.  
+
+He said the department has now decentralised the clinics to sub county hospitals for the medics to get the jabs easily," he said. 
+
+Nation.Africa, however, established that although the department is racing to improve the uptake, many medics are shying away from getting the jab due to skepticism. 
+
+Vaccine concerns 
+
+Many of the medics said they are skeptical about the jabs due to concerns raised about the safety and the effectiveness of the AstraZeneca vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"There is so much misinformation out there about the vaccine. That is why we are conducting awareness for the people to get the real information about the vaccine," Mr Mwakima said.  
+
+He said the department is conducting a campaign to demystify and overcome misconceptions about the Covid-19 vaccine, that are causing many people to avoid vaccination.  
+
+He stated that the health workers are getting the awareness through continuous medical education forums and through their supervisors.  
+
+
+
+
+
+
+
+
+
+
+
+County Executive for Health John Mwakima gets Covid-19 vaccine from a nurse Eva Mwandembo at Moi County Referral Hospital in Voi, Taita Taveta county on March 8.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+"We want to address the misinformation about the vaccine to immunize as many citizens as possible. People have a fear of the unknown. We have enhanced our sensitisation on the importance of the vaccine," he said.  
+
+He said the focus has now been turned to teachers and security officers after the low turn-up among medics. 
+
+The CEC said the department is yet to know the exact number of teachers and security personnel to be targeted in the exercise.  
+
+"We are yet to kick off awareness among these groups because we are waiting for details from the security agencies and the Education department," Mr Mwakima said.  
+
+Kenya Medical Practitioners Pharmacists and Dentists Union (KMPDU) branch coordinator Dr Richard Wangai urged the medics to come out for the vaccine.  
+
+Mr Wangai said the medics are pro-vaccine since it will offer some protection from the effects of the disease.  
+
+"Our concern remains that the government must ensure we get the second dose after the first one," he said. 
+
+The county commissioner Rhoda Onyancha and county police commander Patrick Okeri have already received their shots to lead the security personnel for the exercise.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Onyancha urged all security officers to get vaccinated to keep themselves and the community they serve safe and protected. 
+
+"We have led as an example, so we urge all the frontline workers to come forward to be vaccinated," Ms Onyancha said. 
+
+A teacher, Hezron Kisombe however said he will not consider getting the COVID-19 vaccine due to doubts about the vaccine’s safety and effectiveness. 
+
+"I am hesitant because I heard that some people encountered serious side effects after getting vaccinated. Of course, none has been reported in the country but what if I become the first to get the side effects," he said. 
+
+Another resident, Rachel Mwandawiro said the government needs to come out clear about the concerns raised by citizens. 
+
+She said communities need to be engaged for them to understand that the vaccine is safe. 
+
+"There are a lot of rumors about the vaccine that is why we are skeptical about it. I will not accept the vaccine unless I see politicians being on the forefront to take the jab,’’ she said. 
+
+However, some residents said they are waiting for the government to open the vaccines to the public for them to get their jabs. 
+
+Ms, Anne Wanyika, a trader in Voi town said she needs the vaccine to protect her family from Covid-19.  
+
+"Every day I come to the market and as you see it is heavily congested. I'm putting my health and that of my family at risk and that is why I need to be vaccinated," she said. 
+
+A spot check across the county revealed that residents have lowered their guards in following Covid-19 protocols. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Many people do not wear face masks, and some are seen wearing them on their chins. The residents also do not practice social distancing guidelines and public handwashing facilities are dilapidated and taps are dry. 
+
+On Covid-19 statistics, 35 people are under home based care in the county after they tested positive for the virus. In the last one week alone, 12 people tested positive for the virus an indication that the county is seeing an upward trajectory of Covid-19 cases.  
+
+Police commander, Mr Okeri said they are conducting crackdown to arrest those defying Covid-19 protocols. 
+
+"We will arrest and prosecute anyone who will breach the rules. We are doing this to safeguard the lives of the citizens," he said.  In 2019, the Taita Taveta county sued the State in its push for a share of the park benefits. Aman says Kenya’s positivity rate currently stands at 22.1 per cent. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
