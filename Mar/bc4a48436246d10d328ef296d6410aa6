@@ -1,0 +1,147 @@
+An American citizen has been arrested in Uganda on suspicion of subversion against the government, police said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Guy Smith was arrested by a specialist security team in the western town of Fort Portal on Sunday for "alleged involvement in anti-government subversive activities", and is being held in Kampala, police said in a statement Monday. 
+
+Smith's wife Sharon Tusiime said that the 63-year-old retired builder, who is originally from Kentucky and has lived in Uganda for more than 20 years, was taken from their home in the early hours of Sunday. 
+
+She said that neighbours described seeing armed men in plain clothes take her husband away in a vehicle known in Uganda as a "drone" -- a van with blacked out windows and no number plate. 
+
+These vehicles have become notorious for use by security forces to abduct opposition activists following a disputed January 2021 election, with multiple cases documented by Human Rights Watch. 
+
+"The recent spate of enforced disappearances has only compounded the intense climate of fear in Uganda following the recent violent national elections," Oryem Nyeko, Africa researcher at Human Rights Watch, said in a statement earlier this month. 
+
+The opposition National Unity Platform alleges that hundreds of its supporters have been rounded up by security forces, with many dumped in remote locations days or weeks later after having been burned, electrocuted and their fingernails plucked out. 
+
+President Yoweri Museveni has admitted citizens have been rounded up for allegedly plotting against the state, and are being held by the military and other security agencies. 
+
+According to Tusiime, 28, her husband was not involved in politics and spent his days "walking and watching the news" when he was not caring for their two children, aged 11 and six. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I have no idea why they've taken him... we just want to know what's happening and we want him released." 
+
+She said her husband had recently had eye surgery, and was still wearing a surgical dressing, and that a friend had not been allowed to give him medicine he needs for his eye as well as heart and hypertension issues. 
+
+In a statement, the US State Department acknowledged that it had seen reports of a US citizen detained in Uganda and said it stood ready to provide consular support. The academic cum political activist is seeking political asylum in Kenya. It can’t be that this charismatic Ssemogerere, Besigye or Bobi Wine returns home while more than 500 MPs spend the next five years earning fat salaries The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
