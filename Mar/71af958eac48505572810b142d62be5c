@@ -1,0 +1,229 @@
+Multichoice had sued Safaricom and Jamii Telecom in a bid to target websites that stream matches pirated from Supersport. The Court of Appeal has suspended execution of a High Court order that required Safaricom to pull down 141 streaming websites that were airing content pirated from Multichoice Ltd, the firm that owns pay television service DStv.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The High Court order dated November 26, 2020 was also directed at Jamii Telecom and was to remain in force pending the hearing and determination of the case filed by Multichoice. 
+
+The South Africa-based pay TV provider sued the two telecommunications firms in a bid to target websites that stream matches pirated from Supersport, thus denying it much-needed revenue. 
+
+Safaricom and Jamii Telecom were ordered by Justice Winfrida Okwany to take down the sites following claims by Multichoice that the websites were infringing on its copyright. She also ordered them to block access to the websites. 
+
+However, being aggrieved by the order, Safaricom lodged an appeal at the Appellate Court. Pending hearing of its intended appeal, it urged the judges to suspend execution of the order because it may affect its business. 
+
+While allowing the request, the appellate court stated that if implemented, the High Court decision may have irreversible effects on the telecommunications firm. 
+
+Justices Hannah Okwengu, Fatuma Sichale and Jamila Mohammed noted that the orders issued were of a mandatory nature. 
+
+“If an order of stay is not issued, Safaricom will be forced to comply with the take down notice. Safaricom has demonstrated that this may have serious ramifications for its company, including risk of civil and criminal sanctions, and the effects of such consequences may be irreversible,” said the judges. 
+
+They added that the company demonstrated to court that the intended appeal is not frivolous but is an arguable appeal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Both Safaricom and MultiChoice have conceded in their submissions that the dispute concerns take down notices in Copyright (Amendment Act) 2019, which is an emerging area of law (in Kenya),” said the judges. 
+
+Interpret the law 
+
+The court said there is no doubt that the development of this law will require frequent intervention of the courts by way of interpretation. 
+
+Through Ms Linda Anene (Senior Legal Counsel, Technology and Corporate Centre) and Daniel Ndaba (Senior Legal Counsel, Litigation), Safaricom contended that the order made by the High Court amounts to a mandatory injunction. 
+
+They told the Appellate court that the order compelled Safaricom and Jamii Telecom to put in place measures preventing their subscribers from accessing 141 websites contained in the take down notice. 
+
+Safaricom argued that the order exposed it to future civil and criminal sanctions as well as backlash from its subscribers. 
+
+It also told court that the damage to its local and international reputation would be irreparable. 
+
+On the other hand, Multichoice opposed the application and wanted Safaricom to be denied audience by the court because it had not complied with the order. 
+
+Through lawyer Eddie Omondi, Multichoice said there were contempt proceedings pending against Safaricom’s CEO. 
+
+Mr Omondi maintained that the order issued by the court is not a permanent injunction but a temporary relief pending hearing and determination of the application by MultiChoice. 
+
+He also submitted that Safaricom had in fact expressed its willingness to comply with the court order and even sought a virtual meeting with the counsel from MultiChoice to discuss this. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lawyer argued that Safaricom had gone to the appellate court without clean hands and was guilty of the abuse of the court process in seeking reliefs, when it has no regard for court orders.  
+
+He further urged that Safaricom had not demonstrated the loss that it is likely to suffer if it complies with the order. Its revenue shrunk by nearly 60 per cent to Sh52.8 billion as the pandemic took a toll. Appellate Court upholds regulator’s decision, saying it was legally justified to take action. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
