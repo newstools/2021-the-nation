@@ -1,0 +1,258 @@
+In 2015, world leaders at a UN summit in New York vowed to achieve zero hunger.Ironically, a quarter of the people in Africa will be completely undernourished by the time Sustainable Development Goals (SDGs) lapse in 2030.  Depressing images of Africa and its starving population continue to dominate international journals and reports of multilateral organisations.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Consider the 2020 report, the “State of Food Security and Nutrition in the World”, jointly published by FAO, Ifad, Unicef, WFP and WHO. 
+
+It states that, in 2019, some 250 million Africans, or about 20 per cent of the population, were undernourished. Half of the 675 million people in the continent face moderate to severe food insecurity. Nine out of 10 stunted children either live in Africa or Asia. In the next decade, all undernourished people will be Africans. 
+
+In 2015, world leaders at a UN summit in New York vowed to achieve zero hunger. Ironically, a quarter of the people in Africa, the most endowed continent with a favourable climate and plenty of underutilised land for food production, will be completely undernourished by the time Sustainable Development Goals (SDGs) lapse in 2030.  
+
+Africa is hopelessly dependent on food imports, which grew at 3.4 per cent per year from 1980-2007. But this was not even enough to keep the population well-fed and nourished. While Africa spent $43 billion (Sh4.3 trillion) on food imports, this is projected to rise to $90 billion in 2030. 
+
+In 2011, FAO termed it “puzzling” that Africa, despite its vast agricultural potential, had become addicted to imported food and agricultural products. But FAO was hypocritical, for Africa’s precarious situation was well predicted at the 1974 World Food Forum organised by international financial institutions, led by the World Bank.  
+
+Not cost-effective 
+
+In 1974, the US government, which gives its farmers generous agricultural subsidies, pressed multilateral organisations to prioritise supply side interventions over the self-reliance ideology favoured by developing countries in tackling hunger around the world. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+African countries have since been armtwisted to embrace neoliberal economic policies that include abolishing tariffs and non-tariff barriers to trade.  Developing countries are not permitted to subsidise their farmers as that “distorts food markets and commodity prices”.  
+
+FAO has embraced the hypocritical US position. It stated in a report that agricultural subsidies are costly, unsustainable and require serious targeting to avoid moral hazard and selection bias and, in Africa, subsidies are guided by favouritism, not efficiency.  
+
+Africa’s food situation is bound to deteriorate due to increasing population against diminished farmland per household. The sector will further be affected by increased frequencies, unpredictability, severity and length of droughts and floods. Furthermore, without synthetic fertilisers, heavily cultivated plots can only yield poor harvests due to exhausted soil nutrients.  
+
+It is commendable that there are efforts to develop and use high-yielding, early-maturing and drought-resistant crop varieties. Other partners, including the AfDB and USAid, spend considerable resources on unsustainable interventions that are simply not cost-effective.  
+
+African governments and their partners point to their growing agriculture budgets to emphasise their commitment. However, simultaneous increase in food imports and resource commitment to agricultural activities is indicative of poor strategies.  
+
+Irrigation schemes 
+
+For instance, they praise their experimentation with costly digital technologies such as irrigation systems, soil sensors, e-commerce platforms and drones even when they have negligible contribution towards Africa’s daunting food problem. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Irrigation schemes barely generate enough returns to be cost-effective in Africa, let alone finance rehabilitation. They also pose serious threats to the fragile river systems. In West Africa, a study of three large irrigation schemes found that, even after many years, three out of four participants remained poor and needed food aid.  
+
+We know Galana Kulalu was a complete waste. Farmers in relatively small irrigation projects in Ukambani can barely produce enough to meet their consumption needs and cover direct costs such as electricity or water bills. Without handholding, these projects would, certainly, collapse.There are simple, cost-effective strategies that have worked in at least two African countries: Malawi and Burkina Faso.  
+
+Ignoring scepticism and opposition, President Bingu wa Mutharika launched a fertiliser subsidy programme for Malawian farmers in 2005. In the first year, maize production more than doubled — from 1.2 million tonnes to 2.7 million tonnes — making Malawi a net food exporter. Burkina Faso experienced similar success with subsidies in the 1980s.  
+
+While these examples are known, FAO and other agencies will not cite subsidies as a possible strategy for promoting self-sufficiency and tackling Africa’s chronic food problem. Instead of supporting their farmers, African governments perpetually give up their meager wealth in exchange for food grown by some subsidised farmer overseas. 
+
+Mr Chesoli is a New York-based development economist and global policy expert. kenchesoli@gmail.com. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Africa’s dire circumstances reflect a failure of its political and intellectual class to find sustainable paths for economic growth. Under President Uhuru Kenyatta, the country has registered nothing but phantom growth. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
