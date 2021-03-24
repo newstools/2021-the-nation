@@ -1,0 +1,227 @@
+A state land’s agency is not yet off the hook over the irregular compensation for land on which to build a railway line, which saw a family in Mombasa, whose plot was compulsorily acquired for the project, deprived of Sh519 million. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Environment and Land Court in Mombasa has opened proceedings to interrogate how a case filed by the family of the late James Kamau Thiong’o was fraudulently withdrawn, without their involvement, making them lose millions of shillings in compensation. 
+
+An advocate Mr Njenga Jeremy Mbugua, who is alleged to have entered into a consent with his counterparts representing the National Land Commission (NLC) in the dispute, has been summoned for interrogation on why he acted without instructions from the deceased’s family. 
+
+The summons was issued after the administrators of the deceased’s estate Monica Wambui and Zacharia Njenga, went to court to seek suspension of the orders marking the suit as withdrawn, and further demand its reinstatement.   
+
+The family alleges that shortly after their case was irregularly withdrawn, NLC proceeded and awarded African Gas and Oil Company Ltd (AGOL) Sh519 million. The family laments that payment was made to this company without the NLC first confirming the legality of the title document in its possession. 
+
+The family and the oil company are both claiming ownership of part of the LR No MN/VI/755 in Miritini, Mombasa, which was compulsorily acquired by the government for the Standard Gauge Railway (SGR)project    
+
+“Despite the NLC being served with the extracted order and penal notice of the injunctive order issued by the court, the commission inexplicably and in blatant contempt of the directive, authorised and paid out the monies to AGOL to our detriment,” said the family. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Through advocate Patrick Muchena, the family argued that Mr Njenga, who purported to represent them and then proceeded to record a consent withdrawing the case, lacked the capacity to do so. 
+
+Mr Muchena told Justice Charles Yano that the consent order withdrawing the case was obtained through gross misrepresentation and fraud by a person who never received instructions to act from either the family or its advocates on record. 
+
+“At no time did the deceased family or our advocates ever instruct Mr Njenga to withdraw the case on our behalf,” the family said in an affidavit filed in court. 
+
+The family wants the case reinstated, saying the matter involves a land dispute and a colossal amount of money, which the court ought to determine on merit so that justice is served. 
+
+“In the interest of justice and fairness, the order withdrawing the case ought to be vacated and the suit herein be reinstated and be heard on merit. The family stand to suffer irreparable damage and loss if this case is not reinstated,” said a representative of the family Mr Joseph Nyingi. 
+
+However, affidavits that have been filed in court to deny the family any compensation indicate that the government had acquired the land in the 1970s, further begging the question how the NLC issued compensation for a property that was already in the hands of the state. 
+
+The document filed by the Registrar of Titles John Wanjohi indicates that the deceased was paid Sh110,690.70 in 1976 before the government took possession of the property. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Upon the land being compulsorily acquired and government taking possession, Mr Thiong’o’s title to the land parcel No. MN/VI/755 was extinguished,” he said. 
+
+However, the registrar claimed that by omission, a restriction was not recorded against the title after completion of the compulsory acquisition process. 
+
+But the family insists that the alleged process of acquisition was not completed in 1976, thereby making them the bona fide owners of the land. 
+
+“We respectively submit that the Gazette Notice issued on March 12, 1976, being a declaration of intention to acquire the subject land is in itself proof that the acquisition of the land could not have been concluded on the same date as alleged by the land registrar,” said Mr Nyingi. 
+
+According to the family, the intention to acquire recorded the purposes for acquisition as “for industrial area, medium and low-cost housing and site and service” hence the claims by the registrar are baseless and intended to deny the family their right of compensation. 
+
+“We submit that where land is compulsorily acquired, it must be used for the purpose for which it was acquired as stated in the Notice of Intention to Acquire. In the instant case, the subject property has not been used for the cited purpose,” said Mr Nyingi through advocate Wameyo Onyango.  
+
+The family argued that what has been presented in court is not evidence of the completion of the acquisition process under the Land Acquisition Act. Case adjourned to April 22, 2021 when DPP will update court on status of investigations. Mr Samboja was vaccinated to motivate the medics to go for their jabs. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
