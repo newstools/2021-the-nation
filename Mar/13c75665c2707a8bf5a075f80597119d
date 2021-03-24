@@ -1,0 +1,79 @@
+His lawyers Harbottle and Lewis said the book "falsely alleges that our client has acted corruptly".In response, the publisher said both it and Belton would "robustly defend the claim and the right to report on matters of considerable public interest". HarperCollins said the book was "an authoritative, important and conscientiously sourced work on contemporary Russia, that was much praised on publication by experts in the field". London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+UK publisher HarperCollins vowed on Tuesday to "robustly defend" a defamation lawsuit filed by Russian oligarch Roman Abramovich over a book that claims he took over Chelsea Football Club at the Kremlin's behest. 
+
+Abramovich said he was suing HarperCollins and journalist Catherine Belton over her 2020 book "Putin's People", which alleges that President Vladimir Putin has overseen a vast exodus of ill-gotten money to spread Russian influence abroad. 
+
+Putin personally instructed Abramovich to buy Chelsea in 2003 as part of the influence operation, according to the book.  
+
+Under Abramovich's free-spending chairmanship, the club has been transformed from one of England's also-rans into a giant of European football. 
+
+"The book contains a number of false and defamatory statements about me, including about my purchase, and the activities, of Chelsea Football Club," Abramovich said in a statement late Monday. 
+
+His lawyers Harbottle and Lewis said the book "falsely alleges that our client has acted corruptly". 
+
+In response, the publisher said both it and Belton would "robustly defend the claim and the right to report on matters of considerable public interest".  
+
+HarperCollins said the book was "an authoritative, important and conscientiously sourced work on contemporary Russia, that was much praised on publication by experts in the field". The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
