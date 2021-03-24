@@ -1,0 +1,165 @@
+Daktari Online, the first doctor-only platform, makes it possible for patients to choose from a plethora of medics, whether male or female or by checking their profiles. Picture this. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+You fall ill at night but most of the treatment facilities near you are shut. You do not have access to a hospital or perhaps the curfew period makes it impossible to move around. What do you do? 
+
+These are the challenges most Kenyans are facing at the moment, especially parents with children bound to catch a cold or other illnesses. 
+
+Most parents reckon it is too risky to be in a hospital as the country battles a third wave of Covid-19 infections. 
+
+A solution could be closer, with an online platform for doctors where you can be diagnosed and have medicine delivered to your doorstep. 
+
+This is through a virtual clinic that hosts over 100 doctors and pharmacists. 
+
+The tool gives users access to online doctor consultations and other medical services while offering doctors an opportunity to serve their clients without leaving their office. 
+
+How it works 
+
+Daktari Online, the first doctor-only platform, makes it possible for patients to choose from a plethora of medics, whether male or female or by checking their profiles. 
+
+The patient pays a consultation fee of Sh1,500 and then downloads an application form, registers by filling in the name and email address, and then commences the consultation with a preferred medic. 
+
+The platform also has a section for patients to record allergies, any medications they are on and the vaccines they have received. 
+
+There is also a section for health metrics such as blood pressure and the blood group. 
+
+How tests are carried out 
+
+Through Daktari Online, patients are also sent for imaging and lab tests if the doctor feels this is necessary. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is arranged by the doctor who emails the prescription and recommendations to the patients. 
+
+“We have pharmacies on board which can deliver the prescriptions. Alternatively, the doctor can send the prescription via email or the patient can download it from the app and purchase the drugs,” says Project Manager Naserian. 
+
+Technology important 
+
+Dr Andrew Were, co-founder and President of the Kenya Medical Association (KMA), says the Covid-19 pandemic has exemplified the need to incorporate technology in patient-doctor interactions. 
+
+“This ensures patients are protected while having quality and affordable health care,” he says. 
+
+“Telemedicine will be the key driver of Universal Health Coverage (UHC). There is a need for the Health ministry to engage all stakeholders in medical technology in the rollout.” 
+
+knasibo@ke.nationmedia.com Covid19 has acted as a catalyst to the integration of digital technologies into healthcare, says expert. It is cheaper and faster, experts argue. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
