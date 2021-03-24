@@ -1,0 +1,89 @@
+Police in Nairobi arrested more than 50 people over the weekend in renewed operations against breach of Ministry of Health directives on prevention of coronavirus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 57 lawbreakers were held at the Kilimani Police Station before they were arraigned at the Kibera Law Courts. 
+
+They were released on community service order. 
+
+
+
+
+
+
+Photo credit: NMS
+
+ 
+
+“They are expected to report at 8am to 5pm for the entire week for their services including clean-up of Marikiti and Muthurua markets, Globe, Nairobi River, as will be assigned,” the order read. 
+
+Those who will skip their sentence, will be rearrested and arraigned in court for a stiffer punishment, officials said. 
+
+Some of the offenders were found drinking in bars beyond stipulated curfew hours, others were found without masks while traders were found not adhering to social distancing rule. 
+
+
+
+
+
+
+Photo credit: NMS People caught breaking curfew or not wearing masks are being sent to stadiums in droves for all-night lectures. Inquiries in top hospitals exposed frustrations families are undergoing to have sick relatives admitted. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
