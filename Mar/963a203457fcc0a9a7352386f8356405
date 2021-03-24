@@ -1,0 +1,145 @@
+A new report by the Ethiopian Human Rights Commission says Eritrean troops murdered unarmed civilians in the historic town of Aksum in Tigray, piling accusations of atrocities on Asmara. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The document released on Wednesday morning reports on incidents when armed Eritrean troops went from house to house asking for men and boys from villages. They then shot them. 
+
+The document, ‘Investigation into Grave Human Rights Violations in Aksum City’ is only preliminary finding, but it came a day after Ethiopian Prime Minister Abiy Ahmed admitted for the first time of the presence of Eritrean troops on Ethiopian soil. 
+
+The report confirmed that on two days,  November 28 and November 29, 2020, “grave violations of human rights” were committed and that in Aksum, more than 100 civilians including tourists on a pilgrimage who were attending to mark the annual Aksum Tsion celebration and IDPs living in the area. “As the residents, families of victims and eyewitnesses described to EHRC, “civilians were killed in front of their children, spouses and mothers.” Eritrean soldiers went door to door asking women “where their husbands or children were” telling them “to bring their sons out if they have any” and asking questions in Tigrinya and shooting at civilian men they dragged out of houses and caught on streets even as the men pleaded saying they were not armed. 
+
+“Families of victims and eyewitnesses identified the attackers as Eritrean soldiers by their distinct Eritrean Tigrinya accent, by the uniforms and shoes they were wearing and a distinct cultural marking on the face of some of the Eritrean soldiers.” 
+
+Eritrea had reacted angrily to earlier findings by Amnesty International and later Human Rights Watch in February, accusing the rights watchdogs of relying on ‘biased’ witnesses among the Tigray People’s Liberation Front (TPLF). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Tuesday, however, Dr Abiy said Eritrean troops had done “favours” to his country when he first launched an operation targeting the erstwhile ruling party, TPLF. But he did say Addis Ababa will not defend atrocities committed by either his own troops or those of Eritrea. 
+
+“However, after the Eritrean army crossed the border and was operating in Ethiopia, any damage it did to our people was unacceptable," he said. 
+
+“We don't accept it because it is the Eritrean army, and we would not accept it if it were our soldiers. The military campaign was against our clearly targeted enemies, not against the people. We have discussed this four or five times with the Eritrean government,” Abiy said. 
+
+The Ethiopian rights watchdog said the crimes were not ‘ordinary’ “but grave contraventions of applicable international and human rights laws and principles, marked by intentionally directed attacks against civilians who were not directly taking part in the hostilities and including intentional looting, destruction and appropriation of property not justified by military necessity (including religious institutions and health facilities). 
+
+“As these grave human rights violations may amount to crimes against humanity or war crimes, it underscores the need for a comprehensive investigation into overall human rights situation in Tigray region.” "I resign from my post in protest of the genocidal war in Tigray, and in protest of all the oppression the government is inflicting Ethiopia," Berhane Kidanemariam said. Conflict in Tigray has become a "dirty war" that is causing suffering for "defenceless" victims, General Tesfamariam told diplomats. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
