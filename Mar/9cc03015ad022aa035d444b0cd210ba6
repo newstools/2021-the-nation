@@ -1,0 +1,239 @@
+Ingram, who was drafted by the Lakers in 2016 but traded away by the club in 2019, sent his former team sliding to defeat in a one-sided game at New Orleans' Smoothie King Center.The Lakers were rocked on Saturday by an injury to James which has left the four-time NBA champion facing several weeks on the sidelines. Los Angeles, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Brandon Ingram scored 36 points as the New Orleans Pelicans took full advantage of LeBron James' injury absence to pummel the Los Angeles Lakers 128-111 on Tuesday. 
+
+Ingram, who was drafted by the Lakers in 2016 but traded away by the club in 2019, sent his former team sliding to defeat in a one-sided game at New Orleans' Smoothie King Center. 
+
+The Lakers were rocked on Saturday by an injury to James which has left the four-time NBA champion facing several weeks on the sidelines. 
+
+With Anthony Davis and Marc Gasol already out injured, the depleted Lakers have now lost three consecutive games to fall to fourth place in the Western Conference standings at 28-16. 
+
+The Pelicans meanwhile remain in the hunt for a playoff berth after a win that sees them improve to 19-24. 
+
+The Pels' superior firepower comfortably overwhelmed the Lakers on Tuesday, with Zion Williamson complementing Ingram's display with a 27-point effort. 
+
+Nickeil Alexander-Walker added 18 points, while Kira Lewis Jr. (16 points), Jaxson Hayes (15) and New Zealander Steven Adams (12) also weighed in with double-digit contributions. 
+
+Montrezl Harrell led the Lakers scoring with 18 points, with Kyle Kuzma and Markieff Morris adding 16 points apiece for the reigning NBA champions. 
+
+Lakers coach Frank Vogel said his team must improve offensively in the absence of James and Davis, but insisted the squad could overcome their absence. 
+
+"Getting us organized offensively is probably my top priority right now," Vogel said. 
+
+"We're staying positive. We've got a great belief in this group that even with LeBron and AD out we can win games down this stretch and that there'll be a silver lining at the end of it." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Suns rising 
+
+In other games Tuesday, Devin Booker scored 23 points and Deandre Ayton added a double-double as the Phoenix Suns extended their winning streak to three games with a 110-100 road win over the Miami Heat. 
+
+The Suns are now in second spot in the Western Conference after improving to 29-13, two games back from leaders Utah. 
+
+The fifth-placed Denver Nuggets meanwhile are closing in on the fourth-placed Lakers after a 110-99 win over the Orlando Magic in Florida. 
+
+Serbian international Nikola Jokic was once again the star man for Denver, delivering another MVP-caliber performance with a triple-double featuring 28 points, 15 rebounds and 10 assists. 
+
+The Denver win played out against the tragic backdrop of Monday's mass shooting in a supermarket in Boulder, Colorado which left 10 people dead. 
+
+In pre-game remarks to media, Nuggets coach Michael Malone fought back tears as he read out the names of each of the victims on Monday's massacre. 
+
+"It's important to turn our attention to where it should be -- which is back in Boulder," Malone said. 
+
+"It feels like we've been here before. Yesterday was another tragedy. Hopefully we can find a way to prevent this happening in the future." 
+
+In Portland, James Harden brushed off the absence of Brooklyn team-mates Kevin Durant and Kyrie Irving to lead the Nets to a 116-112 victory. 
+
+Harden scored 25 points and had 17 assists as the Nets improved to 30-14 to remain hot on the heels of Eastern Conference leaders Philadelphia. 
+
+The Sixers, meanwhile, were pushed all the way by a Golden State Warriors team missing the injured Steph Curry before battling to a 108-98 win in San Francisco. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Philadelphia looked to be cruising to an easy victory after building a 24-point lead in the first half. 
+
+Golden State roared back with a 40-point third quarter to lead by six points midway through the final period. 
+
+Philadelphia outscored the Warriors 28-13 in the final quarter to close out the win, with Tobias Harris scoring 25 points and Australia's Ben Simmons adding 22. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
