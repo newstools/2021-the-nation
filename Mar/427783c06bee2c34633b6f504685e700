@@ -1,0 +1,587 @@
+It wasn’t an easy road to travel.Amuyunzu-Nyamongo had to change her diet, build more endurance and resilience.At her local Church, Amuyunzu-Nyamongo heads the department for health ministries.Amuyunzu-Nyamongo keeps a disciplined daily routine. “Running Granny” Joyce Nduku’s been there, done that. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She celebrated her 56th birthday, over a decade ago, by running a 56-kilometre, ultra-marathon race. 
+
+And “Running Granny” went not just one, but two, further by successfully tackling one of the world’s toughest distance-running events, South Africa’s 90-kilometre Comrades Marathon, back-to-back in 2018 and 2019. 
+
+
+
+
+
+
+Mary Amuyunzu-Nyamongo (centre, carrying a water bottle) crosses the finish line during her 56km run on March 14, 2021. She clocked eight hours, 25 minutes and 21 seconds.
+Photo credit: Pool |
+
+ 
+
+So when she saw her protégé, Mary Amuyunzu-Nyamongo, struggling through the pain barrier at kilometre 36 just over a week ago on March 14, Nduku knew just what her charge was enduring.Dr. Mary Amuyunzu-Nyamongo has an impressive CV. 
+
+A health researcher par excellence, she is the Founder Director of the African Institute for Health and Development. 
+
+Prior to her current role, she worked for, among others, the Kenya Medical Research Institute, Africa Medical Research Foundation and Population Council. 
+
+A Vice-President (African Region) for the International Union for Health Promotion and Education, she also serves on various international committees including Child Health and Mortality Prevention Surveillance and the Agriculture for Nutrition and Health of International Food Policy and Research Institute. 
+
+But away from work, Amuyunzu-Nyamongo – whose doctorate is in anthropology from the University of Cambridge in United Kingdom - is a running enthusiast. 
+
+
+
+
+
+
+Mary Amuyunzu-Nyamongo (centre, carrying a water bottle) is urged on to the finish line by her supporters during her 56km run on March 14, 2021.
+Photo credit: Pool | 
+
+ 
+
+On March 14, she broke into new frontiers by celebrating her 56th birthday with a 56-kilometre, ultra-marathon run whose chief mission was to also raise funds for the construction of a Seventh Day Adventist Church for her community in Karen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The fund raising drive targets Sh50 million and, thanks to her efforts, the initiative is off the ground with over Sh1 million raised largely from Amuyunzu-Nyamongo’s 56-kilometre run alone. 
+
+A run she almost gave up on at kilometre 36 when her knee began to feel the pressure. 
+
+Nduku was at hand to urge her on, sending a moving congratulatory message to her running student shortly after the “56@56 Challenge” ended at the Jomo Kenyatta University of Agriculture and Technology’s Karen campus. 
+
+Having set off at 5.20am, and running an average eight minutes, 56 seconds per kilometres, she completed the 56.62 kilometres in an impressive eight hours, 25 minutes and 21 seconds, burning 3,437 calories in the process! 
+
+“I am so proud of you, seeing what you went through from 35 kilometres. You had severe pain on your both knees and I had to use the cold breeze spray several times for your legs to accept to cover the remaining distance,” Nduku wrote. 
+
+“You're so determined that whatever it takes, you'll have to finish the 56kms. Have you ever seen someone run, jog, walk with serious pains for 20 kilometres? This was incredible! 
+
+“I felt for you when I saw what you were going through to raise money for the construction of your Church. It only takes a strong personality to sacrifice and do it. 
+
+“You're a hero! I'll forever celebrate you. 
+
+“I remember many years ago when I ran this race (in 2010) for my 56th birthday, you told me one day when you turn 56, you will also do this race and it came to pass. 
+
+“You did it for a good cause. The suffering was worth it. May God uphold and bless you and everyone else who participated or facilitated the run to happen.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Amuyunzu-Nyamongo was deeply touched by Nduku’s message. 
+
+
+
+
+
+
+Mary Amuyunzu-Nyamongo (centre, carrying a water bottle) charges to the finish line during her 56km run on March 14, 2021. She clocked eight hours, 25 minutes and 21 seconds.
+Photo credit: Pool | 
+
+ 
+
+Throughout her professional life, she has achieved a great deal, but nothing comes close to the feeling of accomplishing the 56-kilometre run. 
+
+Wears many hats 
+
+Amuyunzu-Nyamongo wears many hats. 
+
+She is currently Secretary-General of the Non-Communicable Diseases Alliance of Kenya and the Vice-President for the African Region for the International Union for Health Promotion and Education. 
+
+She also serves on various international committees including Child Health and Mortality Prevention Surveillance and the Agriculture for Nutrition and Health of International Food Policy and Research Institute. 
+
+She has published widely on health and social development issues including gender, NCDs, neglected tropical diseases, child health, gender-based violence, sexual and reproductive health, and poverty.   
+
+That aside, she is an Adjunct Faculty Member of Strathmore University. 
+
+Before attaining her PhD from the University of Cambridge in 1994, she graduated with a BA (Anthropology) from the University of Nairobi in 1989. 
+
+It was while at the University of Nairobi that her passion for sport deepened, leading her to captain the university’s netball team. 
+
+But it wasn’t until over a decade later that she was bitten by the running bug. 
+
+She would stay up all night to follow Kenyan athletes competing at the 2000 Sydney Olympic Games. 
+
+“I took up running in 2002, and in 2004 I participated in the Standard Chartered Nairobi Marathon, running the 21-kilometre race,” she recalls in our interview as she continues her recovery from the 56-kilometre challenge. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“And then in 2019, I did the 42-kilometre (full marathon) race,” she adds noting that she has missed just two editions of Nairobi’s biggest race since its inception in 2003. 
+
+“But I’ve also been a member of several running groups, including the Urban Swaras, though I don’t run with them much because I worship on the Sabbath and most of the runs are on Saturday.” 
+
+For convenience, Amuyunzu-Nyamongo and her running friends launched Wakimbizi Running Club for Sunday runs. 
+
+“When I moved to Karen, I started a running group for my Church, the Karen Community SDA Church, and we have been running every Sunday from 7am." 
+
+“We started running in January, 2018, but Covid-19 interfered a bit last year, but we have restarted again. 
+
+“With the group, we went to Arusha in 2019 and again last year, just before Covid-19 struck. 
+
+“This year, we really wanted to go again but because of the Covid-19 situation we cancelled that.” 
+
+That’s when the idea of the 56@56 race was mooted. 
+
+“The idea actually stemmed out of the 56-kilometre Two Oceans Marathon in South Africa… 
+
+“One on my friends, Joyce Nduku, did her run there when she turned 56 and then I said I too would do the same. 
+
+“The idea was that I do 42 kilometres at the Kilimanjaro Marathon and get a time and then I do the 56 kilometres in Cape Town 
+
+“But Kilimanjaro didn’t happen, and Cape Town didn’t happen… 
+
+“I run with a group of women and they told me that ‘why should you miss an opportunity, and yet you can do the run on your birthday, because your birthday falls on a Sunday.’ ” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+And that’s how the idea came about, to use the 56-kilometre run to also raise funds for the community Church whose main fund-raising is on March 28. 
+
+“We started planning around it with some of my friends from Urban Swaras who know how to scout the route,” she explains. 
+
+“And then the church wrote to Safaricom and we got a paybill (number 8021719, account: 56@56) from which we so far we have raised Sh1 million.” 
+
+
+
+
+
+
+Mary Amuyunzu-Nyamongo is congratulated by her husband Isaac Nyamongo after finishing the 56km run on March 14, 2021. 
+Photo credit: Pool | 
+
+ 
+
+It wasn’t an easy road to travel. 
+
+Amuyunzu-Nyamongo had to change her diet, build more endurance and resilience. 
+
+“My target usually has been to cover at least 60 kilometres a week. This is what I’ve been working on since last year. 
+
+“But for the preparation for this race, I extended my runs by between 30 and 35 kilometres to assess my resilience and ability to finish the race. 
+
+“And by the time of the race, I was comfortable that I could finish.” 
+
+But tragedy struck at kilometre 36 when she felt she couldn’t push any more. 
+
+Her knees were turning into jelly at the weight of expectation, and she almost called it quits. 
+
+“But I kept saying to myself that if I stopped, it would be fraudulent – this was at 36km! I told myself that if I stopped, someone will say huyu mama alikuwa anatundanganya, alikuwa anajua hatamaliza (she is lying to us as all along she knew that she wouldn’t finish)… 
+
+“So I told my friends that even if it means crawling back, even if it takes the whole day, I will finish the 56 kilometres.” 
+
+Her supporting cast, including her husband, Professor Isaac Nyamongo (a Deputy Vice-Chancellor at the Co-operative University of Kenya and also a PhD holder in Medical Anthropology) played a huge role, urging her on. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“I had a very supportive team at home, at Church and my friends kept rooting for me. 
+
+“I had a lot of support too from my sons, friends from various groups who followed in vehicles and water and made sure I was very well hydrated during the run… and I finished like a Kipchoge! 
+
+“People waited until I finished and we danced at the end of the race.” 
+
+At her local Church, Amuyunzu-Nyamongo heads the department for health ministries. 
+
+“We use sports for evangelism quite a lot. 
+
+“We plan two hikes every year we have a sports day towards the end of the year, every December, where we do runs, basketball, football… 
+
+“I see it as a key evangelistic mission for the church. 
+
+“At the same time, I’m the Secretary-General of the Non-Communicable Diseases Alliance of Kenya from where I see the importance of keeping physically fit. 
+
+“As you know, lack of physical activity is one of the key risk factors even in the fight against Covid-19. 
+
+“In Covid-19, the people who are suffering are those who are obese. If you have diabetes or non-communicable diseases, then you are at a higher risk of having severe symptoms of succumbing to Covid-19. 
+
+“At the Church, we use physical activity as a way of keeping physically and spiritually alive.” 
+
+Just how does the mother of three sons – Jared, Jansen and Jamie Nyamongo - juggle between her busy academic and professional life, family time and sport? 
+
+“This is where balance becomes important,” she explains. 
+
+“In these workplaces, you have to prioritise yourself. If you don’t set aside time to run or exercise, then you are not even useful to the office you work for. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“If you passed on today, they (employers) will say you were very good but we need someone to finish this report…” 
+
+
+
+
+
+
+Mary Amuyunzu-Nyamongo (centre) warms down with her supporting cast after the 56km run.
+Photo credit: Pool | 
+
+ 
+
+Amuyunzu-Nyamongo keeps a disciplined daily routine. 
+
+“I try to run early morning, from 6am or 6.30am, and by 8am I’m back, just to make sure I slot in physical activity either early morning or late evening… 
+
+“Even when I travel, in every city I go to, I make sure I run. 
+
+“In fact, the first things I pack are my shoes and running gear… Physical activity is about personal commitment, not group psychology.” 
+
+Amuyunzu-Nyamongo is disappointed that sport isn’t taken seriously in Kenya. 
+
+“There’s a very sad state of affairs in our country. We have so much talent and leverage from international acclaim, but as a country, we never take it seriously. 
+
+“Physical activity has never been taken seriously until 2010, perhaps, when we launched the NCD global commitment. 
+
+“There has been a lot of focus globally on health-promoting cities, health-promoting schools and communities that have set aside space for physical activity. 
+
+“That way we are beginning to see health returns in investing in ensuring people have a place to walk to exercise. 
+
+“I was in San Diego recently and they have actually allocated walking spaces. There are many cities now with non-motorable spaces where people get to walk. 
+
+“Kisumu is doing a great job, I hope they maintain it. You can actually designate an area where there are no cars, there’s walking space and fresh food. 
+
+“Globally, people are beginning to appreciate the role of physical activity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Our problem is cultural because culturally, physical acidity was about children running around. How do you tell your grandmother to work out for 30 minutes a day?” 
+
+So what next for her after the 56-kilometre run? 
+
+“For me, just motivating other people is an achievement. 
+
+“I will continue running. I will continue exercising and motivating people. 
+
+“I’ll use this opportunity to motivate people on how to creatively use milestones to, one, spread good cheer and motivate people to see what your limits are, and, two, also for a good cause – always put a cause to what you do.” 
+
+But Amuyunzu-Nyamongo also wants to try out the big city marathons. 
+
+“I’d like to do something different… I want to run in Berlin, Paris... And of course the Kilimanjaro Marathon next year. It has good hills and a great course.” 
+
+Her body is feeling well, and even the day after the big run, she embarked on a six-kilometre walk as part of her “active rest.” 
+
+“I’m listening to my knee a bit, I might want to have it checked, but I’m feeling good! 
+
+“I have a friend who runs 100 kilometres and when he finishes, he smiles. I always wondered how you can smile after running 100 kilometres. 
+
+“But when I finished my 56 kilometres, I smiled, and so I think I will also smile when I finish 100!” 
+
+
+
+
+
+
+Lawyer Patricial Nyaundi ran 51 kilometres in support of Mary Amuyunzu-Nyamongo's cause.
+Photo credit: Pool | 
+
+ 
+
+Amuyunzu-Nyamongo will now turn her focus on rallying more contributions towards the Church project. 
+
+Meanwhile, donations are being received through Paybill number 8021719, account: 56@56. 
+
+emakori@ke.nationmedia.com Mulee admitted that Okumu’s injury is a big blow to the team. Philadelphia looked to be cruising to an easy victory after building a 24-point lead in the first half. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
