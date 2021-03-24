@@ -1,0 +1,114 @@
+ Authorities say the attackers were targeting government officers transporting KCPE papers. Three people died on Wednesday morning after an explosive hit the bus they were travelling in Mandera.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Authorities said the attackers were targeting government officials transporting examination papers.  
+
+The incident happened at around 8am on the Mandera-Arabia road as the bus was heading to Mandera town from Lafey. 
+
+
+
+
+
+
+Photo credit: Manase Otsialo | Nation Media Group
+
+ 
+
+Survivors of the attack said the bus left Lafey at about 6am passed through Fino and Arabia. 
+
+“We were within Koromey area when I suddenly found myself in the thicket,” said Mr Ali Harun, a survivor. 
+
+He said there were about 40 passengers on board and that many were coming into Mandera for business activities. 
+
+Preliminary reports by the police indicated the explosive planted at night targeted government officers delivering examination papers to schools in Mandera. 
+
+
+
+
+
+
+Photo credit: Manase Otsialo | Nation Media Group
+
+ 
+
+“The IED targeted our officers delivering examinations only to hit the bus coming into Mandera town from Arabia direction,” police said. 
+
+The victims were taken to Mandera County Referral Hospital for treatment. 
+
+“We don’t have blood at our blood bank at the moment yet most of the patients need blood. We might lose more people due to lack of blood,” a medical staff who sought on anonymity said. 
+
+The hospital management has called on residents to donate blood and save lives. 
+
+
+
+
+
+
+Photo credit: Manase Otsialo | Nation Media Group
+
+ 
+
+The Wednesday morning incident comes several days after an attempted attack on Arabia Border Patrol Police camp. 
+
+On Sunday evening, the militants fired at least two Rocket Propelled Grenades (RPG) at the camp but the officers on guard managed to repulse the attackers. This is the second time Mandera is suffering a shortage due to terrorism. Police say at least eight travellers were wounded when suspected Al-Shabaab militants sprayed the vehicle with bullets. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
