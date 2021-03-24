@@ -1,0 +1,291 @@
+The efficacy of the Russian vaccine is rated at 91.6 per cent as per data published in the Lancet.This means that Sputnik V is one of three vaccines in the world with efficacy of over 90 per cent. As the scramble for Covid-19 vaccine jabs intensifies in the country due to a deadly third wave, Sputnik V, the Russian coronavirus vaccine, has found its way into the country.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Ministry of Health (MoH), however, insists it is not part of any agreement allowing distribution and sale of Sputnik V to Kenyans.  
+
+Dr Willis Akhwale, who is Kenya's vaccine advisory taskforce chairman, on Tuesday told the Nation that he is not privy to any discussions with anyone that arrived at such a decision at the ministry. 
+
+"I am not aware and the taskforce has not agreed to anything concerning Sputnik V, the pricing was definitely not done by us," he said.  
+
+Official communication between some MoH officials as seen by Nation however mentions Harleys and Unisel as distributors appointed by Dinlas EPZ who have a long-term relationship with Gamaleya as the ones interested in getting an approval to distribute the vaccine in the country. 
+
+"This application for distributorship is yet to be approved by PPB, a technical agreement stipulating the responsibilities of all the parties has not been submitted to PPB, the persons and entities are being summoned to appear before the Pharmacy and Poisons Board (PPB)," the communication reads in part. 
+
+The drug control board in response to queries from the Nation denied any involvement in the distribution of the vaccine maintaining that its role in all these has only been to test and give approvals for the use but not distribution and pricing. 
+
+"MoH will have answers for you on that because they deal with distribution of health products and pricing, not us," board said. 
+
+Update: PPB, via its official handle on Twitter, said it has given Emergency Use Authorisation to Sputnik V. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+@ppbkenya has given Emergency Use Authorization to AstraZeneca vaccine and the Sputnik V vaccine after a successful evaluation process. This is not a registration.— Pharmacy and Poisons (@ppbkenya) March 24, 2021  
+
+
+The application for Emergency Use Authorization of the Russia’s Sputnik V vaccine has been approved after it met all requirements https://t.co/VkS2WmThMe— Pharmacy and Poisons (@ppbkenya) March 24, 2021  
+
+Over a week ago, Russian Direct Investment Fund (RDIF), the country's sovereign wealth fund, announced the approval of the use of Sputnik V in Kenya on its official website. 
+
+The efficacy of the vaccine is rated at 91.6 per cent as per data published in the Lancet, one of the world's most trusted medical journals. 
+
+This means that Sputnik V is one of three vaccines in the world with efficacy of over 90 per cent. 
+
+The Pharmacy and Poisons Board then confirmed to Nation that the Russian vaccine application had indeed been evaluated and approved. 
+
+But this did not imply registration, according to the regulator. 
+
+"The initial application was submitted on 5th February 2021. First round assessment on quality, efficacy and safety was initiated on 08th February 2021 (with rolling submission of data) and completed on 24th February 2021 and communication sent out the same day. The application was not successful during the first but in the second round of assessment following the applicant's response to outstanding questions was completed on 5th March during which it met all requirements," the regulatory body said in an email response to the Nation. 
+
+Local distributors 
+
+The board added that in reviewing Sputnik V it considered all aspects of quality, safety and efficacy and found that it is wholesomely safe but MoH has not yet decided to use the vaccine as it is not included in the national vaccination program. 
+
+Investigations by the Nation led to a Kenyan man of Asian descent in Nairobi along Lenana Road who claims to be among the distributors of the vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The middle-aged man disclosed that the consignment of Sputnik V vaccines had made its way into the country through the port of Mombasa and was awaiting to be sold. 
+
+He added that a similar consignment was on its way and would arrive on Friday. 
+
+Mombasa is Africa's fifth-busiest harbor handling cargo for the whole of East Africa and parts of Central Africa according to a 2020 report by financial advisory firm Okan and the Africa CEO Forum.  
+
+Unfortunately, the coastal city has the reputation of being a major entry point for narcotics from the Middle East and illicit pharmaceuticals from Asia, according to ENACT Observer. 
+
+As from 2020 there has been increasing talk in East African intelligence and law enforcement circles on the role Mombasa could play in facilitating shipments of falsified and substandard Covid-19 vaccines.  
+
+Vaccine taskforce 
+
+Another member of Kenya's vaccine taskforce who sought anonymity confirmed that indeed an unknown quantity of the Russian vaccine is currently in the country. 
+
+"I have been informed that imported Sputnik V vaccines have not been released from the warehouse awaiting technical agreement on the proposed insurance with MoH and AG. This said, any advertisement of any kind is in contravention of the law and conditions stipulated in Emergency Use Authorisation (EUA) and necessary actions will need to be taken," our source said. 
+
+Sputnik V is already in use in Russia, Belarus, Argentina, Bolivia, Serbia, Algeria, Palestine, Venezuela, Paraguay, Turkmenistan, Hungary, UAE, Iran, Republic of Guinea, Tunisia, Armenia, Mexico, Nicaragua and Republika Srpska (entity of Bosnia and Herzegovina). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Other countries where the vaccines is in use are Lebanon, Myanmar, Pakistan, Mongolia, Bahrain, Montenegro, Saint Vincent and the Grenadines, Kazakhstan, Uzbekistan, Gabon, San-Marino, Ghana, Syria, Kyrgyzstan and Guyana. 
+
+It is also in use in Egypt, Honduras, Guatemala, Moldova, Slovakia, Angola, Republic of the Congo, Djibouti, Sri Lanka, Laos, Iraq and North Macedonia.  
+
+Two weeks ago, European Medicines Agency (EMA) cautioned European Union (EU) members to delay granting national authorisation for the Russian-developed vaccine until the agency finishes its safety review. 
+
+"We need documents that we can review. We also don't at the moment have data about vaccinated people," EMA Managing Board chief Christa Wirthumer-Hoche told Austrian broadcaster ORF. 
+
+"It is unknown. That's why I would urgently advise against giving a national emergency authorisation," she explained. The efficacy of the vaccine is rated at 91.6 per cent as per data published in the Lancet. The Sputnik V vaccine gives around 92 per cent protection, is safe and offers complete protection against hospitalisation and death. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
