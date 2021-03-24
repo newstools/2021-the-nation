@@ -1,0 +1,151 @@
+Kenya has made significant progress despite formidable challenges posed by the Covid-19 pandemic.But the fear of contracting the virus has discouraged many from visiting health facilities even if they display TB symptoms. Tuberculosis (TB) killed 1.4 million people in 2019 — more than HIV and malaria combined. World leaders committed to eradicate it by 2030. This World TB Day, the theme “The Clock is Ticking” reminds us that we have under a decade to eradicate the deadliest infectious disease. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kenya is a critical part of the global effort through the National TB Programme, which the United States supports through testing, treatment and training for healthcare workers and awareness campaigns. Treatment is free in public health facilities.  
+
+TB is curable. Kenya has made significant progress despite formidable challenges posed by the Covid-19 pandemic. But the fear of contracting the virus has discouraged many from visiting health facilities even if they display TB symptoms and precious time is lost before testing and treatment.  
+
+In 2019, TB, which attacks the lungs and other organs, infected 140,000 Kenyans, including 8,393 children, killing 33,000. HIV status does not determine your risk of contracting TB. Of the TB deaths in 2019, 20,000 were HIV-negative. 
+
+More than half of TB patients are men and 40 per cent of new cases are undetected. There is evidence that masking reduces the spread of respiratory illnesses, though it does not replace the need to identify, test and treat TB. 
+
+The US commits Sh60 billion yearly to combating TB, HIV/Aids and malaria in Kenya. The US Agency for International Development (USAid) and the US Centers for Disease Control and Prevention (CDC) support the Ministry of Health’s prevention and control programmes. USAid supported a mass media TB campaign amid the pandemic. 
+
+Komesha TB campaign 
+
+The US trained more than 2,000 healthcare workers and supported community outreach and screening efforts to find missing TB cases and raise awareness.  
+
+USAid helped to identify 73,000 TB cases last year and helps TB patients to complete treatment with an 85 per cent success rate. It’s also helping Kenya to launch anti-TB policies and injection-free treatment with fewer side-effects for drug-resistant strains.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+CDC is supporting quality control of TB testing and creating a patient-centred approach to treatment. With its guidance and expertise, the ministry’s revisions to infection prevention and control guidelines with Covid-19 components. CDC backs counties’ integrated TB and Covid-19 programmes. 
+
+It is particularly difficult to diagnose TB in young children as they require special testing and treatment. CDC research found that samples collected with less invasive techniques from minors under five yielded similar results, making it easier to test young children. 
+
+With USAid support, the Komesha TB campaign helped to diagnose more than 100 children amid the pandemic. CDC has also adopted a “fishnet approach” to tracking TB cases by integrating TB, Covid-19 and HIV screening among all ages.  
+
+TB can affect anyone. Learn about TB, recognise the symptoms and seek help if you think you are infected. We are in this together. Please join the effort to end TB for good: Pimwa TB, TiBiwa, Ishi poa! 
+
+Mr Kneedler is Chargé d’Affaires, a.i., at the US Embassy, Nairobi. NairobiPas@state.gov. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
