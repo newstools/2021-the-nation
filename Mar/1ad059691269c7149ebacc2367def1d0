@@ -1,0 +1,235 @@
+The plan to set up a power plant to recycle waste at Nairobi’s Dandora dumpsite now faces another delay, with a feasibility study into the project only beginning this month. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is after the Kenya Electricity Generating Company (KenGen) said the feasibility study for the waste-to-energy project commenced this month and will take up to six months to be completed. 
+
+The tendering process for the project was to begin in December 2020 but this was pushed to January 2021 after the process encountered some delays. 
+
+Concerns over delay 
+
+Last week, Nairobi MCAs raised concerns over the delay in commencement of the project and sought to know its implementation status. 
+
+In a request for a statement, Dandora Area II MCA Silas Matara tasked the Nairobi County Assembly’s Environment committee to inquire about the project’s status as the ward representatives complained of increased pile up of garbage across the city. 
+
+However, according to KenGen, which is implementing the project, the viability of the venture will only be known at the end of the study. 
+
+The study will also determine the cost of the project among other parameters that will determine the next steps in the project. 
+
+The consultant tapped by KenGen is a regional consulting engineering firm which specialises in water and wastewater services. 
+
+Last year in August, KenGen invited expressions of interest from eligible consultancy firms to conduct a feasibility study for development and operation of the waste-to-energy plant. 
+
+“We have signed a consultancy contract with a firm to carry out a feasibility study for the waste-to-energy project. The consultant has started work and the feasibility study will be comprehensive and will help to fast track the project’s implementation,” said KenGen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last year, KenGen entered into partnership with the Nairobi Metropolitan Services (NMS) to generate electricity by installing a municipal waste-to-energy power plant whose overall objective is to clean up the environment while generating power for the country’s national development. 
+
+This is after a mooted public-private partnership by NMS was ditched after the Ministry of Energy took it upon itself to build the factory at the Dandora dumpsite to harness energy. 
+
+Under the deal, KenGen said the NMS will make available the land within or around the Dandora dumpsite, while the power generating company will finance, develop and operate the plant. 
+
+Implementation team 
+
+Already, KenGen and NMS have established a project implementation team to deliver the project. 
+
+“Ours is provision of garbage and we are fulfilling this by ensuring that all the garbage collected in the city ends up at Dandora dumpsite. KenGen has finished procurement and will soon be setting up that plant,” said Mr Badi. 
+
+The NMS director-general said the power plant will solve the city’s garbage problem and contribute to the renewable energy pool. 
+
+The Dandora dumpsite – Nairobi’s largest official garbage disposal site – is more than three times full, holding more than 1.8 million tonnes of solid waste against a capacity of 500,000 tonnes. 
+
+On the other hand, the more than four million Nairobi residents produce over 3,000 tonnes of waste daily, with NMS only collecting 2,000 tonnes of garbage in a day. 
+
+The city MCAs want to know whether public participation on the project was or is being carried out as required by law and if residents of Dandora and the people working at the dumpsite were given an opportunity to air their views. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is in addition to health mitigation measures put in place by KenGen and NMS before commencement of the project. 
+
+“The garbage issue is getting out of hand and I would like a well stipulated schedule as to how NMS is going to deal with that matter and how soon,” said Mlango Kubwa MCA Patricia Mutheu. 
+
+ 
+
+comulo@ke.nationmedia.com Street children will be hired to sort the garbage before it is taken to the factory. The plant is expected to sustainably solve Nairobi’s garbage problem but also add to the country’s renewable energy pool. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
