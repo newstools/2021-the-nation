@@ -1,0 +1,341 @@
+Funan Qumbi and Funan Idha in Marsabit county, about 650 kilometres from Nairobi, have turned into ghost towns. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The desolate landscape on the Turbi and Sololo wards border is where the long-standing animosity between the Gabra and Borana communities is playing out. 
+
+Except for the scouts watching out on anyone approaching, homes and classrooms in Funan Qumbi and Funan Idha are deserted. 
+
+The trust among neighbours is lost and continues to grow worse, owing to recent killings and ethnic clashes, the latest in the last two months. 
+
+Countless lives 
+
+Livestock theft has been reported and fierce clashes over pasture and watering points cost countless lives. 
+
+A person was killed in a shoot-out as a group attempted to recover more than 100 cattle stolen in Funan Qumbi on January 28. 
+
+Another raid had taken place two weeks before that in Funan Idha on January 14. More than 1,000 cattle were stolen and a villager killed. 
+
+
+
+
+
+
+The Gabra community living along the Kenya-Ethiopia border in Forole town.
+Photo credit: File | Nation Media Group
+
+ 
+
+The next day, another attack occurred at Halakhe Yaya dam in Saku, leading to the death of two herders and theft of more than 500 animals. 
+
+The deadly attacks are the reason residents of the two centres have sought refuge elsewhere. 
+
+This region of Turbi is the theatre of the worst chapter in the incessant conflicts between the two Oromo sub-tribes. 
+
+It was the staging ground for a bloodbath 15 years ago. 
+
+On the morning of July 12, 2005, at least 56 people, including 21 children, were killed in an attack believed to have been sparked by competition for water and pasture. 
+
+It became known as the Turbi Massacre. 
+
+
+
+
+
+
+A lorry ferrying goods  to Moyale via Isiolo-Marsabit-Moyale highway on March 17, 2021.
+Photo credit: Joseph Kanyi | Nation Media Group
+
+ 
+
+More than a decade and a half and countless peace meetings later, the killings and the hatred continue. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the catalyst has changed from competition for grass and water to greed for power and the privileges and money that come with it. 
+
+For the Oromo people who occupy southern Ethiopia and northern Kenya, the Gabra and Borana are brothers. 
+
+However, the appetite for political power and control of resources has turned these two Oromo sub-communities into sworn enemies. 
+
+“The Gabra and Borana speak the same language, but they fight like the worst of enemies,” Sololo Deputy County Commissioner Dennis Kyeti said recently. 
+
+Historically, the conflict between the two pastoralist communities was over pasture and water. However, the dynamics have shifted to the control of a Sh6 billion annual fund. 
+
+Both sides want to run the county government of Marsabit and have the power to direct resources towards their people. 
+
+
+
+
+
+
+Ukur Yattani is evacuated from Moyale sub-county on August 31, 2013 in a convoy of vehicles.
+Photo credit: File | Nation Media Group
+
+ 
+
+“Devolution was expected to end the fighting. All communities were to unite and decide on how to share the resources and improve livelihoods. Unfortunately, that is not the case here,” Mr Kyeti said. 
+
+With the historical injustices not addressed and “our man” syndrome taking root, the mistrust between these communities is growing by the day. 
+
+With the country promulgating a new Constitution on August 27, 2010 and devolution replacing the old order in 2013, Ukur Yatani — a Gabra — was elected first governor of Marsabit county. He lost in the re-election bid to Mr Mohamud Ali — a Borana — in 2017. 
+
+He was made a Labour Cabinet Secretary before taking over the finance docket from suspended Henry Rotich. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Same accusations 
+
+During his five-year tenure as Marsabit governor, the Borana accused Mr Yatani of nepotism and favouritism in the execution of development projects. The tables turned in 2017, with the Gabra trading the same accusations against Mr Ali. 
+
+The endless accusations by the two communities against each has left the government at a crossroads. 
+
+Multiple efforts to end the violence and killings have borne little or no fruit. 
+
+At the same time, administrative boundary disputes and community claims over land abound. 
+
+The Gabra and the Borana have claimed and attempted to take, sometimes forcibly, land they insist is historically theirs. 
+
+The killing of 11 Gabra elders in Forole two years ago, for instance, is said to have been preceded by a tussle for community land. 
+
+The Gabra said the land is sacred, opposing the settlement of the Borana on it. 
+
+The elders met their deaths in May 2019 when they were duped into attending a meeting to end the long-standing dispute. 
+
+Proliferation of small arms has made the feud even more deadly, with leaders accused of buying guns for militia. 
+
+The porous Kenya-South Sudan, Kenya, Ethiopia and Kenya-Somalia borders has made it impossible to stop firearms from finding their way into the country. 
+
+Even more worrying, the warring parties often ask for reinforcements from their kinsmen in Ethiopia, with each building militias. 
+
+Local politicians and community leaders are said to be behind the smuggling of arms from neighbouring countries. 
+
+As of September last year, there were more than 100,000 illegal firearms in the hands of civilians in the region, according to the National Cohesion and Integration Commission. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Ethnic profiling and the thirst for revenge are emerging to be another serious problem. 
+
+Vicious cycle 
+
+A community will seek revenge on another over a crime that occurred far away. 
+
+“If one person is killed in Sololo today, you are likely to hear of a revenge attack in a village hundreds of kilometres away. This vicious cycle makes it very difficult to tame the violence,” the deputy county commissioner said. 
+
+nkomu@ke.nationmedia.com 
+
+Tomorrow: How tribal clashes fuel illegal arms trade Natala’s body bore various marks of injuries on its hands, legs, shoulders and neck. Authorities say the attackers were targeting government officers transporting KCPE papers. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
