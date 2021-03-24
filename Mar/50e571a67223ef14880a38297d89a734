@@ -1,0 +1,153 @@
+Kajiado County Government Alcoholic Drinks Control Board has increased levies paid by bar owners in an effort to boost its drying county coffers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A single business licence that used to cost Sh15,000 last year has shot up to Sh30,000 this year, forcing some operators to close down their businesses. 
+
+Public health license charges have been increased from Sh8,000 to Sh12,000 while the liquor licence meant for bars and restaurants has been increased to Sh30,000 from Sh20,000. 
+
+The new charges, which came into effect in January 2021, affected 90 percent of the more than 3,632 bars across the county. 
+
+The worst hit are those in the metropolitan areas like Ngong, Ong'ata Rongai, Kiserian, and Kitengela towns, among others. 
+
+In these urban centres, meat eating joints, which double up as bars and restaurants, are a lucrative source of revenue for the county. 
+
+Kajiado East Sub County Bar Owners Association chairman Stanley Njuguna lamented that the new levies are exorbitant at a time that businesses are experiencing losses due to the effects of the Covid-19 pandemic. 
+
+Mr Njuguna accused the county government of ignoring bar owners' pleas to reduce the levies adding that the new charges were effected before a public participation forum was constituted. 
+
+"Bars and restaurants remain among the highest revenue earners for the county government of Kajiado but our grievances are being trashed by relevant authorities. Let the county government not kill the goose that lays golden eggs for them," Mr Njuguna told a press conference in Kitengela on Tuesday. 
+
+Disbanded 
+
+The bar operators  claim that the enforcement officers are demanding for licences even before the clubs are inspected by the liquor board. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bar and restaurants operation duration has been reduced in line with Ministry of Health Covid-19 protocols. 
+
+The organisation wants the new charges reviewed and the liquor licensing board disbanded claiming it has been inept and was an epicentre of corruption. 
+
+"We want the liquor board disbanded. They have been colluding with police officers to harass our people and take bribes. It is enough and we might be forced to move to court," said Fredrick Chege, the bar owners association patron. 
+
+County liquor licensing board chairman Johna Marahpash said he was unable to explain the levy increment. Players in the tourism industry say harmonisation of taxes and levies will attract more domestic tourists and further create jobs in the sector. They were shut down after residents complained of noise and disturbance. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
