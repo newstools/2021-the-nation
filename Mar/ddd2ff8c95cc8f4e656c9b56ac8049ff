@@ -1,0 +1,153 @@
+Heavy penalties should be imposed on those who fail to vote without a valid reason.This should be viewed as civic duty and a responsibility towards good governance. Since the promulgation of the current Constitution in 2010, Kenya has conducted two general elections — in 2013 and 2017. It would be prudent to critically examine the extent to which legitimacy for leadership through these elections has been achieved. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Independent Electoral and Boundaries Commission (IEBC) data show there were 12,616,627 registered voters during the second referendum in 2010 (which brought about the Constitution) with an impressive 70.44 per cent voter turnout.  
+
+The number of ballots cast in favour of the Constitution, for the ‘Yes’ camp, was 6,092,593, or 68.55 per cent of the 8,887,652 valid votes cast, with the ‘No’ camp managing 2,795,059 votes, or 31.45 per cent. There was no rejected, invalid or spoilt ballot. 
+
+During the 2013 General Election, there were 14,352,533 registered voters — an increase of 1,735,906, or 13.8 per cent, from 2010. The number of ballots cast was 12,330,028, a whopping 85.91 per cent turnout. The valid votes cast in the presidential poll were 12,221,053. Therefore, there were 108, 975 spoilt ballots, or 0.88 per cent of votes cast. 
+
+In the 2017 General Election, there were 19,611,423 registered voters — an increase of 5,258,890, or a massive 36.64 per cent. There were 15,114,622 ballots cast in the August presidential election with 81,685 spoilt votes — a 0.53 per cent decline from 0.88 per cent in 2013. 
+
+Higher voter turnout 
+
+There was a 78 per cent turnout in the presidential election — which means that 4,496,801, or only 22 per cent, of registered voters shunned the poll. 
+
+Comparing voter turnout in the 2010 referendum to the past two presidential elections was 74 per cent, 86 per cent and 78 per cent, respectively.  
+
+Essentially, the 2013 election being a transitional one, voter turnout was higher than in 2017. The tally of rejected votes plummeted by 25 per cent in 2017 to 81,685 from 108,975 in 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No doubt, there was a marked increase in voter turnout from 70.44 per cent in the 2010 referendum to 85.91 per cent in 2013 presidential election without the incumbent on the ballot. 
+
+This, however, notably dropped to 78 per cent in the 2017 presidential poll with an incumbent vying. 
+
+Based on projections from voter registration trends in the past two elections, in the forthcoming 2022 General Election, there is a likelihood of the IEBC registering some 25 million voters.  
+
+The country is at another constitutional moment through the Constitution of Kenya (Amendment) Bill 2020 — popularly, the Building Bridges Initiative (BBI). 
+
+This is an opportune moment to legislate mandatory voting, where all eligible citizens must register and vote in the elections with heavy penalties imposed on those who fail to do so without a valid reason. This should be viewed as civic duty and a responsibility towards good governance. 
+
+Dr Gitu (PhD), an educator, is a governance, policy and strategy adviser. njau.gitu@gmail.com @GNjauGitu The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
