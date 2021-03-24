@@ -1,0 +1,81 @@
+The number of people visiting hospitals in Maara Sub County for tuberculosis (TB) tests and treatment has gone down during the Covid-19 pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Speaking to journalists in Chogoria town on Tuesday, Maara Sub County public health officer Njagi Murata said the patients are avoiding health facilities for the fear of being tested for Covid-19. 
+
+Mr Murata said they have been forced to go round the villages in the region testing people exhibiting symptoms similar to those of TB such as persistent coughing, loss of appetite, night sweats and fever. 
+
+He said they have teamed up with Village Hopecore International, a non-governmental organisation in the exercise, which includes sensitising the residents on the need to go for treatment. 
+
+Health volunteers 
+
+He said public health officers with the help of community health volunteers will continue monitoring the villages and ensuring that those diagnosed with the disease complete their full doses. 
+
+“We noticed that very few people are going for tests or seeking treatment for TB during the Covod-19 pandemic and that is why we have partnered with Village Hopecore International in reaching them in their homes,” said Mr Murata. 
+
+He assured the locals that health officers can differentiate between Covid-19 and TB disease. 
+
+Mr Murata said they are also sensitising people on the health measures to take to avoid contracting coronavirus. 
+
+He advised parents to ensure that their children avoid unnecessary movement during the school holiday to avoid the ravaging pandemic. The clinics provide affordable health services to vulnerable communities in urban slums. Interruptions brought about by Covid-19 pandemic could lead to many deaths, experts say. The DP is facing a fresh political onslaught from, pro-BBI leaders keen to lock him out of their regions in the 2022 succession race. Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. The government is citing national security threats posed by some of the refugees.
