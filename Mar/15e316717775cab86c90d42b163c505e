@@ -1,0 +1,73 @@
+Dar es Salaam. The remains of five members of the same family who died after being trampled on at the funeral procession of the late Tanzanian president John Magufuli at Uhuru Stadium in Dar es Salaam will be buried today (Thursday). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The relatives are Susan Mtuwa and her two children Nathan (6) and Natalia (5) along with two children of her in-laws, Chris (11) and Michelle (8). 
+
+The whereabouts of the domestic helper who was with the five is still yet to established and it is not known whether she was among the injured or dead.  
+
+"We expect to bury them here at home after obtaining a permit because we have a large area. The bodies will spend a night at home before we bury them, ” said a family member. 
+
+The government was forced to change tack in how it handles the public mourning ceremonies after the chaos that was witnessed in Dar es Salaam. Thousands of people thronged Uhuru Stadium to pay their last respects to Magufuli but in the process, chaos erupted after some mourners forced their way into the venue. 
+
+It was in that process that the Mtuwa family from Kimara Mwisho, Dar es Salaam ended up losing its kin in a stampede.  They were killed in chaos that erupted at Uhuru Stadium as Tanzanians paid their last respects to President John Magufuli. The procedure for the funeral of the late President John Magufuli has changed after the chaos that happened at Uhuru Stadium in Dar es Salaam. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping.
