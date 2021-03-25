@@ -1,0 +1,307 @@
+A row is brewing between Kenya Ports Authority (KPA) and a private company that wants to develop a separate multi-billion-shilling fishing port in Shimoni at the Kenyan South Coast, on who has the mandate to do so. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Whereas Nexus Marina has proposed to build a fishing port under the public-private partnership model, KPA has told the company that it has the “sole statutory authority” to develop and maintain ports in the country –creating simmering feud which could sink the venture. 
+
+
+
+
+
+
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+“Your interest to participate in the construction and operation of a fishing port at Shimoni should not prejudice the ongoing progress made so far by the ports authority and the government in developing the proposed port at Shimoni,” said the KPA letter sent to Nexus Marina’s lawyers and signed by KPA’s acting Managing Director Rashid Salim. 
+
+The letter also states that KPA has “the power, and function to develop, maintain and regulate all ports in Kenya. The said legal provision encompasses every port, whether dedicated to fishing or otherwise.” 
+
+But Nexus Marina says it has the support of the Ministry of Agriculture, Livestock and Fisheries, which has already issued a “no objection” letter. 
+
+“Your privately initiated investment proposal under the public private partnership arrangement should have been pursued in joint consultation with the Ministry of Transport, Ministry of Agriculture, Livestock and Fisheries and National Treasury,” says Mr Salim. 
+
+
+
+
+
+ 
+
+Two years ago, President Uhuru Kenyatta toured the Walvis Bay port in Namibia, a strategic harbour settlement with tens of processors and exporters of fish and fish products. He wanted the same for Kenya, and said as much. 
+
+Four months earlier, in November 2018, he had hosted the first-ever global Sustainable Blue Economy conference with support from Japan and Canada, and which attracted 16,000 delegates. The target was Kenya’s Shimoni port, and the KPA had shown interest in developing a fishing port there. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Back home, President Kenyatta had already appointed General Samson Mwathethe the chairman of the Blue Economy Implementation Committee and the latter had called on the private sector to work with the government to revive the fishing sector. 
+
+
+
+
+
+
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+The Kenyan waters have for years been intruded by foreign trawlers and pirates, who carry out industrial fishing in the waters of less-wealthy countries. They also have a monopoly on the high seas. 
+
+But without a surveillance system in Kenyan waters, the entire Blue Economy project could be sinking. 
+
+In November last year, KPA sought public comments over its proposed fishing port at Shimoni and among the drawbacks was that the project would interfere with the Shimoni Slave Caves heritage sites. The site would require intense dredging in the Dolphin channel. 
+
+However, the need for a fishing port in Kenya is justified by the annual deficit of 365,000 tonnes of fish against an annual demand of 500,000 tonnes. It is estimated that, at the moment, Kenya imports fish worth Sh2 billion despite having a 1,420-kilometre long coastline. 
+
+The promoters of the Blue Economy say that unless fish is brought to the shore, no country can develop a proper fishing industry. 
+
+In January last year, Nexus Marina wrote to Peter Munya, the Cabinet Secretary for Agriculture, Livestock and Fisheries, seeking a letter of no objection on their proposed industrial fishing port on its 320 acres, which has a sea frontage of three kilometres. 
+
+The firm told the CS that consultants hired by KPA had found the parastatal’s 2.5 acres “unsuitable due to the small size of the land and the ownership issues surrounding the land.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We are of the view that (Nexus Marina’s land) is a more suitable location for construction of an industrial fishing port, which can accommodate all ancillary facilities since it has a long beach and its large frontage on the main Shimoni road.” 
+
+Mr Munya had on June 22, 2020 issued a letter of no objection, saying “the government supports this type of investment that complements (our) efforts, while supporting the Kenyan Blue Economy Strategy … and also supports our local fishing community.” 
+
+In its proposal, Nexus Marina says it has engaged several financial institutions, including the African Development Bank and Exim Bank of India for a joint venture under Kukuza Project Development Company. 
+
+In a study of the site, Kukuza says Shimoni is strategically positioned and has locational advantage to harvest maximum tuna fish. 
+
+“It also has sufficiently flat terrain for construction of various project components,” the study notes. 
+
+The firm also intends to resettle squatters and give fishermen boats that can go 15 kilometres into the ocean, and are equipped with cold storage and communication systems. The boats are supposed to replace the wooden canoes and Nexus Marina proposes to build a repair workshop for the boats. 
+
+While KPA has proposed to build a jetty on its land, Nexus Marina says it will build a floating jetty, for low tide. This is thought to be the biggest innovation in the project. 
+
+According to KPA, its new jetty will allow docking of two fishing vessels at a go. 
+
+“Phase one will involve the construction of between 85- to 150-metre long jetty (to) allow the berthing of large fishing vessels such as purse seiners and trawlers and ease pressure on the Mombasa port.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+KPA also intends to develop auxiliary infrastructure that includes a cold storage shed, fish auction, market and warehousing, among others. 
+
+It is the positioning of the warehouse that has been cited by in the Nema report as problematic since it is close to the Shimoni Slave Caves, which were gazette in 1992 as national monuments. 
+
+“The siting of the warehouse on the draft design layout should be ascertained to ensure that it doesn’t sit on top of underground cave leading to the sea and which the National Museums intends to rehabilitate,” says the report. 
+
+The report also says the KPA project is considered important and beneficial, but adds a rider that “there will be negative environmental and social impacts, which will accompany the development of Shimoni port.” 
+
+The National Environment Management Authority has now asked Nexus Marina to also submit its Environmental Impact Assessment report for review and to allow decision making on whether its project should commence. 
+
+At the moment, the quest to build a fishing port at the Kenyan coast is shaping up into a battle between KPA and Nexus Marina. Roads, seaports, railway and water projects lined up for completion in the next two weeks. President issued the order following complaints by locals. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
