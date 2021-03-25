@@ -1,0 +1,149 @@
+Kenya remains undeterred in the fight against doping in sport and Adak continues to educate the public on the consequences of doping through our anti-doping education and awareness team, as well as on the online Anti-Doping Education e-learning Portal. As the Tokyo 2020 Olympic Games draw nearer, Adak urges all athletes, athlete support personnel and the public to remain vigilant. Rigorous training and preparations are currently underway for the Tokyo 2020 Olympic Games. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And with the recent decision by the Japanese Government not to allow foreign spectators over the potential spread of Covid-19, more people than ever before are likely to be glued to their screens cheering their respective athletes.   
+
+Kenya is a signatory to the 2005 Unesco Convention against Doping in Sports which is mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter.  
+
+Kenya, which has always done well at the Olympics and will send a strong team to Tokyo. 
+
+Also, Kenya intends to send clean athletes to defend our dignity. This is only possible through thorough anti-doping awareness and sample collection by the Anti-Doping Agency of Kenya (Adak). 
+
+The Agency, established vide Anti-Doping Act No. 5 of 2016, is conducting sample collection on Team Kenya, a requirement by World Athletics.  
+
+Last year, President Uhuru Kenyatta signed into law the amended Anti-Doping Bill which aligns the Anti-Doping Act 2016 with the 2021 World Anti-Doping Code. The Code is the document that harmonises regulations regarding anti-doping in sport across all sports.   
+
+Aligning the Act with the Code ensures compliance and guarantee Kenya’s continued participation in all major global sporting events.  
+
+Kenya remains undeterred in the fight against doping in sport and Adak continues to educate the public on the consequences of doping through our anti-doping education and awareness team, as well as on the online Anti-Doping Education e-learning Portal.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As the Tokyo 2020 Olympic Games draw nearer, Adak urges all athletes, athlete support personnel and the public to remain vigilant. 
+
+You can report doping by sending an email to reportdoping@adak.or.ke, or access our website www.adak.or.ke and click on the report doping tab where you are required to fill in a form. 
+
+Additionally, you can send a message to our social media platforms or  to the Chief Executive Officer, Adak via post or email to ceo@adak.or.ke. 
+
+To Team Kenya: Let’s ensure that we compete clean, and win right, at the Tokyo 2020 Olympics. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
