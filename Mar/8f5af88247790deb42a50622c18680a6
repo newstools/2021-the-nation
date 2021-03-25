@@ -1,0 +1,287 @@
+The result means Uganda must now avoid defeat in their last qualifying match against Malawi in Lilongwe at the weekend.Malawi beat South Sudan 1-0 on Wednesday away to move to seven points, just one behind their opponents Uganda in the next qualifying round. In Kampala, Uganda 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Uganda badly wanted to qualify to the 2021 Africa Cup of Nations finals on Wednesday evening. 
+
+Instead, it was Burkina Faso that beat them to the rope, the goalless draw at St Mary's Stadium, Kitende moving them to nine points. 
+
+That means that none of the final day results on Monday will give the Stallions sleepless nights, with finishing the campaign top of the group perhaps their only added interest. 
+
+Uganda, who have now beaten only Malawi and South Sudan at home, have lost to the latter and twice drawn goalless with Burkina Faso. 
+
+
+
+
+
+
+Uganda Cranes striker Patrick Kaddu shoots the ball as Burkina Faso defender Tapsoba Edmond Faycial looks on during their 2021 Africa Cup of Nations  Group B qualifier at St Mary's Kitende on March 24, 2021.
+Photo credit: John Batanudde | Nation Media Group
+
+ 
+
+Wednesday evening's result, which corresponded with Malawi edging South Sudan 1-0, leaves Uganda needing a draw at the Kamuzu Stadium in Blantyre on Monday to confirm their place at the finals in Cameroon. 
+
+What makes the task tougher, however, is that Malawi's victory over South Sudan Wednesday evening and Uganda's failure raised the stakes more for the Flames. 
+
+Malawi know victory over Uganda will see them qualify while a draw is enough for Uganda. 
+
+But what should concern any Ugandan fan is that Cranes displays against Burkina Faso and in the games against South Sudan were far from inspiring. 
+
+Actually, you have to go back to the 2-0 victory over DRC and the defeat to Afcon 2019 hosts Egypt to recall a good display from Uganda. 
+
+Nicholas Wadada started a bit jittery in Kitende but soon settled, while Halid Lwaliwa, starting on home turf alongside Murushid Juuko , was neat. 
+
+Some of Lwaliwa's highlights in the dull match included stopping Bertrand Traore when the Aston Villa forward was through on goal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Standing in front of the back four and just next to Mike Azira, Taddeo Lwanga had hearts racing early on, clipping two Burkinabe players one at a time to attract Gambian referee Bakary Papa Gasama's yellow card on the second. 
+
+But the Simba midfielder soon grew in confidence, twice beating three Stallions to release his mates. 
+
+
+
+
+
+
+Uganda's Nico Wadada (left) fights for the ball with Stallions Cyrille Barros Bayala during their 2021 Africa Cup of Nations  Group B qualifier at St Mary's Kitende on March 24, 2021.
+Photo credit: John Batanudde | Nation Media Group
+
+ 
+
+Upfront Faruku Miya's successive corners either side of the uprights exposed Cranes inability to attack the ball, forcing assistant coach Livingston Mbabazi to back at them on the touchline. 
+
+Commanding goalkeeper and skipper Denis Onyango rallied his mates to raise their game but still it wasn't happening, with Abdu Lumala showing signs of rustiness after his long injury layoff on the right. 
+
+Joseph Ochaya and Emmanuel Okwi showed early signs of promise on the left flank but fizzled out by half time, with only the former maintaining his drive. 
+
+In between, Aston Villa's Traore, Abdu Raza, and Mohamed Konate kept the Cranes on alert, with veteran Burkinabe skipper Charles Kabore threatening from long range on the stroke of half time. 
+
+It was hardly surprising when coach Abdallah Mubiru rang changes at half time, replacing Azira with SuperSport United's Moses Waiswa and Lumala for Vipers' Ibrahim Orit. 
+
+Fahad Bayo soon joined the fray in place of injured Patrick Kaddu and the tempo upped. 
+
+
+
+
+
+
+Part of the action between Uganda Cranes and Burkina Faso at St Mary's Kitende during their Group B qualifier.
+Photo credit: Fufa | 
+
+ 
+
+Orit should have scored but his header off Miya's corner rattled the upright on 70 minutes before Ochaya's drive from inside the area caused mayhem in the visitors defence but without causing harm.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Waiswa's arrival had since improved the game, the midfielder spreading passes short and wide and controlling the tempo at the same time. 
+
+Miya, who had Cranes first shot on target for the game after the break, then dummied off Kabore but goalkeeper Koffi Herve handled well. 
+
+Bayo had a chance to win it for Uganda in the dying minutes but headed wide Wadada's cross with the keeper at his mercy. 
+
+The final whistle was welcomed by loud celebrations from the visitors, who, on nine points, have confirmed their slot at next year's Afcon finals in Cameroon with a game to spare. 
+
+Afcon 2021 qualification 
+
+Wednesday's results 
+
+Uganda 0-0 Burkina Faso 
+
+S. Sudan 0-1 Malawi 
+
+Monday, March 29 
+
+Malawi v Uganda 
+
+Burkina Faso v S. Sudan 
+
+Group B standings 
+
+Team      P  W  D  L  F  A   GD  Pts   
+
+B. Faso   5   2   3   0  5  2   +3     9Uganda  5   2   2   1   3  1  +2     8Malawi   5   2   1   2   3  5  −2     7S.Sudan 5   1   0   4   2  5  −3     3 
+
+*Top two qualify* Incident leaves fruit vendor with tattered clothes and nursing injuries. No patient is hooked to a ventilator while only eight are on oxygen support. Driver who was reversing a Toyota pickup truck belonging to the company is said to have run over the tree in 2017.
