@@ -1,0 +1,327 @@
+While Covid-19 patients scramble for unavailable beds in Intensive Care Units (ICU) across the country, in Mombasa, the facilities remain almost empty. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+By Saturday, only eight patients had been admitted on oxygen support at the county’s less than 30 ICU beds.  
+
+For instance, at the Coast General Teaching and Referral Hospital, only two patients had been admitted to the ICU, while Pandya had five and Aga Khan had only one. 
+
+No Covid-19 patient in Mombasa was on a ventilator by press time. 
+
+Current admissions stand at 41 with Shimo La Tewa Maximum Prison having the highest number of patients at 15. 
+
+Mombasa Governor Hassan Joho cited a county facility with 12 ICU beds, which is currently 50 percent full. 
+
+"We almost had 800 beds for coronavirus patients, but we dismantled some remaining with about 100 after flattening the curve. But we are reopening the treatment and isolation centre we had dismantled. We have the capacity and sufficient ICU beds," said Mr Joho. 
+
+A total of 10 patients are currently on home-based care. 
+
+"Eight are within Nyali/Kisauni sub county while two in Likoni," read the report. 
+
+Infections spike 
+
+However, Coast General Teaching and Referral Hospital chief administrator, Dr Iqbal Khandwalla warned of a spike in infections.  
+
+“We have seen a surge of coronavirus patients admitted at our hospital. Every day we are seeing numbers going higher by about 20 percent,” warned Dr Khandwalla. 
+
+Medics led by the Kenya National Union of Nurses (KNUN) Peter Maroko attributed the low admissions at the ICU to the containment measures put in place to curb the disease. 
+
+
+
+
+
+
+
+
+
+
+
+Patients at the Coast General Hospital Casualty wing in Mombasa.
+Photo credit: Kevin odit I Nation Media Group. 
+
+ 
+
+He said Mombasa, which was heavily affected by the pandemic at the onset of the disease, learnt critical lessons on how to protect itself. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Majority of the people are more cautious except for a few. We were the hardest hit by the virus that led to a lockdown. Definitely we are more cautious," he said.  
+
+Mr Joho lamented that the majority of those seeking treatment are going to hospitals while critically sick. 
+
+"Don't get too comfortable. The disease is more lethal in the third wave. Covid-19 is still here and we need to be cautious and adhere to the Ministry of Health protocols," said Governor Joho. 
+
+He urged Kenyans to go for coronavirus tests and seek treatment before it is too late. 
+
+"The virus is spreading really fast but we must defeat this third wave. I am glad residents are asking for the vaccine. But I am surprised frontline health workers are shying away," he insisted. 
+
+The county has so far vaccinated about 880 health workers.  
+
+At the same time, the county government has reviewed its coronavirus strategy to curb infections. All the quarantine facilities that had been shut down have been reopened. 
+
+Travellers from Tanzania lacking coronavirus negative results certificates will have to undergo mandatory quarantine alongside their Kenyan hosts. 
+
+The county emergency committee on Covid-19 response categorised public transport vehicles (matatus), ferries, tuktuks and motorcycles as high-risk areas.   
+
+
+
+
+
+
+
+
+
+
+
+Patients at the Coast General Hospital Casualty wing in Mombasa.
+Photo credit: Kevin Odit I Nation Media Group. 
+
+ 
+
+The committee has resolved to enforce more protocols in high-risk areas due to the spike of coronavirus in the third wave to curb the spread of the disease. 
+
+The over 300,000 daily ferry users will be sensitised to use the Liwatoni flouting bridge to ensure social distancing within ferries plying the channel. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The governor has urged the Kenya Ferry Services and Kenya Ports Authority to develop a program that will ensure 99 percent of the over 300,000 pedestrians crossing the ferry use the flouting bridge. 
+
+The committee has further proposed a review of night travel in the Standard Gauge Railway (SGR) and airline sectors insisting it is affecting the curfew. 
+
+The co-chairman of the county emergency response committee on Covid-19 response, Mr Gilbert Kitiyo directed officials of SGR to reinforce social distancing in the third and second classes and during departure.    
+
+“We want to stop congregating of passengers at the SGR terminus. We have also proposed night travel of SGR and airlines be reviewed since it is affecting the curfew. This means taxis must operate at night and hotels. SGR must arrive before curfew time,” insisted Mr Kitiyo. 
+
+Public health will start inspecting Export Processing Zone (EPZ)’s and factories with many workers to ensure they observe the laid down protocols. 
+
+“All the mandatory quarantine sites shall be reopened for international travellers,” he added. 
+
+The committee wants enforcement of the regulations on seminars and workshops. Mr Kitiyo said seminars must be conducted online. 
+
+“The seminars must stop for 30 days or be held online because it is possible. We have realised there are more meetings. We have realised many people are flouting the Ministry of Health protocols. But as a committee we have agreed to enforce protocols due to the spike of coronavirus in the third wave in order to curb the disease,” said Mr Kitiyo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Mr Kitiyo, who is also the area county commissioner, said all 14-seater PSVs must carry eight passengers as per the protocols. 
+
+The committee will enhance sensitisation and publicity on the virus. 
+
+The committee further warned politicians against holding public political meetings and religious leaders flouting the protocols.   
+
+“Some mosques, churches, supermarkets, schools and colleges have begun flouting the protocols. Many people think there is no more coronavirus. We will also sensitise touts on the importance of social distancing and adhering to the protocols. Touts, boda boda and tuktuks should stop congregating in one area,” insisted the county commissioner. 
+
+watieno@ke.nationmedia.com Police said a motorcycle, a stained knife and hammer was recovered from the scene. Extensive campaigns by elders, local administrators, targeted traditional circumcisers, sponsored their alternative activities Incident leaves fruit vendor with tattered clothes and nursing injuries. Driver who was reversing a Toyota pickup truck belonging to the company is said to have run over the tree in 2017.
