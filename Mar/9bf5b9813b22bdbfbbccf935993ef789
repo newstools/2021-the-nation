@@ -1,0 +1,393 @@
+Said Swaleh, 24, had dreams, like any other child, while growing up. He wanted to be a soldier, determined to follow in the footsteps of his father. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Born in 1996 in Kipini village, Tana River County, through a secret love affair between his mother and a Kenya Defence Forces soldier sent to work in the area, Swaleh never met his father. 
+
+He was raised in a family of four, by a stepfather who loved him and his three siblings. 
+
+Humble upbringing 
+
+Then, life was good, as their parents did not discriminate or show any difference between the children. This was until 2012, when his stepfather died. 
+
+"I remember that night vividly, how my uncles came to deliver the message to my mother," he recounts. "My mum was crushed over the death of my father; she knew the time had come for her to fight alone since her in-laws never liked her all along except for one: My dad’s sister, their last born.” 
+
+After the burial, the elder brother of the deceased called a meeting. He started by saying how the property was going to be shared, disregarding the religious norm, where the bereaved are allowed 40 days of mourning. 
+
+It was on that table that his uncles revealed their true colours. 
+
+All the children were paraded in the open and each was discussed. 
+
+"The first thing they did was to divide us into three groups. Two of my siblings were girls, the other was a boy -- my dad's nephew, who was under his care after his mother died, and the two of us were told to go get our inheritance from our fathers," he narrates. 
+
+The girls were also excluded, as they were told they did not stand a chance as per tradition, which did not allow girls to inherit from their fathers. 
+
+His uncles declared all the property theirs and planned to share it among themselves, only leaving Swaleh’s mother the house. When Swaleh’s mother protested and threatened to involve the police, they backed off, but behind the scenes, they were plotting against her. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After four months of plotting, they connived with some elders to frame the mother with child neglect. Then they claimed possession of the girls. 
+
+"When my sisters were sent home from school for fees, they went to my uncles, where they found my aunt who led them to a drinking den,” he says. 
+
+“There, they decided to help with washing utensils as they waited for the uncle to finish. Unknown to them, it was a trap, as police and elders would swoop in and make arrests." 
+
+
+
+
+
+
+
+
+
+
+
+24-year-old Said Swaleh during an interview at his home place in Tana River County.
+Photo credit: Stephen Oduor I Nation Media Group. 
+
+ 
+
+Left with the two boys that the family did not recognise as their brother’s children, the widow had to fight to keep the house and the farm, a battle that drove her into depression, and eventually, she died. 
+
+Swaleh and his brother left school and the village for Mombasa city in March 2013. 
+
+They settled in a friend's house in Mshomoroni where they ended up in a gang that terrorised residents of Bamburi, Kisauni, and Mshomoroni. 
+
+"I left home with the desire to join any militia, provided I fulfilled my revenge against the people who tortured my mother," he says. 
+
+The Wakali Kwanza gang did not seem to have the mettle to deliver his desire. All they did was mug people and smoke bhang. 
+
+However, in December of the same year, he woke up to sad news. His brother Abdullah had been shot dead by the police at dawn in Kisauni during a raid. 
+
+"That hit me hard. I almost committed suicide, but my colleagues held me back. They always stayed by my side even after my brother's burial," he says. 
+
+Wakali Kwanza gang members became his new brothers. 
+
+His heart was full of hate for the people back home, as he always imagined his life had his parents not died. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was then that he met a friend who helped him join a group of youth who were on religious training under a Muslim cleric in Bamburi. 
+
+"They were genuine religious teachings, but they also used to assess our faith based on our life stories, before they could separate us in what they termed as a promotion to the next level, that was not for the naive," he says. 
+
+He realised the ‘promotion’ would deliver his desire for revenge. 
+
+The training took place at a house in Majengo and sometimes in the Nyali suburbs. 
+
+He met some of the alleged leaders of the terror group al-Shabaab, some who have since died. 
+
+In April 2014, he joined the group in Somalia with three other friends where they embarked on intense training. 
+
+"We left the country for Somalia posing as clerics, but in the real sense, we were going to be part of the militia. I was thrown to the arms training, where I wanted to be, but my colleagues were taken for training on IT and other things," he narrates. 
+
+While in training, he met people from his village -- people he knew, and whom he thought were working either in Mombasa and Nairobi. 
+
+
+
+
+
+
+
+
+
+
+
+24-year-old Said Swaleh during an interview at his home place in Tana River County.
+Photo credit: Stephen Oduor I Nation Media Group.
+
+ 
+
+Swaleh says his wishes came true when two of his uncles were killed in June 2014 Mpeketoni attack. 
+
+"I was happy, but not fulfilled, because I wanted to take the life of one of them by my own hands, as they had pushed me this far," he recounts. 
+
+Swaleh did not get to fulfil his desire, because he was never given any assignment in that part of the Coast, although he says he carried out attacks in Kenya. 
+
+"In some missions, I was flanking the hitmen, and in some, like on two occasions in Mandera, I was the driver," he says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Swaleh had a near-death experience in an encounter with Somali soldiers. By the time he fled the group in 2019, he had survived many other encounters. 
+
+"In one encounter in Somalia, I saw a child eating from the ground next to the corpse of her mother -- a woman my team had killed. I was touched," he says. 
+
+The al-Shabaab has since been losing soldiers to impromptu attacks and it was just a matter of time before he became a statistic, he reasoned. 
+
+"Youth from the Coast are no longer joining like they used to. Very few are pursuing the idea since we have many returnees who are giving unfortunate narratives in the villages, making the youth realise that joining al-Shabaab is an unworthy cause," he says. 
+
+Swaleh is now married with a three-year-old child. 
+
+His desire for revenge was quashed by his humanity, and the three-year-old girl he now raises. It is a mark that touches his life abundantly, reminding him of his responsibility as a father and that he has a debt to pay. 
+
+The returnee, however, notes that his return in March 2019 has placed his life at risk, and he is forced to stay away from his young family most of the time. 
+
+"The returnees are in a line between hell and earth. It is brutal on both sides. Our disappointed colleagues hunt for us and so do the police, who instead of rehabilitating us into society, have been killing most of us. Currently, we only surrender to clerics who counsel us back to the society," he says. 
+
+According to the Tana River Chairman of the Interfaith Community Shadrack Mkolwe, hundreds of al-Shabaab returnees are afraid to approach the police and surrender for fear of being killed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+As a result, they approach clerics who guide them. However, the moment the religious leaders mention introducing them to the police to be cleared, the returnees vanish. 
+
+"I have been approached by a lot of them. I have counselled many, but the moment I want to involve the security officers, they flee," he says. 
+
+Tana River county commissioner Mbogai Rioba noted that it is better for the returnees to surrender than to sneak back into the country and assume they are safe. 
+
+"We don't mean harm, as we only want to assure the people around them that they have come with a clear agenda, and not to carry out surveillance. It is only the security agencies who can assess them and deliver that credible report, so let them just come," he says. 
+
+Mr Rioba urged locals and elders to advise the returnee family members or even accompany them to security agencies, as their secret return can also put them in danger. 
+
+"We might not pursue them, but how do we protect the family from being harmed by the militia, if we don't know they have a returnee?" he asks. 
+
+As for Swaleh, the time for the date with security officials will come, but not soon. He still does not trust they will set him free. 
+
+"I will surrender when the time comes," he says. Ms Rukiyyah Abdu, 60, wants anti-terrorism classes taught in schools. Through their lawyers they told the court that they have constitutional rights to be presumed innocent until proved guilty. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
