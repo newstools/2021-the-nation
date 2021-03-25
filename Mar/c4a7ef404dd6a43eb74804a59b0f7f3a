@@ -1,0 +1,237 @@
+Spectators were barred from the departure ceremony and first leg over ongoing fears about the coronavirus, which forced the 2020 Games' historic postponement a year agoTokyo 2020 chief Seiko Hashimoto said the flame was "a ray of light at the end of the darkness"The Fukushima launch also puts the spotlight back on the northeastern region of Tohoku that was affected by the 2011 quake, tsunami and nuclear disaster Fukushima, Japan 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Tokyo Olympics torch relay got off to a low-key start after a year's coronavirus delay on Thursday, with fans kept away as it embarked on a four-month journey across Japan that will end at the opening ceremony on July 23. 
+
+Spectators were barred from the departure ceremony and first leg over ongoing fears about the coronavirus, which forced the 2020 Games' historic postponement a year ago. 
+
+But organisers hope the 121-day relay, which will criss-cross Japan and involve 10,000 runners, will build excitement and enthusiasm as doubts persist about holding the Games safely. 
+
+Tokyo 2020 chief Seiko Hashimoto said the flame was "a ray of light at the end of the darkness". 
+
+"This little flame never lost hope and it waited for this day like a cherry blossom bud just about to bloom," she told the ceremony at the J-Village sports complex in Fukushima, the former operations base for the 2011 nuclear disaster. 
+
+Azusa Iwashimizu, one of Japan's 2011 World Cup-winning women's footballers, was the first to carry the rose-gold, cherry blossom-shaped torch, accompanied by former teammates. 
+
+Iwashimizu then passed the flame to the next runner, Fukushima high school student Asato Owada, who was wearing the same torchbearer's uniform of white tracksuit with a red diagonal stripe. 
+
+A handful of fans, wearing the compulsory masks, watched the relay's second section, but clicking cameras were the loudest sound. Cheering and large crowds are banned at the relay, to prevent virus infections. 
+
+"I think it somewhat lacks excitement because there are rules," spectator Tetsuya Ozawa told AFP.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I think more people would have come and there would have been more excitement if there wasn’t coronavirus." 
+
+The flame will pass through all of Japan's 47 prefectures and take in landmarks including Mount Fuji and the Hiroshima City Peace Memorial Park.  
+
+Onlooker Tsuzumi Sugeno, 10, said the sight of the torchbearers left a "powerful" impression.  
+
+"This will be a great memory," he told AFP. "I want to become a professional baseball player and play at the Olympics." 
+
+'Recovery Olympics' 
+
+Organisers were making final preparations for the relay last year when the virus prompted the unprecedented decision to postpone the Games, as sport around the world ground to a halt. 
+
+A year on, the pandemic is still in full swing despite vaccine roll-outs, and many in Japan fear the Olympics will cause a spike in cases. 
+
+Overseas spectators are barred from the Games, and limits are likely on domestic fans. But the relay is seen as a vital opportunity to build positive momentum. 
+
+The Fukushima launch also puts the spotlight back on the northeastern region of Tohoku that was affected by the 2011 quake, tsunami and nuclear disaster. 
+
+The Games were initially billed as the "Recovery Olympics", showcasing reconstruction. The relay will also pass through some towns that remain only partially open to the public, as radiation decontamination continues. 
+
+The torch will take a circuitous route, first heading south to the islands of Okinawa before reversing course for the northern region of Hokkaido and finally back to Tokyo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But there are still challenges ahead for organisers. Several dozen torchbearers have dropped out, citing issues including scheduling conflicts and concerns about the coronavirus. 
+
+Officials from one region have warned they might cancel the relay there if virus countermeasures aren't improved, and parts of the event will be suspended if too many people gather. 
+
+But organisers are hopeful the relay will offer respite after a difficult year. 
+
+"People are feeling cut off from each other at this time," Hashimoto said Wednesday. 
+
+"These 10,000 runners can connect with people everywhere." Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
