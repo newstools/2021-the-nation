@@ -1,0 +1,285 @@
+The train travels at a stately speed, taking more than two and a half hours to traverse little more than 150 kilometres of countryside in southern Nigeria. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But the fledgling service is developing a fanclub among travellers exhausted by the country's notoriously choked, chaotic and dangerous roads. 
+
+
+
+
+
+
+Photo credit: AFP
+
+ 
+
+The $1.6-billion Chinese-built link between Nigeria's economic hub Lagos and Ibadan, capital of the southwest region, began partial operations last December. 
+
+It counts Nobel laureate Wole Soyinka among its supporters. 
+
+"This is my sixth trip," the playwright said, as the whistle blew for the 156-kilometre journey. 
+
+He recalled the 1960s and '70s when the train was king. 
+
+"We grew up to see a working railway in Nigeria," said Soyinka, who won the 1986 Nobel prize for literature, the first Nigerian to be so honoured. 
+
+In those days, the railway was the main means of moving people and goods around the country until, as elsewhere, it became the country cousin to the car and began to decline. 
+
+One hour into the journey, the train made a five-minute stop in Abeokuta, where Soyinka has a country home -- the station there is named after him.  
+
+He and a few other passengers disembarked and a handful of commuters boarded for the rest of the trip to Ibadan. 
+
+
+
+
+
+
+Photo credit: AFP
+
+ 
+
+Nigeria, Africa's most populous nation of 200 million people, is pushing ahead with reviving its railways, despite years of frustrating delays. 
+
+In July 2016, President Muhammadu Buhari inaugurated a 187-kilometre line between the northern city of Kaduna and the capital Abuja. 
+
+Vice President Yemi Osinbajo flagged off construction of the Lagos-Ibadan line in March 2017 when he was acting president. 
+
+Train takes the strain 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Carriages are equipped with overhead 10-inch television screens and window seats have electric sockets and two USB ports, while the toilets are clean and well-equipped and the crew is attentive. 
+
+In business class, the cosy train seats are in rows of four split by a spacious aisle, with overhead luggage bins. 
+
+"The train is comfortable, reliable and safer," said Otonye Ayodele, a university lecturer. 
+
+"It saves time and prevents one from the agony of going through the notorious Lagos-Ibadan gridlock," she said, pulling a laptop from her bag. 
+
+Soyinka mused that the new line could also be "pivotal" in easing Nigeria's chronic security problems.  
+
+Cattle could be moved to pasture by rail as a way to prevent violence between farmers and semi-nomadic herders, which is often sparked when animals trample on crops, he suggested. 
+
+Lagos banker and first-time rider Adebimpe Kareem enthused: "It's like being on a London or Paris train." 
+
+Kolawole Akinbola, who had just arrived from Germany, was also full of praise. 
+
+"This train is spacious, air-conditioned, comfortable. I hope Nigeria will sustain the quality." 
+
+But many criticise its speed -- just 50 kilometres per hour -- which means it takes two hours, 40 minutes for the trip. 
+
+However, this compares favourably with the car. Going by road in theory should take a maximum of an hour and a half, but the trip often takes six hours because of gridlock and construction work. 
+
+Others grouse about the train's high fares in a country where most people live on less than $2 a day, lack of an on-board restaurant and the insufficiency of just a single service per day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Goal of 160 kph 
+
+"We are still operating skeletal services because of ongoing construction works at the tracks and stations," said Nigerian Railway Corporation (NRC) official Jerry Oche. 
+
+When fully operational, he said, the train's frequency will increase -- and its speed will rise to 160 kph. 
+
+He said the train would continue to limit ridership to far below its capacity of around 600 in view of the Covid pandemic. 
+
+The first class fare is 6,000 naira ($16), business class 5,000 naira and economy 2,500 naira -- tariffs that Oche argued were "reasonable and fair." 
+
+Muda Yusuf, head of Lagos Chamber of Commerce and Industry, hoped the line, built by the China Civil Engineering Construction Corporation (CCECC), would boost trade and reduce traffic jams and highway crime. 
+
+"It will also lead to massive investment in property and real estate around its corridors," he predicted.  
+
+
+
+
+
+
+Heavy vehicular traffic along Ibadan-Lagos Expressway on Monday.
+Photo credit: AFP
+
+ 
+
+Locals have already spoken of rising property costs in and around Moniya, the district in Ibadan where the station is located. 
+
+Yusuf said extending the line to Lagos seaport would help decongest the facility and reduce the cost of haulage. 
+
+But, he said, rail projects were still facing delays because of lack of funds and insecurity. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
