@@ -1,0 +1,243 @@
+Outrage has greeted a heart-wrenching incident where a fruits vendor in Kisumu town was dragged for about 400 meters on hot tarmac by a pick-up vehicle belonging to the Kisumu City Enforcement Department. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Wednesday morning incident has brought out the now unbecoming behaviour of the county askaris. 
+
+Not even shouts by an irate mob and hooting by tens of motorcycle riders could make the driver of the white pick-up truck to stop. 
+
+Mrs Beatrice Atieno’s crime was selling her oranges and lemons on the pavements of the Kisumu central business district. 
+
+Though not visible from a recorded video of the incident, Mrs Atieno told journalists that one of the county askaris seated at the back of the truck held her hand firmly, refusing to let her go, as the vehicle sped off. 
+
+Tattered clothes 
+
+The incident left the woman with tattered clothes and bruises on the left hip and knee as well as massive losses after her goods were scattered.  
+
+The Nation tracked the 39-year-old mother of three from Rabuor, who, amidst tears, shared her near-death ordeal in the hands of the county officers. 
+
+"It is not the first time they were doing this. They usually take away our good and demand for money before we get them back. But on this day, I thought I was going to die because they dragged me as the vehicle drove off," said the distressed fruit vendor. 
+
+Sensing danger from the irate bodaboda riders, the askaris drove to Kisumu Central Police Station where the injured woman was released after a scuffle ensured between the askaris and the angry mob. 
+
+To add salt to injury, a female enforcement officer went ahead to throw away the remaining goods, forcing the injured Mrs to bent down to pick her fruits and omena fish (Lake Victoria sardine). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Son arrested 
+
+This angered his son who was arrested after he confronted the officers before police officers threw tear gas to disperse the angry crowd baying for the blood of the more than 14 enforcement officers. 
+
+Some Good Samaritans helped the woman with some wrappers to cover herself with since her clothes were all torn. 
+
+Mrs Atieno went to hospital to have her wounds dressed and later reported the incident to the police. 
+
+Investigations 
+
+Following the incident, the county government ordered immediate investigations to establish what transpired. 
+
+“Whoever will be found to have been culpable in the whole incident will have to face harsh disciplinary action,” said a statement from the county public communications office.    
+
+But while condemning the actions of the officers, the county indicated that preliminary investigations revealed that the enforcement officers were on their routine duties when they met hawkers around Naivas Supermarket who dispersed upon seeing them. 
+
+“One female hawker who was selling lemons, however, allegedly refused to leave and confronted the officers who took her wares. As the pick-up carrying the askaris sped off, she tried to cling onto it in a bid to salvage her wares,” read the statement. 
+
+There have been numerous complains about the brutality of the Kisumu County government askaris who “have become a law unto themselves”. 
+
+They have been accused of demanding bribes, pocketing revenue at source and harassing motorists and hawkers. 
+
+Action condemned 
+
+Leaders, including the Director of Special Programmes and former deputy governor Ruth Odinga condemned the Wednesday incident. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“If not evicting traders, they are beating them and dragging them on the road. What has really become of these city askaris who were recently employed?” posed Ms Odinga. 
+
+Kisumu County Assembly Majority Leader Kenneth Onyango called on Governor Anyang’ Nyong’o to rein in junior officers who are tarnishing the name of his administration 
+
+“We want to see the CEC Finance, Mr George Omondi, issue termination letters to the 14 enforcement officers involved in the incident,” said Nyalenda B MCA Joseph Olale. 
+
+ 
+
+roudia@ke.nationmedia.com, vrabballa@ke.nationmedia.com Governor says county has many unexploited tourism attractions and beautiful sceneries. Korane says unity in development of the county will ensure success and sustainability. No patient is hooked to a ventilator while only eight are on oxygen support. Driver who was reversing a Toyota pickup truck belonging to the company is said to have run over the tree in 2017.
