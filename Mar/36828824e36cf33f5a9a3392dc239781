@@ -1,0 +1,153 @@
+They never mentioned how elusive the dreams of a mortal are.Dream of a better tomorrow, but create it’s reality today. To my dearest self, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Comrade, I salute you, future king. Great sorrow encapsulates my heart knowing that fear gripped you the moment you saw this, for it is but a confirmation of your failure. 
+
+Nevertheless, it also serves as a wake-up call, a voice of hope saying it is possible. That we can live the dream we so wished for. 
+
+You may have been told that your dreams are valid, but they never mentioned how elusive the dreams of a mortal are. 
+
+Charming as it may sound, the thought itself is ghetto. For I tell you this, walking through the corridors of justice today, much has not changed. There is but no sense of nobility, society has been stripped off the idea of a fair and just legal system. 
+
+Those who swore to uphold the law are romancing with those who break it. The clergy is silent; they turn a blind eye as fathers defile their daughters. In the words of Ellie Wiesel, I say to them: “Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented.” 
+
+Integrity is but a ghost, it torments our oppressors who in turn only lay still in peace after our execution. Our future is on a guillotine, yet with a simple Harambee they condone vices, the house of the highest being an affable host of corruption. 
+
+It is in your name that I write to you. The youth are the leaders of tomorrow, yet tomorrow belongs to those who seize it today. 
+
+For a grain of sand is but a moment of creation, gracious it is, an offering, a testimony of greatness. One man of integrity can change it all, your life no longer belongs to you alone, not telling you this is but a betrayal to oneself. Leaders are heroes, you are our hero. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is imperative that, with zealousness, you take the mace. That you be a reprieve from our desperation. 
+
+Remember: “Serikali ni wewe”, and you are the government. 
+
+As I bid you goodbye, I hope you never give up and that you listen to the voice of hope. Dream of a better tomorrow, but create it’s reality today. 
+
+Yours Faithfully,Yourself. 
+
+Samuel Odhiambo, 20, is an aspiring electrical engineer.  
+
+Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com A woman or a girl who wears hijab or covers her head liberates herself from the vain and selfish desires. It was disappointing to read articles downplaying what we are fighting for. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
