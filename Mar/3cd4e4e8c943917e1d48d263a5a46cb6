@@ -1,0 +1,241 @@
+Magoha warns centres against using university students to impersonate candidates.Schools in Homa Bay, Migori, Kisii and Isebania regions being closely watched. More than 30 schools are on the government’s radar for planning cheat in the Kenya Certificate of Secondary Education (KCSE) examinations, which will begin tomorrow. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Education Cabinet Secretary George Magoha warned the institutions, which he said are spread across the country, of dire consequences should they commit exam irregularities. 
+
+Prof Magoha has in recent days repeatedly said that schools in Homa Bay, Migori, Kisii and Isebania – regions he described as  “the headquarters of cheating” – are being closely watched. 
+
+“Our monitors will be vigilant. Any centre found to engage in unethical practices will face stern action,” Prof Magoha said when he briefed reporters at Manyatta Primary School in Kisumu at the conclusion of the Kenya Certificate of Primary Education (KCPE) examinations. 
+
+The minister added that every examination centre would have armed police officers. 
+
+He said no malpractices were reported in the KCPE tests but added that some stations were not guarded by armed security personnel.  
+
+Armed security personnel 
+
+One of the officers is expected to guard the day’s unopened examination materials while the other patrols the school. 
+
+“In some cases, only one armed police officer was available while others were manned by National Youth Service staff. This went against our directive,” the minister said.  
+
+He dismissed concerns raised over the safety of teachers who will mark the KCPE and KCSE examinations. 
+
+“Do not listen to rumours of teachers being congested in one place without regard to Covid-19 protocols. Should there be an incident that requires attention, we shall deal with it as swiftly as it emerges,” he said and ruled out the possibility of reviving regional marking centres as a way of controlling the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Prof Magoha said marking examination papers at one centre makes it easy to monitor the process. 
+
+“The marking should be closely monitored to ensure we do not have irregularities,” the CS said.  
+
+Rogue teachers  
+
+Earlier in Busia, Prof Magoha told university students not to collude with rogue secondary school teachers to impersonate KCSE test candidates. 
+
+He added that schools intending to use university students have tampered with photographs of genuine candidates.  
+
+“Cheeky centre managers and their collaborators will face the law,” he said.  
+
+Prof Magoha was accompanied by Busia County Education Director Thaddeus Owuor and County Commissioner John Korir. 
+
+The CS announced that the government has released Sh7.5 billion to secondary schools for the administration of the national examination.  
+
+Principals have been complaining of not having enough funds to buy items for practical papers and keeping the students in school until the end of the tests on April 21. 
+
+Integrity of the exams 
+
+Kenya Union of Post Primary Education Teachers Secretary-General Akello Misori on Monday said delaying to release the money could jeopardise the integrity of the examination. 
+
+Prof Magoha said the money is in school accounts. 
+
+“We don’t want to hear teachers have no money for practical examinations,” he said. 
+
+Prof Magoha said the money wired is 50 per cent of the amount schools expected, adding that the remaining would be dispatched towards the end of April. 
+
+He said marking of the KCPE test papers has begun. 
+
+“By yesterday, papers delivered on day one had been marked. We expect to complete the marking in a week or two. It should be concluded as soon as possible to allow candidates to know their scores and facilitate the Form One selection,” he said.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Reported by David Muchunguh, Victor Raballa and Shaban Makokha CS says schools planning to use university students have tampered with photos of the genuine candidates. He had attempted to take his life before but was saved by relatives. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
