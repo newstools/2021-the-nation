@@ -1,0 +1,153 @@
+April 11 Eldoret City Marathon expected to attract huge number of elite athletes.Race Director and marathon legend Tanui warns there will be no extension on April 6 registration deadline. Organisers of the Eldoret City Marathon maintain there will be no extension of the April 6 race registration deadline. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The race, which goes down on April 11, in Eldoret, Uasin Gishu County, on the same day that Eliud Kipchoge will be pounding German streets at the Hamburg Marathon, is expected to attract a big number of athletes after many races were cancelled last year and early this season due to the coronavirus pandemic. 
+
+According to the race director, two-time Boston Marathon champion Moses Tanui, athletes are eager to compete next month after a long break due to the pandemic. 
+
+Tanui also warned athletes not to be duped because registration is done online, through www.eldoretcitymarathon.co.ke where one has to follow instructions and complete the payment of Sh1,200. 
+
+“It has come to our attention that fraudsters are trying to dupe athletes that they are registering for the race,” Tanui said.  
+
+“We are sending a strong warning to those who are trying swindle athletes who are already struggling that the law shall catch up with them. 
+
+“We have three centres where athletes can register and that’s in Kapsabet, Nandi County, Rupas Mall in Eldoret, Uasin Gishu County and Iten in Elgeyo Marakwet County,” said Tanui. 
+
+With 17 days to the race, Tanui said that there has been good response from the athletes in terms of registration as the deadline will not be extended for good planning. 
+
+“We shall close registration process on April 6 and that means those who will not have registered by then, will not participate in the race,” he added. 
+
+He also revealed that they have measured the route course and the county government of Uasin Gishu in conjunction with the Kenya Urban Roads Authority are sealing the pot holes along the course. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The race shall start at Sogomo near University of Eldoret before traversing at the streets of Eldoret before the finishing being Zion Mall at the Central Business District. 
+
+“We want to have a good race free of injuries and that is why after accessing the route, we have asked the county government and KURA to seal the potholes in order to prevent injuries,” he said. 
+
+The race will also see the crowds normally witnessed at the finishing line reduced as one way of preventing the spread of the virus with fans urged to follow the race on television and social media pages. 
+
+“We are in discussion with the public health on how we can handle the officials at the finish line because we want minimal interaction at the finishing line. We shall expect the athletics officials, sponsors and athletes only so that we don’t attract a big crowd by the end of the race,” revealed Tanui. 
+
+brotich@ke.nationmedia.com Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
