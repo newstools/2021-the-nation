@@ -1,0 +1,252 @@
+This year marks the 25th anniversary since agents of the Moi regime brutally assassinated Mwakenya National Coordinator Karimi Nduthu on the night of March 23, 1996. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nduthu, then a 22-year-old man, captured international attention during his trial when he told the court, “Jail me if you like. But change, like death, is inevitable.” 
+
+
+
+
+
+
+Ms Veronica Nduthu, mother of former political prisoner Karimi Nduthu, who was murdered in 1996 in his Riruta Satellite house, Nairobi, is overcome by emotions when she and other women visited the Nyayo House torture chambers.
+
+ 
+
+The statement shocked friends and foes alike, since Nduthu had the option of denouncing his links with Mwakenya for clemency. Instead, he remained defiant and as a result he was imprisoned for 14 years for being a self-confessed member of the Mwakenya group. 
+
+The activist, who was also the Secretary General of the Release Political Prisoners (RPP) pressure group, was killed in his residence in Riruta, Nairobi, in circumstances that pointed to systematic intimidation of human rights defenders by the state. 
+
+He is believed to have been brutally murdered by the infamous Jeshi la Mzee murder squad, a vicious youth militia run by the Moi government and the then ruling party, Kanu. 
+
+Jeshi la Mzee’s main role was to stop the so-called Young Turks pushing for the second liberation, activists and the Church from organising rallies anywhere. 
+
+The signature mark was to leave scores wounded, if not a number dead. 
+
+
+
+
+
+
+James Musyoka, who was charged with obtaining 180 copies of Mwakenya, is escorted to the court.
+Photo credit: File | Nation Media Group
+
+ 
+
+“In the early meetings of the Forum for Restoration of Democracy (Ford), these groups deflated the violent intervention by Jeshi la Mzee and Youth for Kanu. A joke has it that one of the Young Turks devised a strategy that worked; he matched violence with violence. He promised five shillings for every stone aimed at Jeshi la Mzee and Sh10 for every stone that hit the target,” Prof Karuti Kanyinga writes. 
+
+During Nduthu’s killing, one Jeshi la Mzee member shouted, “Tumetoka kuua adui wa Moi (We have just killed Moi’s enemy)” to shocked neighbours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Neighbours recounted that the police, who immediately appeared at the scene after the  murder, seemed to have come to confirm the activist’s death. 
+
+The police also took away Nduthu’s possessions including books, cassettes and manuscripts. 
+
+He was released from jail in June 1992 following pressure by Amnesty International and the Release Political Prisoners (RPP) pressure group. 
+
+Nduthu’s assassination in 1996 crushed the spinal cord of the movement that arose in the late 1980s from its predecessor, the December 12 Movement (DTM). 
+
+Nduthu had served six years in jail – from 1986 – for being a member of Mwakenya and before that he had been expelled from the University of Nairobi for his activism as a student leader in February 1985, before he could complete his Engineering degree studies. 
+
+The slain activist was initiated into radical politics by the December 12 Movement (DTM) literature, which included Pambana, Cheche and later Mwakenya materials. 
+
+While in prison at the dreaded Naivasha Maximum Prison, he was further radicalised after coming face to face with incarcerated prominent oppositionists like Maina wa Kinyatti and Kang’ethe Mungai, who helped deepen his political resolve against the Kanu regime. 
+
+After leaving prison, Nduthu went to the All Saints Cathedral, which had established itself as a haven for activists, where he joined forces with Mothers of Political Prisoners and the RPP, who had campaigned for his release. 
+
+“Thereafter, he joined the Mothers of Political Prisoners and the RPP to campaign for the release of the remaining political prisoners like Koigi wa Wamwere, becoming  one of the most active members of the RPP until his death,” exiled Mwakenya member and author Shirazz Durrani says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Recently, the secret police have been following me. I think they want to harass me to weaken my resolve. It is certainly psychological warfare. I suspect the regime has never forgiven me for my MK (Mwakenya) membership. They know I have always stood firmly behind the party's agenda for national democratic revolution and the creation of a new Kenya. But these recent acts may have been triggered by our work in RPP,” he wrote in his last note to Prof Kinyatti just before he met his death. 
+
+Nduthu’s story was first documented in the book, Karimi Nduthu: A Life in the Struggle. 
+
+Last year, Mwakenya adherents announced plans to document and digitize Nduthu’s life in partnership with the George Padmore Institute in London. 
+
+“We have also been planning to release publications that detail efforts by underground movements to remove President Daniel Moi from power in the 1980s and 1990s,” Mr Durrani, who is coordinating the efforts, said. 
+
+engisesa@gmail.com 
+
+Read: Mwakenya, the only movement the Moi regime admitted torturing The first recruits of the clandestine party included Ngugi wa Thiong’o, Willy Mutunga, al-Amin Mazrui, Edward Oyugi, Shiraz Durrani and Sultan Somje. He went into exile in early 1980’s following an all-out war on university students declared by the then Kanu administration. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
