@@ -1,0 +1,239 @@
+A family in Trans Nzoia County is in mourning following the mysterious death of a loved one in Nairobi about a fortnight ago. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tyson Walumbe was allegedly ‘beaten to death’ over a Sh40 food bill in Ongata Rongai on March 6, barely eight months after he had landed in the city in search for greener pastures. 
+
+Despite the Covid-19 pandemic that had crushed many businesses last year, the fourth-born from a family of seven left the village in June to train as a mechanic under the care of his elder brother. 
+
+His dream was to start a garage in future and lift his family from the depths of poverty to prosperity. Instead, death came calling. 
+
+
+
+
+
+ 
+
+Details surrounding his murder are still sketchy but the brother, Martin Maruti, alleges a food bill may have resulted in a deadly confrontation with the proprietor. 
+
+“On March 5, my brother had an evening meal on credit at his favourite café in Rongai, which is about 100 meters from our makeshift garage. He had chapatis and a cup of tea. He owed the proprietor Sh40,” he told Nation.Africa. 
+
+“It’s not clear what transpired after the meal because the next morning, Tyson was found badly beaten and unconscious behind the café. He was rushed to hospital by a Good Samaritan but unfortunately, he succumbed to his injuries,” he added. 
+
+The café owner admitted he knew Tyson but denied any involvement in his death. 
+
+“A few hours into curfew hours on Friday night, I was alarmed by the noise from my business premise. When I rushed to the scene, I was shocked to learn that a mob had pounced on my customer. They were my friends who were walking from a club across the road. I pleaded with them not to beat him,” he told Nation.Africa on phone. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But the club owner, a lady, dismissed the café owner’s statement. 
+
+“My bar only operates within the stipulated time. At the time of the incident, we had already closed. He is clearly lying as it was past curfew hours. I am a law-abiding citizen and my bar only operates within the allocated time. Let him carry his own cross,” she said. 
+
+
+
+
+
+ 
+
+Tyson was a patient and prayerful person. On January 3, he posted on Facebook about waiting for his turn to excel. “My time is coming”, he wrote, probably referring to his desire to make his family proud. 
+
+On his timeline, his posts tell the story of a man who was on a mission to liberate his family from bondage of poverty. “I thank all people who helped me reach this point… Not forgetting my papa, let Jah add you more years to enjoy the fruit of your beloved son,” he posted on February 3. 
+
+And, if all else, were to vanish and to be forgotten, his wishes will live on. His last post on March 2 was, however, disturbing. “Mjini imenikalia kama niko na deni ebu (yako) kamia…” he wrote. Loosely translated, it means: “Life in town is tough. If I owe you, come for your money.” Did he have a premonition of his death? May be. 
+
+Afterwards, a friend, Edwin Wekesa Juma, wrote: “Was it foreshadow or what? Rest in peace, bro.” His colleagues described him as a hardworking, promising young man. “He was very polite and reserved,” said Collins Odhiambo. 
+
+As detectives conduct investigations, the family believes Tyson was murdered by a gang on somebody’s orders. 
+
+ “He killed my brother and bragged about it. But still walks free,” said Mr Maruti. “Justice delayed is justice denied. It seems the police are working with the murderer to defeat justice.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The matter was reported at Ongata Rongai Police Station on March 9 at 11am and booked as homicide. When the Nation visited the station on Tuesday, officers declined to show us the file and directed us to Ngong’. “That is where our boss is,” an officer told the Nation. 
+
+When Tyson’s body was ferried home in Namnyiri village, Moi’s Bridge, his father could not hold his tears. Back in the village, Nairobi is seen as a city of possibilities. He had so much expectations. Death, certainly, wasn’t one of them. 
+
+Father and son had prayed together before the long journey to the capital. Tyson, 25, believed that the journey and the life yonder would be fruitful. Eight months later, he returned home. In a casket. Lifeless. With his dreams snuffed out.    
+
+“His infectious smile had faded. He rested easy and calmly,” Mr Maruti recalled the father eulogising his beloved son. “Were it not that he was lifeless and, in a casket, normally, I would assume he was just resting.”  Natala’s body bore various marks of injuries on its hands, legs, shoulders and neck. Samuel Murigi left his home on Saturday to attend a friend’s fundraiser in Kenol town. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
