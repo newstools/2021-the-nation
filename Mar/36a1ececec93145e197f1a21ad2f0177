@@ -1,0 +1,175 @@
+Firm says it has hit high-grade intersections.Residents say the actual mining has taken too long to commence. The foreign firm that is prospecting for gold in the Lirhanda Corridor has found visible deposits at Isulu in Kakamega County, rousing hopes of a viable mining venture. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Shanta Gold Limited says the exploration effort has returned a wide and high-grade zone of over 23 metres at Bushiangala. 
+
+Through an update for January and February, Shanta Gold CEO Eric Zurrin further indicates that the firm has hit high-grade intersections. 
+
+The update further says the exploration has seen drill rigs increased to two in the first two months of the year. 
+
+The third rig is expected to be added ‘shortly” in an effort to establish the presence of the valuable mineral.  
+
+Shanta Gold Limited acquired seven gold prospecting licences from Barrick Gold last year and took over the project. 
+
+Gold exploration 
+
+“Infill drilling of five diamond core holes at Isulu and two others at Bushiangala amount to four per cent of the planned exploration,” Mr Zurrin says. 
+
+In gold exploration, diamond drilling refers to the process of “impregnating” a drill bit with industrial diamonds so as to break the bearing rock. 
+
+Shanta Gold indicates that, through diamond drilling, it has been able to drill 1,538 metres of holes.Of this, 1,136 metres has been drilled at Isulu, while 402 metres have been drilled at Bushiangala. 
+
+
+
+
+
+
+Artisanal miners prospect for gold in Rosterman in Kakamega County.
+Photo credit: Tom Otieno | Nation Media Group
+
+ 
+
+“It’s encouraging that high grade intersections have been hit in early holes and the company is looking forward to ramping up exploration over the coming months,” Shanta says. 
+
+The firm projects to complete at least 40 per cent of the ongoing exploration by the end of the year, with the local community jittery at perceived delays in commencing actual mining. 
+
+Residents of Bushiangala and Isulu villages have complained  in the past that the exercise is taking “too long”.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lucrative venture 
+
+Mr Benard Ludeshi, a community spokesperson, raised concerns over the change of ownership at the firm.  
+
+Shanta Gold Limited acquired the lucrative venture from Barrick Gold last year.  Barick Gold had in turn acquired the licence from Acacia Mining in 2019, formerly ABG, which had acquired the project from Aviva.  
+
+It is estimated that the Lirhanda Corridor has 1.03 million ounces of gold valued at Sh164 billion that could be extracted for 10 years when the actual mining starts.   
+
+The West Kenya project spans 1,162 square kilometres.. 
+
+Shanta Gold notes that the size of the belt is analogous to well-known prolific greenstone belts in Canada and Australia. 
+
+It is estimated that the true widths of the mineralised zones are approximately 60 to 70 per cent of the widths intersected in the drill holes. 
+
+DMusalia@ke.nationmedia.com Miners have been using sodium cyanide for leaching of gold in Bondo and Rarieda sub counties. So intense have the villagers taken to gold mining that even finding a bodaboda rider forces one to book in advance. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
