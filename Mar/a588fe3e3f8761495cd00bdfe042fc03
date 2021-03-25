@@ -1,0 +1,245 @@
+Mr Thakrar was suspended alongside chief finance officer Satyabrata Das on February 18, 2021.Those who love Mr Thakrar describe him as an assertive marketing genius, always looking for an opportunity. Bharat Thakrar, the man who built one of Kenya’s biggest marketing and advertising firms, says he joined the communications world by accident. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Thakrar, 69, the marketing guru who bestrode the sector like a colossus for nearly four decades, quit yesterday as the chief executive of WPP-Scangroup where he was a founding shareholder. 
+
+The resignation of the billionaire, who has attended Harvard Business School, comes weeks after his suspension.  
+
+Mr Thakrar was suspended alongside chief finance officer Satyabrata Das on February 18 when it became clear he had lost favour with his board. 
+
+“The world is very different from the one I stumbled into when I joined communications  by accident almost 40 years ago,” Mr Thakrar wrote in a recent article posted on his LinkedIn page.  
+
+Thakrar's suspension 
+
+“A temporary position in a local advertising agency kickstarted the journey into lifelong love and desire to create the best of communication campaigns for African brands,” he said, adding the only skill that has been a constant his years of experience is having an open mind. 
+
+This is perhaps the time the former chairman of the Advertising Practitioners Association (APA) in Kenya will need an open mind. 
+
+His name has been dropped from the Scangroup website at a time foreign investors own 81.4 per cent of the firm. 
+
+Listed companies in Kenya rarely go to such an extent unless the claims touch on financial impropriety or other irreconcilable differences.  
+
+In a notice to financial markets, the company said further to the announcement regarding the  suspension, Mr Thakrar had tendered his resignation as CEO and board member. 
+
+Recruitment of new CEO 
+
+“Mr Thakrar has resigned as a director of the company’s subsidiaries and affiliates. Investigation into the allegations of misconduct and possible offences against the two will continue,” the statement read. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The board said it would start the recruitment of a new CEO. 
+
+“The board has delegated authority to interim Chief Operating Officer Alec Graham,” the statement added. 
+
+The suspension of Mr Das indicates the allegations facing the executives could be financial in nature. The profitability of the firm has been on a free fall in the last five years, from Sh478 million in 2015 to Sh158 million in 2019.  WPP-Scangroup’s best year was 2018 when it recorded a Sh612 million profit. 
+
+Mr Thakrar turned down our requests for an interview. 
+
+Marketing genius 
+
+Until the death of Safaricom chief executive Bob Collymore, Mr Thakrar was the silent tiger whose influence was felt all over the industry.  
+
+Those who love Mr Thakrar describe him as an assertive marketing genius, always looking for an opportunity. Those he fell out with say he is ruthless.  
+
+WPP-Scangroup started as a private limited liability company in January 1999, trading as Media Initiative EA Ltd.  
+
+It changed its name to Scangroup Ltd in October 2005. 
+
+Scangroup then listed on the Nairobi Securities Exchange in August 2006. It is the only marketing company listed on NSE. The initial public offer raised Sh94 million. 
+
+Presence in 25 countries 
+
+He was the largest shareholder at the time, with a 28.53 per cent stake. His holdings were at one time valued at more than Sh1 billion. Mr Thakrar’s ownership now has a mark-to-market value of about Sh250 million. 
+
+In late 2013, Scangroup became a subsidiary of WPP, subsequently being renamed WPP-Scangroup Plc in June 2015. His ownership has dropped to 10.6 per cent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+WPP on the other hand raised its stake in the company to a controlling 56.3 per cent through a mix of share purchases and folding some subsidiaries. 
+
+The group has grown to have presence in 25 countries in Sub-Sahara, including Cameroon, Gabon, Ghana, Kenya, Nigeria, Rwanda, Senegal, South Africa, Tanzania, Uganda and Zambia. 
+
+It has minority interests in operations in Namibia and Zimbabwe and affiliates in Angola, Botswana, Congo, DR Congo, Ethiopia, Madagascar, Malawi, Mauritius, Mozambique, Niger, Sierra Leone, Sudan. 
+
+pwafula@ke.nationmedia.com Mr Thakrar, 69, was suspended from the company he founded last month over claims of gross misconduct. He was suspended on Friday over allegations of gross misconduct and diversion of funds. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
