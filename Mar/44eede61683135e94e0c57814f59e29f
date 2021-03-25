@@ -1,0 +1,297 @@
+When did you last change your cooking-gas hosepipe? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That is the million-dollar question after Total recently recalled their low-pressure liquefied petroleum gas (LPG) hosepipe (batch number SCG/BS 3212:1991/1 Low-pressure LPG/8mm.mfd:03-2020/exp:03-2025) for failing the ageing test. 
+
+The move raises fears that many Kenyans could be sitting on time bombs in their kitchens. 
+
+A study conducted by the Clean Cooking Association of Kenya (CCAK) in 2019 revealed that approximately 3.7 million Kenyans use LPG as a primary source of cooking energy in their households. 
+
+The number continues to rise as more people opt for cleaner cooking methods. However, there appears to be a grave danger in the use of this fuel option. 
+
+
+
+
+
+
+
+
+
+
+
+Total recently recalled their low-pressure liquefied petroleum gas hosepipe for failing the ageing test.
+Photo credit: File
+
+ 
+
+Ms Caroline Njung’e, a city resident, says she does not remember the last time she checked her hosepipe for wear and tear. 
+
+She has been using the same hosepipe for more than 10 years. 
+
+“I started using LPG more than 10 years ago. I remember buying everything at the same time: The cooker, the gas cylinder and the hosepipe. Since then, what I just do is refill the cylinder at a petrol station and that’s mostly it,” said Ms Njung’e. 
+
+The thought of replacing the pipe has never crossed her mind. The script is the same for most urban dwellers. 
+
+One-bedroom apartment 
+
+Ms Nancy Atieno is a single mother living with her eight-year-old daughter in a one-bedroom apartment in Donholm. 
+
+She moved to Nairobi in 2009 after securing a job with a local manufacturing company. 
+
+She hopes the LPG hosepipe she has been using for the past 12 years is still in good condition. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Atieno relies on the delivery man from an LPG depot in her estate to connect her gas cylinder to the cooker. 
+
+“I do not even know how to connect the hosepipe to the cooker or cylinder. That is why I leave all that work to the people who sell gas cylinders in the estate. I have never even thought that a hosepipe needs to be checked. I have been using the same one for more than 12 years and I will continue using it because I do not see anything wrong with it,” said Ms Atieno. 
+
+Safety hazard 
+
+For his part, Mr James Mutua, who has been operating a gas shop for eight years, says hosepipe sales are low. 
+
+“I sell the standard hosepipe for Sh150 per metre, but it is a very slow-moving product. To a lot of people, it’s a one-off-purchase item. When they buy it for the first time, they then forget about it,” said Mr Mutua. 
+
+In an interview, Total Kenya told Nation.Africa that LPG hosepipes should be changed after every five years as overuse of the apparatus can result in a safety hazard. 
+
+The introduction of cheaper brands is also another factor. 
+
+For example, low-end hosepipes are retailing at Sh70 per metre and their quality is doubtful. 
+
+A faulty or overused hosepipe, according to Total, is a safety hazard. 
+
+“The LPG hose is made of runner (elastomer), which is susceptible to deterioration because of temperature, humidity, mechanical stress and UV-light, and to a larger extent due to the concentration of Ozone in the atmosphere,” explained Total Kenya Managing Director Olagoke Aluko. 
+
+
+
+
+
+
+
+
+
+
+
+Olagoke Aluko.
+Photo credit: File
+
+ 
+
+“The chemical composition of elastomer makes it sensitive to Ozone, which manifests itself in form of cracks and shortens the lifeline of the hose and renders it unsafe for use. The ageing test provides a way to assess these performance characteristics of rubber when subjected to the elements in the atmosphere,” he added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A genuine hosepipe, he says, should have the manufacturing and expiry dates inscribed on it. 
+
+In addition, when it is folded within its length, it should not develop cracks. 
+
+“Always make sure your hosepipe is not expired by checking on the expiry date, which is usually inscribed on the upper surface of the hose. It is (also) important to buy an LPG cylinder and accessories from an authorised outlet,” said Mr Aluko. 
+
+Although LPG-related accidents are uncommon, they are fatal when they happen. 
+
+For instance, last year, gospel artiste and Tusker Project Fame 5 winner Ruth Matete lost her husband, John Apewajoye, after he sustained burns from a gas fire accident. 
+
+
+
+
+
+
+
+
+
+
+
+Ruth Matete during burial of her husband Blessed John Olakami Apewajoye at the Lang'ata cemetery on July 23, 2020.
+
+ 
+
+ 
+
+According to Ms Matete’s father, the couple had just refilled their gas cylinder. However, the fire could not start and he suspected that the gas was in excess. 
+
+He took it out to the balcony and opened the valve to release some gas, then returned it to the kitchen. He did not know that there was gas on his clothes. On lighting the fire, he started burning. 
+
+Such accidents can also be caused by leaks from the hardware, usually either due to cracks on the connecting hoses or defect valves and regulators. 
+
+In addition to the LPG cylinder, faulty knobs on the burner or oven can allow gas to escape even when turned off, leading to a risk of fire. New report shows suppliers delivered thousands of faulty cylinders that pose the risk of fire eruptions. Bulk gas storage of liquefied petroleum gas could be the new solution Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Deputy President claims Jubilee is being turned into a tribal grouping. The whereabouts of the domestic helper who was with the five is still yet to established.
