@@ -1,0 +1,172 @@
+A number of lobby groups in Eldoret have raised concerns over increasing cases of bodaboda riders being accused of defiling minors. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They observed that majority of the riders capitalise on the vulnerability of minors by offering them free rides to school. 
+
+Nick Omito, from Centre for Human Rights and Mediation, has cautioned parents against trusting riders to transport their children to schools. 
+
+He was speaking in Eldoret following an incident where a Kenya Certificate of Primary Education (KCPE) exam candidate failed to sit the test — which ended on Wednesday — after she was allegedly defiled by a bodaboda rider. 
+
+The 13-year-old girl said she met the rider who confronted her, grabbed her and took her to a thicket where he defiled her. 
+
+“I was on my way to school at around 6.30am when the bodaboda rider attempted to entice me with Sh50 which I refused. Upon refusing his offer, he hit me with his elbow; I became unconscious only to find myself in a farm,” narrated the traumatised girl. 
+
+The victim’s mother said she found her daughter traumatised in Eldoret. 
+
+Something unusual 
+
+The shocked mother added that upon examining her daughter, she realised that something unusual had happened to her. 
+
+“I was shocked when teachers called me and informed me that my daughter had not reported to school,” said the mother. 
+
+She took her to a local hospital and she was later referred to the Moi Teaching and Referral Hospital. 
+
+A hospital report indicates the girl was defiled. 
+
+Mr Omito said his centre has embarked on a programme to offer psychosocial support to the victims of defilement. He decried the increase of such cases in Eldoret. 
+
+Turbo Sub-County Deputy Commissioner Mohammed Mwabudzo said all cases of defilement are treated with a lot of seriousness, citing the one involving the KCPE candidate. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Investigations 
+
+But Mr Mwabudzo said that his office has little information about the incident but promised to liaise with the police for further investigations into the matter. 
+
+“We are going to furnish the police with more information as soon as we get it to enable them carry out investigations on the matter because it is their mandate,” said Mwabudzo. 
+
+Uasin Gishu County Police Commander Ayub Ali said they have already embarked on investigations into the incident. 
+
+While addressing bodaboda riders in Eldoret last year, the national Bodaboda Association Chairman Mubadi Kevin cautioned his members against engaging in criminal activities. 
+
+Mr Mubadi said that any rider involved in criminal any activity such as defilement must face the full force of the law. 
+
+He said that the association will not protect criminals disguised as bodaboda riders. 
+
+“We will not allow a few individuals in this sector to continue tarnishing our good name. Anyone found engaging in criminal activities amongst us must be dealt with according to the law of the land,” said Mr Mubadi. 
+
+ 
+
+tominde@ke.nationmedia.com The suspect, aged 20, is a bodaboda rider. Public health officer refuses to help her defiled niece get justice. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
