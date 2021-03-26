@@ -1,0 +1,157 @@
+It will be held on April 4 in the Turkish capital city and feature some of the world’s best athletes over the distanceKenya’s Leonard Barsoton, who was sixth at the World Athletics Half Marathon Championships in Gdynia last year, will also be another fast runner on the start lineAlso in the mix are world half marathon record holder (women only) Peres Jepchirchir and Joan Chelimo This year’s Istanbul Half Marathon will be a race to relish, surely. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It will be held on April 4 in the Turkish capital city and feature some of the world’s best athletes over the distance.You guessed it, most of the big names will be Kenyan. 
+
+Reigning world half marathon record holder Kibiwott Kandie and his predecessor Geoffrey Kamworor will clash. 
+
+It will be later than anticipated after the Ras Al Khaimah half marathon was cancelled in February when the two were destined to collide. 
+
+Kandie, who trains in Iten, Elgeyo Marakwet told Nation Sport he had trained well and was eager to race in Istanbul. 
+
+Kandie clocked the fastest time in the world of 57:32 in Valencia last year, obliterating Kamworor’s record of 58:01. 
+
+“It has been a journey and I'm happy I will be able to compete again next month. I have prepared well and my target is to be able to run a good race which I know will be fast," said Kandie. 
+
+He revealed that he will be running his own race. 
+
+Watch out for these two sub-59 minute runners, Amedework Walelegn of Ethiopia, the Istanbul Half Marathon record-holder who won in 59:50 in 2018, and Uganda's Stephen Kissa, who made his debut over the distance in February last year  and finished that season with a best time of 58:56. 
+
+Fast runner 
+
+Kenya’s Leonard Barsoton, who was sixth at the World Athletics Half Marathon Championships in Gdynia last year, will also be another fast runner on the start line. 
+
+The women’s category will see world marathon record holder Brigid Kosgei battle with world marathon champion Ruth Chepngetich. The two are under the same management of Rosa Associati. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Also in the mix are world half marathon record holder (women only) Peres Jepchirchir and Joan Chelimo. 
+
+According to the Kapsabet-based Jepchirchir, she will be  competing at the race to gauge her level after a long break.   
+
+“Last year was good for me and I hope this year I will be in good shape to continue doing well. It has been a long break for me. Let us see how it goes,” said Jepchirchir. 
+
+Yasemin Can from Turkey will also be lining up for the race. The Turk has been training at Kapsait in Elgeyo Marakwet County over the last one year and could spring a surprise. It will be interesting to see how she lines up with her long time friend and training partner Brigid Kosgei. 
+
+“Competing with some of the best runners in the world gives me a lot of motivation. This is a good build up for the Olympics Games,” said Can. Fans urged to follow the race on television and social media pages. Mutwii disclosed on Tuesday that they had postponed the trials to a later date. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
