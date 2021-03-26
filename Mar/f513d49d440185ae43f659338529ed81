@@ -1,0 +1,162 @@
+Zimbabwean President Emmerson Mnangagwa has received his first shot of the Chinese Sinovac Covid-19 vaccine, even as the southern African country tries to encourage its people to get the jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+President Mnangagwa got the jab on Wednesday in Victoria Falls, a tourism hub on the border with Zambia, where he also launched the second phase of the country’s Covid-19 immunisation drive. 
+
+The event was broadcast live on national television and was witnessed by leaders of various political parties. 
+
+“Let me reiterate the global call by the World Health Organisation that no one is safe until everyone is safe. 
+
+“I therefore challenge all of us in our respective communities to accept the vaccination programme and to shun vaccination hesitancy, misinformation and the negative conspiracy theories,” President Mnangagwa said. 
+
+“Getting vaccinated is a personal and family responsibility as well as a national obligation.” 
+
+Revive tourism 
+
+The Zimbabwean government says it wants to vaccinate the resort city’s entire population in the next 28 days so as to revive the tourism industry, which has been severely crippled by prolonged lockdowns, and to slow down the spread of the coronavirus. 
+
+Zimbabwe bought 200,000 doses of the Sinovac vaccine from China earlier this month. It has also received a donation of 400,000 doses of the Sinopharm vaccine, also from China. 
+
+The first phase of the country’s vaccination programme began on February 18 targeting frontline workers such as healthcare personnel, border officials and security forces. 
+
+Only 44 135 people had received their first jab as of March 23, leading to fears that Zimbabweans were reluctant to receive the Chinese vaccines. 
+
+Zimbabwe’s second phase of Covid-19 vaccination programme is targeting school teachers, the elderly, people with chronic illnesses, the elderly and religious leaders. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Approved vaccines 
+
+The vaccines that have so far been approved for use in Zimbabwe are the Sinopharm and Sinovac jabs from China, Russia’s Sputnik-V and India’s Covaxin, but only the Chinese vaccines have been delivered. 
+
+Zimbabwe aims to vaccinate 60 per cent of its population — or 10 million people — in an effort to achieve herd immunity and stop the uncontrolled spread of the coronavirus. 
+
+The country has started reopening its economy after new infections went down significantly following a deadly second wave of the outbreak of Covid-19 soon after the December festive season. 
+
+As of March 23, Zimbabwe had recorded 36,717 Covid-19 cases, 1,516 deaths and 34,447 recoveries. 
+
+ 
+
+kholwani@gmail.com The southern African nation started its innoculation campaign on February 18 with doses developed by China's Sinopharm. Answers to your questions about Covid-19 vaccines as countries continue inoculating their populations. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
