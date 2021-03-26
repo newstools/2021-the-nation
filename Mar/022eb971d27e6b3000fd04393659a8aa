@@ -1,0 +1,82 @@
+A matatu driver has died while six other people have been seriously injured following crash along the Sagana-Makutano road in Kirinyaga County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The crash happened Thursday when the mini bus collided with a lorry near Makutano town. 
+
+The injured were rushed to Kerugoya and Sagana hospitals for treatment. 
+
+The accident caused a huge traffic jam as residents sought to rescue passengers who had been trapped in the mangled bus. 
+
+Residents used axes to free the victims from the badly damaged bus. 
+
+According to the witnesses, the bus was travelling to Nairobi from Nyeri when the accident happened. 
+
+“We saw the driver of the lorry lose control before his vehicle crashed into the mini bus from behind," one of the witnesses, Mr John Kangangi, said. 
+
+A traffic officer at the scene did not wish to be named said investigations had been launched to establish the actual circumstances under which the accident occurred. 
+
+The lorry driver escaped from the scene and he is being sought by the police. 
+
+The accident comes barely two weeks after another one in which three family members died on the same route. The recklessness miraa carriers have become a leading killer along the Meru- Nairobi highway. Drivers of the vehicles involved in the crashes were arrested for questioning. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
