@@ -1,0 +1,248 @@
+Tripoli 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Libya's new unity government on Thursday demanded the "immediate" withdrawal of all foreign mercenaries ahead of year-end elections, in a call backed by the visiting top diplomats of France, Germany and Italy. 
+
+The North African country descended into chaos after dictator Muammar Gaddafi was toppled and killed in a 2011 Nato-backed uprising, resulting in multiple forces vying for power. 
+
+Fighting only came to a halt last summer, and a formal ceasefire in October was followed by the establishment of a unity government led by interim Prime Minister Abdul Hamid Dbeibah. 
+
+Foreign fighters 
+
+The presence of an estimated 20,000 foreign fighters and mercenaries on Libya's territory is seen as a threat to the UN-backed transition leading to December 24 elections. 
+
+"We reiterate the need for the departure of all mercenaries from Libya, and immediately," Libyan Foreign Minister Najla al-Mangoush said at a Tripoli news conference joined by her French, German and Italian counterparts. 
+
+French Foreign Minister Jean-Yves Le Drian echoed her call. 
+
+Departure essential 
+
+"The departure of the mercenaries is essential for the Libyan state to assert its sovereignty," Le Drian he told the news conference. 
+
+"We cannot look away from the consequences that the Libyan crisis may have in Europe in terms of security, terrorism and migration," he said. 
+
+The three European diplomats were in Tripoli in a show of support for the newly formed Government of National Unity, or GNU. 
+
+"We represent the EU's support for Libya as it moves towards peace," said Italian Foreign Minister Luigi Di Maio. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Italy and Europe are still convinced that there can be no military solution to the Libyan crisis," he said. 
+
+"We reiterated the importance of maintaining the ceasefire, the reopening of the coastal road and the departure of mercenaries." 
+
+Embassies reopening 
+
+Dbeibah was sworn in as interim prime minister last week after his cabinet was approved in a move widely hailed as "historic". 
+
+The new transitional executive emerged from a complex UN-sponsored process launched in November, and its members were confirmed by Libya's parliament on March 10. 
+
+Libya had been divided between two rival administrations: the UN-recognised Government of National Accord (GNA) based in Tripoli, and its rival in the east loyal to military strongman Khalifa Haftar. 
+
+The eastern administration officially handed over power to the new executive on Tuesday, a week after Fayez al-Sarraj, the outgoing head of the GNA, formally ceded to the new unity government. 
+
+In spite of a long-running arms embargo, the GNA was backed by Qatar and Turkey while Haftar received support from Egypt, Russia and the United Arab Emirates. 
+
+Haftar has not officially taken part in the political negotiations. 
+
+Economic crisis 
+
+Libya's population of seven million, sitting atop Africa's largest proven crude oil reserves, faces a dire economic crisis with soaring unemployment, crippling inflation and endemic corruption. 
+
+UN chief Antonio Guterres said he "remains deeply concerned" that "foreign elements" continue to operate in the North African country, in a report discussed by Security Council members on Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I reiterate my call on all national, regional and international actors to respect the provisions of the ceasefire agreement in order to ensure its full implementation without delay," Guterres wrote. 
+
+Arms embargo 
+
+"This includes complete and unconditional respect for and compliance with the United Nations arms embargo." 
+
+The visit by the three EU foreign ministers comes after President Emmanuel Macron said France would reopen its embassy in the Libyan capital next week. 
+
+Their host Mangoush said on Thursday that Germany and Italy had also agreed to reopen their embassies in Libya, adding that the process "must be accelerated". 
+
+Other countries including Egypt and Malta have also announced their intention to reopen embassies in Tripoli. Media professionals still face censorship, intimidation and threats to their lives. UN-supervised process aims to unite the country after an October ceasefire between the two rival administrations. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
