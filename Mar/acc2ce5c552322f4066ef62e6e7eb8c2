@@ -1,0 +1,228 @@
+Readers had to strain their eyes to read the Kenya Power and Lighting Company report and financial statements for the year ended June 2020. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The report, which was two pages long, was printed in very small font sizes in the Daily Nation of March 10 and 11. 
+
+Githuku Mungai, an accountant, says he had to use his mobile phone torch to read the report. “I did not read much,” lamented Mr Mungai. “I gave up. One would have to borrow a cat’s eyes or buy a powerful magnifying glass to read the report.” 
+
+I don’t know whether cats’ eyes can read better than human ones, even though it’s said they can see better in dim light and that cats are better able to see a darting mouse than humans. 
+
+But I think the point Mr Mungai is trying to emphasise is that fonts that are too small affect reading speed and comprehension. 
+
+Tight spacing 
+
+This is supported by research. In a paper published in the Journal of Vision in August 2011, Prof Gordon Legge, a psychologist and media researcher, and Prof Charles Bigelow, a type historian and designer, demonstrate that text size affects how quickly one can read and understand a text. 
+
+The paper is titled: “Does Print Size Matter for Reading? A Review of Findings from Vision Science and Typography”. 
+
+What makes printed text difficult to read isn’t just font size. It’s also tight spacing, few white spaces and long or no paragraphs. Some advertisers pack in as much information as they can in limited space, in small print, to save on the cost of advertising space. 
+
+We see this in almost every issue of the paper. In the Nation of March 10, when the Kenya Power report first appeared, for example, there were several advertisements that were difficult to read because they were printed in small letters and crammed into limited spaces. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Measured in points 
+
+They included a legal notice from Daly & Inamdar Advocates, a Chuka University invitation for admission of law students, a Nakuru Rural Water and Sanitation Company tender and several death and funeral announcements. 
+
+Font size (height) in printed matter is measured in points. There are 72 points per inch. So, a font that is one inch high —- such as some of those used in front-page headlines — is said to be 72 points. 
+
+Printed texts normally use a font size of 10-14 points, which are considered to be most readable. Newspaper stories are traditionally printed in 8, 9 or 10 points, depending on the font type. 
+
+Captions for photos, figures or illustrations can be as small as 8 points. 
+
+The smallest size that most people consider readable is 7 points — provided it’s used creatively with other typographical devices, such as white spaces, to enhance readability. 
+
+Now back to Mr Mungai. He asks: Can the Nation editor refuse to publish items from advertisers if the font size is too small for readability? Can NMG set a standard for the lowest font size acceptable? 
+
+In consumer protection law, goods and other things offered for sale to the public are required to be of merchantable quality — that is, good enough to do the job they are supposed to do, or of good enough standard. Otherwise, the consumer is entitled to return them and ask for a refund. 
+
+The editor is accountable to the reader for the readability of every item, including advertisements. A reader with 20/20 vision is entitled to a paper free from unreadable small print. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The editor, therefore, should ensure all content is readable. Otherwise, she wouldn’t be delivering to the reader a newspaper fit for purpose. 
+
+The Public Editor is an independent news ombudsman who handles readers’ complaints on editorial matters including accuracy and journalistic standards. Email: publiceditor@ke.nationmedia.com. Call or text 0721989264. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
