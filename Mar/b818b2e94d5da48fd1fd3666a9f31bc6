@@ -1,0 +1,215 @@
+Last week Bundesliga club Borussia Dortmund condemned racist abuse aimed at Jude Bellingham after he posted a screenshot of comments on Instagram. Paris 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The general secretary of global players' union FIFPro has reiterated calls for social media companies to do more to tackle abuse following recent cases involving some of football's leading names. 
+
+Last week Bundesliga club Borussia Dortmund condemned racist abuse aimed at Jude Bellingham after he posted a screenshot of comments on Instagram. 
+
+"Social media platforms from our perspective clearly haven't done enough to eradicate this problem, both from a technology perspective and from a monitoring perspective and finding out who is behind these accounts," Jonas Baer-Hoffmann told AFP. 
+
+Bellingham's case came after several other players called out online abuse, including Manchester United's Marcus Rashford. 
+
+FIFPro's recent "Shaping Our Future" reported highlighted the growing role played by footballers in the fight for social justice but pointed out the prevalence of abuse inside stadiums, at least until the coronavirus pandemic locked spectators out. 
+
+"Football overall has a significant problem with racism. At the moment we are so concentrated on social media, because it is getting worse, but also because we are not experiencing the same problems we had pre-Covid in stadiums because there are no people there," Baer-Hoffmann added. 
+
+"Before Covid came essentially we had reports every week about horrendous attacks on players in stadiums, and that problem will come back I'm pretty sure." 
+
+Meanwhile, Baer-Hoffmann, whose union represents over 65,000 players, believes the careers of many risk being cut short because of the ongoing physical demands of a packed calendar. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+European national teams are currently playing three matches in eight days in 2022 World Cup qualifying. Players will then return to clubs to complete seasons before the European Championship starts in June. 
+
+"The fact is this calendar is so completely congested that there is no space to move games anywhere and there has been an absolute failure over years, in terms of adding more and more competitive games and the intensity of the games increasing, without responding to the health problem," Baer-Hoffmann said. 
+
+"It is very problematic and if it doesn't come to a conclusion and a better regulatory system it continues to lead to injuries which nobody is benefiting from and which ultimately cuts short players' careers." 
+
+Nevertheless, he believes planned reforms of the Uefa Champions League - which are set to increase the number of games - could filter down and benefit players beyond Europe's elite, who he feels actually need more matches. 
+
+"The majority of football needs more games, both for clubs to be more sustainable and for players to have more exposure. That is why the new Uefa Conference League is not a bad idea," he said. 
+
+FIFPro's report said it had received claims for $61 million in unpaid wages in the five years to June 2020 and, referring to a new-look Champions League, he called for a portion of any additional revenue created to be used for a hardship fund. 
+
+This would "protect some of the players who are the victims of governance failures, who don't get their salaries paid, and who are the victims of insolvency at clubs." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
