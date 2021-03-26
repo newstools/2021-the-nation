@@ -1,0 +1,242 @@
+Plans by the Kakamega County Government to empower residents by setting up 400 community councils to drive development at the grassroots have triggered excitement among residents. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Governor Wycliffe Oparanya explained that the objective of establishing the councils was to decentralise county government services to the grassroots and enhance the benefits of devolution to communities. 
+
+Despite the establishment of the Community Area Councils being a milestone for Kakamega County, there are financial and logistical hitches weighing down the programme. 
+
+Mr Oparanya, who is serving his second and final term in office, seeks to ensure every part of the county benefits from resources allocated for development by the national government. 
+
+The biggest headache for the county government appears to be a failure to provide a budget for supporting the functions and activities of the councils, which are a key tool in promoting the devolved unit's development agenda. 
+
+In January this year, the governor met chairpersons of the Kakamega County Area Councils in Matungu. They were being trained on the roles they will be playing in steering the development agenda in the communities. 
+
+At the meeting in Matungu, County Executive for Public Service and County Administration Rodah Masaviru said decentralisation of services will increase participation of residents in decision-making.   
+
+Members of the community councils include retired civil servants who have worked in different capacities in the national government and the private sector. 
+
+The community councils, which are spread across the 12 sub counties in the populous county, have five members each, recruited by the County Public Service Board. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The members are opinion leaders in their communities, with knowledge and expertise in health, education, agriculture and governance. 
+
+Crucial role 
+
+The members will further address issues on infrastructure, water and the environment. 
+
+The community councils, which play a crucial role in promoting public participation, are yet to start convening meetings and preparing minutes on the development needs of their communities. 
+
+Mr Oparanya said in addition to providing information on issues affecting their areas, they will also supervise county projects within their jurisdiction to ensure the expected completion timelines are met and proper standards adhered to. 
+
+The councils will serve under the Community Council Area Administrators are the equivalent of chiefs and their assistants under the provincial administration system. 
+
+But the councils are yet to start convening meetings because of financial challenges the devolved unit is grappling with due to disruptions by the Covid-19 disruptions. 
+
+Mr Oparanya said the devolved unit had targeted to raise Sh2 billion in revenue in the 2020/21 financial year but only managed to collect Sh1.2 billion. 
+
+A community council area administrator told the Nation that members of the community councils could not convene the meetings because a decision on how much allowances they should be paid had not been made. 
+
+Convene 
+
+"The county councils are required to convene not more than four meetings each month to discuss the various issues on development affecting the communities but we still have challenges,” the member said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But Mr Patrick Mabuko, the secretary of the Kakamega County Residents Association said: "This is a crucial tool that will impact positively on development at the grassroots in our region. But, unfortunately, the approach by the county government is the wrong one, since there has been no proper planning and budget allocation for the community councils and this has derailed their operations." 
+
+Mr Mabuko said it was unfortunate that the councils had not been facilitated to do their work after they were established. 
+
+There are also fears that the councils could be used to promote political interests. 
+
+Mr Oparanya warned the officers against corrupt practices, which he said will attract swift disciplinary action, including dismissal from public service. 
+
+He cautioned residents against offering inducements to the officers in return for favours. 
+
+The roles stipulated in the Constitution focus on coordination, management and supervision of general administrative functions in the community area, particularly governance and service delivery matters. 
+
+"Beyond these constitutional functions, these officers are supposed to serve residents at the grassroots level. They should be the first to know and report if there is a disease outbreak and be involved in the implementation," said Mr Oparanya. 
+
+bamadala@ke.nationmedia.com Shanta Gold Limited says the exploration effort has returned a wide and high-grade zone. Senator Wetang’ula says those sceptical about the Sacred Alliance are in for more surprises. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
