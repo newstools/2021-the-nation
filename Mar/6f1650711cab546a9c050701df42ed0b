@@ -1,0 +1,147 @@
+Lisa Park will be the rally’s headquarters which will host the start, finish and the main Service Park of the KCB Bank-sponsored rallyRai, who finished in a commendable second at the season-opening Nakuru Rally, will again be navigated by Gareth DaweThird off the ramp will be the former national champion Carl Tundo followed by teammate Onkar Rai at number four while the reigning champion, Baldev Chager, will be at number five This Sunday’s spectator-less KCB Machakos Rally has attracted 21 entries with Eric Bengi and Peter Mutuma first off the ramp behind the wheels of a Mitsubishi Evo10. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tejveer Rai will take off in second place in the rotational system of seeding driving a VW Polo in this second round of the 2021 KCB Kenya National Rally Championship. Rai, who finished in a commendable second at the season-opening Nakuru Rally, will again be navigated by Gareth Dawe. 
+
+Karan Patel, who failed to finish the Nakuru Rally, is seeded at number six in his Ford Fiesta. 
+
+Third off the ramp will be the former national champion Carl Tundo followed by teammate Onkar Rai at number four while the reigning champion, Baldev Chager, will be at number five. 
+
+The official programme will kick off with the reconnaissance of the route on Saturday while the scrutineering of the rally cars will performed on the same day at the KMSC club house in Nairobi’s South C. 
+
+Lisa Park will be the rally’s headquarters which will host the start, finish and the main Service Park of the KCB Bank-sponsored rally. 
+
+Lisa Park (56 kilometres) and Kajiado (15.28 kilometres) will be the two main stages which will be repeated during the course of the competition.   
+
+The total distance will be 154 kilometres of which 143 will be competitive.   
+
+After Machakos, the next event will be the Equator Rally, the opening round of the 2021 African Rally Championship, to be staged from April 23 to 25 in Naivasha.  The Kenya Motor Sports Federation (KMSF) has come out strongly in defence of government-enforced Covid-19 protocols urging fans not to shift to lower gears in the fight against the coronavirus when action moves to Machakos this Sunday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a statement on Tuesday, the federation said it fully supports the government’s efforts to contain the rising numbers of Covid-19 cases. 
+
+The KCB Machakos Rally Entry List (with door numbers in brackets): 
+
+1. (7) Eric Bengi/Peter Mutuma (Mitsubishi Evolution 10), 2. (6) Tejveer Rai/Gareth Dawe (Volkswagen Polo), 3. (3) Carl Tundo/Tim Jessop (Mitsubishi Evolution 10). 4. (2) Onkar Rai/Drew Sturrock (Volkswagen Polo), 5. (1) Baldev Chager/Ravi Soni (Mitsubishi Evolution 10), 6 (8) Karan Patel/Tauseef Khan (Ford Fiesta), 7. (9) Jasmeet Chana/Ravi Chana (Mitsubishi Evolution 10), 8. (10) Issa Amwari/Job Njiru (Mitsubishi Evolution 10), 9. ( 200) Rajiv Ruparelia/Enoch Olinga (Volkswagen Polo/Proto), 10. (20) Nikhil Sachania/Alfir Khan (Mitsubishi Evolution 10), 11. (32) Evans Kavisi/Absolom Aswani (Mitsubishi Evolution 10), 12. (55) Piero Canobbio/TBA (Mitsubishi Evolution 10), 13. (15) John Ng’ang’a/Edward Ndukui (Subaru Impreza), 14. (23) Aakif Virani/Azhar Bhatti (Skoda Fabia), 15. (39) Nzioka Waita/Tuta Mionki (Mitsubishi Evolution 10), 16. (24) Mcrae Kimathi/Yusuf Shameer (Subaru Impreza), 17. (22) Edward Maina/John Ngugj (Subaru Impreza), 18 (57) Hamza Anwar/Riyaz Ismail (Subaru Impreza), 19. (34) Daren Miranda/Wayne Fernandes (Subaru Impreza), 20. (54) Rajveer Thethy/Kunal Patel (Daewoo Cielo). 21. (56) Sameer Nanji/James Mwangi (VW Golf) The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
