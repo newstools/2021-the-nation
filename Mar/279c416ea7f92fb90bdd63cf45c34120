@@ -1,0 +1,240 @@
+Pyrethrum Processing Company of Kenya (PPCK) pensioners want the government to act on the latest Auditor-General's report. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, the more than 200 pensioners said the current PPCK management should be held responsible for failing to disclose the correct asset value of the financially troubled company. 
+
+The pensioners' spokesperson Harun Tinga said that the company owns huge chunks of land, whose value appreciates by the day, in all the 18 counties . 
+
+"If by the end of June 2012, the official asset value of the company asset was Sh5.6billion why has the asset base depreciated in 2021. Somebody is playing games with pensioners and he should be cooling his or her heels in jail," said Mr Tinga. 
+
+The pensioners are owed more Sh2 billion by the company. At least 50 pensioners have died before being paid their dues.    
+
+The matter has been complicated by coronavirus pandemic as pensioners have been ailing at home with no money to seek medical attention. 
+
+"Our members are suffering from many ailments and are lying on their death beds while more than 50 have succumbed," lamented Mr Tinga. 
+
+Other suppliers including Pareto Sacco are owed millions of shillings by the Nakuru-based company that was the pride of Kenya up to the late 1990s where it earned the country over Sh10 billion annually. 
+
+At the same time, the pensioners faulted PPCK management for failing to release the last valuation of the asset report that was carried out in 2019. 
+
+“The actual value of PPCK is more than Sh8 billion and not Sh5.6 billion,” claimed Mr Tinga. 
+
+Government bailout 
+
+The latest audit report has revealed that the country's pioneer pyrethrum processing company is technically insolvent and requires a government bailout. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The report by Auditor-General Nancy Gathungu for the year ending June 30, 2019, shows that PPCK recorded a negative working capital of Sh481 million. 
+
+"The company is technically insolvent and its continued existence is dependent upon the financial support of the government and its creditors," says Ms Gathungu. 
+
+The financial statement reflects a company in deep financial troubles as its current assets stand at Sh376 million against total current liabilities of Sh857 million. 
+
+The financial statement reveals a company property asset, plant and equipment are valued at Sh5.6 billion. 
+
+ The Auditor-General casts doubts on the assets since they were not disclosed in the financial statements and approval for the revaluation which was done by the management in the previous financial year. 
+
+"In the previous year, the management revalued its assets and the revaluation was adopted in the year under review. However, the revaluation has not been disclosed in the financial statements and approval of the revaluation was not availed," read the report. 
+
+The report said PPCK did not reveal the full list of its motor vehicles for auditing. 
+
+35 vehicles 
+
+Only six vehicles were valued, while there was no evidence that 35 motor vehicles, although serviceable, were valued. 
+
+"This is contrary to the International Accounting Standard (IAS) 16 which states that if an item of property, plant and equipment is revalued, the entire class of property, plant and equipment to which the asset belongs shall be revalued." 
+
+ The Auditor-General further states that physical verification of the company vehicles revealed that eight vehicles purchased at Sh11.5 million were impounded and auctioned on May 19, 2018, due to outstanding payments to a businessman. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, the report reveals a shocking lack of land documents belonging to the company. 
+
+"The company did not provide ownership documents of 18 parcels of land valued at Sh354 million for audit review," read the report. 
+
+The company did not provide information on two prime land in Nakuru Municipality valued at Sh7.5 million and another land in Nyandarua County valued at Sh45.8 million. 
+
+fmureithi@ke.nationmedia.com  The company recorded a negative working capital of Sh481 million. More than 40 retirees are reported to have died, mostly of illnesses associated with frustrations. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
