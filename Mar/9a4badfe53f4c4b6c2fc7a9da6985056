@@ -1,0 +1,270 @@
+A longstanding dispute on ownership of a referral hospital, pitting a private health company against the government will now be handled by the Environment and Lands Court. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While referring the dispute to the lands court yesterday, the Supreme Court also reversed a compensation of Sh1.7 billion awarded to the company -- Uasin Gishu Memorial Hospital Ltd, by the Court of Appeal in 2017. 
+
+Land dispute 
+
+The compensation was for land, property, the hospital and related facilities, which were taken over by the Kanu government in 1998 for establishment of the Moi Teaching & Referral Hospital (MTRH). 
+
+The Supreme Court judges, cognizant that the dispute has been in the corridors of justice for more than two decades, directed that the Environment and Lands Court hears and determines the matter on a priority basis. 
+
+The five-judge bench, led by Acting Chief Justice Philomena Mwilu, specified more than 10 issues that the lands court should address in determining the legitimate owner of the hospital. 
+
+Among the issues to be determined by the lands court is the owner of the two pieces of land occupied by the hospital, and how they were acquired. 
+
+The court will also find out who owns the investments on the land, and by what means the investments were made. 
+
+Legal Status 
+
+Additionally, the lands court will determine the legal status of Legal Notice No. 78 of 1998 that was used to acquire the property to establish the MTRH. 
+
+The legal notice was published on June 12, 1998, when retired President Daniel Arap Moi -- by an order known as “The Moi Teaching and Referral Hospital Board Order, 1998” -- established the MTRH as a state corporation and appointed its board to take over the private facility and its property, including rights, duties, obligations, assets and liabilities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Evidence tabled in court shows that following the promulgation of the Legal Notice, the government compulsorily acquired the company’s hospital and the suit properties by ordering that its assets, rights and interests be transferred and managed by the MTRH board. The move was taken without following the due process of the law. 
+
+In March 2001, the MTRH board forcibly entered the health facility’s premises and took possession of the hospital and the suit properties. 
+
+In August 2004, the Registrar of Companies published a notice of intended dissolution of the company. This was followed by a Gazette Notice through which the company was dissolved and struck off the register. 
+
+Null and void 
+
+The dispute went to the Supreme Court following an appeal filed by the Attorney General and the Ministry of Health challenging the decision of the Appellate court to nullify the legal notice and declare it unconstitutional, illegal, null and void. 
+
+Appellate judges Asike Makhandia, William Ouko and Agnes Murgor had found the legal notice was an illegality to the extent that it purported to vest or transfer the company’s rights, duties obligation, assets and liabilities of its hospital and the suit properties to the MTRH Board. 
+
+They said such inclusion was in violation of the company’s fundamental right to ownership of property under Sections 70 (a) and (c) and 75 of the Constitution. Likewise, the court ordered the Ministry of Health to compensate the company Sh1,738,630,267 for deprivation of the suit properties, the hospital and related facilities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the Supreme Court found that the Appellate court erred in determining issues that had not been exhaustively determined by the High Court. 
+
+The Supreme Court also found that both the superior courts denied the parties their right to be heard on some of the contested issues in the dispute. 
+
+“We do agree with the argument that the Court of Appeal ought to have referred the matter back to the High Court for determination of contested issues. Consequently, we find error on the part of the Court of Appeal in determining the matter as it did,” said the judges while setting aside the Appellate court’s decision. 
+
+They directed the lands court to also determine whether the hospital occupies the disputed land, whether it is a public or a private hospital, when it was licensed to operate as such, and how it has been running. 
+
+The court will also find out whether the Uasin Gishu Memorial Hospital Ltd is a public or private entity, has it been paying taxes and if not, why? 
+
+Further, who have been board members of the company and have they ever changed? If yes, why and when did the changes happen? 
+
+Another issue for determination is if the district commissioner significantly chaired the affairs of the private company over the years, on whose authority he or she did, and how the directorship of the company moved to the government. 
+
+The court is also tasked with determining -- if the company were to be found to be entitled to compensation and can claim the same -- what mechanism should be used to quantify the compensation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
