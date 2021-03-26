@@ -1,0 +1,86 @@
+Police in Nairobi on Wednesday evening arrested a woman who allegedly stabbed three men, leaving one dead and two critically injured, in Saa Mbaya, Kahawa West. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Margaret Wambui Wangari is said to have started sucking blood that oozed from one of the men soon after she had stabbed them. It took startled onlookers who had witnessed the squabble that turned into a major clash to restrain the violent suspect. 
+
+“Passers-by found the suspect sucking blood from open stab wounds sustained by the three victims,” police said. 
+
+Irate mob 
+
+The suspect was saved from the irate mob who had started stoning her by police officers who had been deployed to nearby schools during the KCPE exams. 
+
+“Officers rushed to the scene, just as outraged members of the public were about to lynch the suspect, who had further inflicted a serious cut at a second man's forehead,” police said in a statement. 
+
+According to the police, the incident started after a fight ensued between the suspect, who was armed with a kitchen knife, and a man believed to be her boyfriend. 
+
+Passers-by 
+
+Two men, who were passing by, went to separate the couple but the enraged woman stabbed them with the knife, leaving them unconscious. 
+
+The two suffered serious stab injuries in the neck, chest and other parts of their bodies. 
+
+The survivors were rushed to Kenyatta University Teaching, Referral and Research Hospital while the dead man’s body was moved to Chiromo mortuary. 
+
+Detectives from Kasarani who were assigned the case are piecing together evidence to establish what exactly led to the scuffle that lead to death and serious injuries. She remained silent after the charges were read out to her, prompting the magistrate to issue the order. Angry residents attempt to lynch assailant but he manages to escape and is later arrested. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
