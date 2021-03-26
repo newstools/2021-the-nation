@@ -1,0 +1,76 @@
+Despite testing negative he will also have to isolate, ruling him out of calculations for the 1945GMT kick-off in Duisburg.The rest of Loew's men are available to play, although Bild noted that "it's highly likely the players will be retested" before the game. Berlin 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Germany's opening 2022 World Cup qualifier against Iceland on Thursday will go ahead despite one of Joachim Loew's squad testing positive for Covid-19, the German football federation announced. 
+
+"The match will be held, without any doubt," the federation's spokesman Jens Rittner told AFP subsidiary SID after talks with local health authorities. 
+
+Bild tabloid identified the player as twice-capped forward Jonas Hofmann who plays for Borussia Moenchengladbach. 
+
+Another German international, the eight-time capped RB Leipzig defender Marcel Halstenberg, is considered his close contact. 
+
+Despite testing negative he will also have to isolate, ruling him out of calculations for the 1945GMT kick-off in Duisburg. 
+
+The rest of Loew's men are available to play, although Bild noted that "it's highly likely the players will be retested" before the game. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
