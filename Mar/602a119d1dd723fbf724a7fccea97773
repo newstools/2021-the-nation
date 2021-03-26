@@ -1,0 +1,231 @@
+The campaign, which begins today (Friday), targets to immunise about 500 dogs and cats across the capital city.Most Nairobi residents with dogs fail to vaccinate their dogs because of the vaccination charges involved. The Nairobi County Directorate of Veterinary Services is set to commence a free mass vaccination of dogs and cats against rabies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The campaign, which begins today (Friday), targets to immunise about 500 dogs and cats across the capital city. 
+
+The exercise will take place in four centres including Uhuru (next to Uhuru Secondary School), Mbotela (behind Chief's office), Maringo Shopping Centre and Harambee Chief's Camp. 
+
+Most Nairobi residents with dogs fail to vaccinate their dogs because of the vaccination charges involved. 
+
+Private veterinarians charge between Sh1,000 and Sh2,000 for the vaccine while government outlets charge between Sh300 and Sh500 depending on the breed of the dog. 
+
+Acting Nairobi County Secretary Dr Jairus Musumba said having pets vaccinated against rabies is in law and the vaccine does not just protect the dogs and cats for rabies but also prevents them from transmitting the same if they bite someone. 
+
+This month alone 
+
+He stated that this month alone, Nairobi County has handled three cases of dog rabies from the area around Uhuru estate. 
+
+The first dog was impounded and became rabid at Pangani Dog Pound while the next one was surrendered by the owner in terminal state. 
+
+Both were positive for rabies when tested at Nairobi County laboratory. 
+
+The third dog, unfortunately attacked seven children in Uhuru Primary and K.A.G Primary before it was killed by members of community. 
+
+The children were rushed to hospital and are currently undergoing rabies post-exposure immunisation. 
+
+"The County veterinary department reported that eleven (11) stray dogs were seized from the area and taken to the pound," said Mr Musumba. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In July 2019, Embakasi residents held protests against escalating cases of deaths caused by marauding cats. 
+
+The residents claimed that a group of five vampire-like cats are at the centre of the havoc killing two people including a primary school pupil with another admitted at the Mama Lucy Hospital nursing the cat wounds. 
+
+He said the county government has since alerted area residents and dog owners to ensure that their dogs are kept in kennels and report to county authorities in case they fall ill. 
+
+On the other hand, members of the public have been advised to report any dog or cat bite or scratch to hospitals and county veterinary offices. 
+
+In 2019, animal welfare groups opposed a plan by City Hall to Nairobi County to kill stray dogs with the county government saying they were grappling with a crisis on the influx of stray dogs in public places and informal settlement areas. 
+
+The county government said there were 50,000 stray dogs in Nairobi with 70 out of 85 county wards declared hot spots as far as homeless dogs are concerned. 
+
+At the time, then Nairobi County Director of Veterinary Services, Dr Muriithi Muhari said every year over 6,000 cases of dog bites and injuries are reported in Nairobi, adding that between 2018 and 2019, five cases of deaths were reported due to emergence of rabies following dog bites. 
+
+Nairobi residents with dogs were accused of violating laws regulating the keeping of the animals by releasing their dogs to roam around. 
+
+A report by World Animal Welfare revealed that Karen, Kibera and Kawangware areas are the worst offenders with 50 percent of the people who own dogs in the mentioned areas guilty of letting their dogs stray especially at night. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+comulo@ke.nationmedia.com The new method could present a shift from the traditional form of dog vaccination that is carried out door to door. The government has given nod for the coronavirus vaccine to be trialed in the country. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
