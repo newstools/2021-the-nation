@@ -1,0 +1,84 @@
+Firefighters are battling a huge blaze sweeping through Lolldaiga, Laikipia that was sparked by British soldiers during a training exercise.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The British High Commission in Kenya on Friday said investigations are ongoing into the fire.  
+
+
+Investigations are ongoing into the fire during a UK-led exercise. Our priority is to urgently assist the local community - we are putting all resources into containing the fire and working closely with the Kenyan authorities to manage the situation. @BATUKOfficial— UK in Kenya 🇬🇧🇰🇪 (@UKinKenya) March 26, 2021  
+
+The fire, which started on Wednesday evening, has destroyed thousands of acres of vegetation as efforts to contain it continues. 
+
+The British Army Training Unit Kenya (BATUK), whose soldiers were training in the area, also confirmed the fire outbreak. 
+
+
+A fire has broken out on the Training area at LolDaiga. We are currently doing everything we can to contain the fire, alongside our Kenyan Partners in order to protect the surrounding community, employees and soldiers. Thank you for your continued support— BATUK (@BATUKOfficial) March 25, 2021  
+
+
+UK and Kenyan authorities working flat out to contain the fire; 350 UK and Kenyan soldiers have been deployed to fight the fire, 4 helicopters and 4 water tanks continue to be utilized as well. Thank you for your continued support. Will keep you updated. pic.twitter.com/NQfX8LdR3M— BATUK (@BATUKOfficial) March 26, 2021  
+
+A report by the Daily Mail, a British tabloid, indicates that four adult elephants and a calf are feared dead. 
+
+The blaze is reported to have started as British troops were cooking a meal and accidentally set surrounding grass alight. 
+
+More follows... Outbreak of the coronavirus was reported at their training camp in Nanyuki in January. The training unit had been recalled to the UK following the outbreak of Covid-19. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation.
