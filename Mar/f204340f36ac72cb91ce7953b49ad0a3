@@ -1,0 +1,163 @@
+Governor Tunai, however, warned residents against dropping their guard, saying Nakuru, Bomet and Kajiado and Tanzania, across the border, have had many infections. As hospitals in counties such as Nairobi grapple with a shortage of beds due to the surging number of Covid-19 patients, it has emerged that Narok has empty ICU beds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Nation has established that the nine-bed intensive care facility at the Narok County Referral Hospital remains empty. 
+
+According to statistics from the county’s health department, Narok has only seven patients in isolation at the 300-bed Covid-19 centre at Ololulunga Level 4 Hospital in Narok South. 
+
+Since confirming its first Covid-19 case on June 13 last year, the county has confirmed 524 cases, including 21 deaths. 
+
+No critical conditions 
+
+On Thursday, Governor Samuel Tunai revealed that the ICU beds were unoccupied as there were no patients in critical condition. 
+
+“While other hospitals are overwhelmed, in Narok we are ready to handle [any eventualities]. The 340-bed isolation centre is well-equipped,” Governor Tunai said. 
+
+The governor said that cumulatively, facilities have admitted a total of 194 people since the first patient was taken into isolation. A majority have been discharged, he said. 
+
+Remaining alert 
+
+Governor Tunai, however, warned residents against dropping their guard, raising the red flag about many infections in parts such as Nakuru, Bomet and Kajiado and Tanzania, across the border. 
+
+Addressing the press accompanied by County Commissioner Evans Achoki, he called on security agencies to crack the whip on eateries and bars whose patrons are ignoring the Ministry of Health protocols of combating Covid-19. 
+
+“I direct all county security officers to ensure full enforcement of all Ministry of Health protocols. Action will be taken against all people wearing masks below their chins. It does not serve any purpose for someone to have a mask and pull it below the chin. It is the mouth and nose that need to be covered, not the chin,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccination 
+
+Regarding vaccination, Mr Tunai revealed 497 have taken the jab following the supply of 3,000 doses to the county about three weeks ago. Among them are 89 health workers and 68 security officers. 
+
+He urged residents to take the jab, saying the vaccine is safe and free of charge. 
+
+The inoculation is taking place at the Narok referral hospital and the main facility in Kilgoris, amid plans to roll out the campaign across the county. 
+
+Mr Achoki said the county security team has stepped up the crackdown on those flouting Covid-19 protocols and that legal action will follow. 
+
+“We are on high alert and the curfew is still on. Businesses operating past the recommended hours shall face indefinite closure,” he warned. 
+
+He also affirmed that security along the county’s border with Tanzania has been heightened. 
+
+sayagie@gmail.com Inquiries in top hospitals exposed frustrations families are undergoing to have sick relatives admitted. No patient is hooked to a ventilator while only eight are on oxygen support. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
