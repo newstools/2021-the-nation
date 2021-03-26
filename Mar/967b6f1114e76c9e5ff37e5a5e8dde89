@@ -1,0 +1,639 @@
+Gunjur, a town of some fifteen thousand people, sits on the Atlantic coastline of southern Gambia, the smallest country on the African continent. During the day, its white-sand beaches are full of activity.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Fishermen steer long, vibrantly painted wooden canoes, known as pirogues, toward the shore, where they transfer their still-fluttering catch to women waiting at the water’s edge. The fish are hauled off to nearby open-air markets in rusty metal wheelbarrows or in baskets balanced on heads.  
+
+Small boys play soccer as tourists watch from lounge chairs. At nightfall, work ends and the beach is dotted with bonfires. There is drumming and kora lessons; men with oiled chests grapple in traditional wrestling matches. 
+
+Hike five minutes inland, and you’ll find a more tranquil setting: a wildlife reserve known as Bolong Fenyo. Established by the Gunjur community in 2008, the reserve is meant to protect seven hundred and ninety acres of beach, mangrove swamp, wetland, savannah, and an oblong lagoon. The lagoon, a half mile long and a few hundred yards wide, has been a lush habitat for a remarkable variety of migratory birds as well as humped-back dolphins, epaulet fruit bats, Nile crocodiles, and callithrix monkeys.  
+
+A marvel of biodiversity, the reserve has been integral to the region’s ecological health—and, with hundreds of birders and other tourists visiting each year, to its economic health, too.  
+
+Everything is red 
+
+But on the morning of May 22, 2017, the Gunjur community discovered that the Bolong Fenyo lagoon had turned a cloudy crimson overnight, dotted with floating dead fish.  
+
+“Everything is red,” one local reporter wrote, “and every living thing is dead.” Some residents wondered if the apocalyptic scene was an omen delivered in blood. More likely, ceriodaphnia, or water fleas, had turned the water red in response to sudden changes in pH or oxygen levels. Locals soon reported that many of the birds were no longer nesting near the lagoon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A few residents filled bottles with water from the lagoon and brought them to the one person in town they thought might be able to help—Ahmed Manjang. Born and raised in Gunjur, Manjang now lives in Saudi Arabia, where he works as a senior microbiologist. He happened to be home visiting his extended family, and he collected his own samples for analysis, sending them to a laboratory in Germany.  
+
+The results were alarming. The water contained double the amount of arsenic and forty times the amount of phosphates and nitrates deemed safe. The following spring, he wrote a letter to Gambia’s environmental minister, calling the death of the lagoon “an absolute disaster.”  
+
+Pollution at these levels, Manjang concluded, could only have one source: illegally dumped waste from a Chinese fish-processing plant called Golden Lead, which operates on the edge of the reserve. Gambian environmental authorities fined the company twenty-five thousand dollars, an amount that Manjang described as “paltry and offensive.” 
+
+Golden Lead is one outpost of an ambitious Chinese economic and geopolitical agenda known as the Belt and Road Initiative, which the Chinese government has said is meant to build goodwill abroad, boost economic cooperation, and provide otherwise inaccessible development opportunities to poorer nations.  
+
+As part of the initiative, China has become the largest foreign financier of infrastructure development in Africa, cornering the market on most of the continent’s road, pipeline, power plant and port projects.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2017, China cancelled fourteen million dollars in Gambian debt and invested thirty-three million to develop agriculture and fisheries, including Golden Lead and two other fish-processing plants along the fifty-mile Gambian coast. The residents of Gunjur were told that Golden Lead would bring jobs, a fish market, and a newly paved, three-mile road through the heart of town. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How fish meal production Is destroying Gambia’s waters
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Exploding demand for fish 
+
+Golden Lead and the other factories were rapidly built to meet an exploding global demand for fishmeal—a lucrative golden powder made by pulverizing and cooking fish.  
+
+Exported to the United States, Europe, and Asia, fishmeal is used as a protein-rich supplement in the booming industry of fish farming, or aquaculture. West Africa is among the world’s fastest-growing producers of fishmeal: more than fifty processing plants operate along the shores of Mauritania, Senegal, Guinea Bissau, and Gambia. 
+
+The volume of fish they consume is enormous: one plant in Gambia alone takes in more than seven thousand five hundred tonnes of fish a year, mostly of a local type of shad known as bonga—a silvery fish about ten inches long.  
+
+For the area’s local fishermen, most of whom toss their nets by hand from pirogues powered by small outboard motors, the rise of aquaculture has transformed their daily working conditions: hundreds of legal and illegal foreign fishing boats, including industrial trawlers and purse seiners, crisscross the waters off the Gambian coast, decimating the region’s fish stocks and jeopardising local livelihoods.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An open-air fish market in Gambia. 
+Photo credit: Fábio Nascimento | The Outlaw Ocean Project
+
+ 
+
+At the Tanji fish market in summer of 2019, Abdul Sisai stood at a table offering four sickly-looking catfish for sale. The table swarmed with flies, the air was thick with smoke from nearby curing sheds, and menacing seagulls dive-bombed for scraps.  
+
+Sisai said that bonga had been so plentiful two decades ago that in some markets it had been given away for free. Now it costs more than most local residents can afford. He supplements his income by selling trinkets near the tourist resorts in the evenings.  
+
+“Sibijan deben,” Sisai said in Mandinka, one of the major languages in Gambia. Locals use the phrase, which refers to the shade of the tall palm tree, to describe the effects of extractive export industries: the profits are enjoyed by people far from the source—the trunk.  
+
+In the past several years, the price of bonga has increased exponentially, according to the Association for the Promotion and Empowerment of Marine Fishers, a Senegalese-based research-and-education group. Half the Gambian population lives below the international poverty line—and fish, primarily bonga, accounts for half of the country’s animal-protein needs.  
+
+Stench of rotten fish  
+
+After Golden Lead was fined, in 2019, it stopped releasing its toxic effluent directly into the lagoon. Instead, it ran a long wastewater pipe under a nearby public beach, dumping waste directly into the sea. Swimmers soon started complaining of rashes, the ocean grew thick with seaweed, and thousands of dead fish washed ashore, along with eels, rays, turtles, dolphins, and even whales. Residents burned scented candles and incense to combat the rancid odor coming from the fish meal plants, and tourists wore white masks.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The stench of rotten fish clung to clothes, even after repeated washing.  
+
+Jojo Huang, the director of the plant, has said publicly that the facility follows all regulations and “does not pump chemicals into the sea.” The plant has benefited the town, she told The Guardian.  
+
+In March 2018, about a hundred and fifty local shopkeepers, youth and fishermen, wielding shovels and pickaxes, gathered on the beach to dig up the pipe and destroy it. Two months later, with the government’s approval, workers from Golden Lead installed a new pipe, this time planting a Chinese flag alongside it. The gesture carried colonialist overtones. One local called it “the new imperialism.” 
+
+Manjang was outraged.  
+
+“It makes no sense!” he told me, when I visited him in Gunjur at his family compound, an enclosed three-acre plot with several simple brick houses and a garden of cassava, orange, and avocado trees. Behind Manjang’s thick-rimmed glasses, his gaze is gentle and direct as he speaks urgently about the perils facing Gambia’s environment.  
+
+“The Chinese are exporting our bonga fish to feed it to their tilapia fish, which they’re shipping back here to Gambia to sell to us, more expensively—but only after it’s been pumped full of hormones and antibiotics.”  
+
+
+
+
+
+
+
+
+
+
+
+An aerial shot of the Chinese fishing ship in Gambian waters. 
+Photo credit: Fábio Nascimento | The Outlaw Ocean Project
+
+ 
+
+Adding to the absurdity, he noted, is that tilapia are herbivores that normally eat algae and other sea plants, so they have to be trained to consume fish meal.  
+
+Manjang contacted environmentalists and journalists, along with Gambian lawmakers, but was soon warned by the Gambian trade minister that pushing the issue would only jeopardize foreign investment. Dr Bamba Banja, the head of the Ministry of Fisheries and Water Resources, was dismissive, telling a local reporter that the awful stench was just “the smell of money.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Global demand for seafood has doubled since the nineteen-sixties. Our appetite for fish has outpaced what we can sustainably catch: more than eighty per cent of the world’s wild fish stocks have collapsed or are unable to withstand more fishing. Aquaculture has emerged as an alternative—a shift, as the industry likes to say, from capture to culture.  
+
+The fastest-growing segment of global food production, the aquaculture industry is worth a hundred and sixty billion dollars and accounts for roughly half of the world’s fish consumption. Even as retail seafood sales at restaurants and hotels have plummeted during the pandemic, the dip has been offset in many places by the increase in people cooking fish at home.  
+
+
+
+
+
+
+
+
+
+
+
+A pile of fishing nets next to Gambian fishermen and their vessels. 
+Photo credit: Fábio Nascimento | The Outlaw Ocean Project
+
+ 
+
+The United States imports eighty per cent of its seafood, most of which is farmed. The bulk of that comes from China, by far the world’s largest producer, where fish are grown in sprawling landlocked pools or in pens offshore spanning several square miles. 
+
+Aquaculture 
+
+Aquaculture has existed in rudimentary forms for centuries, and it does have some clear benefits over catching fish in the wild. It reduces the problem of bycatch—the thousands of tons of unwanted fish that are swept up each year by the gaping nets of industrial fishing boats, only to suffocate and be tossed back into the sea. And farming bivalves—oysters, clams, and mussels—promises a cheaper form of protein than traditional fishing for wild-caught species. In India and other parts of Asia, these farms have become a crucial source of jobs, especially for women. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Aquaculture makes it easier for wholesalers to ensure that their supply chains are not indirectly supporting illegal fishing, environmental crimes, or forced labor.  
+
+There’s potential for environmental benefits, too: with the right protocols, aquaculture uses less fresh water and arable land than most animal agriculture. Farmed seafood produces a quarter of the carbon emissions per pound that beef does, and two-thirds of what pork does. 
+
+Still, there are also hidden costs. When millions of fish are crowded together, they generate a lot of waste. If they’re penned in shallow coastal pools, the solid waste turns into a thick slime on the seafloor, smothering all plants and animals. Nitrogen and phosphorus levels spike in surrounding waters, causing algal blooms, killing wild fish, and driving away tourists. Bred to grow faster and bigger, the farmed fish sometimes escape their enclosures and threaten indigenous species.  
+
+Even so, it’s clear that if we are to feed the planet’s growing human population, which depends on animal protein, we will need to rely heavily on industrial aquaculture. Leading environmental groups have embraced this idea. In a 2019 report, the Nature Conservancy called for more investment in fish farms, arguing that by 2050 the industry should become our primary source of seafood.  
+
+Many conservationists say that fish farming can be made even more sustainable with tighter oversight, improved methods for composting waste, and new technologies for recirculating the water in on-land pools. Some have pushed for aquaculture farms to be located farther from shore in deeper waters with faster and more diluting currents.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An aerial shot of the Gambian coastline. 
+Photo credit: Fábio Nascimento | The Outlaw Ocean Project
+
+ 
+
+The biggest challenge to farming fish is feeding them. Food constitutes roughly seventy per cent of the industry’s overhead, and so far the only commercially viable source of feed is fish meal.  
+
+Perversely, the aquaculture farms that produce some of the most popular seafood, such as carp, salmon, or European sea bass, actually consume more fish than they ship to supermarkets and restaurants. Before it gets to market, a “ranched” tuna can eat more than fifteen times its weight in free-roaming fish that has been converted to fishmeal.  
+
+Troubling paradox 
+
+About a quarter of all fish caught globally at sea end up as fish meal, produced by factories like those on the Gambian coast. Researchers have identified various potential alternatives—including human sewage, seaweed, cassava waste, soldier-fly larvae, and single-cell proteins produced by viruses and bacteria—but none is being produced affordably at scale. So, for now, fish meal it is. 
+
+The result is a troubling paradox: the seafood industry is ostensibly trying to slow the rate of ocean depletion, but by farming the fish we eat most, it is draining the stock of many other fish—the ones that never make it to the aisles of Western supermarkets. Gambia exports much of its fish meal to China and Norway, where it fuels an abundant and inexpensive supply of farmed salmon for European and American consumption. Meanwhile, the fish Gambians themselves rely on for their survival are rapidly disappearing.  
+
+In September 2019, Gambian lawmakers gathered in the stately but neglected hall of the National Assembly for an annual meeting, where James Gomez, minister of the country’s fisheries and water resources, insisted that “Gambian fisheries are thriving. ”  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-9");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Industrial fishing boats and plants represent the largest employer of Gambians in the country, including hundreds of deckhands, factory workers, truck drivers, and industry regulators. When a lawmaker asked him about the criticisms of the three fish-meal plants, including their voracious consumption of bonga, Gomez refused to engage.  
+
+“Boats are not taking more than a sustainable amount,” he said, adding that Gambian waters even have enough fish to sustain two more plants.  
+
+Under the best circumstances, estimating the health of a nation’s fish stock is a murky science. Marine researchers like to say that counting fish is like counting trees, except they’re mostly invisible—below the surface—and constantly moving. Ad Corten, a Dutch fishing biologist, told me that the task is even tougher in a place like West Africa, where countries lack the funding to properly analyze their stocks.  
+
+The only reliable assessments of fish stocks in the area have focussed on Mauritania, Corten said, and they show a sharp decline driven by the fish-meal industry. “Gambia is the worst of them all,” he said, noting that the fisheries ministry barely tracks how many fish are caught by licensed ships, much less the unlicensed ones. 
+
+As fish stocks have been depleted, many wealthier nations have increased their marine policing, often by stepping up port inspections, imposing steep fines for violations, and using satellites to spot illicit activity at sea. 
+
+They also have required industrial boats to carry mandatory observers and to install monitoring devices onboard. But Gambia, like many poorer countries, has historically lacked the political will, technical skill, and financial capacity to exert its authority offshore. 
+
+Still, though it has no police boats of its own, Gambia is trying to better protect its waters. In August 2019, I joined a secret patrol that the fisheries agency was conducting with the help of an international ocean conservation group called Sea Shepherd, which had brought—as surreptitiously as it could—a one-hundred-and-eighty-four-foot ship called the Sam Simon into the area. It’s equipped with extra fuel capacity, to allow for long patrols, and a doubly reinforced steel hull for ramming into other boats.    
+
+In Gambia, the nine miles of water closest to the shore have been reserved for local fishermen, but on any given day dozens of foreign trawlers are visible from the beach. Sea Shepherd’s mission was to find and board  trespassers, or other vessels engaged in prohibited behaviors, such as shark finning or netting juvenile fish.  
+
+In the past few years, the group has worked with African governments in Gabon, Liberia, Tanzania, Benin, and Namibia to conduct similar patrols. Some fisheries experts have criticized these collaborations as publicity stunts, but they have led to the arrest of more than fifty illegal fishing ships.  
+
+Barely a dozen local government officials had been informed about the Sea Shepherd mission. To avoid being spotted by fishermen, the group brought in several small speed boats at night and used them to spirit a dozen heavily armed Gambian Navy and fisheries officers out to the Sam Simon. We were joined on the patrol by two gruff private-security contractors from Israel, who were training the Gambian officers in military procedures for boarding ships.  
+
+While we waited on the moonlit deck, one of the Gambian guards, dressed in a crisp blue-and-white camouflage uniform, showed me a music video on his phone by one of Gambia’s best-known rappers, ST Brikama Boyo. He translated the lyrics of a song, called “Fuwareyaa,” which means “poverty”: “People like us don’t have meat and the Chinese have taken our sea from us in Gunjur and now we don’t have fish.”  
+
+Three hours after we embarked, the foreign ships had all but vanished, in what appeared to be a coördinated flight from the forbidden waters. Sensing that word about the operation had gotten out, the Sam Simon’s captain changed plans.  
+
+Instead of focussing on the smaller unlicensed ships close to land that were mostly from neighboring African countries, he would conduct surprise at-sea inspections of the fifty-five industrial ships that were licensed to be in Gambian waters. It was a bold move: marine officers would be boarding larger, well-financed ships, many of them with political connections in China and Gambia.  
+
+Less than an hour later, we pulled alongside the Lu Lao Yuan Yu 010, a hundred-and-thirty-four-foot electric-blue trawler streaked with rust, operated by a Chinese company called Qingdao Tangfeng Ocean Fishery, a company that supplies all three of Gambia’s fish-meal plants. A team of eight Gambian officers from the Sam Simon boarded the ship, AK-47s slung over their shoulders. One officer was so nervous that he forgot the bullhorn he was assigned to carry. Another officer’s sunglasses fell into the sea as he leaped onto the deck.  
+
+Onboard the Lu Lao Yuan Yu 010 were seven Chinese officers and a crew of four Gambians and thirty-five Senegalese. The Gambian marine officers soon began grilling the ship’s captain, a short man named Shenzhong Qui who wore a shirt smeared with fish guts. Below deck, ten African crew members in yellow gloves and stained smocks stood shoulder to shoulder on either side of a conveyor belt, sorting bonga, mackerel, and whitefish into pans. Nearby, the floor-to-ceiling rows of freezers were barely cold. Roaches scurried up the walls and across the floor, where some fish had been stepped on and squashed.  
+
+I spoke to one of the workers who told me his name was Lamin Jarju and agreed to step away from the line to talk. Though no one could hear us above the deafening ca-thunk, ca-thunk of the conveyor, he lowered his voice before explaining that the ship had been fishing within the nine-mile zone until the captain received a radioed warning from nearby ships that a policing effort was under way. 
+
+When I asked Jarju why he was willing to reveal the ship’s violation, he said, “Follow me.” He led me up two levels to the roof of the wheel room, where the captain works. He showed me a large nest of crumpled newspapers, clothing, and blankets, where, he said, several crew members had been sleeping for the past several weeks, ever since the captain hired more workers than the ship could accommodate. “They treat us like dogs,” Jarju said.  
+
+When I returned to the deck, an argument was escalating. A Gambian Navy lieutenant named Modou Jallow had discovered that the ship’s fishing log book was blank. All captains are required to maintain log books and keep detailed diaries that document where they go, how long they work, what gear they use, and what they catch. The lieutenant had issued an arrest order for the infraction and was yelling in Chinese at Captain Qui, who was incandescent with rage. “No one keeps that!” he shouted.  
+
+He was not wrong. Paperwork violations are common, especially on fishing boats working along the coast of West Africa, where countries don’t always provide clear guidance about their rules. Fishing-boat captains tend to view log books as tools of bribe-seeking bureaucrats or as statistical cudgels of conservationists bent on closing fishing grounds.  
+
+But the lack of proper logs makes it almost impossible to determine how quickly Gambia’s waters are being depleted. Scientists rely on biological surveys, scientific modelling and mandatory reports from fish dealers on shore to assess fish stocks. And they use log books to determine fishing locations, depths, dates, gear descriptions, and “fishing effort”—how long nets or lines are in the water relative to the quantity of fish caught.   
+
+Jallow ordered the fishing Captain to steer his ship back to port, and the argument moved from the upper deck down to the engine room, where the Captain claimed he needed a few hours to fix a pipe—enough time, the Sam Simon crew suspected, for the Captain to contact his bosses in China and ask them to call in a favor with high-level Gambian officials. Jallow, sensing a stalling tactic, smacked the Captain in the face. “You will make the fix in an hour!” Jallow shouted, grabbing the Captain by the throat. “And I will watch you do it.” Twenty minutes later, the Lu Lao Yuan Yu 010 was en route to shore. 
+
+Arrests 
+
+Over the next several weeks, the Sam Simon inspected fourteen foreign ships, most of them Chinese and licensed to fish in Gambian waters, and arrested thirteen of them.  
+
+Under arrest, ships are typically detained in port for several weeks and fined anywhere from five thousand to fifty thousand dollars. All but one vessel was charged with lacking a proper fishing-log book, and many were also fined for improper living conditions and for violating a law that stipulates Gambians must comprise twenty per cent of shipping crews on industrial vessels in national waters.  
+
+On one Chinese-owned vessel, there weren’t enough boots for the deckhands, and one Senegalese worker was pricked by a catfish whisker while wearing flip flops. His swollen foot, oozing from the puncture wound, looked like a rotting eggplant. On another ship, eight workers slept in a space meant for two, a four-foot-tall steel-sided compartment directly above the engine room and dangerously hot.  
+
+
+
+
+
+
+
+
+
+
+
+A mix of Senegalese and Gambian workers targeting bonga fish to make into fishmeal and living in squalid conditions working on a Chinese fishing boat. 
+Photo credit: Fábio Nascimento | The Outlaw Ocean Project
+
+ 
+
+When high waves crashed onboard, the water flooded the makeshift cabin, where, the workers said, an electrical power strip had twice almost electrocuted them.  
+
+Back in Banjul, one rainy afternoon I sought out Manneh, the local Gambian journalist and environmental advocate. We met in the white-tiled lobby of the Laico Atlantic hotel, decorated with fake potted plants and thick yellow drapes. Pachelbel’s Canon played in an endless loop in the background, accompanied by the plinking of water dripping from the ceiling into half a dozen buckets.  
+
+Manneh had recently returned to Gambia after a year in Cyprus, where he had fled after his father and brother had been arrested for political activism against Yahya Jammeh, a brutal autocrat who was eventually forced from power in 2017. Manneh, who told me that he hoped to become President one day, offered to take me to the Golden Lead factory.  
+
+The next day, Manneh returned in a Toyota Corolla he had hired for the difficult drive. Most of the road from the hotel to Golden Lead was dirt, which recent rains had turned into a treacherous slalom course of deep and almost impassable craters. The trip was about thirty miles, and took nearly two hours.  
+
+Over the din of a missing muffler, he prepared me for the visit. “Cameras away,” he cautioned.  
+
+“No saying anything critical about fish meal.” Just a week before my arrival that some of the same fishermen who had pulled up the plant’s wastewater pipe had apparently switched sides, attacking a team of European researchers who had come to photograph the facility, pelting them with rocks and rotten fish. Though they opposed the dumping and resented the export of their fish, some locals did not want foreign media publicizing Gambia’s problems.  
+
+We finally pulled up at the entrance of the plant, five hundred yards from the beach, behind a ten-foot wall of white corrugated metal. An acrid stench, like burning orange peels and rotting meat, assaulted us as soon as we got out of the car. Between the factory and the beach was a muddy patch of land, studded with palm trees and strewn with litter, where fishermen were repairing their boats in thatched-roof huts. The day’s catch lay on a set of folding tables, where women were cleaning, smoking, and drying it for sale.  
+
+One of the women wore a hijab dripping wet from the surf. When I asked her about the catch, she shot me a dour look and tipped her basket toward me. It was barely half-full.  
+
+“We can’t compete,” she said. Pointing at the factory, she added, “It all goes there.”  
+
+The Golden Lead plant consists of several football-field-size concrete buildings, and sixteen silos, where dried fish meal and chemicals were stored.  
+
+Fish meal is relatively simple to make, and the process is highly mechanised, which means that plants the size of Golden Lead need only about a dozen men on the floor at any given time.  
+
+Video footage clandestinely taken by a fishmeal worker inside Golden Lead reveals the plant is cavernous, dusty, hot, and dark. Sweating profusely, several men shovel shiny heaps of bonga into a steel funnel. A conveyor belt carries the fish into a vat, where a giant churning screw grinds it into a gooey paste, and then into a long cylindrical oven, where oil is extracted from the goo.  
+
+The remaining substance is pulverised into a fine powder and dumped onto the floor in the middle of the warehouse, where it accumulates into a ten-foot-tall golden mound. After the powder cools, workers shovel it into fifty-kilogram plastic sacks stacked floor to ceiling. A shipping container holds four hundred bags, and the men fill roughly twenty to forty containers a day. 
+
+Near the entrance of Golden Lead, a dozen or so young men hustled from shore to plant with baskets on their heads, brimming with bonga. Nearby, standing under several gangly palm trees, a forty-two-year-old fisherman named Ebrima Jallow explained that the women pay more for a single basket, but Golden Lead buys in bulk and often pays for twenty baskets in advance—in cash. “The women can’t do that,” he said.  
+
+A few hundred yards away, Dawda Jack Jabang, the fifty-seven-year-old owner of the Treehouse Lodge, a deserted beachfront hotel and restaurant, stood in a side courtyard staring at the breaking waves. “I spent two good years working on this place,” he told me. “And overnight Golden Lead destroyed my life.” Hotel bookings have plummeted, and the plant’s odor at times is so noxious that patrons leave his restaurant before finishing their meal. 
+
+Golden Lead has hurt more than helped the local economy, Jabang said. But what about all of those young men hauling their baskets of fish to the factory? Jabang waved the question away dismissively: “This is not the employment we want. They’re turning us into donkeys and monkeys.”  
+
+The Covid-19 pandemic has highlighted the tenuousness of this employment landscape, as well as its corruption. In May, many of the migrant workers on fishing crews returned home to celebrate Eid just as borders were closing down. With workers unable to return to Gambia and new lockdown measures in place, Golden Lead and other plants suspended operation.  
+
+Or they were supposed to. Manneh obtained secret recordings in which Bamba Banja, of the Ministry of Fisheries, discussed bribes in exchange for allowing factories to operate during the lockdown. In October, Banja took a leave of absence after a police investigation found that, between 2018 and 2020, he had accepted ten thousand dollars in bribes from Chinese fisherman and companies, including Golden Lead.   
+
+On the day that I visited Golden Lead, I made my way down to the sprawling beach. I found Golden Lead’s new wastewater pipe, which was about 12 inches in diameter, already rusted, corroded and only slightly visible above the mounds of sand. The Chinese flag was gone. Kneeling down, I felt liquid flowing through it. Within minutes, a Gambian guard appeared and ordered me to leave the area. 
+
+The next day I headed to the country’s only international airport, located an hour away from the capital, Banjul, to catch my flight home. My luggage was light now that I’d thrown away the putrid-smelling clothes from my trip to the fish-meal plant. At one point during the drive, as we negotiated pothole after pothole, my taxi driver vented his frustration. “This,” he said, gesturing ahead of us, “is the road the fishmeal plant promised to pave.”   
+
+At the airport, I discovered my flight had been delayed by a flock of buzzards and gulls blocking the only runway. Several years earlier, the Gambian government had built a landfill close by, and scavenger birds descended in droves. While I waited among a dozen German and Australian tourists, I called Mustapha Manneh. I reached him at home, in the town of Kartong, seven miles from Gunjur. 
+
+Manneh told me he was standing in his front yard, looking out on a litter-strewn highway that connects the JXYG factory, a Chinese fish-meal plant, to Gambia’s largest port, in Banjul. In the few minutes we had been talking, he said, he had watched ten tractor-trailer trucks rattle by, kicking up thick clouds of dust as they went, each hauling a forty-foot-long shipping container full of fish meal. From Banjul, those containers would depart for Asia, Europe, and the United States.  
+
+“Every day,” Manneh said, “it’s more.” Political liberties are almost non-existent and human rights violations are part of everyday life. Africa's most populous nation of 200 million people, is pushing ahead with reviving its railways, despite years of frustrating delays. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
