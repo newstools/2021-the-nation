@@ -1,0 +1,340 @@
+Déby is an experienced military man who first joined the army in the 1970s during the former French colony’s civil war.He eventually became commander in chief of the armed forces under former president Hissène Habré who served from 1982 to 1990.During this election period only Déby and his ruling Patriotic Salvation Movement have been allowed to campaign. Chadian President Idriss Déby Itno, who has ruled since 1990, is gearing up to take on his sixth mandate as head of state. Elections are scheduled for 11 April 2021. And the country’s 2018 constitution allows him to stay in office, if elected, until 2033. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Déby is an experienced military man who first joined the army in the 1970s during the former French colony’s civil war. He eventually became commander in chief of the armed forces under former president Hissène Habré who served from 1982 to 1990. 
+
+In that year, an insurrection led by Déby hounded President Habré out of office. Déby promised to establish a functioning multiparty democracy and to put an end to the previous regime’s lawlessness and violence. That promise was short lived. Déby’s ambitions quickly shifted to staying in power by any means and enriching his extended family. 
+
+Thirty years later, he is governing a population that has long suffered from extreme poverty despite the country’s oil wealth. The country also has an inadequate healthcare system, poor educational opportunities, lack of career prospects among the youth, and high unemployment. The United Nations Human Development Index (2020) ranks the country 187 (out of 189). 
+
+Political liberties are almost non-existent; human rights violations are part of everyday life, and opposition leaders, human rights activists, journalists and trade unionists live under permanent threat. 
+
+Over the years, various protests have been staged against Déby’s rule. Opposition parties and trade unions have held repeated demonstrations to demand free and fair elections, and also to bring attention to the poor socio-economic status of ordinary Chadians. 
+
+Northern Chad has also witnessed a number of rebellions against Déby’s rule. And in 2006 and 2008, members of Déby’s Zaghawa clan and former allies who defected to the opposition tried to overthrow him by military force. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Most recently, protests broke out in February 2021, when Déby announced that he would run for a sixth term. The president dispatched his security forces to disperse them immediately. 
+
+
+
+
+
+
+Chad President Idriss Deby Itno (centre) waves at supporters during a campaign rally in N'Djamena, Chad, on March 13, 2021. 
+Photo credit: Renaud Masbeye Boybeye | AFP
+
+ 
+
+Run-up to the elections 
+
+The resistance during this election cycle is even more passionate than in recent years. Chadians are turning to the example set by Burkina Faso and Mali, where presidents Blaise Compaore and Ibrahim Boubacar Keita were ousted following protests in 2014 and 2020, respectively. 
+
+Prominent opposition politician Succès Masra, who leads The Transformers party, has been at the forefront of the protests against Déby. Masra gave up a post at the African Development Bank to join politics in 2018. 
+
+But Chad’s revised constitution of 2018 barred him from running for president because he is 38. Presidential candidates must now be 40 or older, despite the majority of the population being younger than 45. The cutoff age in the previous constitution was 35 years. 
+
+Déby does not have a serious challenger for the presidency because the opposition is splintered. Initially, 17 opposition leaders registered interest to contest. But when candidate and former minister Yaya Dillo’s mother was killed by security forces, some candidates withdrew their bids. Dillo, a Zaghawa like Déby, has since gone into hiding. 
+
+One opposition heavyweight who withdrew is veteran opposition leader Saleh Kebzabo, who leads the National Union for Democracy and Renewal party, and was runner-up in the 2016 presidential elections. The official results, which were questioned by the opposition, showed that he won just 12.8% of the vote. Kebzabo is now calling for a boycott of the elections and regime change. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chad opposition leader Saleh Kebzabo.
+Photo credit: File | AFP
+
+ 
+
+But despite a groundswell of opposition against Déby’s candidature, four factors stand in his favour. 
+
+One, Chad’s substantial oil producing capacity. Two, the precarious security situation in the Sahel region, which has been under siege by Islamist terrorists. Three, France’s unconditional loyalty to the regime, and four, Déby is a strategic diplomat. 
+
+Favourable factors 
+
+First, Chad’s oil revenues have given Déby the means to arm the military. He uses the Chadian military to counter attacks on his rule, which has helped him remain in power. 
+
+Second, for more than a decade, the Boko Haram terror group in neighbouring Nigeria, Al-Qaeda in the Islamic Maghreb, and the Islamic State in the Sahel have plagued the region with violence. The Chadian army under Déby’s command has shown itself to be an indispensable partner in the international fight against extremism in the Sahel. 
+
+Third, in 2013 when then French President Francois Hollande provided military support to fight Al-Qaeda and the militant Islamist group, Ansar Dine, in northern Mali, Déby and his military stood by the French. 
+
+Since independence in 1960, France has used Chad’s capital N’Djamena as a military base for the entire Sahel region. And from 2014, N’Djamena has hosted the headquarters for Barkhane, a France-led mission to fight terrorists. French President Emmanuel Macron and Prime Minister Castex visit Chad regularly. 
+
+Fourth, Déby is a strategic diplomatic. For years, he has successfully placed his loyal followers in influential regional and international positions. For example, his former Foreign Minister Moussa Faki was recently re-confirmed as president of the African Union commission. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+His longtime ambassador to the European Union and Special Representative of the United Nations Multidimensional Integrated Stabilisation Mission in Mali, Mahamat Saleh Annadif, will soon move to Dakar as the United Nations representative for West Africa. 
+
+And in February 2021, Déby took over as the rotating chair of the G5 Sahel, an institutional framework for coordination of regional cooperation in development policies and security matters in west Africa. 
+
+Why Déby should worry 
+
+But Déby still faces a threat to his reign. For one, Chadians had hoped for better access to resources, especially when Chad joined the list of oil-producing countries in 2003. But only the corrupt elite around Déby and his clan have benefited from the revenues. 
+
+Second is the lack of political freedom. During this election period only Déby and his ruling Patriotic Salvation Movement have been allowed to campaign. Citing pandemic protocols, his government has restricted the opposition from campaigning. Opposition leaders have called for the international community to intervene. 
+
+If anti-Déby sentiment gains momentum, the opposition, youth, and some members of Déby’s Zaghawa clan could for the first time march together despite the fear of state violence. 
+
+Whether they succeed will depend on the loyalty of the security forces, which are dominated by Zaghawa – and on the political leanings of France. 
+
+Article by Helga Dickow, Senior Researcher at the Arnold Bergstraesser Institut, Freiburg Germany, University of Freiburg 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Around a quarter of a million people were killed between 1989 to 2003. Africa's most populous nation of 200 million people, is pushing ahead with reviving its railways, despite years of frustrating delays. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
