@@ -1,0 +1,171 @@
+More than 114,000 people living with HIV in Homa Bay County are facing an uncertain future following delays in delivery of antiretroviral (ARV) drugs, which threatens to wipe out the recent gains in suppressing the deadly infection in the devolved unit. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+International medical aid organisation Médecins Sans Frontières (MSF) has warned that HIV positive patients are at risk following interruptions in the management of the virus because of delays in distribution of the drugs such as Tenofovir, Lamivudine and Dolutegravir (TLD) to health centres. 
+
+According to the organisation, health facilities in Homa Bay County are running out of ARVs after a consignment of the drugs got stuck at the port of Mombasa. 
+
+Consequently, patients are now sharing the few available drugs, with MSF warning that ARVs could run out soon if restocking is not done immediately. 
+
+‘Impending stock-outs’ 
+
+“Lack of timely access to HIV medications and the impending stock-outs of ARVs is a tragedy waiting to happen and threatens to quash the gains made so far in reversing the curve of HIV infection in the county,” Mr Roshni Mahida, the Project Coordinator for MSF in Homa Bay County, said in a statement on Wednesday. 
+
+Homa Bay County leads in HIV infections in the country at 19.6 percent according to the Kenya Population Based HIV Impact Assessment (KENPHIA) 2018 report. 
+
+HIV patients have a schedule for picking up ARVs which are offered free of charge. 
+
+Limited supply 
+
+MSF said the shortage has forced patients to take between two to four week refilling schedules as limited supply of drugs threatens the long-term availability of the lifesaving medicines. 
+
+Before the crisis, patients would ordinarily be put on a three to six-month refill schedule. 
+
+According to the MSF, this reduced unnecessary burdens on the health system, which the organisation said has led to significant improvements in adherence to treatment in recent years. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Shorter treatment intervals would only be considered for patients in need of closer follow up. 
+
+Reduced drugs update intervals have already increased the burden that HIV patients in the county have. 
+
+For example, patients have to travel more often to the health centre to take drugs unlike before when they would travel at least three times in one year for the same drugs. 
+
+An HIV patient who works in Kisumu said he was recently given drugs to last him a month, down from the three, when he went to Magina Health Centre in Ndhiwa Sub-county. 
+
+‘Difficult to arrange’ 
+
+“I live far from here and the monthly visits will be difficult to arrange with my employer,” the patient told MSF. 
+
+Experts have warned of dire consequences due to the shortage of ARVs. Kenya Medical Practitioners Pharmacists and Dentist Union (KMPDU) Homa Bay County Liaison Officer Amos Dulo told Nation that defaulting in ARVs uptake is likely to lead to other infections like TB and meningitis. 
+
+“It is more dangerous to stop using ARVs when you have started using them. It makes patients more susceptible to dangerous infections,” he said. 
+
+The KMPDU officer warned that other disease burdens in the county will increase should the drugs fail to be delivered in time. 
+
+HIV has been the leading cause of morbidity and mortality in Homa Bay County. 
+
+MSF expressed concerns that ARV uptake will drop and increase Covid-19 transmission rates should no action be taken immediately. 
+
+georgeodiwuor04@gmail.com NACC data shows a total of 41,728 new cases recorded this year, 25,062 of them female, 16,666 male New findings reveal that many couples are having unprotected intercourse. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
