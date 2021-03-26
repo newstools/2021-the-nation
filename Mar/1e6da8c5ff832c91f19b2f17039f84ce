@@ -1,0 +1,152 @@
+Authorities in Turkana County have raised the alarm over a spike in tuberculosis (TB) infections in the recent months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to the County TB Coordinator, Dr Job Okemwa, Turkana, which is among the top 10 high TB burden counties, has already recorded 600 infections since January this year. 
+
+Dr Okemwa warned the county could report more than 2,500 cases of TB if the current trend of infections is not controlled. 
+
+TB is a potentially serious infectious bacterial disease that mainly affects the lungs and which is spread when an infected person coughs or sneezes. 
+
+"The first quarter of this year is not over and yet we have already recorded 600 cases. Concerted efforts by both county and development partners must be stepped up to tackle this worrying trend," he said. 
+
+He noted that the county recorded 2,278 cases last year, up from 2,478 in 2019. 
+
+Drug resistant TB 
+
+He added that the county recorded 44 cases of drug resistant TB last year. The cases were resistant to at least one first line anti-TB drugs which he said could have been caused by patients failing to observe proper treatment procedures. 
+
+Dr  Okemwa said that the county is partnering with Ampath Plus to roll out house-to-house screening of TB. 
+
+"The initiative has kicked off in populated settlements in Turkana Central Sub-County that contributes to at least 1,000 of the total TB cases in the county," he said. 
+
+Ampath Plus Team Lead Christopher Eweilar said that they are facilitating healthcare workers deployed in highly prone villages to screen locals and ensure those infected are immediately enrolled for treatment. 
+
+County Health Executive Jane Ajele said that the mass screening also targets all healthcare workers . 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Ajele asked locals with signs of coughing and chest pain not to shun away from going to hospitals for fear of being tested for Covid-19, noting that any of the two will be treated if detected. 
+
+County Health Chief Officer Augustine Lokwang noted that the attention given to Covid-19 prevention and control has overshadowed all other diseases including TB, resulting to the current spike in cases. The World Health Organisation ranks Kenya among the high burden tuberculosis countries in the world. New study explains effects of lockdowns and limitations on diagnosis, treatment and prevention services. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
