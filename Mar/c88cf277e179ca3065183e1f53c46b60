@@ -1,0 +1,150 @@
+Ngok is currently serving as CEC member in charge of Education, Sports, Culture and Social Services.Governor Paul Chepkwony said the nomination addresses continuity, in the distribution of elective seats and gender balance. Ms Lily Chepngetich Ngok is poised to become the next Kericho Deputy Governor after Governor Paul Chepkwony nominated her for the position on Thursday, two days after the burial of the immediate former office holder who succumbed to Covd-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Governor Chepkwony on Thursday afternoon forwarded the name of the nominee to the County Assembly for vetting and if endorsed, Ms Ngok will be appointed to the position. 
+
+Ms Ngok is currently the County Executive Committee member in charge of Education, Sports, Culture and Social Services. 
+
+Former Kericho Deputy Governor Ms Susan Kikwai, who had served in the position for the last eight years, succumbed to Covid-19 complications on March 20, at Siloam hospital.  
+
+“I hereby nominate Ms Ngok as the Deputy Governor, County Government of Kericho for the remainder of my tenure of administration pursuant to the provisions of Article 182(2) of the Constitution as read with section 32 (C) and 32 (D) of the County Governments’ Act (Act. No 11 of 2020), and Section 22, 25 and 26 of the Election Act, 2011,” Prof Chepkwony said in a letter addressed to Speaker of the County Assembly Dominic Rono. 
+
+Prof Chepkwony said the nominee is from Kipkelion East constituency, where the late Ms Kikwai hailed from and that the nomination “addresses continuity, in the distribution of elective seats and gender balance.” 
+
+Woman nominee 
+
+“I confirm that the nominee meets all the requirements for nomination to the post and has all the qualifications, leadership qualities, and competencies necessary for such a demanding job,” Chepkwony said. 
+
+Prior to Ms Ngok's nomination there had been calls for Governor Chepkwony to pick a female nominee. 
+
+“You have heard what the people have said through their leaders, and it is important that you respect their wishes for the sake of continuity. Women form an integral part of the society and have immensely contributed to development,” Uasin Gishu Governor Jackson Mandago said on Tuesday during the funeral service for Ms Kikwai at Tugunon village in Kipkelion constituency. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We are forever grateful to you Prof Chepkwony that in the two terms, you picked a woman as a deputy and elevated her office by giving it the portfolio of head of government business. In honoring our departed dear sister, we implore upon you that you nominate another woman to replace her,” said Dr Caroline Karugu who chairs the Deputy Governors caucus. 
+
+Kericho Senator Aaron Cheruiyot, Woman Rep Florence Bore, MPs Joseph Limo (Kipkelion West), Nelson Koech (Belgut), Mr Japeth Mutai (Belgut), Mrs Beatrice Kones (Bomet East) and Sylvanus Maritim all rallied behind the call. 
+
+“There are women with administrative and leadership skills in this county, majority are of high integrity and would fit into the shoes of our fallen sister. Honour us women by picking the next DG from among them,” said Mrs Bore. She is being laid to rest in Tugunon village, Kipkelion East. Kericho Governor Paul Chepkwony says that Susan Kikwai died at Siloam Hospital. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
