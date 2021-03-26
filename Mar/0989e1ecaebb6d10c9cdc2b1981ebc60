@@ -1,0 +1,232 @@
+You are reading the youth all wrong. Who do you think you are giving wheelbarrows or slashers to clear bushes? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenyan youth is not that guy from your village who is generally broke, challenged and looking for small change. The real Kenyan youth you need to think about is urban or peri-urban, well educated, insanely clever and well read, erudite, eloquent and very well spoken, massively energetic, outspoken, radical, a citizen of the world. 
+
+And angry. And so disillusioned with their country that you are almost afraid to be in the same room with them. 
+
+“If we were to sit on the floor and talk about the ways in which this country beats us down, we’d all be in tears in less than 20 minutes” is how one of them puts it. These kids feel let down; they feel that their parents and other adults in the room have mismanaged everything and they have been left to carry the can. 
+
+They are angry when you tell them the future belongs to them because they feel that future is code for the mess you have created. 
+
+ “Why are you leaving us a broken country to fix? Why aren’t you fixing it? You are the ones with the power and the money,” they ask. 
+
+‘The future belongs to you’ and ‘This country belongs to you’ are not concepts that resonate very well with the Kenyan youth if they are being honest with you. They would rather have a well-functioning and productive present. 
+
+Structural problems 
+
+‘Business is not a solution to structural problems’ is a phrase I have heard from young people more than once. The favouritism, waste, political bloody mindedness cannot be cured by hardworking youths exporting honey to Europe. They are governance issues which can only be resolved through resolute application of the law. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Oh yes, there is the issue of jobs. The failures for the economy to produce enough jobs for people who are well trained, prepared and willing to work is one of the most explosive issues among young people. 
+
+If I am a doctor, I want to treat patients in a hospital; I don’t want to go and start an NGO or go into farming. I don’t want to open a gadget shop in Westlands. I want to work in a hospital doing medicine. And it does not matter how much money I make. I don’t want money; I want to be a doctor. And I don’t want to start a clinic in Dagoretti Corner. 
+
+As for corruption, I am convinced that, given half a chance, young people would deal quite ruthlessly with the perpetrators. Unlike their parents, their materialism is only skin-deep. They would put your precious wealth in what they call “mutual help” rather than sink it in two Range Rovers, however nice it is to rock up at the club in one. 
+
+If you have spent your life stealing money and hiding it for your children, you might be best advised to ask to be buried with it. It is probably the best use you can put it to; you might be able to take some to the other side and use it to buy creature comforts. After all, according to the experts, we will joyfully sing for the Lord continuously for eternity and it’s not clear how you will take that. 
+
+Because deep in their hearts they will live your rich life without complaint but they don’t really want to live your life. 
+
+They would rather be taking it easy, renting rather than owning, living in a three-bedroom flat in Kileleshwa with a nice beer garden of a balcony rather than your 17-bedroom mansion in Kitisuru, taking an Uber to work rather than swinging your Jag, and hiking in Ngong Hills rather than coming with you to Sharm al Sheikh. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mental health crisis 
+
+My interaction with the youth has left me questioning some of the stuff we thought we thought we knew about them. One such thing is this whole mental health crisis. The soaring suicide rates, the little girls cutting themselves, the depressed young people living in terrible pain...this has be the reality of many a family. 
+
+My concern has been that these good folks with all their issues will take charge of our country and our institutions. We have to make sure that they are well enough to run the place. 
+
+“Mental health is not young” is how one of them put it. 
+
+ In other words, all these diseases and conditions have been there. There is no new epidemic; they just weren’t diagnosed or people didn’t talk about it or were ill-equipped to deal with it and so ignored the whole situation. 
+
+This may, or may not, be the case but it shows how there is a world of difference in perceptions even on issues that we are certain we are know about. 
+
+My advice to the politicians, policymakers and the folks cutting deals is this: Sit on the floor with a gang of 20 young people. It will change your life. 
+
+mmutuma@ke.nationmedia.com.  Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
