@@ -1,0 +1,256 @@
+Oil prices have dived more than one per cent in a rollercoaster week for the commodity, partly because of the Suez Canal accident.Salvage experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa in a blow to global supply networks. The owners of a giant container vessel blocking the Suez Canal said Thursday they faced "extreme difficulty" refloating it as Egypt temporarily closed one of the world's busiest shipping lanes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Salvage experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa in a blow to global supply networks. 
+
+Egypt's Suez Canal Authority (SCA) said it was doing all it could to refloat the MV Ever Given, a 400-metre (1,300-foot) long vessel which veered off course and ran aground in a sandstorm on Tuesday. 
+
+
+
+
+
+
+
+
+
+
+
+The Taiwan-owned MV Ever Given (Evergreen), a 400-metre- (1,300-foot-)long and 59-metre wide vessel, lodged sideways and impeding all traffic across the waterway of Egypt's Suez Canal.
+Photo credit: AFP
+
+ 
+
+Tug boats, dredgers and heavy earth-moving equipment have been deployed but so far the ship has not budged. 
+
+"It's really a heavy whale on the beach, so to speak," said Peter Berdowski, head of Dutch firm Smit Salvage which previously worked on the stranded Italian cruise ship Costa Concordia and the sunken Russian nuclear submarine Kursk. 
+
+The salvage company was deploying a team to the site Thursday to assess what it would take to dislodge the Panama-flagged ship, said Berdowski, CEO of its parent company Boskalis. 
+
+"We are looking at how much oil it contains, how much water -- these are complex calculations," he said on Dutch TV news programme Nieuwsuur. 
+
+"I don't want to speculate, but it can take days or weeks." 
+
+Satellite pictures released by Planet Labs Inc show the so-called "megaship", which is longer than four football fields, wedged diagonally across the entire canal. With ships waiting in both the Mediterranean and Red Sea and in the canal, the SCA announced it was "temporarily suspending navigation" along the waterway. 
+
+Japanese ship-leasing firm Shoei Kisen Kaisha, the owner of the giant vessel, said it was facing "extreme difficulty" trying to refloat it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We sincerely apologise for causing a great deal of worry to ships in the Suez Canal and those planning to go through the canal," it said in a statement. 
+
+A MarineTraffic map showed large clusters of vessels circling as they waited in both the Mediterranean to the north and the Red Sea to the south. 
+
+"Never seen anything like it" 
+
+Oil prices have dived more than one per cent in a rollercoaster week for the commodity, partly because of the Suez Canal accident. 
+
+"What a single vessel can do to the global oil market is remarkable," said Rystad Energy analyst Bjornar Tonhaugen. 
+
+"The stuck vessel in the Suez Canal created the visual definition of a supply route bottleneck, effectively disrupting one of the world's busiest routes for all commodities." 
+
+"We've never seen anything like it before," said Ranjith Raja, Middle East oil and shipping researcher at financial data firm Refinitiv. 
+
+"It is likely that the congestion... will take several days or weeks to sort out as it will have a knock-on effect on other convoys." 
+
+Broker Braemar warned that if tug boats are unable to move the giant vessel, some of its cargo might have to be removed by crane barge to refloat it."This can take days, maybe weeks," it said. 
+
+The vessel's managers, Singapore-based Bernhard Schulte Shipmanagement, said the 25 crew aboard were unhurt and the hull and cargo undamaged. 
+
+Historic sections of the canal were reopened Wednesday in a bid to ease the congestion. 
+
+The waterway drastically shortens travel between Asia and Europe. The Singapore-Rotterdam route, for example, is 6,000 kilometres (3,700 miles) and up to two weeks shorter via the canal than going around Africa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is therefore an "absolutely critical" route, said Camille Egloff, a maritime transport specialist at Boston Consulting Group. 
+
+Nearly 19,000 ships passed through the canal last year carrying more than one billion tonnes of cargo, according to the SCA. Egypt earned $5.61 billion in revenues. 
+
+Canal traffic has been disrupted several times in the past, notably during the Arab-Israeli wars of the second half of the 20th century. 
+
+It was closed for six months after Egypt nationalised the canal operating company in 1956, prompting an abortive invasion by Britain, France and Israel. 
+
+During the Six-Day War of 1967, Egypt imposed a blockade to prevent the canal's use by Israel which lasted until 1975. 
+
+More recently, in 2018, the canal was temporarily closed after a Greek-owned bulk carrier suffered engine failure, triggering a five-ship collision. Political liberties are almost non-existent and human rights violations are part of everyday life. In Gambia, demand for fish meal has led to big economic promises, but comes at a steep environmental price. Half the population lives below the poverty line—and fish, primarily bonga, accounts... Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
