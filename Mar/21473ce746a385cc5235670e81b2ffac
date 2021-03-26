@@ -1,0 +1,150 @@
+At the par 72 Limuru Country Club, a field of 18 players were drawn for the NCBA Golf tournament which is the fourth event of the Bank’s 20-event golf series which teed off at the Thika Golf Club in January this yearAs part of the series, the bank seeks to hold a two-day Junior Golf Series which will cater for upcoming golf talent in Kenya for junior golfers who are aged between six and 18 yearsAt Vet Lab, members will be playing in the stableford competition which has also attracted a good field while at Nakuru, it will be the Lenten Golf  tournament Local events continue in the country this weekend with five of them lined up at Limuru, Karen, Vet Lab, Eldoret and Nakuru golf clubs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the par 72 Limuru Country Club, a field of 18 players were drawn for the NCBA Golf tournament which is the fourth event of the bank’s 20-event golf series which teed off at Thika Golf Club in January this year. 
+
+Action in Limuru tees off early with the first group taking to the tee at 6:56am at both the first and tenth tee; with afternoon tee-offs scheduled for an 11:30 am start. It is open to all the club members as well as staff of NCBA. 
+
+The series has so far been at Thika, Vetlab and Kitale Golf Clubs. 
+
+As part of the series, the bank seeks to hold a two-day Junior Golf Series which will cater for upcoming golf talent in Kenya for junior golfers who are aged between six and 18 years. 
+
+The junior series will feature events at Karen Country Club from August 23 to 24, and at the Muthaiga Golf Club from December 9 to 10. 
+
+On the other hand, Karen Country Club members will have a feel of what the professionals felt during the two European Tour events, the Magical Kenya Open and the Kenya Savannah Classic which ended Friday. 
+
+The club will host the ICEA golf tournament which is being contested by well over 200 players. 
+
+They will be competing for a good list of prizes. ICEA Lion has been involved in the sponsorship of the ICEA Lion King of the course whose first four legs were held at Machakos, Thika Greens, Ruiru and Nanyuki Sports Club while the fifth leg will take place in Nandi Bears in May with the last leg set for Mombasa towards the end of the year. 
+
+ICEA Lion' Life Insurance Chief Executive Officer (CEO) George Nyakundi says this weekend's tournament was organised to bring the curtains down after three weeks of high profile golf action starting with the Magical Kenya Open and the Kenya Savannah Classic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Besides club members, the event will also feature guests of the sponsors.  
+
+Elsewhere, Eldoret Golf Club captain is hosting his Captain's Prize which has attracted a field of 100 golfers drawn from Eldoret as well as other clubs in the region. 
+
+At Vet Lab, members will be playing in the stableford competition which has also attracted a good field while at Nakuru, it will be the Lenten Golf  tournament. Magical Kenya Open champion Justin Harding also in the running for a double. He said the field this year is very strong with very experienced players. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
