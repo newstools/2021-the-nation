@@ -1,0 +1,83 @@
+Police said the mother was told her daughter would be killed - that her throat would be slit open - if she reported the matter to police. Police have arrested a Nairobi resident for allegedly staging her own kidnapping in the hope of defrauding her mother. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She was apprehended on Thursday night by detectives from the Directorate of Criminal Investigations (DCI). 
+
+The suspect's mother said she received disturbing messages from her daughter’s phone two days ago, informing her that she had been kidnapped and that a ransom of Sh30,000 was needed to secure her release. 
+
+A photograph of the purportedly shaken daughter, with her hands and legs tied up, was sent to her mother, a resident of Satellite in Riruta. 
+
+“To complete the set, a kitchen knife was also displayed in the photos, sending the mother into a fit of panic,” the DCI said in a tweet on Friday morning. 
+
+Police said the mother was told her daughter would be killed - that her throat would be slit open - if she reported the matter to police. 
+
+She filed a report at Karen Police Station, where detectives from the Crime Research and Intelligence Bureau immediately took over the matter. Their investigations led them to Misiani village in Kangudo. 
+
+"After laying an ambush, they found out that there were no kidnappers [and that the daughter] was at a local bar," the DCI said. 
+
+She had taken up residence at Website Bar, accompanied by a friend, after escaping from Nyeri where they both lived. 
+
+Police said the daughter hatched the plan. She and her friend were placed under police custody amid further investigations and their arraignment. 
+
+hkimuyu@ke.nationmedia.com Offiah's boyfriend, an Uber driver and "the man at the centre of this case", is still on the run. The Form Three student claimed that criminals were holding him in Mt Kenya. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
