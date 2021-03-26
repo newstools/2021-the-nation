@@ -1,0 +1,366 @@
+Nakuru, Kwale and Isiolo counties are hotbeds for violent extremism and radicalisation, a new study has revealed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During the study that involved 1,230 respondents, data was collected in the three counties from August 5- 25 last year. While the study found that there have been no terrorist attacks recorded in the three counties in the six-months (February-July 2020), it established that Al-Shabaab continues to be the main active terror group in the counties. 
+
+The study is called 'Baseline Evaluation Report for Program to Address Polarisation, Radicalisation, and Extremism in Kenya (PROACT).  
+
+
+
+
+
+
+Kaptembwa slums in Nakuru Town where a criminal gang popularly known as ‘Confirm’ operates. 
+Photo credit: Francis Mureithi Nation Media Group
+
+ 
+
+The household survey findings indicate that most people (62.5 percent) in Isiolo reported feeling safe from threats of terrorism, followed by Kwale (42 percent), and Nakuru (27.3 percent). 
+
+Fairly large numbers of people in Isiolo (58.9 percent) and Kwale (41.2 percent) believe that the radicalisation of young people by violent extremist groups is decreasing. However, this is in contrast to the minority (21.6 percent) who feel radicalisation has declined in Nakuru. 
+
+"This finding that can be explained by the widespread proliferation of gangs in and around Nakuru Town," explained the 96-page report that was made public on Wednesday in Nakuru Town during a dissemination and validation workshop held at Waterbuck Hotel. 
+
+Three counties 
+
+The report further reveals that the emergence of radicalisation and violent extremism in the three counties is driven by the prevailing poor socio-economic conditions, including factors such as poverty, inequality, and unemployment. 
+
+In Isiolo and Kwale, divisive religious ideologies on radicalisation and violent extremism are fairly similar as in Isiolo (31.3 percent) and Kwale (25.5 percent) said the two were linked. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, only 10 percent of people in Nakuru see a link between the two issues. 
+
+Drug trafficking and drug abuse are also emerging as serious problems in the three counties, a threat that is making many young people more vulnerable to joining terror groups. 
+
+"Many parents are also reportedly not attentive to the warning signs of children slipping into crime," stated the report. 
+
+Chiefs were cited by many respondents as the most effective state officers to prevent and counter violent extremism. 
+
+
+
+
+
+
+Patricia Crosby, the Programme Manager of Institute for Strategic Dialogue in the UK speaks in Nakuru town during the inter-counties forum on violent extremism prevention on November 26, 2020. 
+Photo credit: Francis Mureithi | Nation Media Group 
+
+ 
+
+At least 53.9 percent of people in Nakuru and 58 .6 percent in Isiolo believe the police are effective in preventing and countering violent extremism but only 31.6 percent in Kwale think so. 
+
+"The high rating for police effectiveness in Nakuru and Isiolo could be due to low or no terror attacks witnessed there. It is notable that large percentages of people—54.8 percent in Isiolo, 47 percent in Kwale, and 41.6 percent in Nakuru — believe that the authorities take action on countering violent extremism reports." 
+
+Violent extremism 
+
+Local non-governmental organisations and community-based organisations in Isiolo and Kwale are also perceived as important and effective actors in addressing and preventing radicalisation and violent extremism. 
+
+In Isiolo and Kwale, people are more likely to provide information about terrorism to civil society actors and religious leaders, whom they expect will transmit the same to the relevant authorities. 
+
+They also collaborate with religious organisations and government institutions to support at-risk youth and sensitise communities on violent extremism. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The study found that the Nyumba Kumi committees and Community Policing Committees have contributed to the improvement of security in parts of Kwale. They have assisted chiefs and the police in monitoring radicalisation activities in local communities. 
+
+However, these mechanisms have been hampered by a lack of funding. 
+
+On a positive note, the reports show that there has been a good level of collaboration between the national government and civil society organisations in implementing the Isiolo County Action Plan to Prevent Violent Extremism 2018-2022. 
+
+"There is substantial community participation in the implementation of the plan. However, there were claims that the leadership of the Isiolo County Government has not been demonstrating enough interest or commitment to the implementation of the plan in terms of providing funding," said the report. 
+
+Kwale County Action Plan to Prevent Violent Extremism 2017-2020 has not been properly implemented because sufficient funds have not been allocated by the Kwale County Government and the national government. 
+
+"The county government allocates resources based on political considerations to the detriment of universal concerns such as security, and county assembly leaders have not prioritised the implementation of the plan because they do not have a legal mandate to address security issues," added the report. 
+
+ The implementation of the Nakuru County Action Plan to Prevent Violent Extremism has helped increase public awareness about violent extremism in Nakuru County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+This has led to increased interest and involvement of non-state actors to share information and ideas for solutions. 
+
+However, effective implementation of the policy is beset by low levels of community ownership of the plan and inadequate funds. There is a consistency in the perceptions about police abuses in the three counties. 
+
+At least 56.5 percent of people in Isiolo, 58.8 percent in Kwale, and 55.1 percent in Nakuru — believe that police use unnecessary force when dealing with citizens. 
+
+Most people (Isiolo-18.9 percent), Kwale-28.7 percent; Nakuru-34.6 percent also believe that police-citizen engagement is poor. 
+
+In Kwale, for example, claims were made that security officers routinely execute, abduct terrorism suspects and returnees. However, terrorists are also accused of killing chiefs and Nyumba Kumi elders. 
+
+Increased police brutality was also reported in the three counties during the initial months of the enforcement of Covid-19 control measures. 
+
+Affirmative action 
+
+There are mixed opinions about the impact of the ongoing police reform process and those working to prevent violent extremism in Nakuru and Isiolo believe that police-citizen relations have improved over the past two years. However, most actors in Kwale doubt the process. 
+
+Uwezo Fund 
+
+The study found that the National Hygiene Programme (Kazi Mtaani) could be a useful policy tool to address youth vulnerability to violent extremism while the national government's Affirmative Action Funds —Youth Enterprise Development Fund, the Uwezo Fund, and the Women Enterprise Fund have helped improve the lives of many people. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"If well targeted to risk groups these funding programmes can help address the conditions that make people vulnerable to radicalisation and crime. However, there is inadequate public information about the existence of these facilities, application procedures are stringent, and loan amounts are too small." 
+
+The study established that the infrastructure and systems for mental health and psychosocial support are weak or even non-existent in Isiolo. 
+
+The study recommends that county governments develop comprehensive resources mobilisation plans for the implementation of the County Action Plans, prioritise research, advocacy, and lobbying activities aimed at strengthening community-level security and conflict management mechanisms such as Community Policing Committees, the Nyumba Kumi system, the Sub-County Forums among other initiatives.  
+
+The study was commissioned by the Institute for Strategic Dialogue (ISD and funded by the US Department of State to implement the PROACT in Kenya by 2023. 
+
+It was authored by Dr Michael Karanja assisted by lead researcher Mr Mikewa Ogada on behalf of Act Change Transform-Act, a not-for-profit organisation. 
+
+Other researchers in the project were Mr Tom Were, Mr Bonventure Chengeck, Ms Florence Osoo, and Mr Hussein Anekeya. 
+
+The study was also boosted by the support of research team members drawn from Isiolo Peace Link, Human Rights Agenda (Kwale); and Mid-Rift Human Rights Network (Nakuru). 
+
+fmureithi@ke.nationmedia.com  Group has been praised by organisations in Kenya and outside the country. Muggings, burglary and swindling of money are rampant in what were previously safe neighbourhoods in the town Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
