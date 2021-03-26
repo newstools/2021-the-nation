@@ -1,0 +1,252 @@
+A giant container ship, almost as long as New York's Empire State Building is high, got stuck during a sandstorm Tuesday in Egypt's Suez Canal, causing a traffic jam of cargo ships through one of the world's busiest shipping lanes.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Here is what we know so far:   
+
+What happened? 
+
+The 400-metre long, 200,000-tonne MV Ever Given, from the class of so-called "megaships", veers off course in the canal while a gale-force duststorm hits Egypt's Sinai Desert and much of the Middle East. 
+
+The 59-metre wide Taiwan-run, Panama-flagged vessel becomes stuck at about 0540 GMT near the southern end of the canal and diagonally blocks the man-made waterway between the Mediterranean and the Red Sea. 
+
+
+
+
+
+
+The giant container ship that ran aground in the Suez Canal after a gust of wind blew it off course.
+
+ 
+
+Ship operator Evergreen Marine Corp of Taiwan says the vessel -- which was en route from Yantian, China to the Dutch port of Rotterdam -- "ran aground after a suspected gust of wind hit it". 
+
+The Suez Canal Authority (SCA) says the accident was "mainly due to the lack of visibility due to the weather conditions when winds reached 40 knots which affected the control" of the ship. 
+
+The 25 crew are unhurt, the hull and cargo undamaged, and there is no oil leak, say the vessel's managers, Singapore-based Bernhard Schulte Shipmanagement. 
+
+Egyptian tug boats, dredgers and bulldozers get to work trying to free the enormous ship. 
+
+What's the impact? 
+
+The megaship blocks the shipping artery through which more than 10 percent of global maritime trade passes, much of it oil and grains. 
+
+The Suez Canal, opened in 1869 and widened since, is a crucial shortcut between Asia and Europe that saves ships from having to navigate around Africa. 
+
+As a result of the accident, more than 100 vessels are forced to wait at either end of the canal or midway, at Egypt's Great Bitter Lake, says canal service provider Leth Agencies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Old sections of the canal are reopened to ease the congestion -- but this doesn't solve the fundamental problem, as there is only one lane on the southern end where the ship is stuck. 
+
+The blockage of the global trade chokepoint hits world oil markets, as traders anticipate delays in deliveries.  
+
+Crude futures surge six percent on Wednesday. But prices tumble Thursday due to nagging pandemic concerns and inflation fears, completely wiping out those gains at one point. 
+
+"We've never seen anything like it before," said Ranjith Raja, Middle East oil and shipping researcher at international financial data firm Refinitiv. 
+
+"It is likely that the congestion... will take several days or weeks to sort out as it will have a knock-on effect on other convoys." 
+
+What happens next? 
+
+The SCA announces Thursday it is "temporarily suspending navigation" all along the canal. 
+
+Egyptian authorities deploy eight additional tug vessels to free the stricken ship. 
+
+Broker Braemar has warned that if tug boats are unable to move the giant vessel, some of its cargo might have to be removed by crane barge to refloat it.  
+
+The owner of the vessel, Japanese ship-leasing firm Shoei Kisen Kaisha, says Thursday they are facing "extreme difficulty" refloating it. 
+
+Company official Toshiaki Fujiwara tells AFP: "We still don't know how long it will take. 
+
+"We have not heard of any particular progress. Now they are trying to dig out dirt under the bow of the vessel. They will resume tug operations when the tide rises." 
+
+Dutch salvage firm Smit Salvage sends a team, says Peter Berdowski, CEO of its parent company Boskalis. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Smit Salvage has in the past worked on the wrecks of Russian nuclear submarine Kursk and Italian cruise ship Costa Concordia. 
+
+Speaking on Dutch TV, Berdowski says: "We are looking at how much oil it contains, how much water -- these are complex calculations. 
+
+"It's really a heavy whale on the beach, so to speak. I don't want to speculate, but it can take days or weeks." Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. Sumptuous feasts and banquets were held during the initial inauguration in 1869. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
