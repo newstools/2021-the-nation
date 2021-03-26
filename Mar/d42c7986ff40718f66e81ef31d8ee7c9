@@ -1,0 +1,159 @@
+The under-performance in own source revenue collection is likely to compound the problem of pending bills in counties, a new report has revealed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The County Governments Budget Implementation Review Report for the first half of the 2020/21 financial year shows devolved governments are increasingly becoming reliant on the National Treasury for money. 
+
+The dip in own source revenue means conditional grants and exchequer releases to counties have been climbing from the 2013/14 fiscal year. 
+
+This has put a strain on the Treasury to provide development top-up funds. 
+
+The report covering July to December 2020 shows counties generated Sh12.72 billion, or 23.4 per cent of the Sh54.41 billion annual target. 
+
+Controller of Budget Margaret Nyakang’o says this was a decrease, compared to Sh15.33 billion generated at the same time in the 2019/20 financial year. 
+
+“Under-performance in own source revenue implies that some activities may not be implemented. There is also a risk of completed projects remaining unpaid, leading to accumulation of pending bills,” Dr Nyakang’o said. 
+
+County governments make money from market and trade licensing, parking, liquor licensing, parks, beaches and cemeteries. 
+
+They also control the licensing of domestic animals, ferries, tourism and casinos. 
+
+“We recommend that county governments develop and implement strategies to enhance revenue collection in order to fully finance their budgets,” the report says. 
+
+“Counties are urged to monitor the performance of own source revenue with a view of making appropriate adjustments during supplementary budgeting.” 
+
+Revenue collection 
+
+Tana River, Busia and Migori achieved the highest proportion of own revenue collection at 61.9, 43.2 and 41.5 per cent respectively. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Counties that recorded the lowest proportion against annual targets were Isiolo at 8.8 per cent, Narok (10.7 per cent) and Homa Bay at 11.1 per cent. 
+
+In the period under review, Nairobi generated the highest amount of local revenue at Sh3.9 billion, followed by Mombasa (Sh1 billion) and Kiambu (Sh897 million). 
+
+Taxation and other revenue-raising powers of a county are not to be exercised in a way that prejudices national economic policies, economic activities across county boundaries or the national mobility of goods, services, capital and labour. 
+
+Experts say there is lack of capacity to set, review and report on realistic targets where most counties forecast collections based on deficit gaps in relation to what they receive from the exchequer. 
+
+Additional reporting by Reginah Kinogu Dusk-to-dawn curfew and closure of some businesses greatly reduced business activities across the country. The National Treasury cites low revenue collection occasioned by the Covid-19 pandemic as the reason the government cannot meet its side of the bargain. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
