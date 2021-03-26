@@ -1,0 +1,163 @@
+KCB Ruaraka Sports Club will be hosting a double-header with champions KCB Rugby Club also making several changes in readiness for their duel against visiting Nakuru starting at 3pm.Impala Saracens and Mwamba will be hoping to rise up from previous defeats and claim each other’s scalp when they face off at the Impala Sports Club at 3pm. Fired-up Strathmore Leos and wounded Kenya Harlequin have rung changes ahead of their Kenya Cup clash starting at 1pm today at KCB Ruaraka Sports Club. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+KCB Ruaraka Sports Club will be hosting a double-header with champions KCB Rugby Club also making several changes in readiness for their duel against visiting Nakuru starting at 3pm. 
+
+Impala Saracens and Mwamba will be hoping to rise up from previous defeats and claim each other’s scalp when they face off at the Impala Sports Club at 3pm. 
+
+League leaders Kabras Sugar are out to get their fourth consecutive bonus-point victory when they host visiting Blak Blad from Kenyatta University at Kakamega Showground. 
+
+The clash between Masinde Muliro and Nondescripts set for the Kakamega Showground has been postponed. 
+
+Leos head coach Lous Kisia has effected several replacements and changes with a view of pulling their first win since making their return to the top-flight league. 
+
+The Leos lost their opening matches against KCB and Kabras Sugar 24-16 and 35-9 before resting during the third round. Their fourth-round match against Nondescripts was postponed. 
+
+The duel will see the return of George Ooro at the back row, replacing Barnabas Owuor while Jack Angáwa makes a return at tight-head replacing Arnold Omollo, who sustained an ankle injury in the match against Kabras. 
+
+Lucas Opal moves to the wing with newcomer and Ugandan junior international, Daniel Kisakie taking his position at fly-half. 
+
+Motoka Motoka goes to the wing where he will partner with debutante Matthew Mogaya with Cecil Otieno and Silas Aziz starting at centre and lock respectively. 
+
+“We shall bank on our fitness and let the rest fall in place. We might have lost against the top wigs KCB and Kabras but my boys played exceptionally well,” said Kisia, before admitting that Quins will be a hard nut to crack. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We definitely would like to redeem ourselves especially from the Kabras loss,” said Quins captain and loose-head prop Elisha Koronya. “We are ready to get back on track after that bad day in office.” 
+
+Quins lost to 14-man Kabras Sugar 43-5 in the fourth round last Saturday. 
+
+Quins will unleash Wilson K’Opondo, who is back at lock replacing Roxy Suchi, with Patrick Agunda and Brian Waraba also replacing Kelvin Angote and Boniface Ochieng at blindside and hooking positions respectively. 
+
+David Ambunya is also back at centre with newcomer Lucky Dewald and Yassin Hasan making it to the bench. Quins have a win and two losses. 
+
+KCB have also effected changes to their side that beat Blak Blad 32-19 last Saturday, bringing in hooker Wilfred Waswa for James Ochieng and Derrick Juma for Nelson Nyandat. 
+
+Stafford Abeka will operate from the wing replacing Collins Wanjala, with Brian Omondi coming in for George Maraga at centre. Ahmed Shaban is back at fly-half in place of Stephen Osumba. 
+
+Nakuru are yet to beat KCB since their last Kenya Cup wins in 2013 and 2014. 
+
+Kenya Cup round five fixtures 
+
+Strathmore Leos v Kenya Harlequin (1pm, KCB Sports Club), KCB v Nakuru (3pm, KCB Sports Club), Impala Saracens v Mwamba (3pm, Impala Club), Kabras Sugar v Blak Blad (3pm, Kakamega Showground), Masinde Muliro v Nondescripts (postponed) The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
