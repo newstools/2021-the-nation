@@ -1,0 +1,209 @@
+The move is part of a bigger project that will see other parking areas in the capital converted into underground parking bays.NMS boss says the project will mirror one already implemented by the Holy Family Basilica. City authorities are seeking to convert the popular Machakos Country Bus terminus into an underground parking bay. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nairobi Metropolitan Services (NMS) Director-General, Mohamed Badi, said the planned multi-storey parking will be digitally operated with motorists charged hourly. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+City authorities are seeking to convert the popular Machakos Country Bus terminus into an underground parking bay.
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+The move is part of a bigger project that will see other parking areas in the capital converted into underground parking bays, drastically increasing capacity. 
+
+“We are in the process of developing underground parking at Sunken Park and eventually Machakos Bus Park will be turned into an underground parking area,” said Major-General Badi. 
+
+
+
+
+
+
+A section of Machakos Country bus terminal in Nairobi in this picture taken on March 25, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+The NMS boss added that the project will mirror one already implemented by the Holy Family Basilica, where the church put up a multi-storeyed parking bay that has 536 slots. Previously, the space could accommodate 120 cars. 
+
+The four-floor parking facility, which opened in December 2019, has a state-of-the-art smart parking solution which can also charge electric vehicles. 
+
+“We have seen it is affordable and we are now going to ensure that there’s enough underground parking for Nairobi residents,” said the Major-General. 
+
+“You will come pay through mobile money, leave your car there and it will be parked for you in whichever floor of that building,” he added. 
+
+
+
+
+
+
+Traders selling their merchandise at Machakos Country bus terminal in Nairobi in this picture taken on March 25, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+On-street parking slots 
+
+According to a 2018 Cytonn Real Estate report, parking bays have an average yield of 9.1 per cent due to growing number of vehicles in Nairobi coupled with inadequate public parking spaces, especially in the city centre. 
+
+Motorists usually pay an estimated Sh9,500 per bay per month on average with the lowest being parking bays at Grade C office blocks that charge as low as Sh4,000 in sparsely populated areas like Mombasa Road and as high as Sh13,000 in upmarket areas such as Parklands, Kilimani and Upper Hill. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nairobi’s city centre is the most lucrative with parking bays raking in an average of Sh12,000 a month, Karen (Sh10,862), Parklands (Sh10,500), Gigiri (Sh10,500) and Upper Hill Sh9,500. 
+
+
+
+
+
+
+A hawker selling his merchandise to travelers at Machakos Country bus terminal in Nairobi in this picture taken on March 25, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Last September, NMS announced that most of the on-street parking slots would be turned into transport corridors for pedestrians and cyclists as part of wider plans to decongest the capital. 
+
+In July last year, NMS began automating parking facilities in the county in preparation for the introduction of hourly slots in the CBD. 
+
+Sunken Car Park, Nairobi Law Courts Parking, Desai Road and Machakos Bus terminus have already been automated in line with a presidential directive. 
+
+City Hall is also seeking to introduce hourly parking to boost revenue and also make it costly to drive to the CBD. 
+
+The plan is contained in the Nairobi City County Fiscal Strategy Paper for the financial year ending June 30, 2022. Every matatu sacco will be asked to nominate a representative to sit in the operations room. The terminus is expected to restore sanity in the Nairobi transport sector. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
