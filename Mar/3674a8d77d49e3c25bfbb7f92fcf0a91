@@ -1,0 +1,148 @@
+Move to close refugee camps right, legal 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Whereas the ultimatum period Kenya gave the United Nations High Commissioner for Refugees (UNHCR) to close refugee camps in the country is debatable, the idea is a belated legal entity in the global refugee crisis reforms. 
+
+The latest move, originating from the Ministry of Interior, is a continuation of what was started by the then Interior Cabinet Secretary, Joseph Nkaissery, who asked the refugees to accept a token from the government and return to their countries. 
+
+Through this simple gesture, the writing was on the wall: Kenya was warming up to repatriating the refugees, who’ve been in the country for more than 20 years. With various intelligence reports showing that the camps pose a threat to national security, their closure will benefit Kenya. 
+
+As a struggling developing economy, hosting refugees hinders economic growth and development. And in respect of international laws, Kenya granted asylum to citizens of its neighbours who are not willing to go home. On non-refoulement, which obligates a country not to force refugees back to their homes, Kenya has acted in line with the 1951 Convention on the Status of Refugees. 
+
+Security system 
+
+Article 33(1) states that a refugee should not be forced to return to the “frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion”. First, the refugees are being asked to go back to their countries, in which ceasefire has been remarkably recorded. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That is to say their countries are now better than they left them; a good reason why they should go back. Secondly, Article 33(2) of the convention offers a restriction to sub-article 1. The “reasonable grounds” supported by this principle sum up to what the article calls “regarding the refugee(s) as a threat to the national security of the host country”. We’ve witnessed several attempts at bringing down our security system. The Westgate Mall attack is linked to Dadaab Refugee Camp. 
+
+The establishment and continued existence of such camps constitute a danger to our country, and the review, which adds up to the consideration of repatriation, is timely. Other than that, Kenya has been a good host to the refugees by fully respecting all the rights they are entitled to, and repatriating them after calm had been restored in their countries. 
+
+The UNHCR should not appeal the decision, but only ensure that the repatriation is conducted with due dignity and civility. It should utilise the 14 days to ascertain Kenya’s claims and notify the other countries to be ready to receive their citizens. 
+
+Over two decades of living with the foreigners gives Kenya the advantage to understand them better than even their countries of origin. This alone is enough to prove the legality behind its claims on the refugee crisis. 
+
+Arasa Makori, Kisii Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
