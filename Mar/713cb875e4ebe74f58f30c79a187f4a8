@@ -1,0 +1,150 @@
+The World Health Organization lists vaccine hesitancy in the top 10 challenges to improved global health. In 1953, Dr Jason Salk, who had spent more than two years developing a polio vaccine, faced similar scepticism. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 1952, some 58,000 cases of paralytic polio had been reported in the US and 3,000 patients had died. The following year, Dr Salk took the jab and that instilled confidence in his vaccine. The Salk vaccine has since saved billions of human lives against the debilitating disease. We still have active pockets of polio outbreaks but herd immunity has prevented widespread infections. 
+
+Vaccine hesitancy is caused by several factors. Among them is inadequate public vaccine literacy advocacy, level of education, and morbidity and mortality impact of the targeted infection on people. In the US and UK, Covid-19 vaccine uptake has been high because the disease has had high mortality rates there but also the population is fairly well-educated on the usefulness of vaccines. 
+
+A major drawback in uptake of the vaccines in Kenya is inadequate awareness and a fast flow of misleading information on social media. 
+
+Political leaders 
+
+Leadership in vaccination programmes is critical. Countries with high Covid-19 vaccine acceptance and uptake have had their political leaders directly involved in getting the jab. The Health Chief Administrative Secretary, Dr Mercy Mwangangi, and acting director-general, Dr Patrick Amoth, have shown leadership. It is disturbing, therefore, that uptake among healthcare givers is low. 
+
+Such leadership is critical not because there are no underlying medical issues regarding the vaccines but experts have cleared them for emergency use and the Covid-19 third wave is registering higher morbidity and mortality rates than before. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccines remain the best option against antimicrobial resistance (AMR) infections. All vaccines, apart from therapeutic ones, prevent rather than cure an infection. So, when one is vaccinated, the pathogens cannot cause infection and one would not develop AMR as a result of taking antibiotics. 
+
+Gullible people 
+
+There is a need to regulate social media without compromising freedom of expression. Being a major channel of flow of information, the government and other stakeholders should use it to educate the public on vaccines and attenuate anti-vaxxers, who use the same platforms to mislead gullible people. 
+
+With 700,000 deaths annually, AMR is expected to cause an estimated 10 million deaths yearly by 2050. It is also projected, in view of inadequate monitoring and disease surveillance systems that can signal early warnings of impending pandemics, vaccines will remain the best option in mitigating disease outbreaks. 
+
+Let vaccine public literacy and advocacy programmes be a continuous strategy and not a knee-jerk reaction to infections while a multi-sectoral approach towards educating the citizenry on the short- and long-term benefits of vaccines is a must. 
+
+patmbuvi@gmail.com. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
