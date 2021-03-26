@@ -1,0 +1,286 @@
+Between 1976 and 2000, Nairobi’s forest cover went from 14 per cent to 3 per cent.Bushland cover, over the same period, was also reduced from 22 per cent to 13 per cent.This will have an impact on the city’s wildlife and livestock. There’s been widespread concern in Kenya over the shrinking of green spaces in Nairobi, the capital city. Most recently, there was uproar over the construction of a raised highway. This resulted in the felling of hundreds of trees, though protests managed to save the life of one 100-year-old fig tree. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was also proposed that part of the highway run through Uhuru park – one of the city’s few recreational parks. Protests successfully diverted the highway to the park’s outskirts, but development still threatens the city’s few undeveloped spaces. 
+
+To give an idea of how much green space has already been lost, between 1976 and 2000, Nairobi’s forest cover went from 14 per cent to 3 per cent. Bushland cover, over the same period, was also reduced from 22 per cent to 13 per cent. 
+
+This will have an impact on the city’s wildlife and livestock. Nairobi, like other urban environments in the tropics, has an ecosystem that includes wildlife – such as birds, rodents, primates – and livestock such as cattle, goats, sheep and pigs. As green spaces are lost, native wildlife and bird species can dwindle and non-native species proliferate. 
+
+But very few studies explore how development affects wildlife and livestock in tropical cities. Recognising this gap, we explored the impact of a growing and changing urban environment on the wildlife and livestock that live with people in Nairobi from 2013 to 2018. 
+
+We found that, as land use in Nairobi transformed, there have been significant changes. 
+
+Competition between invasive and endemic species has grown, to the detriment of native biodiversity. Species – many of which play important roles in ecosystems such as fruit bats, primates and pollinators – are lost. And as the ecological landscape becomes less diverse, wildlife species that co-exist with humans – such as rats, scavenging and seed-eating birds (collectively known as synanthropes) – thrive, particularly in the poorer, most densely populated areas of Nairobi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is troubling because evidence suggests that synanthropes host more germs and could pass diseases on to people and make them sick. These are called “zoonotic diseases” and range from minor short-term illness to major life-changing illness and even death. 
+
+We could not assess the risk posed by zoonoses in Nairobi in our study. What we do know is that the city (and likely most other biodiverse, tropical cities) harbours all the ingredients for zoonotic spillover to occur between animals and people, particularly in the most densely populated areas. 
+
+Urban development policymakers must recognise that by shrinking green spaces, they increase the likelihood that people will catch zoonotic diseases. This is because species such as rodents proliferate. 
+
+
+
+
+
+
+A section of Nairobi’s Uhuru highway on Wednesday, October 28, 2020. Most trees has been cut to allow construction of Nairobi Expressway to the Jomo Kenyatta International Airport.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Which species dominate, and where 
+
+We studied 99 household compounds – people’s houses and private land – across the city. These were selected to represent the different ways in which people interact with livestock and wildlife across the city. Households were stratified by people’s wealth, the types of livestock they kept and the ecological habitats in which they live. 
+
+Our data show that synanthropic species – like rats and insectivorous bats – dominate lower income, densely populated areas of the city. Here the synanthropes live in close quarters with poultry, pigs and small ruminants, such as goats and sheep. 
+
+We found that the decline in biodiversity – and subsequent colonisation by synanthropes – was driven by urban development. Trees and other forms of vegetation were replaced by man-made structures, removing the natural resources that most wildlife require to survive. Meanwhile, the resources (such as waste) on which synanthropes thrive increased. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As we argue in our paper, this kind of restructuring has important implications for the emergence of novel diseases at urban interfaces, which is why we used our research results to generate a set of testable hypotheses that explore the influence of urban change on microbial communities. 
+
+By testing the hypotheses we provide insights into how rapid urbanisation can generate interfaces for pathogen emergence, which should be targeted for surveillance. 
+
+Research done elsewhere shows that synanthropes – which thrive in disturbed environments with lower biodiversity – host more pathogens. And synanthropes seek resources provided by humans and their livestock, such as waste, which brings them into closer contact and increases opportunities for pathogens to cross between them. 
+
+For instance, our work in Nairobi shows that, as densities of humans and livestock increase, there is more sharing of antimicrobial resistance with wild birds. 
+
+Policy recommendations 
+
+Our findings have important implications for the public health and the sustainable planning and management of cities, particularly rapidly developing, biodiverse cities. 
+
+The high levels of competent disease carriers near humans is a huge risk to public health. The current response to Covid-19 has shown that the ability to limit the spread of a disease depends upon good public health infrastructure. Developing this infrastructure, while more studies are conducted to assess the risk of zoonotic disease transmission, is crucial. 
+
+Mitigating steps can be taken. One would be to maintain areas of forests, grasslands and clean waterways throughout the city. This would preserve and increase the wildlife biodiversity that competes with synanthropes, while also improving biosecurity within households, which could help moderate the presence of synanthropic species in urban centres. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It is, however, worth noting that some synanthropes, like insectivorous bats, help to control mosquito populations and agricultural pests in heavily urbanised environments. Eradicating them would not be advisable. Managing people’s interactions with synanthropes through smart urban planning – for example by removing resources on which synanthropes rely such as manure and rubbish from households – is best. 
+
+Our findings also raise important concerns about the social equality of urban development. The benefits of urban biodiversity and risks posed by human exposure to animal-borne diseases are not equally distributed.  
+
+Currently equitable access to green spaces is restricted in many cities due to socioeconomic barriers, such as land ownership, proximity or lack of transportation. Reconfiguring the distribution of green space from the peri-urban fringe of the city to densely populated areas would build a more equitable society, allowing more city dwellers to have access to recreational space. 
+
+Article by Eric Fèvre, Professor of Veterinary Infectious Diseases, University of Liverpool and International Livestock Research Institute, Kenya, University of Liverpool and James Hassell, Wildlife Veterinarian with Smithsonian's Global Health Program, and adjunct Assistant Professor, Yale University. 
+
+David Aronson, Senior Communications Advisor with ILRI, and Timothy Offei-Addo, a Princeton-in-Africa fellow with ILRI, contributed to the writing of this article. Environmentalists had been campaigning against the planned destruction of the tree which stands on Waiyaki Way. Like many previous grand plans aimed at decongesting the city, the devil is always in the details. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
