@@ -1,0 +1,288 @@
+Thousands of Form Four leavers in Kilifi County cannot access their academic certificates due to huge fee balances. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite repeated orders from the government that no school should withhold students' certificates due to nonpayment of fees, a majority of principals in the county maintained the students had to clear their arrears before being issued with their documents. 
+
+The head teachers argued that the students had utilised school resources leading up to sitting their Kenya Certificate of Secondary Education (KCSE) exams and must therefore pay up.  
+
+The former students fear that, with the re-emergence of cases of student unrest and burning of schools, they are likely to lose their documents.   
+
+Kaloleni Member of Parliament Paul Katana said more than 2,000 students in the sub-county were yet to collect their official KCSE results from their respective secondary schools. 
+
+“The lack of the crucial documents has made the victims miss out on available job opportunities. I want to tell the government that when you issue any directives you should follow up on the matter up to the grassroots to ensure that it is being implemented by the relevant parties," he said.   
+
+The lawmaker lamented that many young people missed out on the just-concluded Kenya Defence Forces (KDF) and National Police Service (NPS) recruitments due to lack of documents.  
+
+In Mbogolo village, Chapungu sub-location in Ganze, a group of women appealed to the government to intervene and have their children issued with the documents.  
+
+Speaking to nation.africa, the women narrated their struggles to raise money for school fees and other basic needs for their children, saying lack of money was the reason for the huge balances.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The students were allowed to sit for their KCSE examinations, but for years now they have not been able to get their official results and other crucial documents.  
+
+Mr Pingano Karisa said his son, a former student at Godoma Secondary School in Ganze, was yet to get his documents after he failed to clear a Sh13,120 fee balance.  
+
+His son did his KCSE examination in 2019 and scored a mean grade of C plain. 
+
+"I have not managed to clear the fee balance for my son because there is no sustainable job for me to earn a good income to support my family and get extra money for the unpaid school fees," he said.  
+
+Mr Karisa, a livestock and crop farmer who depends on his cows and goats for a living, said a drought that has hit the area has led to low productivity. 
+
+He added that Gwaseni dam, their only source of water for irrigation, sometimes suffers low water volumes, further affecting their crops.   
+
+Poverty 
+
+Chapungu has been hard-hit by high levels of poverty attributed to perennial drought. Here, a majority of women depend on charcoal production and tapping of aloe vera fluid for a livelihood.  
+
+Ms Elina Safari was unable to clear Sh45,000 for her brother Samsom Wanje Mwaringa, a former student at Mnazimwenga Secondary School in Kaloleni sub-county.  
+
+Mwaringa did his KCSE examination in 2018 and scored a mean grade of C plain. 
+
+"We were orphaned when my two brothers were two years and four-and-a-half years and I started burning charcoal to raise money to take care of them. Life was tough and I decided to get married to get support to raise my siblings but my husband and I had no stable jobs," she said.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She was unable to take her lastborn brother to Form One after he scored 315 marks in the Kenya Certificate of Primary Education (KCPE) examination in 2017 at Maryango Primary School in Ganze due to financial challenges.   
+
+The principal of Mitangani Mixed Secondary School in Ganze, Mr Francis Ouma, told nation.africa that many poor parents have had challenges with fee payment, with most depending on bursaries from the NG-CDF and the Kilifi County government. 
+
+The bursary support, he said, has not been consistent, leaving some with fee balances of up to Sh100, 000.  
+
+"Some students come and explain their challenges in clearing the fee balances and ask to be given the results to go and further their studies, but the majority do not want to come for the papers. Nobody has blocked them from coming," he said.   
+
+The school, which is located in a remote part of Bamba in Mitangani location, is dominated by children from poor families whose parents cannot afford to raise school fees to take them to other schools. 
+
+"I have a Form One student who scored over 400 and he was supposed to go to Mang’u High School but his parents could not afford to take him to the school," said Mr Ouma.  
+
+Between 2014 and 2019, the fees balances at Mitangani Mixed Secondary School accumulated to Sh12.2 million.  
+
+The school has 122 candidates sitting for KCSE exams and only two have cleared their fees.   
+
+Currently, the school has 110 orphans.  
+
+Ganze Member of Parliament Teddy Mwambire said the number of affected students is high and some are organising fund-raisers to clear their fee balances. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"The NG-CDF money is not enough for us to help all the students clear their fee balances, but we are supporting individual students through fundraising," he said. 
+
+Kilifi branch Kenya National Union of Teachers Secretary-General Jonathan Kenga asked the government and leaders who have been demanding that the students be issued with their documents before clearing their school fees arrears to bail them out. 
+
+"How will the schools operate without money while every single operation needs finances? The schools have incurred expenses in the process of providing education to the students and whoever has a debt must clear it. If they were given the services and it was agreed that they would pay school fees, then they must do it. And those leaders who are demanding that the students must be given their results should look for a way of compensating the schools," he said.  The coalition proposed to replace him with Kilifi's Stewart Madzayo. Stakeholders ask State to reinstate school feeding programs to save vulnerable teens Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
