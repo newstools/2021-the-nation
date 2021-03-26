@@ -1,0 +1,204 @@
+The Nairobi Metropolitan Services (NMS) will introduce a digital queuing system and smart cameras in termini as part of an ambitious plan to bring to an end matatu madness in the capital city. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The plan will also see police posts established within the termini to ensure enforcement. 
+
+Nairobi termini have gained notoriety for being dens of gangs posing as touts and pickpockets who harass passengers besides preying on unsuspecting commuters. 
+
+To streamline the sector, the digital queuing system will control how public service vehicles (PSVs) operate in the termini to ensure controlled picking and dropping of passengers. 
+
+The cameras, on the other hand, will help in digitally monitoring whatever goes on at the termini. 
+
+
+
+
+
+
+The Park Road bus terminus in Ngara constructed by NMS.
+Photo credit: File | Nation Media Group
+
+ 
+
+Six bus parks 
+
+NMS is currently building six out-of-city centre bus termini. They include Green Park, Desai, Park Road, Fig Tree, Muthurwa, and one at the junction of Bunyala and Workshop roads. 
+
+Already, NMS is in the process of contracting a firm in a government-to-government contract to roll out the plan. 
+
+NMS boss Maj Gen Mohamed Badi said the smart cameras will be linked to operation centres at the police headquarters and NMS offices to monitor every action in the bus termini. 
+
+Designated officers will also be put in the operation centres to keep watch. 
+
+
+
+
+
+
+Green Park bus terminus in Nairobi on March 16, 2021.
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+Queuing system 
+
+“Let’s say you are driving from Ngong Road, as the bus comes to the terminus in town, the officers at the operational centre will be able to see that bus coming and will arrange how the matatu will come and drop passengers by automatically putting it in the queuing system,” said Mr Badi. 
+
+“That helps in ensuring PSVs are disciplined in terms of picking and dropping passengers, leading to law and order in the termini,” he added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Mr Jimal Ibrahim, the chairman of the Association of Matatu Operators at the Green Park bus terminus on March 16, 2021.
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+Every matatu sacco will further be asked to nominate a representative to sit in the operations room to take ownership when its members misbehave. 
+
+
+
+
+
+
+The Green Park bus terminus, one of of five new termini constructed by NMS in Nairobi.
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+To control matatu chaos caused by touting, last week, NMS Director for Transport and Public Works Michael Ochieng said no touting will be allowed in the modern termini as technology will take over where an electronic board will control the movement of the PSVs. 
+
+The matatus will be required to queue according to their saccos, and drivers will follow directions from the screens mounted at each terminus. 
+
+Mr Badi said the plan will also help in reducing crimes committed within Nairobi as every street and terminus will be under surveillance. 
+
+“The police officers in the bus termini police posts will be charged with enforcement to restore law and order across the city,” said Mr Badi. 
+
+ 
+
+comulo@ke.nationmedia.com The terminus is expected to restore sanity in the Nairobi transport sector. Suspension to remain in force until April 21 when two petitions by MOA and Cofek will come up for directions. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
