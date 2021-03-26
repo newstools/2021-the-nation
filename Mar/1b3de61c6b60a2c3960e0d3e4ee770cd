@@ -1,0 +1,145 @@
+The third wave has swept us because we let down our guard.It’s immoral to lure supporters to imminent death for political expediency. Lately, Covid-19 numbers in Kenya have surged. It’s scary. What is loosely called a “third wave” appears to be a monster tornado. And it comes with indiscriminate death: The medical fraternity has warned that hospital beds are full. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The third wave has swept us because we let down our guard. Last year, I reckoned that the battle of hearts and minds on dealing with the pandemic was lost due to a poor execution strategy. 
+
+Politicians added fuel to the fire through reckless public rallies. Wherever they passed, they must have left a trail of death. The same images beamed via television and social media excited the masses and tricked the mind to imagine that we were out of the woods. 
+
+Mass gatherings, such as political rallies, are superspreaders. Although the President, in his latest address to the nation, banned rallies, some politicians nonchalantly ignored the directive. 
+
+It was refreshing though that, recently, Mombasa Governor Hassan Joho came out strongly in warning against holding political rallies in his county for the next 30 days. 
+
+Now that is leadership. More governors should take the cue from Mr Joho. And this is why: Leaders are powerful. They influence their supporters. They should deploy that social power to protect them. 
+
+Serious calamity 
+
+However, there is no use of saying one thing and doing the opposite. Covid-19 is a serious calamity that requires magnanimity, wisdom and empathy. 
+
+It’s immoral to lure supporters to imminent death for political expediency. That’s what David Hume, the Scottish philosopher, would describe as “narrowness of soul, which makes them prefer the present to the remote”. We need to cure ourselves of this egoism and immoral stinking enterprise of using other human beings as a means to our selfish end. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Politics can always wait. We should be seeing concerted efforts against unnecessary movement and crowding. We should also take a leaf from Governor Joho, who rolled out one of the most robust social programmes to cushion his people from the coronavirus: A food distribution programme and business permit and licence waivers. We need more of that. 
+
+wamanjipr@gmail.com. @manjis The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
