@@ -1,0 +1,93 @@
+Area chief said the driver of the vehicle was speeding.The injured were rushed to Rachuonyo North Sub-county hospital. One person died while four others sustained serious injuries in a road accident at a petrol station in Kendu Bay town, Homa Bay County on Thursday afternoon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The accident occurred when a truck, whose driver seems to have lost control, rammed into several parked vehicles and motorcycles along Katito-Homa Bay road. 
+
+Witnesses said the vehicle that was transporting building materials also hit pedestrians before instantly killing a man who was being served at the petrol station. 
+
+North East Karachuonyo location chief Tobias Aduda said the driver of the vehicle was speeding. 
+
+According to the chief, the vehicle was traveling down a slope from Oyugis towards Kendu Bay. 
+
+
+
+
+
+
+Members of the public mill around the scene of a road accident involving a truck that claimed one life in Kendu Bay town, Homa Bay County on Thursday afternoon. 
+Photo credit: George Odiwour | Nation Media Group
+
+ 
+
+Lucky escape 
+
+The truck driver, who was among the injured, is said to have approached a junction where the petrol station is situated when he lost control of the vehicle.  
+
+“The trailer fell on its side when the driver tried to make a right turn towards Kisumu. The vehicle rolled and hit some shops at the petrol station,” Mr Aduda said. 
+
+The person who was killed was trying to escape from the scene after he saw the speeding truck approaching. 
+
+According to Mr Aduda, the injured victims were lucky to avoid being hit directly by the truck. He said the injured were rushed to Rachuonyo North Sub-county hospital. 
+
+Police have commenced investigations into the accident. Police looking for lorry driver who escaped from the scene after the collision. They were rushed to hospital for treatment after the bus they were in overturned at Thuchi bridge. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
