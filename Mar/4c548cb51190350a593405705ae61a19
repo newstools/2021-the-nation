@@ -1,0 +1,79 @@
+Suspect fails to take plea with investigating officers seeking for 14 days to adduce more evidence.The suspect had accused her co-wife of inappropriately encroaching into her land. A 27-year-old woman who stabbed and killed her stepson at Kuna Village in Rongo Sub-county was Friday charged with murder. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The suspect, Joyce Achieng Omollo, who appeared before Senior Resident Magistrate Raymond Langat, however, failed to take plea with investigating officers seeking for 14 days to adduce more evidence. 
+
+Police records indicate that Mrs Omollo attacked her stepson Alphonse Omondi, a Form Three student at Kameji Secondary School with a kitchen knife and stabbed him several times on the chest after a domestic disagreement. 
+
+Mr Omondi was rushed to Lwala Community Hospital in North Kamagambo but could not be attended to owing to the degree of injuries he sustained. 
+
+He was then transferred to Homa Bay County Referral Hospital but succumbed to the injuries while undergoing treatment. 
+
+In a previous interview, North Kamwango Sub Location assistant chief Mr Chales Goi said he received the report from one of his village elders and immediately called the police who arrested the suspect. 
+
+“I informed my area chief and Kamagambo police station OCS who rushed to the scene and apprehended the woman. We later received reports that the victim died while undergoing treatment in Homa Bay,” chief Goi told Nation on phone. 
+
+According to the administrator, the suspect had accused her co-wife of inappropriately encroaching into her land, eliciting a bitter exchange before the deceased came in to intervene. 
+
+“They had been quarreling over some portion of land that the suspect did not want to be tilled. This might have elicited the attack,” the administrator noted. One man died while two are fighting for their lives at KU Teaching, Referral and Research Hospital. She remained silent after the charges were read out to her, prompting the magistrate to issue the order. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
