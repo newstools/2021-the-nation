@@ -1,0 +1,423 @@
+Inaccurate GPS coordinates are also being cited for aircraft accidents in Marsabit that have claimed many lives in the past.One of the pilots of the recent Marsabit crash had expressed discomfort about the flight hours before take-off.  Are the skies above Marsabit the most dangerous part of Kenya’s airspace? Pilots say landing an aircraft at the Marsabit airstrip has now become a deadly mission. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And while poor visibility due to a dark cloud that envelopes the surrounding mountainous region particularly in the morning has largely been blamed for tragic accidents, it has emerged there are also technical hiccups related to navigation.  
+
+Inaccurate GPS coordinates are also being cited for aircraft accidents in Marsabit that have claimed many lives in the past. 
+
+Colonel (rtd) Nahashon Mutea explained that most Kenyan airstrips, including Kisima in Maralal, Voi, Narok, Kitale and Eldoret are inaccurate in terms of coordinates and offset from the actual location, which could lead to accidents when navigating in poor visibility. 
+
+“A good example is the Marsabit airstrip. Once you select this option on the GPS, instead of leading you to the airstrip, it homes you in on Marsabit mountain, which could have disastrous consequences, especially during periods of poor visibility,” said Colonel Mutea. 
+
+He added that a pilot who enters Kisima airstrip in Maralal on the GPS coordinates will find himself two nautical miles on the right side of the airstrip. 
+
+“This is why you need to do background checks and rely on local knowledge before you take off. 
+
+This would be hard for younger pilots who haven’t flown there often or for those flying there for the first time,” explained Colonel Mutea. 
+
+A recent incident was two weeks ago, when the crew of an aircraft flying into Kisima Mararal logged in the GPS coordinates that instead took the aircraft towards a dam to the right of the airstrip.  
+
+GPS coordinates 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+GPS coordinates are loaded by service providers before the aircraft is purchased, but it is not clear whether the Kenya Civil Aviation Authority (KCAA) is consulted prior to the loading and purchase. 
+
+“These pre-loaded GPS coordinates will show you the locations of airstrips and airports, but if I am flying to a place whose coordinates are not on the GPS, I load it manually,” explained Mutea. 
+
+Screenshots from a WhatsApp group of pilots reveal how their GPS equipment that acts as a navigation tracking device (Garmin) and (Jeppeson) navigation charts, which provide navigation data, are rarely updated because the operators rarely pay for them, and that coordinates can only be updated if someone “calls it in”.  
+
+GPS came in to replace the old techniques of using a paper map and a plotter, where a pilot had to periodically check the map to confirm passage over rivers or to check for hills and mountains.  
+
+Aided by satellites, the Garmin and Jeppeson databases expire periodically and it is up to the operator to ensure that they are regularly updated to include new airports being built, new radio frequencies and new procedures as they are developed. 
+
+“The challenge is that these updates are expensive, and small operators may experience financial setbacks. With small operators, pilots can buy their own GPS equipment and feed their data manually,” said a senior pilot who sought anonymity.  
+
+He explained that paying for the updates is not a big challenge to big airlines, who most of the time have an agreement with the providers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Some equipment are so advanced and databases up-to-date that they have an inbuilt voice record. If you are flying under poor visibility, it will let you know the terrain you are flying into and on the display, it will show you whether there are aircraft near your location,” he explained.  
+
+“After the recent incident, we raised this issue with KCAA, and they are currently working on it,” said Colonel Mutea. 
+
+Aircraft crashes 
+
+However, when nation.africa questioned the KCAA to confirm if indeed the Marsabit GPS coordinates are inaccurate, they did not respond. 
+
+We had sought to find out who is responsible for loading of the GPS coordinates, when were they last updated, whether the coordinates can be rectified to reflect their actual position on the ground, and if not, the reason behind it.  
+
+Considering the lives that have been claimed by Marsabit in aircraft crashes, the agency had also been requested to comment on the possibility of Marsabit airspace being dangerous to consumers.  
+
+This is after it emerged that one of the pilots of the recent Marsabit crash had expressed discomfort about the flight hours before take-off.  
+
+In the absence of a response, it is not clear whether the fallen pilot raised the concern officially and whether it was addressed before the flight. The fallen aviator had wanted to delay the flight, hoping that by doing so, the bad weather he flew into would have cleared up.   
+
+
+
+
+
+
+In this picture taken on April 10, 2006 rescue workers are seen at the the site where a Kenyan Y-12 military plane carrying legislators and other officials crashed into a hillside and burst into flames, killing at least 11 in Marsabit.
+Photo credit: File | Reuters
+
+ 
+
+On March 20, KCAA confirmed that the aircraft, registration number 5Y-JKN, had departed Wilson Airport in Nairobi at 8.20am with two people on board. The agency explained that the aircraft had crashed into a hill at approximately 10.10am, and that the aircraft accident investigation department had launched an investigation to determine the cause of the accident. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Every aviator and operator knows that Marsabit is a no-go zone in the morning because of the low cloud base at that time, which usually clears up by mid-morning. Why couldn’t they wait?” a friend of fallen Captain Mureithi had asked bitterly. 
+
+He explained that when a pilot experiences bad weather, some companies have a provision where their pilots can turn around and land elsewhere. When the weather clears, they can then take off again and complete their task of the day. 
+
+“Marsabit is a dangerous place to enter. It’s one way in one way out, just that you have to wait until the cloud base has risen for you to do your operations safely,” he explained. 
+
+Instrument landing system 
+
+He also added that with Covid-19, most pilots are scared of losing their jobs, so they cannot refuse assignments, and that airlines may be taking advantage of that fact to push the pilots to the limit. 
+
+“If you don’t fully deliver, and given your standard operating procedure, then it appears like person A doesn’t complete his job, but person B does, and therefore person B is better than person A. Every operator now wants to minimise the number of employees, so that means you have to keep yourself on toes, and do whatever you have been told, regardless of whether it will cost you your life,” he explained. 
+
+He further explained that given the foggy weather, the pilot and his copilot may have struggled to find the airstrip and crashed while still at it. 
+
+“From the photos, you can tell that they were having a hard time looking for that airstrip. What they were doing is called a low high speed kind of manoeuver, which is usually done when there is a low cloud base – you try and identify where the airstrip is but you do not know where the masts are, where the electrical poles or hills are – and you are just flying blind,” he stated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“It is unlike airports, which have something called an instrument landing system. You just enter the coordinates there and the plane will bring you all the way to the ground. However, Marsabit airstrip does not have that provision,” he added. 
+
+He explained the last 12 hours before John Brian took off were spent in unison. 
+
+“His last words were ‘Bro, wacha nipige Marsabit mswaki nikirudi tupatane normal spot’. At some point during the day, I stepped into the shower. On coming out, I found so many missed calls. I got into my WhatsApp and saw pictures of the mangled plane, and wished to the high heavens that it wasn’t Mureithi’s,” he explains. 
+
+The friend he was to meet a few hours later was never to come back. 
+
+“Out of denial, I even made a joke to my friends that my friend was on his way back. They tried to reason with me, but I was adamant. Later, I decided to call. His phone was off. I tried for the second and third time, but the calls weren’t going through. At the time when he was supposed to be landing, I called again, and the phone was still off. It is then that the reality of what had happened hit me hard,” said the sad source. 
+
+Narrow escape 
+
+The horror of it was exacerbated by memories of his father’s narrow escape in 2006. He should have been the pilot in command. 
+
+“I was still a young boy then, hanging out with my father in the mess hall of one of the military barracks. A colleague approached him and requested that he take up my father’s shift that night, and my father would work his shift when the demand came up. My father agreed, and we hit the road that same evening to upcountry. The next morning, we woke up to news that he had crashed in Marsabit,” explains Collins. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“These are not toys that we fly up there. The view of the earth below is awesome when you are up there, but everyone should remember that going up there is an option, and coming down is a must, whether you land soft or hard. If somebody doesn’t address the Marsabit issue, it’s a matter of time before another plane dives in there,” he stated, adding that every company has a standard operating procedure on how to enter and leave dangerous airfields. 
+
+Now, his friend, who would have turned 27 this year has rested, and his ambitions have been cut short. 
+
+“Captain Mureithi was bright, top of his class, and we cannot say that he was incompetent. He went to the Kenya School of Flying, which is an envy of many pilots. He was being groomed to be a commercial airline pilot,” said Collins. 
+
+Collins explains that shortly before Covid-19 hit, the late pilot had been shortlisted to join Kenya Airways, but when the pandemic hit, the recruitment was put on hold to be reviewed when things got back to normal. 
+
+“He had told me that flying is not the only thing we can do, and so we both enrolled for classes at the East African School of Aviation,” he explained.    
+
+Marsabit airstrip has claimed many lives in the past, including 14 high-level delegates on peace mission in 2006. In the crash, Dr Guracha Galgalo (Moyale), Abdi Sasura (Saku), Titus Ngoyoni (Laisamis) and Abdullahi Adan (East African Legislative Assembly) lost their lives, their deaths hitting the then National Assembly hard.  
+
+Update: Later, KCAA responded saying the issues raised are under investigation by the Air Accident Investigation Department. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"Kindly note that the matters raised are under investigation by AAID. KCAA is estopped from making comments on an active investigation." 
+
+mchelangat@ke.nationmedia.com Little is known about the origin of the name, but it can be traced to a colonial servant. The plane crashed due to bad weather at Kofia Mbaya in Marsabit Central. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
