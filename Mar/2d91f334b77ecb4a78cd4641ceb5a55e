@@ -1,0 +1,273 @@
+The 2020/21 Form Four national exams began on Friday across the country, with 751,150 candidates eligible to write the Kenya Certificate of Secondary Education (KCSE) tests. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As was the case with the Kenya Certificate of Primary Education (KCPE) examinations, which ended on Wednesday, the exams will be tightly monitored by the Kenya National Examinations Council (Knec) and security agencies to ward off malpractices. 
+
+
+
+
+
+ 
+
+The candidates will start with English functional skills testing at 8am and later write English comprehension, literary appreciation and grammar tests in the afternoon. 
+
+Here is a round-up of how the day one of the examinations kicked off. 
+
+Kisii  
+
+In Kisii, Education CS Prof George Magoha supervised the distribution of test papers  at the county commissioner offices. 
+
+He said no cheating has been detected so far and that officials are closely monitoring schools in Kisii, Migori and Homa Bay counties. 
+
+Meru 
+
+In Meru County, Skills Development PS Alfred Cheruiyot said the Ministry of Education has put in place measures to ensure that the examinations are credible. 
+
+The PS said officers from the Education ministry headquarters had joined their colleagues in various centres across the country to help them supervise distribution and invigilation of the tests. 
+
+
+
+
+
+ 
+
+“We have been supporting our field officers in this exercise and will ensure the exams are credible. These exams are being done in difficult times when we are battling the Covid-19 pandemic and we will do our best to support our officers,” said Mr Cheuiyot. 
+
+He spoke at the Meru County headquarters when he opened the examination container and supervised distribution of examination materials to school principals 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nyeri 
+
+Kenya National Examination Council (Knec) Chairman John Onsati oversaw the opening of the container in Nyeri Central Sub county. 
+
+He commended the KCPE team for a flawless exercise urging the centre managers, supervisors and students to emulate them and  have a credible exam. 
+
+
+
+
+
+ 
+
+“All examination that we are going to offer has been secured fully up to this point. They have been properly guarded all in the name of giving a level playing ground for the children and it is going to continue from the container now to the centres and back,” he said. 
+
+Mr Onsati maintained that security would be beefed up during the examination seeing as every school would have at least two police officers. 
+
+
+
+
+
+ 
+
+“All the institutions will have two police officers to safeguard the examination. We are not going to compromise the quality at any stage,” he said. 
+
+Tharaka Nithi 
+
+At least one KCSE candidate in Tharaka Nithi County is expected to start for the examination in a labour ward at the Chuka County Referral Hospital. 
+
+In the county, a total of 10,981 candidates are set to sit for the examination; 5,764 girls and 5,217 boys. 
+
+
+
+
+
+ 
+
+Speaking during the distribution of examination papers in Chuka town, Tharaka Nithi County Commissioner Beverly Opwora warned that any form of examination malpractices will land culprits in trouble. 
+
+Mandera  
+
+In Mandera County, at least five candidates were reported missing from examination centres. 
+
+Kutolo Sub-County Director of Education, Alinur Dakane said the five are from two examination centers in the area. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Four candidates have not reported for KCSE examinations at Borehole Eleven Secondary School and another at Chief Mohamed Jari Secondary school,” he said. 
+
+According to Mr Dakane, the whereabouts of the five remains unknown at the moment. 
+
+“The missing candidate at Chief Mohamed Jari had registered to re-sit for the examination after scoring a C+ in the previous year examinations,” he said. 
+
+He said the student hoped to get a better grade and join university. The exams are being conducted after a difficult academic year disrupted by the Covid-19 pandemic. Education CS says no student will miss the national test, including pregnant girls. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
