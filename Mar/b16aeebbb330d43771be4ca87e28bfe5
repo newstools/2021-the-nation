@@ -1,0 +1,146 @@
+Comedian Vincent Mwasya alias Chipukeezy is the new vice-chair of the National Authority for the Campaign Against Alcohol and Drug Abuse (Nacada) board. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A statement from Nacada indicates Chipukeezy was elected by the Board of Directors during a meeting on Tuesday to replace Peterson Mwai who served in that position until December 2020. 
+
+“He (Chipukeezy) will be instrumental in steering the Authority’s mandate as he resonates well with the youth and young persons who are our critical target group for our prevention campaigns,” said Board Chairperson Prof Mabel Opanda Imbuga. 
+
+Chipukezeey pledged to utilise the opportunity to spearhead youth and children programs in line with the Authority’s strategic plan to provide hope for the young person’s struggling with addiction in the country. 
+
+Nacada a state corporation under the Ministry of Interior and Coordination of National Government. Its main mandate is to undertake public education and awareness campaigns against drug abuse, especially among youth. 
+
+“I am looking forward to working with the Board Members to provide strategic guidance and policy directions at a time that Kenya is facing a myriad of challenges including an upsurge in alcohol and drug abuse consumption especially during this Covid-19 pandemic period,” he said. 
+
+President Uhuru Kenyatta first appointed Chipukeezy as a Director at Nacada in June 2018 in a special Gazette Notice issued by Interior Cabinet Secretary Fred Matiang'i.  
+
+The position was held by Starehe MP and musician Charles Njagua alias Jaguar. He was first appointed by Mr Kenyatta in 2015 but resigned from the board in 2017 citing personal reasons.  
+
+Chipukezeey rose to popularity after performing in the coveted stand-up comedy show Churchill Live, where he entertained Kenyans alongside other top comics such as Eric Omondi, MC Jesse, Karis, Butita, David The Student, Owago Onyiro and Sleepy David among others. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Chipukeezy has since spearheaded his projects such as The Chipukeezy Foundation, The Funny Truth and The Chipukeezy Show just mention a few. 
+
+He has promised to continue serving the nation through his new position and we wish him all the best. Social media provides a new platform for launching careers.  Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed...
