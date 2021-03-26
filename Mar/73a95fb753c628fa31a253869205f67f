@@ -1,0 +1,171 @@
+The manager of a South African mall was suspended Thursday for asking a shopper in traditional ethnic dress to leave a store, saying the attire was "not decent". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A video recording of the incident at the Boulders Shopping Centre in Johannesburg was widely circulated among outraged social media users on Wednesday. 
+
+
+
+
+
+
+Ndebele women in traditional attire.
+Photo credit: File
+
+ 
+
+The footage shows the manager confronting Ndebele activist Thando Mahlangu for shopping at local pharmacy chain Clicks in a multi-coloured shawl and porcupine quills.  
+
+"We have the right of admission and I don't condone this in my mall... it is not decent," he told Mahlangu, who protested his right to remain in the store. 
+
+
+Saddest reality in Africa, I was subjected to inside the @Clicks_SA store at The Boulders Shopping Center. By the center manager, who said it was his shopping complex. I was told that I'm wearing inappropriate I must go & Omega risk solutions harassed me #NdebeleTwitter pic.twitter.com/klzmTQspJO— #WeNeedAmaNdebeleOnTV (@thandomahlangu_) March 24, 2021  
+
+In a country that remains deeply sensitive about insults to culture given its apartheid past, the terse exchange drew ire online, where many South Africans accused the black manager of discrimination. 
+
+"This is what happens when a nation doesn’t know it’s history... what kind of black man doesn’t know traditional regalia when he sees it?" one user asked on Twitter. 
+
+Another tweeted "so how did we get to a point where the indigenous people are ridiculed like this... What a sad day". 
+
+Mall owner Redefine Properties on Thursday said the events were "most regrettable" and that the manager had been suspended. 
+
+The company also distanced itself from "the degrading and undignified manner" in which Mahlangu was treated. 
+
+
+pic.twitter.com/pFPZoiUioU— Clicks (@Clicks_SA) March 24, 2021  
+
+Clicks said Wednesday that it was "extremely embarrassed" and would submit a formal complaint to the mall. 
+
+It noted its staff had intervened and allowed Mahlangu to continue shopping.   
+
+The Ndebele people are one of South Africa's many ethnic groups. 
+
+Their art was popularised in recent years by 85-year-old Esther Mahlangu, whose colourful geometric patterns have been exhibited in galleries around the world. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2016, the artist clinched a deal to paint the body of German automaker BMW's luxury sedans with her iconic motifs. 
+
+It is not the first time Mahlangu has run into trouble for wearing traditional garb.  
+
+The activist was barred from boarding a Johannesburg train for similar reasons in 2018. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
