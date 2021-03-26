@@ -1,0 +1,103 @@
+The latest cases of infection are from 8,976 samples tested in the last 24 hours.Virus has claimed 26 more lives in the country in the last 24 hours, according to the Ministry of Health. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The new cases have pushed the total confirmed cases in the country to 126,170 with cumulative tests in the country so far standing at 1,443,701.  
+
+The Ministry has also reported that 498 patients have recovered from Covid-19. The recoveries comprise 372 patients from home-based care and isolation and 126 patients from various health facilities across the country, with total recoveries in the country so far standing at 91,268. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+At the same time, the virus has claimed 26 more lives in the country in the last 24 hours, according to the Ministry of Health. The latest deaths take the cumulative fatalities in the country to 2,092. 
+
+In statement on Thursday evening, Health cabinet Secretary Mutahi Kagwe said the new cases comprise 1,428 Kenyans and 35 foreigners. 
+
+The youngest case is of a three-month-old infant while the oldest is 103 years old. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Cases by county 
+
+Nairobi County, with 766 cases, has the highest number of new infections, followed by Nakuru 126, Meru 83, Uasin Gishu 74, Kiambu 49, Kitui 46, Machakos 44, Kericho 30, Kisumu 28, Mombasa 27, Kajiado 22, Migori 20 and Bungoma 20.   
+
+More infections were reported in Busia 19, Narok 17, Nyamira 16, Kilifi 15, Laikipia 11, Bomet 9, Garissa 7, Siaya 7, Nandi 5, Nyeri 5, Kisii 3, Elgeyo Marakwet 2, Kirinyaga 2, Makueni 2 and Trans Nzoia 2.  
+
+Nyandarua, Tharaka Nithi, Vihiga, Kwale, Baringo and Wajir Counties all reported a single new infection.  Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. Within the same period, 184 patients recovered from the virus. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. DP Ruto holds closed-door meeting with key allies strategise his next political moves.
