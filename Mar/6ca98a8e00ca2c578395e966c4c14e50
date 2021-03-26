@@ -1,0 +1,151 @@
+President Uhuru Kenyatta has directed his entire Cabinet and Executive office to get vaccinated against coronavirus.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This was confirmed by the Chief of Staff in the Office of the President, Nzioka Waita, who said it was vital to lead by example. 
+
+
+As the Government scales up the roll out of the national #COVID19Vaccine program , H.E the President has directed his entire Cabinet & Executive Office to lead by example & get the jab! Received mine this morning under the watchful guidance of the @MOH_Kenya vaccination team. pic.twitter.com/oTV10NU4OV— Nzioka Waita (@NziokaWaita) March 26, 2021  
+
+Cabinet Secretaries who have not taken the vaccine are now expected to follow suit as well as staff in the executive office of the President. 
+
+Cabinet Secretary Ministry of Industrialization, Betty Maina, confirmed that she had been vaccinated. 
+
+
+Got my first dose. Thank you #teamhealth. pic.twitter.com/FYviTOskVN— CS Betty C Maina (@maina_betty) March 26, 2021  
+
+The president's order is an about-turn from government's recent communication which stated that politicians were not on the priority list to receive the first batch of the Oxford AstraZeneca vaccines. 
+
+Two weeks ago, Health CS Mutahi Kagwe said he would not jump the queue to get vaccinated for the virus because he was not a priority. 
+
+“I will not take the vaccine until it gets to my turn on the priority list. If I take it before I will be accused of jumping the queue. If I do not take it, I will be accused of not leading by example. So, I am not sure which is which and that is why I have chosen to await my turn. The worst thing that could happen is if a nurse got Covid-19 because I have taken the vaccine meant for her,” Mr Kagwe said. 
+
+His comments came as the clergy called on president Kenyatta and members of his cabinet to get their doses of the Covid-19 vaccine publicly in order to reassure Kenyans of its safety. 
+
+According to the national Covid-19 vaccine deployment plan, the country was to initiate Phase 1 of innoculation between February and June 2021, targeting 1.25 million people, key among them frontline health workers and other cadres in priority sectors. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Phase II, which will run between July and June 2022, will target the most vulnerable including the elderly and those above 18 years with comorbidities. It targets 9.76 million people. 
+
+“To date, we have vaccinated 64,100 persons and the last two days we have had an average of 10,000 vaccinations administered. Over the next two weeks, we aim to be vaccinating over 20,000 people per day,” the ministry said in a tweet Wednesday evening. President Uhuru Kenyatta and his Cabinet have kept off the vaccination campaigns. Several public and private hospitals are listed as they have been preparing for the vaccination drive. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
