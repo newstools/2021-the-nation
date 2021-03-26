@@ -1,0 +1,175 @@
+Talks between Coast leaders and President Uhuru and Deputy President William Ruto have elicited mixed reactions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Allies of the two traded accusations of betrayal amid claims of a plot to scuttle the formation of a coastal party. 
+
+President Kenyatta met Governors Hassan Joho of Mombasa, Kilifi’s Amason Kingi and Salim Mvurya of Kwale on Wednesday. 
+
+Dr Ruto held talks with lawmakers and a former senator at his Karen home in Nairobi on the same day. 
+
+Kilifi North MP Owen Baya called the three governors selfish. 
+
+“I am among the people who started the push for Coast unity until it was hijacked by political brokers. Governor Kingi told people he would unveil a political party in March. It is five days to March 31 but we have not seen anything,” he said. 
+
+Read: Joho, Kingi to ditch ODM and form regional party 
+
+The leaders who met Dr Ruto are Malindi MP Aisha Jumwa, Msambweni’s Faisal Bader, Mr Owen Baya (Kilifi North), Mr Khatib Mwashetani (Lungalunga), Lamu Senator Anuwar Loitiptip and former Mombasa Senator Hassan Omar. 
+
+Holding talks 
+
+However, Kadu-Asili, Umoja Summit, Shirikisho and Devolution party leaders, who are holding talks to form a coalition, supported the meeting between the President and the governors. 
+
+Ms Naomi Cidi, the founder and secretary-general of Umoja Summit Party, said even though the three leaders have not said what they discussed with Mr Kenyatta, the region would be united. 
+
+“The push for regional unity is unstoppable, with or without Mr Kingi, Mr Joho or Mr Mvurya,” she said yesterday. 
+
+“In fact, talks on forming an alliance are at an advanced stage. Lawyers have been involved to make it happen.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kadu Asili chief Gerald Thoya said any leader supporting a party that does not have roots in the region is an enemy of Coast people. 
+
+“Governor Kingi and Joho have been in the Orange Democratic Movement (ODM) but we have not seen any improvement in the lives of our people. ODM will not be allowed to continue misusing us,” he said. 
+
+Read: Joho, Ruto face off in battle for Coast 
+
+ The meetings came at a time the relationship between ODM leader Raila Odinga and lawmakers in the region is at a low ebb. 
+
+Coast party 
+
+Prof Hassan Mwakimako, a political analyst, said the meetings showed that “something is cooking”. 
+
+He said the President would most likely talk to the governors to back the Building Bridges Initiative (BBI). 
+
+Prof Mwakimako dismissed claims that Mr Kenyatta is pushing for the formation of a Coast party. 
+
+“These are national leaders and need the region. There meetings are an indication of major political events,” he said. 
+
+The analyst added that the meetings also put Mr Odinga in a tough position for he now needs to calculate his next move with in regard to his influence in the region. 
+
+“Raila’s position seems to be weakening in the Coast. He needs to rethink and rework on his strategy,” Prof Mwakimako said. 
+
+“During his recent visit to the Coast, Raila missed the point when he openly opposed the formation of a regional party.” 
+
+Additional reporting by Mohamed Ahmed The two governors have been reading from different scripts on the push to form a new party to address issues at the Coast. Joho, Kingi meet with 25 legislators to chart the way forward on region’s unity. Mr Kenyatta noted that Kenya has reported a growing Covid-19 positivity rate, and is now higher than when the pandemic started. Murang'a senator says he is recovering at home after a week of hospitalisation. Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation.
