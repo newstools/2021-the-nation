@@ -1,0 +1,249 @@
+For five hours on Thursday, friends, family and believers gathered at the Deliverance Church, Umoja in Nairobi to celebrate the life of one of its pastors. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Reverend Mathew Wambua succumbed to Covid-19 complications on Sunday at the Kenyatta University hospital where he had been hospitalised for seven days. 
+
+Heartfelt tributes have continued to flow in since the death of a man celebrated by many as a "lover of God, a gifted shepherd of souls and a mentor who impacted many lives as a pastor and worship leader". 
+
+His wife, Rev Nancy, had also been hospitalised at the same hospital where she battled coronavirus. She was discharged on Monday, March 22, a day after her husband had died on Sunday, March 21. 
+
+Rev Wambua was rushed to hospital by his wife on March 14 and lost the battle in ICU exactly a week later. 
+
+His widow revealed on Thursday that his breathing had deteriorated and his kidneys failed resulting while on oxygen support. 
+
+To the Deliverance Church community, a great general has rested. 
+
+Online memorial service 
+
+More than 1,600 people from around the world logged onto the online memorial service that was streamed live on social media, hosted by Bishop JB Masinde at Deliverance Church, Umoja and presided over by Bishop Mark Kariuki- the presiding Bishop and general overseer of Deliverance churches in Kenya. 
+
+Pastors and his family euologised Rev Wambua as a “true shepherd, a man of great integrity and wisdom and calm, a focused praying leader and a great friend and father to many in the body of Christ”. 
+
+
+
+
+
+
+
+
+
+
+
+Photo credit: Courtesy
+
+ 
+
+A “spiritual son” of Bishop JB Masinde, Rev Wambua, who died aged 55, was the senior pastor at Deliverance Church, Donholm which branched off from Deliverance Church, Umoja 13 years ago. He had been pastoring a congregation of more than 3,000 believers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He was also the chairman of Salt and Light Inuka Africa team, a body that brings together African pastors. 
+
+In a moving virtual tribute, his widow Rev Nancy shared their last moments together, revealing that much of the work that her husband has done in the past few months in the church was a premonition of sorts. 
+
+She revealed that her late husband started feeling unwell on March 12. 
+
+“He stayed home that weekend, but that Sunday, nothing would stop Mathew from going to serve not even ill-health; he still went to church and preached, although it was obvious even to members that he was unwell,” she recalled. He preached in all the three services. 
+
+The following week, he stayed home, but by Sunday he was already beginning to lose breath. 
+
+Normal ward 
+
+That is when she rushed him to the hospital -on Sunday, March 14- where he was admitted in the normal ward. 
+
+His health, however, further deteriorated and he had to be transferred to the ICU to support his breathing. 
+
+“They did the best they could. I was discharged on Monday… but one thing was leading to the other. He was picking up on the oxygen but unfortunately, his kidney started failing,” she told mourners in her virtual tribute. 
+
+“They went into resuscitating his kidney, (but) unfortunately, he got a heart attack when they were doing so, then it happened… at that point we lost the battle because he was already on low oxygen. That is how we lost Mathew,” she said. 
+
+However, Rev Nancy believes her husband’s demise was God’s timing, revealing that he put in a lot of work into the ministry and even his family, in the past year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We haven’t lost Mathew; he has rested. His work is done and he has just rested. He has been taken away by the Lord because it was his time. He has not been snatched away from us,” she said. 
+
+Rev Wambua is survived by two children and a wife. 
+
+He will be laid to rest on Friday at his home in Kiteng’ei village, Iveti location in Machakos county. Affairs between pastors and their women followers have become commonplace nowadays. Rev Calisto Odede’s long journey finally culminated in his naming as Presiding Bishop of Christ is the Answer Ministries. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
