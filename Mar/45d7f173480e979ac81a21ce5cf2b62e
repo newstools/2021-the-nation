@@ -1,0 +1,231 @@
+School stigmatised Form Form candidate over claims that she attempted to commit suicide. The student's father blamed the school principal of failing to hear their side of the story. The government is investigating an incident where a secondary school principal from Kisumu County reportedly conspired to block a Form Four candidate from sitting her final examination, citing her mental health.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite having been registered for the 2020 Kenya Certificate of Secondary Education (KCSE) exam, Kisumu County Commissioner Josephine Ouko said they are probing reasons that could have led to the expulsion of the girl in December last year. 
+
+According to the letter seen by Nation, the principal of St Barnabas Girls School in Kombewa Mrs Benter Ayacko blamed the said student of attempting to commit suicide.  
+
+While the letter did not specify how the 17-year-old attempted to take her life, the school administration indicated that the reasons arose from home.  
+
+“The above named student attempted suicide in school owing to reasons she alleges emanate from home,” said the terse letter dated December 7, 2020.  
+
+Alleged suicide attempt 
+
+The principal, while sending the student home, packed all her belongings, including her mattress, box and other personal belongings, in the school van before driving her to her rural home in Gem, Akala (Siaya County) and handed her over to the area assistant chief.  
+
+The letter signed by the local administrator confirmed that one of the teachers, Mrs Deborah Mideva, and the school matron delivered her.  
+
+The girl's father, however, blamed the principal of unilaterally taking the decision and failing to hear their side of the story. 
+
+“Instead of attempting to counsel the child over an alleged suicide attempt, I was surprised that my child was forcefully ejected from school without informing us and establishing the root cause of the problem,” he said, adding that n two occasions he had been denied audience by the school. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He it was irregular that the student did not face a disciplinary panel, neither was her dismissal sanctioned by the board.  
+
+Sent home again  
+
+Following futile attempts by Kisumu County Director of Education Isaac Atebe to resolve the dispute, the father was forced to privately pay for his child’s tuition at home for the last three months.  
+
+“I sent a letter to the head teacher directing that the child should be allowed to learn and I'm surprised that no action was taken,” said the county education boss.  
+
+The father's effort to have his daughter allowed to sit KCSE exams was further thwarted after the school management sent her daughter from school on Thursday. 
+
+“I took accompanied my daughter to school for the rehearsals, but security guards asked me to leave her at the gate. 
+
+“A few hours after leaving the school, my daughter called me using the phone of a boda-boda operator alerting me that she had been sent away,” he said.  
+
+Readmitted to school 
+
+It took the intervention of Kisumu County Commissioner to have the child readmitted to school well after 6pm.  
+
+“It is unfortunate that the child is being stigmatized and sent away from school over what should have been resolved through professional counseling,” said Mrs Ouko.  
+
+Coming at a time when the Class Eight and Form Four candidates were forced to have long holidays after schools were closed over fears of Covid-19 outbreak, Mrs Ouko said it is against the right of the child to be denied education.  
+
+“We are going to investigate the matter and forward it to the Teachers Service Commission for a possible disciplinary action to be taken if it is indeed found that she flouted the law and blatantly disowned directions from her superiors,” said the county administrator.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Efforts to get comments from the school administration failed as they refused to address the media.  Candidates from various secondary schools were admitted in various hospitals after developing labour pains Security officers have been posted to all exam centers and surrounding areas. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
