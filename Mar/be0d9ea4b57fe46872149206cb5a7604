@@ -1,0 +1,273 @@
+In 2017, he switched to keeping pigs, injecting into the business Sh2 million from his savings.Peter Tafao, the owner of the 12-acre farm, is checking on his birds, with the help of some workers when Seeds of Gold team arrives. About 28 kilometres from Sigalagala Polytechnic in Imanga village, Butere, Kakamega County, we find Boresha Farm. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Hosting thousands of chickens and pigs kept under modern practices, the farm can best be described as a hidden gem. 
+
+Peter Tafao, the owner of the 12-acre farm, is checking on his birds, with the help of some workers when Seeds of Gold team arrives. 
+
+“We keep 420 pigs and more than 11,000 improved kienyeji birds and layers - in cages,” says Tafao, who runs a security farm in Nairobi. 
+
+He started with poultry keeping in 2013, running the Kienyeji chicken venture for about five years before quitting due to challenges. 
+
+
+
+
+
+
+Peter Tafao Maina of Boresha farm Butere Kakamega feeding chicken.
+Photo credit: Isaac Wale | Nation Media Group
+
+ 
+
+“I started small and grew the agribusiness, but the challenges were so many since I did not have the right person to manage. The diseases were just uncontrollable,” he recalls. 
+
+In 2017, he switched to keeping pigs, injecting into the business Sh2 million from his savings. 
+
+Two pigsties 
+
+A bigger chunk of the money went on construction of two pigsties and buying of feeds. “I started with 40 piglets of the Large white and Land race breeds that I bought for Sh4,000 each from Farmers Choice,” says Tafao, noting the business has grown since then. 
+
+The pig business kept his faith in farming, enabling the farmer to expand his agribusiness to employ two farm managers and 14 workers. 
+
+Walter Rono, one of the farm managers, says good hygiene and feeding, helped then grow their pig numbers. 
+
+“We keep the pigs and the chickens at separate sites, what has enabled us to curb diseases. We give the pigs commercial feeds, ensure they are vaccinated, treated and stay in good environment for best results.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A month-old piglet consumes about 0.5kg of commercial feeds per day. At two months, the intake increases to 1kg and when they mature, they consume 3kg of feeds per day, explains Rono. 
+
+“We sell 30 to 40 boars every month to Farmers Choice at between Sh15,000 and Sh20,000. To achieve this target, we serve at least six sows every month.” 
+
+Tafao revived the chicken business in January 2018. This time round, he was armed with skills and experience and a good manager. 
+
+"We had to go for training. I visited various commercial poultry farms, exhibition and shows. I had interactions with experts from various poultry firms," recounts Tafao. 
+
+He stocked some 3,600 Kienyeji chicks that he bought at Sh100 each. Three months later, he added 3,000 layers, which he keeps under the cage system. 
+
+
+
+
+
+
+Peter Tafao (right) on his Boresha Farm with manager Walter Rono.
+Photo credit: Isaac Wale | Nation Media Group
+
+ 
+
+“We start by keeping the layers under the deep litter system before they are transferred to battery cages for easier management of pest and disease control,” says Rono. 
+
+Each bird, according to Rono, consumes 130g of feeds per day. 
+
+"We normally fill the feeding trays once at 5am. The about 5,000 layers consume 15 bags of commercial feeds daily.” 
+
+They collect 150 trays of eggs daily, selling each to supermarkets, shops and locals, at an average of Sh300. 
+
+"We hatch eggs from the Improved Kienyeji birds. Our incubator has a capacity of 8,000 chicks in a month," says Rono. 
+
+To maximise on the hatching rate, the farm stores the fertilised eggs in a controlled environment for 10 days before they incubation process begins. 
+
+"We keep them at 21 degrees Celsius, thus, the chilled environment helps in maintaining the freshness of the eggs at the same time increases hatching rates.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Once the chicks hatch, we vaccinate them against Mareks disease at day one, and later one should administer gumboro and Newcastle disease vaccines. 
+
+"In western, there’s ready market for the chicks, eggs and cockerels and the products fetch a higher price. Last December, we sold 500 cockerels for breeding purposes at Sh1,500 each," says Tafao, who tuns Kleen Homes Security Services Limited based in Nairobi. 
+
+Chicken feeds 
+
+He notes to reduce their expenses, they started to make their own chicken feeds. 
+
+"Our feed business is known as Jenga Feeds Limited. Sometimes getting the feeds was a problem and the cost was also high. Apart from chicken feeds, we also make those for pigs, cattle, rabbits and dogs." 
+
+Tafao notes that poultry is a sensitive business that needs a lot of care. 
+
+“You must vaccinate the birds regularly or at least seek veterinary services often and have a target market before venturing in poultry keeping.” 
+
+Even though many farmers usually keep pigs and chickens, Dr Denis Mujibi, a senior researcher in animal science and CEO of Usomi Agriculture Limited discourages the combination. 
+
+“Pigs and poultry share diseases and in case of an outbreak, this can be lethal.  It is not advisable to keep poultry and pigs on the same farm and near each other. But in case you do, have proper bio-security,” says Dr Mujibi. 
+
+ satnation@ke.nationmedia.com The main risk is that despite isolating them, some can bring deadly and difficult to treat disease to the old herd. The start of rains often spells trouble for dairy farmers as milk output rises amid low demand. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
