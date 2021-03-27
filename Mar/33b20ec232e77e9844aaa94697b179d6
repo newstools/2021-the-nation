@@ -1,0 +1,256 @@
+Kenyans are nowadays living in real fear of the microscopic bug which has been running their lives for a whole year and which is unlikely to give them respite any time soon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As soon as they learnt to live with Covid-19 and tolerate a few deaths here and there, some frightful mutants have emerged, stumping the country’s top scientists and researchers. 
+
+Indeed, the whole world is reeling from this development, which is ironic considering that the virus mutated only after vaccines that were supposed to restore hope were produced. 
+
+But in Kenya, the fear is accompanied by almost complete nonchalance. Many people are aware that we are in the midst of a third wave of infections, but they really have not changed their behaviour one little bit, and are only jolted when some VIP or other dies of Covid-19. 
+
+Some sceptics claim that we may not be in the third wave at all, and that in fact, we may be fighting a new virus which renders impotent the vaccine. If that is the case, then one wonders whether the protocols meant to contain the infection rate matter anymore. 
+
+The recent spike in infections, while creating new worries for public health authorities, should also be a wake-up call for them to ensure that the new variants are studied in depth so that, if necessary, new methods of waging war are devised. 
+
+Face mask 
+
+ It may no longer be enough to wear a face mask, keep social distance, wash hands frequently with soap and water, and where these are lacking, use hand sanitisers liberally. It may no longer be enough to reduce the number of passengers in public service vehicles to unprofitable levels, or the number of hours people socialise in entertainment joints, houses of worship, and during sport and cultural activities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I am not in any way trying to incite disobedience of those protocols already in place. Actually, the vital mitigation measures must continue to be observed rigorously, which is not happening at the moment. What I am saying is that we do not know enough about the new variants which seem to be even more deadly than the original, and until we do, we must stop breathing into each other’s faces, and touching our eyes and nostrils after coming into contact with suspect surfaces. 
+
+It is, of course, heartening that the national and county governments will start scaling down operations in public offices from next week to ensure that people do not crowd in closed spaces, and although this will, again, affect public service and productivity, it is necessary. 
+
+The recent ban on political meetings, a move that was long overdue, is also welcome as such rallies clearly fanned the infection rate. 
+
+But in a situation where there is conflicting information on whether Kenya is already in the grip of the virus strain first detected in the United Kingdom (B.1.1.7), which is said to be more deadly, or the one detected in South Africa (B.1.351), which is less deadly but spreads faster, Kenyans need to know what to expect, and what more they can do to protect themselves. 
+
+This is because the numbers of daily infections and deaths are rising, while only an insignificant fraction of the population has been vaccinated so far for unclear reasons. The roll-out of the vaccine for the benefit of the most vulnerable has, at best, been tepid and lackadaisical. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Indeed, this whole response to the “Third Wave” has been a shambles from the word go. The country has run out of hospital beds, ICU and isolation facilities, as well as fresh ideas on how to handle the pandemic in its mutating versions. Is it any wonder that the number of Covid sceptics keeps going up among those who should know better and among the very poor who could not care less because they have lived with hopelessness all their lives? 
+
+* * * 
+
+Heavens help poor Democrats and Republicans in Name Only (Rinos); former President Donald Trump intends to start his own social media platform. One thing about Mr Trump is that although critics keep hitting him below the belt, he never misses a chance to retaliate in kind. 
+
+The stable genius may be down but he’s certainly not out; he is contemplating taking down the ratings of Twitter and Facebook because they suspended him for life after he incited his followers to storm the Capitol Building on January 6. 
+
+Now he is saying the two platforms actually did him a favour, for in his own, he can insult whoever he wants with absolute impunity and he doesn’t lack for candidates. Indeed, he can still sink any media outlet he doesn’t like, and he will probably start with his favourite bogeyman, television networks like CNN and MSNBC, as well as newspapers like the “failing” New York Times. For the rest of the world, we can only look forward to a return of the delightful early morning all-caps posts which Trump used to govern the US until March 4. 
+
+Mr Ngwiri is a consultant editor;andrewngwiri@gmail.com 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
