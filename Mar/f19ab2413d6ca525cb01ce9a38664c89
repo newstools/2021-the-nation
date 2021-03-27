@@ -1,0 +1,199 @@
+For a paltry pay, they risk their lives and limb to protect their clients – mostly politicians. Yet their job is one of the most dangerous in the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Call them bouncers, goons, men-in-black or simply security, these young heavily built men diligently carry out their assignments but end up badly injured or even killed. 
+
+Some are run over by speeding vehicles. Many have left young and devastated dependants. 
+
+The violence witnessed during the by-elections in Matungu and Kabuchai constituencies was showed an emerging trend where youths are hired to protect leaders or mete violence on perceived enemies. 
+
+Some of the young men hired by politicians to “protect” votes in Matungu came from Nyalenda and Manyatta in Kisumu County. 
+
+Read:Leaders call for speedy probe into 'barbaric' Busia murders 
+
+For just Sh15,000, the 15 bouncers took up the assignment that left some of them badly injured. 
+
+Sources say the plot was hatched a week to the by-election. The young men arrived in Matungu on the eve of the vote. 
+
+Injured 
+
+“Of the 15 who went to Kakamega, seven were injured. The amount they were given cannot pay for their treatment,” one of the bouncers who works at one of the night clubs in Kisumu said. 
+
+Mr Peter Omari (Not his real name) comes from Manyatta and usually takes such assignments. 
+
+The boda boda told the Saturday Nation that he declined the Matungu assignment as he suspected there would be violence. 
+
+He said he could not risk his life “for such small pay when the job was very risky”. 
+
+“I weighed between making the Sh1,000 using my motorbike and going to fight in Kakamega the whole day. The risk was not worth it,” the rider said. 
+
+Read: Calls for justice dominate Kisumu bouncers’ burials 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On November 16, 2019, the lives of six young men were cut short in 10 minutes by angry mourners in Busia, more than 80 kilometres from their homes in Nyando. 
+
+They had been hired to provide security to a family member of businessman Johannes Okoth who had been shot dead by unknown assailants. 
+
+Bouncers are usually present at funerals, political rallies and even weddings. 
+
+They are dreaded in villages and their clients are feared.  Some say they are usually hired to “discipline” people. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leaders call for speedy probe into 'barbaric' Busia murders
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Multi-party politics saw the proliferation of bouncers. Kisumu Residents Voice chairman Audi Ogada was the face of a group of bouncers known as Baghdad Boys. 
+
+According to Mr Ogada, the objective then was to protect their leaders and fight for change since the regime was dictatorial. 
+
+He adds that young men become bouncers these days for purely for commercial purposes. 
+
+Initially, bouncers never used to have uniforms. They later started donning suits and dark glasses. 
+
+Baghdad Boys members have reformed and are involved in associations like Baghdad for Peace. 
+
+Mr Ogada is now a human rights activist. He fear the political tension could lead to young men being used to cause chaos. 
+
+“Matungu was just a curtain-raiser. Our leaders must stop hiring these youths and provide them with jobs instead,” Mr Ogada said, adding that even police and county governments use bouncers to enforce laws or court orders. 
+
+roudia@ke.nationmedia.com The bouncers' association claims that the incident was instigated by relatives of Okoth. Angry mourners attacked and lynched six 'bouncers' from Kisumu. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
