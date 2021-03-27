@@ -1,0 +1,133 @@
+Tanzanian maize farmers, cargo crew and businesspeople who were barred entry at the Lunga Lunga border, in Kwale for more than ten days have returned the cargo to the Tanzanian side. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The are blaming the Kenyan government of frustrating them, despite their cargo being cleared by Kenya Bureau of Standards (Kebs) agents and issued with export certificate . Twenty-eight trucks have been at the border since the early this month, after Kenya  banned maize from Tanzania and Uganda, for allegedly having aflatoxins, before rescinding the decision, but with stringent importation rules. The drivers had to drive back to Tanzania in protest of not getting any communication from Kenya, on the reasons behind being denied access to deliver the consignment. "I have been here since March 15 hoping to deliver the maize to Kenya but in vain. We were told the border management is waiting communication from Agriculture and Food Authority (AFA), before we can deliver the cargo but since then, no communication has been forthcoming," said Allexander Lason, one of the drivers. According to Abed Karata, one of the exporters, after the protest, the border management has threatened to blacklist all trucks which returned cargo to Tanzania side unless they pay $400 (Sh43,557) per truck as custom charges. "We could not afford paying drivers and truck owner that is why we decided to return the cargo but after protest, we were slapped by a custom charge or the trucks will be barred from entering any Kenyan border," said Mr Karata. Ms Daines Mwakisiara, a maize farmer said could not believe that her consignment was being held at the border, so she had to visit Lunga Lunga office to get information. "I took a loan to get maize into the country, hoping to get funds immediately so I suspected there was a foul play when I was told my goods were stuck here. However, I have confirmed the driver was barred from entering Kenya. This does not align with the East African spirit of free movement of goods and persons," said Ms Mwakisiara. Efforts to get comments from border management on the standoff were futile. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to AFA, all traders within East Africa who trade with Kenya on goods scheduled under Agriculture and Food Authority (AFA) will have to be registered with the authority in the integrated management information system (AFA-IMIS). 
+
+However,  it is not clear if the group complied with the new regulations introduced on March 11 this year. AFA director general Kello Harsama during the launch of the system said the current impasse on the ban of importation of maize from Uganda and Tanzania will be resolved, since all traders will be registered to ensure accountability. While lifting the ban, Ministry of Agriculture said the consignments coming in must be accompanied with a certificate of conformity on aflatoxin levels and that traders must issue details of their warehouses. 
+
+The certificate of conformity should indicate that the aflatoxin levels and comply with the maximum required levels of 10 parts per billion. Traders importing maize from Uganda and Tanzania to Kenya, will be required to also have a certificate of origin, from the counties of produce, before they get clearance at the border points.  The said 28 trucks had the same from Kebs. Early March this year, Kenya banned maize imports from Uganda citing high levels of aflatoxin in the grain, setting the stage for a trade war between the two neighbouring states. SMEs say increased levies in the past year have driven up the cost of doing business. President Magufuli changed the narrative that Kenya was the king in matters business by snatching crucial agreements. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
