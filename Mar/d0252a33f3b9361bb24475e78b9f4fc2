@@ -1,0 +1,286 @@
+Already surviving on strained budgets, the announcement of the first case of coronavirus upended lives of individuals and families. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A job loss could hurl a middle class family into poverty and homelessness.The curfew and lockdowns, constricted budgets and poor job prospects have thrown many into uncertainty. 
+
+In May last year, the United Nations Development Programme (UNDP) said a bout of joblessness would sweep through Africa. 
+
+“With an estimated 55 per cent of the global population having no access to social protection, these losses will reverberate across societies, hitting education, human rights and, in the most severe cases, basic food security and nutrition,” the UNDP said. 
+
+Individuals usually acquire new survival skills when the revenue stream is not promising.The Saturday Nation spoke to some Kenyans who have found alternative income sources as the pandemic continues to strangle their primary sources of money. 
+
+dogetta@ke.nationmedia.com 
+
+James Irush switched to culinary from cinematography 
+
+
+
+
+
+
+James Irush switched to culinary from cinematography.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+When camera and creativity could not foot bills during the coronavirus times, James Irush ventured into the culinary field. 
+
+In his earlier days, Irush worked at his father’s butchery. That is where he learnt to prepare mutura. When the film industry got a beating as a result of the pandemic, the thought of harnessing that skill to complement the deficit was a sure saviour. His filming-skill gives him an edge in advertising the mutura venture. 
+
+“Filming is one thing I cannot let go. I’m using the two to complement each other,” he told the Saturday Nation. 
+
+“When my pregnant wife craved for soup and mutura last year, I prepared the delicacies.”That refreshed Irush’s cooking skills. He took photos and posted them on social media.“Many people were impressed. This stirred the urge to eke a living out my new venture,” Irush added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There were jitters and the uncertainty of attempting something new.“A friend made fun of me, saying I would be charging Sh300 to deliver mutura valued at Sh100,” he said, adding that the remark actually helped him decide on the rates.Irush now takes orders from clients through the week, prepares the orders on Friday morning and delivers them in the evening. 
+
+“I owe my success to the lovers of mutura. They keep me running,” he said.Irush uses beef as a recipe. He wants to change perceptions about mutura. 
+
+
+
+
+
+
+Dorothy Kiprop, Graphics designer turned painter/visual artist.
+Photo credit: File | Nation Media Group
+
+ 
+
+Dorothy Kiprop, Graphics designer turned painter/visual artist 
+
+The internet and paints are her tools of trade. But until coronavirus struck, Dorothy Kiprop had never imagined not meeting her clients to take orders.When Ms Kiprop was in college, she painted and posted her work on on social media. As more and more people developed interest in her work and asked if she sold the paintings, she took the decision to begin living off her talent.When Ms Kiprop got a job, she threw all her efforts in it. Then the country announced its first case of coronavirus. Her pay was suddenly slashed. That rekindled the thought of making money from her passion.Making money from paintings would involve meeting clients to take orders. It would mean understanding what customers really wanted.“During these coronavirus times, I do not necessarily need a one-on-one meeting with my clients,” the graphic designer said.“I engage my clients via the online messaging platforms where we discuss what they need. I then send them sketches before proceeding,” she said.Though there is little to cheer about as the virus ravages the globe, Ms Kiprop says it has taught her to make extra cash.She is happy because her business is thriving. Since she embarked on her part-time job, the orders have grown and her customers express satisfaction.She says working from home has given her more time to paint and finish what has been ordered fast.“Initially, I worked from the office on weekdays from 8am to 5pm. That was draining,” she said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ 
+
+. Which then meant I would only have weekends to tend to my side hustle.”The autonomy that comes with working from home, she says, gives her the flexibility of serving both masters satisfactorily even serving more customers in a short duration than she ever imagined.With the surplus time she has, she now delves into reaching out for more home owners, art enthusiasts and, restaurants whom she believes, will need a tinge of art to revamp once the plague is gone.She charges Sh3, 500 for the pieces but that is depended on the concept, the print size and the original print provided by the client. She says, “Unless a client is interested in a specific kind of composition, I enjoy the freedom the clients have allowed me to express (with) creativity. 
+
+
+
+
+
+
+Hellen Muhonja, teacher turned online merchant.
+Photo credit: File | Nation Media Group
+
+ 
+
+Hellen Muhonja, teacher turned online merchant 
+
+As soon as President Uhuru Kenyatta announced the indefinate closure of learning institutions in March last year, Ms Hellen Muhonja figured out that monthly salary was not guaranteed. She was a Board of Management teacher. The pandemic saw the birth of her hustle.“It turned out that my gut instincts were correct,” Muhonja told the Saturday Nation.She scouted for a market and settled on selling African attire via social media. Muhonja is based in Eldoret.Through financial support from a friend, Muhonja established an online business – Rara Trendz – selling kiondo, brass, beaded and crafted ornaments, Dashiki shirts,  bags and sandals. Her premier clients were referrals from her contacts.Fashion enthusiasts, Muhonja says, place orders from as far Nairobi and Uganda.She had long been grappling with the idea of having a side hustle. Then the virus hit the country.“The Covid-19 pandemic gave me a push to jumpstart the business. Uncertain times can make one more creative,” she said.Normally, Muhonja takes photos of the merchandise and shares with her contacts on WhatsApp and Instagram. Her venture is growing.“It has been a challenging and overwhelming journey. There was a time I even contemplated giving up. Thanks to support from friends and feedback from satisfied clients, I am doing fairly well,” she said.She offers free deliveries within Eldoret. Before packaging the orders, the trained teacher ensures her hands are sanitised. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Measures cause panic among Nairobians as political activities are nipped in the bud. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
