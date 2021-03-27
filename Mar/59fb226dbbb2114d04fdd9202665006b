@@ -1,0 +1,317 @@
+Lorna Irungu. We were never meant to be friends at all. We first met how nearly all high school people used to meet back in the 1980s — during the Schools Drama Festival. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At that time, Patch (Nairobi School) had a crush on Quabbz Girls (Moi Girls) and we all made a beeline for where they were hanging out. And there was Lorna Irungu, the leader of the pack. 
+
+Now, this was a different version of the Lorna we all became familiar with. She was a tomboy. She was loud, no-nonsense, had a boyish haircut and was fiercely protective of “her” girls. 
+
+Under her watch, our Patcharian smooth talk bore no fruit. I said to myself: “No worries. Plan B”. So I set my targets on one girl, got her address — which was within my estate — and we planned to meet up over the holidays, with no Lorna around to mess up my flow. Once the holidays kicked in, I strolled down to the girl’s house, knocked on the gate, and my dream-girl came out... with Lorna right behind her. 
+
+“What’s SHE doing here? She’s your BEST FRIEND?! Drat!” 
+
+The rest of that holiday was a lesson in Casanova-disappointment as every move I pulled was blocked effectively with a one liner from Lorna. 
+
+I pulled Lorna aside and asked “Hey, why are you messing a Ninja’s flow?” 
+
+The Protector 
+
+She told me that she could tell a fisi from far and there was no way she was going to let me score with any of her girls on her watch. That was the first version of Lorna I met. The Protector. 
+
+Over the years during and after high school, we regularly bumped into each other in the ’hood around Buru Buru and Harambee, and since she now considered me harmless, a friendship developed. 
+
+One thing that remained constant was her vicious wit. She revelled in cutting me down to size with some one-liners. She never let me forget that she was right there when I was first “frozen” at the Carnivore. Worse still, her verbal jabs were very funny. That’s how I got to appreciate Lorna; the Verbal Assassin. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During our university days, we both joined Phoenix Players, where our friendship grew. Our first show together was the musical Ayenka. On the first day of rehearsal we walked into each other and asked: “What the hell are you doing here?!” 
+
+First of all, I could barely recognise her. Gone were the boyish looks, replaced by a cool feminine, hip-hop vibe. Enter another version of Lorna: the Crazy, Sexy, Cool Girl. 
+
+At Phoenix we both learnt a lot about the arts and communication business under a host of great mentors. During this period, she flourished. Socially, she shifted from being a girls-only type of person to becoming an everybody type of person. She loved hanging out and she was comfortable at the table surrounded by the Theatre Boys. We all adored her and treated her like a princess. At the same time, she thrived as an actress and quickly moved from supporting roles to lead roles in a matter of months. She also began to learn from the masters of the craft. Often, after the shows, she would engage in deep conversations with legendary Phoenix director James Falkland about her performance, or with veteran actor and TV and radio host Jimmi Gathu. It was little surprise that she ended up doing the Klub Kiboko show on KTN. She was more than ready for it, and that’s how Kenya met a new version of Lorna: the Media Celebrity. 
+
+Fast-forward to a few years and many party nights later and we’re now both working adults. She calls me over for a chat and informs me that she is unwell. I go through the whole “pole sana” thing and she tells me to hush up and listen: She is going to raise funds for medical bills and she wants to put together a group of friends to help her with it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Pure determination 
+
+That’s how the Friends of Lorna Group started. Pure determination and a no-quit mentality. She asked me to come up with a logo. I thought about it for a couple of days and it finally hit me after watching an episode of Powerpuff Girls. 
+
+Recalling our previous conversation and her brave-as-hell attitude towards this thing, I pictured a young woman facing a big threat and not backing down. So I quickly sketched an image of a little girl with pigtails standing smack in the middle of a sniper’s target, yet she is facing it boldly with her hands on her hips. I got my pal Dexter to do it on the computer and shared it with her. She loved it and added the words “Help Lorna Fight Lupus” around the top. 
+
+She gathered what started out as a small group of friends and this grew phenomenally. One of the ways in which we would raise money was to throw a “Lorna Bash” where all the proceeds would go towards her bills. Various people would donate their homes or venues and the attendance was always spectacular. Everyone volunteered to be bouncers, DJs, waiters and bartenders. Lorna was on top of every bit of the planning and execution. 
+
+As she fought and beat the hell out of lupus, she always maintained a positive outlook that helped her team overcome any obstacles we faced. This was our first glimpse of Two New Lornas: Lorna the Organiser and Lorna the Fighter. 
+
+Then there was Lorna the Party Queen. As one of her buddies, it was a dream come true when she became a boss at the Carnivore. You see, we came from catching noisy manyangas from Buru to “Vurrass”, to squeezing into Teddy Muthusi’s little blue Suzuki, to driving ourselves to “Carni”, where our Soul Sista was a manager! 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+She was most generous with tickets and freebies, but also honest enough to let us know when we were beginning to take advantage of her. Nevertheless, she was a most gracious host and, thanks to Lorna, many of us have tonnes of wonderful memories from those magical New Jack Swing nights. 
+
+I got to work with Lorna the Boss Lady when she was handling events for a PR firm and she contracted my brother and I to MC an event. It didn’t matter if we were childhood friends, this was a high-profile, professional event and she was going to make damn sure that it was going to work! 
+
+She was tough and no-nonsense. Rehearsals were strictly adhered to and she would instantly change any part of the script, programme or choreography that didn’t feel right. This was no surprise to me, because as I watched her work, I could see all the years of great mentorship showing. I could clearly spot bits of James Falkand, George Mungai and Jimmi Gathu, all mixed in with Lorna’s unmistakable wit and creative eye. The event was a smashing success, of course, because Lorna was on top of it. She hadn’t simply learned from the best. She became the best. 
+
+Desolate rooftop 
+
+Later, over the years, we saw less of each other as work and family life took over our schedules, although we would always catch up during our obligatory DJs Dlite, Pinye and Adrian bashes. We once worked in the same building where all the smokers were banished to the freezing, desolate rooftop. We were known as the “Outcasts”. 
+
+She would always insist that I holla at her before going up to the rooftop. She would join me with a cup of coffee and our “five-minute” chats would turn into hours of laughs and deep conversations. It was great working in the same building with Lorna; My Old Friend. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The last time we met, I was at The Hub mall together with my brother and our children. She strolled up and we got into a session of reminiscing, peppered with hot and vicious one-liners at each other. Wow! She could still throw those verbal jabs! When she left us, my teenage niece asked who that was, and “How could you let her talk to you like that?” Our response was simply: “Hey, that’s Lorna. It’s a long, long story”. 
+
+So it was heartbreaking to hear the news of her passing, and my heart goes out to the family, circle of friends, fans and everyone whose life she touched. Covid snuck up on her because it couldn’t have faced her head-on. 
+
+Lorna, it’s been real. It’s been fun, never boring. So long, buddy. Lorna gave us hope when she should have been hopeless. The former Nation FM presenter died at a city hospital after contracting Covid-19. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
