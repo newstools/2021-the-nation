@@ -1,0 +1,221 @@
+Just as many other agricultural activities, milk production in Kenya is rain-fed thus in the next few weeks, dairy farmers are anticipating a rise in output. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is because of the expected start of the long rains season, which would lead to good pasture boosting production. 
+
+But the sad thing is that there would be a rise in milk losses as farmers grapple with the high output. Research indicates that during wet seasons, there is usually high post-harvest loss due to excess milk, poor handling and marketing inefficiencies – from farm level all the way to consumers. 
+
+Therefore, to minimise wet season losses, a farmer needs to come up with appropriate intervention strategies. 
+
+At the farm level, losses are mainly due to poor handling practices, poor roads and transport infrastructure and inadequate markets for raw milk. This results in physical losses through spillage and spoilage (quality) as well as economic losses through forced consumption of evening milk. 
+
+On one hand, it is fair to acknowledge the contribution of the government’s research and development projects in supporting dairy farmers to reduce post-harvest milk losses. On the other hand, dairy farmers have a role to play in good dairy management practices that can potentially contribute to this development agenda. 
+
+Pathogens 
+
+Milk handling practices on the farm determine exposure to pathogens and eliminate their transmission hence have a direct contribution to spoilage (milk quality). 
+
+During rainy seasons, farms have challenges with keeping hygiene levels at optimum. This leads to high risk of contamination due to unhygienic milking practices, animal sheds, farm personnel, utilities like feeding troughs, water, milking utensils, udder cleaning cloth and the cow. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some farmers also ignore the specified withdrawal period for veterinary drugs by drawing milk from infected udders, hence offering contaminated milk for sale. Pay attention to these sources of pathogens and keep your cows healthy to minimise risks of high bacterial load in milk, chemicals and other forms of contamination. 
+
+There have been efforts by the Kenya Dairy Board to completely phase out unsuitable containers and plastic jerry cans in handling and transporting milk. The plastic cans come in shapes that are hard to clean. 
+
+They also pass bad odour to milk as a result of chemicals (previously containing pesticides, paint, fuel and drugs) leaching into milk and possibly due to their multipurpose usage. 
+
+With higher quantities of milk expected during the wet season, make efforts to upgrade your enterprise from the current subsistence level to market-oriented production of high quality produce through use of improved dairy technologies. You can add value to your produce by processing individually or through groups to minimise losses resulting from spoilage of excess milk. 
+
+Spillage 
+
+Milk post-harvest losses at the farm level due to spillage can occur during milking, storage or transportation. Although milk adulteration can be argued to be minimal, a few farmers take advantage of pooling or bulking milk and deliberately add water and or hydrogen peroxide to milk for volumetric gains and short extension of milk shelf-life. This leads to milk spoilage and rejection when tested by buyers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During rainy seasons, most feeder roads become impassable increasing milk spillage during transport from the farm to bulking centres or markets. Individual farmers can embrace use of spill/tamper proof containers and appropriate means of transport like motorcycles and donkey carts where applicable. Collective efforts in reshaping or maintaining the roads have previously paid off. 
+
+Mixing of evening and morning milk can also contribute to milk spoilage depending on the preservation practices. In areas where there is no electricity, farmers can use traditional storage practices that include storing milk in aluminium cooking pots and leaving it overnight on a raise ground for wind to blow. This has worked, with the milk delivered still in good quality. 
+
+satnation@ke.nationmedia.com The main risk is that despite isolating them, some can bring deadly and difficult to treat disease to the old herd. Peter Tafao's main business is security, but he keeps poultry and pigs on the side with great success. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
