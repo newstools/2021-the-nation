@@ -1,0 +1,235 @@
+DP’s Secretary-General Jacob Haji says the outfit’s flagbearer is Mr Shaffi Aden Ibrahim, who will face Jubilee’s Abdikadir Abdul Haji and Suleiman Gedi of Thirdway Alliance. The Democratic Party (DP), which was founded by retired President Mwai Kibaki 30 years ago, has cleared its candidate for the upcoming Garissa Senate by-election after cutting ties with the ruling Jubilee Party. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+DP’s Secretary-General Jacob Haji says the outfit’s flagbearer is Mr Shaffi Aden Ibrahim, who will face Jubilee’s Abdikadir Abdul Haji and Suleiman Gedi of Thirdway Alliance. 
+
+Speaking after handing the aspirant a clearance certificate, the secretary-general said his party’s partnership with Jubilee ended in 2017 after the repeat presidential election. 
+
+“We no longer have a coalition agreement with Jubilee Party so we are free to field candidates. We are waiting for the Independent Electoral and Boundaries Commission (IEBC) to clear our candidate for Garissa,” said Mr Haji. 
+
+The county has 163,350 registered voters, according to the 2017 IEBC register, and 381 polling stations. 
+
+The data shows that Garissa Township Constituency has 54,291 voters, Balambala 20,145, Lagdera 20,547, Dadaab 25,762, Fafi 19,883 and Ijara 22,722. 
+
+Jubilee’s support base 
+
+DP’s aspirant is a businessman in Garissa and Lagdera. 
+
+Mr Haji said the party is confident it will win the contest despite the huge Jubilee enjoys from regional leaders including Garissa Governor Ali Korane. 
+
+Others in support of the Jubilee Party candidate, who is the son of the late Garissa Senator Yussuf Haji, include former National Assembly majority leader Aden Duale and the county’s ward representatives. 
+
+DP has only only one MP in the county - Murugara Gitonga from Tharaka Constituency. 
+
+The party has been trying to revamp and rebrand itself ahead of the 2022 General Election. 
+
+It took a hit recently when former Transport Principal Secretary Irungu Nyakera resigned from his position as its deputy leader and a member, after falling out with its top brass. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Nyakera, in a letter addressed to secretary-general and copied to the Registrar of Political Parties, said he resigned after realising that DP has “owners” who are not ready to embrace change. 
+
+He claimed some of the party's leaders were primarily interested in seeking State appointments for themselves and their kin, and were therefore avoiding actions and pronouncements that could make DP appear anti-government. 
+
+“DP Chairman Esau Kioni has issued several statements supporting government programmes that had not even been endorsed by the National Executive Committee (NEC), such as the Building Bridges Initiative (BBI)," said Mr Nyakera. 
+
+Nyakera’s achievements 
+
+Mr Nyakera joined the party in 2019 and is said to be eyeing the Murang'a governor seat. 
+
+The race has been billed as tough as it has attracted political heavyweights including Senator Irungu Kang'ata, Woman Representative Sabina Chege and former Kigumo MP Jamleck Kamau. 
+
+Mr Nyakera highlighted achievements such as efforts to revamp the political party and communicating its renewed value proposition to Kenyans. 
+
+He said he played a key role in creating a strategy team that was tasked with coming up with the party's strategic position paper and putting together its proposal for the BBI, as well as ensuring live television coverage during its presentation to the BBI taskforce. 
+
+Another achievement, he noted, was introducing DP cocktails to bring together like-minded professionals and politicians, recruiting many progressive leaders to the party, some of whom are currently serving in the DP National Executive Council (NEC), as well as fighting for tea farmers and selling this as an agenda of the party. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I endeavored to play a key role in rebuilding Young Democrats and mainstreaming youth into DP, holding a National Delegate Conference, being elected as chairman of the Political Parties Liaison Committee and working tirelessly for DP to be elected to a position in the Center for Multiparty Democracy, among many other initiatives that we championed and sponsored in an effort to revive the party," said Mr Nyakera. 
+
+When he joined DP, he said he hoped he had joined a revolutionary party that once carried the dream of fighting for multiparty democracy, thus endearing itself to Kenyans. 
+
+jwangui@ke.nationmedia.com He will be buried at the Lang'ata Muslim Cemetery Monday afternoon. Guyo says move will be a fitting tribute to a man who selflessly served Kenya for many years. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
