@@ -1,0 +1,75 @@
+MPs want stepchildren, dependants, half brothers and sisters dropped from the list of those eligible to inherit property in new amendments to the law. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They want a law before them changed to limit the dependants entitled to inherit property to only the spouse and children of the deceased—whether or not maintained by the deceased prior to death. 
+
+The lawmakers, while debating the Law of Succession (Amendment) Bill, 2019 yesterday, said the long list of dependants will bring confusion. 
+
+The Bill, which seeks to stop secret partners from popping up when a person dies claiming recognition and property, yesterday sailed through to the third reading, where more amendments will be proposed. Previously, the Bill included the deceased’s parents, grandparents, grandchildren, stepchildren, children whom the deceased had taken into his family as his own, brothers and sisters as well as half-brothers being maintained by the deceased prior to death, as beneficiaries. 
+
+The MPs however argued that once a person is deceased, their families should not be compelled to continue helping those whom the deceased was helping or sharing the wealth with them. 
+
+Minority leader John Mbadi said the Bill needs to be amended so that there is a clear definition of what it means to maintain a person who later qualifies to be a beneficiary of the estate. 
+
+The Suba South lawmaker termed the bill as timely. North Imenti MP Rahim Dawood said supporting somebody out of goodwill does not mean the person automatically becomes part of one’s relatives, and adopting such clauses would be abused by the intended beneficiaries. Shikuku’s son allegedly forged the signatures of Mr Odinga and Richard Leakey in a bid to inherit the estate. Late Bomet governor’s widower Edwin Abonyo is at the centre of inheritance dispute with his in-laws. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
