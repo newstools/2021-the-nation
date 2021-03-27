@@ -1,0 +1,77 @@
+Shaffie Weru, DJ Joe Mfalme and Neville Musya sent home for two weeks.The station says it has given the three enough reason to suspend them. Homeboyz Radio has suspended three hosts who on Wednesday morning demeaned a woman who was thrown off a building after she said no to a man’s sexual advances. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Shaffie Weru, DJ Joe Mfalme and Neville Musya during their morning show, The Lift Off, discussed an incident in which Eunice Wangari Wakimbi, 20, was thrown off the 12th floor of Ambank House by a man she had met on Facebook. 
+
+The crass comments, made during the station's morning show, elicited outrage online, prompting the media firm to issue an apology to members of the public. 
+
+Later, in a second statement, Homeboyz Radio said it had concluded disciplinary inquiries on the incident and made a decision to suspended the three hosts of the show. 
+
+Gender awareness sensitisation 
+
+The station further said it had given the three enough reason to suspend them for two weeks. 
+
+“During the suspension period the presenters and all other Homeboyz Radio staff presenters, producers and the Homeboyz social media team shall undergo mandatory gender awareness sensitisation training and training on ethical reporting and on-air discussion of women issues, sexual assault and gender-based violence,” Homeboyz General Manager Somoina Kimanjino said. 
+
+According to Ms Kimanjino, the training shall be done by their legal team and a credible institution that is a key advocate for women’s rights and their protection from all forms of discrimination, bias and abuse. The misogynistic comments made during the station's morning show have elicited outrage. Word around town is that HomeBoyz Entertainment Limited has sold about 40 per cent of its business to a top French company for Sh200 million. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
