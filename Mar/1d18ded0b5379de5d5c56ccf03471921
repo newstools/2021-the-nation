@@ -1,0 +1,149 @@
+On a beautiful blue-skied day back at the track where Red Bull had dominated pre-season testing, the Dutchman continued where he had left off with an imperious late lap of 1:31.394 to finish top of the pileMick Schumacher, son of seven-time champion Michael Schumacher, was 19th on his debut, one place ahead of Haas team-mate and fellow-rookie Nikita Mazepin while Japanese new boy Yuki Tsunoda was 14th for Alpha TauriNorris and Ricciardo were both quick, the Briton topping the times midway through the hour before being reeled in by Bottas and then, in the final minutes, Verstappen Sakhir, Bahrain 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Max Verstappen topped the times for Red Bull ahead of Mercedes' Valtteri Bottas in Friday's opening free practice session ahead of this weekend's season-opening Bahrain Grand Prix. 
+
+On a beautiful blue-skied day back at the track where Red Bull had dominated pre-season testing, the Dutchman continued where he had left off with an imperious late lap of 1:31.394 to finish top of the pile. 
+
+He was half a second clear of Mercedes' defending champion Lewis Hamilton, who was fourth behind fellow Briton Lando Norris of McLaren but one place ahead of Charles Leclerc in a revitalised Ferrari. 
+
+Sergio Perez was sixth in his first run after moving to Red Bull ahead of Pierre Gasly of Alpha Tauri, Ferrari new boy Carlos Sainz and Daniel Ricciardo who was ninth on his first outing with McLaren. 
+
+Antonio Giovinazzi was 10th for Alfa Romeo ahead of his 41-year-old teammate Kimi Raikkonen and the Aston Martins -- formerly Racing Points -- of newly-arrived four-time champion Sebastian Vettel and Lance Stroll. 
+
+On his first showing since coming out of retirement to re-join the Alpine-branded Renault team, two-time champion Fernando Alonso was 16th, one place behind his team-mate Esteban Ocon. 
+
+Mick Schumacher, son of seven-time champion Michael Schumacher, was 19th on his debut, one place ahead of Haas team-mate and fellow-rookie Nikita Mazepin while Japanese new boy Yuki Tsunoda was 14th for Alpha Tauri. 
+
+The session began with Hamilton, aiming for an eighth world title, and Verstappen trading fastest lap times in the opening 15 minutes before Norris and Leclerc took over after switching to softs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a cost-cutting move, the opening session was cut from 90 minutes to just one hour, adding a touch more pressure on the drivers, who have only had three days' pre-season testing, to deliver some solid performances. 
+
+Mercedes, bidding to extend their run of seven consecutive constructors' and drivers' championship doubles, struggled to impress in testing but appeared to be in much better shape in the early minutes as they matched Red Bull. 
+
+McLaren, with a revised diffuser that suited the modified rear end rules introduced to slow the cars this year, looked well-balanced and fast. 
+
+Norris and Ricciardo were both quick, the Briton topping the times midway through the hour before being reeled in by Bottas and then, in the final minutes, Verstappen. Hamilton goes in pursuit of an unprecedented eighth title. Mick Schumacher, son of the seven-time world champion Michael, is the young driver in the spotlight. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
