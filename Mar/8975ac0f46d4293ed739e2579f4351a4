@@ -1,0 +1,233 @@
+With health workers’ apathy towards the Covid-19 vaccine, other Kenyans are turning up in vaccination centres to receive the jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And some of those interviewed said all one needed to do was to present themselves as a medic or a teacher -  the front line workers who are in the priority list. 
+
+Priority list 
+
+Officials have explained they can’t turn away those who want the vaccine because groups prioritised for the drug, including health workers, are reluctant. 
+
+At the beginning of the second week, only 64,100 doses of AstraZeneca have so far been administered, which is less than half of the target, and now other Kenyans have devised tricks to jump the queue. 
+
+This week, long queues have been witnessed at Mathari Referral Hospital and Mbagathi Hospital of people waiting their turn. 
+
+"I went to Mathari Referral Hospital where I got the jab. All you have to do is to change your job to either a teacher or health care worker, no confirmation of the job identification or Teachers Service Commission number. Once you register, you are good to have your jab, “said a man who was vaccinated last Friday at Mathari Referral Hospital. 
+
+ “We are vaccinating more public than even the health care workers. I don’t know why they are afraid of the virus and at the same time, we cannot chase those who want to be vaccinated willingly,” said a nurse at the hospital. 
+
+Long queues 
+
+When the Nation visited the facility, there was a long queue of mostly Indians who had brought their families as well as their workers for vaccination. 
+
+"We want to be safe, if we can be given the vaccine, then why not protect everyone," said one of them. 
+
+Mr Nicholas Simiyu, a driver who turned up because he was told that he could only continue working for his employer if he was vaccinated, said he was very happy when he got the jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"When I was coming, I was told that only frontline workers are getting the jab but when I inquired from the nurse, I was told that so long as I am a Kenyan and I want the jab, I will get it since the people who are supposed to be getting it are not turning up. So, I registered and here I am. I have my notification which I am going to show my boss to retain my job. I am very happy," he told the Nation at Mathari Hospital. 
+
+African population  
+
+But why are health workers reluctant to be vaccinated? 
+
+A nurse said he believed the vaccine was rushed and since it has not been tested in African population, its effects could be worse. 
+
+“Maybe it is only fit for Indian population that is why I see most of them coming for the vaccine. If the whites are developing complications, how about us? This was rushed and will take the shot at the right time,” he said. 
+
+“I don’t think there was enough research. I will wait. Meanwhile, I will just be putting on my masks and observing the public health measures,” he said. 
+
+Another nurse based in one of the public hospitals said she had contracted the virus and had therefore developed protective antibodies. 
+
+“You know, what I know is that I am protecting myself, I don’t think I need the vaccine but when I will need it, I will just go for it since it is voluntary but for now, I am okay,” she said. 
+
+However, for one to know whether they had developed the antibodies, a blood test has to be done to also establish for how long the antibodies would last. 
+
+Highest quality  
+
+Dr Patrick Amoth, acting Director General at the Health ministry, assured the health workers that the vaccine is safe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Before a vaccine comes to be administered and as a public health good, several processes have been followed to ensure that it is safe and it is of the highest quality. So I have no doubt in my mind because I know the vaccine I have just received is safe and has passed through vigorous process for use,” Dr Amoth said. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. MoH says this group is at most risk of severe disease and accounts for 60 per cent of our recorded deaths. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation.
