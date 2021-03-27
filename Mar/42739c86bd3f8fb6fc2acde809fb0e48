@@ -1,0 +1,157 @@
+The gravity of high teenage pregnancy is not new in Kenya. Data from Demographic and Health Surveys show that almost two out of 10 girls between the ages of 15 and 19 are reported to be pregnant or have had a child already. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Teenage pregnancy should remain at the top of government agenda and political debates in the Parliament. Parents should also not resist talking to their children about sexual and reproductive health and sex education in schools should be improved. 
+
+Youth friendly services, including family planning, should be made accessible to adolescents. Accepting hard truth and realities of the matter will enable young girls to be free and comfortable to talk about their sexual life. 
+
+Adults should change their perception about teenage and sex and be ready to share open conversation to guide and eventually protect them from unplanned pregnancies. 
+
+Verine Ogutu, Kisumu 
+
+The number of pregnant girls sitting for the national exams this year has greatly increased due to the prolonged closure of schools following the Covid-19 pandemic that exposed them to sexual activities. With the numbers surging, the government should reinforce active sex education to children both at home and in schools. While in school, let teachers actively take the role of being peer educators to our children and parents should also take full responsibility and be role models to their children. 
+
+The society should acknowledge the fact that these children are sexually active hence instead of condemning them, they should first be empowered with comprehensive sex education so that they are able to make informed decisions about their sexuality and relationships in a way that protects their health. 
+
+Let both parents and teachers acknowledge the wonderful responsibility they have to our children and help them overcome the crisis of teenage pregnancies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mercy Nzambi, via email 
+
+Schools have closed thus children are at home for the next seven weeks. However, some are not resting as they are at home working since a good number of parents lost their jobs due to Covid-19. 
+
+The children are forced into begging on the streets, working on farms, hawking, constructions and some girls would go into sex work. 
+
+In cities such as Nairobi, Mombasa and Kisumu, you'll find teenage girls also working as domestic workers as the unlucky ones are sexually exploited, what leaves many pregnant and some get dangerous diseases. 
+
+For boys, they beg on the streets and practice drug trafficking to make the ends meet. 
+
+In Kenya, child labour and exploitation is mainly due to poverty.  A child has a right to basic needs like shelter,  food, clothing and proper healthcare thus stopping child labour will create a better world for children. 
+
+Parents should create time for their children and awareness on what they should do and not do. It is important to stop child labour because without education, children will not have a bright future. The cycle of poverty would thus continue. 
+
+The society should agree for once that no one should employ children. We must create a conducive environment for our children to thrive and achieve their potential. 
+
+Diana Mandu, via email The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
