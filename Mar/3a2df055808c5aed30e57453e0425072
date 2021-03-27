@@ -1,0 +1,147 @@
+The league that resumed after 11 months on February 27 this year, was due to enter its fourth round on Saturday when President Uhuru Kenyatta suspended all sporting activities as part of Covid-19 mitigationThe 2016 Kenya Cup champions Kabras Sugar had taken command of the league lead with 15 points, having won their three opening matches with bonus points Kenya Rugby Union (KRU) has suspended Kenya Cup rugby league matches until further notice. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The league that resumed after 11 months on February 27 this year, was due to enter its fourth round on Saturday when President Uhuru Kenyatta suspended all sporting activities as part of Covid-19 mitigation. 
+
+The 2016 Kenya Cup champions Kabras Sugar had taken command of the league lead with 15 points, having won their three opening matches with bonus points. 
+
+Several matches have been postponed this season after some players tested positive for Covid-19. 
+
+The directive comes at a time when Kenya Sevens and Kenya Lionesses are in the United Arab Emirates for the Dubai International Invitational Sevens tournament that will run in two legs. The first leg goes down April 2 to 4 followed by the second leg on April 9 to 10 all taking place at The Sevens Stadium. 
+
+Shujaa’s competition has attracted Argentina, Chile, Canada, France, Uganda, Spain and Japan while the Lionesses' event has drawn Brazil, Canada, USA, France and Japan. 
+
+The teams were part of Team Kenya for the Tokyo Olympic Games that have been under “bubble” training at the Moi International Sports Centre, Kasarani. 
+
+Kenya was also preparing to host the World Rugby Junior Trophy Under-20 championship also known as Barthes Trophy tournament from June 24 to July 4 this year. 
+
+Already, the Ministry of Sports has named the Local Organising Committee (LOC) chaired by KRU chairman Oduor Gangla. 
+
+"We can only wait for the directive from the government on the next course of action but for sure this third wave of Covid-19 is lethal," said Gangla. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Rugby Africa Cup also kicks off in July and will be played in round robin format at a single venue per pool. Kenya will be among the 12 teams grouped in four pools of three teams each. 
+
+The best two teams from each pool will qualify for Rugby Africa Cup 2022, which will serve as the final round of Rugby World Cup 2023 qualifier for Africa. The move is part of concerted efforts by the government to curb the spread of coronavirus. League leaders Kabras Sugar are out to get their fourth consecutive bonus-point victory. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
