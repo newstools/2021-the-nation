@@ -1,0 +1,153 @@
+South African Justin Harding won the Kenya Open while his compatriot Daniel van Tonder walked home with the Savannah Classic title.Last year, the World Golf Awards named Kenya as Africa’s leading golf destination, beating countries like Morocco, Egypt and South Africa which are considered giants in African golf. The Kenya Tourism Board (KTB) says the European Tour (ET) has firmly positioned Kenya as a global golfing destination. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This follows the successful staging of the two ET events, Magical Kenya Open and Kenya Savannah Classic, back-to-back at the Karen Country Club. 
+
+KTB organised a game drive at the Nairobi National Park for the ET players who participated in the just concluded Magical Kenya Open and Kenya Savanna Classic. 
+
+The game drive is meant to help the players unwind as well part of the continued efforts to leverage on golf to showcase the country’s tourism destinations. 
+
+KTB CEO, Dr Betty Radier said that the Magical Kenya Open has over time been a catalyst to the growth of golf in Kenya giving local players an opportunity to play against some of the best players in the world. 
+
+She also noted that hosting such events had helped to elevate Kenya as a giant in golf as well as other sports. 
+
+“Golf is one of the key sports that continues to play a major role in showcasing Kenya to the world. This year, we have had the privilege of hosting two major golf tournaments which are part of the European Tour. These events attracted a lot of global attention and also presented an opportunity to showcase to the world that we are safe for travel and ready for business," she said. 
+
+“These players have for two weeks provided Kenyans and the world at large a chance to enjoy world-class golfing experience and therefore we thought of appreciating their efforts with this much-deserved break. We also want to send the message that there is much more to Kenya." 
+
+"When one comes for instance to play a round of golf here, they can also take some time out to visit some attractions like the game parks we have in the country." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Magical Kenya Open and the Kenya Savannah Classic attracted 156 players from 30 countries. South African Justin Harding won the Kenya Open while his compatriot Daniel van Tonder walked home with the Savannah Classic title. 
+
+KTB’s sponsorship of the two tournaments was an extension of the agency’s sponsorship of the Safari Tour Golf Series which was a preparation for the Magical Kenya Open. 
+
+Dr Radier also noted that the two events also provided an opportunity for the destination to showcase the country’s Covid-19 preparedness and the ability to host events of international status. 
+
+Kenya Open Golf Limited (KOGL) chairman Peter Kanyago thanked ET for having organised the two events which had brought a focus on Kenya for two weeks. 
+
+“The game drive organised by KTB is important because it gives the players an opportunity to experience Kenya and unwind as they plan to go back to their countries," Kanyago said. 
+
+Last year, the World Golf Awards named Kenya as Africa’s leading golf destination, beating countries like Morocco, Egypt and South Africa which are considered giants in African golf. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
