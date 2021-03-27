@@ -1,0 +1,79 @@
+Tusker are top of the 18-team FKF Premier League with 36 points after 16 rounds while Zoo FC are bottom with eight points, with two games in handIn the NSL, FC Talanta leads with 32 points from 16 matches, while Mt Kenya sit bottom with 13 points in 17 matches Football Kenya Federation (FKF) on Friday suspended all their leagues following President Uhuru Kenyatta's directive that all sporting activities in the country be suspended until further notice. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The move by President Kenyatta is aimed at taming the spread of Covid-19 in the country. 
+
+"That all sporting activities are hereby suspended, similarly operations of sporting and recreational facilities including members clubs are suspended until it is otherwise directed," said Uhuru during his address reiterating that the new measures come into effect from Friday midnight. 
+
+In line with that directive, FKF says all its activities will be stopped until further notice. 
+
+"FKF has with immediate effect suspended all FKF leagues and competitions which include but not limited to FKF PL league NSL, FKF Division One and two leagues, FKF Women league, branch and grassroot leagues and tournaments," said FKF CEO Barry Otieno in a statement. 
+
+"The decision has been occasioned by today's national Presidential address with regard to the developing Covid-19 situation in the country and the urgent need to mitigate the spread of the pandemic." 
+
+This comes at a time when the national football team, Harambee Stars is in camp and is set to leave the country on Saturday on a chartered flight to Lome where they are due to face Togo in their last Group G of the 2021 Africa Cup of Nations qualifying match on Monday. 
+
+Tusker are top of the 18-team FKF Premier League with 36 points after 16 rounds while Zoo FC are bottom with eight points, with two games in hand. 
+
+In the NSL, FC Talanta leads with 32 points from 16 matches, while Mt Kenya sit bottom with 13 points in 17 matches. The move is part of concerted efforts by the government to curb the spread of coronavirus. He dedicated the goal to his family. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
