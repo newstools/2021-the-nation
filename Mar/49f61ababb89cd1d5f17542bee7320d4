@@ -1,0 +1,85 @@
+The United States said Friday it was prepared to help Egypt try and dislodge the massive container ship that has blocked the Suez Canal since Tuesday,  with a team of US Navy experts which could be deployed quickly if requested. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“As part of our active diplomatic dialogue with Egypt, we’ve offered US assistance to Egyptian authorities to help reopen the canal,” said White House Spokeswoman Jen Psaki. 
+
+"We are consulting with our Egyptian partners about how we can best support their efforts," she said, calling those consultations "ongoing." 
+
+Navy Captain Bill Urban, the spokesman for the US Central Command, which operates across the Middle East, said they are ready to act if requested. 
+
+“We have offered and stand ready to assist Egypt, and will look to support any specific request we receive," he said in a statement. 
+
+"We continue to monitor and assess the situation, but have nothing to provide on any potential specific support at this time." 
+
+One of the US Central Command's main missions in the region is to protect commercial ship traffic. 
+
+According to a US defence official who insisted on remaining anonymous, Washington has offered to send a team of Navy experts to help. 
+
+If Egypt makes a formal request, the team can be on the way on Saturday from Bahrain, the regional base of the US 5th Fleet. 
+
+So far, the official said, there has not been any approval for such a move. 
+
+The US military can also give support and advice to ships which, blocked from using the canal, opt for the long journey around the southern tip of Africa, which could take them through waters menaced by pirates. 
+
+"We can certainly do advising, but we cannot escort all of them," the official said. A giant ship has been stuck in Egypt's Suez Canal for the past four days. It's blocking one of the world's busiest trade routes. Experts warned the shut-down could last days or even weeks, potentially forcing businesses to re-route cargo ships around the southern tip of Africa. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
