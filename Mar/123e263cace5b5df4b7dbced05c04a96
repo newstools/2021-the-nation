@@ -1,0 +1,147 @@
+Tanzania's late president John Magufuli was laid to rest Friday in his ancestral village in the country's northwest after his sudden death last week. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nicknamed the "Bulldozer" for his leadership style, Magufuli was buried in Chato after nearly a week being mourned by crowds in various cities as his casket was moved around the country. 
+
+Magufuli died aged 61 from what authorities say was a heart condition, after a mysterious absence of almost three weeks, and questions remain over the true cause of his death which the opposition says was from Covid-19.    
+
+Tens of thousands of mourners flocked to see his body in state in the cities of Dar es Salaam, Dodoma, Zanzibar, Mwanza and Geita, weeping and throwing petals as it passed in a motorcade. 
+
+In Dar es Salaam the crowds were such that a stampede ensued, resulting in the deaths of at least five people. 
+
+In Chato, his final stop, Magufuli was buried in a family plot after prayers, the singing of the national anthem and a 21-gun salute. 
+
+Samia Suluhu Hassan, his successor and Tanzania's first female president, vowed to complete the work of a leader who leaves a complex legacy behind. 
+
+"We will work hard to complete what Magufuli had started, in bringing  development to the people," Hassan said after the funeral, which was also attended by former presidents Ali Hassan Mwinyi and Jakaya Kikwete. 
+
+"You should not worry at all about Magufuli's promises... Let us all show our unity and love now as we move forward the nation." 
+
+Leaders of different religious faiths who attended the service assured their support for Hassan, who under the constitution will serve the remainder of Magufuli's second term until 2025. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Magufuli is hailed for his fight against corruption and massive infrastructure projects, but criticised for the stifling of democracy and crackdowns on the media, civil society and the opposition. 
+
+His legacy is also marred by his Covid denialism, which saw Tanzania refuse to issue data or take any measures to curb the spread of the virus. Tanzanian president was flown to Kenya secretly on March 8 after suffering acute cardiac and respiratory illnesses. In September 2018, he denounced family planning and asked women to shun contraceptives. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
