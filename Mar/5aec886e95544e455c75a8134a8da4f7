@@ -1,0 +1,225 @@
+The farmer narrated the problem on his farm carefully giving very specific details. He said he was Joe from Kahawa Maziwa. He had been keeping dairy goats for the past two years without any problem. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I thought I had figured out dairy goat farming but the current situation has caught me off-guard,” he concluded. From his report, it was obvious he had taken time to learn about dairy goat farming but he had taken some unmitigated risks inadvertently. 
+
+Joe said he had built his goat herd of the Toggenburg breed to 23 milkers. He wanted to have a large herd for supply of milk to his neighbourhood and beyond. In January, he came across the information that Galla goats crossed with Toggenburg produced more disease-resistant crosses. 
+
+He bought five Gallas from Kiamaiko in Nairobi and introduced them into his herd. He then brought in another 14 from Merti in Marsabit on February 14 with a brief stop-over in Nyeri. He kept the 19 Gallas in an isolation unit away from the dairy goats. 
+
+Coughing 
+
+About two weeks later, one of the Gallas got very sick with swellings all over the body. It had nasal and eye discharge, was coughing and not feeding, and generally looked very sickly. His animal health service provider treated the goat with antibiotics and anti-inflammatories. He said it appeared to be a viral or fungal infection. 
+
+The dairy goats also started getting sick with the same signs and some with diarrhoea. They later started dying one by one. Some died suddenly after stopping feeding. The treatment given was the same but it did not appear to help. The first case continued being alive but sickly before it started showing signs of recovery. 
+
+By the time Joe called me in, he remained only with six of his 23 dairy goats. When I arrived, he showed me the mass grave for his goats and wondered what disease could have been ravaging his stock. He also showed me one Galla goat that had died that morning. The carcass was lying on its side at the grave site with its head and neck thrown backwards and legs extended. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I checked the farm records and confirmed the details Joe had given me on phone. At that point, it was clear to me the farm had a bigger problem than was being handled both by the owner and the animal health service providers. 
+
+I told Joe my investigation plan. I would deal with the remaining dairy goats first and the dead Galla, then finalise with the surviving apparently healthy Gallas. He wondered if I would not contaminate the healthy goats. I explained to him that I would fully sanitise after finishing with the dairy goats. 
+
+I found the dairy goats had a mixture of symptoms. Two adult females appeared healthy with normal body parameters. One was very sickly with round swellings all over the body, including eyelids, nostrils and tongue. It kept producing foamy saliva. It also had pus discharge from the nose and eyes. There were reddened wounds around the mouth. Two dairy goat kids had the same presentation. A third goat kid lay on its side barely able to breath and with same symptoms. 
+
+The Galla that got sick first looked healthy, though it had lost weight. It had numerous poke marks all over the body. I requested Joe to allow me to sacrifice the very sickly kid and carry out post-mortem examination on it and the dead Galla. 
+
+The sickly kid had some of the nodules in the lungs causing heavy pneumonia. Other internal organs appeared normal. The dead Galla had the swellings on the skin. It also had bleeding and inflammation in the intestines. The kidneys had a cooked appearance. 
+
+Four diseases 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lungs of the Galla contained about two litres of beer-coloured fluid and lots of cheese-like material called fibrin. 
+
+I diagnosed an attack by four diseases, three of them deadly. The skin swellings were caused by goat pox, a viral disease brought about by the goat pox virus. It has a high death rate in goats not previously exposed to the disease through vaccination or infection. 
+
+The goats with reddened wounds had orf, another pox virus disease which is mild. The fluid and fibrin-filled chest of the dead Galla goat was due to another deadly disease called contagious caprine pleuropneumonia caused by mycoplasma bacteria. Goats from the rangelands carry the disease and infect unexposed goats when they get in contact. 
+
+Finally, there was enterotoxaemia caused by clostridium bacteria. This was the reason for the intestinal and kidney damage. The disease causes diarrhoea and sudden death. 
+
+I explained to Joe all the four diseases can be prevented by vaccination but in all cases, they are very difficult to treat. Except for enterotoxaemia, the Gallas had introduced the diseases on the farm. They were least affected because they came from areas where they were already exposed to the diseases. I advised him to always ensure his resident goats are fully vaccinated before bringing in new stock. 
+
+jmugachia@yahoo.com The start of rains often spells trouble for dairy farmers as milk output rises amid low demand. Peter Tafao's main business is security, but he keeps poultry and pigs on the side with great success. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
