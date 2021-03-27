@@ -1,0 +1,149 @@
+It is clear now that we are in the depths of the third wave of Covid-19 in Kenya. Not a day goes by without the devastating news of the loss of a loved one or someone well known to us. Our social media feeds are awash with “RIP” messages attached to pictures of people we know very well. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The abstract numbers we were used to have now turned into individuals we know and care about. The numbers are our friends, family members, former classmates and colleagues. 
+
+Recently, I have developed a phobia for opening my social media pages because of terrible news. Phone calls, WhatsApp messages and texts have become nerve-wrecking to respond to because you never know what news they may bear. 
+
+News reports this week indicate a “quiet shutdown” of both private and public businesses. Several organisations are already operating at 50 per cent capacity while duty rosters have been installed to ensure staff work in shifts. Hospitals and their staff are overwhelmed by the new surge and patients needing ICU beds are being turned away. It is not a pretty sight. 
+
+Urban areas 
+
+On Wednesday, Health Chief Administrative Secretary Dr Mercy Mwangangi made an eye-opening statement that “for every five Nairobi residents, three have Covid-19,”bringing the point home on the seriousness of the coronavirus, particularly in urban areas. It would appear that this pandemic is far from over, a year after our lives took a very different and unexpected turn. 
+
+It is therefore important that we keep our guard up, avoid situations that aggravate the spread of the virus, but, importantly, take care of those we love. To do this, we must not only comply with government directives regarding public meetings, curfews and masking up, we must also encourage the vulnerable in our society to consider taking the Covid-19 vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Rumours 
+
+I know this vaccine inspires a lot of mixed feelings from the public—which is okay—but we must not let our decisions be guided by falsehoods, rumours and outright lies. On Thursday, the government directed that all individuals above 58 years be prioritised in the vaccination drive. 
+
+This means that most of our parents, aunts, uncles and grandparents are eligible for vaccination. We must play our part in not only encouraging them to take the jab, but also go out of our way to educate them on the life-saving value of this vaccine and why they need to take advantage of this window. 
+
+We must—at the family and personal level—do our best to debunk the myths surrounding this vaccine for our parents and grandparents by first educating ourselves and understanding that the central role this vaccine plays in ending this pandemic. Ensure that the people around you wear masks, sanitise and observe social distance. 
+
+But now we have another hurdle to overcome, that of convincing—not coercing—those we love to take one bolder step to save themselves and those they love. 
+
+Njoki.chege@aku.edu The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
