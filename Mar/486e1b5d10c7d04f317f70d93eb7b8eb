@@ -1,0 +1,309 @@
+The government also halted in-person learning in all of the country’s institutions, including universities and technical and vocational training centres, the exception being candidates writing their national exams and medical trainees. President Uhuru Kenyatta has put five counties under partial lockdown effective midnight, as part of new Covid-19 containment measures necessitated by a lethal third wave of infections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While invoking Public Order No. 2 of 2021, President Kenyatta on Friday directed cessation of movement by road, rail and air into and out of the counties of Nairobi, Kajiado, Machakos, Kiambu and Nakuru until further notice. 
+
+The five counties have individually accounted for the highest Covid-19 infections since his last address on March 12. 
+
+Mr Kenyatta declared them a disease infested area following a surge in infections. 
+
+The cessation of movement order, according to Mr Nzioka Waita, the Chief of Staff in the Office of the President, limits movement into and out of the One Zoned Area that covers the counties. 
+
+"[But] you can move freely within the five counties," Mr Waita explained via Twitter. 
+
+Mr Kenyatta issued the directives from State House in Nairobi, flanked by National Assembly Speaker Justin Muturi, Cabinet Secretaries Fred Matiang’i (Interior) and Mutahi Kagwe (Health), Head of Civil Service Joseph Kinyua and Government Spokesman Cyrus Oguna. 
+
+His address came after a meeting of the National Security Council (NSC), that the President chairs, and the Council of Governors (CoG). 
+
+Parliament sessions 
+
+President Kenyatta issued several directives concerning in-person gatherings, starting with extending the 30-day prohibition against political meetings that he announced earlier in March “until otherwise directed". 
+
+“There shall be no in-person meetings of any kind in the counties of Nairobi, Machakos, Kajiado, Kiambu and Nakuru until further notice,” President Kenyatta directed. 
+
+He also suspended all in-person meetings of the Cabinet and its committees, with the exception of meetings of the National Security Council, until further notice. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The President further issued a directive touching on the Ordinary Sessions of the August Houses, including those of their committees, and Ordinary Sessions of the county assemblies of Nairobi, Machakos, Kajiado, Kiambu and Nakuru. 
+
+He requested the speakers of Parliament and these five county assemblies to suspend their sessions as part of efforts to curb the spread of the virus. 
+
+To effect the President’s directive, the two Houses of Parliament and the affected county assemblies are required to meet and pass resolutions amending their respective calendars. 
+
+"In accordance with the Standing Orders of the National Assembly and the Senate, the two Speakers of Parliament will move to effect this decision, as well as the speakers of the respective county assemblies," the President said. 
+
+Other in-person gatherings 
+
+The government also suspended in-person worship in the five counties until further notice, saying other parts of the country will continue to adhere to the requirement to host just one third of their capacities. 
+
+President Kenyatta also halted in-person learning in all of the country’s institutions, including universities and technical and vocational training centres, the exception being candidates writing their national exams and medical trainees. 
+
+All permitted gatherings will have their attendance limited to 50 people with funerals conducted within 72 hours of confirmation of death, he said. 
+
+He added that weddings and other related events shall have not more than 30 people. 
+
+Curfew, travel 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 15th presidential address, since Covid-19 was first reported in the country on March 13, 2020, also saw the dusk to dawn curfew in the One Zone Area set for 8pm-4am. It will remain 10pm-4am in the other counties. 
+
+In terms of curfew exemptions, President Kenyatta revoked all passes until the Interior and Health ministries review the protocols, saying the provision was being abused. 
+
+President Kenyatta also touched on international travel, saying it will continue under existing guidelines, but that incoming travellers must have the negative Covid-19 PCR certificate acquired no more 96 hours before their arrival. 
+
+The PCR Certificate must have been validated under the Trusted Travel platform for those travelling by air. 
+
+Other directives 
+
+The government went on to suspend bar operations as well as the sale of alcohol at restaurants and eateries and said they will only provide takeaway services for now. 
+
+Public transport providers shall be required to observe a 60 per cent carrying capacity, the President also said. 
+
+He further announced that all employees of private and government bodies are encouraged to work from home until further notice, except for those whose services cannot be offered remotely. 
+
+All hospitals were asked to limit the number of visitors to patients to just one per patient. 
+
+In addition, all sporting activities as well as the operations of sporting and recreational facilities including members' clubs were also put on hold. 
+
+Worrying trends 
+
+Since the President's first Covid-19 address this year, hospital admission due to Covid-19 has increased to over 7,630 from the 4,990 at the time. In 13 days since this last address, hospital admission numbers have increased by 52 per cent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The number of Covid-19 confirmed cases in January stood at 4,380 but this has now shot to 15,916. At the end of January, the country’s Covid-19 positivity rate stood at 2.6 percent but by March 22, it had jumped to 19 percent. 
+
+“Indications by our experts are that the positivity rate is now settling at 22 percent,” the President said. 
+
+In terms of the geographical impact, Nairobi County accounts for close to 60 percent of the recorded cases in the country. 
+
+“What is even more worrying is the rising death rate,” the President said, noting that between January and February 2021, three people died every day from the disease, but that in March, the number increased to seven and continued to rise. 
+
+Touch decisions 
+
+The challenge now will be in how security agencies will implement the partial lockdown as the public's behaviour remains a concern. 
+
+Although the President acknowledged that the new measures will have adverse effects on the economy and constrain “our usual way of life”, he said they are temporary and necessary to contain the spread of the disease and stop further loss of lives. 
+
+“I am convinced that the cost of not acting now would be far greater,” the President noted. 
+
+“In moments like this, as a caring government, it is our solemn duty and cardinal responsibility to protect life above all else. One life lost is one too many. Our thoughts and prayers are with the families of those who have succumbed to this disease,” he added.  
+
+dmwere@ke.nationmedia.com   Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant. MoH says this group is at most risk of severe disease and accounts for 60 per cent of our recorded deaths. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
