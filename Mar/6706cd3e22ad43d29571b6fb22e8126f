@@ -1,0 +1,267 @@
+According to the UN Secretary-General’s report, more women are leading but progress is too slow to reach gender parity in executive and legislative power, and the public sector at large.One in 10 women who owned businesses prior to the pandemic have been unable to resume operations.2021 presents an opportunity to advance leadership opportunities for women and girls. According to the UN Secretary-General’s report, more women are leading but progress is too slow to reach gender parity in executive and legislative power, and the public sector at large. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As the world continues to navigate the Covid-19 pandemic, this year’s Commission on the Status of Women, the largest annual gathering on gender equality and women’s empowerment, creates a moment for government and society to think about how to achieve an equal future in a Covid-19 world. 
+
+The impacts of Covid-19 are still being felt in Kenya. They affect men and women differently, exacerbating existing inequalities. The latest assessment from UN Women shows that women are 1.6 times more likely to lose their income compared to men. 
+
+In addition, one in 10 women who owned businesses prior to the pandemic have been unable to resume operations. Gender-based violence helplines have been inundated with calls for help from survivors of sexual and gender-based violence, many of whom are women and girls.  
+
+In 2020 the national helpline Health Assistance Kenya (HAK1195) received more than 5,000 calls – a five-fold increase from 2019. 
+
+Leadership opportunities 
+
+For societies to thrive beyond Covid-19, women and girls, men and boys must have equal access to education, healthcare, and technology. They must have equal control of resources, lands, and markets. And they must have equal rights and opportunities as peace-builders and leaders. 
+
+2021 presents an opportunity to advance leadership opportunities for women and girls. Effective Covid-19 response and recovery requires women in task forces as well as having a seat at any table where decisions are being made including legislative, policy and budgetary decision-making. Failure to hasten women’s participation will derail the Sustainable Development Goals and the Beijing Platform for Action commitments by 2030.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a Covid-19 world, gender equality should take centre stage because when more women are in decision-making positions, more inclusive decisions are made, more diverse voices are heard, and holistic solutions can be created. 
+
+Women serving in public office – at all levels of decision-making – sends a powerful message that a woman’s “place” is everywhere. A woman multiplies the impact of an investment made by extending benefits to the world around her, creating a better life for her family and building a strong community. 
+
+Delivering at high levels 
+
+Kenya has countless examples of women delivering at the highest levels. Hon Sabina Chege is pushing legislation that will positively impact on women, girls, and communities at large. Rose Mbone, a gender activist, has been coordinating trauma awareness and resilience campaigns targeting youth in informal settlements in Nairobi. 
+
+In the private sector, Nairobi Stock Exchange data shows only 12 per cent of listed firms are headed by women. Yet, Dr Jennifer Riria, founder of Kenya Women Holdings – and many others – have proven for years that diversity improves development outcomes. We must also recognise countless more women who have been leading extraordinary efforts within their own families and communities to tackle Covid-19’s prolonged impacts. 
+
+Good governance and democracy require inclusive leadership and representation. The Kenyan Constitution’s ‘gender rule’ is a remedy for low participation of women in politics and to ensure that no more than two thirds of the members of elective public bodies are the same gender. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This rule has never been fully realised and we must continue to advocate to move beyond the current 21per cent to the full one third of women’s representation expected. The national elections in August 2022 will be a golden opportunity to make progress on this. 
+
+Dynamic decision-making body 
+
+The Development Partners Gender Group is confident that Kenyans can achieve the constitutional threshold gender rule and we are pleased to support those efforts.  But we all need to extend beyond implementing quotas and laws. 
+
+Together we can inspire the leaders of tomorrow and build their capacities today. Together we can embrace women’s voices at the decision-making table and encourage civic education so that communities can transform themselves toward a more equitable future that will benefit all of Kenya. 
+
+Violence against women during elections – whether candidates or constituents – is an extreme violation of human rights that subverts ideas, hinders progress, and stifles Kenya’s ability to form a truly representative and dynamic decision-making body. 
+
+With the government, private sector, civil society, and men and women across Kenya, we must work together to ensure a safe and conducive environment for women’s political participation in next year’s election. 
+
+Katrin Hagemann is Chargé d’Affaires – Deputy Head of EU Delegation to Kenyaand co-chair of the Development Partner Gender Group  
+
+Heather Schildge is acting Mission Director, United States Agency for International Development (USAID) Kenya and East Africa and co-chair of the Development Partner Gender Group  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Anna Mutavati is UN Women Country Representative to Kenya With the right policies, laws, procedures and actions; women leaders can transform the society Commonwealth Secretary-General Patricia Scotland on the need for men and women to work together for gender parity. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
