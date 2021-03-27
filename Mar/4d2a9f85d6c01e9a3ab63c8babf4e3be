@@ -1,0 +1,275 @@
+As the Linda Boni operation intensified in Lamu, the easy routes for Coast youths to sneak into Somalia and join Al-Shabaab were blocked. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This has now seen the youth head to Mozambique through the porous Kenya-Tanzania border to join the al-Qaeda linked group, Nation.Africa can reveal. 
+
+Cabo Delgado in Mozambique has become the new frontier for the disillusioned young men, some from the Coast, security reports and researches have also shown. 
+
+This week, it also emerged in a Mombasa court that two terror suspects from the town are among the latest youths to join the Isis-linked terror group in Mozambique known as Ansar al Sunnah. 
+
+According to an affidavit filed in court in a case where another terror suspect, Mr Richard Lazaro Kivatsi, was charged and released on bond, police said it emerged that terror suspects Alfan Ali Juma and Salim Rashid had fled to Mozambique. 
+
+In the case, the police claimed that a ballistics analysis of Kivatsi’s two mobile phones indicates that he has allegedly been in close contact with Juma and Rashid, who are alleged to have fled to the Southern African country to joined the terror group. 
+
+The two, the court was told, are facing terror-related charges in Mombasa and Shanzu courts, but escaped to Mozambique after they were granted bond by the trial courts. 
+
+“These two accused persons are charged with terror offences, are out on bond and have breached the bond terms by not attending court and are at large to date. Intelligence reports indicate that the two are in Mozambique fighting for al-Qaeda,” reads the affidavit by Anti-Terror Police Unit (ATPU) officer Dickson Ndaru. 
+
+Intelligence reports indicate that a number of youths who were radicalised by Muslim cleric Aboud Rogo, who was shot dead on August 27, 2012, are among those who have been unleashing terror on the Coast of Mozambique. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A good number of suspects reportedly fled to Tanzania and Mozambique, among other African countries, following the death of Sheikh Rogo. 
+
+The members got to Mozambique through Tanzania in Kibiti where they had built a presence in 2015. 
+
+A 2019 research paper dubbed “Islamic Radicalisation in Northern Mozambique, the Case of Mocimboa da Praia” written by Saide Habibe, Salvador Forquilha and Joao Pereira, noted that the exclusivist views of the terror group in the region crystallised further when the group “incorporated the followers of Aboud Rogo Mohammed, the leader of al-Hijra, a Kenyan group allied to the al-Shabaab in Somalia. 
+
+According to another report by Ngala Chome, titled “Eastern Africa’s Regional Extremist Threat: Origins, Nature and Policy Options” published by the Centre for Human Rights and Policy Studies last year revealed that Islamist militants fled from Tanzania to Mozambique following collaborative efforts between the governments of the two countries in 2018. 
+
+“Later in that year, the Tanzanian police force undertook operations to out to an end a series of killings along the coastal areas of Ikwiriri and Kibiti, where Tanzanian (and some Kenyan) Islamist militants had escaped to, following police crackdowns on suspected al-Shabaab members especially in 2014 and 2015,” reads the research paper. 
+
+Meanwhile, the group, according to security reports, was being headed by, among others, terror suspect Abu Yassir Hassan, who was early this month classified among Specially Designated Global Terrorists (SDGTs) by the US Department of State. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Hassan, reports indicate, is a Tanzanian, who has been leading the terror group in Mozambique, which is also known as Ahlal-sunnah wa al-Jamaa. 
+
+Hassan -- who is also known as Abu Qim -- led the group that coordinated a series of large-scale attacks that led to seizure of a strategic port of Mocimboa da Praia in Cabo Delgado Province in Mozambique, according to Tanzania media reports. 
+
+Security reports indicate that under Hassan’s command, Isis-Mozambique had killed more than 1,300 civilians while it is estimated that more than 2,300 civilians, members of security forces and suspected Isis-Mozambique militants have been killed since the group launched violent attacks in October 2017. 
+
+Speaking during a digital press briefing on US efforts in combating terrorism in Africa two weeks ago, counterterrorism and acting Special Envoy for the Global Coalition to Defeat Isis John Godfrey said in its efforts to deal with terrorism in Kenya, the US had made some progress in Somalia, blunting the effect of al-Shabaab to plan and execute attacks against Kenya, or inside Kenya.  
+
+There are obviously some notable exceptions to that – the January 2020 attack against the Manda Bay Air Base were terrible, and certainly, he said, a sign that the threat remains persistent.  
+
+In the January 5 attack at Camp Simba in Manda Bay, Lamu, the US lost one service member and two Department of Defence contractors, who were killed by the terrorists believed to be from Jaysh Ayman, a branch of al-Shabaab. 
+
+The focus now is on Mozambique, where Mr Godfrey said the US is now taking a comprehensive approach to the terrorist threat in the region, and that includes countering terrorism finance, but also helping build counterterrorism capability on the part of the Mozambican government, he added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+He noted that the focus is currently on Mozambique because of the dramatic manifestations of the Isis threat in the region. The threat, he added has reflected in the more than 2,000 civilians who were killed by the insurgents and up to 670,000 internally displaced people in Cabo Delgado. 
+
+He said there is no dispute on the cross-border linkage of the Mozambique-Isis terror group to Tanzania. 
+
+“So, certainly, we’re not ignoring the fact that this is a threat that spans across borders, and that phenomenon, I would note, is very prevalent in other areas of the continent where we’re dealing with both Isis and al-Qaeda terrorist threats,” said Mr Godfrey. 
+
+The US, he said, has focused on border security, after evidence that Isis in Mozambique links back to southern Tanzania. 
+
+amohamed@ke.nationmedia.com Save the Children says children as young as 11 years old have been targeted. The government is citing national security threats posed by some of the refugees. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
