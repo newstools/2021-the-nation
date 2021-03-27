@@ -1,0 +1,145 @@
+A lamb. That’s how one local newspaper described Tanzania’s new President Samia Suluhu Hassan. To be clear, I have used “lamb” metaphorically here. The exact phrase was “Gentle Zanzibari woman”.  As a journalist, I appreciated that the writer or editor was seeking to land a point about the contrast of Madam President’s personality with Mr Bulldozer’s, as the late president John Pombe Magufuli, famous for his “my way or the highway” ways, was known. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But as a language student who believes in how much it shapes our reality, the “Gentle Zanzibari woman” expression made me uncomfortable. The article went on to describe her as a leader who “never raises her voice”. Unfortunately, this could be misconstrued to mean she was not firm. Something she admitted in a BBC interview where she said people often underrated her. 
+
+In the West, a newspaper headline widely circulated on social media screamed: “Autocrat’s death makes mother of four Africa’s only female leader”. Apart from the galling bending of facts (only female leader, really?), it also stank of misogyny. The headline conveniently forgot that she was a well-educated and qualified leader. 
+
+Female political leaders 
+
+Motherhood is not a measure of political leadership, yet it’s constantly used as a yardstick. This is a reality that has visited many female political leaders. Ask any of them how many times her spinsterhood or childlessness has been used to discredit them, and they will tell you they have lost count. 
+
+The headlines’ phrases remind us that despite all the progress made in shattering the glass ceiling in women’s political leadership, stereotypes continue to erode on the gains. Women remain vulnerable to gender-insensitive language that can overturn their progress. 
+
+These vexing stereotypes might have been what led Madam President to utter these words at her predecessor’s funeral service: “Kwa wale ambao wana mashaka, mwanamke huyu ataweza kuwa Rais wa Jamhuri ya Muungano wa Tanzania, nataka niwaambie aliyesimama hapa ni Rais. Nataka nirudie aliye simama hapa ni Rais wa Jamhuri ya Muungano wa Tanzania ambaye maumbile yake ni mwanamke. (For those who have doubts if this woman will be the President of the United Republic of Tanzania, I want to tell you that the person standing here is the President. I want to repeat that the one who is standing here is the President of the United Republic of Tanzania, who is a woman).” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lioness 
+
+Now, is this a lamb or a lioness? In one beautiful sentence, she burst whatever myths naysayers might have created about the softspoken leader, hopefully, for good. And she reinforced the fact that leadership styles are different. She does not have to bulldoze to lead.  The gender stereotypes reflected in female politicians’ coverage the world over crystallises a truth we must acknowledge: that the language we use in telling their stories matters.  
+
+Let’s meet women in political leadership halfway by using gender-sensitive language. 
+
+@FaithOneya; foneya@ke.nationmedia.com The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
