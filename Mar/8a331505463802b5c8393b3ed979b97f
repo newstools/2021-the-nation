@@ -1,0 +1,267 @@
+ Kenyans have for the past one year been forced to embrace new ways of living to survive through the Covid-19 pandemic period. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Various studies indicate that the pandemic has radically changed the economic and social lives of particularly the poor and middle class. In matatus, passengers are sitting a metre apart; in hotels and restaurants and workplaces, things are the same as people wear face masks and sanitise regularly. It’s a new world, alien to how we conducted things a year ago and has come to be known as the ‘new normal’. 
+
+The number of Kenyans who have lost their jobs since the onset of Covid-19 is estimated at over a million, thousands of businesses are still closed, while many more are struggling. 
+
+Players in the various economic sectors have recently been complaining of difficult conditions they are operating in, warning that if the situation persists, more businesses will close down and worsen an already ugly situation. 
+
+The Central Bank of Kenya’s July-September 2020 quarterly economic review indicated that the economy contracted by -1.1 per cent, from a contraction of -5.5 per cent between April and June. 
+
+A World Bank report on socioeconomic impacts of Covid-19 on Kenyan households this January stated that unemployment in the country had tripled to pre-Covid-19 levels, indicating it moved from 5 per cent in the last quarter of 2019 to 16.5 per cent by June 2020. 
+
+Unemployment 
+
+“The Covid-19 pandemic has also moved many adult Kenyans outside the labour force, with labour force participation decreasing from 75 per cent in the last quarter of 2019 to 61 per cent by early July 2020. The rise of unemployment and the decrease in labour force participation can have severe and long-term consequences on households’ welfare,” the report stated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenya National Bureau of Statistics (KNBS) 2020’s second Quarterly Labour Force Survey had also showed that 1.72 million people lost jobs between April and June 2020, as the country witnessed the worst economic conditions in more than a decade. KNBS reported that the number of jobless people increased from 2.94 million by end of March to 4.64 million by close of June. 
+
+And again in August, a survey by the Federation of Kenya employers showed Covid-19 wiped out 8.3 per cent of the private sector’s formal employment (173,000 workers), as many companies declared intentions to fire more workers on the basis of hardships caused by the Covid-19 pandemic. 
+
+“Only 30 per cent of the companies studied indicated that they had enough resources to meet their wage obligations in the next six months. This indicates that more job losses are expected,” the survey stated. 
+
+FKE found out that Covid-19 and the measures placed to contain its spread adversely affected businesses in their cash flows (84 per cent), operations (79 per cent) and supply chains (75 per cent). The nationwide curfew – announced for the first time on March 27, 2020, and which was enhanced yesterday, has been mentioned as having the most severe economic implications on businesses, leading to the closure of thousands. 
+
+“Enterprises are still declaring redundancies absolutely where they cannot retain the numbers. The industry is still on its knees, some of the measures that we had requested government to consider were not followed,” FKE executive director Jacqueline Mugo says. The sectors worst hit by the placement of Covid-19 containment measures are bars – whose operations were yesterday suspended once again, hotels, entertainment, manufacturing and transport. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Covid-19 prevention measures 
+
+The Pubs, Entertainment and Restaurants Association of Kenya (Perak) on March 2 wrote to President Uhuru Kenyatta complaining that 16,000 bars and restaurants (30 per cent businesses in the sector) had been closed due to the Covid-19 prevention measures, as they asked to be allowed to operate on full capacity. 
+
+By last month, many big hotels interviewed by the Nation reported that they were still operating at capacities between 15 per cent and 45 per cent. Others such as the Radisson Blu-Upper Hill, Norfolk Hotel and the Intercontinental in Nairobi were closed down last year sending staff home. 
+
+A survey on operation of hotels by the CBK in September last year showed that employment in the sector averaged 45 per cent of the sector’s pre-Covid-19 levels, with average bed occupancy ratio at 24 per cent. 
+
+The bank’s third quarterly economic report last year also showed that the accommodation and restaurants sector contracted by -57.9 per cent, the education sector by -41.9 per cent, manufacturing sector by -3.2 per cent and the services sector by -5.3 per cent. 
+
+Most players from different sectors agree that the curfew – even though well-intended – has hit their operations heavily by locking the night economy, as they bank on the hope that the Covid-19 vaccine will be the catalyst that will bring back business. 
+
+“It has affected the industry because tourism is an industry that operates day and night. However, our stakeholders have been very quick to adjust to the curfew times. Indeed, it has affected the industry and we look forward to the time when we will be able to open and open safely,” Kenya Tourism Board chair Betty Radier told the Nation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In the public transport sector, thousands of vehicles are lying idle while others that had been acquired on loans were repossessed by lenders when owners failed to service loans due to poor business. Credit to private sector fell from 40 per cent of the GDP sin pre-Covid-19 times to 27 per cent.  “To return the GDP to where it was and to achieve the projected six per cent growth this year, we have to return private sector credit back to 40 per cent,” says Equity Bank CEO James Mwangi. 
+
+This is even as the ratio of non-performing loans at 13 per cent of gross loans – remains a big concern for the sector, since many individuals and businesses have been unable to service loans. 
+
+The latest official data on the socioeconomic impact of Covid-19 on households – published by the World Bank in January – shows that among the adaptation mechanisms Kenyans embraced were reducing food and non-food consumption, withdrawing savings, selling assets and relying on credit purchases. Measures cause panic among Nairobians as political activities are nipped in the bud. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition. The country has been battling to bring a deadly surge in new Covid cases under control. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
