@@ -1,0 +1,83 @@
+Police in Isiolo are holding 49 people, who include a business operator, arrested on Thursday night while smoking shisha inside a premise. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Acting on a tip-off from the public, the officers pounced on the revellers who were partying during curfew hours inside a hall near the Isiolo Law Courts. 
+
+The officers confiscated 20 machines that the revellers were sharing while in groups in blatant disregard to Covid-19 protocols. 
+
+Isiolo County Commissioner Herman Shambi said it was unfortunate that the flavoured tobacco was being sold in the town despite the government’s ban in December 2017. 
+
+Mr Shambi lamented that such gatherings where health guidelines are flouted were likely of contributing to increased transmission of Covid-19. 
+
+“We will not allow anyone to ruin the lives of our people. This business must stop and those involved arrested and prosecuted,” Mr Shambi said. 
+
+He said youth were putting their lives at risk for sharing the tobacco substance via pipes as could transmit infectious diseases and Coronavirus that continues to wreak havoc across the globe. 
+
+Isiolo County Police Commander Joseph Kigen said operation will be sustained in Isiolo town and its environs to eradicate the illegal businesses. 
+
+“Residents should volunteer information to assist us nab those selling shisha so that we rid our people of the health risks that come with smoking the substance,” the police boss said. 
+
+Mr Shambi warned that those offering the water pipe tobacco risk having their businesses closed and licenses revoked. 
+
+The police boss said the suspects will be arraigned on Monday. Country still remembers the killing of six young men by mourners at a funeral in Busia two years ago. His wife had also been hospitalised at the KU hospital where she battled virus. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
