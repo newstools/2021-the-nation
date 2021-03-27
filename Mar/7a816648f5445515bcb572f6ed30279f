@@ -1,0 +1,223 @@
+A parliamentary committee wants the National Treasury barred from submitting to the National Assembly a supplementary budget within two months to the end of a financial year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+To actualise this, the Public Accounts Committee (PAC) wants the Public Finance Management (PFM) Act amended. 
+
+The committee chaired by Ugunja MP Opiyo Wandayi says in its report to the National Assembly that supplementary budgets submitted to the house within two months to the end of the financial year have been prone to unnecessary expenditures. 
+
+It further notes that this practice has led to the underutilisation of the approved budget by approximately 8.5 percent for the past five years. 
+
+“The under expenditure on recurrent was due to additional funds that were provided in supplementary estimates that were approved by parliament but could not be utilised before the end of a financial year,” the report says. 
+
+The PAC report which now awaits debate and approval by the MPs, covers the audited accounts of the national government by the Office of the Auditor-General for the 2017/18 financial year.  
+
+In that period, only 90 percent of the approved gross estimated expenditure was spent, leaving Sh270.95 billion underutilised. 
+
+Supplementary budget 
+
+This is after the National Assembly approved additional funds in new supplementary estimates for the financial year in late June 2018 for ministries, departments and agencies (MDAs). The MDAs had however, not used the funds by the closure of the financial year on June 30, 2018. 
+
+National Treasury Principal Secretary Julius Muia, while appearing before the PAC earlier, told the MPs that the late approval of supplementary budget affected its absorption. 
+
+“On the other hand, the under expenditure in development was due to the allocation of the Equalisation Fund that was not utilised due to lack of implementing policy,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During the last financial year, the National Treasury submitted to the house supplementary estimates seven days before the end of the financial year. The committee also wants the National Assembly to approve gross national government expenditure estimates for the 2021/2022 financial year and the medium-term if the allocation for development meets the minimum 30 percent threshold as prescribed in law. 
+
+Recurrent expenditures 
+
+In the 2017/18 financial year, 40 percent of the Sh2.37 trillion national government gross expenditure was allocated for recurrent expenditures and 21 percent for development. 
+
+The Consolidated Fund Services (CFS), including repayments of public debt, accounted for 27 percent while county governments accounted for 12 percent of the gross estimated expenditure. 
+
+The committee further wants the Treasury Cabinet Secretary to initiate a review of the PFM reform programme to include the watchdog committees of the National Assembly and Senate, Office of the Auditor-General and the Controller of Budget in its capacity building programme component. 
+
+This is to enhance prudent use of the public funds among state agencies. This is because PAC, Public Investments Committee (PIC), Special Funds Accounts Committee (SFAC), and the County Public Accounts and Investments Committee (CPAIC) of the Senate are the eyes and ears of the public in use of public money. 
+
+To enhance the technical capacity of the watchdog committees, PAC recommends that the Parliamentary Service Commission (PSC) establishes a dedicated technical unit within the Parliamentary Budget Office (PBO) to provide the technical support to the committees. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is so as to clear up any audit report approval backlog and work within the timelines in the constitution without losing focus on the “bigger picture”. House committee wants Public Finance Management (PFM) Act amended to ensure to control piling national debt. MPs had threatened to shoot down the Division of Revenue Bill (DoRB) 2021 over the delays in releasing the funds. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
