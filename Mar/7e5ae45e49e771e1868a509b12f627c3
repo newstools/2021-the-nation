@@ -1,0 +1,161 @@
+The couple grow a variety of plants including guavas, bananas, mangoes, lemon grass and sweet potatoes.Bananas are the favourite crops for the Mwandisha’s as they grow a variety of them. Seated under a tall oak tree on their Junju Farm in Kilifi County, Lucy Mwandisha and her husband Michael Mwandisha enjoy the shade amid the scorching sun. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The couple, who are pastors at the Soul Harvest Ministry in Vikwatani, are mixed crop farmers, growing a variety of plants that include guavas, bananas, mangoes, lemon grass, sweet potatoes, okra, passion fruits and pawpaws. 
+
+Lucy, a 1996 food science graduate of Jomo Kenyatta University of Agriculture and Technology, says they started the venture in 2013, two years after buying land. 
+
+“We started after digging a 65-feet well to provide water to our farming ventures. We invested over Sh250,000 into the project and now we farm the several crops,” says Lucy, noting they farm the various kinds of crops to diversify their income. 
+
+Bananas are the favourite crops for the Mwandisha’s as they grow a variety of them. 
+
+Earn good income 
+
+“We farm them on over an acre and they consist of Grand Nain and Williams tissue culture bananas plants. We introduced two varieties of pawpaws in 2019, Solo sunrise and Red lady, which we grow 100 of them each,” offers Mwandisha.  
+
+Their harvest includes banana fruits and suckers, cowpea seeds, which earn them good income. 
+
+“Last year we sold a lot of plantain suckers at Sh200 each. Another source of income was cowpea leaves that we farm on half-acre and amaranth leaves and seeds,” says Lucy, adding they have employed three workers. 
+
+The farm also hosts coconut trees, and they harvest the nuts and sell at a wholesale price of Sh20 each. The Mwandisha’s are members of Wuzuri Farmers WhatsApp group, which comprises of some 200 producers. 
+
+Through the group, started by them, they have organised training on horticultural crops and mushroom farming, animal feeds and formulation and preparation, dairy basics, soil fertility, and water harvesting. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Greatest challenges 
+
+“We now have members from Nairobi, Mombasa, Kilifi, Taita Taveta, and Kwale counties doing crop and livestock farming in particular poultry keeping,” says Lucy, noting she was motivated to start the group to help them get extension services. 
+
+Through the group, besides sharing the agricultural information and practices like mixed cropping, members also share market opportunities . 
+
+“It is through a contact in the farmers’ group that some of us were able to get a contract to supply a supermarket. The weekly orders were 200 kilos of watermelons at Sh40 per each, 160kg pawpaws at Sh80 per each, 40 kilos of brinjals at Sh50 each and 30 kilos of plantain bananas at Sh180 per kilo,” says the farmer, noting they were supplying Shoprite, which however closed shop recently. 
+
+Mwandisha says one of the greatest challenges farmers face is lack of extension services, which has seen many rely on agrovet operators, who are in business. 
+
+Pwani University crop sciences senior lecturer, Dr Hemedi Mkuzi Saha, says access to reliable agricultural information is important for farmers to succeed in their ventures. 
+
+"It is mandatory to seek information on production, preservation, value addition, and marketing for sustainable business in agriculture,’’ the don explained. 
+
+satnation@ke.nationmedia.com Horticultural farmer in the diaspora has successfully overseen operations at her farm from her US work station since 2014. Coffee farmer’s ever dwindling production of less than a hundred kilos started bourgeoning and production further shot to hundreds of tonnes. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
