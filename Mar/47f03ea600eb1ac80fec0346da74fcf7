@@ -1,0 +1,247 @@
+It has been one painful year since President Uhuru Kenyatta announced a raft of measures to contain Covid-19 starting March 27, 2020, when the country had just confirmed 31 cases and one death. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ These measures, which included a nationwide curfew from 7pm to 5am, have led to job losses, destruction of livelihoods and economic recession. 
+
+The country’s GDP fell 5.7 per cent, compared with a growth of 4.9 per cent in the three months through March 2020, and expansion of 5.3 per cent in the same period a year earlier, according to the Kenya National Bureau of Statistics. 
+
+During the year, healthcare workers went on strike demanding additional staff, allowances and a good working environment. They were also pushing  to be provided with quality personal protective equipment (PPE) at a time the Kenya Medical Supplies Authority (Kemsa) was stuck with Covid-19 PPE stocks worth Sh6.3 billion, which had been purchased at exorbitant prices, allegedly from private companies that were neither pre-qualified nor in the government’s database. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+The consignments were never released to the healthcare workers and the country has since lost at least 30 doctors, 26 nurses and 10 clinical officers to the virus, with more than 2,000 medics contracting the virus. 
+
+The government released Sh17 billion for hiring of an additional 6,000 health workers. Of these, 5,000 would be deployed to counties. 
+
+The counties also got a Sh5 billion conditional grant to bolster the war on the virus. When the country was almost flattening the curve, most counties closed down isolation and intensive care units (ICU). 
+
+The Saturday Nation has established that three counties – Homa Bay, Tana River and Busia – do not have a isolation units and ICUs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As of yesterday, Busia and Tana River had not submitted their situational records to the Council of Governors. 
+
+So far, only 43 counties have submitted the number of ICU and isolation beds to the council, reflecting 493 ICU beds and 10, 698 isolation beds. 
+
+Health Cabinet Secretary Mutahi Kagwe has asked the counties to equip hospitals. Mr Kagwe told the Senate Health Committee yesterday that critically ill patients were being transferred to Nairobi for treatment yet the counties were given money to equip their respective hospitals. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+“We can see the urgency of the isolation centres to reopen, but who is going to work there? The government should extend the medics’ contracts or employ new health care worker,” he said. 
+
+In January, the country was almost flattening the curve. The positivity rate back then stood at 2.6 per cent. By Monday, the rate had jumped to 19 per cent, with experts saying it is now settling at 22 per cent. Confirmed Covid-19 cases were 4,380 in January this year and 15,916 cases by last Sunday. 
+
+“It’s bad. All hospitals in Nairobi are now having a waiting list for ICU and Covid-19 isolation beds with oxygen. Please mask up, take care of yourselves,” said Dr Ahmed Kalebi, the chief consultant pathologist at Lancet Group of Labs. 
+
+“Once the force picks up, it won’t stop until we stop it and every life lost can’t be recovered,” said Dr Githinji Gitahi, the Global CEO of Amref Health Africa. 
+
+The rising cases have forced the President to order partial lockdown of Nairobi, Kajiado, Machakos, Kiambu and Nakuru. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+aoketch@ke.nationmedia.com Measures cause panic among Nairobians as political activities are nipped in the bud. President says he has been compelled by medical and empirical evidence to revise measures issued earlier in March. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed.
