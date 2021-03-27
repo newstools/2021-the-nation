@@ -1,0 +1,475 @@
+Ngong is a town of many contrasts. There’s vibrancy, promise and an almost infinite hunger for expansion. But there’s also lethargy, a hint of indifference and rue. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This town in Kajiado County is a classic case of old money in a contest with new money.  It is, however, a losing contest for old money. 
+
+As owners of new money take charge, flaunting their multi-million investments in the vastness of the sub county, their old money counterparts remain, somewhat, in denial of the hard-hitting reality. 
+
+Among the city’s growing list of satellite towns, none could hold a candle of development to Ngong. From palatial homes to shopping malls, high-end apartment blocks and paved streets, the arc of growth here seems unstoppable. 
+
+Except this development has come at an often too heavy price for residents. 
+
+For children born in Ngong in the late 70, 80s and early 90, theirs was a life of prestige. The majority of them came from wealthy parents who owned large tracts of land. They attended Karen C Primary School in Lang’ata and other schools in Nairobi before joining provincial and national schools. 
+
+At the time, Ngong was unpolluted, hardly crowded and serene. Only a 30-minute drive from the city, it was a paradise, and a secure place to raise children. 
+
+Satellite town 
+
+Today, Ngong is bleeding. This satellite town south of the capital isn’t what it used to be. The toxic mix of greed, parental negligence, poor investment decisions and indulgence has sunk three generations into a pit of alcoholism, drugs and mental illness. 
+
+Men spend their days at rundown cheap liquor dens in Mathare slum in the suburb, in an attempt to minimise the blow of their irreversible ruin. It’s the same scenario in similar hideouts in Matasia and Kiserian, the other two towns in the sub county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Many, overwhelmed by their hard luck, have slumped into depression. Some have even committed suicide. 
+
+But just what went wrong here? What happened to Ngong’s golden generation? 
+
+This reporter has spent several weeks traversing the sub county, talking to residents and researching the history of the area to piece together this conundrum of moral depravity, family disintegration and missed opportunities. 
+
+Our inquiries turned up one consistent conclusion: The majority of those who took this path are children who were born in wealthy families of landowners. Curiously, they never went beyond Standard Eight. 
+
+Enticed by quick money, they sold family land, with neither plan to develop the remainder nor to buy elsewhere. Once they started selling, there was no turning back. 
+
+For many such families today, there’s nothing left to sell. For some, nowhere to live. Some are either squatters on their former land or tenants in Ngong, Matasia and Kiserian towns. To them, it’s a life of destitution, regrets and bitterness. 
+
+As newcomers came, bought land and developed it, the original settlers remained stuck. 
+
+Pay school fees 
+
+George Gathigi, a journalism lecturer at the University of Nairobi, was born and raised in Ngong. His father was among the first buyers of land here in 1966. While his family later sold part of their land, it was to pay school fees for him and his siblings. 
+
+Gathigi narrates: “People who went to school and became professionals had no business selling the land. They had other means of income.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It’s this lack of proper education that shaped the attitude towards wealth for some, selling their only inheritance with reckless abandon. 
+
+Mariah Sudi, who also grew up in Ngong corroborates. ‘‘Land is all some families had. When their parents died, the children sold it immediately. Some were homeless in two years,’’ she recounts. 
+
+While he is intoxicated, Ndung’u Marigi narrates his downfall with startling clarity, only he embellishes it with drunken humour and an occasional pained laughter. 
+
+
+
+
+
+
+John Marigi, 43, in Matasia,Ngong. His father owned 33 acres of land in Kiserian.
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+A cracked upper lip and bloody left ear tell the story of a man who has dealt with life’s hard tackles without much success. I’m meeting him at Base Three in Matasia, where he drinks frequently. 
+
+‘‘My father was polygamous. Our family was the youngest. Dad owned parcels of land in Birika, Kipeto, Ruai and Magadi,’’ Marigi narrates. Without corroboration, his story sounds like fiction at best, a tragedy at worst. 
+
+Having gone up to Standard Eight, Marigi didn’t have much career prospects. But a career wasn’t a preoccupation of his. After all, he had security in land. After sitting his KCPE in 1994, he became a herdsman. 
+
+He relates: ‘‘When my father passed on in 2002, my family got 33 acres.’’ Today, his siblings have sold it nearly to the last plot. 
+
+‘‘My father had left me three donkeys. I was running a small transport business in Ngong and Kiserian.’’ Marigi made enough money to get by. Only he wanted more. ‘‘I sold the animals to tour the country and meet people,’’ he says. Suddenly left without a livelihood, selling his inheritance occurred to him. It’s a decision that would turn his life on the head forever. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+He goes on: “I sold a quarter of an acre for Sh600,000. The money was paid in cash.’’ His head span. It was the most money he had ever seen all his life. “I spent it on travel and have fun with women. I’d be with any woman I desired.” 
+
+Next, he went for an acre-and-three quarters, his entire share. ‘‘The buyer gave me Sh800,000 and promised to pay the rest in instalments.’’ Then began cat-and-mouse games that would last for 10 years. 
+
+“She would send me Sh50,000 and even Sh20,000. Sometimes she gave me 10,000,” Marigi says. No bank was involved and the transactions were done in a huff. But there was no cause for alarm. The buyer was well-known to him. 
+
+With these intermittent payments, the man couldn’t invest. Not that he had any solid investment plan, but the money was spent as soon as it was paid. 
+
+Midway through the narration, his hands and lips start to bumble. He’s now illogical. Noticing his struggle, one of his friends signals a waitress who appears with a 250ml of a clear spirit. 
+
+
+
+
+
+
+Danson Sironka at Matasia Ngong on March 21, 2021.Sironka was born and raised in Ngong, where his family owned land. Most of his siblings sold their land. 
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+He tempers the drink down with water and takes a long swig. His nerves settled, he goes on: ‘‘There are even times when she bought drinks for me. I didn’t know these offers were part of the balance.’’ 
+
+For many residents such as Sudi, it’s both heartbreaking to see her peers suffer in this embarrassing manner and hard to reconcile between the promising children they knew and the adults they have become. 
+
+She says: “In school you knew the kids who were going to become something extraordinary. Not just because of their parents’ money but because of the potential they showed.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But even harder for her is the fact that she sees “a part of me in them”. “I always wonder: what if this was me? It would have taken only a slight wrong turn to plunge into this ruin.’’ 
+
+On average, girls in most families would receive one acre while the boys got five or more. But even with a lesser share, women turned out just fine, Sudi observes. 
+
+“Some became professionals and others started families. The rest moved out to start life elsewhere.” Artist Muthoni Drummer Queen and Protel founder Sarah Migwi are originally from Ngong. 
+
+Still, there are male professionals who didn’t amount to anything worthwhile. They neither left their family homes nor started families. They can’t help their aging parents, and are now wrangling over the remaining pieces of land. 
+
+Inherit land 
+
+Notes Gathigi: “There are instances where the males squandered their family wealth and are now being supported by their sisters,” Gathigi observes. 
+
+“They are just waiting for their parents to die to inherit and sell the land,” Sudi adds. 
+
+In Ngong, it’s been a case of penny wise pound fool. Families who owned less land are faring better than those who had plenty of it. Danson Sironka, 40, says his grandfather owned 21 acres, with several wives. His father got only three acres. By the time he and his nine siblings inherited land from their parents in 2006, each got an eighth of an acre. 
+
+‘‘It’s my age mates who sold their inheritance. Some of them were born after 1985. They are young people who now have nothing to raise family on.’’ 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In the late 90s and early 2000s, the triplet towns of Ngong, Matasia and Kiserian had started to grow as pubs, guest houses, hotels and other businesses mushroomed everywhere. There was also a bust of sex workers. 
+
+‘‘The landowners could indulge in their own backyard, unlike before when they had to travel to Nairobi.’’ Gathigi says. To date, guest houses and pubs, though now overtaken by larger clubs and bars, remain a thriving business in these towns. 
+
+Adjacent to Base Three is Furaha Pub. At this tin tavern, a group of old men has gathered over keg which sells at only Sh50 per mug. A 14’ TV set, too soiled to tell the original colour, is hoisted almost to the roof. An old action movie that no one seems interested in is playing. 
+
+From the jumbled conversations and even more hideous laughter, it’s clear these old-timers know one another all too well. One man is narrating to his thoroughly amused audience how he was nearly shot by a mzungu, demonstrating with his walking stick and nearly toppling over to more laughter. 
+
+“These men belong to the second generation of the original landowners of Ngong,” explains our source. In the audience are retired professionals, including a teacher, and some men who never went to school at all. “Most of them sold their land and now have just enough for their houses,” he adds. 
+
+The men meet here to reminisce about the good old times when they owned land and money. The land and money may be gone, but their camaraderie has stuck on. 
+
+Marigi has removed his hat and is now narrating how he was allegedly defrauded. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“She (the buyer) wouldn’t answer my calls,” he recounts of the woman who has since settled abroad. “I didn’t know Mumbi was a con.” 
+
+The man replaces his glass on the table and quickly covers his face with his coarse hands. 
+
+Claims of fraud involving registrars at the land office abound, where names on title deed have been altered to dispossess rightful owners and heirs. The Nation though couldn’t authenticate these claims. When he speaks again, his voice cracks. “Ngai! (God!),” Marigi exclaims in Gikuyu. “What did I do?” The man is on the verge of tears. It’s end of road for him. It’s been so for more than 10 years now. 
+
+Says he: “I miss the good life I had. But I don’t have money anymore.” All he has is the memory of his car registration number and the title deed serial number, both which he recites like a poem with boyish eagerness, before suddenly grimacing. 
+
+Now he begs to survive. Many others like him in Ngong town, too miserable to be embarrassed, beg as little as Sh10 to buy food and alcohol. 
+
+Psychologist Ken Munyua argues that the modern realities of life have exposed most people’s weaknesses. “We are products of our environment. We make a better or bitter environment depending on our background,” Munyua observes. 
+
+On those who had privilege while growing up, he says: “They can either protect their family image, make it better for their children or squander what their parents owned, and end up badly off than they were brought up.” 
+
+Munyua argues that some children imagine that “they owe their parents a favour by becoming better” in what he terms a narcissistic tendency of entitlement. “They ‘punish’ their parents by choosing to ruin their lives.” Notably, the first generation of residents in Ngong was brought up in an environment of violence and abuse during the colonial times. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Subsequently, their families were broken. Their children, including girls, are now engaging in petty crimes, including drugs and theft. 
+
+Munyua notes: “Some people are driven by anger at their parents. Consequently, they make life bitter for their own children.” It’s a vicious cycle that could affect generations. 
+
+jkgitau@ke.nationmedia.com In the northeastern Shan state, security forces opened fire on university students -- killing at least three. Cabo Delgado has become the new frontier for the disillusioned young men. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
