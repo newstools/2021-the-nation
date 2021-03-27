@@ -1,0 +1,216 @@
+This week marks one year since Covid-19 landed on our shores.  And from the way things are going, you can tell we have been a good host to the virus and it couldn’t have chosen a better country to visit at a time when others were imposing travel restrictions and beating it on sight. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We can blame Magical Kenya for many things, but making Kenya an appealing destination for foreigners with baggage isn’t one of them. 
+
+Foreigners are a god-sent. Apart from a few who have learnt the street language and how to bargain with hawkers selling face masks, the others leave us with good foreign currency to pay off international shylocks breathing down our necks. 
+
+If we don’t fight it for ravaging our lungs and plucking out those we love, we must clobber Covid for helping derail the President’s anti-corruption agenda. 
+
+To be fair to corona, it has given us one year to mop the living room and put the furniture back in its rightful place. 
+
+Daily briefings 
+
+We started well, hiring a new minister for Health in a raft of Afya House changes that made Covid hibernate for a while until Kenyans started creating memes from the daily briefings by Cabinet Secretary Mutahi Kagwe and concluded it was time to pop the champagne. 
+
+We love to marinate government statements with scary words and sprinkle them with threats and intimidation, and, like the mutant ninja we are told it is, Covid has come to sweep us out with what we are being told is the third wave. 
+
+This third wave has thrown the entire country into a tailspin.  Even governors who were supposed to have bought enough surfing gear for it are also begging the President to rescue them. We are yet to hear from the night-runners, they also may have a word to say on how the night curfew has affected their athletic prowess and led them to look for nutritional tips on how to watch their weight. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+You have to pinch yourself watching the daily briefings from Afya House. The government had a one-year goodwill to set up a revolutionary Covid-19 response infrastructure. 
+
+Isolation units 
+
+Our big brothers and tall sisters from the global North even gave us their own money to cover our nakedness so that we don’t become the global laughing stock. 
+
+The President went further to lock some of us up in certain areas. We were forced to monitor our village cows grazing on Google Earth as we waited for governors to build isolation units, meet the President’s pass mark for ICU beds, and tailor home-based care programmes in view of cultural, religious and economic realities in their respective counties. 
+
+One year later, governors are still singing the same hit single of how Kenyans have been watching the dogs eat their Covid homework while they were away launching their 2022 dream teams. They have joined hands with their friends in high places to punish us with suggestions for stricter Covid restrictions, as if leaving us to beg Covid for mercy is not enough humiliation already. 
+
+There is so much cruelty a helpless citizenry can take from their political class. We live in this country, so we know when our leaders are threatening the needle with bad things if it doesn’t go over the thin line separating mutual respect from political abuse. 
+
+If there is any politician in this country who still thinks Covid is a laughing game, Kenyans are asking that you come out, because they just want to talk. 
+
+gabriel.oguda@gmail.com 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
