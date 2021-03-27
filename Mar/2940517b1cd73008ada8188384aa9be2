@@ -1,0 +1,231 @@
+Norman Powell and CJ McCollum each scored 22 points to power the Portland Trail Blazers over host Orlando 112-105 while Domantas Sabonis and Malcolm Brogdon each scored 22 points to lead Indiana over host Dallas 109-94.Harden missed Wednesday's loss at Utah with neck soreness but returned with a vengeance at Detroit, hitting 14-of-30 from the floor, 4-of-11 3-pointers, and 12-of-14 free throws. Washington, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+James Harden delivered game highs of 44 points, 14 rebounds and eight assists Friday to power the Brooklyn Nets over Detroit 113-111 while Boston ended Milwaukee's eight-game NBA win streak. 
+
+Harden missed Wednesday's loss at Utah with neck soreness but returned with a vengeance at Detroit, hitting 14-of-30 from the floor, 4-of-11 3-pointers, and 12-of-14 free throws. 
+
+It was Harden's highest-scoring performance since joining the Nets from Houston, helping Brooklyn improve to 31-15 and making a case for himself as the NBA Most Valuable Player. 
+
+"I feel like I am the MVP. It's just that simple," Harden said. "Let's leave it at that." 
+
+Harden scored 12 of Brooklyn's 15 points in a  key stretch that ended early in the fourth quarter and turned a one-point deficit into a 10-point Nets lead. 
+
+"I just try to go out there and give my teammates every single thing I can bring to the game," Harden said. "I just take what the defense gives me, just play the game the right way and try to be efficient." 
+
+With Kevin Durant and Kyrie Irving missing from the Nets' lineup, Harden has raised his game. 
+
+Also inspired was reserve Blake Griffin, who added 17 points in his return after leaving Detroit for the Nets. 
+
+Jeff Green sank a late 3-pointer and Joe Harris added a free throw with 5.3 seconds to hold off the Pistons. 
+
+Boston's Jayson Tatum scored 34 points and Marcus Smart added 23 to spark the Celtics over host Milwaukee 122-114 after losing 10 of their prior 11 road contests. 
+
+"We played with good purpose, good connectivity," Celtics coach Brad Stevens said. "I thought everybody that played gave us a good lift." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Milwaukee fell to 29-15, falling a game behind Brooklyn into third in the Eastern Conference, while Boston improved to 22-23. 
+
+Khris Middleton had 19 points and Giannis Antetokounmpo added 16 despite being benched in the fourth quarter. 
+
+"They were excellent and we didn't play our best. We weren't as good as them tonight," Bucks coach Mike Budenholzer said. "We didn't play good enough." 
+
+Bahamian big man Deandre Ayton and Chris Paul each scored 19 points and Devin Booker added 16 to spark Phoenix over Toronto 104-100 for a 10th win in 13 contests, the Suns improving to second in the Western Conference at 30-14. 
+
+"It takes a lot of pressure off," Booker said of his teammates' effort. "You don't have to perform at the highest, highest level every night to win games." 
+
+- Jazz win fourth in row - 
+
+Serbian Nikola Jokic scored 37 points and Michael Porter Jr. added 25 to lead the Denver Nuggets to a 113-108 win over the host New Orleans Pelicans despite 39 points by Zion Williamson, who sank 16-of-19 from the floor and 6-of-7 from the free throw line. 
+
+Utah's Donovan Mitchell scored 35 points and French big man Rudy Gobert added 25 points and nine rebounds in a 117-114 home triumph over Memphis. Grizzlies star Ja Morant scored 32 points in a losing cause as the Jazz improved the NBA's best record to 33-11 with a fourth straight victory. 
+
+Norman Powell and CJ McCollum each scored 22 points to power the Portland Trail Blazers over host Orlando 112-105 while Domantas Sabonis and Malcolm Brogdon each scored 22 points to lead Indiana over host Dallas 109-94. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Karl-Anthony Towns had 29 points and 16 rebounds for Minnesota in a 107-101 home victory over Houston. He had 14 points in a game-ending 22-0 run for the Timberwolves after Houston led by 16. 
+
+Charlotte's Malik Monk came off the bench to score a game-high 32 points and lead the Hornets over visiting Miami 110-105. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
