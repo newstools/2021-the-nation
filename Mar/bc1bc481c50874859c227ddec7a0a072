@@ -1,0 +1,82 @@
+The highest run-scorer of all time in both Test matches and one-day internationals, Tendulkar retired in 2013 after playing in 200 Tests, in which he scored 15,921 runs.He took another 18,426 runs in 463 ODIs and hit 100 centuries across both formats. Mumbai, India 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Indian cricket icon Sachin Tendulkar tested positive for Covid-19 on Saturday and said he was in home quarantine in Mumbai with mild symptoms of the disease. 
+
+Tendulkar, who is widely revered as one of the greatest batsmen of all time, confirmed the news on social media. 
+
+"I have been testing myself and taking all the recommended precautions to ensure Covid is kept at bay," he said in a statement. 
+
+"However, I have tested positive today following mild symptoms. All others at home have tested negative. 
+
+"I've quarantined myself at home and am following all the necessary protocols as advised by my doctors." 
+
+
+pic.twitter.com/dOlq7KkM3G— Sachin Tendulkar (@sachin_rt) March 27, 2021  
+
+The 47-year-old recently led India Legends to a title win over Sri Lanka in a Twenty20 exhibition series at home earlier this week. 
+
+The highest run-scorer of all time in both Test matches and one-day internationals, Tendulkar retired in 2013 after playing in 200 Tests, in which he scored 15,921 runs. 
+
+He took another 18,426 runs in 463 ODIs and hit 100 centuries across both formats. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
