@@ -1,0 +1,151 @@
+He exuded confidence that the team will perform well in the 2022 World Cup qualifiers where they have been pooled alongside Uganda, Rwanda and Mali in Group E. Harambee Stars have been dealt a major blow ahead of their final 2021 Africa Cup of Nations (Afcon) Group G tie with Togo in Lome on Monday after midfielder Kenneth Muguna picked an injury. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Harambee Stars coach Jacob “Ghost” Mulee announced the development during the team’s training session at Nyayo National Stadium Friday evening. 
+
+“We will have a few changes in the game because of some factors. Muguna is injured. Then we do not have Johnstone Omurwa because he got a red card in the game (1-1 draw with Egypt on Thursday). Those are two changes we are going to make to the team and see what happens because we do not want to lose the game,” said Mulee, without disclosing the type of injury the Gor Mahia midfielder picked. 
+
+Muguna, 25, was one of the outstanding players in Harambee Stars’ 1-1 draw with the much-fancied Pharaohs of Egypt at Moi International Sports Centre, Kasarani in Nairobi on Thursday in the Group G qualifier. 
+
+He is the third player to be sidelined from the 2021 Afcon qualifiers matches after Eric Kapaito of Kariobangi Sharks and Michael Mutinda of KCB. 
+
+While Kapaito suffered a hamstring injury a day to the Harambee Stars' match against Egypt, Mutinda picked a knee injury during the team's preparation for the friendly matches against South Sudan at Tanzania two weeks ago in Nairobi, which Kenya won 1-0 and 2-1 respectively.  
+
+AFC Leopards utility man Clyde Senaji has been called up to the team. 
+
+Kenya's 1-1 draw with Egypt saw the Pharaohs join Comoros on nine points at the top of the pool, to book tickets for the 2021 Afcon with a match to go. 
+
+Comoros and Togo had battled to a barren draw in the group’s other qualifiers match held earlier on Thursday. As a result, Kenya and Togo, who sit third and fourth with four and two points respectively crashed out of contention for a slot in the Nations Cup finals. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Harambee Stars, who are seeking to finish third in the pool, will fly out for Lome on Saturday and have a feel of the match’s venue on the same day. 
+
+While regretting that his side didn't win the tie against Egypt, Mulee said that he was impressed with the performance of the players who were playing at that top level for the first time. 
+
+“I loved the confidence. I liked how the boys executed our plan. I am happy with most players who got their debut at that level. Somebody like Daniel Sakari playing his first, Abdallah Hassan playing in a big game like this one and they did not show any stage fright. So I would say it is a good beginning for the local players, they need to show that they can do it,” said Mulee. 
+
+He exuded confidence that the team will perform well in the 2022 World Cup qualifiers where they have been pooled alongside Uganda, Rwanda and Mali in Group E. 
+
+“It (performance against Egypt and Togo) gives you a picture of what to expect in the world cup qualifying games... It is not going to be easy, we know those are difficult opponents but looking at how we are building the team, there is a possibility that we can be able to sneak through.” He dedicated the goal to his family. The visitors took a second minute lead through Mohamed Magdy. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
