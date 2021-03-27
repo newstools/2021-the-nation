@@ -1,0 +1,142 @@
+Timbe missed Harambee Stars' 2021 Africa cup of Nations qualifier against Egypt on Thursday and will also be out of the match against Togo on Monday. Kenyan international Ayub Timbe Masika on Friday arrived in Japan nearly one month after joining J1 League side Vissel Kobe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kobe – the home to former Barcelona stars Andres Iniesta and Thomas Vermaelen - announced the arrival of the 28-year-old former Genk, Lierse, Beijing Renhe and Reading player via its social media platforms. 
+
+The announcement signals that Timbe is just days away from making his debut for the Kobe-based side. It accompanied a video of him in a black T-shirt confirming his arrival. 
+
+“He will first go to the J.League bubble before joining the team,” said the club, which is chasing their first-ever J1 League title. 
+
+Timbe missed Harambee Stars' 2021 Africa cup of Nations qualifier against Egypt on Thursday and will also be out of the match against Togo on Monday. 
+
+Timbe, who also holds Belgian citizenship, is believed to have a market value of around Sh65 million. 
+
+He joined Vissel Kobe on March 1 after being without a club for seven months after leaving Renhe in August 2020. 
+
+His last club was Reading in the second half of the 2019-2020 season after joining the English Championship side on loan from Renhe. 
+
+Kobe will face FC Tokyo in a J.League Cup group stage match on March 28 away. They will follow up with league matches against Vegalta Sendai (away) on April 3 and then entertain Oita Trinita (April 7) and Shimizu S-Pulse (April 11). 
+
+Timbe could make his long-awaited debut against Shimizu as all visitors from Belgium are required to quarantine for 14 days upon arrival. 
+
+Reports from Japan said recently that the state of emergency in Greater Tokyo had been lifted on March 22, with various travel restrictions still in place. Breaking the quarantine law in Japan may include a one-year imprisonment or a fine of up to Sh1 million. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
