@@ -1,0 +1,162 @@
+Candidates from terror prone areas in Lamu who are undertaking their Kenya Certificate of Secondary Education (KCSE) exam this year have been assured of adequate security. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lamu County Commissioner Irungu Macharia said adequate security measures have been taken to ensure the exam which kicks off on Monday runs smoothly and uninterrupted. 
+
+Among the candidates who have been assured of their security include those whose schools are located close to the Lamu-Somalia border and Boni forest such as Kiunga, Mkokoni, Kiwayu and other remote areas of Lamu East Sub-County. 
+
+Speaking when he led security and education officials in opening the KCSE exam container situated in front of the Deputy County Commissioner’s Office in Lamu Old Town, Mr Macharia said the county has a total of 30 exam centres with 1,694 candidates sitting for this year's KCSE in the region. 
+
+He said additional security officers have been posted to all sensitive areas, including all exam centers and surrounding areas. 
+
+
+
+
+
+
+
+
+
+
+
+A teacher carrying KCSE exam after collection in Lamu Town
+Photo credit: Kalume Kazungu I Nation Media Group.
+
+ 
+
+He however said the security shall also apply to all other schools and exam centers in the county. 
+
+“We have taken enough security measures to ensure our students whose schools are situated closer to the Lamu-Somalia border are well secured. They have nothing to worry about as they sit their exams. We are confident that exams shall proceed smoothly, and we are good to go,” said Mr Macharia. 
+
+He called on students to adhere to all Covid-19 protocols as they sit their exams. 
+
+“This is not a time for candidates to breach any Covid-19 rule. They should wash hands, wear face masks and keep social distance while doing their KCSE,” said Mr Macharia.  
+
+Similarly, the county commissioner has warned that his office shall not take kindly cases of exam cheating and irregularities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Such acts or plans of exam irregularities will not be tolerated in Lamu. We shall not hesitate to arrest any suspects,” he said. 
+
+Lamu County Education Director Joshua Kaaga advised parents to provide their children with the right environment during the entire period of exams. The State tabled new evidence linking him to Al-Qaeda fighters in Mozambique. Candidates from various secondary schools were admitted in various hospitals after developing labour pains The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
