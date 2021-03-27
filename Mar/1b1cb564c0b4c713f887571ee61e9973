@@ -1,0 +1,77 @@
+The number of confirmed Covid-19 cases in Africa has reached 4,154,938 as of Friday, the Africa Centers for Disease Control and Prevention (Africa CDC) said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Africa CDC, the specialized healthcare agency of the African Union (AU), said the death toll related to the pandemic stood at 111,318, while 3,723,621 patients across the continent have recovered from the disease. 
+
+South Africa has lost 52,535 lives to Covid-19, the most among African countries, followed by Egypt, at 11,768, and Morocco, at 8,788, according to the Africa CDC. 
+
+Southern Africa is the most affected region in terms of confirmed cases, followed by the northern Africa and eastern Africa regions. 
+
+Central Africa is the least affected African region in terms of confirmed Covid-19 cases. 
+
+Five countries account for about 65 percent of all cases reported in Africa. These five African countries are South Africa, Morocco, Tunisia, Egypt and Ethiopia. 
+
+According to the Africa CDC, the African continent accounts for 4.1 percent of total Covid-19 cases reported globally. 
+
+Deaths related to Covid-19 in Africa account for about 4 per cent of the global toll, the Africa CDC said on Thursday. Zimbabwean President urges residents to shun vaccination hesitancy and negative conspiracy theories. Kolelas died in medical aircraft which had gone to pick him from Brazzaville. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
