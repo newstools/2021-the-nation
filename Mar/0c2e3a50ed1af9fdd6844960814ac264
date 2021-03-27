@@ -1,0 +1,231 @@
+In September last year, the Sports CS Amina Mohamed announced a gradual return of sports activities under strict protocols, starting with non-contact sports, private fitness clubs and gymnasium sessions.The protocols included operational guidelines and preventive measures aimed at keeping sportsmen and fans safe during the phased reopening.In November, Amina allowed the return of contact sports including judo, boxing, karate, wrestling, rugby, football, hockey, netball and basketball within strict guidelines that included testing of athletes. Friday evening's order by President Uhuru Kenyatta that indefinitely suspended all sporting activities in Kenya has again left the industry staring at a crisis. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a nutshell, the announcement means thousands of athletes, most of whom are youthful, are staring at a loss of income just when local sporting activities were starting to pick up. 
+
+Also set to be adversely affected are a number of stakeholders including coaches, referees and sports administrators. 
+
+In his address to the nation from State House, Nairobi, Kenyatta explained that the new measures were necessary so as to avert a health crisis due to the rapid rise of positive Covid-19 cases in the country. 
+
+"All sporting activities in the country are hereby suspended. Similarly, operations of sporting and recreational facilities including member clubs are suspended until further notice," President Kenyatta said in his address. 
+
+Among the athletes affected by Friday’s announcement include more than 1,500 footballers who compete in both the Football Kenya Federation (FKF) Premier League and the second-tier National Super League (NSL). 
+
+The matches in these competitions are played across the country mostly during weekends and most of the players are professionals who earn salaries and allowances at the end of each month. 
+
+"I can only hope the measures (suspension) do not last long," observed Nairobi City Stars striker Nicholas Kipkurui. 
+
+"The reasons for the suspension are understandable but our income is important." 
+
+The announcement by President Kenyatta comes at a time when some Kenyan footballers and rugby players have tested positive for Covid-19. 
+
+Footballers in the top-flight league were tested at the start of the season in November but those joining national teams in camp are regularly tested. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the suspension of sporting activities is not expected to affect Kenya’s dead-rubber 2021 Africa Cup of Nations qualifier match against Togo in Lome on Monday. The team leaves for the West African nation Saturday in a charter flight. 
+
+Other sports activities affected are the Kenya Volleyball Federation (KVF) men and women’s league matches which only returned in January after a year-long break. Teams have only played three rounds of fixtures. 
+
+Also affected are Team Kenya’s preparations for the rescheduled 2020 Tokyo Olympics set for Japan between July 23 and August 8.  
+
+Kenya is preparing to send a strong contingent featuring middle and long-distance runners, the women’s national volleyball team, the men and women’s national rugby teams, and a boxing squad. 
+
+Most of these teams have commenced training in readiness for the quadrennial championship. 
+
+At the same time, Kenya Cup rugby, the national athletics trials for the World Relay Championships, and local rallying activities have also been affected. 
+
+"The Kenya Rugby Union hereby suspends the Kenya Cup league until further notice. We regret any conveniences caused," a statement by the rugby federation sent out Friday evening read in part. 
+
+The Kenya Motor Sports Club has also cancelled the KCB Machakos Rally which had been planned for this weekend. KMSC cited unforeseeable circumstances as the reason for the cancellation. 
+
+This is the second time President Kenyatta is suspending sports activities in the country.  In March last year, the government issued a blanket ban on sporting activities that lasted six months.  Afterwards, the government gave a Sh10,000 stipend to selected athletes to cushion them against the adverse effects of the pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In September last year, the Sports CS Amina Mohamed announced a gradual return of sports activities under strict protocols, starting with non-contact sports, private fitness clubs and gymnasium sessions. 
+
+The protocols included operational guidelines and preventive measures aimed at keeping sportsmen and fans safe during the phased reopening. 
+
+In November, Amina allowed the return of contact sports including judo, boxing, karate, wrestling, rugby, football, hockey, netball and basketball within strict guidelines that included testing of athletes. The move is part of concerted efforts by the government to curb the spread of coronavirus. Several matches have been postponed this season after some players tested positive for Covid-19. The country has been battling to bring a deadly surge in new Covid cases under control. As President Uhuru Kenyatta tightened Covid-19 restrictions yesterday, many had hoped that the worst had passed. Surging cases have seen daily deaths from Covid-19 increase, as health facilities struggle to admit those in severe condition.
