@@ -1,0 +1,169 @@
+From the cases 1,954 are Kenyans while 54 are foreigners.Males account for 1,090 of these cases while 918 are females. The Ministry of Health on Friday announced that 2,008 people tested positive for Covid-19 from a sample size of 11,360 tested in the last 24 hours, taking the total confirmed infections to 128,178 with a positivity rate of 17.7 per cent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From the cases 1,954 are Kenyans while 54 are foreigners. Males account for 1,090 of these cases while 918 are females. The youngest is a one-year-old child while the oldest is 94. 
+
+Health Cabinet Secretary Mutahi Kagwe also announced that 245 patients have recovered from the disease, of whom 165 are from the home-based and isolation care while 80 are from various health facilities. The total recoveries in the country now stand at 91,513. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+Meanwhile, six more patients have succumbed to the virus in the last 24 hours, pushing the cumulative fatalities in the country to 2,098. 
+
+A total of 1,192 patients are currently admitted to various health facilities countrywide, while 3,777 patients are on home-based isolation and care. 
+
+Patients in ICU 
+
+There are also 124 patients in the ICU, 37 of whom are on ventilatory support and 78 on supplemental oxygen. Nine patients are on observation. 
+
+Another 81 patients are separately on supplementary oxygen with 68 of them general wards and 13 in the High Dependency Unit (HDU). 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+Nairobi, with 1,071 cases, recorded the highest number of new infections, followed by Nakuru 189, Kiambu 105, Machakos 84, Mombasa 76, Uasin Gishu 64, Kitui 54, Kisumu 41, Meru 34, Tharaka Nithi 31, Kajiado 26, Kakamega 25, Murang’a 25, Garissa 24, Makueni 21 and Baringo 20. 
+
+Other new cases were reported in Nyandarua 15, Trans Nzoia 14, Nandi 13, Kilifi 13, Nyeri 12, Turkana 11, Kericho 6, Laikipia 6, Busia 5, Embu 4, Bungoma 3, Migori 3, Taita Taveta 3, Kisii 2, Siaya 2, Kwale 1, Marsabit 1, Narok 1, Bomet 1, Elgeyo Marakwet 1 and Kirinyaga 1.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. The Ministry of Health has reported 1,463 new cases of Covid-19 in Kenya with the latest cases being from 8,976 samples tested in the last 24 hours.
+The new cases have pushed the total confirmed... The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
