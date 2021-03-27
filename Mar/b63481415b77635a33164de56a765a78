@@ -1,0 +1,161 @@
+Homa Bay County has 343 KCSE exams centres with 23,491 registered candidates including 10,850 girls.In Migori, four candidates started their exams in maternity wards after delivering on the examination eve. At least ten KCSE candidates in Homa Bay and Migori counties started their national exams on Friday from hospital beds after delivering. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The candidates from various secondary schools were admitted in various hospitals after developing labour pains moments before the exams started on Friday. 
+
+Homa Bay County Commissioner Moses Lilan said arrangements were made to ensure all the candidates sit for the test, even in hospital. 
+
+“The government insisted that every candidate must sit for the exams whether in school or not. All the female candidates started their exams while admitted in hospital,” Lilan said on Friday. 
+
+Affected candidates 
+
+Homa Bay County has 343 KCSE exams centres with 23,491 registered candidates including 10,850 girls. 
+
+In Migori, four candidates started their exams in maternity wards after delivering on the examination eve. 
+
+Suna East Sub County and Kuria East Sub counties had two cases each. 
+
+Speaking during the opening of examination containers at Suna East Sub County headquarters, deputy Sub County Commissioner Mr Kibe Maguta said the affected candidates would be given ample time to take their examinations without any hitches. 
+
+Exam cheating 
+
+“All candidates will take their examinations as planned. Those with special conditions will be monitored closely and given the necessary assistance,” he said in reference to the lactating candidates.  
+
+Migori County Commissioner Mr Boaz Cherutich had earlier reiterated that adequate preparations had been made to ensure that no cases of exam cheating were witnessed in this year’s examinations. 
+
+Mr Rotich, who spoke to the Nation at his office on Thursday evening, said enough security personnel have been deployed in all the 298 examination centers in the county while ensuring smooth running of the exercise. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Lilan said security and education officials are on high alert to ensure the integrity of the exams is protected. 
+
+Credibility of exams 
+
+Education Cabinet Secretary Prof George Magoha has indicated that Homa Bay is an exams cheating hotspot. 
+
+In Homa Bay, Mr Lilan said neighboring counties like Kisii have had a history of exam malpractice.  
+
+He said the negative reports from Kisii is what makes Homa Bay to fall in the list of areas where candidates can collude to cheat in exams. 
+
+“We have made arrangements with security and education officers from other counties to ensure the credibility of the exams is protected in the region. Any attempt of cheating will be dealt with accordingly,” the county commissioner said. More than 700,000 candidates write their final secondary school examinations. Education CS says any centre found to engage in unethical practices will face stern action. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Murang'a senator says he is recovering at home after a week of hospitalisation. Officials say they can’t turn away those who want the vaccine because groups prioritised for the drug are reluctant.
