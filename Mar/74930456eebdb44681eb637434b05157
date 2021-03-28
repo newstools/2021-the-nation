@@ -1,0 +1,153 @@
+She reported the matter at Bungoma Police Station and later, Bungoma South OCS Moses Munywoki intervened by leading a break-in. Police in Bungoma South have rescued two children who were locked inside a rental house for hours by a disgruntled landlady. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The children aged three and 10 spent five hours in the house on Friday, until their mother, a salonist, returned at about 5pm. 
+
+The mother said she did not expect a landlady well known to her to resort to such an action. 
+
+“When I came back, I found the doors to my rented house welded by unknown people. Reports indicated that my landlady accompanied welders from Kanduyi market to this place and did this to my children,” she said. 
+
+She explained that her rent payment was delayed by tough economic times but that she had promised to pay before the end of the weekend. 
+
+Police vow action 
+
+The mother identified the landlady as Catherine Malaba, widow of Kabuchai politician Tale Nabangi. 
+
+She reported the matter at Bungoma Police Station and later, Bungoma South OCS Moses Munywoki intervened by leading a break-in and rescuing the children from the house in Mewa estate within Kanduyi. 
+
+“This is inhumane. She could have employed other techniques or asked the tenant to move. Welding the doors with children inside is criminal,” said Mr Munywoki. 
+
+“What if a fire broke out in this house? How would the children have been saved?” 
+
+He said a case will be opened against the landlady for disregarding human rights laws. 
+
+“This is wrong. We will not take this matter lightly so that it serves a lesson to other heartless house owners. We will not allow this to continue taking place.” 
+
+Residents condemned the act, saying police should take stern action against the woman. 
+
+Police launched a search for the landlady. She neither answered phone calls nor messages sent to her by the Nation, requesting her comment on the matter. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+bojamaa@ke.nationmedia.com The girls' mother had failed to pay a three months house rent. After winning a court case against her landlord, only trouble has followed Rahama Alio Harrow. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
