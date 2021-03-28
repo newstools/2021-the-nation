@@ -1,0 +1,171 @@
+Regarding vaccination, the ministry said personnel are being trained across the country and that the programme will run through the weekend. Kenya on Saturday recorded 1,152 new Covid-19 infections, from a sample of 8,397 analysed within a day, raising the total number of confirmed cases to 129,330. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Health Cabinet Secretary Mutahi Kagwe, while announcing a positivity rate of 13.7 per cent, said all but 59 of the patients were Kenyans. 
+
+The youngest was nine months old and the oldest 92, while 569 were male and 583 female. 
+
+As of Saturday, the country had tested 1,463,458 samples for the disease, since confirming its first infection on March 13, 2020. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+The new infections were recorded in Nairobi (458), Nakuru (139), Kiambu (93), Machakos (50) and Kajiado (48), counties which have been grouped into one zone and declared "disease infested" by President Uhuru Kenyatta. 
+
+Mombasa County followed with 47 cases, Turkana 43, Kisumu 27, Garissa and Kericho 22 each, Kilifi 21, Bungoma 20, Laikipia 18, Nyandarua and Tharaka Nithi 16 each, and Kitui and Siaya 12 each. 
+
+And then came Nyamira and Meru counties with 12 new cases each, Narok 11, Uasin Gishu and Bomet eight each, Busia and Taita Taveta six each, Nyeri and Kakamega five each, Kisii four, Makueni and Murang'a two each, and Mandera, Samburu, West Pokot, Homa Bay and Isiolo one each. 
+
+CS Kagwe further announced six more deaths, all of them late reports from the audit of facility records, raising the death toll in Kenya to 2,104. 
+
+The country's number of recovered patients grew by 152 to 91,665, the ministry said, adding 59 had been in the home-based care programme while 93 had been hospitalised. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+As of Saturday, 1,212 patients had been admitted to health facilities across the country while 3,885 were under home-based isolation and care. 
+
+Of those in hospital, 124 were under intensive care, 32 of them on ventilatory support, 85 on supplemental oxygen and seven under observation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Another 86 patients were also on supplemental oxygen, but in the general wards (76) and high dependency units (10). 
+
+Regarding vaccination, the ministry said personnel are being trained across the country and that the programme will run through the weekend since more people are expected to take the jab. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs. Here's what we know about them and what this implies for the Covid-19 pandemic. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
