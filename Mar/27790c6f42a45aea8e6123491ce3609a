@@ -1,0 +1,301 @@
+Most of those injured in Friday's crash that occurred in the Tahta district of southern Sohag province suffered fractures. Tahta, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egypt buried the dead Saturday from a train collision that killed at least 19 people and injured 185, according to a revised toll, as investigators probed the country's latest deadly rail crash. 
+
+Health Minister Hala Zayed told reporters that an initial toll of 32 killed in Friday's crash was revised down, while the number of injured rose from 165. 
+
+"After we honed in on the details of those killed and injured... at this moment there are 185 injured and 19 corpses and three bags of body parts," Zayed said, without giving further details. 
+
+Surveillance camera footage of the accident seen by AFP showed a speeding train barrelling into another as it rolled slowly down the tracks, sending a carriage hurtling into the air in a cloud of dust. 
+
+Most of those injured in Friday's crash that occurred in the Tahta district of southern Sohag province suffered fractures. 
+
+The first victims were laid to rest early on Saturday with small groups of family and friends in attendance as residents, who appeared mistrustful of outsiders, kept the media at bay. 
+
+Other burials were expected to take place following mid-day Muslim prayers, an AFP reporter said. 
+
+President Abdel Fattah al-Sisi pledged tough punishment for those responsible for the crash, the latest in a series of rail accidents to plague Egypt. Such incidents are generally attributed to poor infrastructure and maintenance. 
+
+Transport challenge 
+
+It came as the most populous Arab nation struggles with another major transport challenge -- a giant container ship blocking the Suez Canal, a vital shipping lane for international trade. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Early on Saturday Egypt was again struck by tragedy when a building collapsed in the capital Cairo, killing at least five people and injuring 24 others, according to officials. 
+
+At the scene of the rail disaster, technicians worked through Friday evening to remove five dislocated and damaged carriages. By morning the crash area was cleared of twisted metal and debris. 
+
+Rail traffic also resumed ahead of the burials. 
+
+Witnesses and survivors recounted horrifying scenes. 
+
+"We were at the mosque then a child came and told us (about the incident). We heard the collision, so we rushed and found the carnage," said a 59-year-old man speaking on condition of anonymity. 
+
+The first ambulances to reach the scene arrived "around half an hour" after the crash, he said. 
+
+"There were children who removed (debris) using wooden ladders," added the witness, who spent the day helping rescue workers. 
+
+One train was travelling between the southern city of Luxor and Alexandria on the Mediterranean coast, and the other between the southern city of Aswan and Cairo. 
+
+Kamel Nagi, a 20-year-old conscript, was on the Cairo-bound train after enjoying a few days of leave. 
+
+"Our train suddenly stopped and a quarter of an hour later, the second arrived and struck us," said Nagi, who suffered multiple broken bones. 
+
+"I saw it coming, screamed, then found myself on the ground in great pain," he said from his hospital bed as a nurse gave him an injection to alleviate his pain. 
+
+Investigation launched 
+
+Authorities opened an investigation to determine the circumstances of the accident, while the rail authority blamed the crash on unidentified passengers who "activated emergency brakes" in one train. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The prosecution said it would interrogate several rail employees, including the two train drivers, their assistants and the signalman. 
+
+They will also have to undergo drug testing and their mobile phones have been seized by the authorities to examine their call logs, it added. 
+
+But media reports on Saturday claimed both train drivers had died of injuries sustained in the crash. 
+
+The rail authority said one train hit the last carriage of the other, causing at least two carriages to overturn between the stations of Maragha and Tahta. 
+
+Prime Minister Mostafa Madbouli said the government will disburse 100,000 Egyptian pounds (around $6,400) to each family who lost a loved one and between 20,000-40,000 to those injured. 
+
+The government has spent "hundreds of billions of pounds" to upgrade the railway system over the past four years, he said, acknowledging that the network "has suffered from decades of negligence". 
+
+Egypt's railway network is one of the oldest in Africa and the Middle East and improving it "will take time", Madbouli told reporters Friday after visiting the crash site. 
+
+"Until then accidents like this can happen," he said, adding that efforts to upgrade the system have been hampered by the coronavirus pandemic which has delayed deals with foreign firms. 
+
+One of the deadliest Egyptian train crashes came in 2002, when 373 people died as a fire ripped through a crowded train south of Cairo. 
+
+Skepticism 
+
+Nicholas Monday Aswani, a medic and tech entrepreneur based in the US, says he is skeptical about getting the jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“To be honest, I am against taking that shot. If it were totally up to me, I wouldn't. I am concerned it hasn't been properly developed given the short duration of manufacture.” 
+
+Dr Aswani notes that vaccines usually undergo extensive testing before their efficacy is determined. He feels Covid-19 vaccines have been rushed due to anticipated monetary benefits. 
+
+"In total, five competing vaccines are available here, among them Moderna, AstraZeneca and Pfizer, but the CDC recommends Pfizer and Moderna. This begs the question - what about the others?” 
+
+Dr Aswani says news on adverse reactions in some people amplifies his skepticism. 
+
+"I am worried I might be forced to take it just so I can travel - my favorite pastime activity. A few countries are already beating the drums for a Covid-19 passport so I might reluctantly get the shot for travel purposes," he says. Deadly train accidents in recent years have been widely blamed on inadequate infrastructure. The "mechanical failure" hit service from New Delhi to Tanakpur, after the driver slammed on the brakes to avoid hitting an animal on the tracks. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
