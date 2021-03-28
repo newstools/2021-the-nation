@@ -1,0 +1,145 @@
+The price of fuel in Kenya is the highest it has been in nine years, spurring public uproar in the wake of the third wave of the Covid-19 pandemic. The time that economic activity is allowed has been understandably limited by the curfew to limit disease transmission. However, skyrocketing fuel prices have many asking what is being gained by robbing already struggling Kenyans. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tax and levies alone have contributed to more than 40 per cent of the fuel price of kerosene, petrol and diesel. The Energy and Petroleum Regulation Authority (Epra) has been unable to sufficiently justify the increase to Kenyans. 
+
+There is increased agitation that the attendant high cost of electricity, manufacturing and distribution of goods, will make local produce uncompetitive, further pushing out the few firms that had managed to hold on through 2020 and forcing undue reliance on imports. 
+
+This will affect the price of food, mostly for the poor, because they have to spend a disproportionate amount of already overcommitted incomes on food. Export competitiveness will also be affected, as several exporters will be put out of business. This will mostly be felt by their employees and suppliers, who will likely find themselves without jobs. 
+
+Travel fares 
+
+There will also be an increase in travel fares, which will have the effect of limiting the expanding ride-hailing and boda boda industry. These prices will drastically cut the profits that those operators have been using to pay off loans used to purchase their cars and motorbikes, as fewer people will be able to access these services. Furthermore, this will also increase the incidence of smuggled and black market fuel, which is not subject to quality control and can thus be adulterated. 
+
+The cost of fuel is central to the economy, especially in these difficult times. It should never be decided in a significant way by the free market, especially in a country intending to catalyse its economic development. The existence of laws, policies and regulatory agencies like Epra is allegedly in the public interest. Therefore, Kenyans are well within their right to question why Epra is forcing them to advocate for themselves. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There are people whose job it is to spend their working hours figuring out how to share the cost of fuel more fairly, even considering the volatility in global prices, as well as in the prices of foreign exchange. Why aren’t they doing this? It is dangerous to leave this advocacy in the hands of politicians, instead of being a core government function. 
+
+The already increasing cost of living and inflation are such controversial issues. Making them negotiable conversations is a disaster waiting to happen. 
+
+Energy equity is central to the wellbeing of Kenyans. It is essentially a social, political and economic responsibility for all duty bearers to make sure that access to these basic aspects of living is protected on the people’s behalf at all times, especially in the journey to recovery from the first year of Covid-19. 
+
+okoreschea@gmail.com A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
