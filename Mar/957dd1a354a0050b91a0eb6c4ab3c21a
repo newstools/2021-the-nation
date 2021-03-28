@@ -1,0 +1,153 @@
+In Nakuru County, for instance, public transport vehicles ferrying passengers to Nairobi raised fares from the usual Sh600 to between Sh2000 and Sh3,000. Matatu operators hiking fares following the lockdown of five counties over the Covid-19 pandemic will be arrested, Rift Valley Regional Coordinator George Natembeya has warned. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Natembeya noted Saturday that the pandemic has greatly affected everybody in the country, so there is no need to harass commuters. 
+
+“What has changed between Nakuru and Nairobi that can necessitate an increase of fares? We are going to arrest all those taking advantage of the situation to siphon money from commuters,” he said. 
+
+“Hiking fares is extremely baffling. Every time the government announces new restrictions to contain the spread of Covid-19, some public transport operators take advantage and increase fares. This is unacceptable. The government will deal firmly with PSV operators trying to cash in on the new regulations.” 
+
+A day after President Uhuru Kenyatta issued new directives specifically targeted at Nakuru, Kajiado, Nairobi, Kiambu and Machakos counties, travellers have taken a hit. 
+
+In Nakuru County, for instance, public transport vehicles ferrying passengers to Nairobi raised fares from the usual Sh600 to between Sh2000 and Sh3,000. 
+
+The move prompted Mr Natembeya to issue a stern warning against public service vehicle saccos including Likana, 4NT, 2NK, Mololine, Crossland and Molo Group. 
+
+Business people affected 
+
+Also hit by the president's new directives are civil servants and business people who work in Nyandarua, Baringo, Narok and Kericho County, but live in Nakuru. 
+
+"I was restricted from entering Nyahururu town in Laikipia on Saturday morning. I opted to live in Nakuru because of the cold weather in Nyahururu. I hope this harassment by security officers will stop because the business I operate in Nyahururu feeds my family," said John Maina, a resident of Nakuru, who runs a mini-supermarket in Nyahururu town. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Nakuru,which borders about eight counties, security officers have erected  nine roadblocks manned round-the-clock since early Saturday morning. 
+
+Mr Natembeya said more roadblocks will be erected to enforce other security and Covid-19 containment measures. 
+
+"I take this opportunity to issue a stern warning against those who will flout the lockdown restrictions. Culprits will face the full force of the law," he said. 
+
+The administrator also warned police against accepting bribes to allow people to flout the containment measures, saying they will face immediate disciplinary action. 
+
+ematara@ke.nationmedia.com Measures cause panic among Nairobians as political activities are nipped in the bud. The country has been battling to bring a deadly surge in new Covid cases under control. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
