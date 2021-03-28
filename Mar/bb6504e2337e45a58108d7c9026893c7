@@ -1,0 +1,85 @@
+Antananarivo 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Madagascar's long-time former leader Didier Ratsiraka, a naval officer and instigator of a socialist revolution on the Indian Ocean island, died Sunday morning aged 84, president Andry Rajoelina announced. 
+
+"The Malagasy have lost an illustrious patriot," Rajoelina posted on Twitter. 
+
+The cause of the death was not immediately disclosed.  
+
+Ratsiraka was in power from 1975 until 1991 and returned for another stint from 1997 to 2002. 
+
+When he first came to power, he practised a form of Marxism and had close ties with North Korea's Kim Il Sung, Cuba's Fidel Castro and the Kremlin. 
+
+Presidential elections 
+
+In January 2002, Ratsiraka's rival, Antananarivo mayor and entrepreneur Marc Ravalomanana, sent his supporters into the streets claiming victory in the first round of presidential elections held in December 2001. 
+
+Ravalomanana refused to organise a second round of voting, while Ratsiraka declined to concede defeat, plunging the country into seven months of violence and chaos. 
+
+The impasse split the nation in two — with two capitals, two governments, and a divided army — until Ravalomanana was officially proclaimed president in April 2002 and sworn in on May 6, with Ratsiraka still disputing the result. 
+
+The following July, Ratsiraka fled into exile in France where he remained for 11 years, returning home in 2013. 
+
+In 2003, Ratsiraka was sentenced in absentia to hard labour, five years in jail for threatening state security and 10 years for embezzling public funds. Prospects for a deal to end Madagascar’s political crisis looked grim today after a former leader refused to negotiate unless President Andry Rajoelina stepped aside. Madagascar's feuding leaders said on Sunday they had agreed a power-sharing deal and would hold elections on the giant Indian Ocean island within 15 months. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
