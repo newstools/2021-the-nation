@@ -1,0 +1,167 @@
+Kenyan troops in Somalia have received the first dose of the Covid-19 vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is part of the ongoing vaccination that started with senior officers at the Defence headquarters in Nairobi. 
+
+It is also part of the government’s efforts to ensure essential workers, including troops deployed under the African Union Mission in Somalia (Amisom), are protected against the deadly pandemic. 
+
+The Kenya Defence Forces (KDF) on Saturday said on its social media pages that the exercise was launched by its Director of Medical Services Major Gen (Dr) George Ng'ang'a. 
+
+The Covid-19 vaccination exercise for Sector II was conducted at the headquarters in Dhobley. 
+
+"This is part of the ongoing Phase 1 of the national immunisation programme in the fight against Covid-19," said KDF in the post on Saturday. 
+
+Healthy force 
+
+Speaking during the launch of the vaccination, Dr Ng'ang'a urged all the KDF personnel to take part in the immunisation in order to boost the efforts of fighting the pandemic and at the same time have a healthy force, which is critical to serving the nation. 
+
+"Let us all embrace prevention mechanisms rather than opting for the curative ones. The KDF leadership has led by example by participating in the vaccination drive and we have not recorded any side effects, therefore, I assure our troops that the vaccine is safe," said Maj Gen Ng'ang'a. 
+
+He further urged the troops to continue observing the World Health Organisation (WHO) protocols on the containment of the spread of Covid-19. 
+
+"We must not drop our guard. We must stick to the protocols issued on containing the spread of the virus by maintaining social distance, wearing masks, washing and sanitising our hands. That will keep us safe," said Maj Gen (Dr) Ng'ang'a. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sector II Commander, Brigadier Jeff Nyaga, led the troops in receiving the jab. 
+
+The Deputy Sector II Commander Colonel Pascal Kitiro was the second person to take the jab, followed by senior officers and service members based in Dhobley. 
+
+The jab is a morale booster as the soldiers keep a watch on terrorists in war-torn Somalia. 
+
+UN staff 
+
+Other than the troops, the civilians working for the United Nations based at the Sector II Headquarters were also inoculated. 
+
+Defence Cabinet Secretary Monica Juma earlier this month took part in the ongoing Covid-19 vaccination at the Defence Headquarters in Nairobi. 
+
+She was accompanied by the Cabinet Secretary for Public Service and Gender Margaret Kobia, who appreciated the sacrifice of the security personnel and medics. 
+
+Dr Juma urged all to continue observing the set health protocols. 
+
+"Wear a mask, sanitise, wash your hands and keep social distance even after receiving the vaccine," said Dr Juma. 
+
+ 
+
+fmureithi@ke.nationmedia.com This is part of the government’s efforts to ensure essential workers are protected against the deadly pandemic. Kahawa and Embakasi barracks may be placed under lockdown after several officers tested positive. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
