@@ -1,0 +1,237 @@
+Verstappen clocked a best lap in one minute and 28.997 seconds to outpace Hamilton by 0.338 seconds with Valtteri Bottas third in the second MercedesEncouraged by his early speed, Hamilton chose a set of worn tyres for his second run while Verstappen rued some damage to his car after running over a kerbBottas led the train ahead of Hamilton for the final run, but neither could stop Verstappen who delivered an emphatic final flying lap Sakhir, Bahrain 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Max Verstappen claimed pole position for Sunday's season-opening Bahrain Grand Prix with a flawless final lap in a tense qualifying session on Saturday, beating defending champion Lewis Hamilton by three-tenths of a second. 
+
+The Dutchman grabbed the fourth pole position of his career for Red Bull with an emphatic demonstration of speed to deliver a front row start alongside seven-time champion Hamilton in his Mercedes. 
+
+Verstappen clocked a best lap in one minute and 28.997 seconds to outpace Hamilton by 0.338 seconds with Valtteri Bottas third in the second Mercedes. 
+
+Charles Leclerc was fourth for Ferrari ahead of Pierre Gasly of AlphaTauri and the McLarens of Daniel Ricciardo and Lando Norris. 
+
+Carlos Sainz was eighth in the second Ferrari ahead of two-time champion Fernando Alonso, on his return to F1 with the Alpine team, and Lance Stroll, who was 10th for Aston Martin. 
+
+Stroll's new team-mate four-time champion Sebastian Vettel struggled and qualified 18th, failing to make it out of Q1. 
+
+"Of course, we had a great test last week, but there are no guarantees here," said a smiling Verstappen. 
+
+"The car worked really well and it was enjoyable to drive. It's a great start."Hamilton, who showed much-improved speed compared to the pre-season test, congratulated his rival. 
+
+"He was so fast on that last lap. I gave it everything, but it wasn't enough."There is always more, but that was the best I could do in getting it out of my car." 
+
+Verstappen said he felt confident in the long run performance of his car. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I am looking forward to the race. I've got a good car and just hope for a good clean start. I'll keep on pushing." 
+
+Usual suspects 
+
+After a hot day at the Bahrain International Circuit, the track temperature was 35 degrees and the air was 30 as the floodlit session began with George Russell of Williams leading the way. 
+
+He pitted immediately without logging a time and it was left to Mick Schumacher to take that honour, in the process putting the letters MSC on top of the lists for the first time since his father seven-time champion Michael retired in 2012. 
+
+The usual suspects were soon joining in with Hamilton and then Verstappen going top before Japanese rookie Yuki Tsunoda split them in his AlphaTauri to take second with an impressive lap. 
+
+At 20, the feisty Tsunoda is the first driver born this century to race in F1 and he made an immediate impact. 
+
+Encouraged by his early speed, Hamilton chose a set of worn tyres for his second run while Verstappen rued some damage to his car after running over a kerb. 
+
+At the top it remained unchanged, but there was a shock among those taking an early exit with Vettel eliminated in 18th along with Alpine's Esteban Ocon, Williams' Nicholas Latifi, and the Haas pairing of rookies Schumacher and Nikita Mazepin. 
+
+Maranello new boy Sainz squeezed through in P15, but his engine cut out as he limped back to the pits before Q2 began with the leaders running on mediums. 
+
+Hamilton topped the first runs with a three-tenths advantage on Verstappen ahead of Bottas while Red Bull's Sergio Perez and Ricciardo, still adjusting to their new teams and cars, lost their laps by running off at Turn Four. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The second runs saw Ferrari, choosing to run on softs, sweep to the front with Leclerc and then Sainz going fastest, ahead of Hamilton, Norris and Bottas on mediums. 
+
+The Ferrari pair represented Ferrari's youngest line-up since 1968 and have clearly reinvigorated the Italian team. 
+
+Verstappen secured his place in the top-ten shootout in seventh, but Perez missed the cut in 11th. Tsunoda qualified 13th. 
+
+Q3 began with Gasly setting the pace before Hamilton went top until Verstappen, hunting him down, beat his time by just 0.023 seconds. Bottas was fourth behind Gasly and Sainz fifth. 
+
+Bottas led the train ahead of Hamilton for the final run, but neither could stop Verstappen who delivered an emphatic final flying lap. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
