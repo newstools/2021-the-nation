@@ -1,0 +1,144 @@
+The death toll rose by 13 to 2,117, CS Kagwe said, explaining that two occurred in the last 24 hours while 11 were late death reports from the audit of facility records. Kenya Covid-19 positivity rate on Sunday stood at 16.4 per cent, the Health ministry said, announcing 884 new infections from a sample of 5,377 analysed in the past 24 hours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The coronavirus was first confirmed in Wuhan, China, on December 31, 2019 and in Kenya on March 13, 2020. 
+
+By Sunday, the country had confirmed 130,214 cases and tested a total of 1,468,835 samples for the disease. 
+
+Of the 884 new patients, 843 were Kenyans and 41 foreigners living in the country, 464 female and 420 male, the youngest a year old and the oldest 110. 
+
+Nairobi accounted for 509 of the cases, Kiambu 99, Uasin Gishu 59, Machakos 48, Nakuru 46, Kajiado 38, Meru 13, Kitui 12, Nandi 11, Kilifi nine, and Elgeyo Marakwet and Marsabit five each. 
+
+And then came Bungoma with four, Murang’a and Vihiga three each, Kakamega, Laikipia, Nyandarua, Taita Taveta, Wajir and West Pokot two each, and Turkana, Baringo, Lamu, Migori, Mombasa, Garissa, Nyeri and Homa Bay one each. 
+
+The death toll rose by 13 to 2,117, CS Kagwe said, explaining that two occurred in the last 24 hours while 11 were late death reports from the audit of facility records. 
+
+The number of recovered patients increased by 89 to 91,754. Fifty seven of these patients were treated at home and 32 in hospital. 
+
+CS Kagwe further said 1,221 patients had been hospitalised by Sunday, 121 of them under intensive care. Of those in ICU, 32 were on ventilatory support, 82 on supplemental oxygen and seven under observation. 
+
+Eight eight other patients were separately on supplemental oxygen, 76 of them in general wards and 12 in high dependency units. 
+
+The number of patients in the home-based care programme stood at 4,060. 
+
+ambuthia@ke.nationmedia.com 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} While Ministry of Health officials say they are unaware of any clearance to import Sputnik V, letters by Pharmacy and Poisons Board show early approvals. Six Kenyans explain how they feel after being injected with the Oxford AstraZeneca vaccine. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
