@@ -1,0 +1,443 @@
+President Uhuru Kenyatta yesterday tightened Covid-19 control measures to contain a third wave of the virus that is spreading like bushfire prohibiting movement in and out of Nairobi Metropolis and Nakuru County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For the five counties (Nairobi, Machakos, Kiambu, Kajiado and Nakuru), now jointly referred to as a disease-infested area, life will not be the same again as businesses must shut earlier than before. The head of state ordered the security agencies to enforce the order to the letter. 
+
+The counties, Mr Kenyatta noted, account for 70 per cent of the reported Covid-19 cases in the country. The presidential address, which caught many Kenyans unawares happened one year after he partially locked down the country when the first cases of infection were reported. 
+
+Explaining the sudden spike, the president said that in January, an average of 20 Kenyans were in intensive care, needing oxygen, but the number went up to just under 30 persons in February. 
+
+“Since my address on March 12, over 950 Kenyans were in ICU wards for Covid-related complications. This confirms the fact that a third wave of Covid-19 is at hand in Kenya. The positivity rate is at its highest since the pandemic hit us; the death rate is devastating by all measures; and the stress the pandemic is placing on our health system is unparalleled,” he said. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uhuru's full Covid-19 address
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+ “According to our health experts, our third wave began to gain momentum at the beginning of March. This wave is expected to peak in the next 30 days with more than 2,500 to 3,000 cases reported daily. Based on experience, this peak will flatten only by Mid-May 2021, which is about 60 days from now.” 
+
+Curfew 
+
+Other than increasing the curfew period by two hours, now starting at 8pm instead of 10pm to 4am, Mr Kenyatta also banned gatherings in places of worship in the zoned area. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“All in-person and congregational worship in all places of worship  stand suspended until otherwise notified,” he said, clarifying that faithful in the other 42 counties are at liberty to do physical worship but adhere to the safety measures set by the Health ministry. 
+
+Coming a week to the Easter weekend and with the Holy Month of Ramadhan soon after, the president set out, with adviser from experts, to rein in potential super spreaders as many had planned to travel upcountry and holiday destinations. 
+
+Not even the Cabinet was spared. Only the National Security Council is allowed to conduct physical meetings. 
+
+But National Assembly clerk Michael Sialai sought to clarify last evening that President had not suspended Parliament but asked the two Speakers to consider adjourning. 
+
+“The National Assembly will meet next Tuesday to consider the motion of adjournment among other urgent business. Members will travel to Parliament next week to transact the said business and despite the cessation of movement, will travel without hindrance,” he said. 
+
+President Kenyatta also suspended the sale of alcohol in restaurants and eateries in the five counties until further notice, allowing only takeaway orders. 
+
+“The operations of bars, restaurants and eateries in the other counties shall continue, but they shall at all times be conducted in strict fidelity to Ministry of Health guidelines, failure to which appropriate action against management, staff, patrons, and premises shall be taken,” Mr Kenyatta ordered. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He said that on March 12, 7,630 Kenyans had been admitted to hospitals, up from 4,990. 
+
+“In 13 days only, our admission rate increased by 52 per cent.” 
+
+National exams 
+
+Save for those sitting national examinations and those in medical training institutions, the President also ordered suspension of physical learning in schools and tertiary institutions and all sporting activities. 
+
+“Similarly, operations of sporting and recreational facilities including members clubs are suspended until it is otherwise directed. 
+
+He particularly implored the youth, violators of the health protocols to take care of the elderly who are more susceptible to the deadly virus. 
+
+“The disease is here and it kills. I know it is not a pleasant thing when it looks like your freedom is being curtailed but I urge the youth to persevere for it is only for a short period. The measures are temporary and necessary,” Mr Kenyatta said. 
+
+Parents welcomed the decision to order closure of entertainment joints and prohibit the sale of alcohol. National Association of Parents Nicolas Maiyo said:  “When the clubs were closed in January, the positivity rate was low.” 
+
+Citing cases of abuse by those initially allowed to travel during curfew hours for offering essential services, the president vacated passes and asked the ministries of Interior and Health to review the protocols for reissuance. 
+
+The economy which, is already limping, will take a further beating from the new measures. The hospitality sector, for instance, has borne the brunt of Covid-19 and all indications are that this is not about to end. Bar and hotel operators have been struggling for more than a year now with massive loss of incomes in all sectors of the economy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“I am convinced that the cost of not acting now would be far greater. In moments like this, as a caring government, it is our solemn duty and cardinal responsibility to protect life above all else. One life lost is one too many. Our thoughts and prayers are with the families of those who have succumbed to this disease,” Mr Kenyatta said. 
+
+Mr Kenyatta’s update came a day after his South African counterpart Cyril Ramaphosa instituted similar steps to deal with the disease that has not spared any country in the globe. 
+
+In Germany, parliament voted four days ago to lock down the country during the Easter to curb the spread of the pandemic. 
+
+The fact that the outlined measures will be in place until such a time the president is convinced that the prevalence is contained brings to a halt all political activities. 
+
+Other than sending MPs on a recess, political rallies, which have considerably contributed to the high rates of infections, cease. 
+
+But even significantly, the planned referendum to change the Constitution may not take place as had been earlier projected. 
+
+The promoters of the Building Bridges Initiative (BBI) had said the country would go for a plebiscite in June but from all the indications, this is now a tall order. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+And in what further entrenches working from home and virtual engagements, the head of state directed that employees other than those offering essential services that require physical presence from public and private sector to work from home until such a time that the infections will have subsided. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Public transport operators are expected to uphold the re-designated 60 per cent carrying capacity. 
+
+“The County Emergency Response Committees are directed to enforce implementation of infection prevention control measures in markets—such as hand washing stations; while also ensuring that all sellers and buyers must be fully masked and maintain physical distance.” 
+
+The Judiciary and correctional facilities were not spared either, as the president asked them to eliminate non-essential physical contact or situations within their areas of mandate that may lead to crowding or propagation of the disease. 
+
+Hospitals will have to limit the number of visitors  to two per patient. 
+
+“All physical meetings or events including social gatherings shall have a cap of no more than 15 persons until further notified. In regard to funerals, cremations and other interment ceremonies, it is directed that these ceremonies shall be conducted strictly within 72 hours of confirmation of death,” the president ordered. 
+
+The number of those attending funerals has been capped at 50 and  other social gatherings like weddings at 30. 
+
+International travel will however continue but in accordance with the existing guidelines. Those coming into the country will need to show proof that they have not had Covid-19 no more than 96 hours prior to arrival into the country,  “with the PCR Certificate also having been validated under the trusted travel platform for those travelling by air.” 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+
+ 
+
+The president’s measures caused panic, with passengers travelling from Eldoret to Nakuru and Nairobi jamming bus termini to beat the lockdown expected to commence at midnight. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+ Most of the passengers who spoke to the Saturday Nation said they did not have plans to travel but had been forced to travel after the pronouncement of the partial lock down. 
+
+ “I have been forced to travel today due to a lockdown announced” said Ann Nyokabi, travelling to Nakuru from Eldoret. 
+
+ Matatu owners said they should have given until April to prepare for the changes. 
+
+Due to high demand of travelling matatus increased fares by more than 100 per cent. 
+
+Airlines such as Jambojet increased flights between Nairobi and Mombasa to cater for the urgent travel. 
+
+Captain Gilbert Kibe, Director General of the Kenya Civil Aviation Authority, said domestic flights will continue to operate until Monday noon. 
+
+“Operations of aircraft shall be allowed until the stated deadline, and thereafter cease any movements,” he said. 
+
+Kenya Railways, on its part, unannounced it would release a new schedule for the Madaraka Express. 
+
+jwanga@ke.nationmedia.com President says he has been compelled by medical and empirical evidence to revise measures issued earlier in March. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
