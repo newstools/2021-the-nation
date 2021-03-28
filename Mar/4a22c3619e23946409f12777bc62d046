@@ -1,0 +1,134 @@
+There has been widespread concern over the shrinking of green spaces in Nairobi. Most recently, there was uproar over the construction of a raised highway. This resulted in the felling of hundreds of trees, though protests managed to save one 100-year-old fig tree. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was also proposed that part of the highway run through Uhuru Park – one of the city’s few recreational parks. Protests successfully diverted the highway to the outskirts, but development still threatens the city’s undeveloped spaces. 
+
+Between 1976 and 2000, Nairobi’s forest cover went from 14 per cent to 3 per cent. Bushland cover was also reduced from 22 per cent to 13 per cent. This will impact the city’s wildlife and livestock. As green spaces are lost, native wildlife and bird species can dwindle and non-native species proliferate. 
+
+Competition between invasive and endemic species has grown, to the detriment of native biodiversity. Species – many of which play important roles in ecosystems such as fruit bats, primates and pollinators – are lost. And as the ecological landscape becomes less diverse, wildlife species that co-exist with humans – such as rats, scavenging and seed-eating birds (synanthropes) – thrive, particularly in the poorer, most densely populated areas. 
+
+This is troubling because evidence suggests that synanthropes host more germs and could pass diseases on to people and make them sick. These are called “zoonotic diseases” and range from minor short-term illness to major life-changing illness and even death. 
+
+Urban development policymakers must recognise that by shrinking green spaces, they increase the likelihood that people will catch zoonotic diseases. 
+
+Eric Fèvre is a professor of veterinary infectious diseases, University of Liverpool; James Hassell is a wildlife veterinarian with Smithsonian’s Global Health Programme. ©The Conversation 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
