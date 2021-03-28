@@ -1,0 +1,348 @@
+How is KenInvest helping counties to be mega investment hubs?  Hassan Malik Mohamed, Garissa County 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Counties are teeming with attractive investment opportunities and therefore have what it takes to be mega hubs but the opportunities have to be systematically identified and packaged. The government, through KenInvest, launched the Kenya Investment Policy (KIP) in 2019 to address investors’ concerns relating to tedious investment processes, lengthy dispute resolution timelines, inadequate information on investment opportunities and procedures, among others. KIP is a comprehensive and harmonised policy to guide attraction, facilitation, retention, monitoring and evaluation of private investment. 
+
+There are other ways in which KenInvest is working with the counties to boost investment hubs, including by encouraging and advising them to set up explicit and effective County Investment Units (CUIS) which will act like “mini KenInvest”, advising counties on how to identify and package investment opportunities and market their investment opportunities to local and international investors . 
+
+What is the authority doing to create a better investment environment for young people? Komen Moris, Eldoret 
+
+We have developed a concept known as “Investing Made Easy Business Clinics,” that aims at helping aspiring entrepreneurs and startups walk their investment journeys from idea generation, packaging to implementation. Moreover, KenInvest has always involved MSMEs in investment forums, conferences as well as business-to-business meetings and offered linkage opportunities both nationally and internationally in collaboration with local and development partners. The national government has further bolstered the support for MSMEs by putting in place Biashara Centres, an infrastructure that is meant to provide a one-stop centre experience for MSMEs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Isn’t it time to merge KenInvest with other State institutions that have more or less similar mandates? I have in mind Kenya Tourism Board, Kentrade and Brand Kenya. Masai Mandela 
+
+ A Presidential Task Force on Parastatal Reforms was established with the responsibility of interrogating the policies on the management and governance of Kenya’s parastatals and how best they would contribute to national development. 
+
+ One of the recommendations of the taskforce was to merge key government agencies with mandates to promote exports, investment and tourism. The amalgamation of those entities was expected to play a significant role in building the capacity of Kenya’s export products, tourism and investment portfolio to the world market thereby contributing to the country brand and economic growth. So far, two of the initially targeted institutions have already been merged, the Export Promotion Council and Brand Kenya Board. 
+
+While mergers can deliver enhanced efficiency and effectiveness, it is necessary but not sufficient. Ireland for example, has two government agencies doing what KenInvest is doing. One of them focuses on foreign direct investment and the other one domestic investment. Each of them has more than five times the staffing level KenInvest has, and a much larger budget. 
+
+The outcome is that out of every 100 multinationals, at least 80 have a presence in Dublin. Thus, with or without merger, critical factors for success are adequate budget and also an institutional architecture that ensures effective coordination of institutions relevant for delivery of each mandate. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The high cost of doing business in Kenya has been cited as one of the major reasons that scares foreign investors. What should be done to check on this trend? Dan Murugu, Nakuru 
+
+The high cost of doing business is a genuine concern. However, the issue remains a top priority for the government and progress is being made to resolve it. Moreover, the country has other factors helping to compensate for the relatively higher costs in some of the areas. Kenya has a market-based economy and is the economic, commercial, and logistics hub of East and Central Africa. With the strongest industrial base in the region, and much higher labour productivity compared to many other countries, Kenya has been successful in attracting multinationals. The average annual FDI inflow into our country around year 2000-2002 was $0.4 billion. Ten years later, around 2010-2012, this had grown to $1 billion and further to $1.4 billion around 2017-2019. 
+
+Because of the importance of land as a factor of production to all investors, the government has set up a number of Export Processing Zones and Special Economic Zones where the government undertakes infrastructure development to attract investors by reducing the cost of land. Further, the zones are also linked with key transport infrastructure like roads and railway. 
+
+Local investors face a myriad of challenges including lack of capital, technical support, market, poor prices for their goods and services, flooding of counterfeits and unfair competition by foreign investors. Can the government help them overcome these challenges? Dan Murugu, Nakuru 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The government has prioritised elimination of counterfeits and has deployed a multi-agency approach to deal with the menace. Since the establishment of this team working closely with the Anti-Counterfeit Agency (ACA), the reported cases of illicit goods entering the country has greatly reduced. 
+
+Regarding competition being faced by smaller segments of the business sector, innovative programmes such as preferential procurement by government agencies in favour of enterprises ran by women, youth and people living with disability, promotion of local content and Buy Kenya Build Kenya (BKBK), and identification of almost 200 categories of products that will be promoted domestically, are evidence of supporting public policy. 
+
+It is disappointing that KenInvest still tells investors to rely on a 2013 Regulation of Wages Order when so much has changed in the economy. This could be abused by investors to exploit Kenyan workers. What is your take on this? Susan Amondi, Ngong’ 
+
+The government, as required by the Labour Institutions Act, 2007, publishes the Regulation of Wages Order that sets out minimum wages. Investors tend to add a premium of 20 per cent to this. One of the labour market reforms that the government has sought to achieve over time is to remove market rigidities and other impediments to employment creation. 
+
+Specifically, the government has been aiming to align wage determination to labour productivity. Kenya’s industrial relations machinery provides for collective bargaining between employers and trade unions. The agreements have staggered long-term contracts, conditions of employment, fringe benefits and union membership drives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Nevertheless, Kenya ranks quite highly globally (top 60-70) on labour market flexibility and this, combined with high labour productivity and work culture, enhances our attractiveness to investors. In my opinion, we have a reasonable balance where there are structures to guard against exploitation of workers while also providing labour market flexibility for investors to cope with changing business realities. 
+
+What are you doing to ease procedures of obtaining licences and other documents related to investment by foreigners who intend to come to Kenya? Shariff Mohamed, Thika Town 
+
+The government has set up a One Stop Centre (OSC) at KenInvest with the following agencies under one roof: National Environmental Management Authority; Export Processing Zones Authority; Special Zones Authority; Department of Immigration; Kenya Revenue Authority; Business Registration Services and Kenya Power. This is to help reduce costs of establishing new investment. 
+
+How are you helping small enterprises to navigate the Covid-19 disruption? Davis Basweti Ombane, Juja 
+
+At the height of the pandemic, we played our role by contributing to the design of economic stimulus packages and the Covid-19 Response Guides that were crucial in assisting businesses to navigate the pandemic period. Moreover, a number of counties have partnered with KenInvest to generate Post-Covid Recovery Strategies and Implementation Plans, economic blueprints that seek to position MSMEs on the path of economic recovery. 
+
+What investment opportunities have you marketed in the past five years and what has been the response both from internal and external investors? Virginia Nthenya, Nairobi 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+From 2016-2020, KenInvest has been able to facilitate 1,089 projects with proposed foreign capital investment worth Sh470.39 billion and local capital investment worth Sh116.26 billion. The proposed investment has the potential to create employment to 67,580 Kenyans. 
+
+The investments were mainly in construction, manufacturing, energy, services, wholesale and retail trade, tourism, agriculture and education. It is not professional to mention specific companies without their consent. SMEs say increased levies in the past year have driven up the cost of doing business. Interest-free loans, digitisation and training among steps Kepsa took to cushion business women during Covid period Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent.
+o President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
