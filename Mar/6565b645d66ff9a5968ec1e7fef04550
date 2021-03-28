@@ -1,0 +1,231 @@
+After Lorna Irungu passed on this week, I watched an outpouring of love on social media.Not just the usual platitudes, but heartfelt loss and sincere appreciation from the multitudes she had interacted with. First hide from your own shadowThen, you may cry.Turn down all the lampsThen, you may cry. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+What do most of us do when we suffer adversity? We spread it around. We offload. We look for our nearest and dearest and our kith and kin, and even complete strangers, to complain about our lives and their myriad challenges. 
+
+This, we are told, is good for us, to talk out our tribulations with others so that they may make soothing noises. 
+
+But a few people, a precious few, are not like that. 
+
+The lines above are my translation from a ghazal - a lyrical poem - written by Nisar Tareen Jazib. It popped up on my music player randomly earlier this week, and I thought about it for long. The next day its meaning became clear when I learned that Lorna Irungu-Macharia had sundered her earthly ties. 
+
+Most Kenyans know Lorna’s story. She shot to fame in the nineties as a very young stage and television personality, popular for her bubbly and irresistible nature. 
+
+Then her world changed. She was diagnosed with a severe disorder and spent decades in one form of medical treatment after another, including multiple transplants and many, many nights spent in critical-care wards. The possibility of a regular life seemed proscribed for her. 
+
+Laughter and good cheer 
+
+And yet. In those years of affliction she continued her media career, became a communications expert and adviser, the CEO of a well-known firm, and mentored and coached a generation of people. 
+
+I got to know her well when she joined the leadership programme I founded. She lit up the class every day; yet when the lamps were turned down she often faced more discomfort than most of us can bear. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I interviewed her four years ago (you can see it on YouTube). The vicissitudes of her health meant we had to film twice after she could not make it on the first date. The discussion focused on setbacks in life, and she shared quite openly her myriad challenges and her readiness to give up at different times in the journey. 
+
+There is something very unusual about that interview though. In spite of the topic, and in spite of her running ailment behind the scenes, Lorna’s answers are all framed in laughter and good cheer.  
+
+It left me thinking for days: that we should all be inspired by those who do not think they need to add to the gloom in the world. The rain beats them without respite; yet they part the clouds for others. The interview exhausted her, but when she left the team to return to bed and recover, she left with a wave and a smile and a hearty message to all. 
+
+After Lorna passed on this week, I watched an outpouring of love on social media. Not just the usual platitudes, but heartfelt loss and sincere appreciation from the multitudes she had interacted with. 
+
+Honour Lorna 
+
+I have rarely seen so many personal testimonies flowing in like a cascade, of people of all ages and walks of life, mentored and encouraged and touched by her. She did not invite us to feel sorry for her; she inspired us to do more with our own advantages. 
+
+It was not a long life, but it was a very big one. 
+
+An observation to mark Lorna’s passing. All lives are troubled; all lives are subject to twists of fate and unexpected setbacks; all are fragile. Some lives, however, are expended in complaining about this truth; a few are lived to the fullest, regardless, without unnecessary complaint and fuss, and with no desire to pass personal burdens on to others. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lorna had more generosity for the people she met in her short life than those who are given good health and many more years. 
+
+That was the Lorna I knew. I am fortunate to have known a few other people just like her. They too were about smiles and positivity and blessings. These folks all felt despair, make no mistake. They all had dark days. But they turned the lamps down before crying. Their pain was their own; their goodwill was for all. 
+
+The bigger deal of life is to let go of the expectation that we are owed anything. We are not entitled to good health and auspicious fortune and the kindnesses of others. Those are gifts, and if we do not view them as such, we will spend our days bitter about what we did not get. 
+
+If you wish to honour Lorna, spend the rest of today not complaining about anything. See the gifts, not their lack. 
+
+www.sunwords.com We must also measure you by the continuity you created. We become better only be facing ourselves and accepting our limitations. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
