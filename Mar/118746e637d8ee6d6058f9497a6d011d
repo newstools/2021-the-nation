@@ -1,0 +1,85 @@
+The incident comes two weeks after Tanzanian Maimuna Jumanne Amir was apprehended at the Moi International Airport after she was found with 5.3 kg of heroin worth Sh15 million. Detectives in Mombasa County on Saturday arrested a suspected drug trafficker after finding him with 678 grammes of heroin worth Sh2 million. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Juma Mohamed Mwanyota alias Mwachulo was arrested at the Likoni crossing as he prepared to move from the island to the mainland. 
+
+A report at Central Police Station says the suspect was to deliver the consignment in Likoni. 
+
+He will be arraigned at the Mombasa Law Courts on Monday, police say. 
+
+The incident comes two weeks after Tanzanian Maimuna Jumanne Amir was apprehended at the Moi International Airport after she was found with 5.3 kg of heroin worth Sh15 million. 
+
+Detectives have been investigating the new drug trafficking route from Johannesburg in South Africa, through Addis Ababa in Ethiopia, and then to Moi International Airport, which the suspect used. 
+
+As part of the fights against the drugs menace, Parliament is pushing for the passing of the Narcotics, Drug and Psychotropic Substance Control (Amendment) Bill. 
+
+The Bill will help untangle the Coast region from the stranglehold of a menace that has gripped it for decades and attracted threats from drug barons, according to some Coast leaders. 
+
+It says that a person outside Kenya, who conspires with another in the country in the illicit trade, is liable, upon conviction, to a fine of not less than Sh100 million and life imprisonment. 
+
+The person will be deemed as having committed the offence in Kenya. 
+
+Enforcement officers, who will aid or abet offences including colluding with drug dealers will be fined up to Sh20 million or jailed for at least 20 years, the Bill says. 
+
+mahmed@ke.nationmedia.com Ms Jumanne Maimuna Amir will be detained at Port Police Station in Mombasa. It turns out that Covid-19 restrictions have closed supply routes, making it harder to move drugs. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
