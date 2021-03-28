@@ -1,0 +1,229 @@
+Tendering for the verification of vehicles and other goods coming into Kenya is living up to its billing as one of the most contested procurement processes after it was stopped for a second time due to an appeal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dr Charles Nzai, through his company Five Blocks Enterprises Ltd, filed for a review about 24 hours before the deadline for submission of bids on Wednesday.In the first instance, the university don through his firm blocked the tender from proceeding three days to the deadline. 
+
+In an application filed on March 23, Dr Nzai says the Kenya Bureau of Standards (Kebs) failed to follow an order by the Public Procurement Administrative Review Board (PPARB) that it, among others, unbundles the tender into lots and awards it to several bidders. 
+
+Between February 2018 and September 2020, the bulk of car imports to Kenya were from Japan. Kenyans obtained 200,429 vehicles from that country.This was followed by the UK, which exported 7,884 vehicles to Kenya, the United Arab Emirates (1,809), while Thailand exported 1,755. 
+
+Other countries on the list are Singapore (1,150 vehicles), Australia (903) and 841 from South Africa.The order by the board would have meant that bidders separately compete for each of the seven key markets instead of lumping them into one. 
+
+Kebbs 
+
+The applicant says the award can only be made to one bidder yet Kebs wants a multiplicity of pre-export verification inspectors. 
+
+The other option, according to PPARB, was to design the process as international framework tenders to allow bidders to have partners in the various markets. 
+
+“It is an offence according to the Public Procurement and Asset Disposal Act, 2015, to contravene a lawful order of the review board, whether deliberately or out of ignorance,” the application for review says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to Five Blocks Enterprises, Kebs did not challenge the earlier ruling of the board “and therefore cannot depart from the orders therein”.“For that matter, the orders of the board stand final and binding to the parties to the review, including the procuring entity,” the application reads. 
+
+Tractors and bulldozers 
+
+Under Section 168 of Public Procurement and Asset Disposal Act, 2015, procurement proceedings automatically stop as soon as an appeal is lodged with the board until it is dispensed with.The opening of the bids that was to be on March 24 was suspended “until the appeal is finalised”. 
+
+In the earlier rulings, PPARB found that Kebs “breached the provisions of section 158 of the Act, read together with section 157 (8) and rule 164 of Regulations 2020 for failure to provide for a margin of preference in the tender document”. 
+
+“Further, the board has established that the tender document does not provide for financial evaluation criteria in compliance with regulation 77 of Regulations 2020, noting the procuring entity’s failure to provide in its financial evaluation criteria how it shall apply any margin of preference in the subject tender in accordance with Regulation 77 (2) (d) of the 2020 Regulations,” the board said. 
+
+Kebs was also faulted for having failed to “expressly indicate in the  invitation to tender its intention to establish a framework agreement, the number of suppliers or contractors, the evaluation criteria and an estimate of the total volume or scope of work to be undertaken for the duration of the framework agreement in compliance with regulation 102 (1) of Regulations 2020.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As such, the board directed Kebs to extend the bidding by 14 days, which was to elapse on March 24.The standards agency advertised the tenders for the provision of pre-export verification of conformity for used motor vehicles, spare parts and other goods on January 19.The original closing date of February 10 was extended to February 25. 
+
+With the PPARB decision, the bidding was extended to March 24. 
+
+The pending application for review means the procurement will stretch into early May, by which time the contracts of the companies currently given the work would have expired.For many years, tenders for pre-export verification of motor vehicles and other goods destined for Kenya has often attracted intense bidder rivalry because of the fees the successful companies charge to conduct the inspections. 
+
+Politicians have been accused of having interest in some of the bidding companies, thus heightening the lobbying for the lucrative tenders.A company that wins the tender generates nearly Sh1.5 billion annually, with the contract running for three years. 
+
+Between February 2018 and September 2020, Kenyans imported 214,771 vehicles.These included tractors, bulldozers and other off-road vehicles, according to the Kebs invitation to tender document. 
+
+By inspecting the 214,771 vehicles the firms that won the provision of pre-export verification of conformity contract earned $34.3 million (Sh3.7 billion), from which Kebs received at least Sh1.3 billion in royalties. 
+
+wmenya@ke.nationmedia.com The Kenya Bureau of Standards is tasked with ensuring that goods Kenyans consume meet basic quality and safety requirements The agency is tasked with ensuring goods Kenyans consume meet basic quality and safety requirements Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
