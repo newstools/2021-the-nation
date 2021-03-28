@@ -1,0 +1,289 @@
+During a speech at the parade, junta leader General Min Aung Hlaing once again defended the coup and pledged to yield power after new elections. Naypyidaw, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Myanmar security forces killed at least 19 protesters on Saturday, witnesses said, in violent crackdowns on demonstrations across the country as the military regime staged a major show of force for its annual Armed Forces Day parade. 
+
+The nation has been in turmoil since the generals ousted and detained civilian leader Aung San Suu Kyi in February, triggering a major uprising demanding a return to democracy. 
+
+The country's capital Naypyidaw saw a grand parade of troops and military vehicles in the morning, with a speech by junta leader Min Aung Hlaing warning that acts of so-called "terrorism" were unacceptable. 
+
+By afternoon, as protesters continued to come out across Myanmar, AFP verified at least 19 people were killed -- though local media put the death toll at far higher. 
+
+The embassies of both the European Union and the United Kingdom condemned the bloodshed. 
+
+Violence erupted all over the central Mandalay region as security forces opened fire at protesters, killing at least nine in four different cities -- one of them a doctor in Wundwin and a 14-year-old girl in Meiktila, according to rescue workers on the ground. 
+
+"Four men were brought to us dead," an emergency worker from Mandalay city, Myanmar's second largest, told AFP, as she frantically tried to treat dozens of injured. 
+
+A protester in Myingyan, who witnessed a man killed when he was shot in the neck, said the death toll will likely grow as security forces have continued shooting across his city. 
+
+"Today is like a revolution day for us." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Terror and dishonor” 
+
+In the northeastern Shan state, security forces opened fire on university students -- killing at least three -- while in the tourist city of Bagan, a march through ancient pagodas turned into mayhem when one protesting tour guide was shot dead. 
+
+"This 76th Myanmar Armed Forces day will stay engraved as a day of terror and dishonour," the European Union delegation in Yangon said on social media on Saturday evening. 
+
+"The killing of unarmed civilians, including children, are indefensible acts." 
+
+Former colonial power Britain also blasted security forces as having "disgraced themselves by shooting unarmed civilians". 
+
+Saturday's bloodshed adds to the current toll of nearly 330 killed in demonstrations against the coup, according to the Assistance Association for Political Prisoners monitoring group. 
+
+Across Yangon, plumes of smoke rose above the former capital which has emerged as a hotspot for unrest in recent weeks. 
+
+An overnight gathering in front of a police station in the city's south -- where demonstrators called for the release of their friends -- became violent around midnight, and the shooting only stopped around 4:00 am, said a resident. 
+
+At least five died, one of them a 20-year-old boy in her neighbourhood whose funeral she will attend. 
+
+"The conditions on the ground is very scary," she told AFP. 
+
+A baby playing on the street in a northern Yangon township was hit in the eye with a rubber bullet when police opened fire at nearby protesters. She was rushed to the hospital by her parents. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Junta leader’s pledge 
+
+Further north near the notorious Insein prison, a pre-dawn rally -- which had protesters wearing bicycle helmets and shielded by sandbag barricades -- devolved into chaos when soldiers started shooting. 
+
+At least one was killed -- a 21-year-old police officer, Chit Lin Thu, who had joined the anti-coup movement. 
+
+"He was shot in the head and died at home," his father Joseph told AFP. 
+
+"I am extremely sad for him, but at the same time, I am proud of my son". 
+
+During a speech at the parade, junta leader General Min Aung Hlaing once again defended the coup and pledged to yield power after new elections. 
+
+But he also issued another threat to the anti-coup movement that has gripped the country since he took charge, warning that acts of "terrorism which can be harmful to state tranquillity and security" were unacceptable. 
+
+"The democracy we desire would be an undisciplined one if they pay no respect to and violate the law," he said. 
+
+Armed Forces Day commemorates the start of local resistance to the Japanese occupation during World War II, and usually accompanies a military parade attended by foreign officers and diplomats. 
+
+The junta announced that eight international delegations attended Saturday's event, including China and Russia -- with state media broadcasting Russian deputy defence minister Alexander Fomin in the audience. 
+
+According to Russian news agency Interfax, the defence ministry announced that Russian-made military equipment -- tanks, fighter jets, and helicopters -- were included in the parade. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+A group of ousted parliamentarians working underground against the junta -- The Committee Representing Pyidaungsu Hluttaw (CRPH), the Burmese word for "parliament" -- condemned the show of might after a bloody seven weeks. 
+
+"We should not allow these military generals to celebrate after they killed our brothers and sisters," said its UN special envoy, who goes by the moniker Dr Sasa. More than 2,600 people have been arrested and 250 killed since the February 1 coup. UN Security Council members are demanding an urgent return to democracy in Myanmar. A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
