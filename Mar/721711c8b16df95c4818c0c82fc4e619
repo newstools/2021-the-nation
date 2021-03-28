@@ -1,0 +1,311 @@
+Recently, 44 county assemblies approved the Constitution of Kenya (Amendment) Bill, 2020, under Article 257(6) and (7) of the Constitution for onward transmission to Parliament. Article 257(8) stipulates that a constitutional proposal under the popular initiative, that is one originating from the people is passed by Parliament if supported by a majority of each house of Parliament. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, specially entrenched constitutional clauses whether under an Article 256 parliamentary initiative or by ordinary citizens through a popular initiative must be subjected to a referendum. Although many BBI constitutional proposals may not necessarily require a referendum, citizens have been sensitised to expect a referendum. 
+
+After the Bill’s arrival at Parliament, the two relevant committees decided to work together so as to save time. The joint committee has carried out public participation on the BBI constitutional Bill but is yet to table its report for debate and decision-making. 
+
+What huddles? 
+
+Its leadership pleaded for more time so as to consult experts on some complex issues and conclude the report. Some members of Parliament are uncomfortable with discharging a ceremonial role in the current constitutional review. The committee was given 10 days within which to complete and table the report. 
+
+What, therefore, are the hurdles that seem to derail the BBI train? Are they of a legal, political or other nature? 
+
+Some legislators reason that the public participation carried out by the joint committee must have meaning. They rely on Articles 1(1), 10(2) and 118(1) (b) of the Constitution among other provisions. They argue public participation is a pathway for people to exercise their sovereign power; participation of the people is a cardinal national value and principle; and according to Article 118(1)(b) “Parliament shall facilitate public participation and involvement in the legislative and other business of Parliament and its committees.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Citizens’ views 
+
+This cluster of legislators also pin-points that citizens raised concerns before the county assemblies which they wanted addressed. These concerned law-makers contend that citizens’ reservations must be given a hearing since for meaningful popular participation to occur, citizens’ views must influence the Bill. This sentiment, it is observed, was expressed by G V Odunga J, in the Gakuru Case (2016), where he held: “In my view, public participation ought to be real and not illusory and ought not to be treated as a mere formality …” 
+
+A counter group of legislators argues that the Constitution of Kenya (Amendment) Bill is the product of a popular initiative; it is ab initio the result of an elaborate, people-centered public participation process. As a result, any additional public enquiries carried out by the county assemblies and Parliament should not alter the constitutional Bill, but rather be used to authenticate the original citizens’ input as supported by their signatures. To these legislators, any alteration of the BBI Bill would render it, and the process so far, null and void. 
+
+Seemingly, Parliament is divided on whether it has leg room to alter the BBI constitutional Bill or not. The Kenya Law Reform Commission has advised that the role of Parliament under Article 257 is to pass the Bill as is, apart from correcting typos and minor errors. 
+
+It is further argued that the Article 257 (8) language of “passed by Parliament” merely gives Parliament, just like the county assemblies, authority to endorse or reject the popular initiative Bill. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Even if Parliament was to reject it under Article 255, it still must go to the people for validation or rejection. 
+
+The caucus of legislators who allege that, under the 2010 Constitution, parliament can amend a constitutional proposal observe that there is no specific language in the Constitution which bars them from doing so. They rely on Article 94(2) and (3) which provides “Parliament… represents the will of the people and exercises their sovereignty” and “may consider and pass the amendments to the Constitution.” To them “consider” means interrogate, debate and change any amendment proposals. 
+
+ No alterations 
+
+This latter group points out that under the 1963 Constitution, Section 47(4) had explicitly stated once introduced in Parliament, no alterations could be made to a constitutional Bill before presentation to the president for assent. The 2010 Constitution did not import such clause in its body, it is claimed. 
+
+In 2010, the above provision disallowed national assembly amendments to the final Naivasha Draft as amended by the Parliamentary Select Committee and drafted by the Nzamba Kitonga Committee of Experts (CoE). Only a parliamentary committee sitting outside parliament was granted power by a process law to alter the CoE’s Harmonised Draft. 
+
+Changes barred 
+
+However, once submitted to the National Assembly, those who sought to make more changes were legally barred. 
+
+Some legislators have challenged portions of the BBI. Their bone of contention gravitates around the mode of distribution of the proposed 70 constituencies; the intended creation of the judiciary ombudsman; the subordination of the Judiciary under the Judicial Service Commission; the re-organisation of national security powers, etc. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+BBI proposes to amend Article 172 of the Constitution to introduce (1) (ca), which provides the Judicial Service Commission “shall – receive complaints against judges, investigate and discipline judges by warning, reprimanding or suspending a judge.” 
+
+Those legislators who champion judicial independence oppose the new judiciary provisions. 
+
+The chairman of the independent electoral boundaries commission (IEBC) challenged the manner in which the anticipated 70 constituencies have been created through a schedule of the BBI Bill. His argument is that the function of delimitation of constituencies, after Parliament legislates the block number, falls under his mandate according to Article 89 of the Constitution. Moreover, he alerted IEBC would need two years to undertake the necessary delimitation of electoral units. 
+
+Tellingly, Article 89(4) states: “if a General Election is to be held within 12 months after the completion of the review by the commission, the new boundaries shall not take effect for purposes of that election.” 
+
+There are law-makers who question the capacity of the IEBC in its truncated form to administer a referendum and the 2022 General Election. These continue to urge for a revisit of the electoral justice agenda. 
+
+Is it possible that politics has taken the BBI process hostage? Originally the two handshake principals had envisioned the BBI process as a non-partisan project. However, alliance building and succession politics are likely to determine the fate of the Constitution of Kenya (Amendment) Bill. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+kivuthakibwana2017@gmail.com A favourable advisory by AG Kariuki, which caused much acrimony in Parliament early this month, has been found. "Technical or human errors" could be behind the grounding of a huge container ship, Egypt's Suez Canal chief says. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs.
