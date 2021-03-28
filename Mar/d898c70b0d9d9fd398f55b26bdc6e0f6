@@ -1,0 +1,166 @@
+The ban affects Nairobi, Kiambu, Machakos, Nakuru and Kajiado counties, which President Uhuru Kenyatta declared disease-infested. The Alliance of Registered Churches of Kenya (ARCK) has opposed the government’s ban on in-person gatherings at places of worship in five counties due to a rise in Covid-19 cases. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The ban affects Nairobi, Kiambu, Machakos, Nakuru and Kajiado counties, which President Uhuru Kenyatta declared disease-infested. In the other parts of the country, worship centres will adhere to the requirement to host just one third of their capacities. 
+
+The directive on Friday came a few weeks to the Easter weekend and the Holy Month of Ramadhan. 
+
+Addressing the press on Saturday, Rt Rev Samuel Manyonyi Welimo, the Presiding Bishop of Hope of God Gospel Mission and the ARCK chair, said the government should allow a maximum of 100 people in churches. 
+
+"We advise the State not to close places of worship," he said, noting the importance of spiritual nourishment amid a pandemic. 
+
+"The virus will not be contained overnight. Covid-19 is going to be in our midst, just like malaria, HIV/Aids and other diseases, so life must continue," he said. 
+
+"No doctor or human knowledge can end the pandemic. Let us therefore return to God and speak the truth and love to one another. God is going to heal the country," he said. 
+
+However, he urged church leaders and the public to take the Covid-19 vaccine, saying it is not harmful, as some have claimed. 
+
+
+
+
+
+
+Rt Rev Samuel Manyonyi Welimo, Presiding Bishop of Hope of God Gospel Mission and the chair of the Alliance of Registered Churches of Kenya (ARCK), during a past church service in Webuye town.
+Photo credit: Brian Ojamaa | Nation Media Group
+
+ 
+
+Government directives 
+
+Rev Welimo further advised the government to always give room for adjustments after announcing new measures against the virus. 
+
+After President Kenyatta banned movement into and out of the five counties on Friday, operators of passenger service vehicles and other transports hiked charges, leaving many stranded. 
+
+In his response to complaints about hiked fares, Rift Valley Regional Coordinator George Natembeya warned Saturday that matatu operators cashing in on the new anti-virus regulations will be arrested. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Natembeya noted that the pandemic has greatly affected everybody in the country, so there is no need to harass commuters. 
+
+“What has changed between Nakuru and Nairobi that can necessitate an increase of fares? We are going to arrest all those taking advantage of the situation to siphon money from commuters,” he said. 
+
+“Hiking fares is extremely baffling. Every time the government announces new restrictions to contain the spread of Covid-19, some public transport operators take advantage and increase fares. This is unacceptable. The government will deal firmly with PSV operators trying to cash in on the new regulations.” 
+
+bojamaa@ke.nationmedia.com Everybody is gravely affected by the pandemic so there is no need to harass commuters, Mr Natembeya says. Individuals the world over instinctively acquire new survival skills when their revenue streams are not promising. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent.
+o President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
