@@ -1,0 +1,157 @@
+Residents in Tana River have raised concern over the county's readiness to tackle the third phase of Covid-19, as cases in the country surge.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes a day after the headteacher of a local school for children with special needs reportedly succumbed to Covid-19 while undergoing treatment in Nairobi. 
+
+According to a relative who sought anonymity, the headteacher may have picked the virus from a seminar he attended in Mombasa, where he came back with symptoms. 
+
+"His situation was not that bad at first, though he complained of flu and mild chest pains. It got worse after he came back from another workshop in Embu," revealed the relative 
+
+The headteacher was reportedly picked by his brother from his house, where his condition had deteriorated. He was taken to a hospital in Nairobi for further treatment where he was diagnosed with Covid-19. 
+
+"All that time he was diagnosed of pneumonia by the private hospitals in Hola and was put on treatment for the same, yet it was Covid-19," said the relative. 
+
+The demise of the headteacher has sent panic among locals who now want the health ministry to assess the health sector in Tana River with regards to its preparation to handle the pandemic. 
+
+According to residents who spoke to the nation, three people died of Covid-19 at the Hola Referral Hospital owing to a lack of Covid-19 facilities and equipment. 
+
+"One of the patients was put on half a tank of oxygen that got depleted a few hours later. He succumbed. Another patient was just abandoned in the ward where he struggled to breathe. Unfortunately, he also passed on," said Daud Dahir. 
+
+The locals are now seeking answers over the whereabouts of Isolation wards and 300 beds the administration promised during the first phase of the pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"In August last year, the governor said beds were coming. His administration also told us they were fixing oxygen supply in the Isolation chamber, which as we speak has been converted to a normal patient's ward," said Omar Hamisi, an activist. 
+
+The residents urged the health ministry to help to scale up preparations in the county, lest a disaster befalls shortly. 
+
+They also called on the county administration to revert the rooms reserved as Isolation wards into their main purpose and equip them as earlier intended.  
+
+"We are aware this county got more than Sh30 million for Covid-19 preparations with little to show off. We now demand to see value for that money," said Mwajuma Ali. 
+
+County Health executive Javan Bonaya told Nation. Africa that plans are underway to avail the 300 beds by the end of April. 
+
+Mr Bonaya noted that the contractor has been initiating clearance of the cargo at the port of Mombasa hence the delay caused. 
+
+"We understand the concerns raised. However, we want to assure them we are on top gear to deliver as we promised all they need is to observe health ministry guidelines," he said. The latest cases have pushed the total confirmed infections in the country to 128,178 with a positivity rate of 17.7 per cent. Intersex persons in Kenya continues to face a multitude of challenges and human rights violations from birth. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
