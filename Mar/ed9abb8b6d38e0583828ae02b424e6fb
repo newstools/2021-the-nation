@@ -1,0 +1,247 @@
+When President Uhuru Kenyatta first announced the containment measures against the spread of Covid-19 in March 2020, they were followed with a bag of goodies to cushion the most vulnerable from the hard economic times. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, his latest decree tightening the screws on movement and business operations has created uncertainty on the future of businesses and households whose breadwinners have been sent home empty-handed. 
+
+Last year, when the partial lockdowns were announced, the Central Bank, along with commercial banks and mobile phone operators, followed up with announcements of reduction or in some case nil mobile money transfer fees, recalculation of loan repayments and a freeze on listing of loan defaulters with the credit reference bureaus. 
+
+On Friday when President Kenyatta announced the new measures, there was no such thing. Another difference with March last year is that then there were specific timelines. This time, the measures are in place indefinitely. 
+
+Economic measures 
+
+The lack of economic measures to cushion the citizens from this second lockdown has raised fears of more job losses and a worsening economic situation even if the President defended them as “temporary and necessary to contain the spread of the disease and therefore stop further loss of lives.” Jacqueline Mugo, the executive director of the Federation of Kenya Employers said insofar as things have been quite steady in Kenya, “the emergence of the third wave of Covid-19 takes us back to last year March when we had the first situation reported”. 
+
+“Any new lockdown of the economic centres and routes will be more devastating to enterprises than previously experienced,” she said. 
+
+The President is, therefore, facing pressure to come up with new safeguards to reduce the pain for millions of Kenyans who once again are staring at further salary cuts, layoffs, indefinite unpaid leaves and redundancy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uhuru's full Covid-19 address
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Dr Laila Macharia, an entrepreneur and investor, says that 2021 data showed a fragile recovery, with the International Monetary Fund predicting 4.5 per cent GDP growth this year against the World Bank’s 5.2 per cent, before the latest tough Covid-19 measures targeting Nairobi, Kiambu, Machakos, Kajiado and Nakuru counties. 
+
+According to Dr Macharia, how the country handles the next 12 months is going to determine whether the economy rebounds quickly or slips into a prolonged recession. 
+
+Kariuki Njenga, a professor of infectious diseases at Washington State University and a senior research officer at Kenya Medical Research Institute, says the lockdown should have been accompanied by “aggressive vaccination campaigns” to slow down the spread of the virus in the long term rather than hurt the citizens economically and socially but with no significant gains at the end. 
+
+Existing figures from March 2020 paint a grim picture of hundreds of thousands of job losses, even as some sectors were showing signs of a slow recovery before the President announced the new measures. 
+
+Three months 
+
+According to the National Employment Authority (NEA) director general Edith Okoki, the employment situation was beginning to stabilise. 
+
+“During the past three months the situation has improved with fewer redundancy notifications,” said Ms Okoki. 
+
+The new containment measures took effect yesterday “until otherwise notified” as the country registered six deaths and 1, 152 new infections. The positivity rate has also jumped from 2.6 per cent in January to around 22 per cent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But even the President acknowledged the “adverse effects” the new containment measures would have on the economy, job loss figures from NEA for the period March 2020 to March 2021 show that employers filed 17,316 redundancies with the authority, of whom 16,659 were Kenyans. 
+
+The NEA figures are also much lower than what the Kenya National Bureau of Statistics (KNBS) reported in the three months after the Covid-19 containment measures were first announced in March 2020. KNBS had reported that about 1.72 million workers lost jobs in three months to June 2020, with the number of people in employment falling to 15.87 million between April and end of June compared to 17.59 million the There have been massive job losses. 
+
+“There have been massive job losses. The pandemic exposed deep-rooted labour market fragilities and structural inequalities, with low-paid workers, young people, women, ethnic minorities, the self-employed and informal and fixed-term workers among the hardest hit by the crisis. The protocols put together to minimise spread and risk of infection, especially restrictions on movement and curfews disrupted the supply chain and diminished imports and exports,” said Mrs Mugo. 
+
+According to Ms Okoki, the main reasons provided by employers for the loss of jobs include reduced revenues and loss of market for goods and services. Measures cause panic among Nairobians as political activities are nipped in the bud. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
