@@ -1,0 +1,154 @@
+The Communications Authority of Kenya (CA) has fined Homeboyz Radio Sh1 million for airing a show that demeaned a woman who was recently thrown off a building after she declined a man’s sexual advances. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, CA has suspended the offending programme for six months until the station, which is owned by Radio Africa Group, com-plies with “all statutory and regulatory requirements”. 
+
+The authority noted that this is a repeat violation by the radio station 
+
+The announcement comes hours after the sacking of three hosts of the morning show — Shaffie Weru, Joseph Munoru (DJ Joe Mfalme) and Neville Musya. 
+
+Publish an apology 
+
+In a statement released on Sunday, acting CA Director-General Mercy Wanjau also directed Homeboyz Radio to publish an apology over the offending programme in two newspapers with nationwide circulation and also air the same on its station for five days. 
+
+CA also directed the radio station to review its editorial policy and align it to with the requirements of the law on gender then submit it to the State agency. 
+
+The media regulator also directed that all employees the station undergo mandatory training on gender issues. 
+
+The training should be certified by the National Gender and Equality Commission and evidence of the compliance filed with the authority.  
+
+In a statement released on Saturday evening, Radio Africa Group said it had sacked the three radio hosts following a comprehensive review of their comments on Thursday morning and their subsequent suspension from employment. 
+
+Services terminated 
+
+"Our partners and listeners will not be surprised by this action to terminate their services as it is the right thing to do," Homeboyz Radio General Manager Somoina Kimojino said in the Saturday statement. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Friday, the radio presenters were suspended following controversial comments that demeaned and blamed Ms Eunice Wangari Wakimbi, 20, for being thrown off the 12th floor of Ambank House after she reportedly rejected a man’s advances. 
+
+In the case that is still in court, Ms Wakimbi told Nairobi Principal Magistrate Esther Kimilu that she had been invited by one Moses Gatama Njoroge and, while they were having drinks, she rejected his sexual advances. This angered him, leading to a fight that saw her being thrown from a window on the 12th floor landing on the 9th floor balcony. 
+
+She suffered serious pelvic injuries and was taken to Kenyatta National Hospital where she was admitted for two months. Kimanjino says subject of discussion in the morning show had not been cleared or approved by the company. Radio station send three morning show hosts on a two-week suspension for their crass comments on air Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent.
+o President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority.
