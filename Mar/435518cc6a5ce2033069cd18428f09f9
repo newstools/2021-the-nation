@@ -1,0 +1,164 @@
+Such a lovely looker, Mystic Guide (Luis Saez 6-4), won the greatest race of them all, UAE's Dubai World Cup at Meydan on Saturday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This was again Godolphin and young American trainer, Michael Stidham. Japan's Chuwa Wizard (Keita Tosaki 5-1) finished second, with another Godolphin homebred, French-trained Magny Cours (William Buick 7-1), third. 
+
+
+
+
+
+
+Jockey Luis Saez celebrates on the podium after winning the $12 Million Dubai World Cup at Meydan racecourse on March 27, 2021. 
+Photo credit: Karim Sahib | AFP 
+
+ 
+
+Irish-bred/Dubai-conditioned, Hypothetical (Mickael Barzalona 3-1), was fourth, and, German-bred/Dubai-trained, Salute the Soldier (Adrie de Vries 6-1), fifth. Twelve ran, but sadly Great Scot who had been highlighted as a possible winner, ran off during the post parade unshipping Frankie Dettori, and Military Law (Antonio Fresu), broke through the starting gate. 
+
+Terrible waste of money, effort, everything. Preparation starts a good ten months in advance. Gifts of Gold (Christophe Soumillon 22-1), Sleepy Eyes (Alexis Merno 33-1), and Title Ready (Ryan Moore 33-1), never got involved. 
+
+
+
+
+
+
+Mishriff, ridden by jockey David Egan, wins the Longines Sheema Classic race of Dubai World Cup at Meydan racecourse in Dubai on March 27, 2021.
+Photo credit: Karim Sahib | AFP
+
+ 
+
+Mystic Guide clocked 2:01:6/10 over 1.2 miles, running third behind Hypothetical, until it was convenient to let rip. What a champion in all regards. Mystic Guide was extremely nervous and tempestuous prior to the start, causing a delay of fourteen minutes, but Michael Stidham's prize thoroughbred soon settled, realising a wonderful fantasy for the pinnacle of Michael's career. He considered it to be '40 years of emotions'. 
+
+This was Godolphin's ninth strike in 25 outings of the Dubai World Cup, and third in a row. The only drawback about turf racing is pollutive kick-back of dust from those not lucky enough to hit the front quickly. 
+
+
+
+
+
+
+Jockeys compete in the UAE Derby race of Dubai World Cup at Meydan Racecourse in Dubai on March 27, 2021. 
+Photo credit: Karim Sahib | AFP 
+
+ 
+
+If it rains like often happens in Kentucky, then there are muddy offerings, none of which can welcome by horses or jockeys. One often questions why they don't just stick with ordinary grass. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
