@@ -1,0 +1,212 @@
+The President of Tanzania Samia Suluhu Hassan told off all those who are having doubts about her capacity to deliver after she succeeded her predecessor John Pombe Magufuli. She said she should not be viewed as a female President but as the President of Tanzania. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Hassan seemed agitated and she has every right to feel this way. Since the death of Magufuli and her ascendancy to power, the talk even in the press has been that she has made history as the first female President in East African. Note the word "female". Others have said she might not fill the big shoes left by Magufuli. She has, however, come out with guns blazing and affirmed that having been Magufuli’s deputy for the last five years, she actually knows what is needed to continue what he left unfinished. 
+
+Our patriarchal thinking in Africa is our undoing. For a very long time and due to most customs and beliefs, we have always viewed women as the weaker sex. This is why women fiercely fight for their rightful position through campaigns for the girl child. Surprisingly, as men watch and assume their superior role, women have surpassed them in almost every sphere of life. They are doing better than men and they seem focused. 
+
+Win an election 
+
+When one looks at the steps President Hasssan has gone through to the top, one sees a determined achiever. Though she has been thrust to the presidency through circumstances that she herself would not have wanted, she has what it takes to win an election. 
+
+She is in the league of Ellen Shirleaf Johnson of Liberia who ruled for two terms after winning elections and was able to stabilise that country where men leaders had failed. Women have performed very well in higher positions of leadership and we should not cast doubts on President Hassan’s leadership. It is time the African continent adopted the thinking that what a boy child can do flawlessly, a girl also does very well. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We are no longer in that time of yore when the women role was in the kitchen. It is time men should recognise that women can lead. If anything, girls have performed better in schools than boys most of the time. It is the same story in offices, business ventures and in so many other fields. President Hassan is very right. She is not a passing "cloud" but the rightful President of Tanzania. 
+
+David M. Kigo, Nairobi 
+
+Women are gradually making their leadership presence felt. They are keen on breaking the traditional glass-ceiling that barred them from entering leadership positions even if they are over-qualified. 
+
+Women are slowly evolving and looks like a threat to men because they are constantly changing to new and stronger gender across the world. 
+
+The world has witnessed what women can do through leaders such as Margaret Thatcher, Theresa May, Hillary Clinton, Oprah Winfrey, Khamala Harris and now President Samia Suluhu of Tanzania who I am very sure will change the notion of people about women leadership in East Africa. 
+
+Kenya has not been left behind about women leaders. There are female governors and the recently concluded by-election for senatorial post won by Agnes Kavindu Muthama shows women can. 
+
+The world has accepted that women can be elected and debate freely with strong points as men in Parliament and not to be favoured by being nominated. 
+
+More women need to be leaders to lead with strong voices. The celebration of International Women's Day should not be in vain. 
+
+Christine Bwana, Kisumu 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
