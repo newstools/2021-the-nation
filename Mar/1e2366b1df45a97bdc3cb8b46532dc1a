@@ -1,0 +1,153 @@
+Ms Kananu noted that the third wave has proven severe as it has led to the deaths of county staff, family and friends.  The Nairobi County Government has closed all offices offering non-essential services for 30 days as part of efforts against a devastating third wave of Covid-19 infections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The order effective Monday follows Nairobi’s classification as a Covid-19 red zone as it accounts for at least 57 per cent of the cases reported in Kenya. 
+
+On Friday, President Uhuru Kenyatta said Nairobi, Kajiado, Kiambu, Nakuru and Machakos are disease-infested, and banned movement into and out of this One Zoned Area in order to contain the spread of the virus. 
+
+Announcing the closure of the offices, Nairobi Deputy Governor Anne Kananu said the move was necessitated by the need to curb the spread of the coronavirus. 
+
+Ms Kananu noted that the third wave has proven severe as it has led to the deaths of county staff, family and friends. 
+
+The safety of county government staff and customers is a priority, she said, hence a review of the work environment and interactions among people. 
+
+"The County Government of Nairobi will therefore close its non-essential offices for 30 days, in strict compliance with the 15th presidential address on the pandemic and the Ministry of Health’s Covid-19 protocols," said Ms Kananu. 
+
+"This is a carefully considered measure to help curtail the spread of Covid-19.” 
+
+Critical services 
+
+Essential services will continue uninterrupted. They include health, disaster management and coordination (fire fighters), revenue collection, water, environment and sanitation, finance and economic planning, procurement and supply chain, security, public communications and customer service. 
+
+"Nairobi County chief officers have been instructed to ensure essential services continue as we implement the presidential directives," the deputy governor said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Kananu, a former Disaster Management and Coordination chief officer, said she will from Monday lead Nairobi’s county executive committee members in receiving the vaccine, following a similar move by President Uhuru Kenyatta and Cabinet secretaries. 
+
+"The vaccine is a great step in the fight against the virus. The World Health organization (WHO) has approved distribution and use of various vaccines. Let us get vaccinated and fight this invisible enemy, " she said. 
+
+She asked the public not to lower their guard even after vaccination and to observe measures such as regular hand-washing, wearing masks and social distancing. 
+
+comulo@ke.nationmedia.com Alliance of Registered Churches of Kenya wants at most 100 people per service in the five counties affected by a ban in in-person gatherings. Several public and private hospitals are listed as they have been preparing for the vaccination drive. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
