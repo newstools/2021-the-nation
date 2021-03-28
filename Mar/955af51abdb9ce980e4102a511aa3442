@@ -1,0 +1,265 @@
+Taste and smell are often seen as less essential than sight and hearing, and their loss is often considered as less serious than other effects of "Long Covid". New York, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Three days after testing positive for Covid-19, "everything tasted like cardboard," recalls 38-year-old Elizabeth Medina, who lost her sense of taste and smell at the start of the pandemic. A year later, she fears she will never get them back. 
+
+Medina consulted ear, nose and throat doctors and neurologists, tried various nasal sprays, and is part of a group of patients undergoing experimental treatment that uses fish oil. 
+
+To try to stimulate her senses, she puts copious amounts of spices on everything she eats, pours aromatic herbs into her tea and regularly sniffs a bracelet soaked in essential oils. 
+
+But her attempts have been in vain. Medina, a guidance counselor at a New York school, says she has lost many everyday pleasures she once enjoyed, including eating and cooking. 
+
+She says she has cried every day for months. 
+
+Medina is one of a growing number of people with lasting anosmia -- a poorly understood disorder that has become an underestimated consequence for many in the pandemic. 
+
+Most Covid-19 sufferers who lose the ability to taste or smell recover "within three or four weeks," according to Valentina Parma, a psychologist at Temple University in Philadelphia. 
+
+But 10 to 15 per cent lose the senses for months, said Parma. She chairs the Global Consortium for Chemosensory Research (GCCR), which was formed at the start of the pandemic to study the problem. 
+
+
+
+
+
+
+Elizabeth Medina, a 38-year-old school guidance counselor, points at her positive Covid-19 antibody test result during an interview with AFP outside NewYork-Presbyterian Hospital on March 22, 2021 in New York City. 
+Photo credit: Angela Weiss | AFP
+
+ 
+
+'Long Covid' 
+
+Sensory loss is estimated to affect more than two million Americans and 10 million people worldwide, according to the expert. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Taste and smell are often seen as less essential than sight and hearing, and their loss is often considered as less serious than other effects of "Long Covid"; but they are a key part of socialization, says Parma, noting that "we pick mates based on smells." 
+
+Their disappearance, moreover, is frequently compounded not just by nutritional problems but by anxiety and even depression, Parma added. 
+
+Like other "anosmics," Medina found solace and solidarity in a support group organized by a hospital near her home. 
+
+Such groups have flourished on social networks. The c, formed as a charity in Britain in 2019, has seen its members on various platforms soar from 1,500 to more than 45,000 since the pandemic began, according to founder Chrissi Kelly. 
+
+On the organization's main Facebook page, the question that haunts Medina repeatedly comes up: "Will I ever regain my sense of taste and smell?" 
+
+At this stage, said Parma, "it is quite difficult to predict how things will evolve." 
+
+But there is one good indicator that anosmics are on their way to recovery: developing parosmia, when people's smells of familiar things are distorted, like smelling garbage while sniffing coffee. 
+
+Presently there is no known cure, and the only treatment recommended without reservation is to smell four different scents twice a day. According to Parma, this works in 30 percent of cases, but only after three to six months of practice. 
+
+Faced with this uncertainty, it's perhaps no surprise that the likes of AbScent's Kelly, who lost her taste and smell after a bout of sinusitis in 2012, and Katie Boateng, an American who lost the senses in 2009, have become near-celebrities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They share their experiences, and push the medical community to intensify research and recognize the seriousness of their symptoms. 
+
+In 2018, Katie Boateng created the Smell Podcast, a mine of information and advice for her companions in misfortune. 
+
+
+
+
+
+
+Leah Holzel, a food editor, smells aromatic spices during an interview with AFP on March 22, 2021 in New York City. Holzel, who had lost her sense of smell from 2016 to 2019, now coaches people who have lost their sense of smell due to Covid-19. 
+Photo credit: Angela Weiss | AFP
+
+ 
+
+Daily exercises 
+
+She is now part of a patient advocacy group that helps guide GCCR's research. 
+
+Although Boateng has given up hope of being cured herself, "I am still very hopeful that we can lead to research that can cure people in the future," she said. 
+
+While waiting for a medical breakthrough, many continue to perform their daily sniffing exercises, sometimes with the help of a coach, like Leah Holzel. 
+
+The food expert, who had lost her sense of smell from 2016 to 2019, has helped six people recover from anosmia since the start of the pandemic. 
+
+Many sufferers also cling to messages about improvements or healings that appear regularly on social networks, enjoying the camaraderie that the groups provide. 
+
+"It's almost exactly a year after I first lost my smell and taste and I'm pretty much okay now," Dominika Uhrakova, who lives in Southampton, England, wrote on AbScent's Facebook page. 
+
+"Hang in there, don't lose hope and I'm wishing you all best of luck," the 26-year-old added. While Ministry of Health officials say they are unaware of any clearance to import Sputnik V, letters by Pharmacy and Poisons Board show early approvals. The US has authorised three vaccines -- Pfizer, Moderna, and Johnson &amp; Johnson. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Authority directs radio station to publish an apology over the offending programme.
