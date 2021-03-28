@@ -1,0 +1,155 @@
+In December last year, two TPA officials - Finance Director Nuru Mhando and Financial Expenditures Manager Witness Mahela - to allow investigations into embezzlement claims. Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+President Samia Suluhu Hassan has suspended Tanzania Ports Authority (TPA) Director-General Deusdedit Kakoko over allegations of massive embezzlement at the institution. 
+
+This came after the TPA was adversely mentioned in the report of the Controller and Auditor-General (CAG) for financial year 2019/20, which the Tanzanian President received at State House in Dodoma on Sunday. 
+
+While noting that she had seen massive embezzlement at TPA, President Suluhu ordered the Prevention and Combating of Corruption Bureau (PCCB) to urgently look into the claims. 
+
+She said some actions were earlier taken after Prime Minister Kassim Majaliwa formed a committee to probe the claims of embezzlement at the TPA. 
+
+“But from the report that you submitted to me yesterday, at least Sh3.6 billion has been embezzled at TPA. When the Prime Minister conducted a probe, we only managed to fire junior staff. I now order the suspension of the TPA director-general to pave way for investigations into the embezzlement,” she said. 
+
+Others suspended 
+
+In December last year, Mr Majaliwa suspended two TPA officials - Finance Director Nuru Mhando and Financial Expenditures Manager Witness Mahela - to allow investigations into claims of embezzlement of public funds. 
+
+He said one of TPA’s unsatisfactory practices, that deprives the government of revenue, was the tax exemption of more than Sh2 billion granted to Mbeya Cement, despite a rejection of the approval by the Special Committee. 
+
+The meeting – held at the TPA offices – was also attended by Director of Criminal Investigations (DCI) Robert Boaz and PCCB Director-General John Mbungo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Majaliwa said it was unusual that TPA approved a payment of Sh8.2 billion to Kigoma Port as the limit was Sh7.4 billion. 
+
+Past sackings 
+
+Mr Kakoko was confirmed as TPA director-general in October 2018 after holding the position in acting capacity for a long time. 
+
+He replaced Awadhi Massawe, who was fired alongside the then permanent secretary in the Transport ministry, Shaaban Mwinjaka. 
+
+Former President John Magufuli fired the permanent secretary following the disappearance of over 2,700 shipping containers at the port. 
+
+On Sunday, President Suluhu said stern action will be taken against heads of other public entities adversely mentioned in the CAG’s report, including Air Tanzania Company Limited (ATCL). Tanzanian President also fires Fire and Rescue Force boss Thobias Andengenye. He expressed hope for President Hassan's success, noting she had been serving as Vice President. Health ministry says the death toll is now 2,117, the cases 130,214 and the positivity rate 16.4 per cent. Authority directs radio station to publish an apology over the offending programme.
