@@ -1,0 +1,81 @@
+Kenya National Examinations Council (Knec) Chairman John Onsati has said that the ongoing Kenya Certificate of Secondary Education (KCSE) examination will be credible. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Speaking Monday morning in Naivasha after supervising the distribution of examination materials, Dr Onsati said no worrying incidents have been reported since the examinations began last week. 
+
+He said that not a single cheating incident has been reported, maintaining that Knec is committed to delivering a credible examination. 
+
+“We have not received any report about exam malpractice and I want to commend all those involved, including the security officers,” noted Mr Onsati. 
+
+He, however, called for caution, especially due to the threat posed by the Covid-19 pandemic. 
+
+He urged those involved in the supervision of the examination not to drop their guard and ensure strict adherence to the Ministry of Health guidelines on Covid-19. 
+
+“We are really concerned about Covid-19 and all parties should play their role in keeping the disease at bay,” said Dr Onsati. 
+
+Naivasha Sub-County Director of Education Bernard Chirchir, said no pregnancy case has been reported among those sitting the examination in the area. 
+
+ 
+
+machariamwangi2008@gmail.com Man, 56, had attempted to sit exam for another candidate. Many of them are expected to give birth before the exams end on April 21. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
