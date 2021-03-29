@@ -1,0 +1,81 @@
+ Egerton University has been closed indefinitely in compliance with the presidential directive on Covid-19 containment measures. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Senate of the Njoro-based campus held a crisis meeting on Sunday and ordered the institution closed. 
+
+“This is further to a notice issued earlier on suspension of physical learning dated March 27, 2021. After further consultations on the 15th presidential directive on coronavirus, we have been instructed that the university be closed until further notice," read the notice signed by the Acting Registrar Academic Prof Mwanarusi Saidi. 
+
+However, the notice said that only medical students will be allowed to stay at the campus. 
+
+“All students are therefore required to vacate the university premises with immediate effect," said Prof Mwanarusi. 
+
+She reminded the students to take along their valuable items as they vacated the campus. 
+
+ Prof Saidi urged the students to carry their national identification cards, University IDs or letter of offer. 
+
+At the same time, she called on the students to observe Ministry of Health guidelines during the time they will be at home. 
+
+The closure comes at a time when there was a growing concern of increased cases of Covid-19 among the teaching staff at the institution. At least three top lecturers have succumbed to the deadly virus. 
+
+fmureithi@ke.nationmedia.com Anger, desolation as Kenyans forced to contend with uncertain future following Friday’s Covid-19 containment measures. Lack of economic measures to cushion citizens from the second lockdown has raised fears of more job losses and economic pain. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
