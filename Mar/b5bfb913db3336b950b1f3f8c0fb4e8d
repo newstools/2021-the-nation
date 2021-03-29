@@ -1,0 +1,219 @@
+Siaya Governor Cornel Rasanga and his main rival in the 2013 gubernatorial race William Oduol are set to renew their rivalry in next year’s election as they are preparing to vie for the Alego Usonga parliamentary seat. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The seat, which is currently held by Mr Sam Atandi, has also attracted University of Nairobi lecturer Nicholas Kut, nominated MP Jackline Oduol, former MP Omondi Muluan and businessman Charles Odunga among others. 
+
+The Nation has established that Mr Rasanga, who was earlier planning to vie for the Siaya senatorial seat currently held by James Orengo has now set his sights on the parliamentary seat after ODM leader Raila Odinga’s elder brother Oburu Oginga declared interest in the Senate position. 
+
+With the Building Bridges Initiative (BBI) proposing that Cabinet ministers be appointed from among MPs, Mr Rasanga is said to be eyeing the parliamentary position with the hope of landing a Cabinet slot should the BBI sail through at the referendum. 
+
+“The governor wants to extend his good work for the people of Siaya to his own constituency,” an insider in Mr Rasanga’s administration told the Nation yesterday. He said the governor is yet to start rigorous campaigns but has held several strategy meetings to plan his entry into the race. 
+
+Six wards 
+
+Yesterday, Mr Rasanga was non-committal on the matter when reached by the Nation. 
+
+But the declaration of Mr Oduol to vie for the MP seat as well as Dr Kut, who enjoys support from the larger Kakan clan, is now threatening to unsettle Mr Rasanga’s ambition. 
+
+The constituency has six wards namely; South East Alego with the highest number of registered voters standing at 24,066, Siaya Township (22,112), West Alego (16,911), North Alego (16,299), Central Alego (16,097) and Usonga (7,849). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Oduol gave Mr Rasanga a run for his money in the 2013 gubernatorial election as well as the subsequent by-election following his successful petition of Mr Rasanga’s March 4, 2013 victory. Mr Rasanga, vying on an ODM ticket, won the seat with partly 3,495 votes after garnering 138,908 votes against Mr Oduol’s 135,413, then of the National Agenda Party of Kenya. 
+
+Mr Oduol yesterday confirmed that he will be in the race on an ODM ticket. “I will vie as Alego Usonga MP for strictly one term.” 
+
+He said he would have vied for the governor seat in 2022, but will go to the MP position since he hails from Alego Usonga, which has held the position for two terms. “Siaya has six constituencies and it will be unfair for the governor’s seat to go to Alego Usonga again in 2022. But in 2027, I will vie for the governor’s position,” added Mr Oduol. 
+
+CDF funds 
+
+Dr Kut said the development record in Alego Usonga is wanting and promised to ensure proper utilisation of CDF funds to improve the situation. 
+
+“I will enhance infrastructural development and streamline bursary management for the sake of many students who cannot afford school fees. I will also improve our schools, which are in pathetic condition, thanks to  poor utilisation of CDF funds,” Dr Kut told the Nation yesterday. 
+
+With the possibility of the division of Alego Usonga, which has 103,334 registered voters into Alego and Usonga constituencies ahead of the 2022 election, Dr Kut is likely to remain on one side (Alego) with Mr Atandi  while  Mr Rasanga and Mr Oduol will be on the Usonga side. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Rasanga has been pushing for West Alego, Central Alego, Usonga as well as North Alego wards to be bundled together into the new constituency (Usonga) , leaving South East Alego and Siaya Township) on one side. Mr Atandi has, however, opposed inclusion of North Alego into the new constituency and wants South East Alego, Siaya Township and North Alego to remain on the same side (Alego). Siaya Governor Cornel Rasanga has denied claims that he was behind the production and distribution of posters that were aimed at lessening his opponent’s popularity. A recount of votes cast in three of Siaya constituencies has revealed that Governor Cornel Rasanga garnered 8,104 less votes than the figure IEBC declared. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
