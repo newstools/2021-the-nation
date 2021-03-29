@@ -1,0 +1,157 @@
+The government has ordered the closure of two refugee camps in northern Kenya — Dadaab and Kakuma. The camps host more than 420,920 people, 76 per cent of them women and children. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The United Nations High Commissioner for Refugees (UNHCR) has two weeks to present a plan on how to close the two camps — else, the refugees will be sent to the border with Somalia. 
+
+The closure of a refugee camp requires early planning. Several issues need to be put in place beforehand. One is documentation.  
+
+Documents such as birth certificates, death certificates, marriage certificates, ID cards, medical documents, licences and travel permits must be carefully managed and secured. 
+
+This is to ensure that the returning displaced population can obtain proper identification documents, access to education, healthcare and basic social services upon re-entry to their countries of origin. 
+
+The second is identification of persons with special needs. These include the chronically ill, widows, unaccompanied children as well as older people. 
+
+Mass vaccination programmes 
+
+According to the UNHCR, in certain medical cases, such as tuberculosis (TB) or mental health patients, movement may need to be delayed to complete their medical regimen or therapy. 
+
+This is particularly important because medication and medical follow-up for such diseases may be lacking in their destination. Besides, mass vaccination programmes, such as those for polio and measles, should be completed to cater for those who might require booster inoculations. 
+
+In the case of the prevailing Covid-19 pandemic, the closure of camps should be planned for after the coronavirus vaccination. The first dose of the Covid-19 vaccine is being administered to high-risk groups. These include health workers and other frontline personnel such as security officers and teachers, people with chronic health conditions and those over 58. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Refugees who meet these criteria should be included in the first phase of the vaccination drive. 
+
+Smooth transition 
+
+Education must also be taken into consideration to ensure a smooth transition and continuity. The UNHCR recommends that closure of the camps should be planned after the conclusion of the school academic year or, in the case of repatriated refugees, before the beginning of the next academic year. 
+
+School records showing the skills and competence levels of students and certification for those leaving school or being transferred must also be provided to facilitate their re-integration in their new destinations. 
+
+Teachers in the camps should also be provided with certification and employment records to help them find new jobs upon their return or resettlement. 
+
+Poor and hasty planning could interfere with the reintegration of the displaced population in their new destination. 
+
+Timothy Gachanga, Nairobi They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
