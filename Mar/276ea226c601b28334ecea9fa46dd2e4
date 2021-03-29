@@ -1,0 +1,217 @@
+Mary (not her real name), whose children now live in the US and Canada, is an 84-year-old Kenyan. The widow’s children want her property. They claim she’s taking too long to die. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They have plans to bring down her house upon her death to build rental flats. They have now threatened to fire their mother’s caregiver and take her to a home for the elderly to “speed up” her death. 
+
+Sadly, Mary’s story is not isolated. Older people world over suffer discrimination, violence, abuse and neglect. The Covid-19 pandemic has amplified the inequalities; public health responses do not respect their rights. Yet, older men and women have the same rights as everyone else: We are all born equal, and this does not change as we grow older. 
+
+The proposed UN Convention on the Rights of Older Persons is a timely and vital instrument for enhancing the protection of the older people’s rights. These are implied in general terms in international treaties that touch on economic, social, civil, cultural and political rights — for example, the right to equal protection before the law, to own property, to get an education, to work and to participate in government. 
+
+The proposed convention addresses their needs for adequate income support, opportunities to decent employment and access to health and social services . 
+
+By focusing on needs rather than rights, the human dignity, security and autonomy of the old can be easily ignored. This is worsened by limited or non-available initiatives to mainstream their participation in the economy. Their opportunities in economies and policy reviews has been negligible or non-existent. 
+
+Older persons 
+
+In the current globalised world, we cannot afford to have standards that are not uniform in the protection of older persons. The convention would set the normative legal and human rights framework from which governments can then strengthen their legal, policy and administrative frameworks to ensure that the rights of the elderly are realised in our increasingly ageing societies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While international conventions are agreed to by governments, support cannot be built without the backing and participation of the old. 
+
+The convention would greatly help in combating ageism and discrimination of older people by providing a reporting and accountability mechanism for states’ actions towards them. It would also provide a system of redress for the violation of their rights and encourage ongoing dialogue among UN member states, civil society organisations, non-governmental organisations, the private sector and the older people through the monitoring of its implementation. The convention would trigger legal and social changes, along with better access to services. 
+
+The Cabinet has approved ratification of the 2016 African Union (AU) Protocol to the African Charter on Human and Peoples’ Rights on the Rights of Older Persons. That paves the way for the ratification of this instrument by the National Assembly and the Senate in accordance with the Treaty Making and Ratification (Amendment) Bill 2018. 
+
+The AU protocol contains progressive provisions that will add to efforts at building resilience to promote dignity and prosperity across generations in these uncertain times, where older persons, like anyone else, must also face up to the challenges of climate change and technological advancement. 
+
+Global conferences 
+
+The approval comes at an opportune moment as AU member states convene for important continental and global conferences — including the 7th African Forum for Sustainable Development Goals; the 65th session of the UN Commission for Status of Women; and the 11th Session of the Open-Ended Working Group on Ageing (OEWG). The last one runs from today to April 1 and the older persons will eagerly follow the progress and outcomes of the forum as the impetus for the convention grows stronger and more urgent every day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ageing is natural to the human life cycle; so, the response to it must be viewed in a non-discriminatory way to promote the wellbeing, dignity and health of the elderly from a social, political and economic perspective. 
+
+carole.agengo@helpage.org. @agengocarole  They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
