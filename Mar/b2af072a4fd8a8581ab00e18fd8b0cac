@@ -1,0 +1,151 @@
+The debate on high electricity bills, which have left consumers scratching their heads, has now spilt to the floor of Parliament. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Garissa Town MP Aden Duale is the latest to question the high charges for electricity, which have left Kenyans digging deeper into their pockets to line up the coffers of the utility firm. 
+
+The rising energy cost has forced many Kenyans to switch to cheap solar energy to reduce their power bills, and they have been joined by large manufacturers who also are keen to cut on their huge monthly power bills. 
+
+Mr Duale asked Energy CS Charles Keter to explain why Kenya Power buys electricity from independent power producers (IPPs) at high prices when it could buy it much more cheaply from State-owned power generator KenGen. 
+
+Independent producers 
+
+Mr Duale, through the national Assembly Departmental Committee on Energy, asked Mr Keter to reveal the rate at which KenGen sells electricity to Kenya Power and what the independent producers charge for the same. 
+
+He also wants the CS to make public the amount of money that has been paid to the IPPs since their contracts were signed and the measures he is taking to reduce the cost of power. 
+
+"Sustainable industrialisation of any country is dependent upon regular and reliable access to sufficient and affordable sources of energy that are a critical driver of manufacturing, transport and other key sectors of the economy," Mr Duale said. He added, “However, rather than pursue the objective of supplying the Kenyan economy with affordable electricity, Kenya Power has on the contrary presided over a massively inflated power supply regime that has retrogressive effects on the already overburdened taxpayers and businesses." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Duale also asked Mr Keter to explain the difference between the two rates and details of all the IPPs including their stakeholders, directors and addresses. 
+
+Purchase electricity 
+
+"Reliable data indicates that Kenya procures electricity from independent power producers at Sh23 per kilowatt-hour yet it can easily obtain the same from KenGen at Sh0.50 per kilowatt hour. In this irregular arrangement, the IPPs normally purchase electricity from KenGen at Sh0.50 per kilowatt-hour before offloading it to Kenya Power at an inflated rate of Sh23 per kilowatt hour," the MP told Parliament. 
+
+Most of the power producers are usually on standby to inject power into the grid whenever demand requires, but if this does not arise most of the time, Kenya Power is forced to pay for the idle power and pass the cost to electricity users. 
+
+Kenyans on average pay between Sh16 and Sh24 per kilowatt hour (KWh) of electricity depending on how many units of power they consume in a month, but are unlikely to get cheap power anytime soon. 
+
+“What you have now is a complex power generation, transmission and distribution arrangements that has been designed in a way that power generators are having the last laugh at the expense of Kenyans. The ministry must review the power purchase contracts,” said economist Tony Watima. Charge reaches a 14-month high while global oil prices jump at last week trading. He said his business suffered because the transformer was one and a half metres from his yard. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
