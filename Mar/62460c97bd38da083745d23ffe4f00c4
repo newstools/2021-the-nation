@@ -1,0 +1,345 @@
+Special security arrangements and accommodation were made for the talented Liverpool player who was in Nairobi last week.Special security arrangements and accommodation were made for the talented Liverpool player who was in Nairobi last week. Few lucky people get to meet their idols in life. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Well, for some members of the national football team Harambee Stars, that rare moment came last Thursday when they clashed with the Pharaohs of Egypt in a 2021 Africa Cup of Nations (Afcon), Group “G” qualifier match at Moi International Sports Centre, Kasarani.  
+
+Liverpool hitman Mohamed Salah, commonly known as Mo Salah, is the man the Harambee Stars’ players were excited to go against in the all-important match. Salah, 28, inspired Liverpool to their first English Premier League (EPL)  title in three decades last season. 
+
+Other top players in the star-studded Egyptian team were midfielders Mohamed Elneny and Mahmoud Trezeguet who are attached to EPL clubs Arsenal and Aston Villa, respectively, as well as forward Mostafa Mohamed who plays for top Turkish club Galatasaray. 
+
+Mo Salah is considered one of the best left-footed attackers in the world. In this season’s EPL campaign, Salah who is feared for his fast pace, superb dribbling skills and a powerful left foot is a joint top scorer with 17 goals in 29 matches. 
+
+According to Transfermarkt website, Mo Salah earns Sh112 million gross salary a month, excluding endorsements. This is enough cash to pay all players, coaches, and referees in the Football Kenya Federation (FKF) Premier League in a month. 
+
+When Salah set foot at the Jomo Kenyatta International Airport on Tuesday last week, two mean-looking and well-built men took charge of his security reportedly following an arrangement with the Egyptian Embassy in Nairobi.  
+
+Salah has previously played for Swiss side Basel, EPL team Chelsea, and Italian sides Fiorentina and AS Roma.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Egypt's forward Mo Salah (right) trains at Kasarani on March 24, 2021 on the eve of their 2021 Group G Africa Cup of Nations qualifier against Kenya.
+Photo credit: Sila Kiplagat | Nation Media Group
+
+ 
+
+During his last visit to Africa, Mo Salah tested positive for coronavirus while on an international assignment with Egypt on November 13, 2020.   
+
+This time round, his handlers were not taking chances. The security men were at the ready to fend off any busybodies on the star player's path. That was not all.  
+
+FKF sources said Salah was given a suite at Villa Rosa Kempinski - the hotel where the team resided-  so that he could self-isolate. A suite goes for between Sh30,000 to Sh40,000 a night. 
+
+Egypt Independent newspaper reported that the team had requested an additional police chase car from the Kenyan authorities to escort the two luxurious buses carrying the players and officials from the airport to the hotel, to the training ground and the match venue, and back to the airport. 
+
+Come match day, and most of the attention was focused on Man of the Moment - Salah, who was making a return to the squad after missing out for almost 18 months for a myriad of reasons. 
+
+At stake was qualification to the 2021 Africa Cup of Nations, with the hosts, Kenya, badly in need of a win to resuscitate their fading qualification chances. Egypt only needed a draw to qualify. 
+
+"I am banking on Kenyan defender ‘Marcelo’ (Eric Ouma) to shut out Mo Salah. I believe we will be up for the task," said Deputy President William Ruto on Jalang'o TV on the morning of the match. 
+
+"Salah is a big name, he is doing well at Liverpool. For me, it will be a good opportunity to gauge myself against him and know where I rank. It will be a tough match but you should expect good results from us," Kenyan defender Joash “Berlin Wall” Onyango.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Fans banned from stadium 
+
+Fans were banned from stadium in line with coronavirus protocols. 
+
+"The game plan was to deny Mo Salah space to operate in because he has dangerous dribbles. He is so fast. He is a unique player who can dribble while looking around for the options available to him,” said Kenyan midfielder Kenneth Muguna. 
+
+"There was no reason to fear him. He appears a humble guy, but is so focused and his first touch on the ball is out of this world. All in all,  we gave a good account of ourselves." 
+
+Gor Mahia player Muguna was one of the Kenyan players Salah appeared to commend after the match which ended in a 1-1 draw.  
+
+The Egyptian posted a photo on his Twitter account of the Gorplayer challenging him for the ball. 
+
+Salah has 14 million followers on Twitter. 
+
+Salah had a hand in Egypt's goal. It is his slide-rule pass to the right flank that was turned goalwards by Mohamed Hani before a clever dummy by Mostafa allowed Magdi Ashfa to fire the ball into the roof of the net with Ian Otieno well beaten. 
+
+But Salah didn’t quite influence the game as many would have expected, save for two half-chances he got at the edge of the box, but fluffed them both. 
+
+Credit, however, goes out to “Marcelo”, who worked tirelessly to deny him space on the flank. 
+
+A few days before this match, Tommy the Red, an Liverpool fan, had called in on a talkshow in talkSPORT, and claimed that Salah is “one dimensional, predictable and has no ideas” following the player and Liverpool’s sudden dip in form this season. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"Salah's been found out, mate," said the Liverpool fan live on air. 
+
+"Over the last couple of years he's been scoring loads of goals, but this season every defender has found him out. You show him down the wing and stand him up, he's got no ideas. He just sulks and sulks and sulks,” he added. 
+
+After the match with Stars, Salah visited and encouraged Harambee Stars players in a 30-seconds video that has gone viral. 
+
+"You played a great game. You were unlucky but maybe next time," he was heard saying. 
+
+In response, FKF President Mwendwa congratulates Salah and his team for making it to the 2021 Afcon to be held in Cameroon next year from January 9 and February 6. 
+
+He then asks Harambee Stars players to take photos with the Liverpool star. Muguna was the lucky man who exchanged T-shirts with Salah. 
+
+The Gor Mahia man told Nation Sport that he is lucky to have the Liverpool talisman match’s jersey, and he plans to keep it as a souvenir. 
+
+"He is a great player. It is a good feeling to have his shirt. He is very humble and treats everyone well. I am undecided on what to do with the shirt, but I think I will keep it to always remind me of the day," Muguna said. 
+
+From a humble background, Mo Salah’s was fortunate to leave Egypt because of his talent. He is the topscorer in the EPL, besides winning both the league title and Uefa Champions League at Liverpool. Salah is also known for his generous nature.  
+
+In 2019, he forgave a man who robbed his family in Alexandria despite his father's insistence to press charges. Salah is said to have given the thief money. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Salah is linked to a Sh15 billion move to Real Madrid in the English Press. 
+
+Despite Salah, and Egypt leaving Nairobi, the lessons and the aura of the great player, who has the world at his feet, remain. The visitors took a second minute lead through Mohamed Magdy. Mulee announced the development during the team’s training session at Nyayo National Stadium Friday evening. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
