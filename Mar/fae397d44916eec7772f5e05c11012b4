@@ -1,0 +1,155 @@
+When I first traveled to Kenya to learn more about my heritage and father, who had passed away by then, it was Granny who served as a bridge to the past, and it was her stories that helped fill a void in my heart. My family and I are mourning the loss of our beloved grandmother, Sarah Ogwel Onyango Obama, affectionately known to many as “Mama Sarah” but known to us as “Dani” or Granny. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Born in the first quarter of the last century, in Nyanza Province, on the shores of Lake Victoria, she had no formal schooling, and in the ways of her tribe, she was married off to a much older man while only a teen. 
+
+She would spend the rest of her life in the tiny village of Alego, in a small home built of mud-and thatch brick and without electricity or indoor plumbing. 
+
+There she raised eight children, tended to her goats and chickens, grew an assortment of crops, and took what the family didn’t use to sell at the local open-air market. 
+
+Although not his birth mother, Granny would raise my father as her own, and it was in part thanks to her love and encouragement that he was able to defy the odds and do well enough in school to get a scholarship to attend an American university. 
+
+
+
+
+
+
+The then US President Barack Obama and his grandmother, Mama Sarah Obama, when he officially opened the Sauti Kuu Recreation and Resource Centre at Nyang'oma in Kogelo village, Siaya County, on July 16, 2018. 
+Photo credit: Ondari Ogega | Nation Media Group
+
+ 
+
+When our family had difficulties, her homestead was a refuge for her children and grandchildren, and her presence was a constant, stabilising force. 
+
+When I first traveled to Kenya to learn more about my heritage and father, who had passed away by then, it was Granny who served as a bridge to the past, and it was her stories that helped fill a void in my heart. 
+
+During the course of her life, Granny would witness epochal changes taking place around the globe: world war, liberation movements, moon landings, and the advent of the computer age. 
+
+She would live to fly on jets, receive visitors from around the world, and see one of her grandsons get elected to the United States presidency. 
+
+And yet her essential spirit—strong, proud, hard-working, unimpressed with conventional marks of status and full of common sense and good humor—never changed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We will miss her dearly, but celebrate with gratitude her long and remarkable life. The family issued the clarification following speculation about what she died of. Mama Sarah died aged 99, just 23 days shy of her 100th birthday, which falls on April 22. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
