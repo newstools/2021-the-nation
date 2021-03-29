@@ -1,0 +1,290 @@
+Maputo 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dozens of people were killed in coordinated jihadist attacks in northern Mozambique's Palma town, the government said on Sunday, four days after the raid was launched and forced the evacuation of thousands of survivors to safety in the provincial capital Pemba. 
+
+Seven people were killed in an ambush during an operation to evacuate them from a hotel where they had sought refuge, it said. 
+
+"Last Wednesday, a group of terrorists sneaked into... Palma and launched actions that resulted in the cowardly murder of dozens of defenceless people," Defence ministry spokesman Omar Saranga told a news conference. 
+
+Foreigners were among those caught in the violence, but the government did not say how many foreign nationals were killed. 
+
+Foreigner killed 
+
+So far, one South African is known to have died during the attack, his family confirmed to AFP. 
+
+Adrian Nel had been holed up in the Amarula hotel with his father and brother for two days, his mother said.  
+
+As they were making their way to a convoy of cars that had come to evacuate them, Nel was shot dead, she said. His father had to carry his body until they were rescued.  
+
+"There's no way to possibly describe what you feel when you get news like that," Meryl Knox told AFP. 
+
+"It's just devastating, body numbing, mind numbing." 
+
+Martin Ewi, a senior researcher with the Pretoria-based think-tank, the Institute for Security Studies, said that "over 100" people were still unaccounted for since the attack. 
+
+"That's what we know so far," he said, but added that the situation on the ground was confusing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Rescue efforts 
+
+On Wednesday, an unknown number of militants began attacking Palma, a town of around 75,000 people in the province of Cabo Delgado that is home to a multi-billion-dollar gas project being built by France's Total and other energy companies. 
+
+Human Rights Watch said the militants indiscriminately shot civilians in their homes and on the streets. 
+
+In the last three days, government security forces had prioritised "the rescue of hundreds of citizens, nationals and foreigners", said Saranga, without giving a breakdown of the numbers. 
+
+Some were temporarily taken to the heavily guarded gas plant located on the Afungi peninsula, on the Indian Ocean coast south of the Tanzanian border, before being moved to Pemba, around 250 kilometres south of Palma. 
+
+A boat laden with evacuees landed in Pemba on Sunday, according to police patrolling the city port. 
+
+According to a source close to the rescue operation, there were "about 1,400" people on board. 
+
+Those evacuated included non-essential staff of Total and Palma residents who had sought refuge at the gas plant. 
+
+Displaced people 
+
+Several other small boats packed with displaced people were on their way to Pemba and expected to arrive overnight or Monday morning, according to humanitarian aid agencies. 
+
+Airport officials in Pemba said humanitarian aid flights had been suspended to free up space for military operations. 
+
+Caritas, a Catholic aid agency which is active in the province, also reported new arrivals to Pemba.  
+
+"Now we await the arrival of people who are most vulnerable so that we can provide assistance," the local head of Caritas, Manuel Nota, told AFP. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+'Appalling violence' 
+
+The militant attack on Palma is the closest yet to the major gas project during a three-year Islamist insurgency across Mozambique's north. 
+
+Since October 2017, extremist fighters have raided villages and towns in the region, forcing nearly 700,000 to flee their homes.  
+
+Although they launched their campaign in 2017, experts say they had begun mobilising a decade earlier as disgruntled youths starting to practise a different type of Islam, drinking alcohol and entering mosques dressed in shorts and shoes. 
+
+The violence has now taken root and claimed at least 2,600 people lives, half of them civilians, according to the US-based data-collecting agency Armed Conflict Location and Event Data (Acled). 
+
+British workers 
+
+Local media reports said British workers may have been caught up in the Palma attack, and Britain's Foreign, Commonwealth and Development Office said its embassy in Maputo was in "direct contact with authorities in Cabo Delgado to urgently seek further information on these reports". 
+
+"The UK wholeheartedly condemns the appalling violence in Cabo Delgado. It must stop," minister for Africa James Duddridge tweeted. 
+
+The United States, whose troops are helping train Mozambican forces to fight the insurgency, said Sunday it "continues to monitor the horrific situation in Palma", adding one American citizen who was in Palma had been safely evacuated. 
+
+The embassy announced earlier this month that American military personnel would spend two months training soldiers in Mozambique. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Save the Children says children as young as 11 years old have been targeted. Islamist militants occupied Mocimboa da Praia, the focus of a scheme to develop the region's offshore gas wealth on August 12. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
