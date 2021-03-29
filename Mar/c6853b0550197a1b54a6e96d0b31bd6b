@@ -1,0 +1,79 @@
+Cairo, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egyptian President Abdel Fattah al-Sisi on Monday hailed the "success" of an operation to unwedge the giant Ever Given container ship, stuck in the Suez Canal for nearly a week. 
+
+"Today, Egyptians have been successful in putting to an end the crisis of the stranded ship in the Suez Canal, despite the enormous complexity surrounding the process," Sisi said on Twitter. 
+
+However, Suez Canal Authority (SCA) chief Osama Rabie was yet to confirm the end of rescue operations, having said early on Monday that efforts to fully free the vessel would resume late morning. 
+
+An AFP journalist on the scene said that the ship remained stationary a little after midday local time (1000 GMT). 
+
+The SCA said that the ship had been moved to point "80 per cent" in the right direction, after the stern had been freed. 
+
+Sisi also said that "Egyptians have proved today that they are still up to the task". 
+
+He added that the Suez Canal, inaugurated in 1869, had been dug by "their grandparents with the force of their bodies". 
+
+According to Lloyd's List, 425 ships are waiting to travel through the vital shipping lane. Spokesman says there has been damage sustained by the ship on its bow. Each day of the blockade could be costing global trade some $6-10 billion. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
