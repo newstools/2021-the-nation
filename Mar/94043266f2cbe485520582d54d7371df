@@ -1,0 +1,159 @@
+Tension is slowly brewing in Kamaindi and Kamwimbi areas in Tharaka Nithi County over a controversial land adjudication exercise that has been delayed since 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tharaka Nithi County Commissioner Beverly Opwora has been sucked into the land dispute, in which residents of Kamaindi and Kamwimbi are accusing her of being the stumbling block "due to her own interests", allegations the administrator has denied. 
+
+The adjudication in the two areas has remained stuck for eight years due to ownership wrangles between the residents and a group of people from the neighbouring Embu County. 
+
+Mr Joseph Njeru, the Kamaindi land adjudication section committee chairman, told journalists Sunday that even after the Chuka Land court ruled that the adjudication continues, Ms Opwora suspended the exercise, citing security concerns. 
+
+He claimed that the county commissioner has been meeting Ngombe elders from the Embu community over the land issues, accusations that she has also denied. 
+
+Court ruling 
+
+The group from Embu County went to court and sought the suspension of the adjudication, claiming that they were the rightful owners of some parcels of land that were being allocated to some other residents. 
+
+The matter was heard in land courts in Embu, Kirinyaga and Meru counties and a ruling was finally made by Justice Peter Njoroge of the Environment and Land Court in Chuka, who allowed the adjudication to continue. 
+
+The ruling stated that the individuals with a dispute over a particular parcel of land should seek redress from the adjudication committee to avoid delaying the entire process. 
+
+Emotive issue 
+
+But while addressing journalists at her office in Chuka town, Ms Opwora said the adjudication process had not continued even after the court ruled so, due to lack of money to facilitate the exercise. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I have no interest in the land. The only problem is lack of funds to facilitate the adjudication exercise and I am working on the issue,” said Ms Opwora. 
+
+She added that the land issue had become very emotive, raising a security concerns, and urged the residents to remain patient, promising that soon they will get their title deeds. 
+
+The land dispute in the area reportedly contributed to the killings of Chuka OCS Joseph Kinyua, Kamaindi Chief Japhet Mukengu and three other people in 2019. 
+
+Kamaindi and Kamwimbi residents have appealed to President Uhuru Kenyatta to intervene and ensure that they get title deeds as he promised during a visit to the region in 2017. 
+
+Mr David Muriuki, a committee member, said that once the Covid-19 protocols are relaxed, residents will hold a demonstration to the Eastern regional commissioner’s office in Embu town to present their grievances. 
+
+Leonard Gichori, an 84-year-old Kamaindi resident, urged the government to intervene and solve the dispute to avoid clashes. 
+
+“We don’t want Kamaindi people to be termed as criminals again because of failures by leaders,” said Mr Gichori. Locals want process done afresh in line with the Community Land Act. They allege anticipation of huge returns from mega projects such as Lapsset and Resort City. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
