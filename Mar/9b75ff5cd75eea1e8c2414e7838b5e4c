@@ -1,0 +1,179 @@
+Police in Isiolo are holding a 31-year-old man suspected of killing his estranged wife at Kambi ya Juu after they separated following several squabbles. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For close to a week, detectives have been pursuing the man — who went into hiding after the gruesome killing of 26-year-old Celestine Kioko — and arrested him on Saturday morning. 
+
+Also arrested was a relative who had housed the suspect for one day in Nanyuki, Laikipia County. 
+
+Detectives are tracking his movements up to the day the crime was committed in order to establish his link to the murder and if possible arrest his accomplices, if any. 
+
+The ongoing interrogation of the two men is also expected to reveal where the suspect had hidden and the people he interacted with for several days after the incident before seeking refuge at his kin’s house in Nanyuki last Friday. 
+
+
+
+
+
+
+Ms Celestine Kioko who was murdered in Isiolo's Kambu ya Juu area. Her former husband has been arrested as police probe her killing.
+Photo credit: Courtesy
+
+ 
+
+Witness statements 
+
+Already, six witnesses have recorded statements with the police, according to Isiolo Sub-County Police Commander George Kariuki. 
+
+“The suspect and his 33-year-old cousin are in custody assisting in investigations. We want to trace his movements back to the crime day,” Mr Kariuki told the Nation. 
+
+The police boss said the suspect had no phone on him at the time of his arrest and that the search for murdered woman’s phone, which detectives believe could help in finding out whom she last communicated with, is ongoing. 
+
+The woman’s lifeless body was discovered by her children aged six and four years, who had just arrived home from church. They found their mother lying in a pool of blood at their rental house on the outskirts of Isiolo town. 
+
+The mother of two, who was laid to rest at Masinga Kanguu village in Machakos on Saturday, was last seen by villagers on the fateful morning while escorting her children to church. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Rocky relationship 
+
+The relationship between Ms Kioko, who ran a hotel, and her husband, was rocky, and the estranged man used to beat her, according to neighbours. 
+
+The estranged husband is said to have recently roughed her up while at his parents’ compound within the same vicinity. 
+
+A proud mother, Ms Kioko, hid the scars and never showed her grief in public, and was committed to seeing her eight-year-old marriage work until it turned too violent and she decided to walk out. 
+
+She rented a room where she lived with her two children, a boy and a girl. 
+
+Jovial woman 
+
+Her past posts on Facebook between June 30, 2019 and February 7 this year, when she last shared a picture of herself in a white top and black skirt, showed a jovial woman. 
+
+Neighbours say the assailant could have raped her before murdering her as she was naked when her body was found. 
+
+Her family earlier told media that she reported the incidents to police on some occasions including when the man reportedly injured her on the face and that the issue did not proceed to court as the officers told her to solve the matter with elders and parents. 
+
+Preliminary investigations show that that an identification card was recovered from the scene of crime but police are yet to establish whether the attacker dropped it or it was planted. 
+
+ 
+
+waweruwairimu001@gmail.com Woman had recently separated from her husband following persistent beatings. The suspect allegedly attacked her stepson with a kitchen knife and stabbed him several times on the chest. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
