@@ -1,0 +1,171 @@
+Kenya's Covid-19 positivity rate has jumped from the 16.4 per cent recorded on Sunday to 26.6 per cent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Health Cabinet Secretary Mutahi said this in the daily update on Monday, when he announced 902 new cases out of a sample of 3,395 analysed within a day. 
+
+This raised the number of confirmed Covid-19 infections in Kenya to 131,116 and the number of tests carried out since the first one last March to 1,472, 230. 
+
+The ministry further announced the recovery of 407 more patients, 237 of them under the home-based care programme and 170 in hospitals, raising the total to 92,161. 
+
+The death toll increased by 18 to 2,135 but these were all late death reports from the audit of facility records, Mr Kagwe said. 
+
+Of the 902 new patients, 829 were Kenyans and 73 foreigners, 484 male and 418 are female, the youngest 11 months old and the oldest 96. 
+
+Nairobi County accounted for 707 of the new infections, Nakuru 40, Uasin gishu 39, Machakos 29, Kiambu and Kajiado 21 each, Kitui 12, Kilifi nine and Mandera five. 
+
+Laikipia and Nyeri followed with three cases each, Makueni and Kakamega two each, and Kirinyaga, Nandi, Siaya, Baringo, Bomet, Elgeyo Marakwet, Kwale, Taita Taveta and Trans Nzoia one each. 
+
+Oxygen supply 
+
+Meanwhile, medical oxygen has emerged as one of the essential commodities in the management of Covid-19. 
+
+CS Kagwe addressed this matter in his address on Monday at Afya House in Nairobi, ordering people and institutions holding idle oxygen cylinders to return them for emergency use in hospitals. 
+
+The CS noted that the demand for oxygen is rising yet only 16 per cent is available in public health facilities across the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Aware that oxygen was going to be a critical factor in our Covid-19 response, we set up an oxygen task team from the deliberations of a Covid-19 taskforce committee meeting in July last year,” he said. 
+
+According to CS, before Covid-19 struck, the market demand for oxygen was 410 tonnes, but by mid last year, it had risen to 560 tonnes. 
+
+The demand is currently 880 tonnes, he said, and urged those hoarding the cylinders to return them to manufactures so they can be filled and used in hospitals. 
+
+Currently, the country has 73 oxygen plants in both national and county facilities across the country. 
+
+"Majority of these service one to three units within a facility," Mr Kagwe said. 
+
+"However, some of these plants face a number of challenges including production of oxygen with lower-than-recommended concentration levels." 
+
+Over 130 in ICU 
+
+The ministry raised these concerns as the number of Covid-19 patients in intensive care units (ICU) rose to 137. 
+
+Thirty six of them were on ventilatory support, 91 on supplemental oxygen and 10 under observation. 
+
+Another 90 patients were separately on supplementary oxygen, 78 of them in general wards and 12 in high dependency units (HDU). 
+
+CS Kagwe further noted that the number of hospitalized patients had risen to 1, 270 and that at least 4,620 people were under home-based isolation and care. 
+
+ambuthia@ke.nationmedia.com The average number of daily Covid-19 cases is currently 1,300, with the highest number ever - 2,008 - recorded on Friday. Kenyans living abroad give their views on the different types of vaccines and their experiences after taking the jabs. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
