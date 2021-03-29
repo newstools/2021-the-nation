@@ -1,0 +1,243 @@
+Acting Nairobi County Secretary, Dr Jairus Musumba, noted that the vaccination of pets is required by law. A one-day free mass vaccination drive against rabies in Nairobi County has seen 165 dogs and cats vaccinated, against a target of 500. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The exercise was conducted at four centres on Friday - near Uhuru Secondary School, Mbotela, Maringo Shopping Centre and the Harambee Chief's Camp. 
+
+Seventy one dogs and cats were vaccinated in Uhuru, 38 in Harambee, 32 in Mbotela and 24 in Maringo. 
+
+“The exercise is routinely and will be conducted in all the 17 sub-counties in Nairobi. The county will release the schedule for other areas in the coming days," said acting Director of Veterinary Services, Dr Daniel Karugu. 
+
+"I would like to call upon members of the public who rear dogs and cats to present them for vaccination as this is for the wellbeing of the animals and the safety of residents," he added. 
+
+Charges 
+
+Most Nairobi residents do not vaccinate their dogs because of the charges. 
+
+Private veterinarians charge between Sh1,000 and Sh2,000 while government outlets charge between Sh300 and Sh500 depending on the breed of the dog. 
+
+Acting Nairobi County Secretary, Dr Jairus Musumba, noted that the vaccination of pets is required by law. 
+
+He stated that this month alone, Nairobi County has handled three cases of rabies in dogs from the area around Uhuru Estate. 
+
+The county has asked residents and dog owners to ensure their dogs are kept in kennels and that they inform county authorities when they fall ill. 
+
+It also wants them to reports cases of attacks to county veterinary offices and go to hospital for treatment. 
+
+Dogs impounded 
+
+The county's Directorate of Veterinary Services has seized several dogs that have had a history of attacking residents. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The first one to be impounded became rabid while at the Pangani Dog Pound while the second one was surrendered by its owner in a terminal state. 
+
+Tests at the Nairobi County laboratory established that they both had rabies. 
+
+A dog attacked seven children at Uhuru and KAG primary schools and was killed by members of the community. 
+
+The children were rushed to hospital and given rabies post-exposure immunisation. 
+
+"The veterinary department reported that 11 stray dogs were seized from the area and taken to the pound," said Dr Musumba. 
+
+Stray animals 
+
+In July, 2019, Embakasi residents held protests following an increase in the number of deaths caused by marauding cats. 
+
+They claimed a group of five “vampire-like” cats were at the centre of the havoc and that they had caused the deaths of two people, including a primary school pupil, and the hospitalisation of another. 
+
+In 2019, animal welfare groups opposed a plan by City Hall to kill stray dogs due to a rise in their number in public spaces and slums. 
+
+The county government said there were 50,000 stray dogs in Nairobi, with 70 out of the county’s 85 wards declared hot spots for strays. 
+
+At the time, Nairobi County Director of Veterinary Services, Dr Muriithi Muhari, said at least 6,000 cases of dog bites and injuries are reported in Nairobi every year. 
+
+Dr Muhari said that between 2018 and 2019, five deaths were reported due to the emergence of rabies following dog bites. 
+
+The finger was pointed at residents who violate laws regarding how to keep pets by, for example, allowing them to roam around in public spaces. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A report by World Animal Protection Africa revealed that Karen, Kibera and Kawangware as the most affected areas, with 50 per cent of the people who own dogs guilty of letting them stray, especially at night. 
+
+comulo@ke.nationmedia.com They have called on veterinary officers and the public health department to kill all stray dogs. The campaign targets to immunise about 500 dogs and cats. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
