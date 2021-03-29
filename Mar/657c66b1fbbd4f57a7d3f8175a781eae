@@ -1,0 +1,159 @@
+Geneva 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An international expert mission to Wuhan has concluded that it was very likely that Covid-19 first passed to humans from a bat through an intermediary animal, while all but ruling out a laboratory leak. 
+
+The intermediate host hypothesis was deemed "likely to very likely", while the theory that the virus escaped from a lab was seen as "extremely unlikely", according to the long-awaited report, which AFP obtained a copy of on Monday, before the official release. 
+
+The report from the international mission to Wuhan has been keenly anticipated ever since the expert team left China more than a month ago. 
+
+Delays in the publication of the findings, drafted in collaboration with the team's Chinese counterparts, had been blamed on coordination and translation issues, even as a diplomatic tug-of-war raged in the background over the report's contents. 
+
+During a lengthy press conference in Wuhan on February 9 at the end of the mission, the experts and their Chinese counterparts made clear that they could not yet draw any firm conclusions. 
+
+But they said they had worked to rank a number of hypotheses according to how likely they were. 
+
+'Missing link' 
+
+Experts believe that the SARS-CoV-2 virus that causes the Covid-19 disease originally came from bats. 
+
+One theory examined was that the virus jumped directly from bats to humans. The final report determined that this scenario was "possible to likely". 
+
+A more likely scenario, the report found, was that the virus had first jumped from bats to another animal, which in turn infected humans. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Although the closest related viruses have been found in bats, the evolutionary distance between these bat viruses and SARS-CoV-2 is estimated to be several decades, suggesting a missing link," the report said. 
+
+"The scenario including introduction through an intermediary host was considered to be likely to very likely," it said, although it did not conclude which animal may have first allowed the virus to jump to humans. 
+
+Frozen food 
+
+Meanwhile, the report did not rule out transmission through frozen food — Beijing's favoured theory — since the virus appears to be able survive at freezing temperatures, saying that "introduction via cold/food chain products is considered possible". 
+
+Finally, the report examined the idea of a lab leak from, for instance, the Wuhan Institute of Virology — a theory promoted by former US president Donald Trump's administration. 
+
+It pointed to the fact that there was no record of any virus resembling SARS-CoV-2 in any laboratory before December 2019, and stressed high safety levels at the labs in Wuhan. 
+
+"A laboratory origin of the pandemic was considered to be extremely unlikely," it said. Experts believe the disease originated in bats and could have been transmitted to humans via another mammal. The lab conducts research on the world's most dangerous diseases. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
