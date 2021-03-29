@@ -1,0 +1,161 @@
+One of the deadliest Egyptian train crashes came in 2002, when 373 people died as a fire ripped through a crowded train south of Cairo. Cairo, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egypt has arrested eight people over a train collision last week, prosecutors said in a statement Monday that also revised the death toll down to 18 people. 
+
+A speeding train on Friday hit another in the Tahta district of southern Sohag province, sending a carriage hurtling into the air and also leaving 200 people injured. 
+
+"The prosecutor general ordered that the two drivers... their two assistants, the guard of a traffic control tower, the head of traffic control in Assiut and two other guards ... be remanded in custody," the prosecutor said. 
+
+Security and judicial sources told AFP the eight had been arrested on Friday and Saturday and placed in provisional detention for four days. 
+
+The toll from the crash -- one of several rail disasters in Egypt in recent years -- was revised down to 18. It had already been adjusted down to 19 from 32 by Health Minister Hala Zayed on Saturday. 
+
+Unidentified body parts 
+
+The prosecutor's statement also cited additional "body parts" that had not been identified, without elaborating and revised the toll for the injured to 200, up from 185 cited by the health minister. 
+
+It said investigators had spoken to 133 of the injured, most of whom suffered fractures, as well as 10 rail officials, station staff and three police officers "in charge of the security of trains". 
+
+They had also carried out several signal simulations and tested the speeding train's manual brakes, allowing them to establish that the driver could see the "signage of the control tower". 
+
+One train was travelling between the southern city of Luxor and Alexandria on the Mediterranean coast, and the other between the southern city of Aswan and Cairo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Surveillance camera footage of the accident seen by AFP showed a speeding train barrelling into another as it rolled slowly down the tracks, sending a carriage hurtling into the air in a cloud of dust. 
+
+A military conscript who was on the Cairo-bound train told AFP that the second train struck the one he was travelling on about 15 minutes after his had come to a stop. 
+
+Human error 
+
+Transport Minister Kamel al-Wazir, a former army general appointed by Sisi to lead the ministry, pointed to human error or intervention as playing a role in the country's rail accidents. 
+
+"We have a problem with the human element," he told a Saturday talk show, pledging to automate Egypt's rail network by 2024. 
+
+President Abdel Fattah al-Sisi has pledged tough punishment for those responsible for the crash, the latest in a series of rail accidents to plague Egypt. 
+
+Such incidents are generally attributed to poor infrastructure and maintenance. 
+
+One of the deadliest Egyptian train crashes came in 2002, when 373 people died as a fire ripped through a crowded train south of Cairo. President Abdel Fattah al-Sisi pledges tough punishment for those responsible for the crash. Local reports say four of the building's floors had been added illegally. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
