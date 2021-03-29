@@ -1,0 +1,233 @@
+The Hague 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The International Criminal Court will rule on Wednesday whether to uphold the acquittal of Ivory Coast's former president Laurent Gbagbo, the first head of state to stand trial at the tribunal. 
+
+Gbagbo, 75, and his former youth leader Charles Ble Goude were cleared of crimes against humanity in 2019 over a wave of post-electoral violence in the West African nation more than a decade ago. 
+
+The prosecution has appealed against the acquittal and wants a retrial over the bloodshed, when more than 3,000 people were killed after Gbagbo disputed the results of the 2010 vote. 
+
+Gbagbo refused to hand over power to Alassane Ouattara, the current president, but French troops eventually intervened and Ouattara's loyalists drove Gbagbo from his bunker. 
+
+He was then sent in 2011 to the ICC in The Hague. 
+
+The judgment will be read out at 3pm (1300 GMT) by the appeals chamber of the Hague-based court, led former ICC president Chile Eboe-Osuji, and including its current chief Piotr Hofmanski, the ICC said in a statement. 
+
+Gbagbo has been living in Brussels pending Wednesday's decision but plans to go home if it goes his way, thanks to an olive branch offered by his erstwhile rival. 
+
+It was not yet confirmed whether Gbagbo and Ble Goude would be in court for the ruling or attend via video link due to coronavirus restrictions, an ICC spokesman told AFP. 
+
+The verdict will be closely watched in Ivory Coast, where Gbagbo's shadow still hangs over a nation that remains mired in political crisis. 
+
+Gbagbo was president from 2000 to 2010, a time of turmoil in the world's top cocoa grower, formerly a haven of peace and prosperity in troubled West Africa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+'Tarnished' decision 
+
+His old foe Ouattara ignited fresh unrest last year when he announced he would seek a third term in office -- a scheme that critics said sidestepped constitutional limits. 
+
+Clashes claimed 87 lives while most of the opposition snubbed the October ballot that Ouattara nevertheless won by a landslide. 
+
+But after Ouattara offered to give Gbagbo passports to aid his return, Gbagbo's Ivorian Popular Front (FPI) party has ended a years-long electoral boycott. 
+
+The ICC prosecution's case against Gbagbo's acquittal focuses on what it says was a procedural error, when judges in 2019 did not make a proper written judgment but handed down the decision orally. 
+
+Prosecution counsel Helen Brady told a hearing this was "no harmless procedural irregularity" but had "tarnished the very essence" of the decision. 
+
+The prosecution insisted it had presented key elements of proof with 4,610 documents and 96 witnesses interviewed during the trial. 
+
+The judgment is meanwhile key for the credibility of the International Criminal Court after a series of high-profile failures and controversies. 
+
+Outgoing ICC prosecutor Fatou Bensouda suffered a series of setbacks including the Gbagbo case and the acquittal on appeal of former DR Congo vice-president Jean-Pierre Bemba. 
+
+Kenyan President Uhuru Kenyatta also saw charges of crimes against humanity over electoral bloodshed dropped by Bensouda. 
+
+The ICC is the world's only permanent war crimes tribunal, set up in 2002 to try the world's worst offences. 
+
+But it has been criticised for largely focusing on African suspects to date, while a probe into the Palestinian territories has enraged Israel and the United States. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bensouda is also under US sanctions after launching a probe into war crimes by US troops in Afghanistan. He has not made any public statement about whether he wishes to run again. Prosecutor thought microphone had been turned off They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
