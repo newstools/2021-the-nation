@@ -1,0 +1,155 @@
+The MV Ever Given was refloated and the Suez Canal reopened on Monday, sparking relief almost a week after the huge container ship got stuck during a sandstorm and blocked a major artery for global trade. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Admiral Osama Rabie, head of the Suez Canal Authority, has announced the resumption of shipping traffic in the Suez Canal," the SCA said in a statement. 
+
+There was also relief as world oil prices eased on Monday as traffic resumed. Crude prices had tumbled earlier after the ship was partially freed, but rebounded quickly afterwards when salvage experts said the hardest work was ahead. But only hours later they managed to free the ship completely, and oil prices fell back. 
+
+Television footage showed tugboat crews sounding their foghorns in celebration after the Ever Given, a cargo megaship the length of four football fields, was dislodged from the banks of the Suez. 
+
+The breakthrough followed what appeared to be a setback and came moments after the ship had temporarily settled back into the diagonal position it had been stuck in after running aground last Tuesday. 
+
+Maritime data company Lloyd's List said the blockage had held up an estimated $9.6 billion worth of cargo each day between Asia and Europe. 
+
+By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal, in the Mediterranean and Red Sea. 
+
+The Japanese-owned ship had been partially dislodged early Monday, triggering immediate praise from Egypt's President Abdel Fattah al-Sisi. 
+
+"Today, Egyptians have been successful in putting to an end the crisis of the stranded ship in the Suez Canal, despite the enormous complexity surrounding the process," Sisi said. 
+
+Egypt was estimated to have lost some $12-14 million in revenue from the canal for each day it was closed, according to the canal authority. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After the 200,000-tonne ship was refloated, it was expected to take around three and a half days to clear the traffic jam of ships, Rabie said, praising rescue efforts.Salvage crews have been working around the clock. 
+
+They had focused on efforts to remove sand around the ship, with 27,000 cubic metres (over 950,000 cubic feet) cleared at a depth of 18 metres (59 feet), SCA spokesman George Safwat said Sunday. 
+
+The crisis has forced companies to choose between waiting or rerouting vessels around Africa, which adds a huge fuel bill, 9,000 kilometres (5,500 miles) and over a week of travel to the trip between Asia and Europe. 
+
+Russia offered assistance Sunday, following other countries including the United States that have made similar offers. 
+
+In a sign of the knock-on effects from the Suez blockage, authorities in war-wracked Syria said the crisis had hit its fuel imports from Iran and forced it to ration already scarce supplies. 
+
+Romania's animal health agency said 11 ships carrying livestock out of the country were also impacted, while the charity Animals International warned of a potential "tragedy" affecting some 130,000 animals. 425 ships are waiting to travel through the vital shipping lane. Spokesman says there has been damage sustained by the ship on its bow. They are all late death reports from the audit of facility records, Health ministry says. The workers had been receiving treatment at various hospitals across the county.
