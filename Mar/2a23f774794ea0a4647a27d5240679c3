@@ -1,0 +1,81 @@
+Nine passengers sustained injuries when the vehicle they were travelling in was involved in an accident at the Migaa blackspot on the Nakuru-Eldoret highway on Sunday afternoon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Molo Sub County Police Commander Samuel Mukuusi said the 14-seater matatu was heading to Nairobi from Busia. Mr Mukuusi said the driver lost control of the vehicle before it veered off the road and hit a fence. 
+
+“The injured passengers were moved to the Nakuru Level Five Hospital for treatment. I call on road users to be more vigilant and ensure that they adhere to the traffic rules," said Mr Mukuusi. 
+
+Eye witnesses said the vehicle was speeding. A week ago, a truck driver died while three people were injured near the same spot in an accident involving three vehicles. The truck lost control and rammed onto three other vehicles. 
+
+Mr Mukuusi said the extensively damaged vehicle was towed to Molo Police Station.  
+
+The Nairobi-Nakuru-Eldoret highway is part of the Northern Corridor. It is the most important road to Western Kenya which connects Kenya to landlocked countries like Uganda, South Sudan, Rwanda and Burundi.   
+
+Migaa is among the many blackspots on the Nairobi-Nakuru-Eldoret Highway. Others are Karai where 40 people perished in 2017, Kinungi, Mbaruk, Gilgil, St Mary’s area all on the Nakuru-Nairobi highway. 
+
+Others lie on the notorious accident prone Salgaa section that stretches from Sobea, Salgaa, Migaa, Sachangwan and Mau Summit. It also includes Jolly Farm and Mukinyai areas. 
+
+The series of accidents along the stretch prompted the government to  construct a dual carriage way in a bid to end the carnage. This has greatly reduced accidents on the route. 
+
+njorogejunior@gmail.com Many of the 3,508 deaths have occurred on these roads Four people died on the spot when an Eldoret-bound bus collided with a lorry near Sachang’wan black spot Monday. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
