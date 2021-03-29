@@ -1,0 +1,127 @@
+Tributes from across the country continued to stream in following the demise of Mama Sarah Obama. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mama Sarah, as the step-grandmother of former US President Barack Obama was fondly called, was a philanthropist who promoted education for girls and orphans. She died Monday morning in Kisumu. 
+
+President Obama often showed affection towards her and referred to her as “Granny” in his memoir, “Dreams from My Father.” 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obama’s light moment at Kogelo with the late Mama Sarah
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+He described meeting her during his 1988 trip to his father’s homeland and their initial awkwardness as they struggled to communicate which developed into a warm bond. She attended his first inauguration as president in 2009. 
+
+Later, Mr Obama spoke about his grandmother again in his September 2014 speech to the UN General Assembly. 
+
+Kenyans and leaders took to social media to mourn her loss, while those who were lucky to have met her shared their memories of Mama Sarah by posting the pictures they took together. 
+
+Here is a snapshot of how people mourned and remembered her on social media. 
+
+
+Just lost the most important person in my life - my gran, Mama Sarah. My heart is broken! But as I write, not able to stop the tears from pouring, I know I was blessed to have her for so long! My inspiration, my rock, my comfort zone, my safe space. Rest in peace Dani! ❤️ pic.twitter.com/GkkKrL4oYb— Auma Obama (@AumaObama) March 29, 2021  
+
+
+ 
+
+
+Mama @IdaOdinga and I pass our sincere condolences to the Obama family.— Raila Odinga (@RailaOdinga) March 29, 2021  
+
+
+The Luo nation in tandem with USA is mourning the death of Mama Sarah Obama. Rest in peace min jiii 😥— Kasibuor Abang'a Colossus The Beast Aladdin (@kasibuor) March 29, 2021  
+
+
+Rest In Peace to Mama Sarah Obama, so humbled I had the opportunity to meet while you were still on earth.. THE WORK YOU DID FOR WOMEN AND GIRLS IN KENYA IS AMAZING.. you have many saved lives And empowered more..❤️❤️! pic.twitter.com/7AtEuSmrv7— 🇧🇼🇨🇦🇿🇦 instagram: faithluckson (@MisFay_) March 29, 2021  
+
+
+Rest in peace my grandma Mama sarah obama we'll miss your stories 😭😭— Njoki Mohammed (@kikuyu_boo) March 29, 2021  
+
+
+Rest well Mama Sarah Obama, grandma to former US President. Barrack Obama. Extending my heartfelt condolences to the entire Obama's Family. pic.twitter.com/pcinqJpTMS— Suzanna OWIYO - OGW (@SuzannaOwiyo) March 29, 2021  
+
+
+Rest well Mama Sarah Obama. Yours was a life well lived. Condolences to your lovely family. @BarackObama pic.twitter.com/TzXKiWeQ5Q— Dr. Josephine Kulea HSC (@JosephineKulea) March 29, 2021  
+
+
+RIP Mama Sarah Obama. She surely lived to see the day.— Wambui W. Mwangi (@Wambui_Wanyaga) March 29, 2021  
+
+
+I have received with sadness the news of the passing on of Mama Sarah Obama earlier today. Mama Sarah embodied the resilience of the African woman. I therefore extend my heartfelt condolences to the family and pray that they find comfort in the Lord to endure this loss. pic.twitter.com/MyBUod8acf— Gideon K. Moi (@MoiGideon) March 29, 2021 Mama Sarah Obama Road Race has been held since 2012. The family is making arrangements for her burial tomorrow. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
