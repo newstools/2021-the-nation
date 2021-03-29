@@ -1,0 +1,171 @@
+And despite his triumphs, he does have some regrets. The biggest of these are "not meeting Arnold (Schwarzenegger) in person, and failing to make it into the final round of the Mr Universe tournament after five attempts", he said. Teluk Intan, Malaysia  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Working out with ageing equipment in his modest gym, 72-year-old Malaysian bodybuilder A. Arokiasamy bench presses two dumbbells and then flexes his muscular arms. 
+
+Despite his advancing years, the champion still pumps iron every day, and believes staying healthy with a vigorous routine is the best defence against the coronavirus. 
+
+Arokiasamy got into bodybuilding after dropping out of school. He went on to represent Malaysia in several editions of Mr Universe and win gold in the 1981 Southeast Asian Games in the Philippines.  
+
+Arokiasamy -- whose hero is Arnold Schwarzenegger, the movie star and former Mr Universe  -- started coaching aspiring bodybuilders in lifting weights and opened his gym in his hometown of Teluk Intan. 
+
+"Weightlifting and exercise can slow down ageing and keep you healthy," Arokiasamy, who has seven children and five grandchildren, told AFP. 
+
+"The deadly coronavirus pandemic is threatening us -- we can fight it by lifting weights to stay fit." 
+
+While bodybuilding may not be commonly associated with the elderly, some research suggests it does have health benefits for those getting on in life. 
+
+A 2016 US study found that when people aged 65 and older did strength training at least twice a week, their life-expectancy improved substantially. 
+
+The study, led by researchers from Penn State College of Medicine, looked at 15 years of data from more than 30,000 elderly people in the United States. 
+
+'A simple life' 
+
+The gym run by Arokiasamy, a member of multi-ethnic Malaysia's Indian minority, is a small building next to his home that is open to the public, charging the equivalent of just one dollar a day. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is filled with battered weights and an array of other gear, some of it made from scrap metal, and is constantly busy with men pumping iron and getting tips from the veteran bodybuilder. 
+
+Arokiasamy had a tough upbringing, leaving school aged 11 to work and support his poor family. 
+
+He tried various sports -- hockey, badminton and football -- but did not make it onto any teams.  
+
+However, he built up his strength by chopping firewood, and hit on the idea of trying bodybuilding. 
+
+"I headed to a gym near my house and began to build up my muscles," he said.  
+
+He had his first success in 1968, winning the gold medal in a competition in his home state of Perak, and went on to compete in Malaysia and internationally for many years.  
+
+Even though he was a successful athlete, he still had a day job as a school gardener, and now works as a security guard.  
+
+As well as regularly working out, Arokiasamy says he has managed to maintain his health by eating well. 
+
+"I live a simple life and strive for a balanced diet... I grow my own vegetables," he said. 
+
+"I avoid sugar and junk food, and a big no to drugs and steroids." 
+
+And despite his triumphs, he does have some regrets.  
+
+The biggest of these are "not meeting Arnold (Schwarzenegger) in person, and failing to make it into the final round of the Mr Universe tournament after five attempts", he said. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
