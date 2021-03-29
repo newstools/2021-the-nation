@@ -1,0 +1,173 @@
+Six candidates have so far been cleared by the Independent Electoral and Boundaries Commission (IEBC) to run in the Bonchari parliamentary by-election.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They include former Energy and Petroleum Regulatory Authority (Epra) director-general Pavel Oimeke of the Orange Democratic Movement (ODM), Kevin Mosomi of the Party of Democracy Unity (PDU), Jonah Onkendi Ondieki of the New Democrats (TND) and Charles Mogaka Ndege of Progressive Party of Kenya (PPK). 
+
+Also cleared is Ms Teresa Bitutu, who is the late Bonchari MP John Oroo Oyioka’s widow. She will fly the UDA (United Democratic Alliance) flag.  
+
+
+
+
+
+
+Teresa Bitutu, widow of the late Bonchari MP Oroo Oyioka, after she was cleared by IEBC on March 29, 2021 to contest the Bonchari Parliamentary seat.
+Photo credit: Ruth Mbula | Nation Media Group
+
+ 
+
+Jeremiah Atancha of Agano party was also among those cleared by Bonchari Constituency Returning Officer Benson Ambuko on Monday afternoon.  
+
+Relief 
+
+The clearance is a relief for Mr Oimeke, who just months ago was arrested for allegedly demanding a Sh200,000 bribe to reopen a petrol station in Oyugis that had been shut down over tax violations. Due to this, there were fears that the ODM candidate may not be cleared because of integrity issues.  
+
+He was handed his nomination certificate on Monday with hundreds of his jubilant supporters breaking into song and dance at the Suneka CDF hall where candidates for the Bonchari by-election are being cleared by IEBC.  
+
+Even before this, ODM had had expressed confidence that EACC would clear him to vie for Bonchari MP.  ODM Secretary general, Edwin Sifuna, had said he was 100 per cent sure the anti-graft agency will give Oimeke a clearance certificate. 
+
+“People are presumed innocent until proven guilty. Oimeke will not be denied the certificate because of the matter he is having in court,” Mr Sifuna said when he handed over the nomination certificate to Oimeke at Chungwa House. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Oimeke resigned from Epra to vie for the seat amid an ongoing corruption case in court.  
+
+Candidates 
+
+Meanwhile, Mr Mosomi of PDU said he is confident of winning the seat because he has the support of local youths.  
+
+"At 25, I am the youngest candidate here and I have the support of youths. Bonchari needs a youthful leader for meaningful change in the constituency," he said.  
+
+Mr Onkendi, on the other hand, assured residents of prudent use of public resources if elected.  
+
+"We only have a few months left to the next General Elections. I will not promise much now, but I will ensure proper use of resources if elected to serve for the remaining short period," said Mr Onkendi who is aged 35.  
+
+Mr Ndege said he will help reduce poverty levels which are high in the constituency.  
+
+"We have not had a leader who will fight for us. If elected, I will ensure proper representation in parliament, "said Mr Mogaka.  
+
+To be cleared 
+
+Other candidates who are presenting their papers for clearance today are Victor Omanwa (Party of Economic Democracy) and Paul Matagaro (Mwangaza Tu Party). 
+
+On Tuesday, Jubilee's Zebedeo John Opore, Mary Sally Keraa (United Green Movement), Nyakea Erick Oigo (National Reconstruction Alliance), David Ogega Oyugi (Kenya Social Congress) and Margaret Gesare Nyabuto (Maendeleo Chap Chap) will present their nomination papers.  Politicians with active criminal cases and those accused of corruption are unknown are throwing their hats into the ring. His resignation comes about three months after he was arrested for allegedly receiving a Sh200,000 bribe. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
