@@ -1,0 +1,263 @@
+After a series of tests in the past one year, Safaricom on Friday officially launched its stand-alone 5G network, making Kenya the first nation in Eastern Africa to adopt the technology regarded as a key enabler of the Fourth Industrial Revolution (4IR). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The launch has touched off a buzz both online and offline as Kenyans seek to understand how the new technology will affect the way they communicate and live. The Nation’s 4IR Journalist Faustine Ngila responds to some of your burning questions 
+
+Is my 4G smartphone now obsolete?  
+
+Not really. Your 4G smartphone remains relevant for the next several years. Kenya is still in the very early stages of 5G adoption and Safaricom is currently undertaking 5G trials to best understand the network and optimise it for mass usage in the coming months. 
+
+That means the 4G network and 4G smartphones remain largely in use 
+
+At the moment, only 15 5G base stations have been launched, one in Westlands, Nairobi, and the other in Kisumu. Less than 200 devices had connected to the 5G network at the time we published this story yesterday. 
+
+Do I need a new 5G SIM card? 
+
+No. You’ll not need to change your SIM card. Safaricom will not be issuing new 5G SIM cards. Safaricom’s first plan is to use 5G routers as an alternative to the Home Fibre 4G service. A router is a device that acts as a wireless access point. 
+
+Huawei also has portable 5G routers, which cost between Sh7,000 and Sh16,000, but those will need a Safaricom SIM card. That means you will be able to access 5G speeds via Wi-Fi connection to a 5G router. 
+
+How can my 4G smartphone switch to 5G? 
+
+Your phone needs a compatible 5G processor or chip to access the network. A chip, also known as chipset, is a component that controls everything going on in your smartphone and ensures it functions correctly. It’s the brain of your smartphone. But the chips in most 4G smartphones used in Kenya, called MediaTek Helio P70, do not allow 5G access. Common 5G chips are Qualcomm’s Snapdragon 888, Samsung’s Exynos 2100 and Huawei’s Kirin made by HiSilicon. However, such chips are only found in expensive smartphones at the moment, made by Huawei, Samsung and Nokia. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When will 5G become a reality to most Kenyans? 
+
+Safaricom is confident that, by 2025, a substantial percentage of Kenyans will be enjoying the network’s benefits. In the next four years, the price of 5G enabled smartphones is expected to reduce to affordable amounts. Safaricom targets 150 5G base stations, which will switch on the network in nine towns by April 2022. 
+
+How fast is this 5G internet? 
+
+Safaricom said it will start with a speed of 700 Megabits per second (Mbps) and later upgrade to 1,000Mbps. At this speed, it is estimated you could download a two-hour movie in less than five seconds on 5G, versus the current six minutes on 4G. 
+
+Please note that it will be faster for fixed users, such as homes, 5G sites and offices than on your smartphone. But as 5G adoption gains ground in the coming years, if you’re using a smartphone powered by the Samsung Exynos 2100 5G chip, expect downlink speeds of up to 3,000Mbps and an uplink speed of 422 Mbps. 
+
+For Qualcomm processors, the speed will be 2,500Mbps for downlink and 316 Mpbs uplink. 
+
+By 2025, however, downlink speed could rise to 7.5 Gigabits per second (Gbps) and an uplink speed of 3Gbps for both chips. That means instant downloads and the exchange of heavy files in real-time. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Korea launches 5G networks early to secure world first
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+How secure is Huawei’s and Nokia’s 5G? 
+
+Despite continued criticism by the US, where allegations of Huawei using 5G for cyber espionage have been rife, the Kenyan government says it has verified that the technology is secure. 
+
+“Most of the allegations are just political posturing,” ICT Cabinet Secretary Joe Mucheru told Nation. “We’ve been working with these partners for a long time.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Acting Communications Authority of Kenya (CA) Director-General Mercy Wanjau said the technology had passed through the necessary quality and safety tests.  
+
+“I want to assure Kenyans that the technology is safe as the 5G standards have been developed through rigorous processes at the international telecommunications union and other relevant UN and global standards setting agencies in partnership with the industry,” she said. 
+
+Which other countries in Africa are adopting 5G? 
+
+As at February 2020, there were 24 operators in 18 African countries evaluating, testing, trialling or rolling out 5G, according to a survey done by Global Mobile Suppliers Association (GSA). 
+
+It did not reveal the operators, but Nation can confirm that South Africa is leading the race, where three operators in the country — Vodacom, MTN and Rain—have deployed pre-commercial or commercial networks. 
+
+MTN has tested 5G in Nigeria and Uganda and Gabon Telecom has tested it in Gabon.  Madagascar’s Telma launched the country’s first commercial 5G network last July. As at January 2021, the GSA recorded 144 commercial 5G networks present worldwide. More than 413 operators in 131 countries are also investing in 5G pilot projects. 
+
+fmailu@ke.nationmedia.com To enjoy the super-fast speed you will need a high end phone that has the 5G chip. Just what can 5G do for Kenya, where 75 per cent of the population is aged 35 years and below? They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
