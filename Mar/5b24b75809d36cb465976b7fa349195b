@@ -1,0 +1,245 @@
+The Lakers are due to get reinforcements, with the signing of free agent center Andre Drummond confirmed shortly before tip-off."Andre Drummond gives us powerful, anchor-point skills on both ends of the court," Lakers general manager Rob Pelinka said. Los Angeles 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dennis Schroder scored 24 points Sunday as the injury-depleted Los Angeles Lakers held on late for a much-needed 96-93 NBA victory over the Orlando Magic. 
+
+The reigning NBA champion Lakers won their second straight game after dropping four in a row since superstar LeBron James suffered a high right ankle sprain, joining star big man Anthony Davis on the sidelines. 
+
+Kyle Kuzma added 21 points for the Lakers, who rallied from five points down with 7:19 remaining in the fourth quarter against the second-worst team in the Eastern Conference. 
+
+A 12-1 scoring run helped the Lakers take a seven-point lead with 2:56 to play. 
+
+But amid a stream of missed shots by the Lakers, the Magic sliced the deficit to three. 
+
+Orlando's Otto Porter Jr. had a chance to tie it on the final possession, but his three-point attempt bounced off the back of the rim, to the relief of the increasingly desperate-looking Lakers. 
+
+"We made some mistakes at the end, couldn't really get shots to fall, but we got the win and on to the next," said Lakers forward Markieff Morris. 
+
+"It certainly wasn't pretty," said Lakers coach Frank Vogel, "but we executed well. 
+
+"We got high quality shots," Vogel said before adding with a laugh: "We couldn't throw it in the ocean. 
+
+"I think it's a good win for our guys," he concluded. "I'm proud of how they competed." 
+
+The Lakers are due to get reinforcements, with the signing of free agent center Andre Drummond confirmed shortly before tip-off. 
+
+"Andre Drummond gives us powerful, anchor-point skills on both ends of the court," Lakers general manager Rob Pelinka said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We feel extremely fortunate to add a player of his caliber and magnitude to our core group at this stage of our journey to defend the NBA title." 
+
+Career-high six steals 
+
+In Charlotte, Phoenix's Devin Booker scored 35 points and Chris Paul added 16 while both made key overtime plays to spark the Suns over the Hornets 101-97. 
+
+Mikal Bridges added 13 points and a career-high six steals while 22-year-old Bahamas big man Deandre Ayton had 14 points and 14 rebounds as the Suns improved to 31-14, second in the Western Conference. 
+
+The host Hornets had 30 points from Devonte Graham and 22 from Terry Rozier in a losing cause.Graham's late 8-0 run, a layup and back-to-back 3-pointers, deadlocked the game at 90-90 to force overtime. 
+
+Bridges lifted the Suns ahead to stay at 95-92 on a 3-pointer with 3:09 remaining in the extra session and Paul added two free throws with 83 seconds to play. 
+
+Graham answered on a 3-pointer with 45.8 seconds remaining and responded to two Booker free throws and two of his own to pull Charlotte within 99-97 with 8.3 seconds remaining. 
+
+Graham stole the ball but Paul stole it back from Rozier and sank two final free throws with 3.2 seconds remaining to produce the final margin. 
+
+Despite the defeat, the Hornets finished the day half a game ahead of Atlanta in fifth place in the East, after the Hawks fell 126-102 to the Denver Nuggets. 
+
+Aaron Gordon scored 13 points in his debut with Denver, who acquired him at the trade deadline last week. 
+
+Nikola Jokic finished with 16 points, 10 rebounds and eight assists, and JaMychal Green added 20 points off the bench for Denver. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Raptors lose again 
+
+CJ McCollum starred late for Portland, scoring seven of his 23 points in the last two minutes as the Trail Blazers beat the Toronto Raptors 122-117. 
+
+Damian Lillard scored 22 points and handed out 11 assists for the Blazers, who held the Raptors to 10 points in the third quarter to take charge of the contest. 
+
+Pascal Siakam led the Raptors with 26 points and Fred VanVleet added 20 with eight assists, but the Raptors lost for the 11th time in 12 games. 
+
+The contest came days after the trade that sent Norman Powell from the Raptors to Portland for Gary Trent and Rodney Hood. 
+
+Powell scored 13 points against his old team. Drummond should also mesh well with the Lakers' top duo when they return. Mitchell took charge early, making his first five shots on the way to scoring 28 first-half points -- his most ever in a half. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
