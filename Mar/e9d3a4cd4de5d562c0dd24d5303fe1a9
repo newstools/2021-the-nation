@@ -1,0 +1,153 @@
+Hotels at the Coast region have been left counting losses after President Kenyatta imposed a lockdown in five counties ahead of Easter holidays. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dozens of events such as meetings and weddings that were to take place in the hotels next week have been cancelled abruptly due to cessation of movement and other containment measures. Local and international tourists have also cancelled bookings. 
+
+Hoteliers have expressed disappointment at the President’s decision to lock down five counties ahead of the holidays from which the investors were expecting to reap. 
+
+The investors have started sending home workers who had been recalled to work a few months ago after the industry started picking up. 
+
+On Friday, President Kenyatta imposed a lockdown in five counties considered high-risk, namely Machakos, Nairobi, Nakuru, Kajiado and Kiambu amid rising cases of Covid-19. The decision has thrown the tourism sector into disarray ahead of the Easter peak season, with most of hotels having recorded 80 per cent bookings. 
+
+Coast industry players, led by the Kenya Tourism Federation, held crisis meetings over the weekend via Zoom to find mitigation measures. 
+
+The meetings involved air operators, travel agents, tour operators and hotel owners. 
+
+“We will issue a statement regarding our stand, but we’re disappointed by the government,” said an investor who requested anonymity. His hotel has lost massive business due to cancellations, he said. 
+
+Travellers Beach Hotel and Club General Manager Hilary Siele said they recorded a loss of Sh4.6 million due to cancellation of meetings. 
+
+Cut down on bills 
+
+The hotel has put in place contingency measures, including shutting down Travellers Club to cut down on utility bills. Only 100 out of 300 rooms will be left open during Easter. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Siele said they will have to tap into Mombasa, Kisumu, Rift Valley and Ugandan markets. “We’re receiving 100 per cent cancellations from the Nairobi market,” he said. 
+
+Mombasa County Tourism Chief Officer Asha Abdi expressed disappointment at the lockdown. “We were expecting a lot of tourists during the holidays. 
+
+“We had taken all the precautionary measures and were monitoring hotels to ensure they adhere to the Ministry of Health protocols,” the official said. 
+
+Ms Abdi urged the government to allow citizens to travel to tourism destinations, but with authenticated coronavirus negative certification. World Bank projects that economy will at best grow by 1.5 per cent this year. Coast tourism stakeholders have welcomed President Kenyatta’s initiative to help save the industry. They are all late death reports from the audit of facility records, Health ministry says. By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. The workers had been receiving treatment at various hospitals across the county.
