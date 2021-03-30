@@ -1,0 +1,163 @@
+President Uhuru Kenyatta on Tuesday gave the family of Mama Sarah Obama Sh1 million as his funeral contribution following her death on Monday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The President’s contribution was delivered by ICT and Innovation Principal Secretary Jerome Ochieng while Foreign Affairs Cabinet Secretary Raychelle Omamo delivered his message of condolence to the family. 
+
+The President eulogised the late Mama Sarah Obama as a philanthropist whose initiatives transformed the Kogelo community. 
+
+He said the Obama family, led by Mama Sarah, put Kenya positively on the global map. 
+
+Generosity 
+
+The head of State said her generosity saw her receive guests and well-wishers from far and wide. 
+
+"Vulnerable people from the society benefitted from the community development initiatives ran by Mama Sarah and the visits we received courtesy of her contributed to making Kenya a destination of choice for tourists," Mr Kenyatta said in his speech. 
+
+Also representing the national government at the funeral was Mr Francis Owino, the Principal Secretary in the Ministry of Devolution. 
+
+"Although she has left us, her inspirational life will remain a legacy for us and those who will come after. As a nation, we are privileged that she lived amongst us," said the President. 
+
+PS Ochieng handed over the president’s contribution to the Obama family after the head of State’s speech was read. 
+
+"The President asked us to bring his contribution of Sh1 million as ‘pole’ to the family which they can use to cater for the funeral expenses," said Mr Ochieng. 
+
+The money was received by Mama Sarahs' son Said Obama and her daughter Marsat. 
+
+Others present at the funeral were Kisumu Governor Anyang Nyong'o, his Siaya counterpart Cornel Rasanga and Speaker George Okode. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tourist site 
+
+Governor Rasanga said the county government will initiate plans to gazette Mama Sarah Obama's home as a tourist site in her honour. 
+
+"We shall gazette this home as a tourist attraction site and improve it so that visitors can keep on streaming to this village," said Governor Rasanga. 
+
+The Siaya Governor was reacting to sentiments made by Prof Nyong’o who pleaded with the county government of Siaya and locals to take care of the home of the one most powerful person’s in the world. 
+
+"This village must remain a shrine for the whole world to visit," said Governor Nyong'o. 
+
+ 
+
+roudia@ke.nationmedia.com Former US President says Mama Sarah Obama helped him learn about his heritage and his father. Funeral organisers insist that only 30 people were to be allowed inside the compound due to Covid-19 restrictions. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
