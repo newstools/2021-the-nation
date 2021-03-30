@@ -1,0 +1,227 @@
+School children could once again be forced to stay home longer following the indefinite Covid-19 containment measures President Kenyatta announced on Friday unless the current infection rate and spread of the disease are urgently brought under control. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The revised calendar that was released at the end of last year had scheduled schools to reopen on May 10. 
+
+However, the reopening might be delayed if the Covid-19 risk posed by the third wave remains high. The President did not indicate when the raft of stringent measures will be lifted. 
+
+“This wave is expected to peak in the next 30 days with more than 2,500 to 3,000 cases reported daily. Based on experience, this peak will flatten only by mid-May, which is about 60 days from now,” the President said. 
+
+Schools had just closed when the President issued new orders that indefinitely restrict movement from and into Nairobi, Machakos, Kiambu, Kajiado and Nakuru counties. 
+
+The Kenya Certificate of Secondary Education candidates are still in school going on with their exams. The ban on movement will be a challenge for teachers and learners who have to traverse some counties if the ban is not lifted before then. 
+
+Suspended physical learning 
+
+The President also suspended physical learning in all institutions “until otherwise notified”. The only exceptions were candidates sitting their examinations and those in medical training institutions. 
+
+Yesterday, Basic Education PS Julius Jwan told the Nation that the ministry will analyse the Covid-19 situation in the country at the end of April to determine whether schools will open as scheduled or not. 
+
+Dr Jwan said they would consult Health ministry and the country’s leadership towards the end of April. “Fortunately, we’ve a long window of time to make things better. It will be good if teachers, whom we have prioritised, get vaccinated,” he said . 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccination of teachers is a priority since it has been observed that “the effect of the disease on young learners is extremely low,” Dr Jwan said. 
+
+Teachers Service Commission has placed a list of 622 centres on its website where teachers can access the vaccine. 
+
+On Saturday, the University of Nairobi announced that all learning will take place online. It gave students up to Sunday to vacate the halls of residence. Students in the College of Health Services, however, remained to proceed with learning. 
+
+Curiously, the communication to students advised international students “to take advantage of the available international flights to go home,” an indication the closure might take long. 
+
+The online platform 
+
+Jomo Kenyatta University of Agriculture and Technology yesterday issued a circular suspending physical learning and transitioning to the online platform, but did not ask students to vacate the campus. 
+
+“You are further advised to avoid conducting or participating in any physical meeting or gatherings. Ensure that you wear your face mask at all times while in the university campus,” the circular reads. 
+
+Egerton University also suspended physical learning and switched to virtual learning to complete the semester and the continuous assessment tests. 
+
+“All students are advised to keep checking the University website regularly for updates and observe precautionary measures as per the Ministry of Health regulations during this period,” a circular by the registrar (Academic) reads. 
+
+Last year, the pandemic exposed the higher institutions of learning lack of preparedness, especially the public ones, to offer learning virtually. Many of them lacked the infrastructure, while many lecturers lacked the needed technical skills for remote teaching. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some students don’t also have digital devices and cannot afford data bundles for online learning. Learners have completed the second term of the 2020 academic year, which was ‘lost’ to the pandemic. Prof Magoha said examiners who set the KCPE and KCSE exams have considered the effects of the long break. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
