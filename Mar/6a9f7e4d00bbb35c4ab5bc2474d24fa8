@@ -1,0 +1,251 @@
+Geneva 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+International experts will on Tuesday unveil a report into the origins of Covid-19, as world leaders called for a global treaty to better tackle future pandemics. 
+
+AFP obtained a copy of the final report ahead of its official publication, which concludes that the virus very likely jumped to humans from bats via an intermediary animal.  
+
+It all but rules out the theory that it originated from a lab, but the World Health Organisation (WHO) chief said all hypotheses on the pandemic's origins remained open and needed further study. 
+
+The report, by experts convened by the WHO, was released more than a year into the pandemic that has killed nearly 2.8 million people worldwide, with several countries battling new waves of infections. 
+
+Be ready 
+
+World leaders called for a new international treaty to better fight future pandemics and for countries to be ready if — or when — another hits.  
+
+"Together, we must be better prepared to predict, prevent, detect, assess and effectively respond to pandemics in a highly coordinated fashion," they urged.   
+
+The call came in a joint article published in international newspapers on Tuesday, penned by leaders from more than 20 countries — including Germany, France, South Korea and South Africa — along with the European Union and the WHO. 
+
+Speaking ahead of its publication, WHO Director-General Tedros Adhanom Ghebreyesus urged the world to not waste any time in preparing for the next pandemic.   
+
+"The time to act is now. The world cannot afford to wait until the pandemic is over to start planning for the next one," Tedros told a virtual press conference. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+'Urgent action' 
+
+The expert report on the origins of Covid-19 has had a troubled birth, with publication delays adding to the hold-ups and diplomatic wrangling that plagued the WHO's attempts to get experts into Wuhan — the city at the centre of the initial outbreak. 
+
+They finally arrived on January 14, more than a year after the first cases surfaced. 
+
+Experts believe the SARS-CoV-2 virus that causes Covid-19 originally came from bats. 
+
+The report authors judged that the most likely scenario was that it had made a direct leap to humans, while not ruling out other theories. 
+
+Beijing's theory that the virus did not originate in China at all but was imported in frozen food was judged "possible" but very unlikely. 
+
+Claims promoted by former US president Donald Trump's administration that the virus escaped from a research lab were judged "extremely unlikely." 
+
+More debt relief 
+
+Meanwhile, UN chief António Manuel de Oliveira Guterres called for more debt relief for the poorest countries struggling with economic fallout from the pandemic. 
+
+He urged a "new debt mechanism" allowing such options as debt swaps, buy-backs and cancellations to help worse-off countries. 
+
+Addressing an online forum that included dozens of world leaders, he said the pandemic has pushed the world to "the verge of a debt crisis" and required "urgent action." 
+
+"We need to change the rules," he argued. 
+
+'System under strain' 
+
+More than a year into the pandemic, several countries are grappling with new waves of the virus, prompting a scramble to contain outbreaks with fresh anti-virus measures.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Italy said Tuesday it would impose a five-day quarantine on travellers arriving from other EU countries, while Germany will beef up checks along land borders to ensure people arriving have negative Covid tests.  
+
+In France, President Emmanuel Macron may announce new measures this week after partial regional shutdowns failed to keep the number of people in intensive care below its second-wave peak. 
+
+And new government data from Mexico showed that it had registered 294,287 Covid-19 deaths — substantially more than previously recorded, and the third-highest in the world behind Brazil and the United States. 
+
+On the vaccine front there was some good news Tuesday as the German firm BioNTech said it was on track to manufacture 2.5 billion doses of its Covid-19 vaccine this year with US partner Pfizer, 25 percent more than expected. 
+
+Meanwhile in Papua New Guinea, a sports centre was converted into a makeshift hospital to cope with surging coronavirus infections in the impoverished nation.  
+
+A shortage of nurses and doctors was further straining a system under stress.  
+
+"We've got nurses and doctors in tears at the moment, working back-to-back night shift/day shift," Matt Cannon, chief executive of St John Ambulance Papua New Guinea, told AFP.  
+
+"The system's under strain," he added. "It's putting them under immense strain." Here are the four theories, in descending order of probability: Theory that the Covid-19 virus escaped from a lab was seen as "extremely unlikely". Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
