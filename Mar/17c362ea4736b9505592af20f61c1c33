@@ -1,0 +1,229 @@
+Investors are finding it hard to start-up businesses in Nyeri owing to exorbitant rent charges within the county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kenya National Chambers of Commerce and Industry (KNCCI) Nyeri chairperson Ibrahim Ndegwa, says this has discouraged potential investors from doing business in the county. 
+
+As a colonial urban area renowned for its convenience in accessing various administrative services, Nyeri provides a dozen of untapped opportunities for business people. 
+
+The prohibitive cost of space has led some business owners to close shop while others have opted out completely.  
+
+Mr Ndegwa says building owners with space to let are to blame for driving away business people due to high rent charges. 
+
+"Premises owners in town have been charging a top dollar to rent out spaces, making those who have already rented spaces to give up as well as scaring away potential tenants," he said. 
+
+Remain vacant 
+
+A random spot check in Nyeri Town shows that a sizable number of prime commercial buildings are either empty as occupants closed down and some –especially new buildings– remain vacant a year or more since they were put up. 
+
+Mr Ndegwa notes that the situation has been the same over a long time even before businesspeople started feeling the ravaging effect of the Covid-19 pandemic that began last year. 
+
+The KNCCI chair says that in most buildings within the town, one is required to pay Sh100 per square foot, an amount he says is too high for an average business. 
+
+"There have also been demands for new tenants to pay up to six months’ rent in advance besides paying a goodwill amount that is determined by the nature of business," noted Mr Ndegwa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He further stated that he finds the mode of operation by building owners exorbitant and unaffordable to most business start-ups. 
+
+Economic depression 
+
+But some landlords like Khimji Shah disagrees saying the rental prices are not to blame entirely as the country is going through an economic depression due to the pangs of Covid-19. 
+
+"Rent is not the only factor keeping people away from taking up space. A lot has changed and people are having to give the idea to relocate to upcountry a second glance before opening their outlets here," he observed. 
+
+He further noted that Nyeri town was getting into a corner and most investors are having to consider the performance of their business in a town whose vibrancy could be shifting to nearby towns. 
+
+This is because of the construction of the Kenol-Marua highway. 
+
+"There are a lot of parameters to consider especially with the construction of the highway, which if not well handled will push Nyeri into a corner town with zero vibrancy and business will shift from Nyeri to Chaka and Nanyuki in Laikipia County," noted Mr Shah. 
+
+Bishop Joseph Kagunda, a landlord of the ACK Church said there has been generally poor performance of the economy that has led to low or no uptake of available space in commercial premises. 
+
+He noted that they have gone to the extent of offering incentives such as lowering rents and business people are still unable to seize the opportunity. 
+
+"People are not doing well financially and this has been made worse by the pandemic where there is no cash flow amongst Kenyans in general," he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+imugo@ke.nationmedia.com To ensure landlords only increase rent when it’s absolutely necessary, the Bill seeks to criminalise false justification in the notice to the tenant. The county is hiring real estate agents to recover the arrears. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
