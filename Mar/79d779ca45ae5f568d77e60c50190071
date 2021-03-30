@@ -1,0 +1,155 @@
+During the period, e-filing support will be offered through an online platform running every weekday from 10am to noon and from 2pm to 4pm. Acting Chief Justice Philomena Mwilu has closed courts, tribunals and all registries in the five counties that President Uhuru Kenyatta declared Covid-19 infested. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Justice Mwilu said operations in Nairobi, Machakos, Kajiado, Kiambu and Nakuru will remain suspended until further notice. 
+
+She, however, noted that any matters requiring a hearing during the period will be heard virtually. 
+
+In Nairobi County, urgent cases will be filed using the e-filing system that was launched by retired Chief Justice David Maraga last year.   
+
+During the period, e-filing support will be offered through an online platform running every weekday from 10am to noon and from 2pm to 4pm. 
+
+Criminal pleas 
+
+Urgent matters in the other zoned areas of Kiambu, Kajiado, Machakos and Nakuru will also be presented through e-filing. 
+
+Justice Mwilu further said all criminal pleas and urgent hearings will be handled virtually in all courts in the five zoned counties. 
+
+"Presiding judges and heads of stations and divisions, in consultation with their bar-bench and court users committees, shall issue guidelines to address any unique issues arising in their jurisdictions," she said.  
+
+The Covid-19 safety protocols that were issued in March last year by the retired Chief Justice and the National Council of Justice Administration (NCJA) will be adhered to in courts in all the other 42 counties. 
+
+Duty roster 
+
+In regard to President Kenyatta's directive for public and government offices to allow employees to work from home, Justice Mwilu said each court station, tribunal, directorate and implementing unit in the zoned area will develop and submit a weekly duty roster to the Chief Registrar of the Judiciary. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The President said the exception is employees offering essential services that cannot be delivered remotely. 
+
+The duty roster will adhere to a requirement for only 30 per cent of staff to be in an office at any given time. 
+
+"Like all other sectors, the Judiciary and the rest of the criminal and civil justice agencies were asked (by the President) to take immediate action to eliminate non-essential physical contact or situations that may lead to crowding or the propagation of the disease," said Justice Mwilu. 
+
+jwangui@ke.nationmedia.com All offices offering non-essential services will remain closed for 30 days starting Monday. Only medical students will be allowed to stay at the campus. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
