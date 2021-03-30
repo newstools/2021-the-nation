@@ -1,0 +1,145 @@
+This follows President Uhuru Kenyatta’s announcement on Friday suspending all social activities including sports in order to contain the spreading of the deadly coronavirus.This is the second year the event, also known as “Easter Tournament’’ has been postponed or suspended. The 2020 tournament had to be cancelled altogether until this year due to the Covid-19 pandemic. The century-old Ruiru Sports Club over the weekend held its 100th Annual General Meeting (AGM) virtually in an event that saw Peter Mwaura re-elected as club chairman unopposed for a second and final term. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mwaura first joined the management committee in 2017 when he was elected as vice- captain, before becoming the captain in 2018 and 2019. 
+
+He was elected unopposed in the delayed election last July. His vice chairman is Dominic Chege, who is also serving his second year having also returned unopposed. 
+
+However, the post of club treasurer was hotly contested between outgoing Treasurer Peter Njinu, who eventually lost his position to David Kabera, who beat Njinu 60-40, while Charles Wanyiri was beaten by Elizabeth Njau 52-48 for the post of catering Convener in another closely fought election.  
+
+On the other hand, Thomas Mwaura was also elected for a second term as the Golf Captain, as was his vice Jessy Ndegwa, who also unopposed. The new lady captain is Beatrice Waweru, who replaced outgoing Edith Ngugi. Waweru will be deputised by Catherine Kilonzo. 
+
+“For the second year in a row, we gather here under very special circumstances due to the Covid-19 pandemic. The confirmation of a third wave hovering around us and the new directives issued by President Uhuru Kenyatta last week are a stark reminder that we should continue observing the laid down containment measures to stem the spread and infection. The journey ahead isn’t rosy as the virus has posed a real threat to humanity and completely changed the way of life," Peter Mwaura.  
+
+“2021 has an air of promise to it especially with the rollout of the Covid-19 vaccine globally. As a club, we must continue laying solid foundations that seeks to spur monumental growth and to build a more secure future for the upcoming generations. We must all seek to offer ideas and solutions to support the leadership’’ he told members at the virtual meeting." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Meanwhile, the annual Tannahill Shield tournament, due this Friday at Royal Nairobi Golf Club has been postponed until further notice. 
+
+This follows President Uhuru Kenyatta’s announcement on Friday suspending all social activities including sports in order to contain the spreading of the deadly coronavirus. 
+
+This is the second year the event, also known as “Easter Tournament’’ has been postponed or suspended. The 2020 tournament had to be cancelled altogether until this year due to the Covid-19 pandemic. 
+
+Royal Nairobi Golf Club Captain Sylvester Odhiambo in a brief statement to the participating clubs said: “Subsequent to the 15th presidential address on the Covid-19 pandemic, Royal Nairobi Golf Club hereby wishes to notify you that the 97th edition of the Tannahill Shield scheduled for Friday, April 2 to Sunday, April 4, and all activities related to the tournament including the Junior Tannahill tournament and team practice sessions are cancelled. We will update you on the way forward once the government revises the measures put in place to control the pandemic," said Odhiambo. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
