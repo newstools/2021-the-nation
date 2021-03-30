@@ -1,0 +1,93 @@
+It is now official. The stampede that occurred at Uhuru Stadium in Dar es Salaam during the public viewing of late President John Magufuli’s body claimed 45 lives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tanzanian authorities said 37 more people were injured when hundreds of mourners attempted to force their way into Uhuru Stadium to pay last respects to Magufuli on March 21.  
+
+
+
+
+
+
+People clamber over the fence after gates were closed at Uhuru Stadium.
+Photo credit: The Citizen
+
+ 
+
+“These people were not criminals. They went to the stadium to express their love for their departed leader but because the number of people was huge, some became impatient and opted to use unofficial entry points to get into the stadium,” Dar es Salaam special police zone commander Lazaro Mambosasa, told Mwananchi newspaper. 
+
+
+
+
+
+
+Security personnel struggle to control a crowd as it surges forward after gates at Uhuru Stadium were closed to prevent people from entering the venue which was filled to capacity.
+Photo credit: The Citizen
+
+ 
+
+Last week, the remains of five members of the same family, who died after being trampled at Uhuru Stadium were buried. 
+
+Susan Mtuwa and her two children Nathan (6) and Natalia (5) was buried along with two children of her in-laws, Chris (11) and Michelle (8). 
+
+More follows. The whereabouts of the domestic helper who was with the five is still yet to established. The worshippers had rushed for 'holy oil' given by 'Apostle' Boniface Mwamposa. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
