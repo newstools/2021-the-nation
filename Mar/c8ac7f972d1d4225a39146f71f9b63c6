@@ -1,0 +1,255 @@
+After 15 years in marriage and seven children, Dianna Chirchir, from a village in Elgeyo Marakwet County pulled a surprise last year when she enrolled in a secondary school. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When she signed up as a Form One student at Kessup Day Secondary School, many people took it as a joke. But a year later, Ms Chirchir, from Kessup village in Keiyo North, is still going strong. 
+
+No school fees 
+
+Having sat the Kenya Certificate of Primary Education exam in 2003, Ms Chirchir, 34, who was brought up by a single mother, could not immediately transition to secondary school because of her siblings, who were still in school. 
+
+Ms Chirchir and her mother agreed that she stays home for a while as her siblings, who were in secondary school, completed their education. 
+
+It would also buy her mother time to raise Ms Chirchir’s school fees. 
+
+It is during this waiting period that Ms Chirchir, then in her late teens, met and befriended Mr Oliver Chelimo, a man from a neighbouring village. 
+
+
+
+
+
+
+Dianna Chirchir posing for a photo with her class teacher Maurine Chepkong'a (far left), local women empowerment group founder Dr Elizabeth Keitany ( in white coat), Kessup Day Secondary school headteacher Stanley Amdany (in grey suit) and a member of a local women empowerment group during a visit to the school. 
+Photo credit: Evans Kipkura | Nation Media Group
+
+ 
+
+The two got married a few months after meeting and off they went to begin their matrimonial life. 
+
+By last year, the couple had been blessed with seven children. 
+
+“All along I knew by getting married, my dream of going to school and using education to better my life was in jeopardy. I have been raising my family and working hard with my husband, but the idea of furthering my education has always lingered in my mind,” said Ms Chirchir. 
+
+Supportive husband 
+
+Last year, before schools were closed due to Covid-19, she asked her husband if she could back to school. 
+
+“I told him of my dreams and the vision I have of our union. I told him of the longevity of education as an investment and how I had a dream of changing the trajectory of our lives and those of our children,” Ms Chirchir said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her husband supported her idea and promised to see her through school. 
+
+However, convincing the administration of Kessup Day Secondary School that she had decided to enrol as a student after 15 years of marriage and seven children was not easy. 
+
+The school asked her to get a commitment letter from her husband, showing that he was comfortable with her being a student. 
+
+“I did not get any formal education because of the same challenges my wife went through when she tried to join secondary school before we got married. For her to make a decision that dispels such challenges really got me motivated to support her,” said Mr Chelimo. 
+
+With the nod from her husband, Ms Chirchir was allowed into the school as a Form One student a few weeks before schools closed down for nine months. 
+
+This year, when she went back to school, she says her resolve remains the same: To pursue her education with the support of her husband and community. 
+
+“I have assumed almost all basic home chores, including cooking, getting children ready for school and cleaning, which is foreign among people in our culture. I have, however, decided to close my eyes to old patriarchal traditions just to see my wife through,” Mr Chelimo said. 
+
+Good progress 
+
+The school administration said it was pleased with how Ms Chirchir has bonded well with the rest of the students. 
+
+Headteacher Stanley Amdany said Ms Chirchir had made good progress and she is fit to be promoted to Form Two when schools reopen. 
+
+“In her class, she has become a role model and a good example, to an extent of being elected as guidance and counselling head,” he added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her classmates describe her as someone always ready to educate them on how life outside there is. 
+
+“Her life is an inspiration in itself. Every time she sits us girls down for a talk on how her life in marriage with an education dream has been, we get so motivated. She is heaven-sent for us girls striving to excel in education,” said Cynthia Jelagat, a classmate. 
+
+Inspiring  
+
+Because of her resolve and the inspiring nature of her decision to go back to school, Gracious Empowerment Women Organisation, a local women-based development group, has promised to help Ms Chirchir through to Form Four. 
+
+“The nature of her dream in a society that is known for looking down upon women is very inspiring. As a group, we have decided to pay her school fees in full until she is through with secondary education,” said Dr Elizabeth Keitany, the founder of the organisation. 
+
+ekipkura@ke.nationmedia.com In the county, more boys enrol in schools compared to girls. For 83 years, Kimani Maruge led a nondescript life. Then free primary education was introduced in 2003 and life literally started at 84 for the man who would become the oldest pupil in the world. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
