@@ -1,0 +1,155 @@
+The knock-out stages will then proceed in the same manner as now, but the changes will mean a large increase in the number of matches played, with a team reaching the final playing a minimum of 17 matches compared to 13 in the present format.The consequences are a huge increase in the overall number of games played, from 125 to 225, with the total number of group-stage matches jumping from 96 to 180. Lausanne, Switzerland  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An official announcement on planned radical changes to the format of the Uefa Champions League from 2024 onwards is set to be made on April 19, European football's governing body said on Tuesday. 
+
+Last week European Leagues, a body representing the interests of clubs and leagues in 30 countries across the continent, said UEFA would make a decision on the expected changes at a meeting this Wednesday. 
+
+UEFA confirmed it will discuss plans at this week's meeting of its executive committee but will wait for the next one before finalising the changes. 
+
+"The future of club competitions post-2024 will be one of the topics discussed," UEFA said in a statement. 
+
+"However, any official decision in this respect will only be made at the next UEFA executive committee meeting on April 19, in order to finalise ongoing discussions." 
+
+The April 19 meeting is also set to see UEFA confirm how it will organise the delayed Euro 2020, which is due to go ahead in 12 cities spread across the continent but could be modified depending on what venues allow spectators to attend games during the Covid-19 pandemic. 
+
+However, the Champions League changes -- which are expected to be radical -- will dominate discussions. 
+
+The changes are expected to increase the number of clubs involved in the group stage from the current 32 to 36. 
+
+The existing group-stage format, consisting of eight groups of four teams, will be completely shaken up. 
+
+In its place, UEFA is expected to introduce a single pool and a format known as the 'Swiss system', which will see teams playing 10 games instead of the current six. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No team will face anyone else more than once in a system more commonly used in chess. 
+
+The teams finishing in the top eight positions of the single pool will advance to the last 16, with the bottom 12 eliminated. 
+
+Meanwhile, the sides finishing between ninth and 24th place will go on to play two-legged play-off ties to decide the final eight slots in the knockout phase. 
+
+The knock-out stages will then proceed in the same manner as now, but the changes will mean a large increase in the number of matches played, with a team reaching the final playing a minimum of 17 matches compared to 13 in the present format. 
+
+The consequences are a huge increase in the overall number of games played, from 125 to 225, with the total number of group-stage matches jumping from 96 to 180. Fans in the blue half of Manchester are coming to terms with the impending departure of the 32-year-old striker. Nine more after the break gave Japan a perfect record of five wins from five. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
