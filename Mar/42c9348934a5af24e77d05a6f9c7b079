@@ -1,0 +1,161 @@
+Directors of seven tea factories in Meru and Tharaka Nithi counties have warned of anarchy in the sector and loss of assets if the forced takeover of factories continues. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They claimed that the elections of factory directors have been infiltrated by people pursuing personal interests. 
+
+The directors warned that if transition from the current leadership to those who are being elected is not properly handled, it could lead to loss of assets and collapse of some factories. 
+
+In a recent Executive Order, President Uhuru Kenyatta ordered that tea factories hold elections within 60 days, kicking up the current storm in the sector. 
+
+The order came following the Kenya Tea Development Agency (KTDA’s) attempts to frustrate reforms, which are meant to benefit tea growers. 
+
+So far, several factories in Murang’a County have elected new directors. 
+
+Illegal elections 
+
+However, KTDA has dismissed the elections as illegal and moved to court to challenge the move. 
+
+Speaking at a press conference at Imenti tea factory, 45 directors of Kionyo, Imenti, Githongo, Miciimikuru, Kinoro, Kiegoi and Weru (in Tharaka Nithi) asked President Kenyatta to convene a stakeholders’ conference, where contentious issues would be discussed. 
+
+The directors said they were not opposed to the elections but asked the government to follow the law. 
+
+“As elected leaders, we will defend our farmers so that this sector does not collapse. We are committed to ensure that tea does not go in the same route as the collapsed coffee, sugar and pyrethrum sectors,” said Mr Paul Ringera, regional KTDA director who spoke on behalf of the team. 
+
+“We appeal to the President to listen to what farmers are saying and convene a national conference where all these issues will be discussed. We suspect there are people who want to ruin this sector. When factories collapse, these are the same people who will buy them and not farmers,” said Mr Ringera. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Fat cats" 
+
+They also claimed that some of the individuals participating in the elections are not bona fide farmers. 
+
+“Some of them are not in the factory registers and have not been delivering tea leaves in the factories they purport to be members,” said Mr Bernard Kiruja, chairman of Kionyo tea factory. 
+
+“Also, the voting stations are not approved and the exercise is being held in market places yet we know that our stations are the green leaf collection centres,” he added. 
+
+Last week, Agriculture Cabinet Secretary Peter Munya hit out at the directors over claims that the ministry was organising the elections, saying the government was just facilitating farmers to comply with the law. 
+
+Mr Munya warned that the government would not sit back and watch as “fat cats” at the agency lined their pockets with farmers’ proceeds, impoverishing tea growers. 
+
+The CS accused the KTDA management of continuing to pay lawyers who are battling out various cases against his ministry and implementation of the Tea Act, 2020 using farmers’ money. The growers will receive Sh21 per kilo of green leaf up from Sh16 monthly advance payment. Each farmer will receive Sh21 per kilogramme of green leaf delivered to their respective factories. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
