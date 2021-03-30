@@ -1,0 +1,299 @@
+Gas cylinders are expensive and in short supply, with one costing up to Sh40, 000, making it hard for the industry players to replace them in time to supply to the market. There’s an acute shortage of medical oxygen in hospitals across the country due to a surge in infections occasioned by the third wave of Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite the dire situation, Health Cabinet Secretary Mutahi Kagwe Monday lamented that some people were ‘hoarding’ 20,000 oxygen cylinders in private facilities, homes and institutions when they are desperately needed in public hospitals to save lives. 
+
+“The major arsenal in the fight against Covid-19 during hospitalisation is oxygen but at the moment we are slowly coming to a point where supplies are being threatened,” said Mr Kagwe after meeting oxygen manufacturers and suppliers at Afya House in Nairobi. 
+
+The CS ordered the immediate release of the cylinders to aid in the battle against the pandemic as the number of patients in need of critical care keep rising daily. Besides people holding onto cylinders, oxygen plants and concentrators are in a state of disrepair, he added. 
+
+Oxygen needs have more than doubled in the country within a year of the pandemic yet public health facilities are only at 16 per cent capacity. 
+
+On Monday, there were 137 patients at the Intensive Care Unit, with 36 on ventilator support and 91 on supplemental oxygen. Another 90 were reported to be separately on oxygen, 12 in the High Dependency Unit and 78 in the general wards. 
+
+The ministry announced 902 new cases with a positivity rate of 26.6 per cent, the highest so far. Some 1,270 patients were admitted in various hospitals, 18 deaths were registered, bringing to 2,135 the total number of deaths in the country. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Health CS Mutahi Kagwe gives update on Covid-19 pandemic
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Oxygen needs shoot 
+
+Gas cylinders are expensive and in short supply, with one costing up to Sh40, 000, making it hard for the industry players to replace them in time to supply to the market. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The oxygen needs shot from 410 tonnes (total production and requirements) last year to 560 tonnes in January. 
+
+“We are now heading for a demand of 880 tonnes. The situation is such that the industry is stretched; if we go further than that, some other steps will have to be taken,” said Mr Kagwe. “It is an offence to hoard the cylinders when we have asked for them under the Public Health Act. Please return these cylinders. There are a lot of facilities with idle cylinders when people are dying because of lack of oxygen,” he added. 
+
+While supply has been a challenge, many hospitals do not have piped oxygen, leading to individual cylinders being used per patient, which reduces efficiency. 
+
+“One cylinder can be used by a number of patients if the oxygen has been piped to the bed side. We are therefore asking our facilities fast-track the piping of oxygen to bed outlets so that we can be able to use some of those cylinders in the industry and refill others,” said Mr Kagwe. 
+
+Some of the 75 oxygen plants in the country are in a state of disrepair while around 20,000 concentrators need to be serviced for hospital use and home-based care. 
+
+Mr Kagwe said the ministry is working with the Treasury to increase oxygen cylinder supply by reducing some taxes. Through the Poisons and Pharmacy Board (PPB), the ministry will fast-track the certification of oxygen suppliers to increase capacity. 
+
+The ministry is also mulling a lease policy rather than purchase of the plants. “We are looking at the possibilities of leasing oxygen plants because of challenges emanating from maintenance of the plants,” said Mr Kagwe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Through the World Bank, the ministry is setting up six new plants in various regions. Last August, when the country was recording more cases, the ministry pumped Sh1.2 billion towards the purchase of piped oxygen from the Sh5 billion it had received from the bank to fight the pandemic. The money had been allocated for the renovation of isolation centres. 
+
+Phased purchases 
+
+Health Principal Secretary Susan Mochache said the purchase of oxygen was going to be done in phases, with the first round focusing on 10 high risk counties, including Nairobi, Kajiado, Machakos, Kiambu, Mombasa, Nakuru, Migori, Uasin Gishu, Kilifi and Busia. 
+
+“We are now focusing on saving lives by allocating more money on oxygen because that is where we are being hit a lot. Kenyans have started experiencing a more severe form of Covid-19 and more people are being admitted in ICUs across the country,” Ms Mochache said at the time. 
+
+The Nation sought clarification on the status of the project but several calls made to the PS’s office went unanswered. But a source at the Council of Governors said no money was released for such a project. 
+
+“I don’t know whether the money was to be released to the said counties or the national government was to pipe the hospitals, as it is, we have not received any money and no project of such kind has kicked off in any of the counties,” said an official who sought anonymity. 
+
+At the same time, biomedical engineers have decried the low supply of oxygen in hospitals. 
+
+“Engineers have resorted to pushing heavy cylinders to various wards and isolation centers to save lives, a situation that puts not only their lives in danger but also patients and relatives,” said Engineer Millicent Alooh, Secretary-General Association of Medical Engineering of Kenya in a different forum. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+She said the government should regulate the pricing of oxygen and if possible waive duty on equipment. 
+
+“It is important that all hospitals be equipped with oxygen gauges, flow meters, humidifier bottles and oxygen cylinder trolleys to be able to safely use the portable oxygen,” said Ms Alooh. 
+
+bmutanu@ke.nationmedia.com and aoketch@ke.nationmedia.com 
+
+Additional reporting by Hellen Shikanda They are all late death reports from the audit of facility records, Health ministry says. Serum Institute says it is seeking to balance domestic demand with international orders. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. They are all late death reports from the audit of facility records, Health ministry says.
