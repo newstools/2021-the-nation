@@ -1,0 +1,75 @@
+More than 500 hawkers have been evicted from Nairobi’s Muthurwa Market. Their sheds were demolished to pave way for the construction of a perimeter wall. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The traders have been operating in open spaces between grills of the old wall. 
+
+Mr Nelson Waithaka, the market’s chairman, said the hawkers have been dealt a blow after another bunch of traders who operated near Wakulima market were evicted early this year. This was after the Kenya Railways built a perimeter wall. 
+
+"This is the second time the traders are being evicted from the market amid rising unemployment rate due to the Covid-19 pandemic, ”Mr Githinji says. 
+
+Mr Githaiga asked the Nairobi Metropolitan Services (NMS) to persuade the contractor to build new stalls for the traders as soon as he completes the construction of the perimeter wall. 
+
+Similarly, Mr Githaiga lauded the NMS for giving Muthurwa market a new look compared to when it was under the control of Nairobi County government. 
+
+He also asked the NMS to launch a water project that was completed last year inside the market. Traders march to City Hall to seek Sonko's address. Traders say hawkers should move to Moi Market and rent stalls. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
