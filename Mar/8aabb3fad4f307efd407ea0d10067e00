@@ -1,0 +1,225 @@
+Getting our finances in order should be topmost priority whether it is the State, corporates or individual householder. Everyone wishes to provide safety, security and comfort to his or her family. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And naturally, money permits us to achieve these goals and helps us to plan for the future. It is crucial to understand our current financial situation, prioritise certain expenditures, pay off or restructure debt and set aside emergency funds. Covid-19 scourge and its variants continue to have a negative effect on the global economy and when it comes to matters finance, no one has been left unaffected by the cut in economic activities since March 2020. 
+
+Last year, we witnessed businesses across all sectors struggling to survive and this trend is expected for the foreseeable future. Shareholders of companies listed on the Nairobi Securities Exchange are still smarting from low or nil dividend payouts as companies try to maintain cash reserves. 
+
+At the beginning of this year, most people must have prepared personal budgets intending to set aside some savings to invest in line with the mantra of making your money work for you. There are many investment options available and each individual must carefully decide where they want to pump their hard-earned money depending on their risk appetite. 
+
+If a comparison is made between returns on property, bonds and shares on a risk adjusted basis over the past five years as per independent analysts, bonds and property have been yielding better returns on an average. 
+
+Shareholders exposed 
+
+When investing in shares, investors are looking for returns, security of their capital and growth. Over the past two years, the NSE index has dampened and the share price of some companies may currently seem underpriced. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Out of the companies listed on the exchange, some blue chip firms have historically paid decent dividends from their earnings. However, during the past few months, a record number of profit warnings have been issued by commercial banks, thereby leaving shareholders exposed to the risk of low dividends or nothing. 
+
+Listed companies are announcing December 2020 year end results between the months of February and end of March. 
+
+We are closing March yet some listed companies have not yet shared the year end financial results announcement dates with brokers, registrars or stakeholders. Shareholders are eager to know result announcement dates of year end results as they wish to know the performance of companies as well as dividend payouts. 
+
+It would have been ideal as a practice for listed companies to share announcement dates of year end 31st December 2020 results with shareholders by first week of February. There should not be a mystery about result announcement dates and shareholders must receive the dates well in advance. 
+
+However, some exceptions are there to this norm and one such company is BAT Kenya, a very strong firm which posted impressive results in the financial year 2020 resulting in shareholders celebrating the announcement of the Sh41.50 final dividend. An announcement which has also resulted in a gentle rally in the market price of the share. 
+
+Investments 
+
+Kenya needs a greater voice for shareholders to safeguard their investments. It is important for owners to keep abreast with the happenings in the economy, the industry sector, management and stakeholder movements, since these influences have a direct impact on the performance of the company they have invested in. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In some cases, they need to exercise their rights to bring change within organisations and should actively participate and exercise their voting rights for providing guidance to directors and auditors of the companies they are invested in. 
+
+Kenya has witnessed a drop in the share prices of several once prime companies over the last two years eroding shareholder value on paper. However, long-term investors of companies usually do not take immediate action or create panic sale off scenarios, especially when the companies have had good payouts in the past. 
+
+Strategic long-term shareholders would continue to support the company and may even see this as an opportunity to pick up more shares to bring down their average costs. 
+
+Having said this, the one expectation long-term shareholders always have from the companies they stand by is to receive a decent dividend return, further stock options or maintenance of share value. 
+
+Sadly for Kenya many companies do not seem to be fulfilling any such promise. 
+
+  riteshbarot.r@gmail.com A rift over who was to take over from Wairegi saw top managers hounded out of their plum offices. Essential service providers or people driving out with an emergency exempted from the order. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
