@@ -1,0 +1,241 @@
+The canal authority has been quick to rule out widening the canal. SCA chief Osama Rabie told reporters the cost would be "very significant" and prohibitive. Ismailia, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egyptian President Abdel Fattah al-Sisi promised Tuesday that his country would buy equipment to avoid any repetition of the past week's closure of the Suez Canal as he visited Ismailia, en route to the vital trade artery. 
+
+The promise came a day after the refloating of the giant container vessel MV 'Ever Given', which hit the eastern bank of the narrow shipping lane last Tuesday and became wedged diagonally across its span for nearly a week. 
+
+"We will acquire all the necessary equipment for the canal," to avoid similar incidents, Sisi declared during his visit to Ismailia, home to the Suez Canal Authority (SCA). 
+
+Egyptian authorities have presented the freeing of the mega-ship on Monday as a vindication of the country's engineering and salvage capabilities. 
+
+Sisi claimed "success" in the operation after the stern was freed, several hours before the bow of the ship was finally dislodged. 
+
+Traffic on the canal, a conduit for over 10 percent of world trade, began moving again on Monday evening, after tailbacks totalling 425 ships built up to the north and south. 
+
+Many cargo ships 
+
+On Tuesday morning, maritime tracking sites showed ships exceeding 200,000 tonnes -- a similar size to the Ever Given -- navigating the narrow waterway. 
+
+But many more cargo ships were seen waiting at its two entrances, in the Mediterranean and the Red Sea. 
+
+The canal authority says it will take over three days for the tailbacks to clear. 
+
+Maritime data company Lloyd's List said the blockage had held up an estimated $9.6 billion worth of cargo each day between Asia and Europe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egypt lost between $12 and $15 million in revenues for each day the waterway was closed, according to slightly revised figures given by the canal authority. 
+
+Scrutiny 
+
+The near week-long crisis has left Egypt facing scrutiny over how to avoid a repeat. 
+
+Professor Jean-Marie Miossec, a maritime transport expert at France's Paul-Valery University in Montpellier, said it would "be prudent... to only authorise (passage) by small and medium sized ships at nightime," restricting oil tankers and other very large ships to daylight hours. 
+
+The canal authority has been quick to rule out widening the canal. SCA chief Osama Rabie told reporters the cost would be "very significant" and prohibitive. 
+
+Egypt spent more than $8 billion dollars on widening a segment and creating a second lane on one stretch in 2014-15. 
+
+The giant Panamanian-flagged vessel operated by Taiwanese Evergreen Marine Corporation was stranded after running aground on the east bank of the waterway in a sandstorm. 
+
+Helped by tugboats, it has been shifted out of the path of other ships, and was anchored late Monday ahead of an investigation. 
+
+Mega operation 
+
+The clearance operation required more than 10 tugs, as well as dredgers. 
+
+"Between 180 and 200 people worked tirelessly 24 hours a day" on site, an SCA official told AFP on condition of anonymity. 
+
+Ahmed Abbas, a Suez canal employee, shared live footage from the scene on his Facebook account as the ship was refloated, exclaiming: "Praise be to God, the vessel is finally out! Well done to the SCA boys!" 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Up to "2,000 workers" provided "outside services," the employee added. 
+
+"The determining factor is that we dug deeper under the bow of the ship and widened to form a pool of water below" at a depth of about 12 metres, he revealed. 
+
+Elsewhere, salvage teams dug up to 18 metres. 
+
+The crisis forced shipping firms to choose between waiting or rerouting vessels around the southern tip of Africa, which adds 9,000 kilometres (5,500 miles) and more than a week of travel to the trip between Asia and Europe. Spokesman says there has been damage sustained by the ship on its bow. 425 ships are waiting to travel through the vital shipping lane. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
