@@ -1,0 +1,235 @@
+According to the Food and Agriculture Organisation, in sub-Saharan Africa, between 40 percent and 50 percent of produce go to waste before reaching the end customer, largely due to a lack of viable cold chain solutions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Various innovations have however been created to help solve this problem and reduce losses which eats into farmers’ earnings while compromising food security. 
+
+Many of the technologies deployed to help store food and keep them in good condition before they reach the market are imported, meaning that they are not tailor-made to meet local challenges. 
+
+This is the gap that tech company, Sheffield Africa is seeking to fill through its innovative cold room solutions. 
+
+The firm uses Polyurethane Foam (PUF) panels in assembling cold rooms’ insulation properties. This innovation, the firm says, helps in cutting energy costs for firms and farmers. 
+
+The firm, which has been focusing on food and beverage industry, has now ventured into agriculture to provide solutions to companies that harvest, store and transport perishable farm produce. 
+
+Cold storage 
+
+“We noticed a gap in cold storage that cuts across several industries in Kenya and in Africa. Since our vision is to create entire solutions for the hospitality, health, and agriculture sectors, we decided to venture into manufacturing and assembly of cold storage to ensure readily available and tailor-made solutions,” says Suresh Kanotra, the managing director. 
+
+Sheffield says it seeks to create energy-saving, hygienic, long-lasting, and cost-effective solutions with minimal environmental impact. 
+
+Because the firm’s storage technology are solar-powered, they are suited for rural areas that are yet to be connected to electricity. And in areas covered power grid, the firm says the storage facilities will still be preferred as they are cheaper and efficient. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Saravanan Karuppusamy, the business development manager for coldrooms at Sheffield Africa, inside the solar powered coldroom.
+Photo credit: Millicent Mwololo | Nation Media Group
+
+ 
+
+Their cold storage, Mr Kanotra says, is tailored to “ideal capacity, available space, products to store in, and industry’s specific technical requirements”. 
+
+The cold storage system includes solar-powered cold rooms, display cold-rooms, fruits and vegetable storage, fruit ripening chambers, potato storage, onion storage, meat cold storage, fish cold storage, and mortuary storage. 
+
+Reduces power consumption 
+
+Recently, Sheffield completed a 60X12X7metres (720sqm) cold chain facility for Kapa Oil Refineries Limited for bulk storage of margarine. It is split into two 30X12X7 (360sqm) temperature-controlled cold-room with a multistage racking where products can be stored at four levels. 
+
+It has a RACK refrigeration system with inverter technology that reduces power consumption of the whole plant by between 20 percent and 25 percent, and fully automatic sectional doors with a remote control system. This is their biggest project yet, says Mr Kanotra. 
+
+Other Sheffield clients include Wondernut EPZ International, Sarit Centre Production and Banqueting, Nairobi Hospital, KFC, Artcaffe and Simbisa Kenya. 
+
+Sheffield says their two cold room facilities — a solar-powered one and the other, a low-cost (room air conditioner powered) one targeting the agribusiness industry — are first in the market in terms of new innovation. Standalone solar power, he notes, “is one of the best solutions for operating small cold storage in rural areas where there is a certain limit of power load”. 
+
+These solar-powered cold rooms have unique features such as low maintenance, electric power or a digital generator (DG) backup, portable and easy to shift at any open countryside areas. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Our cold rooms are well insulated, highly efficient, and precisely designed to cater to a wide temperature range of +25°C to -40°C,” adds Mr Kanotra, adding that the firm is also focusing on the medical industry. 
+
+mmwololo@ke.nationmedia.com Equity Bank and NCBA join the list of big banks who have reported significant declines in net profit. ICT secretary says State has confidence in Chinese firm after successful jobs here. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
