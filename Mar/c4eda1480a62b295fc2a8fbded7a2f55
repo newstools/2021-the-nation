@@ -1,0 +1,257 @@
+The things you take for granted, someone else is praying for, they say. For many parents, preparing the children for school every morning is an easy task. To the affluent, domestic servants are always on standby. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But for special needs parents like Lucy Wambugu, who’s raising a child with autism, each morning is a struggle. 
+
+
+
+
+
+
+Lucy Wambugu during the interview. 
+Photo credit: Kanyiri Wahito | Nation Media Group
+
+ 
+
+When she is not guiding her 14-year-old daughter back to her sit, or stopping her from jumping on the chair, or thumping at the window, she is buttoning her blouse or pulling up her pants. 
+
+Everywhere the daughter goes, she follows; feeding her and wiping her face. When she’s playing with others, Lucy is keenly watching to ensure order, so that the daughter doesn’t snatch a toy from another girl. 
+
+All mornings in her home in Makongeni, Thika, follow a similar routine. It’s usually breakfast, a warm bath, dressing, then medication. Breakfast involves Lucy scooping the food on a spoon, with the daughter taking it to her mouth. 
+
+At the bus stage, Lucy always expects some form of drama. The daughter prefers to sit behind the driver, which often compels her to negotiate with other passengers to swap seats to prevent a meltdown. 
+
+Lucy, 45, learnt about her daughter’s condition after a mother of two autistic children pointed it out during a seminar they had attended. 
+
+“My daughter was around five years old then, and was hyperactive. She was always taking her clothes off. The woman observed her and called me aside to explain that she is autistic,” says Lucy. 
+
+She suspects the condition began during the fifth month of her pregnancy when she developed abdominal pain and was put on a three-week bed rest. 
+
+Two months later the pain recurred, and a scan showed that the baby was abnormally positioned. She was advised to avoid heavy work, and a couple of months later she delivered via caesarian section. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After two months, the baby became ill, vomiting regularly. She was treated and discharged, but the condition persisted. 
+
+At eight months, the baby was hospitalised for a month with meningitis. She later started having seizures and was put on daily medication, which she takes to date. 
+
+“At the time, we noticed that she had also regressed in her milestones. She was not sitting nor blabbering like other babies of her age. She had not attempts at movement,” says Lucy. “When she turned three, she became hyper, throwing objects all over the house.” 
+
+With her husband, they returned their toddler to the doctor that had diagnosed the meningitis. Therapy was recommended, and after some sessions, the baby learnt to walk. 
+
+“When she turned five, we enrolled her to a special school for autistic children. In the first two years, I would carry her on my back to school. But she was just as hyperactive as she is now.  From the first day she stepped into class eight years ago, I’ve been by her side,” says Lucy. 
+
+
+
+
+
+
+Lucy Wambugu's 14-year-old daughter.
+Photo credit: Kanyiri Wahito | Nation Media Group
+
+ 
+
+Her lessons involve training her to collect objects scattered on the floor and organise them correctly. She is also engaged in other exercises to help her develop fine motor skills. 
+
+“I am not the only parent accompanying her child to school. Most parents whose children have severe cases accompany their children or hire someone to do so. For our little family, we have been entirely dependent on my husband, who is a matatu driver,” offers Lucy. 
+
+Apart from the occasional frown of a person when her child touches them, Lucy’s family hasn’t been stigmatised. The main challenge is financial. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Her drugs are very expensive. Although the special education is free, we have little income. Apart from bus fare, my daughter is supposed to be on a special diet, which we provide occasionally because we cannot afford it. She is not allowed to take tea, so she takes porridge. Her ugali has to be cooked from grade two maize flour. Her stew has to be prepared using a specific brand of cooking oil,” she says. 
+
+Second child 
+
+Any thoughts about a second child? 
+
+“I have contemplated getting a second child, but my worry is she/he might turn out the same, and make our challenges tougher,” she says. 
+
+Lucy has never had any counselling and is not in any support group where parents with autistic children learn from each other. 
+
+Autism Spectrum Disorder is a developmental disorder that is manifested through behavioural and communicational challenges. This impacts a person’s ability to engage in healthy social interactions and also causes repetitive and restricted behaviour. 
+
+There is no one cause of autism. However, research suggests that autism develops from a combination of genetic and non-genetic, or environmental, influences. World Autism Awareness Day, celebrated on April 2, seeks to advocate for the need for persons with autism to be able to lead full and meaningful lives as an integral part of the society. 
+
+mchelangat@ke.nationmedia.com Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
