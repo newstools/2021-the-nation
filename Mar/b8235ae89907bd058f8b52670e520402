@@ -1,0 +1,235 @@
+Aguero himself is adamant his departure does not mean the end of the story for him personally.Barcelona are reported to be potential suitors and the Argentine has also been linked with Paris Saint-Germain, Juventus and Inter Milan.City, for their part, hope to have thousands of fans back in their stadium as Covid-19 restrictions are eased -- in time to say farewell to Aguero and give a fitting send-off to one of their true greats. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sergio Aguero, who will always be associated with a single gilded moment in Manchester City's history, is starting his long goodbye from the club with his position secure as one of the Premier League's all-time greats. 
+
+Fans in the blue half of Manchester are coming to terms with the impending departure of the 32-year-old striker, who will leave when his contract expires at the end of the season. 
+
+Aguero joined City from Atletico Madrid in 2011, three years after the club was taken over by Abu Dhabi owners, and will leave after 10 trophy-laden years as the club's record goalscorer, with 257 goals in 384 games so far. 
+
+"When a cycle comes to an end, many sensations arise," the Argentine wrote on Twitter. 
+
+"A huge sense of satisfaction and pride remains in me for having played with Manchester City for a whole 10 seasons -- unusual for a professional player in this day and age." 
+
+Aguero has won four Premier League titles, with a fifth looking almost certain this season for City. Pep Guardiola's side also remain in the hunt for a historic quadruple. 
+
+City chairman Khaldoon Al Mubarak has revealed a statue of the striker has been commissioned to stand alongside those currently being made to honour Aguero's former team-mates David Silva and Vincent Kompany. 
+
+"Sergio's contribution to Manchester City over the last 10 years cannot be over-stated," said Al Mubarak. "His legend will be indelibly etched into the memories of everyone who loves the club and maybe even in those who simply love football." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Team-mate Kevin De Bruyne hailed him as a "City legend forever" while City defender Aymeric Laporte described him as a "class act" on and off the pitch. 
+
+Aguero has struggled with injuries since having knee surgery in the close season. A hamstring problem complicated his comeback and then he had to sit out a month after a coronavirus infection. 
+
+Those factors will have played a part in City's decision not to offer him a new contract but the player himself is adamant he is far from finished, saying he is ready to face his new challenge with "passion and professionalism". 
+
+- Aguero magic -Even nine years after the event, it is impossible to separate Aguero from the goal that forever earned his place in the hearts of City fans. 
+
+Manchester United were seconds away from celebrating yet another Premier League title, prolonging the agony of their neighbours, who had not been crowned English champions since 1968. 
+
+But Aguero had other ideas, receiving the ball from Mario Balotelli and thundering home a finish to secure a 3-2 victory against QPR and send the Etihad into raptures. 
+
+There is even a 93:20 lounge at the stadium in a nod to the timing of Aguero’s dramatic title-clinching winner. 
+
+The Argentine became the club's record goalscorer when he overtook Eric Brook's 78-year landmark in 2017 and is now far out on his own. 
+
+He is the highest-scoring overseas player in Premier League history and is fourth on the all-time Premier League goalscoring list, with 181 goals. 
+
+Aguero's problems with injuries and illness this season mean he has made just 14 appearances and he has scored just three times. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But former City defender Micah Richards, who won the title alongside Aguero in the 2011/12 season -- believes the Argentine still has a lot to offer. 
+
+"Unless you get (Kylian) Mbappe, (Erling) Haaland or (Harry) Kane, what striker are you going to get to replace him? You get another year out of him," Richards told the BBC. 
+
+City have been linked with a move for Borussia Dortmund hotshot Haaland, who is one of the most coveted players in world football, and Kane could be another option. 
+
+Aguero himself is adamant his departure does not mean the end of the story for him personally. 
+
+Barcelona are reported to be potential suitors and the Argentine has also been linked with Paris Saint-Germain, Juventus and Inter Milan. 
+
+City, for their part, hope to have thousands of fans back in their stadium as Covid-19 restrictions are eased -- in time to say farewell to Aguero and give a fitting send-off to one of their true greats. He joined City from Atletico Madrid in 2011 and has scored 257 goals in 384 games since. Human rights groups have been heavily critical of the treatment of migrant workers in Qatar. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
