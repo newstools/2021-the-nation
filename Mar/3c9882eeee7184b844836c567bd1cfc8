@@ -1,0 +1,77 @@
+Under the Constitution, the new Vice president has to be approved by at least 50 per cent of the members of Parliament. Dodoma, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tanzanian President Samia Suluhu Hassan has nominated Finance minister, Dr Philip Mpango, as the new Vice President of the United Republic of Tanzania. 
+
+The name has been presented to Parliament for approval in line with the constitutional requirement for the VP nominee to be approved by at least 50 per cent of the MPs. 
+
+Upon approval, the 63-year-old will fill the position left vacant after Ms Suluhu was sworn-in as President following the death of Dr John Pombe Magufuli. 
+
+Dr Mpango has been the Minister for Finance and Planning since November 2015. 
+
+He previously served as the acting Commissioner-General of the Tanzania Revenue Authority (TRA), Executive Secretary in the President’s Office (Planning Commission), Deputy Permanent Secretary at the Ministry of Finance and Economic Affairs, and the Personal Assistant to the President (Economic Affairs). 
+
+Dr Mpango has also worked as the head of the President’s Economic Advisory Unit, a Senior Economist for the World Bank and a visiting lecturer in Public Economics in the Collaborative Master’s programme for Anglo-phone Africa, AERC, Nairobi, Kenya. 
+
+He has also worked as a lecturer in the Economics Department at the University of Dar es Salaam. Tanzania police say 37 more people were injured when mourners attempted to force their way into Uhuru Stadium on March 21. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
