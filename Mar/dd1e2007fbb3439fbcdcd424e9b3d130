@@ -1,0 +1,344 @@
+Al-Shabaab terrorists had in 2012 plotted to harm President Mwai Kibaki and Prime Minister Raila Odinga, Nation has established. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One of the terrorists frequently visited Nyeri to identify the President’s routine between June and October 2012, according to Kenya’s submissions to the International Court of Justice (ICJ) in February on the Indian Ocean boundary case with Somalia. 
+
+Militia from Al Hijra, a local network of al-Shabaab, also spied on Mr Odinga. The documents detail al-Shabaab terrorist attacks and plots foiled by Kenyan authorities. One of the annexes in support of the application requesting the court to authorise Kenya to file new documentation and evidence is headlined ‘Plots against the State: President, Prime Minister and Parliament.’ 
+
+“Al-Shabaab aspirations to violently overthrow the Kenya state predate the Kenya Defence Forces official incursion into Somalia in 2011,” reads the report of the Monitoring Group on Somalia and Eritrea pursuant to a United Nations Security Council (UNSC) resolution in 2013. 
+
+Extracts from the report, which was filed with the UNSC in October 2014, cite an audio from Somalia by Al Hijra’s ‘Amir’ Ahmad Iman in December 2010 that exposes the plot against the Kenyan leaders. 
+
+Al Hijra/al-Shabaab members 
+
+Amir warned the Kenyan government against its covert intervention under “Operation Linda Mpaka,” according to a restricted Directorate of Military Intelligence document detailing KDF’s mission in Somalia obtained by the Monitoring Group in 2011. 
+
+In the audio, Amir says “strap the bombs on me and let me blow myself up in the Parliament building of Kenya, let not anyone survive. Even Kibaki….” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the report, the Monitoring Group says it had received uncorroborated claims that in 2012, Al Hijra/al-Shabaab members conspiring with ‘Makaburi’ may have instigated plots against Kenya’s former President and Prime Minister. Abubakar Shariff Ahmed alias Makaburi had been cited in previous UNSC reports as vowing allegiance to al-Shabaab and pledging to continue his recruitment drives in Kenya on behalf of the Somali militia. 
+
+From December 2012 to March 1, 2013, the group closely monitored the movements of a number of Al Hijra fighters retreating from Kenya to regroup in Tanzania and close to the Ugandan border. One such fighter was Rashid, who had assumed the Tanzanian name of Jacob Mtunzi Rwakatale. 
+
+The group cites information received from a credible confidential source that had direct access to Rashid, who was responsible for the welfare and logistics of the militants fleeing Kenya in Tanzania. On January 24, 2013, during a field mission to Tanzania, the group was briefed on a discussion in which Rashid casually referred to his operations. 
+
+Read: Trail of ruined lives as Aboud Rogo disciples unleash terror across region 
+
+“According to Rashid’s account, at an unspecified date but probably in the Monitoring Group’s estimate between June 2012 and no later than October 27, 2012, he had been instructed by a senior Al Hijra/al-Shabaab member named Titus Nabiswa ‘Mwalim Khalid’ to travel to Nyeri for the purpose of carrying out “surveillance” on the then President of Kenya, Mwai Kibaki,” the report states. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Operational planner 
+
+Citing interviews on January 24, 2013 with sources with direct responsibility for logistics for Al Hijra in Tanga, Tanzania, the report described Mwalim Khalid as “an explosives expert and operational planner”. Mwalim Khalid had dispatched dozens of Al Hijra fighters from Somalia to carry out attacks in Kenya. Al Hijra had transformed from the Muslim Youth Centre (MYC), which recruited its followers from Majengo, Nairobi, and the port city of Mombasa. The group was formed by Ahmed Iman Ali, a preacher in Nairobi who had fled to Somalia in 2009. At the Coast, the group was led by Sheikh Aboud Rogo Mohammed. 
+
+
+
+
+
+
+
+
+
+
+
+Aboud Rogo and Abubakar Sharif Ahmed Abubakar alias Makaburi in a Nairobi court where they were charged with being members of Al-Shabaab on December 22, 2010.
+Photo credit: File | Anthony Omuya | Nation Media Group
+
+ 
+
+Rogo was killed in a drive-by shooting in Mombasa in August 2012. Mwalim Khalid would also be killed a couple of months later. 
+
+On the plot against the President, Rashid reportedly camped in Nyeri where the Head of State had engagements. At times, President Kibaki would host delegations at Sagana State Lodge. 
+
+The group reported during a meeting on January 24, 2013 in Tanga that Rashid had claimed “the former Prime Minister had at times travelled in Nairobi without his security detail”. 
+
+On September 5, 2012, Makaburi was detained for allegedly inciting young Muslims, mainly from his Mtwapa madrassa and Masjid Musa, to violent demonstrations following the killing of his associate, Rogo. 
+
+The Monitoring Group also cited credible information suggesting that, following Rogo’s death, Makaburi contacted senior al-Shabaab leaders in Somalia for assistance in carrying out reprisal attacks in Kenya. Mwalim Khalid had in June 2012 dispatched a group of Somalia-based Al-Hijra fighters to Kenya as part of al-Shabaab’s operations to destabilise the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The plot against Parliament had emerged earlier in December 2011 during the interrogation by the Kenyan security services of the Al-Qaeda-affiliated Jermaine John Grant. Grant had claimed al-Shabaab was planning to attack a number of targets in Kenya, including Parliament buildings. Information about the plot on Parliament buildings was corroborated during a meeting in Tanga on January 23, 2013 in which Rashid alluded to being aware of it. 
+
+On October 28, 2012, while travelling from Nairobi to Mombasa, most probably to coordinate further attacks in Mombasa, Mwalim Khalid was intercepted at Mariakani, less than an hour from Mombasa. 
+
+
+
+
+
+
+Sheikh Abubakar Shariff alias Makaburi when he appeared before a Mombasa court on March 27, 2014.
+Photo credit: File | Kevin Odit | Nation Media Group
+
+ 
+
+Photographic evidence obtained by the Monitoring Group indicated that Mwalim Khalid was in possession of a small arms cache. Following his interception, Mwalim Khalid led security services to an associate, Omar Faraj, hiding in Mombasa. Reports at the time indicated both Mwalim Khalid and Omar Faraj were killed by the security services in a shootout. 
+
+Information received by the Monitoring Group suggests that, after the killing of Mwalim Khalid and his failed plot on Parliament buildings, Al Hijra was forced to rethink its operations, particularly in Mombasa. 
+
+During a discussion at a safe house in Mwanza, Tanzania, Al Hijra fighter, Athman Ahmed Mwarabu, acknowledged: “We had planned everything. We were ready even before that. When Titus (‘Mwalim Khalid’) was got (killed), it ruined our plans. But we didn’t lose our morale. We started planning afresh.” 
+
+Almost a month later in November 2012, Kenyan security services again disrupted a plot involving Al Hijra members, including Khubeib Rogo, who had recently returned from Somalia, and Swaleh Abdulmajid, who in 2010 was arrested for attempting to travel to Somalia to join Al-Shabaab with UK national Michael Olumide Adebolajo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The Monitoring Group revealed it had indirect access to Khubeib Aboud Rogo while on remand in Shimo la Tewa prison in November 2012. Some of Khubeib Rogo’s audio information has been archived with the United Nations. 
+
+“This testimony, albeit obtained under interrogation, is corroborated by another Al Hijra fighter returning from Somalia who was arrested on September 6 2012, and who confirmed that ‘Mohammed Seif’ had been dispatched by Al-Shabaab as a suicide bomber,” the Monitoring Group reported citing interviews with a law enforcement official on November 24 2012. 
+
+A year later, Al Shabaab struck Nairobi with a brazen attack on the Westgate shopping mall. 
+
+Kenya submitted to the ICJ elaborate intelligence demonstrating how the attack was planned, as well as subsequent terrorist attacks, to support its case it has borne the brunt of terrorism fuelled by Somalia’s instability. 
+
+andegwa@ke.nationmedia.com Reports compiled by investigators paint a picture of an intricately-planned attack. But who, exacly, were these four men? Last terrorist out of the car either closed the door, extinguishing the flames, or forgot to light the matchbox. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
