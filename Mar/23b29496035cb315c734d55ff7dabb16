@@ -1,0 +1,279 @@
+Traditionally, the Maasai use elephant dung to treat several skin ailments.  Every morning, the youth follow the elephant trail and collect the dung. The group invested over Sh200, 000 into the venture. Ever heard of soap made from elephant dung? No? Well, now you have. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The jumbos’ excreta is the main raw material for a soap-making venture that 50 women in Sikinani village in Narok West Sub County are involved in, a venture that they turned to after the business of beadwork dipped following the Covid-19 pandemic. 
+
+When dawn breaks, the women and the youth they have incorporated into the waste-hunting venture set out in search of the elephant waste at the Nashulai Maasai Conservancy neighbouring the Maasai Mara National Reserve. 
+
+Nashulai Conservancy Chief executive officer and co-founder, Nelson Ole Reyia, who is behind the empowerment of these women, says the venture was inspired by the Maasai community’s use of elephant dung to treat skin ailments. 
+
+“Traditionally, the Maasai use elephant dung to treat several skin ailments, so we decided to find a way to commercialise the venture,” Mr Ole Reyia said. 
+
+Ole Reyia explains that elephant dung might not be the most obvious source of bush medicine, but these large pieces of pachyderm excrement have some of the most effective properties for treating various ailments. 
+
+The world over, researchers have found different uses of elephant dung, which is composed of a variety of plants and leaves, and holds most of the foliage that a medicine man would use in his treatments. 
+
+Inhaling the smoke of this dung is capable of healing a headache, dulling toothaches and other pains. The dung is also used as a mosquito repellent, according to Africa Geographic. Bleeding noses and sinus problems are also known to subside when one inhales smoke from elephant dung. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Elephants eat vast amounts of food each day, 200-250kg, from many different types of plants, so it is not surprising that people have found numerous uses for the stuff that comes out of the other end,” adds Ole Reyia. 
+
+The Sikinani village women do not have to engage in backbreaking work to find the dung, since it is scattered all over the conservancy where the elephants graze daily. 
+
+As poachers look for ways to kill the animal for its tusks and tour companies bank on them to attract tourists, these women hope that the elephants continue to thrive so that they can provide them with the raw material for their soap-making. 
+
+
+
+
+
+
+Soap photo
+Photo credit: Pool
+
+ 
+
+The group has employed at least 20 youth, young people that would have otherwise been idling at home due to closure of colleges and loss of jobs due to Covid-19. 
+
+The group’s leader, Joyce Moniko, a renowned bead craftswoman from Ewangan Maasai Cultural Village, says that they settled on the herbal soap idea because elephant dung is a readily available raw material and is also eco-friendly. 
+
+Ms Moniko said since it was a challenge for the women to go into the wild to collect the dung, they partnered with the youth, led by Ms Vivian Siimoi, to turn their dream into reality. 
+
+Siimoi says that every morning, the youth follow the elephant trail and collect the dung once the animals move into the Maasai Mara National Reserve. The group invested over Sh200, 000 into the venture, including training its members on how to process the soap. 
+
+Currently, the women supply the soaps to lodges and tented camps inside and around the Maasai Mara. They also sell to local markets in Sikinani and Talek Trading Centers besides using it in their own homes. The process of making soap involves drying and grinding the dung into a fine texture. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After that, the group’s technical expert, Benard Ronoh says that the mixture is blended with olive oil and water including some colouring powder, turning it into liquid soap. The liquid soap is then solidified and cut into desired sizes ready for packaging and labelling before it is sold to consumers. 
+
+Ms Meg Reyia, who is in charge of women and gender affairs at the conservancy, is happy that the venture has created job opportunities for many locals around the conservancy, and is confident that more women and youth will benefit from it as it expands. 
+
+A 50-gram packet of the soap retails for Sh500 and clients who have used it, including the Ol Darpoi Mara Camp, say that the soap works just fine. John Pesi, who works in the camp adds that clients like that it foams easily and that the smell is natural. 
+
+Apart from the soap-making venture, the conservancy supports a poultry project run by local women, a beekeeping and honey processing venture that targets the youth, besides keeping improved livestock breeds and kitchen gardens. 
+
+Four years ago, the BBC reported about the growing, albeit still small, paper industry whose main raw material is elephant dung. The elephant dung paper industry then was centred on the Mwaluganje Elephant Sanctuary, a community-owned conservation area for elephants about 45km southwest of Mombasa City. A village elder in Sikinani, Thomas Pariken, says many of the villagers will attest to the numerous benefits of elephant dung. 
+
+“All you need to do is light up a bit of dried dung, and the smoke will keep mosquitoes away for the entire night, also, the smell is less offensive to your nostrils than the average spray-on repellent,” adds Mr Pariken. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Such innovations have in the past earned the conservancy an award for its innovative approach to community education and nature-based solutions that tackle climate change and biodiversity loss. 
+
+sayagie@gmail.com The clean energy has brought a change of lifestyle in the community as residents drop firewood use. Esther Njeri and her husband Daniel Gitari use slurry from their cows to make briquettes, maximising benefits from their animals Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
