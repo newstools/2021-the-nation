@@ -1,0 +1,405 @@
+Before Barack Obama emerged as a US presidential contender, few people knew his Kenyan grandmother, Sarah—the second wife of Hussein Onyango, the grandfather whom Obama described as “a prominent farmer, an elder of the tribe (and) a medicineman with healing powers.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+By the time she died yesterday in Kisumu, aged 99, Sarah was perhaps Kenya’s most written-about grandmother and fondly mentioned in all the biographies that touch on the African roots of the former US president. Yesterday, international newspapers run her tribute and announced her demise. 
+
+
+
+
+
+
+A young Barack Obama with his grandmother, Mama Sarah Obama, during a trip to Kenya.
+Photo credit: Courtesy
+
+ 
+
+While Sarah was not the biological grandmother of the former US President, she became the surviving Kenyan-link to the US president’s roots in Africa and an important cog in his struggle with identity. 
+
+For years, Sarah became Obama’s defender against a group of activists known as Birthers and which claimed to have a birth certificate indicating that Obama was Kenyan-born, which could have denied him a chance to run for the presidency. 
+
+Kenyan students 
+
+While Obama’s father was one of the Kenyan students who had found their way to the US in search of higher education, his short-lived marriage to Ann Dunham lasted from 1961 to 1964 after she discovered that Obama Snr was not divorced as he previously purported, and still had a Kenyan wife, Keziah. Obama returned to Kenya and abandoned the mother and the young boy, Barack Obama, Jnr. 
+
+Read: Barack Obama's tribute to his grandmother, Mama Sarah Obama 
+
+With the death of Obama Snr in November 1982, Sarah Obama would later become one of the best links that Barack Obama would use to retrace his Kenyan heritage. As the step-mother of President Obama’s father,the University of Hawaii-trained economist, Sarah made it her duty to defend her grandson as journalist tried to prod her about his birth. While she was a strong believer in the Islamic faith, she always protested at attempts to portray Obama as a Muslim – a prejudice that had increased after the September 9 attacks on the World Trade Centre by Al Qaeda terrorists . Sarah also criticised Obama’s opponent who were suggesting that he was Kenyan-born, and thus unfit to run for the US presidency. The constitution of the US says someone who was not born in the US cannot be elected president. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Governor Anyang’ Nyong'o mourns Mama Sarah Obama
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+“Untruths are told that don’t have anything to do with what Barack is about,” Sarah once told Associated Press in one of her many interviews. She was dispelling rumours spread by Obama’s opponents that he was a Muslim and that he was hiding his religious identity. Even after Obama became president, Sarah became a victim of mischief by US groups determined to smear Barack Obama’s name. 
+
+Read: Mama Sarah Obama died of chest infection, family says 
+
+The most determined of this was a group known as Birthers which emerged by posting a tape purported to quote Sarah saying that President Obama was born in Kenya. It was fronted by Philip Berg, a lawyer and former chairman of the Democratic Party of Montgomery County – a man who filed a suit challenging Obama’s eligibility to become President of the United States. 
+
+Together with Bishop Ron Macrae, they had purported to interview Sarah on phone and later claimed that she had admitted that Obama was born in Mombasa. They also had a birth certificate. 
+
+“On the tape”, a US newspaper reported, “the woman thought to be Sarah Obama is prodded by a Berg ally who’s a self-described bishop from the US to affirm that Obama was born in Kenya. 
+
+
+
+
+
+
+The then US President Barack Obama and his grandmother, Mama Sarah Obama, when he officially opened the Sauti Kuu Recreation and Resource Centre at Nyang'oma in Kogelo village, Siaya County, on July 16, 2018. 
+Photo credit: Ondari Ogega | Nation Media Group
+
+ 
+
+“Was she present when he was born in Kenya?” Bishop Ron McRae asks in the taped phone call. “She says yes she was, she was present when Obama was born,” says the voice of the translator. But the tape was said to end abruptly after Sarah is asked whether Obama was born in Mombasa: “Obama was not born in Mombasa. He was born in America.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But only part of the tape was being revealed and the entire suit later collapsed. How Sarah handled all these attempts, given that she hardly understood English, has never been known. 
+
+What we know is that as Senator Obama became a serious contender for the Democratic party’s presidential ticket, local and international journalists camped in Kogelo and threw the once little-known Sarah into international limelight, thus gaining attention she never dreamt off. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mama Sarah Obama's sister, Mwanahawa Abdala, mourns her
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+To date, there is a biography to her name: “Mama Sarah Obama”, written by Daphne Barak, Erbil Gunasti, and Michal Kozielczyk while her photographic journey is captured in a coffee table book, “Granny: Mama Sarah Obama” published last year by California photojournalist, Navis Oliver. 
+
+Obama was only 27 when he embarked on a mission to hunt for his Kenyan roots. “I was determined to understand the life of my father and the life of my people,” he would later remark in Nairobi. “ I visited my father’s grave and it gave me a sense of satisfaction.” 
+
+Muslim converts 
+
+Sarah’s husband was one of the first Muslim converts in the region and adopted the name Hussein which runs within the family. But neither the fame that came with his step-son, Obama the economist, or the grandson who became the US president seemed to tamper with her polite nature. 
+
+Villagers still regarded her as a philanthropist who used her money to pay school fees to the needy. It was the same polite and friendly nature that became President Obama’s character in the  White House. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+One of the first photos taken with Obama Jnr show the kind of chemistry that Sarah had with her grandson outside a grass-thatched hut with Obama wearing a red shirt, a white trouser and sports shoes. That was during the inaugural 1987 visit which also revealed the down-to-earth nature of the man set to join Harvard law graduate school. It also indicated the modest life his Kenyan family lived – and all this through the eyes of Sarah Obama. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mama Sarah Obama's body arrives in Kogelo
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+As he said later, the encounter with his Kenyan family connected him to his past and the “stories of those who came before us” and “fortified” him for the future. 
+
+It was during the second visit in 1992 that he took time to introduce his fiancée to Sarah. 
+
+Sarah gave Obama the kind of closure that he was looking for during his first two visits to Kenya. Unlike the second visit when he was already a Senator, Barack Obama was not known during his first visit and he walked around Nairobi incognito; took a train up to Kisumu and then boarded a bus and matatu to Kogelo. But as it emerged later, Sarah was the person who allowed President Obama to have an encounter with this Kenyan past —an encounter that meant a lot in his quest for political seat, first as a student, then as a Senator and later as president. 
+
+ 
+
+In most of his speeches and publications, Obama fondly.  So important was she in his presidency that she got the honour of attending Obama’s first inauguration as president in 2009. Obama would later in September 2014 speak fondly of her at the UN General Assembly. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Perhaps it was her welcoming nature that made all the difference as recounted by former First Lady, Michelle Obama in her autobiography, Becoming. 
+
+The search for the Obama family roots was breath-taking for her: “I remember being sweaty and thirsty as we walked the last bit of the way to Barack’s grandmother’s compound, to the well-kept concrete home where she’d lived for years, farming an adjacent vegetable patch and tending several cows,” Michelle writes. 
+
+“She was a short, wide-built lady with wise eyes and a crinkling smile. She spoke no English, only Luo, and expressed delight that we’d come all this way to see her. Next to her, I felt very tall. She studied me with an extra, bemused curiosity, as if trying to place where I came from and how precisely I’d landed on her doorstep.” 
+
+Jkamau@ke.nationmedia.com Kenyans and leaders take to social media to mourn her loss. The family issued the clarification following speculation about what she died of. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
