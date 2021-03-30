@@ -1,0 +1,239 @@
+The Los Angeles Clippers extended their win streak to six games by ripping the Milwaukee Bucks 129-105, improving to 32-16 and staying four games behind the Jazz in the Western Conference.Marcus Morris led the Clippers with 25 points, and Kawhi Leonard added 23, while Greek star big man Giannis Antetokounmpo led the Bucks with 32 points. Washington 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Washington's Russell Westbrook and Brooklyn's James Harden delivered impressive triple-doubles on Monday, sparking their clubs to NBA victories and making some personal history for themselves. 
+
+Westbrook unleashed 35 points, a career-best 21 assists and 14 rebounds to power the Wizards over the visiting Indiana Pacers 132-124 for the 162nd triple-double of his career. 
+
+It was the first triple-double in NBA history with 35 or more points and 20 or more rebounds. Only Magic Johnson and Oscar Robertson had previously produced triple-doubles of 30 points, 20 rebounds and 10 assists. 
+
+"I take pride as a leader in making my teammates better. Tonight the guys helped me out making shots and keeping it moving," Westbrook said. 
+
+It was Westbrook's 16th triple-double with the Wizards, the 32-year-old US guard setting a club one-season record in only his 38th appearance for Washington. 
+
+"Mindset was to go out and be aggressive and make sure I set the table for my teammates like I've been doing all year long and make sure they have confidence going into the fourth," Westbrook said. 
+
+"When the fourth hits, it's time to take over." 
+
+Japan's Rui Hachimura added 26 points as the Wizards (17-28) had six double-figure scorers, while Domantas Sabonis led Indiana with 35 points and 11 rebounds. 
+
+In New York, Harden scored 38 points, passed off 13 assists and pulled down 11 rebounds, while Kyrie Irving added 27 points in his return as the Nets beat visiting Minnesota 112-107. 
+
+Harden delivered his 12th triple-double in only 32 games with the Nets, tying Jason Kidd's one-season club record, as Brooklyn moved a half-game back of Eastern Conference leader Philadelphia at 32-15. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Irving, who missed Brooklyn's past three games for personal reasons, added seven rebounds, three assists, three steals and a blocked shot against the league-worst Timberwolves (11-36). 
+
+Brooklyn's Kevin Durant remains sidelined for at least another week due to a hamstring injury. 
+
+Frenchman Rudy Gobert had 18 points and 17 rebounds as the Utah Jazz improved the NBA's best record to 35-11 with a 114-75 trouncing of visiting Cleveland. 
+
+Donovan Mitchell had 19 points, and Mike Conley added 18 for the Jazz, whose win streak stretched to five games. 
+
+The Los Angeles Clippers extended their win streak to six games by ripping the Milwaukee Bucks 129-105, improving to 32-16 and staying four games behind the Jazz in the Western Conference. 
+
+Marcus Morris led the Clippers with 25 points, and Kawhi Leonard added 23, while Greek star big man Giannis Antetokounmpo led the Bucks with 32 points. 
+
+Miami's Jimmy Butler scored 27 points, and Bam Adebayo added 20 points and 18 rebounds to spark the Heat over host New York 98-88. Julius Randle led the Knicks with 22 points. 
+
+The Heat improved to 23-24 to match Boston for seventh in the East after the Celtics were beaten 115-109 by the visiting New Orleans Pelicans. 
+
+Zion Williamson led New Orleans with 28 points, eight rebounds, three assists and four steals, while Brandon Ingram added 25 points and nine assists. 
+
+Jayson Tatum scored 34 points and grabbed nine rebounds for Boston, which closed the game on a 20-8 run but couldn't overtake the Pelicans. 
+
+Frenchman Evan Fournier went 0-for-10 from the floor in his Celtics debut after being obtained from Orlando at the NBA trade deadline. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Slovenian guard Luka Doncic scored 25 points, and Kristaps Porzingis added 20 to lead the Dallas Mavericks to a 127-106 victory at Oklahoma City. 
+
+Lithuanian center Jonas Valanciunas scored 30 points and grabbed 15 rebounds to spark the Memphis Grizzlies over Houston 120-110. 
+
+Saben Lee, Saddiq Bey and reserve Hamidou Diallo each scored 19 points as the Detroit Pistons (13-33) snapped a four-game losing streak by defeating Toronto 118-104. 
+
+Sacramento's De'Aaron Fox scored 24 points, and Richaun Holmes added 23 points and 12 rebounds to lead seven double-digit scorers in the Kings' 132-115 victory at San Antonio. 
+
+Stephen Curry scored 32 points to lead the Golden State Warriors to a 116-102 home victory over Chicago. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
