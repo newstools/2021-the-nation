@@ -1,0 +1,167 @@
+The governor said the county will only offer essential services including healthcare, water, disaster management and general cleaning Stung by the loss of two senior officials to Covid-19, the Nakuru County government will close some of its offices for 30 days as part of efforts to combat the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Governor Lee Kinyanjui's announcement of the move came amid an alarming surge of new infections and deaths. 
+
+“In a bid to mitigate, monitor and prevent [more] Covid-19 infections and the severity of the third wave, the county government of Nakuru will close its non-core offices for 30 days effective March 29,” said Mr Kinyanjui. 
+
+He added that the decision was reached after the county lost two senior officials to the disease.  
+
+The first was his Deputy Director of Political Affairs, Wilfred Chebochok, who died on March 16 while the second was Public Health chief officer Samuel King’ori, who died from Covid-19 complications at the Aga Khan Hospital’s Intensive Care Unit. The two have since been laid to rest. 
+
+The governor said the county will only offer essential services including healthcare, water, disaster management and general cleaning. The revenue collection, finance and procurement offices will also remain open. 
+
+However, Mr Kinyanjui directed staff in these offices to restrict visits and said procurement services will be handled virtually. 
+
+"The well-being of our workers is key, therefore all necessary measures will be instituted to protect them and their families. Staff members in the affected offices will work from home, in strict compliance with Covid-19 protocols,“ added the county boss. 
+
+Residents' reactions 
+
+The closure of the offices elicited mixed reactions from locals, some saying it will disrupt services and hinder development. 
+
+“It is punitive and will derail county projects and hamper provision of services to residents. The county should introduce containment measures to combat Covid-19,” said Mr Jesse Karanja, chairman of People’s Power Watch group. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+George Muiru lauded the move, saying it will help protect county employees from the virus. 
+
+“It is a necessary to contain the virus, as long as the country continues offering essential services." 
+
+Increased cases 
+
+Nakuru County Health executive, Dr Gichuki Kariuki, has sounded the alarm following the rapid increase of Covid-19 infections and deaths in the region. 
+
+Dr Gichuki urged those with symptoms or who have been in close contact with patients to immediately contact the county surveillance team for action. 
+
+"I urge all residents to take personal responsibility and continue observing Ministry of Health guidelines. The only way we can tame the spread of the third wave of the virus is through adherence to containment measures put in place by the government, “he said. 
+
+The Covid-19 cases in Nakuru have been rising steadily with the number of patients in need of critical care jumping from 14 to 104 in one week. 
+
+The county has recorded 6,458 positive cases, including 158 deaths, since the outbreak of the disease in the country last March. 
+
+At least 20 people have succumbed to Covid-19 in the past one week in Nakuru, which reported 41 new infections in the past 24 hours. 
+
+Some 2,719 health care workers, 433 security officers and 442 teachers, and 1,143 other members of the public have been vaccinated against the disease. 
+
+EMatara@ke.nationmedia.com King’ori dies at The Nairobi Hospital where he had been admitted for almost two weeks. Measures cause panic among Nairobians as political activities are nipped in the bud. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
