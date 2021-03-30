@@ -1,0 +1,389 @@
+In the unfortunate event of another pandemic in the future, Kenya will likely handle the situation from a legal basis and in an organised manner, to ensure that almost every eventuality is tackled. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is contained in a proposed Bill to Parliament that seeks to address every scenario that has faced the country since the onset of the Covid-19 pandemic, by stating in law what ought to happen when an epidemic strikes again. 
+
+The Pandemic Response and Management Bill, 2021, is proposing an Act of Parliament providing a legal framework for a coordinated response and handling of activities during a pandemic, including detailing how socioeconomic, legal and health issues shall be addressed. 
+
+“The unique threats posed by a pandemic owing to its spread across the country and the globe generally and the extent of the damage that it may cause, particularly owing to the fact that it may occur over a long period of time, means that a specific coordinated response needs to be taken by the national and the county governments to direct the required resources as quickly and efficiently as possible, and thereby, effectively respond to the pandemic,” the Bill states. 
+
+Proposed by Nairobi Senator Johnson Sakaja, it suggests the establishment of a national and county committees to coordinate response and management of a pandemic, directs how citizens and businesses shall be cushioned from harsh impacts at such times and consequences that those who violate laws to benefit themselves at such times will face. 
+
+Capacity building 
+
+According to the Bill, the Health Cabinet secretary is expected to recommend to the President to declare a pandemic where he/she determines it is necessary to take measures to prevent or control the spread of a disease, after which the President should, in consultation with the National Security Council, issue a notice in the Kenya Gazette declaring the pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After declaring a pandemic, the Bill states, the head of State should establish a National Pandemic Response Committee, consisting of the Health CS (the chairperson), Treasury PS, Council of Governors’ chairperson, other CSs, PSs and a maximum of any three other public officers the President may consider necessary. 
+
+“The National Committee shall co-ordinate the country's response and management to the threat caused by the pandemic, co-ordinate capacity building of the relevant personnel for quick and effective response to the pandemic, conduct economic impact assessments on the effects of the pandemic and develop mitigation strategies,” the Bill states. 
+
+The national committee shall also assess the country's capacity to deal with the pandemic, advise the national and county governments on its management, co-ordinate, collate, review and analyse disaggregated information relevant to the management of the pandemic and develop an appropriate post pandemic recovery framework for all affected sectors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senate proceedings - Pandemic Response Management Bill
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+“The National Committee shall during the period of the pandemic, prepare and submit to Parliament once in every two weeks a status report providing information on the rate of infection of the disease within the country, measures taken to mitigate the pandemic, challenges faced in mitigating the pandemic and resource-mobilisation and expenditure on the pandemic and within one month after the declaration of the end of a pandemic, prepare and submit to Parliament its final report on its activities,” the Bill states. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It says Parliament may make recommendations it deems necessary for further mitigation after receiving the report. 
+
+Vulnerable citizens 
+
+Governors will equally establish county committees that will co-ordinate the county's response and management to the threats caused by the pandemic, implement strategies directed by the national committee and facilitate efforts to make funding of the management of the pandemic in the county available. 
+
+The committees, both national and counties, shall be ad-hoc and the Bill suggests they should be disbanded two months after the President declares the end of the pandemic. 
+
+The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits and identifies those considered as vulnerable, giving Treasury CS discretion to decide whether to set up a fund to aid mitigation and management of the adverse effects of the pandemic. 
+
+“Vulnerable persons shall include orphans and at risk children, persons with disabilities, poor elderly persons, persons who have lost their source of income owing to the pandemic, poor widows and widowers, persons disabled by acute chronic illnesses and who cannot meet their basic needs and micro, small and medium enterprises affected by a pandemic,” it states, going ahead to define those falling in those categories. 
+
+“In this part, ‘at risk child’ means a child who is under the care of a person who suffers a disability or serious long-term ailment, which renders the person unable to care for the child, has been abandoned by a parent or parents and is not under the care of a guardian who provides the basic needs of the child or is under the care of parents or guardians who are unable to provide for the child's basic needs,” the Bill explains. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It rates a medium enterprise as being a business with between Sh5 million and Sh800 million annual turnover and employing between 50 and 90 people, and a poor elderly person as a person who has attained the age of 65 years and cannot meet their basic needs. Widows/widowers who cannot meet their basic needs are also categorised as vulnerable. 
+
+It also requires national and county governments to waive water and electricity charges for identified vulnerable persons and households during a pandemic, adjust tariff rates in order to reduce utility charges to individuals and businesses and withhold disconnections for non-payment of utility bills. 
+
+Cash transfers 
+
+The two levels of government, the Bill proposes, shall also establish safety schemes to support the vulnerable, households and informal sector workers whose incomes have been disrupted by the pandemic, including unconditional cash transfers to support them meet their basic necessities. 
+
+Some of these measures were employed to cushion the country last year when the Covid-19 pandemic struck, but just as a temporary means, because they are provided in the law. 
+
+The Bill also proposes that Parliament shall approve Treasury and Labour CSs to introduce tax measures to cushion the affected groups and develop measures to cushion employers and employees, to prevent massive job losses respectively. 
+
+“The measures taken by an employer who is adversely affected by a pandemic, with respect to an employee, shall not contravene the existing employment and labour relations laws,” the Bill states. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It says that Treasury CS may also restrict the Kenya Revenue Authority (KRA) from the enforcing tax obligations during a pandemic. 
+
+The Bill further provides room for borrowers and lenders to adjust contractual obligations entered into prior to a pandemic where a borrower’s ability to pay has been affected, for extension of timelines, while a borrower shall not be listed by a credit reference bureau on account of a default. 
+
+“A lending financial institution shall not charge fees, interest or any other penalty during a pandemic period, for non-payment or late payment of obligations entered into prior to the declaration of a pandemic,” the Bill states. 
+
+This will be a relief to many borrowers, after thousands of Kenyans were shocked last year to learn that interest continued accruing on loans they had restructured with banks and other financial institutions, something they had not known when they entered into the deal. 
+
+The Bill also provides room for the expansion of terms of other contracts when a pandemic hits, where parties are allowed to enter into an arrangement to review the terms of the contract and to extend the timelines. 
+
+Sh10 million fine 
+
+And people who mismanage money, materials or goods meant for providing relief during a pandemic will face a rough time, including a Sh10 million fine or 10-year jail time for “misappropriating the money or goods, appropriating the money or goods for the person's own use or compelling another person to misappropriate the money or goods.” 
+
+“Despite any penalty that may be imposed under subsection (1) (above), a person who is found guilty of such an offence is liable to pay three times the value of the misappropriated money or goods,” it adds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Kenya witnessed one of the country’s most embarrassing scandals last year during the procurement of Covid-19-related materials, where tenders were issued in the most unprocedural of ways, prices increased and quality ignored, leading to the loss of billions of taxpayers’ money. 
+
+The Bill warns people against refusing to comply with any direction given by a competent authority during a pandemic that they will be fined Sh1 million, or go to jail for a year, or both. 
+
+“The President shall, on the recommendation of the National Committee and by notice in the Gazette, declare that a pandemic is no longer a threat to the social, economic or political stability of the country,” the Bill states. 
+
+ pmburu@ke.nationmedia.com Solar-powered cold rooms have unique features such as low maintenance and electric power or a digital generator backup. Equity Bank and NCBA join the list of big banks who have reported significant declines in net profit. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
