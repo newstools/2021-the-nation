@@ -1,0 +1,333 @@
+A 2012 move by MPs to shoot down a watertight integrity law has made it almost impossible to bar tainted politicians from running for office. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Instead, it created a window for leaders facing graft, hate speech, incitement and other criminal charges to vie even with cases in court. 
+
+Watered down law 
+
+The Leadership and Integrity Act passed by Parliament paved the way for those with pending cases to contest and barred the Ethics and Anti-Corruption Commission (EACC) from accessing information from State bodies on individuals seeking leadership positions. 
+
+It also denied the agency prosecutorial powers and the ability to offer compliance certificates to candidates in accordance with Chapter Six of the Constitution. 
+
+While the original idea of the law was to bar tainted individuals from holding public office, the MPs turned this concept on its head. 
+
+So watered down was the law that it not only insists on a conviction of not less than six months for one to be barred from contesting, it also insists that there has to be a demonstration that one was given an opportunity to exhaust all avenues of appeal, making it a near impossibility to nail such leaders. 
+
+This has enabled dozens of politicians facing different charges in court to keep on with the impunity, with the law protecting their deeds, and ensuring their clearance to contest again. 
+
+“Parliament’s passing of the Act in its current form is a deliberate attempt at sabotaging strict enforcement of ethical and moral requirements,” argued the Constitution Implementation Commission (CIC) led by Charles Nyachae in October 2012. 
+
+But Parliament would hear none of it, with the then Constitutional Implementation Oversight Committee chairman Abdikadir Mohammed and then-Justice and Legal Affairs Committee chairman Njoroge Baiya defending the Bill. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Mohamed argued that because there were no parameters against which to judge the suitability of candidates based on their morality and ethics, there was room for abuse, especially if the vetting agencies were partisan. 
+
+“When it comes to subjective issues, it is difficult to vet. It is not done anywhere in the world. Let the voters decide, so that there’s as much transparency as possible,” said Mr Mohamed. 
+
+Public to decide  
+
+The then-Mandera Central MP (2007 and 2013) said issues such as convictions for a period of more than six months and age limit were easy to ascertain but queries about morality or ethics were relative. 
+
+“All those with pending cases and issues will make a declaration to the electoral commission. The IEBC will notify the EACC. If there are any issues, it is upon the public to decide whether to elect them or not,” said Mr Baiya. 
+
+IEBC, which is empowered by law to clear political candidates, insists that its hands are tied, as it’s only allowed to bar those who have been convicted for a sentence exceeding six months. 
+
+This means politicians facing corruption, hate speech, incitement and other cases may still vie for any seat in next year’s polls. 
+
+“IEBC can only prevent someone from vying if they have been convicted in a court of law of a minimum sentence of six months and above. We do not have any other guideline that can stop someone from contesting, and we effectively maintained this position. We will not be involved in mob lynching of people, we will follow this position ad live with it,” IEBC Commissioner Prof Abdi Guliye told the Senate Cohesion Committee in an October 2020 sitting. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Often cited is the 2012 case where the High Court cleared Uhuru Kenyatta and William Ruto to run for president and deputy president, respectively, while facing charges of crimes against humanity at the International Criminal Court (ICC). 
+
+Since 2010, 824 high-ranking officials in government – including Cabinet secretaries, governors and MPs – have been arraigned in graft-related cases. 
+
+Director of Public Prosecutions Noordin Haji celebrates some of the cases as momentous, including that of Samburu Governor Moses Lenolkulal, where access to his office was limited by the court, later added to his counterparts Mike Sonko (Nairobi), Okoth Obado (Migori), and Muthomi Njuki (Tharaka Nithi). 
+
+Other than graft charges, Mr Obado faces an extra count of murder for the death of his 26-year-old pregnant girlfriend, Sharon Otieno, in 2018. 
+
+Embakasi East MP Babu Owino, Malindi MP Aisha Jumwa, Johana Ng’eno (Emurua Dikirr) and Kapseret’s Oscar Sudi are also battling various charges in courts. 
+
+War against impunity  
+
+Mr Haji lists as a plus in the war against impunity the conviction of former Eldoret South MP Peris Simam in 2016, and that of Sirisia MP John Waluke in June last year — a 67-year sentence over a Sh297 million maize scam — setting what was a historic win on the war on corruption in recent history. 
+
+Kenya’s attempt to enforce integrity laws started in the 2017 polls when an attempt by EACC to bar 106 politicians facing graft cases was shot down after the IEBC said it could only stop them if they were convicted and had exhausted all avenues for appeal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+They included 11 gubernatorial candidates, one for the Senate, two for woman representative positions, 13 seeking parliamentary seats and 14 for the county assemblies. 
+
+The row over clearance of politicians with integrity issues began before the 2013 polls, just a year after the integrity laws were passed. 
+
+Former Kiambu Governor Ferdinand Waititu, who was impeached in January last year, and Mr Sonko, who was shown the door in December, had both been flagged by the Office of the Ombudsman led by Dr Atiende Amollo in 2012 as individuals unfit to hold public office. 
+
+“As the Ombudsman in 2012, I determined that Waititu and Sonko among 34 others were unfit for public office due to integrity issues. The IEBC, and the people, ignored. Let’s just say, facts are stubborn,” Dr Amollo said in December last year, exposing just how difficult lawmakers made it for politicians to be barred over integrity issues. 
+
+Dr Amollo’s office also named 12 senior government officials who had been convicted for abuse of office, and 22 commissioners of the now defunct Electoral Commission of Kenya, who were accused of mismanaging the 2007 General Election, leading to the deaths of 1,133 people with more than 350,000 displaced. 
+
+Toothless IEBC 
+
+However, Mr Sonko and Mr Waititu went on to hold public office, with the former being elected senator in the 2013 polls before romping to victory as Nairobi governor in 2017. Mr Waititu lost his bid to be Nairobi governor in 2013, but was elected Kabete MP in a by-election in 2016, before he took Kiambu by storm as its second governor in 2017. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Mr Waititu and Mr Sonko have exposed how toothless the IEBC is, which is mandated to vet and clear candidates on the advice of other agencies. 
+
+The only saving grace, and which IEBC Chairman Wafula Chebukati has reinforced, was the provision of Chapter Six of the Constitution on Leadership and Integrity, which bars a state officer kicked out for abuse of office, from holding any other position. 
+
+Article 180 (2) makes it mandatory that to be eligible for election as county governor, a person must be eligible for election as a member of the county assembly while Article 193 (2g) states that a person is disqualified from being elected a member of a county assembly if the person has been found, in accordance with any law, to have misused or abused a State office or public office or to have contravened Chapter Six. 
+
+“A person who has been dismissed or otherwise removed from office for a contravention of the provisions specified in clause (2) is disqualified from holding any other State office,” Article 75 (3) states. 
+
+palangat@ke.nationmedia.com He was rather brash — unsophisticated, some say — and he knew but offered no apologies DP Ruto accused of coming up with new pledges without fulfilling earlier promises. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
