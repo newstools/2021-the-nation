@@ -1,0 +1,155 @@
+If you get an accident during curfew hours and you are not an essential service provider, you are on your own. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is after insurers disclaimed themselves from eventualities likely to occur between 8pm and 4am, though a notice stating that they will not settle claims out of incidences that occur during hours the government has barred movement. 
+
+In the “Important industry notice”, the Association of Kenya Professional Insurance Agents (AKPIA) - insurance companies, agencies and brokers - warned the insured against driving past curfew hours if they are not listed as essential service providers, or if anything happens they will be on their own. 
+
+Invalid claim 
+
+“Driving past curfew hours without essential services authorisation or valid emergency reasons could render your motor insurance claim invalid. Please AVOID DRIVING PAST 8:00PM/Curfew Hours and adhere to all other GOK/ MOH COVID-19 guidelines,” AKPIA stated in the Sunday public notice. 
+
+The notice sets the ground for controversies between insurance service providers and the insured against how claims resulting from incidences occurring within curfew hours will be handled, how the insurers define “emergency reasons” and what insurance contracts state. 
+
+The association has asked those insured to contact companies/agents/brokers they have taken cover with to get clarification, although its statement has already elicited fury from a section of the public who argue that curfew hours can never supersede terms of the contracts. 
+
+“This is a breach of contract. There is nowhere in the Policy that the Policy holder is advised to drive a car during certain times. A vehicle is insured inside and outside the curfew hours. Unless the Insurer refunds premiums and states that the car is insured excluding curfew hours,” argued Kaluki Kyallo in response to the notice shared by the association on its Twitter handle. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Other members of the public have questioned the association’s move, wondering whether the insurers are also ready to refund their clients premiums covering for the curfew hours and amend contracts with their clients. 
+
+In response to the notice by AKPIA, the Association of Kenya Insurers (AKI) on Monday, however, stated that it was discussing with the Insurance Regulatory Authority (IRA) to agree on the matter. 
+
+“We are reviewing the matter in liaison with IRA and shall communicate the position,” AKI tweeted on Monday. 
+
+But the association had last year, in response to a complaint by a person that an insurance company refused to pay his claim since he was driving past curfew hours, stated that timing of an accident is immaterial. 
+
+“Unless there was another reason such as intoxication or other issue that is excluded in the motor policy, the timing of the accident is immaterial,” the association said on July 30, 2020. 
+
+With 51 members across the country, AKI is the most powerful and popular association in the insurance industry and its decisions affect more players in the sector. 
+
+On the other hand, AKPIA is a membership-based association that represents the agency force in the Kenyan insurance industry, bridging consumers, the government, the underwriters and other stakeholders in the industry. 
+
+pmburu@ke.nationemdia.com The brains behind this new App that is set to revolutionalise insurance service delivery in Kenya is a leading digital Insurance brokerage based in Westlands in Nairobi, mTek. Baraza cannot help being amused by a reader who wants his thoughts on a car he’s already paid for. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
