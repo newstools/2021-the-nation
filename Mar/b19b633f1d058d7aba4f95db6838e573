@@ -1,0 +1,231 @@
+“Today marks a dark day for the journalism fraternity and the media industry in Kenya following the death of Robin Njogu, who passed on last evening while receiving treatment at the Aga Khan Hospital in Nairobi.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This tweet by the Kenya Editors Guild sent shockwaves to all those who knew Robin Jorum Njogu, the humble giant of radio who straddled the country’s broadcast field like a colossus. That he was a master of the game was in no doubt and for those of us who knew him. We have truly lost a trusted friend. 
+
+What to me would remain etched in my mind forever was when we covered the burial of former vice president Michael Christopher Kijana Wamalwa at the VP’s Kitale Home. Mr Njogu, being a local, helped us in many ways to get the story, the fact that we were working for rival stations notwithstanding. 
+
+In the days leading to Wamalwa's burial, a story surfaced that according to his Baengele Clan, the Vice President would be buried naked. Some claimed he would be buried seated. Others told the world that he would be buried minus his watch, shoes, belt and that the neck would be broken and forced to face the direction of the gate. When a horde of journalists trooped to Kitale for the burial this was one aspect everybody wanted to see and write about.  
+
+But the organisers were fast on the draw. Immediately the VVIPs  arrived (I still remember South African Defence Minister Lindiwe Sisulu awing the mourners with her speech. But then again maybe the crowd loved her because she was one of us, being the wife of now the late Dr Rok Ajulu from Bondo in Siaya County. Story for another day) everybody was kicked out. But not our Robin Njogu, then at Capital FM.  
+
+Being a local Kitale guy, he asked me to follow him. In lockstep with me was Sunday Nation News Editor Eric Shimoli. It just so happened that Mr Njogu knew the Wamalwa home very well. He took us into a banana grove from where we followed the events as a group of wizened old men descended into the grave via a ladder and performed the last rites. We had a story!  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That was Robin. He could go the extra mile to get a story and had no problems sharing with competitors. Years later, as head of radio at Nation Media Group, he would invite me to be in the panel of pundits analysing the 2014 World Cup alongside Herbert Mwachiro, Angela Angwenyi, Auka Gecheo and Lorna Irungu.  
+
+Now, even before we finish mourning Mr Njogu, Lorna too has left us, another victim of the marauding coronavirus. Lorna had this innocent face that came to define good TV hosting. Coming into contact with her would leave you with a long-lasting positive impression of the lady. 
+
+
+
+
+
+
+Lorna Irungu was an eloquent and progressive voice in TV debates on our culture and politics. 
+Photo credit: File | Nation Media Group
+
+ 
+
+Also lost to Covid-19 is Embu-based journalist Reuben Githinji, a man I worked with at the now defunct Kenya Times many years ago. 
+
+What these deaths point to is that as the people bringing the world the news of the devastation of the coronavirus, journalists, indeed qualify as frontline workers and they must be prioritised in the vaccination programme being rolled out by government. 
+
+Early in March, Kenya Union of Journalists Secretary General Eric Oduor sent a heartfelt letter to the government asking that media practitioners be included in this hallowed list. I fully concur because by the very nature of their work, journalists are in constant contact with those who are infected. 
+
+The figures from across the world are equally worrying. In a report last November, the Global Investigative Journalist Network (GIJN) reported that some 500 journalists had succumbed to the virus across the world. 
+
+The GIJN report stated: We came across the Geneva-based Press Emblem Campaign (PEC), a non-profit focused on press freedom and journalist safety, which was attempting to track confirmed COVID-19-related deaths among journalists globally. By May 5, the PEC had recorded 64 deaths in 24 countries, a number it said was almost certainly an undercount. We checked back with the PEC this week to see its latest data.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The numbers are rather grim: As of November 15, the toll had risen to at least 462 journalists lost to Covid-19 from 56 countries — a more than seven-fold increase.  
+
+Latin American countries account for more than half the tally of journalist deaths, with a recent surge striking India and Bangladesh. 
+
+Meanwhile, the PEC has found that most recent deaths involve reporters under the age of 60. One journalism group in Bangladesh told GIJN that an increasing fear of layoffs has meant that many reporters are taking additional infection risks, including congregating in newsrooms that have not been altered for social distancing.” 
+
+Need we say more? Vaccinate journalists right away! 
+
+josephmboyaa@gmail.com He died hours after the death of his mother. A friend, critic and eternal fan remembers the making of the ‘Legend of Lorna’ The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
