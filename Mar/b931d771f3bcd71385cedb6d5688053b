@@ -1,0 +1,167 @@
+The Independent Electoral and Boundaries Commission (IEBC) has cleared five more candidates for the Bonchari Constituency by-election which will be held on May 18. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This now brings to 13 the total number of candidates who will square it out in the mini-poll. 
+
+The five candidates cleared on Tuesday include former Bonchari MP Zebedeo Opore (Jubilee), former Kisii Woman Rep Mary Sally Keraa (United Green Movement), Nyakea Erick Oigo (National Reconstruction Alliance), David Ogega Oyugi (Kenya Social Congress) and Margaret Gesare Nyabuto (Maendeleo Chap Chap). 
+
+Other candidates 
+
+The other candidates cleared on Monday include former Energy and Petroleum Regulatory Authority (Epra) director-general Pavel Oimeke of ODM, Kevin Mosomi of the Party of Democracy Unity (PDU), Jonah Onkendi Ondieki of the New Democrats (TND) and Charles Mogaka Ndege of Progressive Party of Kenya (PPK). 
+
+Also cleared was Ms Teresa Bitutu, who is the late Bonchari MP John Oroo Oyioka’s widow. She will fly the UDA (United Democratic Alliance) flag. 
+
+Jeremiah Atancha of Agano party was also among those cleared by Bonchari Constituency Returning Officer Benson Ambuko on Monday afternoon. 
+
+Served for three terms 
+
+Mr Opore who has served as the Bonchari MP for three terms said that he plans to continue with the work he started when he was first elected in 1997. 
+
+''I am very delighted to having been cleared to go for this seat which I am very certain I am going to win,'' said Mr Opore. 
+
+The Jubilee candidate promised to work closely with the government, saying that for meaningful development to be achieved, an MP needs to cooperate with national leaders. 
+
+Ms Keraa said that the seat should be left for a woman because it is time for women leadership in the spirit of gender parity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On his part, Mr Oigo promised to use his experience as the Bonchari CDF chairman between 2013 and 2017 to develop the constituency. 
+
+''I believe I have the right credentials to be the next Bonchari MP having served the area residents as their CDF chairman between 2013 and 2017," said Mr Oigo. 
+
+Mr Ogega promised to serve the people of Bonchari to the best of his abilities if given a chance. 
+
+Right time 
+
+He said that he had contested for the seat several times and believes this is the right time for him to serve the people of Bonchari. 
+
+"My leadership is about serving the people of Bonchari equally and not discriminating them on the basis of where they come from,'' said Mr Ogega. 
+
+Ms Gesare promised to carry out door to door campaigns to ensure she clinches the seat. 
+
+She said that women in leadership positions have always had the best interests of their people at heart. 
+
+ 
+
+rmbula@ke.nationmedia.com Mr Oimeke resigned from Epra to vie for the seat amid an ongoing corruption case. The fielding of candidates by ODM and Jubilee will not scuttle the handshake, Murathe says. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
