@@ -1,0 +1,149 @@
+Anyone travelling into Mombasa must now provide a negative coronavirus Rapid Antigen test, which will be authenticated by a multi-agency team stationed at the exit and entry of the tourism hub. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, the over 300,000 ferry commuters who daily cross the Likoni crossing channel, will be diverted to the Sh1.9 billion Likoni floating bridge starting Wednesday this week. 
+
+These are just part of the new measures formulated by Mombasa County Emergency Response Committee on Covid-19 to curb the infection rates at the port city, including immediate closure of all madrassas, and Sunday schools.  
+
+The team has also banned indoor and contact sports, and elderly above 55 barred from attending religious congregations.  
+
+“For the elderly, they should not attend religious congregations as 90 percent of the coronavirus deaths affect individuals within this age group. We are encouraging the use of the floating bridge and decongesting the ferries,” said the Mombasa deputy county commissioner Martin Mbae. 
+
+During the schedule time for the floating bridge, all matatus and passengers will be diverted to the facility. 
+
+Speaking at Mombasa county offices, the Mombasa deputy county commissioner said the proposals are rules to guide on how to move  towards mitigating the dangerous effects of this disease.  
+
+“The interfaith committee is mandated to guide the congregation on infection prevention within churches and mosques. Madrassas and Sunday schools must be shut down with immediate effect,” said Mr Mbae. 
+
+Sensitisation 
+
+He said the religious leaders and public health teams will sensitise faithful within mosques and churches.  
+
+Mombasa deputy governor William Kingi said the move will help in dealing with the infection rates. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We are all aware that we are on the third wave and as a committee we have deliberated on how we can ensure we protect the residents against the pandemic. If you lack a certificate showing you are negative, you will not be allowed in Mombasa,” said Mr Kingi. 
+
+The floating bridge connects Mombasa Island to the South Coast. It was built last year to decongest at the Likoni crossing channel which has been a major challenge.   Hoteliers fault Uhuru as facilities report booking cancellations, sending home dozens of workers. A court in Mombasa has awarded the oil marketer Sh1 million in general damages in a land ownership dispute. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
