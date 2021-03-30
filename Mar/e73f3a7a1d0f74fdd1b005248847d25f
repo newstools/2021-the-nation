@@ -1,0 +1,83 @@
+The 63-year-old will fill the position left vacant after Ms Samia Suluhu Hassan was sworn-in as President following the death of Dr John Pombe Magufuli. The Tanzanian Parliament has approved the appointment of Finance minister, Dr Philip Mpango, as the new Vice President of the United Republic of Tanzania. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+All the 363 MPs gave their approval shortly after Dr Mpango’s name was presented to Speaker of Parliament, Mr Job Ndugai, by the President’s aide-de-camp earlier in the day. 
+
+Dr Mpango will be sworn-in on Wednesday at  the State House in Chamwino, Dodoma. 
+
+Following his confirmation, Dr Mpango ceases to be a member of Parliament as spelt out in the Constitution. 
+
+“I therefore wish to inform the National Electoral Commission that the Buhigwe Constituency seat is now vacant,” said Mr Ndugai. 
+
+Experience 
+
+The 63-year-old will fill the position left vacant after Ms Samia Suluhu Hassan was sworn-in as President following the death of Dr John Pombe Magufuli. 
+
+Dr Mpango has been the Minister for Finance and Planning since November 2015. 
+
+He previously served as the acting Commissioner-General of the Tanzania Revenue Authority (TRA), Executive Secretary in the President’s Office (Planning Commission), Deputy Permanent Secretary at the Ministry of Finance and Economic Affairs, and the Personal Assistant to the President (Economic Affairs). 
+
+Dr Mpango has also worked as the head of the President’s Economic Advisory Unit, a Senior Economist for the World Bank and a visiting lecturer in Public Economics in the Collaborative Master’s programme for Anglo-phone Africa, AERC, Nairobi, Kenya. 
+
+He has also worked as a lecturer in the Economics Department at the University of Dar es Salaam. The nominee, Dr Philip Mpango, has been serving as Finance minister. Deusdedit Kakoko's arrest follows his suspension by President Suluhu on allegations of embezzlement. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
