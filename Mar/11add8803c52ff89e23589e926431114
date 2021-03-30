@@ -1,0 +1,149 @@
+Various unanimous arguments arose during the International Women’s Day celebrations, such as the significance of women’s participation at various levels in society that has resulted in greater responsiveness to the citizens’ needs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But the recent synthesis report on nationally determined contributions (NDCs) under the Paris Agreement shows Conference of the Parties members are increasingly recognising gender integration as a means to enhance the ambition and effectiveness of their climate action. 
+
+Parties are referencing gender-sensitive consultations, the need for inclusion of national gender machineries and gender and women’s groups in combating climate change. 
+
+The United Nations Development Programme (UNDP) echoes gender equality as a fundamental human right and, further, the necessity for promoting it in climate and development policy. Similarly, the United Nations Framework Convention on Climate Change advocates for women’s inclusion in climate change leadership. 
+
+The significance of women in improving climate resilience cannot be refuted. It is on record that plans implemented without women’s meaningful participation can increase the prevailing inequities and decrease effectiveness. 
+
+Gender disparities 
+
+UN Women says the recurrent and expensive climate-related disaster relief, recovery and reconstruction resources could otherwise be used for social and economic development, including advancement of gender equality. Overall, gender disparities exist in accessing social and economic resources. 
+
+Kenya, among other countries in Eastern Africa and the Horn, promotes gender equity and women’s contribution to climate change programmes. However, it lacks inclusive practices to assess discerned effects of climate change and policies among women and men. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Gaps such as inadequate public participation at the implementation stages, insufficient civic education and inadequate capacity for policymakers on gender mainstreaming prevail. 
+
+There is a need for gender mainstreaming interventions to inform climate actions across all sectors, synchronising of policies at all levels to ensure incorporation of gender sensitivities that encompasses inclusive and participatory processes. These processes must advocate gender mainstreaming on climate change at all levels of the society. 
+
+The 2018 submission by Kenya to the Subsidiary Body for Implementation (SBI 48) on Gender and Climate Change underscores the need to work with the youth to develop ICT mobile technologies for disseminating gender and climate change actions, establish dialogue forums for male and female youth to discourse and participate in climate change actions and undertake a gap analysis of all climate actions for gender responsiveness. 
+
+Gender is a cross-cutting issue. Women’s impact on gender-responsive actions is felt across agriculture, education and health, among other sectors, hence the need to recognise the importance of inclusion in decision-making and consultations on the role of gender in climate change. 
+
+kinyanjuisharonw@gmail.com. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
