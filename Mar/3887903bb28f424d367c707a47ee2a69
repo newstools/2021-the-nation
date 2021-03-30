@@ -1,0 +1,191 @@
+City Hall is fast-becoming a county government being managed through retreats and workshops. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Nation has established that most affairs of the executive are now taking place outside the boundaries of the city even as the nation battles the third wave of Covid-19. 
+
+Between February 19 and March 24, for instance, the executive committee had four retreats, with some lasting up to a week. 
+
+Nairobi County Assembly Speaker Benson Mutura handed over the reins to Deputy Speaker Ann Kananu on January 18 after a cameo show as acting governor. 
+
+
+
+
+
+
+
+
+
+
+
+Nairobi Deputy Governor Anne Kananu addresses journalists at City Hall in Nairobi on January 18, 2021.
+Photo credit: Evans Habil | Nation Media Group
+
+ 
+
+The shameful tours of duty began on February 19 in Mombasa, where members of the county executive trooped to Pride Inn Hotel for deliberations on the annual development plan (ADP). 
+
+The delegation was led by the acting County Secretary and Head of Public Service, Dr Jairus Musumba. It had all the 10 CECs, sector heads and the finance team. 
+
+In such a workshop, every member is entitled to per diem and transport allowance. This, for a struggling county government that collected a paltry Sh8.53 billion against a target of Sh17.2 billion. 
+
+On March 9, executive and assembly staff headed to Kisumu for a five-day retreat to “unpack” the County Fiscal Strategy Paper (CFSP) for the 2020/2021 financial year, review the half-year and expenditure report, and disseminate sectorial reports on the supplementary budget. 
+
+The executive side comprised some CECs, Mr Musumba, county chief officers, directors and staff members. The assembly was led by the Budget and Appropriations Committee and chairpersons of the other committees. 
+
+
+
+
+
+
+
+
+
+
+
+Nairobi Assembly Speaker Benson Mutura is pictured in the governor's office after he was sworn in as acting Governor on December 21, 2020.  
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+Allowances 
+
+The assembly has 26 committees and the budget team has at least 23 members. They are entitled to a per diem of Sh14,000 and Sh20,000  transport allowance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This means the county spent at least Sh4.5 million on MCAs only, assuming about 50 attended. 
+
+A couple of days later, the party was back in Mombasa for a workshop to develop the county government’s trade sector’s policy and market management model. Mr Musumba was part of the delegation, which also had new Trade CEC Winfred Gathagu. 
+
+Ms Gathagu has been out of City Hall for over a year since she was fired – alongside Finance CEC Pauline Kahiga – by then-Governor Mike Sonko. 
+
+Her return is, however, yet to be officially communicated unlike that of Education CEC Janet Ouko, who had resigned in January 2019 after a fallout with Mr Sonko. 
+
+On March 24, the executive team returned to the port city for a workshop on performance management. Again, Mr Musumba was the team leader for three days. 
+
+Speaking to the Nation, he said they were working within the legal requirements. 
+
+“The feeling is that when the workshops are held in Nairobi, concentration goes down and that is why most of them are taken away from the station. They were all planned before Covid-19,” said Mr Musumba. 
+
+“It is true that people get facilitated when they go out but it is part of what they are supposed to do.” The latest audit report shows how MCAs are spending billions on travel, hospitality and allowances. Auditor-General’s report cites delays in buying critical supplies and procuring without market survey. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident.
