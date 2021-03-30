@@ -1,0 +1,147 @@
+Police officers have been directed to use less force and aggression while enforcing the revised Covid-19 restrictions announced by President Uhuru Kenyatta on Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Interior CS Fred Matiang'i while responding to numerous concerns raised by Kenyans on social media as to how the National Police Service (NPS) understood the new restrictions said NPS leadership has met and agreed to enforce the restrictions from a "very strong commonsensical point of view and as a family”. 
+
+"We are going to persuade people to be compliant. We already have a challenge (pandemic), we do not want to worsen it by looking like we are aggressive or harassing wananchi and so forth," said Dr Matiang'i. 
+
+The CS, who was accompanied by the Inspector General of Police Hilary Mutyambai, inspected the Machakos-Makueni boundary at Malili, where they witnessed boda boda riders ferrying passengers across the boundary using clandestine routes. "He (boda boda rider) is thinking we are the enemy, yet the enemy is the pandemic that we are all fighting," said the CS. 
+
+Mr Mutuambai called on officers to collaborate with religious leaders to create awareness among riders on the need to obey the new restrictions before being firm on those that repeatedly break the rules along boundaries. 
+
+Last week, the IG declined to disclose the number of roadblocks erected across the country, citing security concerns. 
+
+Roadblocks are erected in response to government directives on cessation of movement and security operations targeting criminals such as drug dealers and human traffickers. 
+
+It is, however, emerging that officers managing them are over-stretched, with some being forced to work for 48 hours without changing shifts. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"It is not funny, we have officers doing three shifts on the roadblocks. Everyone has a challenge so let us be understanding and move forward as a country," Dr Matiang'i said. He added that the ministry will look into their welfare. 
+
+Earlier, the two joined ICT CS Joe Mucheru in a ground-breaking ceremony for the construction of a new security command centre at Konza City metropolis development. 
+
+The centre set to be completed by the end of the year will consist of a modern police station, a fire control building, an office complex and officers’ residences. 
+
+It is expected to boost security at the 2030 flagship project that had stalled following tussles among Kajiado,Machakos and Makueni governments and compliment security operations within the three counties. Anger, desolation as Kenyans forced to contend with uncertain future following Friday’s Covid-19 containment measures. Everybody is gravely affected by the pandemic so there is no need to harass commuters, Mr Natembeya says. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
