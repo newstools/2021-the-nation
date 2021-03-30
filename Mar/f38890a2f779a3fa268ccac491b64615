@@ -1,0 +1,151 @@
+People perish for lack of knowledge, so warns the Holy writs. Two major situations, in relation to Covid-19, attest to this. The first is in the supposedly enlightened North, specifically Europe, where the issue of vaccination has taken an ugly political angle. The second is the South, often considered unprogressive, where Tanzania is leading the pack in Covid-19 denialism. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Surprisingly, the third wave is here with us, tougher and more lethal, yet we have dropped our guard to levels beyond mindlessness. Everything rises and falls with leadership, which, in many a country, have totally failed in steering their flock to safety. 
+
+I won’t address the small issue of observing the well-known containment measures; given political goodwill, these can be easily enforced. There comes a time when individuals must be protected from themselves by a responsible leadership. 
+
+Vaccination 
+
+I’m more concerned with vaccination and how the government is handling communication on it. We have two challenges. First is the procurement of enough doses for the entire population. Second, and more troubling, is acceptability of the vaccine. 
+
+There is rampant misinformation concerning the Covid-19 vaccines. As hinted earlier, much of the resistance is fuelled by half-truths and positions taken by some developed countries. The most chilling news is that the vaccine causes clotting of blood. 
+
+Whereas this was established, what we were not told is that, out of 20 million vaccine doses administered, only 25 individuals suffered blood clots, said WHO. Further, countries such as France, Italy and Germany that banned the vaccine — specifically Oxford-AstraZeneca — did it for only three days! 
+
+Mitigates severity 
+
+Vaccines have been with us for a long time. I’m tempted to imagine the harm polio would have visited upon the world were it not for the vaccine. 
+
+According to the American Centers for Disease Control (CDC), a vaccine does not stop one from infection, but mitigates the severity of the illness if contracted. Further, most vaccine side-effects are manageable and nothing compared to the disease in case one isn’t vaccinated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In this light, misleading actions by leaders — such as French President Emmanuel Macron’s questioning of the efficacy of the vaccine without scientific evidence — should be condemned. Such reckless standpoints cause massive aversion to the vaccine. 
+
+ You don’t have to look far if you want to understand how leaders influence their followers. Whereas Tanzanians are mourning their hero, President John Magufuli, the blatant disregard for Covid-19 containment measures in that country can only mean more trouble. 
+
+President Kenyatta did well to come out in public for the Covid-19 vaccination. That will hugely inspire confidence in the drug among the Doubting Thomases once there are enough doses. 
+
+wosabwa680@gmail.com. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
