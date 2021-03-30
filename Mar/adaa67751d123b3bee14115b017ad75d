@@ -1,0 +1,279 @@
+For a week the world was gripped by the extraordinary sight of a massive container ship that had run aground in the Suez Canal in Egypt. The Ever Given is 400m long (1,312ft) and weighs 200,000 tonnes, with a maximum capacity of 20,000 containers. It was carrying 18,300 containers when it became wedged in the canal, blocking all shipping traffic.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+A picture released by Egypt's Suez Canal Authority on March 29, 2021, shows a man waving the Egyptian flag after Panama-flagged MV 'Ever Given' container ship was fully dislodged from the banks of the Suez.
+Photo credit: Suez Canal Authority | AFP
+
+ 
+
+Efforts to free it finally paid off when it was partially dislodged in the early hours of Monday 29 March. Adejuwon Soyinka asked maritime security expert Dirk Siebels to unpack lessons learnt from the incident. 
+
+What maritime lessons can be learnt from this incident? 
+
+Choke points: The shipping industry provides an extremely efficient link to ensure just-in-time deliveries. This link, however, is largely invisible, underlined by the time it took most countries to classify seafarers as key workers during the COVID-19 pandemic. 
+
+When choke points are blocked, trade doesn’t necessarily come to a standstill. Under normal circumstances, it is extremely cheap to transport all types of cargo over long distances on ships. Freight rates are barely noticeable in the price of most goods, so higher freight rates are unlikely to be a significant issue for economies as a whole. Nevertheless, the implications of a blockage as we’ve seen in the Suez Canal will have been felt in many sectors. For example, refineries need crude oil, factories need raw materials, shops need goods to sell. 
+
+Security threats: These are easy to exaggerate, but complicated to understand. Concerns about additional piracy threats on the route around Africa are, in my view exaggerated. In addition, there have been alarming headlines about ships waiting at the southern end of the Suez Canal, describing them as “sitting ducks” in a volatile region. 
+
+While there are certain threats for operations in the Red Sea, these have not changed overnight. Ships always have to wait in the area as Suez Canal transits are conducted in convoys. Moreover, the threat level is the same for all ships but the resulting risk is different for individual vessels, depending on factors such as ship type, cargo or even the owner’s nationality. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Situational awareness is therefore important to ensure appropriate preparations and to avoid unwarranted alarmism. 
+
+Security and safety: These threats should receive similar attention. Potential security threats are often highlighted as worst-case scenarios, namely terrorist attacks which could cause high levels of economic disruption. These have often been identified as a particular threat for choke points such as the Suez Canal. Safety threats, on the other hand, are not as headline-grabbing. Accidents are much more likely to occur but are much less discussed. 
+
+In many cases, however, the actual implications of safety and security incidents are very similar. Countermeasures that are designed to increase resilience should therefore receive more attention. Better awareness of all types of threats is vital in this area as well because safety threats are largely static while security threats are much more dynamic. 
+
+Were there any maritime security implications from the incident? 
+
+This was a rare accident that has highlighted how much the world’s economy relies on shipping. This has been the case for many years. But the global shipping industry is almost invisible most of the time. 
+
+While the Ever Given’s grounding was not a security-related incident, the critical nature of certain choke points around the world has been discussed for many years. 
+
+These narrow channels – including man-made ones like the Suez Canal, but also natural ones like the Strait of Hormuz in the Persian Gulf and the Gulf of Oman or the Strait of Malacca between the Malay Peninsula and the Indonesian island of Sumatra – are part of the most important global sea routes. When merchant ships can no longer navigate through such a choke point, it may lead to supply delays and higher freight rates. These effects are already visible in the tanker market. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For container ships, the impact could exacerbate an already chaotic situation in the wake of Covid-19-related disruptions of long-established trading patterns. 
+
+Overall, direct implications on maritime security are unlikely. The commercial implications for the shipping industry – and, by extension, for global trade – are already significant and the ripple effects will be felt in many sectors beyond shipping. 
+
+What does the incident tell us about other sea routes around Africa? 
+
+The only alternative to a transit through the Suez Canal is the much longer passage around the African continent. Piracy in particular has been a significant concern for operators of merchant ships in recent years, first off the Somali coastline and more recently in the Gulf of Guinea. 
+
+Some shipping companies have already voiced concerns over piracy threats on the alternative route, even prompting inquiries to the US Navy. One of the largest industry organisations, BIMCO, recently published a related security guidance. 
+
+In recent years shipping industry associations as well as international navies have often pointed out that Somalia-based piracy has merely been suppressed, not defeated. In December, the European Union’s naval mission in the western Indian Ocean was extended until 31 December 2022. 
+
+At the same time, it should be noted that the threat of piracy for a transit through the Gulf of Aden towards the Suez Canal is not significantly different from a voyage through the Indian Ocean towards South Africa.  
+
+After passing the Cape of Good Hope, a ship with a destination in Europe is very likely to steam on a straight course and pass between Senegal and Cabo Verde. Any such transit will not be affected by the piracy threat in West Africa, which is significant in the inner Gulf of Guinea, but limited to an area around 250 nautical miles from the Nigerian coastline.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Taking the shortest route around Africa means that ships will be almost 1,000 nautical miles away from Nigeria. 
+
+Article by Dirk Siebels, PhD (Maritime Security), University of Greenwich By the end of the drama, the tailback of ships had reached 425 at the two ends of the canal. 425 ships are waiting to travel through the vital shipping lane. Senate health team concludes probe, finds Jonah Manjari and five others have case to answer. Dr Philip Mpango will be sworn-in on Wednesday as Tanzania's new Vice President.
