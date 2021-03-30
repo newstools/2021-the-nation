@@ -1,0 +1,196 @@
+The vaccination came a day after Ms Kananu announced the closure of all offices offering non-essential services for 30 days, starting Monday. Nairobi acting Governor Ann Kananu on Monday led top City Hall officers and employees in receiving the vaccine against Covid1-9. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Among those who took the Oxford-AstraZeneca jab at City Hall were Assembly Speaker Benson Mutura, acting County Secretary Jairus Musumba, County Attorney Lydia Kwamboka, county executives, chief officers and a number of MCAs. 
+
+Other county government staff will be vaccinated at Charter Hall. 
+
+
+
+
+
+
+Nairobi County Assembly Speaker Benson Mutura is vaccinated against Covid-19 at City Hall in Nairobi on March 29, 2021.
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+The deputy governor asked Kenyans not to fear vaccination as it is a key measure in fighting the deadly virus. 
+
+"I have decided to lead by example by getting the Covid-19 vaccine," she said, further urging the public to maintain the basic measures against the virus, such as wearing face masks, regularly washing hands and social-distancing. 
+
+
+
+
+
+
+Acting County Secretary Dr Jairus Musumba is vaccinated against Covid-19 at City Hall in Nairobi on March 29, 2021. 
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+Offices closed 
+
+The vaccination came a day after Ms Kananu announced the closure of all offices offering non-essential services for 30 days, starting Monday. 
+
+Some of the departments affected are Youths and Sports, Agriculture, Human Resources and ICT. 
+
+Operations in offices offering critical services will continue uninterrupted. 
+
+
+
+
+
+
+Devolution executive Veska Kangogo is vaccinated against Covid-19 at City Hall in Nairobi on March 29, 2021.
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+These services include health, disaster management and coordination (fire fighters), revenue collection, water, environment and sanitation, finance and economic planning, procurement and supply chain, security, public communications and customer service. 
+
+“This is a carefully considered measure to help curtail the spread of the deadly Covid-19,” said Ms Kananu. 
+
+Disease infested counties 
+
+According to the Health ministry, Nairobi and Mombasa counties have the highest attack rates. 
+
+Nairobi, Mombasa, Kiambu, Nakuru and Kajiado lead in the number of Covid-19 cases so far reported, with Nairobi accounting for 46 per cent (over 58,600 cases) of all the infections in Kenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Transport and Infrastructure executive Mohamed Dagane is vaccinated against Covid-19 at City Hall in Nairobi on March 29, 2021.
+
+ 
+
+In Nairobi, residents can be vaccinated at Mama Lucy, Pumwani, Mbagathi, Kenyatta, Mathari Hospital, Armed Forces Memorial, Moi Airbase, National Spinal Injury Referral and Kenyatta University Teaching and Referral hospitals. 
+
+Private and faith-based health facilities selected for vaccination include St Francis Community, Jamaa Mission, Coptic Nairobi, Uhai Neema, Mater and Aga Khan. 
+
+comulo@ke.nationmedia.com All offices offering non-essential services will remain closed for 30 days starting Monday. Murang'a senator says he is recovering at home after a week of hospitalisation. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
