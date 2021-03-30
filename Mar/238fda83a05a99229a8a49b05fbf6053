@@ -1,0 +1,149 @@
+The latest technological developments in artificial intelligence (AI) and robotics continue to generate anxiety about job security. Humans are quite worried that their jobs could soon be taken away from them by machines. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Work is a crucial component of life since it is one way that a person feels that they have added value to the society. The desire to accomplish things makes us happy and adds meaning to life. But what if the much-hyped ‘automated future’ comes to pass? What will it mean to the billions of workers whose jobs are at risk of being taken over by machines? Does it mean humans will take a back seat and watch as machines do their work? 
+
+I can’t imagine the kind of psychological trauma that will have on humans as it could trigger more debate on the existentialism of the human species. 
+
+ My main worry is the kind of phobia it creates among humans. However, I believe that positive AI should not worry anyone at all since its benefits exceed the drawbacks. On employment, I think AI will revolutionise the nature of jobs as workers will be required to adjust their skills to meet the expectations of the automated world. 
+
+As we move from the ‘BRICKS’ economy to ‘CLICKS’ one, many people will seek careers that match the available job opportunities. True, some jobs will be obsolete soon, rendering many employees redundant. 
+
+But it is also worth noting that these people, if they are flexible enough, will be reabsorbed in other industries. Furthermore, with automation, production levels will increase at a cheaper cost, helping companies to make huge profits and pay their employees well. 
+
+This will lead to enhanced economic growth and create more opportunities for many other people. The only threat that this technological development poses is abuse by humans. Since we can never control AI, some wicked people may use it to cause harm to society — including through terrorism and breach of privacy. Change is inevitable and we can only embrace it lest our resistance to it lead us unto doom. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Let us jump onto the new bus, gather the modern skills required by the new world and our worries will automatically (pun intended) reduce significantly. 
+
+Fredrick Ochieng’, Nairobi 
+
+* * * 
+
+The launch of a fifth generation (5G) mobile network by the telco Safaricom in partnership with global suppliers of the technology, Nokia Corporation and Huawei, is a milestone in the sector. 
+
+Researchers and scholars have a reason to celebrate these new developments. High internet speeds and quality voice service will see easier download of documents, movies, teleconferencing and e-business, among others. Safaricom will roll out the country’s first such network in Nairobi. I hope it will be extended. 
+
+Dr Stephen Mbaya Kimwele (PhD), Kitui  The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
