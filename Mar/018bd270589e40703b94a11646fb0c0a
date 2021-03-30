@@ -1,0 +1,161 @@
+Canadian experts on Monday recommended halting the use of AstraZeneca Covid-19 shots for people aged under 55, after a small but rising number of patients abroad suffered blood clots. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manitoba and Quebec provinces were the first to heed the new National Advisory Committee on Immunization and Health (NACI) guidelines, with each region responsible for its own immunization program. 
+
+"There is substantial uncertainty about the benefits of providing AstraZeneca vaccines to adults under 55 years of age," Canada's deputy chief public health officer Howard Njoo told a news conference. 
+
+"At this time, we are pausing the use of AstraZeneca vaccine to adults under 55 years of age, pending further risk-benefit analysis," he said. 
+
+Officials, meanwhile, urged Canadians who have received the AstraZeneca shot in the last 20 days to consult a doctor. 
+
+Health Canada and NACI doctors told a briefing that the manufacturer -- which has now posted a warning on the label -- would be asked to conduct a detailed assessment of the benefits and risks of its vaccine by age and sex. 
+
+"To date, no cases of (blot clots) have been reported in Canada," Health Canada chief medical officer Supriya Sharma said.  
+
+"However, through our ongoing international collaboration, Health Canada has become aware that additional cases of these events have been reported in Europe," she said. 
+
+The NACI earlier this month urged giving AstraZeneca shots only to people aged 18 to 64, saying clinical trials hadn't included enough seniors, then revised its recommendation to include people of 65 and over after reviewing "real-world evidence" of its effectiveness in seniors. 
+
+The AstraZeneca vaccine candidate was approved for use in Canada in February, alongside Johnson & Johnson, Pfizer-BioNTech and Moderna shots. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mostly young women affected 
+
+NACI vice chair Shelley Deeks said most of the adverse health effects observed impacted women under 55, and occurred between four and 16 weeks after receipt of the vaccine. 
+
+Rates of incidents, she said, ranged from one in a million people who received the AstraZeneca jab to as high as one in 100,000, according to German data. 
+
+"The exact mechanism by which the AstraZeneca vaccine triggers the event is still under investigation," Deeks said. 
+
+Canada is scheduled to receive 1.5 million surplus AstraZeneca doses from the United States, which has yet to approve its use domestically, on Tuesday. 
+
+Separately, Canada has ordered 20 million AstraZeneca shots plus another two million doses of the same formula made by the Serum Institute of India. 
+
+But as of Monday, it had distributed only about 500,000 doses made by the Serum Institute, and Njoo said only 300,000 of those had been administered. Few of them went to younger people, according to local reports. 
+
+The AstraZeneca vaccine has had a rollercoaster ride, with Britain, which developed it, staunchly supporting its use, South Africa outright rejecting it, and more than a dozen EU nations suspending shots in mid-March before most restarted rollouts but with a patchwork of age restrictions. 
+
+France has limited its use to over 55s, and Spain to under 65s, for example. Reports indicate that at least 75,000 doses of the vaccine had arrived at the port of Mombasa by Sunday. Drugmaker now says its coronavirus vaccine showed 76 per cent efficacy against symptomatic disease. The Bill proposes specific ways in which the government should support vulnerable citizens when a pandemic hits. Oxygen needs have more than doubled in the country within a year of the Covid-19 pandemic. They are all late death reports from the audit of facility records, Health ministry says.
