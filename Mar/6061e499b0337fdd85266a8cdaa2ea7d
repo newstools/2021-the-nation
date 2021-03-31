@@ -1,0 +1,145 @@
+In 2019, Valary Aiyabei won the women's race after clocking 2 hours 27 minutes and 17 seconds ahead of Vivian Kiplagat (2:28:06) while Elizabeth Rumokol was third in 2:33:01.In the men’s race, Mathew Kisorio won the race in 2:12:38 ahead of David Cheboswony, who timed 2:12:51, while Kenneth Rotich (2:15:43) came in third place. The much-awaited third edition of Eldoret City Marathon which was set to take place on April 11, has been postponed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Race patron, who is also Uasin Gishu County governor, Jackson Mandago said that they decided to postpone the race following the directive from President Uhuru Kenyatta that suspended all sporting activities in the country last week. 
+
+“Due to the surging cases of coronavirus in the country and following the president’s order of cancelling all the sporting events, we saw it wise to postpone the race to a later date which shall be announced," Mandago said. 
+
+“We know our athletes have been training hard and since this was the only race they were targeting, we had no other option other than postponing the event. Let them continue training hard because the race will be held soon when the virus subsides.” 
+
+Mandago urged the athletes to continue registering because the race has to go on when the coronavirus cases decline. 
+
+Race director, who is also two-time Boston Marathon champion, Moses Tanui said that it was unfortunate the race has been affected by the virus despite having completed all the pre-race planning and organisation. 
+
+“We had finalised our preparations including marking the route and the electronic timing bibs is in the country. We now have to wait for the virus to be contained and when it subsides, we shall hold the race without fans along the course,” said Tanui. 
+
+Having waited for a year without a race, many athletes were gearing up to compete after a long break but they have to wait for a new date. 
+
+The race is one of the best paying marathons in Africa with winners in both mane and women's categories bagging 35,000 US dollars (approximately Sh3.5 million) while the prize money trickles down to top 20 athletes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2019, Valary Aiyabei won the women's race after clocking 2 hours 27 minutes and 17 seconds ahead of Vivian Kiplagat (2:28:06) while Elizabeth Rumokol was third in 2:33:01. 
+
+In the men’s race, Mathew Kisorio won the race in 2:12:38 ahead of David Cheboswony, who timed 2:12:51, while Kenneth Rotich (2:15:43) came in third place. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
