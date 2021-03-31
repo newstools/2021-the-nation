@@ -1,0 +1,151 @@
+Residents of Niger's capital Niamey on Wednesday reported hearing gunfire overnight near the presidency, days before new president Mohamed Bazoum is due to take office. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"It was around 3am, we heard shots from heavy and light weapons and it lasted 15 minutes before stopping, followed by shots from light weapons," one resident of Niamey's Plateau district, which includes the president's official residence and offices, told AFP. 
+
+"The gunfire lasted about 20 minutes," another resident said. 
+
+A third resident spoke of "intense shooting, with heavy and light weapons". 
+
+Online newspaper actuniger.com reported that calm had returned by around 4am. 
+
+In short video clips posted on social networks, only several seconds in length, sporadic bursts of gunfire could be heard in the pitch dark.  
+
+It was not yet possible to independently verify the location and timing of the videos.  
+
+No official source was immediately available to comment. 
+
+The reported shooting comes ahead of Bazoum's scheduled inauguration on Friday.  
+
+The former interior minister and right-hand man of outgoing president Mahamadou Issoufou, Bazoum's victory in the second round of the election on February 2 was confirmed by the constitutional court this month.  
+
+The results were contested by Bazoum's rival, former president Mahamane Ousmane, who claimed he was the real winner. 
+
+Ousmane had called for "peaceful marches" across the country, but a planned opposition protest Wednesday in the capital Niamey was banned a day earlier by authorities. 
+
+Niger, one of the poorest countries in the world, has suffered numerous coups in its history, most recently a February 2010 putsch which toppled then president Mamadou Tandja. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Sahel country has also recently been struck by repeated jihadist attacks as Islamist movements have spilled over from neighbouring Mali and Nigeria.  Opposition says the result is an "electoral holdup" and urges the public to protest against it. Gunmen arriving on motorbikes attacked the villages of Intazayene, Bakorat and Wistane on Sunday, shooting "at everything which moved," a local official said. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
