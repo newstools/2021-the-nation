@@ -1,0 +1,149 @@
+Growers will now take home Sh4,040 per tonne from the current Sh3,700.Millers face Sh500,000 if caught underpaying farmers. Sugarcane farmers will from tomorrow earn more for their sweat after the Sugar Cane Pricing Committee increased the price of the raw material by eight percent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From April 1, millers will be required to pay growers Sh4,040 per tonne of sugarcane from the current Sh3,700 that has been prevailing since 2018 coming as a boost to growers who have for long been under the whims of factory managers. 
+
+Agriculture Cabinet Secretary Peter Munya on Tuesday said millers will have to adhere to the new price failure to which they will face Sh500,000 fine or one year imprisonment. 
+
+“Having considered that the prevailing sugar ex-factory prices over the past three months was Kenya shillings 4,659, the committee approved an increase in the price of cane from the current Sh3,700 per tonne to Sh4,040 effective April 1, 2021 in line with the industry cane pricing formula,” said Mr Munya in Nairobi at a press conference. 
+
+“The ministry directs the millers to adhere to the new prices while making payments to the farmers. Any farmer being paid less should report to the authority,” he said. 
+
+The CS said the Sugarcane Pricing Committee uses a simplified formula to ensure that farmers benefit directly from improved sugar prices in the market. 
+
+Cut down sugar imports 
+
+The formula is calculated using the sugar’s net price in the market times a farmer’s share (which is 50 percent) divided by tonnes of cane used to produce the sweetener. 
+
+Mr Munya said an increase in production has cut down sugar imports in the country with the volumes to be shipped in this year capped at 210,000 tonnes from 300,000 tonnes, which is the limit that Kenya is allowed to bring in from Comesa countries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The sugar industry reported average sugarcane yields of 61.64 tonnes per hectare in 2020 compared to 51.26 tonnes per hectare in 2019 representing a 20 percent increase. 
+
+The total cane deliveries in the period January to December 2020 was 6,799,923 tonnes against 4,605,102 tonnes recorded during the same period in 2019. This represents a significant increase of 48 percent. 
+
+The increase, said Mr Munya, is partially attributed to favorable weather conditions and optimal operations of the private mills. 
+
+gandae@ke.nationmedia.com Farmers now want the State to save them from low returns as Comesa imports loom. They say the industry is worth Sh3.5 billion in the region. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
