@@ -1,0 +1,161 @@
+Investigations into the gruesome murder of 26-year-old mother of two in Isiolo show that she was raped before being killed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The killing happened three weeks after Celestine Nduku Kioko separated from her husband, Erick Mutwiri Mwenda, following domestic squabbles. 
+
+Ms Kioko’s lifeless body was discovered by her children who had just arrived home from church. It was lying in a pool of blood on the bed in their house in Kambi ya Juu area on the outskirts of Isiolo town. 
+
+The jilted husband, who was arrested last Saturday together with his cousin who had housed him for one day in Nanyuki, Laikipia County is a person of interest in the killing. He had been missing following the March 21 incident. 
+
+Neighbours earlier said the relationship between Ms Kioko — who operated a hotel — and her husband, was rocky and that the man used to severally beat her. 
+
+Sexually assaulted 
+
+Detectives investigating the murder now say that the suspect, while armed with a kitchen knife and with the intent to kill, sneaked into the his estranged wife’s house, sexually abused her, stabbed her several times and slit her throat, leaving her for the dead. 
+
+After committing the act, the man fled the scene on a motorcycle to Archers Post in Samburu County, about 35 kilometres away, where he reportedly discarded the killer weapon. 
+
+According to sources, the suspect was on the move from the day the incident happened and had hidden in the neighbouring Meru County before moving to Nanyuki last Friday where he was arrested. 
+
+A post-mortem conducted on March 23 at Isiolo Referral Hospital mortuary revealed that Ms Nduku died from severe blood loss following the slit on the neck and from hemothorax. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An officer privy with the investigation said the motorcycle that the suspect used after the incident had been recovered in Gambella on the Isiolo-Meru border and that detectives will rely on its registration details to establish if it was his or someone else’s. 
+
+Recovery of other items including the suspect’s mobile phone and that of Ms Kioko for forensic analysis to establish who the two communicated with on the fateful day is ongoing, the officer said. 
+
+Detain suspect 
+
+When Mr Mwenda was brought before Isiolo Chief Magistrate Samuel Mungai on Monday, the investigating officer sought 14 days to complete probe before the suspect is charged with murder. 
+
+In the application, detectives sought to detain the suspect to allow completion of ongoing investigations and recovery of the murder weapon, his mobile phone and that of Ms Kioko and the motorcycle that he rode on. 
+
+Isiolo North Directorate of Criminal Investigations Officer John Kibet said more time will allow the taking of samples for buccal swabs and blood for onward delivery, together with those taken from the dead woman, to the Government Chemist for laboratory analysis. 
+
+The time will also allow Ms Kioko’s parents, who had left for the burial of their daughter on Saturday in Masinga Machakos County, to record a statement with police. 
+
+The magistrate granted the prayer and ordered that Mr Mwenda be detained at Isiolo Police Station for 14 days and for his blood samples to be taken. 
+
+The case will be mentioned on April 12, 2021. Police also arrest a relative who had housed the suspect in Nanyuki. Woman had recently separated from her husband following persistent beatings. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
