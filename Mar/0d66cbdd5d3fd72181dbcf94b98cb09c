@@ -1,0 +1,162 @@
+The Ministry of Health has finally agreed that the Russian Sputnik V vaccine is already in the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It has, however, issued a stern warning to distributors against marketing the vaccine since it has not been approved for market authorisation but for emergency use authorisation. 
+
+Vaccine task force chair, Dr Willis Akhwale says that the Pharmacy and Poisons Board is finalising a list of facilities that will be eligible to distribute the Sputnik V vaccine. 
+
+“It is important to note that any facility that will be issuing the Sputnik V vaccine will not be allowed to also have the Oxford-AstraZeneca vaccine that is given for free by the government,” said Dr Akhwale. 
+
+Bribes 
+
+Health Chief Administrative Secretary Mercy Mwangangi also noted that there are complaints that some healthcare workers are receiving bribes to enable Kenyans who are not eligible for the vaccine yet to jump the queue. 
+
+“We are warning that such healthcare workers risk losing their license. The Ministry of Health will deploy officers for a spot check and anyone found guilty will have their license withdrawn. 
+
+This comes after the Nation did a spot check at Pumwani, Ngara Health Care Centre and Mathari National Teaching and Referral Hospital where Covid-19 vaccine doses were supposedly not available despite the facilities having long queues. 
+
+The Health ministry has also said that it will consider other vaccines such Johnson & Johnson as well as Pfizer and Moderna as long as the distributors comply with the set guidelines in the country. 
+
+“All distributors will have to submit their dossier for review to the Pharmacy and Poisons Board. Their vaccine batch numbers also have to be shared in advance,” said Dr Akhwale. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+The Sputnik V vaccine has received emergency use authorisation, it has not received market authorisation ~ Dr. Akhwale. pic.twitter.com/VYWugXFsxb— NTV Kenya (@ntvkenya) March 31, 2021  
+
+Monitoring side effects 
+
+After confirmation and approval for rollout, everyone who gets vaccinated has to be registered using the Chanjo KE system for monitoring of side effects. 
+
+“We will only issue certificates to people whose details are in the Chanjo KE system,” said Dr Akhwale. 
+
+The Kenya Medical Practitioners and Dentists Council has also been advised to come up with a list of facilities that will receive accreditation for the Covid-19 vaccination programme. 
+
+The ministry has also reviewed downwards the timeline for eligibility to receive the jab after contracting Covid-19 and testing negative. 
+
+“We had previously stated that one needs to wait for six months before being vaccinated, but we can now go with just one month but after a clinician review,” explained Dr Mwangangi. 
+
+ 
+
+hshikanda@ke.nationmedia.com Reports indicate that at least 75,000 doses of the vaccine had arrived at the port of Mombasa by Sunday. Two critical Health ministry agencies clueless as it emerges that Sputnik V is already available in some private hospitals in Kenya. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
