@@ -1,0 +1,163 @@
+Aguero joined City from Atletico Madrid in 2011, three years after the club was taken over by Abu Dhabi owners, and will leave after 10 trophy-laden years, with 257 goals in 384 games so far.Guardiola said 32-year-old Aguero's goals tally could be surpassed one day, but what he means to the club was unique. London, United Kingdom 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sergio Aguero is "irreplaceable in the souls, in the hearts, in the minds of our fans," Manchester City manager Pep Guardiola has said of the club's record goalscorer who is to leave at the end of the season. 
+
+Aguero joined City from Atletico Madrid in 2011, three years after the club was taken over by Abu Dhabi owners, and will leave after 10 trophy-laden years, with 257 goals in 384 games so far. 
+
+Guardiola said 32-year-old Aguero's goals tally could be surpassed one day, but what he means to the club was unique. 
+
+"Sergio is irreplaceable," said Guardiola. 
+
+"I could say in terms of numbers he can be replaceable, it's not easy when you see more than 360 games played and more than 250 goals, the amount of titles (he has won). 
+
+"So it's the legend, the best striker this club has ever had for this century through the years, but is irreplaceable in the souls, in the hearts, in the minds of our fans, of our people, of the players that played alongside him and all the managers who worked with him." 
+
+Guardiola said he felt blessed when he took over as manager in 2016 to have such stalwarts as Aguero at the club. 
+
+"We were so lucky, the guys who came after him -- me as a manager for example," he said. 
+
+"We took over the club and he was one of the guys like Joe Hart, Pablo Zabaleta, Vincent Kompany, David Silva, many players helped this club make a step forward and of course he was one of them." 
+
+Guardiola said the Argentinian had been pivotal in helping City become a domestic football superpower after decades of living in city rivals Manchester United's shadow. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Aguero's most memorable moment for City fans will remain a goal scored in the final game of the 2011/12 season. 
+
+Manchester United were seconds away from celebrating yet another Premier League title, prolonging the agony of their neighbours, who had not been crowned English champions since 1968. 
+
+But Aguero had other ideas, receiving the ball from Mario Balotelli and thundering home a finish to secure a 3-2 victory against QPR and send the Etihad into raptures. 
+
+"When he came here the club was in one level, and he helped to put the club in a higher level," Guardiola said. 
+
+"Of course the fans always will be grateful." 
+
+This season, though, has been a struggle for Aguero. 
+
+He had knee surgery in the close season. A hamstring problem complicated his comeback and then he had to sit out a month after a coronavirus infection. 
+
+However, with City bidding for a historic quadruple trophy sweep -- Aguero looks all but certain to share in a fifth league title -- Guardiola says the Argentine has time to sign off in style. 
+
+"I think he still has interesting goals to score this season," said Guardiola. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
