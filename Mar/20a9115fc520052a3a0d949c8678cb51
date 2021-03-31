@@ -1,0 +1,142 @@
+CS Amina tours project on Monday and finds her warning to the contractor fell on deaf ears.Sh242 million facility was supposed to be finished in 2017. Despite Sports Cabinet Secretary Amina Mohamed giving the contractor of Kirubia Stadium in Tharaka-Nithi one week to complete the project; nearly two months later it remains unfinished. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When she visited the incomplete Sh242 million stadium, CS Amina warned the contractor to finish work or lose the job. 
+
+The construction of the 4,500-seater capacity stadium in Tharaka-Nithi County, which President Uhuru Kenyatta commissioned 2016, and was expected to be complete in 2017. 
+
+However, five years down the line, anxious sports men and women from the region are still waiting for the facility. 
+
+Speaking during the February 4, visit,  Amina who was accompanied by Sports Kenya Chairman Fred Muteti, said the contractor, Toddy Civil Engineering and Construction Company, had been insincere with the government on the promise to complete work. 
+
+The CS also accused the contractor of seeking more government tenders while he had failed to deliver on the old ones. 
+
+Amina added that the government could not be blamed for the delay because there was no pending bill. However, the contractor had earlier complained that the government was not prompt in giving payments. 
+
+“On Wednesday next week, I will come here to either pick keys of the completed stadium or fire the contractor. This facility is very small to take all those years,” said CS Amina during the February visit. 
+
+The CS toured the stadium on Monday this week but journalists were not allowed in because of Covid-19 health measures. 
+
+However, Nation Sport noticed that the contractor is still planting grass on the football pitch, work on the perimeter wall and laying of cabro on the pathways is still underway. 
+
+Once complete, the stadium will have a football and rugby pitch, as well as an athletics track and volleyball and basketball courts. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The construction of the 4,500-seater capacity stadium began in 2016. It will be the first stadium in the region and is expected to boost sporting activities. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
