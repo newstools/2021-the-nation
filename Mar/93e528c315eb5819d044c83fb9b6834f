@@ -1,0 +1,171 @@
+Residents of two city slums who for years have suffered acute water shortage have lauded the government for sinking boreholes which have come as a relief to them. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The boreholes project by the Nairobi Metropolitan Services (NMS) will benefit over 40,000 residents of Mukuru slums. Already, two boreholes are complete. 
+
+One bore hole was sank at the South B divisional headquarters located within the chief's camp in Mukuru-Hazina slum in Starehe Sub-County. 
+
+Another borehole was sunk at Santa Maria-Mukuru Primary School in Kayaba slum. 
+
+Those who are benefiting from the Hazina borehole are residents of Hazina slum as well as the Hazina police camp. 
+
+Residents of Kayaba slum are now drawing water from Santa Maria-Mukuru Primary School. The borehole is also being used by more than 1,500 learners at the school. 
+
+Speaking to the Nation today Wednesday, South B Assistant County Commissioner Michael Aswani Were said over half of Nairobi residents live in informal settlements. 
+
+Major challenges 
+
+Mr Were said water and electricity in the slums are major challenges. 
+
+"The government's intention is to provide residents of slums with free water as it fights to end cartels who oppress the poor by using resources such as water and electricity. This is the right time to use this water as locals embrace the Covid-19 protocols,'' Mr Were remarked. 
+
+For a long time, residents have been buying water from vendors, which puts their health at risk as they do not know where it comes from. 
+
+Kayaba slum chairman Jacob Ibrahim said residents had been buying water for Sh5 for a 20-litre jerrican. 
+
+Mr Ibrahim added that when there is water shortage, residents walk long distances in search of the commodity from other areas, where they buy it at a high price. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"It is at this point that the price of water rises to between Sh10 and Sh20 per 20-litre jerrican," Mr Ibrahim remarked. 
+
+Two years ago, the World Bank donated money for a water project in some of the city slums. 
+
+Among the slums intended to benefit was Kayaba and Hazina. 
+
+Massive corruption 
+
+But the project failed following what is said to be massive corruption. There were also allegations that government officials colluded with water vendors to scuttle the project. 
+
+But residents now have a reason to smile as water flows from taps at water kiosks. They get the water between 8.30am and 4pm every day. 
+
+“It is pure water that we draw without paying any money. We use it for cooking, bathing and also washing clothes among other household chores. We also drink it because it is not salty,'' said Mrs Penninah Ndunge Nzioka, a charcoal seller in Kayaba slum. 
+
+Given the benefits of the project, Mr Were urged residents to take care of all the water equipment so that the project can help them in the long run. 
+
+A similar project is located at St Bakhita Primary School where it is intended to benefit more than 1,300 pupils and more than 300 learners at St Michael’s Secondary School. It will use benefit more than 100 students of Mukuru Vocational Skills Training Centre. 
+
+ 
+
+skimatu@ke.nationmedia.com Many NGOs and CBOs concentrated on Kibera and Mathare and neglected Mukuru slums. Heaps of garbage, water rationing and the hawking menace still face Nairobi residents. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
