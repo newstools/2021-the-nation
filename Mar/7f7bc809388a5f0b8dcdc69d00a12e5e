@@ -1,0 +1,169 @@
+ACCPA argues that the fire's carbon emission is likely to damage to the ozone layer.A preliminary assessment of the damage by the Kenya Wildlife Service shows that almost a quarter of the conservancy, which is 49,000 acres, was damaged by the inferno. An environmental lobby group has sued the British Army and management of Lolldaiga Conservancy over a wildfire that destroyed 12,000 acres of Lolldaiga Hills in Laikipia County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The African Centre for Corrective and Preventive Action (ACCPA) wants the British Army Training Unit in Kenya (Batuk) and Loldaiga Conservancy compelled to compensate residents affected for environmental damages caused by the fire.  
+
+An Environment audit by botanists and zoologists is currently ongoing to establish the definite amount. 
+
+
+
+
+
+
+The fire has destroyed thousands of acres in the area.
+Photo credit: Batuk
+
+ 
+
+In a petition filed at the Environment and Land Court in Nyeri, the lobby group also wants Batuk and its commanding officer, as well as the conservancy, to bear responsibility for restoration of the 12,000 acres of bushland that was destroyed. 
+
+ACCPA has accused the parties of failing to put up measures to prevent fires as the British troops take part in the training on the Lolldaiga Hills consequently endangering wildlife in the conservancy. The conservancy is home to thousands of wildlife including endangered species of elephants and Grevy zebras. 
+
+It also argues that the fire resulted in lots of carbon emission that is likely to cause irreparable damage to the ozone layer. 
+
+“As a result of the respondents’ actions, millions of tonnes of carbon emissions have been emitted into the ozone layer which is likely to cause irreparable loss and damage to the environment,” the petition reads in part.  
+
+The lobby group now wants the respondents held liable for failing to put preventive measures in place and the destruction caused. ACCPA also wants them compelled to undertake restoration.  
+
+At the same time the lobby group is demanding that the British Army and Lolldaiga Conservancy to compensate any beneficiary of the hills as well as any victim of pollution caused by the fire, including residents of the surrounding settlement.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+British soldiers who have been training at the conservancy are said to have started the fire that broke out on March 24 with the UK government seemingly accepting fault for the tragedy.  
+
+The British High Commission has, however, said that investigations into the actual cause of the fire are underway. 
+
+British troops and local employees of the conservancy battled the inferno for more than four days, only managing to put it out on Sunday.  
+
+A preliminary assessment of the damage by the Kenya Wildlife Service shows that almost a quarter of the conservancy, which is 49,000 acres, was damaged by the inferno. 
+
+The wildlife agency has however refuted earlier reports that up to five elephants could have died in the fire. 
+
+“A post-fire assessment of the burnt area was conducted by KWS and no elephant carcasses were sighted in the affected area as reported by a section of the media,” KWS said in a statement. 
+
+However, a social media post by one of the British Army soldiers seemingly bragging about killing an elephant in an earlier fire remains the subject of investigations by the British military police. 
+
+“I am utterly appalled. I think that is outrageous and am very disappointed that a British soldier would post that. It is being investigated,” British High Commissioner to Kenya Jane Marriott said last week. 
+
+nkomu@ke.nationmedia.com Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation. Locals say British soldiers detonated explosives inside conservancy sparking the raging inferno. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
