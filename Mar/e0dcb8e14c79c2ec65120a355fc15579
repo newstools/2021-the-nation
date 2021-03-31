@@ -1,0 +1,453 @@
+The Fielder is the kind of taxicab you find lurking outside a meat joint awaiting a client too drunk to drive themselves home, so it’s out.The iST is not too bad, but the second generation car doesn't really stand out like the first one. Hi Baraza, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Let me thank you profusely for the good work you do every Wednesday on matters motoring. Kindly advise me on a good lady-like station wagon within a budget of 500k or thereabout. I’m torn between the following Toyota brands: Fielder, iST, Ractis, Corrola, Rumion, Auris and the Runx or Allex. All the above is in terms of resale, durability, off-road performance and presentability (image is key). Also rush through the Demio. 
+
+YoursWanyoike. 
+
+Hi Wanyoike, 
+
+So you want a lady-like car? I don't know what that means. My son's mum drives a Dualis (don't ask), but she had an iST before that, I don't know if that frankly irrelevant bit of information is of any help. Now... 
+
+Resale: forget about this. Yes, the Fielder is the king of resale values but there is plenty to go wrong between the point of purchase and the point of disposal, including having the vehicle stolen, that I doubt this should be a priority at all. The Runx/Allex also holds its value fairly well but the incursion of the Auris into the market is slowly eroding away this trait. 
+
+
+
+
+
+
+Toyota Fielder.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+Durability: they are all Toyotas, so there should be no surprises. However, I have found the iST to be particularly resilient because it's not just my son's mum who had one, I have a friend who had one too and he sold fish out of the back seat while chasing Landcruisers off the beaten path in his spare time, a practice that I do not endorse, but somehow the car weathered this mistreatment with considerable aplomb. 
+
+Off-road performance: I just said I do not endorse the practice of chasing Landcruisers off the beaten path. If you want to go off-road, then shop in the right category. This is not it.Image is key: this is true. The Fielder is the kind of taxicab you find lurking outside a meat joint awaiting a client too drunk to drive themselves home and they don't own a smartphone, so it's out. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Toyota IST.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+The iST is not too bad, but the second generation car doesn't really stand out like the first one. The Ractis has the same image problem with the Fielder, the difference being they're licensed under Uber or Bolt, so the users, wasted out of their minds, have smartphones. The Corolla is a Fielder, so, yea. I don't know (or care) what a Rumion is. The Runx/Allex is a bit too old now and being a Corolla derivative, is just "meh". 
+
+The Auris? That's the car you should be looking at. It's a Toyota with hints of Lexus-lite about its lines, and it's modern and contemporary. 
+
+How and where you drive is what really determines your vehicle’s consumption and maintenance costs 
+
+Hi Baraza,I’m a fan of your column since inception, it's really informative on issues to do with motoring. Now to my question, I am a great Subaru lover and a former owner of one. I am currently shopping and torn between a BR9/BRM Wagon(used ex Japan) and BP5. 
+
+What is the consumption of BR9/BRM in terms of kilometers/litre (not what is quoted on their Website)Between BR9(2.5) and BRG(2.0 turbocharged)which one is fair in consumption and maintenance costs.What's the consumption of BP5 turbocharged and non turbocharged. 
+
+Ardent reader and fan of anything motoringKenny. 
+
+Hi Kenny, 
+
+The BP is prettier, the BR is larger. The BP is quasi-mechanical, the BR comes with a lot of electronic junk that you might not really need. 
+
+Consumption: this depends on how you drive. There may not be much of a difference between the two, however, if you go for the BR, then avoid direct injection for now.The 2.0 liter may be more economical but the operational term here is "may". Please refer to point 1 above: how do you drive? Also, where do you drive? Maintenance costs are the same. Mostly. One is just an upscaled version of the other, with the parts being common to both.Wow, you really are keen on consumption, huh? Well, now that we are repeating questions we may as well repeat the answers too. Fuel consumption is mostly determined by how and where you drive. If Mercedes-Benz can build a 6.0 liter twin-turbo V12 monster capable of doing 13km/l while we have 1300cc Toyotas that do a mere 11km/l, you can see just how indeterminate some parameters can be. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That said: I regularly managed 13km/l in a turbo Legacy I once owned, while I manage a paltry 8km/l in a non-turbo Impreza that I made a film with. I am very sure other people driving similar vehicles have different figures from the ones I generated. How and where you drive is more important than anything else, so, for now, there do not exist solid answers for question No. 3 
+
+I am tired of my Honda Fit, I’d like to upgrade to a Honda CR-V, care for a review? 
+
+Waah! your advice to the guy who sought your opinion in seeking to upgrade from Suzuki Escudo, that appeared on DN of 17th,March,2021 had me feeling that your love for Subaru has completely possessed you just as the Ring took hold of Gollum. Your answer oozed zeal for Subaru, I could not help smiling. 
+
+Then I recalled that sometimes back, your opinion on Subaru was not so flattering, but later on after disposing off your beloved Mazdalago, you went for a Subaru. I was taken aback, just as it happened after it came out that Samurai Jack turned out to be Aku's son-in-law. Even the Oracle in the Matrix couldn't have foreseen that. I made peace with that. 
+
+Now, I grew up in the era when WRC was the in-thing and I had vowed to have a Subaru Legacy as my first car given its rallying prowess, however, life gave me a Honda Fit (Mk1 ) of which I'm enjoying though lately, I have begun to think that it’s time to upgrade and this is where you come in.  
+
+I've been reading the reviews of the 2018 Honda CR-V. I understand it’s a 1.5 litre with a turbo and my concern is how well it would hold up given the delicate nature of turbos. Now, is it possible for you to request the guys at Honda Nairobi to offer it to you for a test drive so you can write a review on it? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Keep up the good work. 
+
+Mikey 
+
+Hi Mikey, 
+
+I don't know what a gollum is and the only rings I relate to are the wedding kind and/or the piston kind. There may be a Nurburg version in there as well. You lost me with your analogy. 
+
+There is a reason behind the enthusiasm for the Subaru: engineering. That "sometimes back" you reference to, was I down-rating the car or was I making feet of the drivers? Revisit the archives and read that stuff more closely. It's Subaru drivers I was firing at, not Subaru cars. 
+
+Just to make things spicier: I disposed of the Mazdalago LP111-2 specifically to buy a Subie. The Legacy showed up for sale at a price I liked, the timing was just right: much as I loved the Demioghini with its two radios and 5-speed manual, I needed a more practical non-city car, and as they say... the rest is history. 
+
+The Subaru was put on the market at 9.00pm, I saw it, I liked it, I did my calculations, and the math didn't add up. I had to sell the Mazda. So I put Hiroshima-san up on sale at 10.15 pm, got a buyer exactly one hour later at 11.15 pm, we agreed to meet in the morning, I called up the Subaru seller and that conversation was short: "The wagon is mine now". To skip details, let's just say the following morning I left home in a blue car (Mazdalago) and returned two hours later in another blue car (El Turbo). My life is never boring. 
+
+Samurai Jack is a disturbing cartoon, but I've watched it end to end. I don't remember that sword-wielding simp driving a Mazda or a Subaru at any point. I have also watched the Matrix movies, including their between-films explainers and again: where are the Japanese cars? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+
+
+
+Honda CR-V.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+The second film in the franchise, The Matrix: Reloaded, featured a record-breaking car-chase sequence but... those were Cadillacs. And a snazzy bike, was it a Hayabusa? But mostly Cadillacs. Is there something I am missing or are you just poor at analogies? 
+
+I too grew up in the WRC era, born during the Group B phase with its high mortality rate, and raised during the Group N times when Subaru migrated from the unwieldy Leggy to the now-iconic Impreza platform. Like you, Subaru's rallying effort played a big part in solidifying my belief in the brand. 
+
+Unlike you, I actually got a Legacy when I wanted a Legacy, I didn't give excuses steeped in Honda Fitness. How much did you get the Fit for, and are you sure there were absolutely no Legacy cars in the market at that price point? 
+
+However, I am not here to chastise you about your shaky loyalties to the six-star constellation, I am here to tell you turbos are not delicate. A lump of metal with innards spinning at 80,000rpm while withstanding hundreds of degrees of internally generated heat is nowhere near delicate. 
+
+What is delicate is the rear suspension of the CRV: the multilink setup may be good for comfort and handling, but I dare you to take the car to Amboseli via Namanga more than once then we see what you think the definition of the word "delicate" should be. 
+
+That said, I'm not averse to a test drive. I can request the guys at Honda Nairobi to hand over a demo CRV for me to put through the paces, the catch is: will they agree? Do they even have a demo unit? I don't know. Over to them, in case they're reading this. I promise not to investigate how delicate a multilink rear suspension can be. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+I’m planning to buy my first car, and I’m eyeing either the Toyota NZE or the Mazda Axela 
+
+Hello Baraza, 
+
+I am a fan of your column and have a question. I want to buy a car, my first car actually, and my budget is Sh370, 000 - Sh400, 000. I am tore between the Toyota NZE and the Mazda Axela. Which car would you prefer? 
+
+Hello, 
+
+Shouldn't it be what you prefer? Yes, I know I'm the go-to car guy but my tastes shouldn't really reflect on yours, the reason being something to do with preaching and drinking water and wine, and some such. I mean, I've owned a Peugeot, a twin-turbo Subaru and I currently drive a 6-cylinder BMW. 
+
+
+
+
+
+
+Subaru Legacy BR9.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+While I have enjoyed driving these cars, they're not exactly at the top of anyone's list of recommendations, but hey... I may be a consultant but I'm also a petrolhead (premium on driver engagement) and also a man (risk taker extraordinaire). 
+
+So now, you could go for the default Toyota which will be painless to offer but will be the target of elements not entirely of good character. Theft will be a sword of Damocles constantly hanging over your head, theft of either sundry parts or the entire vehicle itself. These are hard times we live in. 
+
+
+
+
+
+
+Mazda Axela.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+You could go for the Axela instead. Pretty, nice to drive and unlikely to be pilfered, but I have not seen one for sale at the price you quote. That doesn't mean they don't exist, I'm pretty sure you must have spotted one or two hence the cross-shopping. There are lamentations concerning the availability of spares but if you are really keen, this shouldn't be a deterrent. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+You only have one life to live so if you do something you may as well do it properly. The NZE gives off a taxicab or hired car vibe. The Axela is driver-oriented and has a massive boot. Get the Axela. Some of these safety features and available technology on modern cars do deserve praise. I don't know whether to get the 2018 Mistubishi Outlander (2.4) 2018 Nissan X-Trail or the 2018 Subaru Forester XT (facelift) Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
