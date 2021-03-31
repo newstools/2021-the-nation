@@ -1,0 +1,245 @@
+Each team will play 10 group games instead of six, meaning an overall explosion of the number of matches, with 180 in the group stage instead of the current 96.The knockout stage remains untouched, but the addition of a play-off round at the end of the group phase means the total number of matches in the competition will sky-rocket from 125 to 225.A team reaching the final will have to play at least 17 games compared to the current 13. Paris 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Plans to radically reform the Uefa Champions League are set to be confirmed in April, despite a delay caused by certain leading European clubs looking for more say over commercial rights. 
+
+An announcement had been expected at an executive committee meeting of European football's governing body on Wednesday, but UEFA said no official decision would be taken before April 19. 
+
+A statement late on Tuesday from the powerful European Club Association (ECA) revealed it had been behind the setback. 
+
+The ECA, whose chairman is Andrea Agnelli, also the chairman of Juventus, said it "unanimously agreed that it was not yet in a position to formally endorse key changes... for the period post 2024 in isolation". 
+
+"If European football is to meet the challenges it currently faces," the statement added, "the foundations for ECA and UEFA's future relationship also need to be given due consideration at the same time." 
+
+According to sources close to the negotiations, certain leading clubs want greater control of UEFA Club Competitions (UCC), the subsidiary company which advises UEFA itself on commercial matters. 
+
+Half of the board members of UCC are appointed by UEFA. The other half are appointed by the ECA. 
+
+The current protocol defining the relationship between the ECA and UEFA is also set for renewal in 2024, hence the sticking point. 
+
+However, plans for what the reformed version of European football's elite club competition -- supposed to stave off the threat of a breakaway Super League -- will look like are already an open secret. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is how things are set to change: 
+
+One giant pool 
+
+The changes are essentially all about creating a new format for the group stage, replacing the existing structure in place since 2003. 
+
+At the moment 32 clubs enter the group stage and are split into eight groups of four teams, who play each other home and away with the top two in each group advancing to the last 16. 
+
+It is understood the plans will see the number of teams in the group stage increase to 36, with discussions ongoing about who the additional berths will go to. 
+
+British newspaper The Times reported that two extra spots will go to the clubs with the best coefficient who fail to qualify via domestic competitions but have qualified for the second-tier Europa League. 
+
+However European Leagues, a body representing the interests of clubs and leagues in 30 countries, is against places being attributed on historical merit and insists the make-up of European competitions "should reflect the current state of domestic competition". 
+
+France, which is Europe's fifth-ranked nation but currently only has two guaranteed places in the group stage, should get an extra spot. 
+
+The plans will see a complete overhaul of how the group stage works. 
+
+Teams will all be placed into one giant pool and will each play 10 games in a so-called 'Swiss system' more commonly associated with chess. 
+
+For the draw clubs will be split into four pots of nine based on UEFA coefficients. Teams will play against 10 different sides, with five games at home and five away. 
+
+At the end of this phase, the top eight sides will go through to the last 16, with the bottom 12 eliminated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Meanwhile the sides finishing between ninth and 24th position will play two-legged play-offs, with those between ninth and 16th drawn against a side finishing from 17th to 24th. 
+
+The winners of those ties will complete the last-16 line-up, with the losers dropping into the Europa League. 
+
+At the heart of the reforms is the desire to play more games, stated explicitly by Agnelli earlier this year. 
+
+"It is our strong view that more European matches are welcome," the ECA and Juventus supremo has insisted. 
+
+This system certainly offers that. 
+
+Each team will play 10 group games instead of six, meaning an overall explosion of the number of matches, with 180 in the group stage instead of the current 96. 
+
+The knockout stage remains untouched, but the addition of a play-off round at the end of the group phase means the total number of matches in the competition will sky-rocket from 125 to 225. 
+
+A team reaching the final will have to play at least 17 games compared to the current 13. The changes are expected to increase the number of clubs involved in the group stage from the current 32 to 36. "Of course the fans always will be grateful." No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
