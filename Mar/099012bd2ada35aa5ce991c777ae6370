@@ -1,0 +1,157 @@
+Insurance companies have made a U-turn on their claim that they would not settle motor insurance claims resulting from accidents that occur during curfew hours, now stating that the time of accident cannot invalidate a claim. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The move follows public pressure on the legality of the refusal to pay claims for incidents that happen during curfew hours, which would have been against the existing insurance contracts.  
+
+“Any motor insurance claim that arises during curfew hours cannot be dismissed on the basis of the time of accident. If you violate curfew hours, then the police will charge you with that violation,” the Association of Kenya Insurers (AKI) stated on Tuesday. 
+
+The association said claims will only be dismissed if it is proven that there are other circumstances that are excluded from the motor insurance policy. 
+
+Get review 
+
+“We advise customers whose claims were denied on the basis of getting an accident during curfew hours to visit their insurer for review,” the association said in a statement. 
+
+AKI made the statement a day after indicating that it was holding discussions with the Insurance Regulatory Authority (IRA) on Monday, before communicating its position on the matter.  
+
+This was after the Association of Kenya Professional Insurance Agents (AKPIA) on Sunday made the controversial disclaimer that insurers would not pay motor vehicle insurance claims for accidents that occur during curfew hours. 
+
+“Driving past curfew hours without essential services authorisation or valid emergency reasons could render your motor insurance claim invalid,” AKPIA had stated in the Sunday public notice. 
+
+In the “Important industry notice”, AKPIA warned the insured against driving past curfew hours if they are not listed as essential service providers, since if anything happens, they will be on their own. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Currently, curfew hours run from 8pm to 4am for five zoned counties that have high rates of Covid-19 in the country, and 10pm to 4am for the remaining 42 counties. 
+
+Public fury 
+
+The notice by AKPIA attracted fury from the public. 
+
+“This is a breach of contract. There is nowhere in the policy that the policy holder is advised to drive a car during certain times. A vehicle is insured inside and outside the curfew hours unless the insurer refunds premiums and states that the car is insured excluding curfew hours,” argued Kaluki Kyallo in response to the notice shared by the association on its Twitter handle. 
+
+Others questioned the association’s move, wondering whether the insurers are also ready to refund their clients’ premiums covering for the curfew hours and amend contracts with their clients. 
+
+ 
+
+pmburu@ke.nationemdia.com Essential service providers or people driving out with an emergency exempted from the order. Apart from deceiving traffic police that the vehicle carries valid insurance to cover third parties against bodily injuries and other losses, as required by law, fake insurance certificates... No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
