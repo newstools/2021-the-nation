@@ -1,0 +1,262 @@
+How effective is the coronavirus vaccine? This is a question that has increasingly been asked whenever vaccine acceptance comes up in conversation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As vaccine manufacturers continue to release data on interim analyses of the Covid-19 vaccines developed so far, vaccine experts have found themselves explaining why the efficacy rate of the vaccines varies. Published data shows that the efficacy of the vaccines ranges from 66 per cent in Johnson & Johnson to 95 per cent in Pfizer/BioNTech. 
+
+Clinical trials 
+
+These efficacies have affected the acceptance of some of the drugs, with many people showing preference for those with higher efficacy rates. Efficacy is defined as the ability to produce a desired or intended result. 
+
+For experts, however, efficacy is just one of the aspects of the vaccines’ performance that is observed during clinical trials. 
+
+Globally, the Covid-19 vaccine programme is designed to ‘tame’ the virus by reducing its ability to cause severe symptoms and death. Studies show that it can take anywhere between two and 14 days to move from the incubation and prodromal periods, when symptoms such as cough, fever, generalised muscle pain, and body ache first appear, to an acute period when symptoms reach their peak and the illness presents full-on. 
+
+The vaccine, experts note, is meant to halt this progression of the virus to the symptomatic stage. 
+
+“The ideal vaccine is one that protects the recipient from severe illness and death and it is what these results show,” said Dr Catherine Kyobutungi, the executive director of the African Population and Health Research Centre (APHRC). 
+
+In clinical trials, a vaccine’s efficacy rate is calculated following tests on two categories of people: those who receive the actual vaccine and those in a control group (placebo), who are followed up by scientists to see how the vaccine works. While some people in the placebo group are hospitalised and even die from an infection, not one fully vaccinated person, identified as someone who has received all the doses of the vaccine, in any of the six vaccine (Oxford/AstraZeneca, Pfizer/BioNTech, Moderna, Sputnik V, Novavax, and Johnson & Johnson) trials, was hospitalised or died from Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“A candidate vaccine against Sars-CoV-2 might act against infection, disease, or transmission, and a vaccine capable of reducing any of these elements could contribute to disease control,” a team of experts wrote in an article published in February in the Lancet journal. 
+
+Vaccine efficacy, said the team of experts, among them Prof Andrew Pollard, lead investigator of the Oxford University trial of the AstraZeneca vaccine, “does not always predict vaccine effectiveness — the protection attributable to a vaccine administered non-randomly under field conditions.” 
+
+When germs, such as the virus that causes Covid-19, infects the body, it attacks and multiplies. This infection is what causes illness. The first time a person is infected with the virus that causes Covid-19, it can take several days or weeks for their body to make and use all the ‘tools’ needed to get over the infection. After the infection, the person’s immune system remembers what it learned about how to protect the body against that disease, to use again if it encounters the same virus. 
+
+According to the Centers for Disease Control and Prevention (CDC), current evidence suggests that reinfection with the virus is uncommon in the 90 days after the initial infection. However, experts do not know for sure how long this protection lasts, and the risk of severe illness and death from Covid-19 far outweighs any benefits of natural immunity. 
+
+Vaccines are developed to help protect you by creating an antibody (immune system) response without having to experience sickness. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the absolute best scenarios, vaccines are meant to prevent infection. But realistically, in the case of Sars-CoV-2, an efficacious vaccine might prevent infection, disease, or transmission. Should one get infected after getting vaccinated, the developed vaccines give the body enough protection to counter the progression of the disease from mild and moderate symptoms to severe symptoms, which hamper a person’s breathing and require hospitalisation, and death. 
+
+So far, the Ministry of Health’s data shows that about 40,359 frontline workers have been vaccinated. 
+
+“If we are talking about efficacy in reducing the risk of severe Covid-19 or death, any approved vaccine will do that. Any. This is why we are saying that you should take the vaccine that is available at your location when it is your turn to do so,” said Lukoye Atwoli, associate professor of Psychiatry and dean of the Aga Khan University Medical College, East Africa. 
+
+However, he noted that efficacy should not be a source of worry compared to getting infected after vaccination. 
+
+“We worry more about what happens after that potential infection after vaccination. Do you get the same intensity of infection as an unvaccinated person? Do you stand the same risk of death after infection as an unvaccinated person,” asked Prof Atwoli. 
+
+ 
+
+Other vaccines and their efficacies. Interim analyses published on the vaccines listed below show that they are both safe and effective. 
+
+Oxford/AstraZeneca- 79%Pfizer/BioNTech- 95%Moderna- 94%Sputnik V- 92%Novavax- 89%Johnson & Johnson- 66% 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Here's what we know about them and what this implies for the Covid-19 pandemic. Reports indicate that at least 75,000 doses of the vaccine had arrived at the port of Mombasa by Sunday. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
