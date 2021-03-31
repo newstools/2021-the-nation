@@ -1,0 +1,402 @@
+The grinding poverty, the squalor, the sewage, the flying toilets, the smelly poop, the tin shacks, the cramped alleys, the criminal gangs, the corrupt officers… 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Welcome to Mukuru kwa Njenga and Mukuru kwa Rueben slums in Nairobi, where life is always on the edge. 
+
+Here, thousands of Kenyans from the four corners of the nation are stuck in a vicious cycle. 
+
+Ironically, these are the people who work their butts off under mean businessmen to make the lives of the Middle Class comfortable but they themselves live in penury. 
+
+They lack access to necessities – such as clean water and sanitation – breeding indignity and infections due to their dire living conditions. 
+
+Over the years, many non-governmental and community-based organisations concentrated on Kibera and Mathare – the other informal settlements in the city – and neglected Mukuru. 
+
+Doris Moseti has lived in Mukuru Kwa Reuben since 2002, when she left western Kenya to join her husband. 
+
+“I was in Kakamega when my husband asked me to join him. I was excited because I thought he was living in a good estate. I left my two-bedroom house, thinking I was going to a better place,” says Ms Moseti. 
+
+As soon as she ‘landed’ in the slums, she was greeted by rows of shanties and the mental image of beautiful apartment blocks immediately faded. 
+
+“After alighting from a matatu, my husband and I began walking. We passed many tin structures and I thought it was a market,” she recalls. 
+
+
+
+
+
+
+
+
+
+
+
+A resident walks in-between the shanties within Mukuru kwa Njenga slum. The houses are built close to one another leaving no room for emergency vehicles to access in case of a fire outbreak.
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+Eventually, their 10x10 shack was just the beginning of the many unpleasant surprises headed her way. 
+
+Here, the ‘landlords’ do not care what their tenants do when nature calls. Toilets and bathrooms are a luxury. 
+
+“I was still trying to reconcile myself with the place that I would be calling home, I needed to go for a short call. My husband led me outside, pointed to a dark place and gave me a pair of gumboots. There was a long queue of people waiting to use the pit latrine,” she offers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Backwards 
+
+“You had to go in backwards and prepared because it was too small. And of course, you had to pay. There was a Baptist Church nearby with clean water, where most women went to do their laundry and shower.” 
+
+Every night between 7pm and 8pm, women would go round knocking on each other’s doors, a signal that it was time to go for either a short or long call for the night – in groups. 
+
+You needed to finish your business early as it was unsafe to venture outside in the dead of the night. 
+
+“In case the pit latrine queues were long, we would move to a nearby shrub in groups to relieve ourselves,” offers Ms Moseti. 
+
+Between 2002 and 2007, Kijiji Mzee in Kwa Reuben had no latrines. Some were, however, available in Kijiji Mpya. 
+
+Humbling experiences 
+
+Ms Moseti would have more humbling experiences after delivering her firstborn in 2006. 
+
+
+
+
+
+
+
+
+
+
+
+Vehicles make their way through a heap of garbage dumped on the road in Mukuru kwa Njenga slum. The garbage has remained uncollected for days.
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+“Slum life is not what I would wish for any nursing mother. There is no sanitation. I could no longer use the latrines, because they were not clean. Taking a bath was also a challenge,” she recalls. 
+
+“I used to bathe in our shack. As a new mother, I was still bleeding and the bathing in the room would leave a stench. My dignity as a woman would shatter whenever I had a visitor. Others avoided me for a while.” That was not all. 
+
+“Most women in slums cannot afford sanitary pads, we mostly use cotton wool. Unfortunately, there were no proper ways of disposing it. I used to wrap it in a polythene bag, and then wait for nightfall to throw it away.” 
+
+Ms Moseti now champions issues of sanitation in the slum and is among a group of women trying to change the face of Mukuru Kwa Rueben. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“There is little help from the county government. Previously, they could come twice a week to collect garbage but they no longer do. There are no collection points. The sewage from pit latrines ends up in the open trenches, then flows freely outside people’s houses,” she notes. 
+
+
+
+
+
+
+
+
+
+
+
+An aerial view of Mukuru kwa Njenga slum.
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+The factories surrounding the village also emit toxic air from chemicals. 
+
+“The air is usually heavy with toxic fumes in the mornings. There is a steel company nearby that’s responsible. The Ngong River that passes through the slum has turned green and black due to the toxic effluents. The discharge is mostly from the factories and latrines,” laments Ms Moseti. 
+
+The Nairobi Metropolitan Services (NMS) boss Major-General Mohamed Badi last year toured Mukuru slums and was shocked by what he saw. 
+
+Embarrassed 
+
+He felt embarrassed when he learnt that the close to half a million Kenyans living in Mukuru Kwa Njenga, Rueben, Viwandani, Pipeline and Fuata Nyayo slums were being served by a single clinic managed by the Catholic Church. 
+
+It had a capacity of just seven beds. 
+
+“I felt ashamed as a government officer when I visited the slums and found women being given an hour to deliver and go home because there is no enough space and time,” said Maj-Gen Badi. 
+
+NMS is now constructing 24 hospitals in the slums. The city administration has already completed four facilities in Uthiru, Soweto in Kayole, Kiamaiko and Ushirika in Dandora. 
+
+Criminal gangs and drug abuse among the youth are also rampant in Mukuru. 
+
+
+
+
+
+
+
+
+
+
+
+Some of the illegal power connections that supply electricity to houses within Mukuru kwa Njenga slums.
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+*James is one of the few youths trying to make a change in Mukuru kwa Njenga. But his efforts are sometimes, ironically, frustrated by the police. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The slum has become a cash cow for some unscrupulous officers, who protect criminals. Gang members roam freely because they enjoy police protection to sell drugs. 
+
+“Insecurity is rampant. Sometimes criminals bribe their way out to continue with illegal activities. Cases of gender-based violence are also on the rise. Many people do not report suspicious activities or speak against the police because they might be eliminated,” says James. 
+
+Overpopulated 
+
+There’s just a single public school in the slum, Njenga Primary, which is ‘overpopulated’. This has seen businesspeople open private institutions. Pupils are usually cramped in shanty houses, which are partitioned into ‘classrooms’. There are no playgrounds. 
+
+“The high level of poverty contributes to some of the evils. Most children are usually on and off school. They lack basic amenities; even food is a hustle. This is when they get the opportunity to indulge in crime. Drugs are cheaply available,” offers James. 
+
+“Police patrols are usually extortion trips, not security operations. Last week, there was a scuffle between gangs that were fighting over ‘rights’ over a matatu stage, and one man was killed during the scuffle. Police were present during the incident but no action was taken,” he says. 
+
+Embakasi OCPD Francis Kamau, however, defends his men. 
+
+“There are three offices to report to in case one has a complaint against the police. They can come to me, go to the OCS or IPOA. Do not fear anyone. If officers are involved in any illegal matter, report in any of these offices,” says Mr Kamau. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} Most of the buildings are illegally erected and unsafe for human occupancy. What was once a neat, small neighbourhood with a few people and controlled development has now ballooned into a home for thousands of inhabitants and sprawling buildings. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
