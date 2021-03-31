@@ -1,0 +1,259 @@
+Accra Road in Nairobi's central business district (CBD) has been renamed Kenneth Matiba Road in honour of the late second liberation icon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes barely two weeks after the Nairobi County Assembly passed a Motion to rename the road after the veteran politician, three years after his demise. 
+
+On Tuesday, Roads and Transport Executive Mohammed Dagane supervised the works at the CBD where the road sign bearing the late Matiba’s name was erected to replace the existing one. 
+
+This is now the third road to be renamed in the capital city this year alone. 
+
+Two weeks ago, Eastleigh’s First Avenue lane was renamed Mohammed Yusuf Haji Avenue in honour of the late Garissa Senator who died in February. 
+
+In February, Kapiti Crescent Road in South B was renamed in honour of the late football legend Joe Kadenge. 
+
+The late Matiba died in Karen Hospital on April 18, 2018, aged 85 years after suffering cardiac arrest. 
+
+In the Motion by Nairobi Central Ward MCA Daniel Ngegi, the county legislators unanimously agreed that having the road named after the second liberation icon will be a fitting tribute to a man “who sacrificed his life for a better Kenya”. 
+
+While approving the Motion, the MCAs raised concerns that despite the late Matiba’s immense contributions to the country, there was nothing in his honour. 
+
+
+
+
+
+
+
+
+
+
+
+Mr Kenneth Matiba (left) and Mr Charles Rubia.
+Photo credit: File photo
+
+ 
+
+Mr Ngegi said that Mr Matiba’s contributions to the multiparty democracy the country currently enjoys cannot be gainsaid and having Accra Road renamed Kenneth Matiba Road would go a long way in having his name remembered by generations to come. 
+
+Hospitality and education sectors 
+
+He pointed out that the former Kiharu MP and 1992 presidential candidate also left an indelible mark in the hospitality and education sectors and was an accomplished public servant having served as the first African Permanent Secretary (PS) for education in 1963. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Matiba also served as PS for commerce, chairperson of the Kenya Football Federation between 1974 and 1978, Minister for Health, Culture and Social Services; and Transport and Communications. 
+
+Mr Ngegi went on to describe Mr Matiba as a modern-day freedom fighter who fought for the freedom of the country from the clutches of the dark days. 
+
+He said Accra Road played a significant role during the clamour for multipartyism in the country by acting as a place of refuge for the late Matiba during the Saba Saba days as he would use Accra Hotel, owned by the late Nairobi Mayor John King’ori, to regroup and re-strategise after being clobbered and teargassed at the Kamkunji Grounds. 
+
+He explained that renaming the road would also serve to reunite two allies and second liberation heroes, the late Matiba and Charles Rubia. 
+
+Charles Rubia Road runs from Nyamakima to River Road while Accra Road runs from Moi Avenue to Charles Rubia Road. 
+
+
+
+
+
+
+
+
+
+
+
+New Content Item (1)
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+“The two gentlemen were only separated by death and it is very unfortunate that they did not live long enough to enjoy the fruits of what they fought for,” said Mr Ngegi. 
+
+Kayole Central MCA Jeremiah Themendu and nominated MCA Kabiro Mbugua concurred with Mr Ngegi saying that the late Matiba risked his life for the betterment of the country so that Kenyans could enjoy their freedom. 
+
+Kilimani MCA Moses Ogeto said it was unfortunate that the late Matiba has not been honoured although most of his contemporaries have received such privilege. 
+
+Some roads in Nairobi have been renamed in honour of the men and women of great standing in the country including Lord Delamere Avenue to Kenyatta Avenue in honour of the founding President of Kenya Mzee Jomo Kenyatta, Government Avenue to Moi Avenue in honour of the second President of Kenya Mzee Daniel Toroitich arap Moi, Forest Road to Nobel Laureate Wangari Maathai, among others. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+comulo@ke.nationmedia.com He captured international attention during his trial when he said, “Jail me if you like. But change, like death, is inevitable.” Details of the meeting, also attended by Siaya Senator James Orengo, remained scanty. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
