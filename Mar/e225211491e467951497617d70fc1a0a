@@ -1,0 +1,173 @@
+There are a number of renovated houses among old buildings, some which appear to be on the verge of collapsing.Crawford, who was a horticulture farmer and businessman, also kept dogs and donkeys. About six kilometres from Nakuru town, on the highway to Nairobi, is a large parcel of land extending from one side of the road at Machine Junction. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On one side of the vast land stands a bushy thicket framed with cactus and tall acacia trees, which obstruct the view beyond. 
+
+However, following a path into this thicket leads to a small white gate, which opens up to a home that appears abandoned. There are a number of renovated houses among old buildings, some which appear to be on the verge of collapsing. 
+
+This is the home of Richard Ingram Crawford, a British settler who died a bachelor in 2014, after living in Kenya for more than six decades. 
+
+Crawford, who was a horticulture farmer and businessman, also kept dogs and donkeys. One of these dogs meets us at the gate and barks madly. It does that at the sight of any stranger. 
+
+Some donkeys can be seen grazing in the open field, a few metres from the compound. 
+
+We are denied access to the compound by the caretaker, who claims to have been ordered not to allow anyone in without an appointment. 
+
+Generous man 
+
+In the compound is the house in which Crawford lived, a store, some offices and servants’ quarters. 
+
+About 200 metres from the home are temporary houses built in a linear formation on the edge of the land. 
+
+We learn that the more than 10 shelters are occupied by Crawford’s former workers. 
+
+One of the workers, 52-year-old James Njogu, says he worked for Crawford for more than 30 years as a gardener before he retired. 
+
+Alongside other employees, he was moved to the parcel of land by Crawford, who had promised them each a piece of land. 
+
+According to Mr Njogu, Crawford was a generous man who related well with his employees and always wanted them to live comfortably. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Since he had no wife and children, he considered us part of his family and had even promised to allocate us a parcel of land before he died,” says Mr Njogu. 
+
+Ms Margaret Wanjiku, 60, says her husband, who was also Crawford’s worker, had been given land close to the settler’s house. 
+
+Attacked by armed robbers 
+
+However, the group claims they were asked to leave the land by Crawford’s secretary, Ms Sarah Joslyn, who took control of the property immediately after his death in 2014. 
+
+According to the resident, Crawford was attacked by armed robbers in 2007 in his house, an attack that left him with serious injuries. 
+
+He was flown to Nairobi for treatment but on returning, he had developed Parkinson's disease, a condition that saw him develop memory loss. 
+
+The workers, Ms Joslyn and another person are among the people seeking to inherit Crawford’s millions. 
+
+A court battle was instituted at the High Court in Nakuru in 2014, in which the parties are seeking authority to control the property estimated to be worth millions of shillings. 
+
+Mr Mwangi Waiganjo, a lawyer representing one of the parties, revealed that the prime land, measuring about 50 acres, is estimated to be worth hundreds of millions of shillings. 
+
+Ms Joslyn was charged with using forged documents including a will and codicil – an addition that explains, modifies or revokes a will or part of it -- to petition the court for letters of administration to Crawford’s estate.  
+
+jopenda@ke.nationmedia.com The bachelor's secretary, workers and ‘adopted family’ are scrambling for the property. “As a Luo woman, a man cannot claim to be my husband if he has not paid dowry...that means I could leave any time,” she said. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
