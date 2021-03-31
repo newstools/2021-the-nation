@@ -1,0 +1,248 @@
+It’s a new dawn for cancer patients in Kwale County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After decades of despair due to the lack of a treatment facility, hope is finally on the way for those battling the illness. 
+
+In what will transform the diagnosis and treatment of the disease in South Coast, the county government is putting up a Sh65 million cancer treatment centre, which will be ready in August.  
+
+Governor Salim Mvurya said the oncology centre would ensure early detection and save many lives.  
+
+“We want to enable early detection through screening. This disease has claimed many lives. Having the facility in our county will also reduce the burden of expenses, which come with treatment,” he said. 
+
+The centre will provide chemotherapy treatment as well as surgical and laboratory services in the first phase that will cost Sh35 million.  
+
+In the second phase, it will have a full-fledged oncology department capable of handling all types of cancers and a treatment centre with a capacity of 40 patients. 
+
+The county chief health officer, Dr Salim Mbete, said at least two cases of cervical cancer are reported daily.  
+
+Unfortunately, most patients come for screening when the symptoms are at an advanced stage, making treatment a huge challenge.  
+
+The county will hire 18 specialised medical workers at the centre. “We have sponsored some of the students who are studying nursing, oncology and pathology,” said Dr Mbete. 
+
+It has been a nightmare for Kwale residents living with cancer. Some have been seeking treatment in Mombasa, which is quite expensive, considering the high poverty levels in the region. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The oncology centre will ease the pain for patients, such as Abigail Kinyua, who has been shuttling between the two counties for the past 15 years, since cancer first struck in 2006. 
+
+“This is good news. The proximity of the centre will have more people with cancer being attended to. I also believe the county would offer financial support or waive bills for some of its residents,” she told nation.africa. 
+
+A mother of two and a resident of Ukunda, Ms Kinyua thought she had beaten the monster, until recently, when she felt a lump on her breast and rushed to the Aga Khan University Hospital for a checkup. 
+
+“I was breastfeeding my daughter and that is when I felt the lump. I immediately sought treatment in different hospitals only to get the service at Aga Khan University Hospital, where I was diagnosed with breast cancer,” she said. 
+
+Ms Kinyua would then be put on chemotherapy, where she underwent six sessions and one surgery. The doctor also advised her to join a cancer support group. After treatment, the lump disappeared, but the doctor advised her to go for regular checkups. 
+
+
+
+
+
+
+
+
+
+
+
+Abigael Kinyua, 52 a breast cancer patient in Kwale county. She hopes that with the cancer treatment centre, she will not have to bear the pain and struggle of travelling outside the county for treatment.
+Photo credit: Pool I Nation Media Group.
+
+ 
+
+Last year, as the country was dealing with a deadly pandemic, Ms Kinyua was battling cancer – again. 
+
+She had gone for a checkup, only to learn of local recurrence, with a new lump on the other breast. She is now back to the cycle of hospital visits, fundraisings and chemotherapy sessions. 
+
+“I have already done 11 cycles of chemotherapy and I have nine to go. I have exhausted my NHIF insurance cover. Friends are also avoiding me because I need money for treatment. A chemo session costs about Sh105,000, which I cannot raise,” said Ms Kinyua. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Cancer patients across the country face challenges of access to specialised care. Not long ago, hundreds of patients used to flock to the Kenyatta National Hospital, which was the only public facility that provided treatment. 
+
+With the devolved government, more services are getting to the people, and the news that Kwale would soon have its oncology centre elated Ms Kinyua. Other than the huge hospital bills, she would spend at least Sh500 on transport to Mombasa for her daily sessions. 
+
+“It has been hectic. Sometimes because of the chemotherapy sessions, I was too weak to go alone so I would cater for transport for two. 
+
+I would also take a ‘tuktuk’ once I alight at Likoni and cross the ferry while inside it because I cannot climb the steep hills on the channel,” she offered. 
+
+In the region, those seeking radiology services and cannot afford the private hospitals have to queue at the Coast General Teaching and Referral Hospital. Intersex persons in Kenya continues to face a multitude of challenges and human rights violations from birth. It is not clear if the group complied with the new regulations introduced on March 11 this year. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
