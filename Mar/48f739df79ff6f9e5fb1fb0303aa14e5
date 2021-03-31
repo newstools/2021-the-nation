@@ -1,0 +1,287 @@
+Each time Shem Orina walks past Governor Cyprian Awiti’s office in Homa Bay town, he remembers a time when he was treated like a VIP inside the white building. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Orina used to occupy the same office that the governor now sits in. He gave orders to former councillors, while dressed in a black robe with golden ribbons and a chain. 
+
+He was the deputy mayor of Homa Bay Municipal Council, and those were the golden years, before devolution in 2013.He ran for election as a ward representative and lost. 
+
+Though Mr Orina goes by a title -- the “Municipal Mayor” -- which he uses on the streets of Homa Bay town, he does not enjoy the privileges he was used to when he served in the now-defunct local authority. 
+
+Before the 2013 General Election, the former councillor for Market Ward would use his official car to move from one place to another. The car had a miniature flag on one side and he had security guards whenever he was driven around town. 
+
+The small flag symbolised power. 
+
+Now, he spends most of his time in the governor's office and other government offices, seeking audience with officials. 
+
+He is also a common figure in political gatherings and is usually given a chance to talk to residents when local MPs visit their constituents. 
+
+Mr Orina says the main purpose he visits political leaders is to ask them to help push the government to release funds to help former councillors. 
+
+Petitioned the government 
+
+"I am among a group of former councillors who petitioned the government to give former defunct local authorities a send-off package and monthly pension to cushion them from suffering," he says. 
+
+His predicament mirrors the tough times and financial difficulties his former colleagues are going through in other parts of the country, as they wait for the government to make good its promise on the send-off package. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Councillors petitioned the Senate to honour their service to the country by giving them retirement funds and a pension. 
+
+More than 4,000 councillors in the country asked for a one-off payment of Sh1.5 million each and a monthly pension of Sh30,000. 
+
+Mr Orina is now asking the National Treasury to hasten the process of releasing funds to save them from penury. 
+
+Names of the 410 former councillors who served the county, town and municipal councils in Homa Bay were forwarded to the Senate to be considered among the beneficiaries of the expected payouts. 
+
+Among them is Mr Michael Ogallo, in Gem ward, Rangwe constituency. He served as the councillor for Gem ward, when he was only 24, from 2007 to 2013. 
+
+Today, he struggles to make ends meet at his farm in Gem west village. 
+
+“I was elected when I had no family. It is unfortunate that my political career came to a halt after I started establishing my family. Today, we have to struggle a lot just to pay school fees for my children,” he says. 
+
+Motion on payment 
+
+According to Homa Bay Senator Moses Kajwang', the Motion on payment of former councillors was passed and the former public service officers should have received their send-off package and monthly pension. 
+
+It is, however, not the case, as most councillors continue to grapple with financial difficulties, hoping the government will approve the send-off package they were promised. 
+
+According to Homa Bay County Councillors Forum (HBCCF), which advocates the welfare of the group, failure by the government to release the money on time has driven some of them to the edge of suicide. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Of the 410 councillors who presented their names to the senate, only 247 are alive, said the group’s secretary, Mr George Ondiek. 
+
+"Some died because of illnesses that are from lifestyles that are full of suffering. The government has been assuring us that the funds would be released, but it keeps on bouncing to other uses," he said. 
+
+He told journalists that the Treasury had finalised collecting personal details from councillors and the money should be released "soon". 
+
+"The promise started more than one year ago before the outbreak of Covid-19. Some of us who have tried following up on the matter have been told that the funds we were supposed to receive were spent on the fight against coronavirus. We do not know how true this is because the time we expected to get the funds is due,” Mr Ondiek said. 
+
+HBCCF coordinator Henry Ochaka said their appeal and petition has passed through all the legal procedures and it is only the Treasury that is causing delays.   
+
+Mr Kajwang’ said the government has enough money to pay the councilors, only if priorities are set right. 
+
+"If the government is able to provide money for car grants to members of county assemblies, it would not be too much to ask the same government to take care of former councillors who served the country with distinction," said the senator. 
+
+Mr Kajwang’ described the former councillors as public servants who did not engage in corruption. 
+
+"The fact that the councillors are asking for support from the government shows that they worked with integrity. They put all their efforts in public service and never stashed up funds somewhere for survival," he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Treasury CS Ukur Yatani did not pick our calls or respond to text messages requesting a comment. How cartels, busy-bodies and city militia run roughshod over taxpayers and residents is perplexing. For several decades, Mohammed Yusuf Haji played power games without dropping any balls. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
