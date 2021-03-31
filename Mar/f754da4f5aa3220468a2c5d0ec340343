@@ -1,0 +1,147 @@
+The win brought back memories of Olunga’s eight-goal blitz in Kashiwa Reysol’s 13-1 demolition of Kyoto Sanga in a J2 League match on November 24, 2019. Kenya’s Michael Olunga became a hot trending topic in Japan after the Samurai Blue hit Mongolia 14-0 in a 2022 Fifa World Cup Asian second Qualifying Group “F” match on Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The win brought back memories of Olunga’s eight-goal blitz in Kashiwa Reysol’s 13-1 demolition of Kyoto Sanga in a J2 League match on November 24, 2019. 
+
+Reysol’s victory remains the biggest win in Japan's Professional Football League history. 
+
+“For some reason, Olunga has entered the trend in Yahoo! real-time search behind the "historical victory", which is a record for the most goals in the World Cup qualifying for the Japanese national team,” reports said in Japan where nine different scorers netted for Hajime Moriyasu’s side against Mongolia. 
+
+Yuya Osako grabbed a hat-trick, Sho Inagaki, Junya Ito and Kyogo Furuhashi had a brace each, while Takumi Minamino, Daichi Kamada, Hidemasa Morita and Takuma Asano contributed one goal apiece. Khash-Erdene Tuyaa scored an own goal in Japan’s historic win. 
+
+"Olunga is trending. Even though he hasn't scored a single goal for Japan (he plays for Kenya national team), he is a symbol of a large number of goals in Japan,” the reports noted. 
+
+In Olunga’s first full season with Reysol in 2019, the “Engineer”, who turned 27 on March 26, participated in the J2 League Round of 42 match against Kyoto on November 24, 2019 in Kashiwa, where he belonged at the time. 
+
+He contributed to the record victory of 13-1 with eight goals and two assists. These 13 goals set a new J-League record, and as an individual, eight goals set a new league record and a record-breaking victory. 
+
+“There are many people who associate "Olunga" on the net with the historical 14 goals of the Japanese national team this time. Mr Olunga's trend has blown away." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Olunga finished 2019 J2 League with 27 goals as Kashiwa gained promotion to the top-tier league, J1 League. He went on to become the top scorer in 2020 J1 League with 28 goals and the first African footballer to be crowned the Player of the Year since J.League started in 1993. 
+
+The centre-forward is currently with Qatari's Al Duhail SC. He joined the Qatari top-tier side on January 12. 
+
+Additional reporting by Yahoo! Japan The national team has been drawn against neighbours Uganda, Rwanda and Mali in Group E. Egypt and Comoros secured the two spots from the group. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
