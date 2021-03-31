@@ -1,0 +1,173 @@
+The Hague 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The International Criminal Court (ICC) on Tuesday upheld the war crimes conviction and 30-year sentence imposed on a Congolese warlord dubbed the "Terminator". 
+
+Rebel leader Bosco Ntaganda had appealed after he was found guilty by the ICC in 2019 of a reign of terror in the Democratic Republic of Congo in the early 2000s. 
+
+Judges dismissed all of Ntaganda's arguments against both the conviction and the sentence, the longest ever handed down by the Hague-based tribunal. 
+
+Presiding Judge Howard Morrison said the ICC's appeals chamber "confirms by a majority the conviction decision and rejects the defence and prosecution appeals". 
+
+He added that the chamber "confirms the trial chamber's sentencing judgement." 
+
+Judgment ‘now final’ 
+
+The judgment was "now final", the ICC said in a statement. 
+
+The Rwandan-born 47-year-old was convicted of five counts of crimes against humanity and 13 counts of war crimes, including murder, sexual slavery, rape and using child soldiers. 
+
+Ntaganda was the first person to be convicted of sexual slavery by the court. Many of the other charges related to massacres of villagers in the mineral rich Ituri region of DR Congo. 
+
+The court earlier this month awarded Ntaganda's victims $30 million (25 million euros) in reparations, provided he was convicted on appeal. 
+
+Ruthless leader 
+
+Prosecutors portrayed him as the ruthless leader of ethnic Tutsi revolts amid the civil wars that wracked the DRC after the 1994 genocide of Tutsis in neighbouring Rwanda. 
+
+The original conviction said Ntaganda was a "key leader" of the Union of Congolese Patriots rebel group and its military wing, the Patriotic Forces for the Liberation of Congo (FPLC). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The FPLC operated in Ituri province on the eastern border of DR Congo in 2002 and 2003. 
+
+Control of minerals 
+
+The group killed at least 800 people as it fought rival militias for control of valuable minerals. Tens of thousands have been killed in the region since violence erupted in 1999. 
+
+Judges found that in one attack in a banana field that was directed by Ntaganda, soldiers used sticks, knives and machetes to kill at least 49 captives, including children and babies. 
+
+Defence lawyers said the ICC's original decision to convict him "contains many errors of law and fact" and had failed to take into account that Ntaganda had been traumatised by his experiences in the Rwandan genocide. 
+
+Ntaganda's lawyers said when they announced his intention to appeal that he was "at peace with himself". 
+
+Formerly a Congolese army general, Ntaganda became a founding member of the M23 rebel group, which was eventually defeated by Congolese government forces in 2013. 
+
+Surrendered to ICC 
+
+Later that year he became the first-ever suspect to surrender to the ICC, when he walked into the US embassy in the Rwandan capital Kigali. 
+
+Ntaganda -- known for his pencil moustache and a penchant for fine dining -- said during his trial that he was "soldier not a criminal". 
+
+He insisted that the "Terminator" nickname, referring to the films starring Arnold Schwarzenegger as a relentless killer robot, did not apply to him. Bosco Ntaganda, a former warlord wanted by the International Criminal Court is playing prominent role as 'deputy coordinator' in UN-backed offensive in Democratic Republic of Congo, army... Congolese war crimes suspect Bosco Ntaganda, dubbed "The Terminator", was behind bars at the International Criminal Court Saturday Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
