@@ -1,0 +1,257 @@
+Deputy President William Ruto is the latest victim of the drone flyovers. Detectives will be seeking to establish why the Briton flew the gadget over a legally protected area. Is someone spying on some top Kenyan politicians, or are drones getting out of control? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That is the question the police will be expected to unravel, as Deputy President William Ruto yesterday became the latest victim of the drone flyovers.  
+
+Makueni Governor Kivutha Kibwana and the Elgeyo Marakwet Senator Kipchumba Murkomen made similar claims of drones overflying their homes late last year, but the incidents didn’t trigger any law enforcement action. 
+
+A 37-year-old British citizen was yesterday arrested for questioning in connection with the drone that breached the DP’s residence in Karen, Nairobi. 
+
+Nairobi Regional Commander Augustine Nthumbi said detectives will be seeking to establish why the Briton, who lives in a compound neighbouring the DP’s house, overflew the gadget over a legally protected area. 
+
+
+
+
+
+
+Nairobi Regional Police Commander Augustine Nthumbi during a press briefing at Nairobi Area Traffic Police Headquarters over an incident where a drone strayed into Deputy President William Ruto’s residence in Karen.
+Photo credit: Kanyiri Wahito | Nation Media Group
+
+ 
+
+The law restricts overflying, surveillance or photography of protected areas, such as the Deputy President’s residence. 
+
+Sighted the gadget 
+
+“We’ve summoned him for further questioning and recovered the drone and its memory card for analysis,” the police boss said. 
+
+It is not known whether the DP was in the house at the time, but it was his wife, Rachael Ruto, who sighted the gadget and informed the police. Police say they received a panic call from Mrs Ruto around 3pm on Monday. 
+
+“She said she was in the house when she saw a drone straying into her compound from her neighbour’s side and got concerned,” Mr Nthumbi said. 
+
+Officers from the Directorate of Criminal Investigations (DCI), National Intelligence Service (NIS) and Anti-Terrorism Police Unit (ATPU) immediately arrived on the scene and arrested the Briton.The DP, who also sits in the National Security Council — Kenya’s highest-ranking decision-making organ on matters of national security — last year claimed his life was in danger from State operatives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Ruto alleged that there were  people out to ensure that he will not be a presidential contender in next year’s elections. 
+
+Questioned everyone 
+
+“Those in the scheme are boasting that I will not be there. Since the system cannot elect anybody, they can only kill. But there is a God in heaven,” the DP said in March last year. 
+
+The police moved into the Briton’s home after the incident, ordered him to land the gadget and questioned everyone in the compound. 
+
+An investigator on the case yesterday said the gadget did not appear to bear any suspicious attachments to it, apart from the usual components of a drone. 
+
+“We took the memory card to analyse its contents,” he said. 
+
+The British citizen, according to Mr Nthumbi, told the police that some visitors he was hosting came with the drone and decided to take some aerial pictures of his new house to gift him. 
+
+The police boss did not disclose whether the visitors were also questioned. 
+
+The Kenya Civil Aviation Authority (KCAA), which is the body mandated to regulate operation of civil aircraft, was also called in to help investigate the Monday incident.  
+
+Although they have been in the country for some years, the operation of drones in Kenya’s airspace was only legalised last year following the signing into law of the Civil Aviation (Unmanned Aircraft Systems) Act. 
+
+Unmanned aircraft 
+
+The regulations prohibit their owners from operating the unmanned aircraft in a negligent or reckless manner such as is likely to endanger the property of another person or areas considered to be of interest to national security. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Any person who fails to comply with any direction given pursuant to these regulations by the authority or by any authorised person under any provision of the act or these regulations commits an offence and shall be liable, upon conviction, to a fine not exceeding two million shillings or to imprisonment for a term not exceeding three years or to both,” states the law. 
+
+The Monday incident is likely to rekindle recent claims by top politicians who have complained that they were being spied on by means of drones. 
+
+In November, the Makueni governor claimed that drones were hovering over his residence and that all electronic gadgets in his house had been compromised. 
+
+‘I will not be intimidated’ 
+
+“I am under close state surveillance. Drones hover over my residence. As it was during Moi’s time, so it is now. I have repeatedly made this public and reported to authorities. I will not be intimidated,” wrote Prof Kibwana on his official Twitter handle. 
+
+On the same day, the Elgeyo Marakwet senator made similar allegations. 
+
+“To the person who has been sending drones to hover over my house I have two requests. 1. Please share the beautiful aerial photos. 2. Come home through the main gate for a cup of tea but make sure you carry your mask. Thank you and God bless,” Senator Murkomen tweeted. 
+
+mwambui@ke.nationmedia.com No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
