@@ -1,0 +1,168 @@
+Property worth millions has been destroyed after a fire razed Mpeketoni Shalom Home for Disabled Children in Lamu on Tuesday evening. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lamu County Disaster Response Team Leader Luqman Abdulaziz confirmed the incident, saying a section of the institution's dormitory, two kitchens, a canteen and the children's hall were reduced to ashes. 
+
+Mr Abdulaziz said a team of the county's Disaster Response Officers helped put out the fire. 
+
+The cause of the fire was not immediately established, but there were claims that the inferno could have started from a nearby farm, where a farmer is said to have set fire on a bunch of bushes, in a bid to clear his farm in preparation for the planting season. 
+
+"The roofing of most of the institution's buildings is makuti-thatched. I am told there was a farmer who was burning some bushes in a bid to clear his farm before the fire overpowered him and extended to the school.  It razed almost all the buildings within the institution. No one was injured, as only the watchman was around when the incident happened," said Mr Abdulaziz. 
+
+He said, "We dispatched enough officers to the scene to help put out the fire." 
+
+
+
+
+
+
+
+
+
+
+
+Lamu County Disaster Response Team (DRT) fighting the fire that erupted at Shalom Home for Disabled Children in Mpeketoni, Lamu. Property worth millions was destroyed during the incident that occurred on Tuesday, March 30, 2021.
+Photo credit: Kalume Kazungu I Nation Media Group
+
+ 
+
+The institution's director Margaret Wangari Mwangi said the burnt dormitory has 30 beds and mattresses, all of which were reduced to ashes. 
+
+Ms Mwangi said other items like wheelchairs used by the physically challenged children, their clothes, kitchen utensils and canteen items were all destroyed. 
+
+She urged the police to conduct an in-depth investigation to establish the exact cause of the fire. 
+
+"I thank God that no one was injured. The physically challenged children are currently at home as we had closed the school due to Covid-19 pandemic. It's unfortunate that almost everything has been burnt," said Ms Mwangi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She appealed to well-wishers and the government to intervene and assist her reconstruct the institution, so that the beneficiaries can have a place to live once they open after Covid-19. 
+
+"I always use part of my salary to run the institution. Some donors also assisted in buying mattresses, beds, and wheelchairs for the children. I appeal to the government and well-wishers to intervene now that I will have to start afresh following the fire incident which destroyed property of over Sh4 million," said Mrs Mwangi. 
+
+Hongwe Ward MCA James Komu appealed to the Lamu County Government to consider buying more firefighting equipment to help address fire incidents in Lamu. 
+
+"We only have two vehicles fitted with firefighting engines, but they don't have water storage tanks. That means they must be accompanied by water bowsers during fire incidents. This is contributing to delays every time fire occurs. The county should improve on that to ensure a timely response in the event of a fire tragedy in our county," said Mr Komu. 
+
+Kimani Wanyoike, a youth leader in Mpeketoni stressed on the need for firefighting vehicles to be stationed in all major towns in the county. Cabo Delgado has become the new frontier for the disillusioned young men. If you lack Covid-19 certificate showing you are negative, you will not be allowed into Mombasa. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
