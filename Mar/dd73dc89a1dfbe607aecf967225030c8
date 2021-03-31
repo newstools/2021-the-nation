@@ -1,0 +1,69 @@
+Kenya has recorded another 1,412 Covid-19 cases from 9,219 samples tested in the last 24 hours. This now brings the country’s total confirmed cases to 134,058. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While giving the daily update on Wednesday afternoon, Health Chief Administrative Secretary Mercy Mwangangi said that Kenya’s positivity rate now stands at 15.3 per cent. 
+
+Over the same 24-hour period, six more patients succumbed to Covid-19, raising the country’s cumulative fatalities to 2,153. 
+
+At the same time, Dr Mwangangi said that Covid-19 recoveries have risen by 389 to stand at 92,679. She added that 230 of the new recoveries were in home-based care while 159 were in hospitals. Health ministry maintains it’s not party to any agreement allowing distribution and sale of Russian vaccine to Kenyans. Published data shows that the efficacy of the vaccines ranges from 66 per cent in Johnson and Johnson to 95 per cent in Pfizer. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
