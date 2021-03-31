@@ -1,0 +1,157 @@
+Some parents give other matters priority and forget that their children need their care and attention.In some families, there are mothers who are too busy and their children have grown up fearing them. Dear parents, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When was the last time you sat your child down or just took some time off your busy schedule to talk to them? 
+
+And how often do you engage in activities that help you bond with your children? 
+
+Most of you nowadays are too busy even for your own families. 
+
+You give other matters priority and forget that your children need your care and attention. 
+
+For instance, the jobs you do. Yes, you need to provide for the family but if you don’t have time for us, then it’s like you don’t care about us. Such habits are the ones alienating us, breaking down family communication and creating distance between us. 
+
+You don’t give us attention and that's how we end up trusting other individuals who may take advantage of our closeness to them. You don’t speak to us and increasingly, we feel it is just ok to keep harmful secrets and other problems to ourselves. 
+
+Parental love 
+
+In some families in my neighbourhood, there are mothers who are too busy and their children have grown up fearing them. They are total strangers who leave the house before daybreak and return past midnight. 
+
+Some leave their children asleep only to return when the little one have already retired to their very lonely beds. 
+
+Such children know house-helps as their ‘mothers’ and their parents have big problems winning the minors’ trust. 
+
+The tragedy is that when such children become teenagers, they keep most of their issues to themselves. 
+
+Today, most of you are complaining that you don't know us anymore. Excuse me, it’s the distance you created between us. It is your absence when we needed a shoulder to cry on; it is all that yelling and calling us names that changed us. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As we grow, we need that parental love. We want our fathers and mothers to show us that we are important in their lives. 
+
+It is this affection that will also help you know your children better. We are still your children and, before it’s too late, do something and trust you me, everything will work out. Just talk to us and make us feel free to share anything with you. 
+
+Ann Nyaboke,15, is student at Rang'ala Girls High School.  
+
+Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com According to studies, habits are more often influenced by small and specific acts. Although a bit nervous, I have no doubt that we will do exceedingly well. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
