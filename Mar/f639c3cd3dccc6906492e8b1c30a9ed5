@@ -1,0 +1,79 @@
+Since 2010, the Italian FA have taken disciplinary action against several players and coaches heard disrespecting God or the sacred.But the penalties have increased this season with empty stadiums allowing the microphones and cameras to capture heated exchanges between players and coaches.AS Roma midfielder Bryan Cristante and Lazio's Manuel Lazzari were both suspended for a match this season for "blasphemous" remarks. Milan 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Juventus goalkeeper Gianluigi Buffon was on Tuesday handed a one-match ban for blasphemy which would rule him out of next weekend's Turin derby. 
+
+The 43-year-old Italian World Cup winner had been fined 5,000 euros ($6,000) last month by the Italian Football Federation, but escaped a ban. 
+
+However, the FIGC's Court of Appeal upheld the Federal Prosecutor's appeal and imposed a ban, meaning Buffon will be ruled out of Saturday's game at Torino. 
+
+Buffon was overheard using a "blasphemous expression" towards teammate Manolo Portanova during Juve's 4-0 league win over Parma on December 19. 
+
+Buffon, who holds the record for Serie A matches played with 654, was not caught on camera but there was an audio recording of the incident. 
+
+Since 2010, the Italian FA have taken disciplinary action against several players and coaches heard disrespecting God or the sacred. 
+
+But the penalties have increased this season with empty stadiums allowing the microphones and cameras to capture heated exchanges between players and coaches. 
+
+AS Roma midfielder Bryan Cristante and Lazio's Manuel Lazzari were both suspended for a match this season for "blasphemous" remarks. The changes are expected to increase the number of clubs involved in the group stage from the current 32 to 36. Fans in the blue half of Manchester are coming to terms with the impending departure of the 32-year-old striker. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
