@@ -1,0 +1,222 @@
+The government has moved to restore peace at Kom on the border of Isiolo and Samburu counties following the killing of two people after herders from the two counties clashed over pastures last weekend. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Although police officers have been deployed, officials fear the rising tension in the area could affect the ongoing KCSE exams in the schools nearby. 
+
+Herders from the three counties converge in the area in search of water and pastures for the livestock during drought igniting conflicts between them that result in loss of lives and theft of livestock. 
+
+Eastern region coordinator Isaiah Nakoru on Tuesday held a series of meetings with security teams from Isiolo, Meru, Samburu and Marsabit and more than 100 elders from the four counties in efforts to come up with lasting solutions to conflicts witnessed in the region. 
+
+Illegal firearms 
+
+Mr Nakoru blamed the proliferation of illegal firearms among the pastoralist communities for the ongoing flare-ups at Kom where tension continues to build up, and insecurity in the region. 
+
+He ordered herders at Kom area to surrender the illegal guns in a week or risk forceful disarmament. 
+
+Isiolo County Commissioner Herman Shambi and his Samburu counterpart Abdirizack Jaldesa are today expected to meet residents in the affected area in efforts to ensure calm returns for people to go on with their businesses uninterrupted. 
+
+“We have enough officers to protect our people and their properties and therefore should not hold any firearm but surrender it to authorities,” Mr Nakoru said while appealing to the four counties to follow suit. 
+
+Empowering of the grazing committees to ensure sobriety in sharing of resources when drought strikes was fronted at the meeting among the ways to ensure peaceful coexistence among the pastoral counties. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Isiolo and Marsabit counties last December surrendered 318 illegal guns to police following a three-month government’s amnesty. 
+
+The Kenya National Council of Elders chairman Phares Rutere and treasurer Ahmed Sett supported calls for illegal gun holders to hand them over to authorities and for camel herders from Isiolo side to desist from grazing in farming areas in Meru County to prevent more conflicts. 
+
+“The illegal firearms are a big threat to the region's security. Many of those in possession of the guns do not even know how to use them and should surrender them to the State,” Mr Rutere added. 
+
+Peace keeping 
+
+He said elders will continue championing peace among communities in Northern Kenya to avert loss of lives and destruction of properties. 
+
+“We will continue reaching out to communities regularly so that we ensure peace and end the rampant cattle rustling that results in loss of lives and destruction of properties,” said Mr Rutere. 
+
+The elders' officials also appealed to herders from the four counties to always involve the grazing committees so that they get consent to graze their animals on the neighbouring land. 
+
+Mr Sett said they will reach out to youths and educate them on the need to willingly hand over the guns to police as forceful disarmament would subject other innocent people to a lot of suffering. 
+
+“We want them (youth) to be agents of change in the community and to work with the government in peace-building initiatives,” said Mr Sett. 
+
+Mr Rutere asked elders across the country to preach peace in their respective communities particularly now that we are approaching the electioneering time. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} There are more than 100,000 illegal firearms in the hands of civilians in the region, officials say. Tension is high in Gubatu village in Garbatulla, Isiolo County. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
