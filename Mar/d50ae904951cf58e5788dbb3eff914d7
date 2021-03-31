@@ -1,0 +1,293 @@
+The 16-year-old is part of a group of teens practising martial arts in an overgrown and sun-baked field near the remote hamlet where his family ekes out a precarious living on manual labour.Growing up around open drains and swarms of flies in Jambur village, he and other members of the local Siddi community were abused for their distinctive dark features and curly hair.India is now home to around 250,000 Siddis, according to researchers, with most living in Gujarat and Karnataka - two coastal states both facing the eastern tip of Africa from across the Arabian Sea. Jambur, India 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Rohit Majgul has weathered racism and rejection in India as part of a marginalised community tracing its roots back to Africa - but he still dreams of bringing sporting glory to his country. 
+
+The 16-year-old is part of a group of teens practising martial arts in an overgrown and sun-baked field near the remote hamlet where his family ekes out a precarious living on manual labour. 
+
+
+
+
+
+
+This picture taken on January 6, 2021 shows Izamam Majgul (left), member of the Siddi community, practising with coach Hasan Majgul during an athletes program at Jambur village, in Junagadh district of Gujarat.
+Photo credit: Sam Panthaky | AFP
+
+ 
+
+Growing up around open drains and swarms of flies in Jambur village, he and other members of the local Siddi community were abused for their distinctive dark features and curly hair. 
+
+Majgul, a school dropout, sees his judo training as the only way to escape a life riddled with gruelling poverty and discrimination. 
+
+"No-one believes me when I say I am Indian," he told AFP. "They think I am African, they call me by different abusive names, they tease me." 
+
+"I have also been thrown off the bus because of my colour, but I quietly endure everything because I want to do well in sports and carve my own identity." 
+
+Two years ago, Majgul won silver in judo at the Asia-Pacific Youth Games. 
+
+His determination to represent India on the international stage was boosted by a government push to identify athletes in the Siddi community, which is believed to have descended from the Bantu peoples of sub-Saharan Africa. 
+
+
+
+
+
+
+This picture taken on January 6, 2021 shows member of the Siddi community Firdos Majgul participating in an athletes program at Jambur village, in Junagadh district of Gujarat.
+Photo credit: Sam Panthaky | AFP
+
+ 
+
+Some are believed to have been brought over during the Islamic conquest of the subcontinent as early as the eighth century. 
+
+Many others were likely brought by the Portuguese to India between three and five centuries ago, researchers say. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+'No-one cares about us' 
+
+When British colonial authorities abolished slavery in the 19th century, Siddis fled to the jungles in fear of their safety. 
+
+Gradually they settled on the western coast, working as farmhands and labourers while adopting local culture and languages. 
+
+
+
+
+
+
+This picture taken on January 6, 2021 shows youths of the Siddi community Rohit Majgul (right) and Firdos Majgul practising judo during an athletes program at Jambur village, in Junagadh district of Gujarat.
+Photo credit: Sam Panthaky | AFP
+
+ 
+
+India is now home to around 250,000 Siddis, according to researchers, with most living in Gujarat and Karnataka -- two coastal states both facing the eastern tip of Africa from across the Arabian Sea. 
+
+But they are still viewed as outsiders. 
+
+Those living in Gujarat are Muslim, making them targets for further discrimination in Hindu-majority India. 
+
+"No-one cares about us. There are no facilities in our village -- no piped water, no proper toilets, nothing," said Majgul. 
+
+Near his home, children with tangled, unwashed hair ran barefoot across narrow alleys lined with shanties. 
+
+Hope came in the form of a scheme launched in 1987 by a government eager to boost the country's dismal Summer Olympics tally, with Indian athletes taking just nine gold medals in the last century. 
+
+"We were exploring whether the Siddis had a genetic advantage," athletics coach R. Sundar Raju, who was part of the project, told AFP. 
+
+"Normally an Indian athlete takes some years before making it to the national level, but the Siddis were doing so in barely three years." 
+
+But authorities ditched the project seven years later, after realising the impoverished Siddi were more interested in a linked programme that encouraged Indians to pursue sporting careers by giving them highly sought-after government jobs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"They came from such poor families that the moment they secured jobs under a sports quota they grabbed the opportunity and left the training midway," Raju said. 
+
+'I used to curse my fate' 
+
+In the years since, some Siddis in Gujarat instead eked out a living by staging dance performances for tourists or trained as forest guides for Gir National Park, a sanctuary for endangered lions. 
+
+
+
+
+
+
+This picture taken on January 6, 2021 shows youths of the Siddi community, Rohit Majgul (left) and Firdos Majgul, taking part in an exercise routine during an athletes program at Jambur village, in Junagadh district of Gujarat.
+Photo credit: Sam Panthaky | AFP
+
+ 
+
+The state government revived the programme in 2015, focusing mainly on judo and athletics. 
+
+Promising Siddi youngsters now train at a sports academy in the state. 
+
+A non-profit group in Karnataka is also mentoring 50 aspiring athletes from the community. 
+
+"We felt that this particular group has high potential but has been highly neglected," said Nitish Chiniwar, founder of the Bridges of Sports Foundation. 
+
+Shahnaz Lobi, an aspiring shot-putter from Jambur, jumped at the chance to pursue a sporting career after watching her labourer father struggle to feed his family. 
+
+"I used to curse my fate. But one day I got to know about the sports trials and I took part in them," she said. 
+
+Lobi told AFP that she dreamt of competing in the 2024 Olympics. 
+
+"I was selected and sent to the state sports academy. I have no friends there but it doesn't bother me. I just want to win an Olympic medal and let the world know I am Indian." No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
