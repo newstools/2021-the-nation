@@ -1,0 +1,217 @@
+A coronavirus vaccine developed by Oxford and AstraZeneca has once again faced new concerns about safety after Germany’s vaccine regulator announced more cases of blood clots in people who have been jabbed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Germany has stopped vaccinating people under 60 years of age with AstraZeneca's jab after its vaccine regulator recorded cases of rare blood clots in the brain of some vaccine recipients. 
+
+The country’s vaccine regulator Paul Ehrlich Institute (PEI) Tuesday said it has recorded 31 cases of a rare blood clot in cerebral veins - known as sinus vein thrombosis or CSVT - and 19 of these there was a deficiency of blood platelets (or thrombocytopenia). According to the country which has so far inoculated about 2.7 million people with AstraZeneca vaccine in Germany nine deaths. 
+
+In Kenya, the Ministry of Health has maintained that so far there have been no documented cases of major side effects in any of the 130,575 people who have received the vaccine. 
+
+“We have set up a digital system that tracks down all the side effects and so far we have not received any communication on side effects,” said the head of the national Covid-19 vaccine deployment task force Dr Willis Akhwale, in a recent interview. 
+
+Most of the people who have received their first jabs, among them doctors have indicated that they have not experienced any major side effects associated with the vaccine except for mild symptoms which wore off without hospitalisation. 
+
+Health experts have noted that the majority of adverse reactions from the AstraZeneca vaccine are mild to moderate in severity and usually resolve within one to two days of vaccination. 
+
+The scientists recorded a highly unusual combination of symptoms—widespread blood clots and a low platelet count, sometimes with bleeding— that resemble a rare side effect of the blood thinner heparin called heparin-induced thrombocytopenia (HIT). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With the exception of two cases, the regulator said that all reports of the rare clots were recorded in women between the ages of 20 and 63. The two men were 36 and 57 years old. As a result, Berlin suspended the use of the AstraZeneca vaccine for both men and women under 60. 
+
+Cerebral venous thrombosis (CVT) is a blood clot of a cerebral vein in the brain. This vein is responsible for draining blood from the brain. If blood collects in this vein, it will begin to leak into brain tissues and cause a hemorrhage or severe brain swelling. In CVST, a blood clot clogs the veins in the brain that are normally the route oxygen-depleted blood takes to drain to the heart. However, if the blood can no longer drain properly, the pressure in the brain increases and further bleeding can occur there. In the worst case, CVST leads to fatal strokes. 
+
+This type of thrombosis is considered rather rare, with an estimated two to five people per 1 million. However, recent studies indicate a higher number as many as 15.7 cases per million people affected. 
+
+Many European countries earlier this month suspended the use of AstraZeneca’s vaccine following initial reports of the symptoms, which have been associated with at least 15 deaths. Most, however, resumed vaccinations after the European Medicines Agency (EMA) recommended doing so on March 18, saying the benefits of the vaccine outweigh any risks, a sentiment echoed by the World Health Organisation (WHO). 
+
+The vaccine is one of the cornerstones of the WHO’s push to immunise frontline health workers and elderly people at high risk of dying from Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the Netherlands, the Dutch Internal Medicine Society urged internists to be aware of the symptoms and the recommended course of action. The United Kingdom has officially reported only five cases—despite administering 11 million doses of the AstraZeneca vaccine—but the British Society for Haematology has urged its members to be aware of “an important and emerging area of haemostasis and thrombosis practice” and to report any possible cases. The Australian Technical Advisory Group on Immunisation has recommended against giving any Covid-19 vaccine to people with a history of HIT. 
+
+Some of the side effects include injection site pain, headache, fatigue; muscle pain (myalgia), a general feeling of ill health (malaise); fever, chills; and joint pain, nausea. 
+
+By day 7 the incidence of subjects with at least one local or systemic reaction was 4 and 13 per cent, respectively. When compared with the first dose, adverse reactions reported after the second dose were milder and reported less frequently. There are concerns that it might be linked to rare blood clots. Serum Institute says it is seeking to balance domestic demand with international orders. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
