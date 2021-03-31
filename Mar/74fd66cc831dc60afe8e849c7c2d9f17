@@ -1,0 +1,307 @@
+When he risked his life by walking into Westgate Mall in Westlands, Nairobi, in the middle of an attack by Al-Shabaab in 2013, little did Abdikadir Haji, popularly known as Abdul Haji, know his act of valour would come to change his life. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A photo of the father of four daughters wielding a pistol as he helped rescue hostages not only earned him a presidential commendation, but has also paid off politically after elders endorsed him to be Garissa County’s next senator. 
+
+The elders argued that Abdul Haji was the bravest among probable candidates for the seat that fell vacant following the death of his father, Senator Yusuf Haji, at the Aga Khan University Hospital, Nairobi, on February 15. 
+
+Nomination papers deadline 
+
+The Independent Electoral and Boundaries Commission (IEBC) is expected to declare Mr Haji the winner as no one else had submitted nomination papers by Wednesday’s deadline (March 30, 2021) for those intending to participate in the Garissa senatorial by-election scheduled for Tuesday, May 18. 
+
+“After receiving the nomination papers from only one aspirant, I have forwarded the information to IEBC headquarters for the commission to make a determination,” Garissa County IEBC Returning Officer Hussein Gure told Nation.Africa Wednesday. 
+
+Mr Gure said that he had finalised his work as a returning officer as there is no election when a candidate has no opponents. 
+
+
+
+
+
+
+Mr Abdikadir Haji, popularly known as Abdul Haji. He is set to become the next Garissa senator to take the seat left vacant following the death of his father Yusuf Haji.
+Photo credit: File | Nation Media Group
+
+ 
+
+Elected unopposed 
+
+Mr Haji becomes the third politician to be elected unopposed in a by-election after Gatundu South MP Moses Kuria and Amani National Congress (ANC) leader Musalia Mudavadi. 
+
+Following the death of his father Moses Mudavadi – a former powerful Cabinet minister in the late President Daniel Moi’s government – in 1989, Mr Mudavadi was elected unopposed for the Sabatia parliamentary seat to succeed his father. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2014, Mr Kuria also went to parliament unopposed when his main challenger, Mr Kiarie Kamere of the New Democrats Party, quit the race for the Gatundu South parliamentary by-election in 2014. The by-election was occasioned by the death of former MP Joseph Ngugi Nyumu. 
+
+Elders' support 
+
+In a county where clan politics holds the key to power, Mr Haji managed to secure the support of all the major elders from the main clans in Garissa. 
+
+On Tuesday, the son of the late Senator Haji hosted ‘Samawadhal Sagaales’, respected traditional elders, at his residence in Garissa. 
+
+“Clan elders play an integral role in fostering unity and cohesion among the communities. It’s a pleasure to have taken a keen consideration of the blessings, wisdom and the experiences of the elders,” the senator-elect said after the meeting with the clan elders. 
+
+Mr Haji received the endorsement of the Abduwak, Aulihan and Abdalla clans, which recommended that he should succeed his father as senator. The three clans hold much sway in Garissa politics. 
+
+Mr Haji was cleared on Tuesday to run for the seat after he presented his Jubilee Party nomination papers to IEBC County Returning Officer Hussein Gure at the North Eastern National Polytechnic College. 
+
+He was accompanied by various leaders, among them Garissa Governor Ali Korane, Deputy Governor Abdi Dagane, Ijara MP Sophia Abdinoor, former Garissa governor Nathif Jama, former Garissa deputy governor Abdullahi Hussein and members of the Garissa County Assembly. 
+
+Before that, he had secured the support of ODM party after holding a meeting with ODM Deputy Party leader Hassan Joho and Deputy President William Ruto, and the latter pledged the support of the “Hustler Movement”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Westgate terror attack 
+
+Mr Haji, a businessman, first came into the national limelight during the Westgate terror attack in 2013, when he stormed the mall to rescue his elder brother, Noordin Haji, now the Director of Public Prosecutions, who was holed up in the besieged mall. 
+
+The businessman, who grew up shooting at the Athi River range, rescued many hostages and was among the key heroes from the tragedy. 
+
+Mr Haji, another unidentified man and three policemen, one of them armed with an Ak-47 rifle, entered the mall and rescued terrified people hiding in Java Restaurant. He was among the first responders to the tragedy. 
+
+Inherited political seats 
+
+Following his election, Mr Haji now joins a growing list of those who have inherited political seats from close relatives in a trend that serves to cement political families. 
+
+In the recent Msambweni by-election, independent candidate Feisal Bader, a nephew of the area’s late MP – Suleiman Dori – was voted in to succeed him. 
+
+In the Machakos by-election, Wiper party’s  Agnes Kavindu Muthama, wife of former Machakos senator Johnson Muthama, was elected to succeed Senator Boniface Kabaka, who died in December last year after a short illness. 
+
+And in the Bonchari by-election, the United Democratic Alliance (UDA) party – a political outfit associated with DP Ruto – has fronted Ms Teresa Bitutu, wife of the area’s late MP John Oyioka, to succeed him in the mini election scheduled for May 18. 
+
+The late Bomet governor Joyce Laboso succeeded her sister Lorna Laboso as Sotik MP in 2008, following the death of the latter in a plane crash. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Mrs Beatrice Kones was also first elected MP following the death of her husband, former Cabinet minister Kipkalya Kones in a plane crash in Enoosupukia, Narok. Kones died alongside Lorna Laboso. 
+
+In Homa Bay County, Senator Moses Kajwang also won the endorsement of the ODM party to succeed his brother Otieno Kajwang, who died after a short illness in 2014. 
+
+And in Kitui, Edith Nyenze, wife of former Kitui West MP Francis Nyenze, was elected to succeed his husband after he died of cancer at the age of 60 in 2017. 
+
+Vihiga Senator George Khaniri was also picked in 1996 by President Moi to succeed his father as the MP for Hamisi Constituency. 
+
+In Makueni, Senator Mutula Kilonzo Jr succeeded his father, Mutula Kilonzo, as the senator of Makueni, after the latter died in 2013. 
+
+Former Labour minister Ahmed Mohamed Khalif, who died in a plane crash in 2003, was also succeeded by his son Mohamed Khalif. 
+
+In Kibra, Imran Okoth inherited the Kibra parliamentary seat following the death of his brother Ken, in yet another case of keeping political power within the family. 
+
+ 
+
+engisesa@gmail.com Guyo says move will be a fitting tribute to a man who selflessly served Kenya for many years. President says Haji's stewardship of the BBI process will be missed. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
