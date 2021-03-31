@@ -1,0 +1,169 @@
+Police have issued a terror attack warning and asked Kenyans to look out for a Mr Rashid Mwalimu, whom they suspect will use his expertise as a pilot to carry out an aviation-linked attack on Kenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Rashid, security authorities say, is currently in Somalia planning an attack on Kenya. The public has been urged to help the police with any information regarding his whereabouts should they see him for his immediate arrest. 
+
+“He is wanted by the Anti-Terrorism Police. He is a trained pilot on mission to carry out aviation attacks. Currently he is in Somalia and is planning on how to sneak back into Kenya. If seen, report to any nearest security agency,” police said in an alert issued on Tuesday. 
+
+Al-Shaabab, the terror group based in Somalia, has been on the receiving end of continuous airstrikes on its bases that has left several commanders dead. Kenyan security agencies now believe that the militant group is planning airstrikes to avenge the deaths of their colleagues, adding that it has trained pilots to carry this out. 
+
+
+
+
+
+
+Cholo Abdi Abdulla who is currently in US police custody.
+Photo credit: File | Nation Media Group
+
+ 
+
+Trained as pilots 
+
+Having joined Al-Shaabab in 2015, Mr Rashid, along with his friend identified as Cholo Abdi Abdulla, were trained as pilots in the Philipines. Cholo, however, is in US police custody. 
+
+The two became very close friends. Compared to their fellow operatives, their training and skillsets were much higher. 
+
+Together, the two are said to have conducted numerous attacks in Somalia shortly after training in Boni along the Kenyan coast. It is in Boni that their skills were noted and they were selected for an aviation course. 
+
+Security forces reported that the duo were close friends with Salim Gichunge Osman, the leader of the Dusit D2 attack that took place in January 2019 at Riverside, Nairobi. They also had a cordial relationship with Osman Gedi, another Dusit attacker. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Intelligence wing 
+
+It is believed that Rashid, Cholo and Gichunge landed in Somalia at the same time and were shortly after set aside for training as part of the Amniyat, the Shabaab intelligence wing. 
+
+They later met Osman Gedi, the quartet became close friends and seldom left each other’s presence. 
+
+When the airstrikes in their bases in Somalia proved troublesome, Mr Gichunge and Mr Gedi were assigned to the Dusit mission while Rashid and Cholo were trained how to not only fly airplanes but also hijack them. 
+
+Six months after the DusitD2 attack, Cholo was arrested in the Philippines where he was studying at the All-Ais Aviation Academy. 
+
+According to the US intelligence as at December last year, Cholo is facing six counts of terrorism-related offences arising from his activities as a Shabaab member. He is said to have been planning to hijack a plane and carry out a 9/11 style attack on the US. 
+
+Al-Shabaab always paid for their flights, ensuring they were first-class tickets so that they could check on security arrangements around the cockpit.  
+
+Reports indicate that Cholo exposed himself to authorities when he accidentally revealed future Shabaab operational plans to his lover. 
+
+Shortly after Cholo’s arrest, Rashid fled to Somalia.  Cabo Delgado has become the new frontier for the disillusioned young men. Al-Shabaab continues to be the main active terror group in Nakuru, Isiolo and Kwale counties. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
