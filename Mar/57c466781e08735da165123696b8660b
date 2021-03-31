@@ -1,0 +1,237 @@
+A Philadelphia Lawyer is every woman's nightmare.Women know their men, and they know when they have been coached by your Philadelphia lawyer.  Wikipedia defines a Philadelphia Lawyer as one who knows the most detailed and minute points of law or is an exceptionally competent lawyer. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Its first known usage dates back to 1788. Alternatively, a usage dating to the second half of the 20th century denotes "the ultimate in crooked lawyers". 
+
+This article is about bad boys in relationships who have a smart lawyer-ish sidekick, who always bails them out if and when they are in hot water with their significant other.  
+
+Mama knows baddies 
+
+As kids, our mothers always seemed to smell, from 18 blocks away, boys who were a bad influence. I thought a little buddy was a saint, but mama, Nya'Manoah, knew he was an "ain't". 
+
+This is the boy who would conjure the most creative excuse when Nya'Manoah asked if I'd gone to dufa mpararo. Dufa mpararo was swimming, illegally, in abandoned quarries. It got the name because after the illegal activity, one’s skin would be so ashy, that not all Lady Gay lotion tubes in the world could make the ashy skin go away. And so it goes. 
+
+"Mom, I swear we didn't go to dufa mpararo," my little lawyer pleaded my case to a peeved Nya'Manoah. 
+
+Nya'Manoah stormed inside the house and returned with a mirror, which was on the back of an ogwaro. Ogwaro was a plastic brush with hard plastic bristles, which we used to brush our hard nappy hair. 
+
+When Nya'Manoah was in a foul mood, and she was brushing your hair - and, woe unto you, you'd been kichwa ngumu - you'd see fragments of scalp falling off your hard head.  
+
+This time, though, the mirror at the back of the ogwaro was for us to stare at our ashy faces.  
+
+"Oh, mom," my little lawyer feigned a smile, and his quick-witted fib literally saved my ashy scalp. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We smeared ash on our bodies to prevent us from catching Boi's chicken pox."  
+
+Every woman's nightmare  
+
+Every smart woman who's in a relationship with a bad boy knows that their man has that pal who'll always provide an alibi, give evidence and even judgment, all in favour, of course, of their "client". 
+
+This is the kind of friend who'll get their buddy off on a "technicality".  
+
+As bros, we have what we call in our Ditchez '90 alumni WhatsApp group a, "visa". A visa is our name for permission granted by a wife to attend a gig. In our group, we have a trained lawyer, whom we've nicknamed, Serkal. He's the go-to guy when a mate has broken a visa and is worried of facing a fuming wife in the wee hours of the morning. Serkal's pro bono legal advice has saved many brothers from sleeping alone in a cold pleather couch.  
+
+A Philadelphia Lawyer is every woman's nightmare. Women know their men, and they know when they have been coached by your Philadelphia lawyer.  
+
+Ladies, do y'all have Philadelphia Lawyers?  
+
+Man sense 
+
+There's common sense, and there's man sense. Ladies, got any burning man-issues that don't make sense? Shoot. (Names will be withheld).  
+
+My husband has saved me as, Mama Watoto, in his phone book. While dating, he'd saved me as baby. What has changed?  
+
+What has changed, darling, is that you've been upgraded, though it doesn't seem like it. In your hubby's phone book, are there Mama Watoto 1, 2 … ad infinitum? No? So, you should have a good night's sleep, every single night.  
+
+Besides, darling, your hubby's showing every person who peeks at his phone book that he's taken. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And, in case of accidents, guess who'll be called first?  
+
+That's man sense for you.  
+
+jowasonga@ke.nationmedia.com Gentlemen, here are some rules on how to live with a woman who's more intelligent than you. I understand that some people find it hard reaching out, but a simple ‘hello’ to the guard at the gate could go a long way. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
