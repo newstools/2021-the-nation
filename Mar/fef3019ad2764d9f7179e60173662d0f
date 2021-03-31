@@ -1,0 +1,227 @@
+Residents of Ngara West ward and users of Ngara Road have urged a roads agency to urgently fix the road that has been in a bad state for years now. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They have asked the Kenya Urban Roads Authority (Kura) to prioritise the road, which is in a bad state. 
+
+According to Njuguna Njogu a resident of Ngara, local leaders in the area have done little to lobby for the road to be fixed. 
+
+"The road is in a terrible state and needs urgent attention. I have lost count of the number of cars I have seen breakdown just because of the state of this road. Other roads within Ngara West also need to be fixed and the area leaders haven't been helpful so far - starting with the MCA and MP," said Mr Njogu, an area resident. 
+
+Deplorable condition 
+
+Big potholes on the road have been a nightmare for motorists who use the short stretch that connects Fig Tree to Kipande Road. 
+
+
+
+
+
+
+
+
+
+
+
+A bodaboda rider using the dilapidated Ngara road. 
+Photo credit: Amina Wako | Nation Media Group
+
+ 
+
+Mr Peter Njenga, a matatu driver, said the road has been in deplorable condition for years. 
+
+He further wondered why other roads within the area have been repaired several times, leaving Ngara Road, which is in a worse state. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngara residents and road users decry poor state of road
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+“We have tried to get our local leaders to address this issue of bad roads but they are not available. Ngara Road has been neglected yet we see other roads that are obviously in a better condition being repaired around here now and then,” lamented Mr Njenga. 
+
+Road users have been posting on social media asking the relevant authorities to fix the stretch. 
+
+Just on Sunday evening, Nairobi businessman Jimnah Mbaru in a tweet asked the Nairobi Metropolitan Services (NMS) to fix the road. 
+
+
+So far the @NMS_Kenya have done a fantastic job in Nairobi county. We commented them for that. I just wanted them to check on Ngara road as it is in a terrible and dangerous condition. https://t.co/Tofji8HYj4— Jimnah Mbaru (@JimnahMbaru) March 28, 2021  
+
+The complaints on social media about this particular road go back to 2018. 
+
+In November 2018, Kiarie Njoroge tweeted saying "Kindly fix Ngara Road. It has massive craters for almost a year now. Even matatus struggle to navigate through it.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dennis Shabola Shithukane posted, “The last time I used that road was towards the end of last year, and alas! The experience was pathetic. I'm just imagining its current state if hitherto nothing has been done on it.” 
+
+“Why do they start with streets that didn't need urgent attention? Urgent development would be downtown where so many people need good walking paths and roads, then the surrounding areas like Ngara, Pangani, etc where roads have all but disappeared,” another Twitter user posted. 
+
+Lack of footpaths 
+
+On Monday, Kura posted pictures of Muthithi Road in Westlands being re-carpeted. 
+
+Brian Kimani, while congratulating Kura for the good work being done on Muthithi Road, wondered when Ngara Road would be rehabilitated. 
+
+“Job well done! Ngara Rd please and Chiromo Lane from Waiyaki Way to Ojijo Road it's terrible (sic),” he posted. 
+
+Replying to Kimani, Kura said they were still sourcing funds to rehabilitate the dilapidated Ngara Road. 
+
+
+Chromo Lane will be done its in the plan for Ngara Road we are still sourcing for funds.— Kenya Urban Roads Authority (KURA) (@KURAroads) March 29, 2021  
+
+Another problem that the people of Ngara West face are the lack of footpaths along the roads. 
+
+With potholes on the roads, drivers are forced to drive on the shoulders thereby competing for the same space with pedestrians. 
+
+
+
+
+
+
+
+
+
+
+
+A badly damaged section of the Ngara road. 
+Photo credit: Amina Wako | Nation Media Group
+
+ 
+
+Landlords have resorted to placing rocks on the pavements of their buildings to block vehicles from driving on them as they escape the potholes. The site has been abandoned with equipment rotting away inside the guarded area KeNHA said the project was on schedule and urged residents to bear with them. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
