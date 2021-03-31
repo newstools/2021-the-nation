@@ -1,0 +1,273 @@
+Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania, in what could portend trouble for Kenya, given these new variants are highly transmissible, and suspected to be resistant to some of the immune fighters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes as the country risks being added to the United Kingdom’s ‘red list’ of countries, from where travellers are subjected to mandatory quarantine, due to the government’s reluctance to close the border with Tanzania. 
+
+Tanzania travellers 
+
+The discovery of the mutant variant (temporarily named A.VOI.V2), in Tanzania travellers to Angola, not only puts the country’s Covid-19 mitigation measures at a crossroads, given that scientists suspect that the variant might be capable of reducing the immunity received from natural infection and vaccination. 
+
+A report submitted to the World Health Organisation (WHO) and regional agencies shows the strain is the most mutated, with 10 more mutations than found on any other version, according to Prof Tulio de Oliveira, director of Krisp, a scientific institute that carries out genetic testing for 10 African nations. Krisp also discovered the new strain in South Africa (501Y.V2) last year. 
+
+“We decided to report this as a new VOI, given the constellation of mutations with known or suspected biological significance, specifically resistance to neutralising antibodies and potentially increased transmissibility,” said Prof de Oliveira. 
+
+Some scientists have noted that the number of cases detected is not adequate to give a clear picture of whether the new variant is more transmissible, deadlier, or has the capability to reduce immunity. 
+
+In addition, the experts are not sure whether the version of severe acute respiratory syndrome coronavirus 2 (Sars-CoV-2), the virus that causes Covid-19, originated from Tanzania or the travellers picked it up from other borders on the way to Angola. Further, given the fact that there is little data and information from Tanzania, it is not easy to pinpoint the exact situation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“This means that a variant that is newly detected may or may not have emerged in the country where it was detected first,” explained Dr Moses Masika, a virologist at the University of Nairobi’s department of Medical Microbiology. 
+
+More variants 
+
+Even so, there is a likelihood that the variant could be circulating in Kenya, some experts believe, given the porous border the country shares with Tanzania. A variant is a form or version of a virus that differs in some respect from the original one. 
+
+“The study shows that we shall continue to see more and more variants of the virus for as long as we continue to see new infections. Each country that has active transmission will have known new variants. The only reason that only a handful of countries are reporting new variants is they are actively analysing the virus to detect such variants,” said Dr Masika. 
+
+When a virus replicates or makes copies of itself, it sometimes changes a bit, a common phenomenon for viruses. These changes are called “mutations”. A virus with one or more new mutations is referred to as a “variant” of the original virus. Since its discovery in December 2019, the Sars-CoV-2 virus has undergone multiple changes in its intrinsic nature. 
+
+Recently, however, the global scientific community has put the world on alert over the fast pace at which two distinct variants have been spreading. New research published in early March in the British Medical Journal (BMJ) found the coronavirus variant originating in the United Kingdom, called B.1.1.7, is substantially more deadly than the original strain of Sars-CoV-2. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The authors say the B.1.1.7 variant, which has become dominant in many parts of the world, has been found to be up to 70 per cent more transmissible and between 32 and 104 per cent deadlier. In some cases, some of the variants (B.1.351 first identified in South Africa) have been found to lower vaccine efficacy. 
+
+Vaccination  
+
+According to experts, one reason Sars-CoV-2 virus is developing variants is that relatively few people globally have been vaccinated. 
+
+However, Dr Ahmed Ogwell, the deputy director of Africa Centres for Disease Control and Prevention (AfricaCDC) explained that the mutations that are of concern to scientists are those that make a variant more transmissible or causes more serious illness. 
+
+“If a mutation doesn’t do any of these, then it’s a variant to be observed, but not a variant of concern. For now, we are studying the variant,” said Dr Ogwell in a recent interview with NTV. 
+
+In Kenya, at least 20 variants have been found to be circulating, with four having been discovered in March last year. Speaking yesterday, Health Cabinet Secretary Mutahi Kagwe said although the South African and UK variants have been identified in Kenya, the third peak is being fuelled by a dominant lineage known as B.1, which has been the predominant in the country. 
+
+The discovery now puts the country on high alert, given the free movement of people across porous borders. Kenya is currently battling a third wave of Covid-19 infections, which has seen the number of cases and fatalities go up sharply. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Lockdown in infected zone 
+
+Last Friday, President Uhuru Kenyatta reintroduced lockdown in five counties -- Nairobi, Kiambu, Machakos, Nakuru and Kajiado. The latter shares a border with Tanzania along with Kwale, Taita Tateva, Narok and Migori counties. The country has also witnessed increased hospitalisations, which President Kenyatta said was alarming. 
+
+The discovery of the new variants in Tanzania, coupled with the latest restrictions in Nairobi, now leaves Kenya exposed, with a decision by the UK on a review of its red list expected later this week. The UK took the decision to put countries on the list in a bid to limit the spread of the Covid-19 variants, which it says will “undermine its vaccination campaign”. 
+
+Last week, UK’s Telegraph newspaper, quoting a source at the British High Commission in Nairobi, said Kenya was likely to be added to the red list this week. 
+
+The country has been hesitant to restrict movement on the Tanzania border, fearing retaliation by Dar es Salaam. With South Africa, Ethiopia, Qatar, and UAE already on the red list, Nairobi has been the last major hub for connecting flights into the UK. Ethiopia, Oman, Qatar, and Somalia were added to list on Friday March 19, and a review, with possible additions is expected any time this week. Currently, the UK has banned entry from more than 20 countries including Tanzania, Rwanda, Burundi, South Africa, and the Democratic Republic of Congo. Distributors against marketing the vaccine since it has not been approved for commercial use. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent.
