@@ -1,0 +1,161 @@
+Detectives in Kiambu on Tuesday shot and killed three armed gangsters whom they believed were on a mission to commit a crime. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The three, who were riding on a motorcycle, were accosted in Witeithie, Juja Constituency, where it is suspected they were heading to execute a criminal activity. 
+
+Kiambu County Police Commander Ali Nuno said the three were targeting M-Pesa shops in Witeithie. 
+
+Police officers who were tracking them using their mobile phones ordered them to stop and surrender but they disobeyed the order. 
+
+Mr Nuno said two of the gangsters were from Dandora in Nairobi and had been hosted by their local contact who was also shot dead. 
+
+“What we have gathered so far  is that the two gangsters  that have been killed by police  are from Dandora in Nairobi while the third is from Witeithie, who has been acting as their contact person and spying for them on where to attack and later hosting them,” said Mr Nuno. 
+
+Gang leader delayed 
+
+He further said that the three were to commit the crimes on Monday but their leader, who was supposed to provide them with a firearm, failed to arrive on time, forcing them to push their mission to Tuesday. 
+
+Detectives further said the gangsters are members of a larger group that has been on a police wanted list. Police also said the gang has been committing crimes in Nairobi, Juja Farm and Dandora and later escape to their hideout in Witeithie. 
+
+A Ceska pistol with three rounds of ammunition was recovered. Also recovered was a homemade pistol, sword, mobile phone and keys. 
+
+"These are people we have been trailing for a while. They have committed robberies in Witeithie, Juja from Dandora and Nairobi at large and later escape to Witeithie as their hideout," said Mr Nuno. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Robbery in Pangani 
+
+He said that on Sunday, the same gangsters had staged a robbery in Pangani, Nairobi where they shot a woman in the thigh and escaped with an unknown amount of money. 
+
+"These people have been terrorising us for a long time. They have been colluding with other gangs from Witeithie where one of the suspects has been concealing his criminal activities by masquerading as a bodaboda operator,” Mr Nuno said. 
+
+The bodies of the three gangsters were moved to City Mortuary in Nairobi. 
+
+The three were aged between 25 and 30 years, police said. 
+
+The officers had a hectic time controlling local residents who thronged the scene, causing huge traffic jam along the busy Thika Road. 
+
+ 
+
+Sciuri@ke.nationmedia.com One of the suspects has put up a two-room house, while another has bought a subwoofer using the tainted money. Elderly man among five people being interrogated following the “contract killing” of 32-year-old Daniel Mwangi Wang’ondu. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
