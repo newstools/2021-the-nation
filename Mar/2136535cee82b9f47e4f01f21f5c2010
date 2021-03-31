@@ -1,0 +1,77 @@
+Net interest income grew by Sh1.4 billion growth to Sh6.4 billion compared to Sh5 billion in a similar period in 2019.The bank’s operating expenses increased by to Sh7.6 billion from Sh6.3 billion mainly driven by loan loss provisions. Family Bank posted a 22.4 percent growth in net profits to Sh1.1 billion for the year ending December 2020 courtesy of increased lending despite the coronavirus scourge that hit business. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lender posted Sh949 million the previous year but says it defied the Covid-19 pandemic by growing its loan book to Sh56.6 billion while supporting customers who saw opportunities despite the difficult year. 
+
+Targeted sectors in manufacturing, agribusiness, trade, logistics and technology saw the lender grow interest income from Sh7.1 billion in 2019 to Sh8.8 billion last year. 
+
+“Our loan book expanded by 11.8 percent year on year to close at Sh56.6 billion as we continued to support our customers who saw new opportunities despite the Covid-19 pandemic,” said Family Bank Chief Executive Officer Rebecca Mbithi. 
+
+Non-performing loans 
+
+Net interest income grew by Sh1.4 billion growth to Sh6.4 billion compared to Sh5 billion in a similar period in 2019. 
+
+The bank’s operating expenses increased by to Sh7.6 billion from Sh6.3 billion mainly driven by loan loss provisions, which increased by more than 2.5 times from Sh734 million in 2019 to Sh1.62 billion in 2020. 
+
+This was in response to Sh1.1 billion growth in non-performing loans to Sh9.3 billion as customers struggled to meet repayments during the difficult year. Equity Bank and NCBA join the list of big banks who have reported significant declines in net profit. Lender sees full year profit decline to Sh5.44 billion from Sh8.24 billion. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
