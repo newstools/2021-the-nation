@@ -1,0 +1,143 @@
+Kiambaa MP Paul Koinange is dead. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Koinange died at a Nairobi hospital Wednesday morning while receiving treatment.  
+
+
+
+
+
+
+Kiambaa MP Paul Koinange (centre) and former Transport CS Michael Kamau pray alongside Kikuyu Council of Elders in Nyeri on December 31, 2018.
+Photo credit: Joseph Kanyi | Nation Media Group
+
+ 
+
+In his tribute to the legislature, President Uhuru Kenyatta said Kenya has lost one of its dependable leaders, whose undivided focus was the unity, stability and progress of the country. 
+
+
+
+
+
+
+Kiambaa MP Paul Koinange launches the reconstruction of Banana Hill-Kanunga road on September 14, 2018.
+Photo credit: File
+
+ 
+
+Mr Kenyatta mourned Koinange as a keen and steadfast supporter of the country's peace agenda through the National Assembly's Departmental Committee on Administration and National Security, where he was the chairperson. 
+
+ 
+
+
+
+
+
+Kiambaa MP Paul Koinange arrives for a press conference on the planned rollout of the second phase of Huduma Namba registration at Parliament Buildings on September 28, 2020.
+Photo credit: Diana Ngila | Nation Media Group
+
+ 
+
+“The cruel hand of death has robbed us of a steadfast leader. A leader and gentleman whose undivided focus was the peace, stability and progress of our country. 
+
+
+
+
+
+From left: MPs Opiyo Wandayi  (Ugunja), Paul Koinange (Kiambaa) and Opondo Kaluma (Homa Bay Town) during the official opening of Sidindi Police Station in Ugunja, Siaya on February 5, 2021.
+Photo credit: Ondari Ogega | Nation Media Group
+
+ 
+
+"Through the National Assembly Departmental Committee on Administration and National Security where he was the Chairperson, Hon Koinange advanced legislation and policy interventions that sought to create a peaceful, stable and tranquil nation," the President said in a statement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When Ainabkoi MP made public phone call to Paul Koinange on insecurity concerns.
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+
+
+
+
+
+MP Paul Koinange during a past press briefing. 
+Photo credit: File | Nation Media Group No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. She said that the sacked nurses were already replaced with new health workers. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
