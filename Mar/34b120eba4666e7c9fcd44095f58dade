@@ -1,0 +1,173 @@
+Economic activities at Maasai Mara game reserve are feeling the heat of President Uhuru Kenyatta’s measures aimed at containing the spread of Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Cessation of movement into and out of Nakuru, Kiambu, Machakos, Kajiado and Nairobi counties has placed hotel and camp owners on the edge. 
+
+Lodges, tented camps, bars and transport operators are the hardest hit by the restrictions announced on Friday. 
+
+Local and international tourists have cancelled hotel bookings. 
+
+Meetings and other events that were to take place at the hotels this week have been postponed abruptly. 
+
+Full bookings 
+
+Sarova Mara Camp, Serena Mara Lodge, Keekorok Lodge, Sopa Lodge, Kichwa Tembo and Kempinski Olare Mara, Mara Intrepids, Angama, Mara Simba and Fig tree are some of the establishments that expected full Easter bookings. 
+
+Maasai Mara Hotel Managers Forum chairman James ole Pere expressed disappointment at the decision to put the five counties on lockdown. 
+
+He said hotel owners expected visitors to compensate for the losses made last year when international travel was put on hold by most countries. 
+
+“Keekorok Lodge looked forward to 212 visitors on April 2 and 219 the following day. 
+
+Almost 90 per cent have cancelled their travel and events,” Mr Pere said. 
+
+He said more than 80 per cent of active tourist facility investors are contemplating sending their employees home, adding that the employees were recalled just months ago when the hospitality industry began picking up. 
+
+Huge losses 
+
+Mr Pere said the lodges and camps did massive shopping for Easter as they expected a huge number of domestic and foreign visitors. 
+
+“Imagine buying eggs, bacon, sausages and other perishable items for more than 1,000 visitors who would be around for at least five days. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We also ordered diesel for the generators. 
+
+The losses investors are staring at are unimaginable,” Mr Pere said. 
+
+He added that a lot of expenses have gone to Covid-19 precautionary measures. 
+
+These include buying soap, sanitiser, free label masks signage and creating extra space as dining halls. 
+
+Oldarpoi Camp chief executive Nelson ole Reyia said most workers have been given leave. 
+
+Narok Tourism executive Joseph ole Koila said measures had been put in place to ensure the safety of visitors before the President made the announcement. 
+
+“We expected thousands of visitors during Easter. We had taken precaution and were monitoring hotels to ensure they follow the Ministry of Health guidelines,” the executive said. 
+
+East Africa Tour Drivers and Guides Association secretary Felix Migoya said bookings to Maasai Mara, Amboseli, Mombasa, Mt Kenya and other destinations during Easter were full. 
+
+“All our savings had gone into repairing the vans. It is a disaster,” Mr Migoya said. 
+
+gsayagie@ke.nationmedia.com Hoteliers fault Uhuru as facilities report booking cancellations, sending home dozens of workers. Equity Bank and NCBA join the list of big banks who have reported significant declines in net profit. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
