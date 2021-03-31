@@ -1,0 +1,323 @@
+At the height of the battle to succeed President Mwai Kibaki in 2011, a group of politicians who were keen on inheriting the country’s leadership mantle formed an alliance that came to be known as the G7 alliance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The intention of the group was to consolidate support from across the country – mostly among the ethnic communities that make up the country’s largest voting blocs – and isolate ODM leader Raila Odinga, who was then Prime Minister in the grand coalition government, from the presidential race. 
+
+At the centre of this alliance was then deputy prime minister and now President Uhuru Kenyatta, his current deputy William Ruto, Wiper party leader Kalonzo Musyoka and Devolution Cabinet Secretary Eugene Wamalwa, among others. 
+
+Political marriage 
+
+Also part of this team was Amani National Congress leader Musalia Mudavadi, who briefly flirted with the idea of running as the compromise candidate, after an agreement was signed with Mr Kenyatta, who had agreed to step down for the former Sabatia MP. 
+
+This political marriage was, however, short-lived as the clamour for positions, especially the presidency, split members along party lines, ending ambitions and throwing some of the outfit’s founding members into the political cold. 
+
+Mr Musyoka, who at the time considered himself the best candidate for the presidency owing to his experience and seniority, later teamed up with Mr Odinga, while Mr Mudavadi sought to go it all alone, contesting the presidency on the United Democratic Forum ticket. 
+
+That the same individuals have once again teamed up to form a new alliance that yet again seeks to dislodge Mr Odinga and contest the presidency, is no surprise. 
+
+Last week, Mr Musyoka, his ANC counterpart Mr Mudavadi, Ford-Kenya leader Moses Wetang’ula and Kanu chairman Gideon Moi announced the formation of a new alliance –One Kenya Alliance – which they said they would use to sanitise the country’s politics and offer alternative leadership to that of Mr Odinga, whom they accused of bullying and intimidation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Big-brother syndrome 
+
+The four linked their woes, especially the ouster of Kakamega senator Cleophas Malala as the Senate deputy minority leader by the ODM party, as well as the previous ouster of Mr Wetang’ula as the Senate minority leader by the same team, to bullying and big-brother syndrome that Mr Odinga has allegedly perfected over time, even during his time in the grand coalition government. 
+
+“This alliance is a breath of fresh air from the toxic and divisive politics this country has witnessed in the recent past. We want to tell Kenyans that our doors are wide open. All Kenyans of goodwill, all leaders who will embrace the philosophy of bringing our country together, of exorcising toxic politics, politics of abuse and merchandising politics must come together and reclaim our country from the hands of profiteers and auctioneers,” said Mr Wetang’ula. 
+
+But the biggest test for this team, even as it plans to tour the country and sell its agenda, is whether it will manage to avoid the pitfalls that ruined its predecessors and stick together to the elections and beyond. 
+
+In a country where political marriages and coalitions are not known to last more than one election cycle – sometimes even collapsing midway due to disagreements over positions – the One Kenya Alliance faces what could be its biggest litmus test yet. 
+
+Prof Winnie Mitullah, a political analyst and lecturer at the University of Nairobi, says the greatest challenge for most alliances and coalitions has been balancing between the interests of its members and political parties, especially with regard to how seats should be shared in case they come to power. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“These coalitions are not new. We have had them time and again and they are usually formed around the idea of winning and consolidating power. The challenge for many, as we have seen before, has been  balancing of interests, because the original idea is always about individual partners. What we see in most instances are disagreements emanating from a lack of a common voice on who takes which positions and whatnot,” said Prof Mitullah. 
+
+“This, perhaps, could explain why many of these alliances are short-lived, or do not exist beyond  the five-year election cycle,” she added. 
+
+Dr Ruto, who was among the founding members of the G7 alliances, has recently hinted at plans of forming an alliance with Mr Odinga to contest the presidency. 
+
+Division of seats 
+
+And while some pundits have observed that a Ruto-Odinga alliance would be a force to reckon with, it is division of seats, they argue, that poses the greatest test, should the two agree to form a coalition. 
+
+Dr Bobby Mkangi, a constitutional lawyer and scholar, contends that for Dr Ruto, running again as a deputy to another candidate could present legal challenges. This is especially so, the scholar argues, given that, of the two, Mr Odinga is more senior and more experienced and hence would want to be backed for the presidency. 
+
+“The incumbent DP would be barred from seeking to serve the same position courtesy of Article 148 (8),” Dr Mkangi, who also sat in the Committee of Experts that crafted the 2010 Constitution, said. 
+
+That article of the Constitution indicates that a person shall not hold office as Deputy President for more than two terms. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Dr Mkangi further argues that should Dr Ruto run again as someone else’s deputy, including Mr Odinga, that would mean an easy win for the opponent since, as an incumbent, many would expect him to aim for the top seat. 
+
+“And who would, considering that under the current arrangement, it would be a different presidential candidate? It would be an easy ticket to beat – that of a DP who could not transcend despite the advantage that came with incumbency,” said Dr Mkangi. 
+
+Social change 
+
+In the past couple of years, politicians keen on either challenging the status quo or pushing for social change and better governance have been known to join forces and marshal support from the public, a practice that can be traced back to the colonial times. 
+
+Despite promises that they would stick together until the completion of the journey and cause, most of these coalitions usually collapse due to what pundits term scramble for positions and power. 
+
+In some instances, such unions’ collapse has been linked to lack of resources, differences about the  number of votes each top member is likely to bring to the coalition, ethnic considerations and other issues. 
+
+Claims of bullying and lack of democratic space within coalitions have also been cited, as in the case of the Nasa coalition, where ANC, Wiper and Ford-Kenya accused ODM of using its numerical strength to intimidate them. 
+
+Prof Mitullah says this trend can be attributed to weak ideologies upon which the coalitions and alliances are built. She adds that these outfits are mostly built around ethnic considerations or populist ideas and agendas that resonate with the masses, and not necessarily on concrete ideas, save for few like the Narc coalition – whose main agenda was better governance and economic growth and prosperity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Most of these alliances are usually based on the idea of consolidating as much support as possible in order to win votes in an election, and they mostly centre around populist ideas that resonate with the masses, or ethnic ideologies that bring together kingpins of various ethnic groups,” Prof Mitullah said. 
+
+sapollo@ke.nationmedia.com Migori governor renews attacks on ODM leader Raila Odinga and rubbishes Building Bridges Initiative. Politicians facing corruption, hate speech, incitement and other cases may still vie for any seat in next year’s polls. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
