@@ -1,0 +1,145 @@
+Last week, the team released names of the pacemakers for the race led by Victor Chumo and Philemon Rono.Other pacers include Philemon Kacheran, Gideon Kipketer, Noah Kipkemboi, Paul Pollock, Victor Kiplangat, Alex Kibarus, Jackson Kiprop, Moses Koech, Sylvester Kiptoo and Bernard Cheptoch. This year's Hamburg Marathon has been moved to April 18, organisers announced Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Initially, the NN Running Team in conjunction with Global Sports Communication had scheduled the race for April 11, but had to postpone it by a week due to the deadly coronavirus. 
+
+“The NN Mission Marathon race in Hamburg will be postponed to April 18. Due to the current local Covid-19 situation, the organisation is also forced to find an alternative location for the race," read the statement. 
+
+World marathon record holder Eliud Kipchoge was set to take part in the race alongside former Olympic marathon champion Stephen Kiprotich from Uganda. Others who will run include Jonathan Korir, Laban Korir, Augustine Choge, Gladys Chesir and Ethiopia's Haven Hailu. 
+
+Hamburg was where Eliud ran his first marathon in 2013 and won. 
+
+“The NN Mission Marathon in Hamburg will be postponed to April 18. Over the past months we have learned that we need to be flexible and stay positive. With this in mind, I thank everybody involved, keep working hard with positive minds to find a good alternative," posted Kipchoge on Twitter Wednesday. 
+
+Kipchoge is using the race as part of preparations ahead of the Tokyo Olympic Games where he is set to defend his Marathon title. 
+
+In an earlier interview, he stated that his training has been going on well and is looking forward to run a race that is going to inspire the world at this hard time. 
+
+“I want to run a beautiful race to inspire the world which is in huge transition into the bright future after a long break due to the pandemic. It feels good to be back where I started my marathon career, it’s the greatest memory in my life,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last week, the team released names of the pacemakers for the race led by Victor Chumo and Philemon Rono. 
+
+Other pacers include Philemon Kacheran, Gideon Kipketer, Noah Kipkemboi, Paul Pollock, Victor Kiplangat, Alex Kibarus, Jackson Kiprop, Moses Koech, Sylvester Kiptoo and Bernard Cheptoch. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
