@@ -1,0 +1,157 @@
+Mandera MCAs on Tuesday passed a motion allowing the executive to start developing the newly established sub-county headquarters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a motion sponsored by Arabia Ward Representative Abdiaziz Dakat, the Governor Ali Roba’s administration has been asked to ensure budget allocations for the development of Arabia and Kiliweheri sub-counties. 
+
+“I am seeking to ensure the county government ensures infrastructural establishment at the new sub-counties in Mandera County,” said Mr Dakat. 
+
+The motion that was adopted unanimously by MCAs will ensure offices are built in the two sub-counties. 
+
+Lack infrastructure 
+
+Arabia and Kiliweheri are the newly established administrative units that lack an infrastructural system in Mandera. 
+
+“We only have deputy county commissioners’ offices in these sub-county headquarters but we need more offices for services to be taken closer to the people,” Mr Dakat said. 
+
+According to Mr Dakat, more than a year after the establishment of the two administration units, most residents are yet to start enjoying services. 
+
+“A sub-county comes with a lot of goodies to the people and we want the executive to ensure we have enough offices for services to be rendered,” he said. 
+
+He said the national government has already played its role of coordinating its functions by establishing the two sub-counties. 
+
+“The county governments are   expected   to decentralise their services and the provision of those services to the extent that is efficient and practicable,” he said. 
+
+Mr Dakat said the sub-county administrative unit is responsible for coordination, management and supervision of general functions including the development of policies and plans. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Enhanced service delivery 
+
+“We want enhanced service delivery, development activities, provision and maintenance of infrastructure, promotion and coordination of peace building among many other functions at the sub-county level,” he said. 
+
+Both Kiliwehiri   and   Arabia   sub-counties lack   proper   infrastructure and facilities to ensure efficient and effective service delivery to the residents. 
+
+The assembly allowed the executive to factor money in the 2021/2022 budget for infrastructure development in Kiliwehiri and Arabia sub-counties in order to strengthen effective and efficient service delivery. 
+
+The MCA said development of the sub-counties will strengthen public service programmes and further decentralise staffing units in both sub-counties. Water drilling rigs are spread all over the county, drilling boreholes to salvage both human and animal life. County in the grip of a prolonged drought that has seen animals die and pushed residents to the brink. No one else had submitted nomination papers by Wednesday’s deadline apart from the Jubilee candidate. Mwangangi says positivity rate in Kenya now stands at 15.3 per cent. Scientists have discovered the most mutated variant of the Covid-19 virus in Tanzania.
