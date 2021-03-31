@@ -1,0 +1,147 @@
+Let us blow wind in the sails of African women entrepreneurs.Let’s lighten the gale-force winds that they face. If you walked into a boardroom full of men and women, who would you assume is the chairperson? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This question is particularly interesting in the context of Africa, the only continent with more female than male entrepreneurs, making up 58 per cent of the self-employed population.  
+
+Uganda, Ghana and Botswana have the highest percentage of woman-owned enterprises globally (36-38 per cent), most often very small shops in the informal economy, the economic engine of Africa. 
+
+Impressively, the owners don’t have it easy — what with limited access to capital, poor infrastructure (road, electricity, water, internet, data), systemic gender bias and inadequate rule of law. To survive, they must be unwaveringly resilient, resourceful, respected in their communities and business-savvy. 
+
+We don’t think of African women as hearty, Silicon Valley-type entrepreneurs but most Western entrepreneurs wouldn’t survive a year in their conditions. From drought to political violence, locust infestations and tainted food supplies, crises are common. When Covid-19 hit, they soldiered on and took to innovative ways to weather the shocks.  
+
+Level the playing ground 
+
+As e-commerce grows into a phenomenon in urban Kenya, rural communities continue to lag due to internet access challenges. M-commerce platforms are one of the ways that rural businesses can level the playing ground. They offer access to goods that they lack and direct access to suppliers who offer products at lower prices than middlemen. 
+
+By enabling selection, buying and selling of products and services on mobile devices such as cell phones or tablets, m-commerce gives women in rural areas the infrastructure to participate in the national and global economy, especially when it uses easily accessible technologies such as SMS or USSD. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nearly a billion people across Africa lack convenient access to basic quality household goods at affordable prices — even as simple as an aspirin tablet. This means m-commerce platforms have a massive opportunity to transform this previously neglected market into empowered global consumers. At a time when unemployment rates are high and businesses need support to stay afloat, m-commerce introduces a solution to the retail sector. 
+
+Women are living out the slogan of this years’ International Women’s Day,  #ChooseToChallenge, by challenging themselves and the social norms that discourage them from seeking financial empowerment. Let us blow wind in the sails of African women entrepreneurs. Let’s lighten the gale-force winds that they face. Small and medium enterprises (SMEs) are the main drivers of job creation in Africa. 
+
+Let us encourage women entrepreneurs to take part in emerging sectors such as m-commerce as a strategy for building a strong business ecosystem in rural areas. Any economic growth plans must pave the way for investments that create a level-playing field in communities and foster the participation of women in economic activities and decision-making. 
+
+Ms Turner is the founder and chairman of Copia Global. Somali security agencies were privy to a build-up of Al-Shabaab fighters around El Adde, prior to terror attack. Security authorities say he is currently in Somalia planning an attack on Kenya. The dispute has escalated to the Supreme Court following an appeal lodged by the County Assemblies Forum.
