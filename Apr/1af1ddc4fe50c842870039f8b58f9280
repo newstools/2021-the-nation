@@ -1,0 +1,157 @@
+Critics of Nigerian President Muhammadu Buhari have caused an outcry after he flew to London for a medical visit, highlighting his frequent trips abroad for treatment and the country's weak health system. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Buhari, 78, has made several trips to London since he came to power in 2015 and was re-elected for another four-year term in 2019. 
+
+Although the nature of his ailment has never been made public, Buhari confessed in one of the trips that he had "never been so ill" and that he had received several blood transfusions. 
+
+His frequent visits for medical treatment have brought criticism about the government's transparency over his illness and worries about leadership during some of his longer absences.  
+
+In his latest visit to the British capital on Tuesday, the presidency said the retired general, who was military ruler in the 1980s, would be away for two weeks. 
+
+"He is due back in the country during the second week of April," his office said in a statement. 
+
+The main opposition Peoples Democratic Party (PDP) condemned the trip, saying it was an indication that Nigeria's healthcare system had failed. 
+
+"It is indeed worrisome that under President Buhari, even the hitherto highly rated State House Clinic, has become so moribund that it cannot provide a simple medical checkup service for Mr. President," the PDP said in a statement. 
+
+The party said Buhari's frequent trips were a drain on the treasury. 
+
+"The PDP is disturbed that while Mr. President jets out for medical treatment in well-equipped hospitals abroad, our hospitals and medical personnel are in very sorry situation while millions of our compatriots suffer," it said. 
+
+Both local and social media were also full of outraged remarks by Nigerians over the trip. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some in the Nigerian diaspora were planning protests in London against the president's visit, said activist Omoyele Sowore. 
+
+"We are totally appalled by it," he said of the latest medical visit. "He goes to London at the slightest provocation even when he has a headache." 
+
+The latest London trip came just hours before a threatened strike by doctors in government hospitals over pay and inadequate facilities. 
+
+Buhari's health became a subject of debate ahead of the last election when the opposition claimed he was not physically fit to govern -- but Buhari won a second term. 
+
+In 2017, he temporarily handed over power to his vice president to allay fears over the government's leadership. But his absence provoked calls for him to return or resign. 
+
+The president's state of health became a sensitive subject in Nigeria after former leader Umaru Musa Yar'Adua, died in 2010 and it emerged that his ailment had been kept secret for months. Africa's most populous nation of 200 million people, is pushing ahead with reviving its railways, despite years of frustrating delays. Protests against police violence in Nigeria show no sign of stopping as thousands continue to take to the streets. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
