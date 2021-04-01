@@ -1,0 +1,293 @@
+An acute shortage of the jab has been reported in Nyeri, Nairobi, Murang’a and Uasin Gishu.Kenya received 1.12 million doses of the AstraZeneca vaccine through the Covax facility. At least three counties have run out of AstraZeneca vaccine, with hospitals turning back thousands of eligible Kenyans, including the elderly. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An acute shortage of the jab has been reported in Nyeri, Nairobi, Murang’a and Uasin Gishu, with Nyeri virtually suspending the vaccination programme until new doses are delivered.  
+
+This comes amid claims of hoarding and corruption, with rogue health workers charging desperate Kenyans seeking the jab in the capital Nairobi. 
+
+High-end private facilities in the city have also announced suspension of the inoculation, citing depletion of the free jab. 
+
+Kenya received 1.12 million doses of the AstraZeneca vaccine through the Covax facility and 806,000 were distributed countrywide. 
+
+The government rolled out vaccination on March 5 targeting health workers, security personnel, clergy, teachers, and other staff in educational institutions.  
+
+By the end of last week, persons aged 58 years and above were added to the list, after data showed that they account for 60 percent of the deaths recorded so far. 
+
+The shortage has raised concerns on whether recipients of the first dose of the vaccine will get their second dose after eight weeks. 
+
+Turned away 
+
+On Monday, Mr Julius Mwangi, 60, visited Karatina Level Four Hospital in Nyeri for the Covid-19 vaccine but left the facility a disappointed man. 
+
+He was among scores of people, mostly the elderly, who had turned up to receive the jab but were turned away after the facility ran out of shots. 
+
+“Why does the government tell people to be inoculated when they know they don’t have enough supplies? This is taking us for a ride, the government should learn to tell the truth,” Mr Mwangi lamented. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+County director of medical services Nelson Muriu said all the 10 vaccination centres had depleted their supplies, adding that they had contacted Afya House for a refill. 
+
+The county received at least 6, 000 doses for frontline health care workers followed by teachers and police officers. 
+
+In neighbouring Murang'a County, facilities had also exhausted the county’s 3,000 doses yesterday. In Nairobi, long queues, long faces and in some cases, commotion marked the first three days of the week as desperate candidates jostled for the vaccine. 
+
+At Ngara Health Centre, only 130 people were issued with cards on Tuesday for the jab but in the queue, over 400 Kenyans were waited impatiently.  
+
+The vaccines are so few that some elderly folks who woke up as early as 6 am on Monday at the centre missed out on the jab and had to go back on Tuesday, where they still had to wait for four hours to no avail. 
+
+Vaccine depleted 
+
+“Getting this vaccine is not an easy task. We have queued since yesterday (Tuesday). We were here by 6am but left without being vaccinated at around 2pm. We had to be here today (Wednesday) by 6.15am… to be vaccinated,” an elderly man who sought anonymity said. 
+
+At the Kenya Medical Practitioners and Dentists Council (KMPDC), which has been offering the jab to staff and other people who qualify, yesterday’s queues ran from their main gate to Woodlands Road in Hurlinghum. 
+
+By 11am, the vaccine was already depleted and those who were in the queue were turned back. Yesterday was the last day they were offering the vaccine at the facility. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The situation was no different at the National Spinal Injury Hospital that was offering the AstraZeneca vaccine to those who wished to have it.  
+
+Private hospitals in the capital have also run out of free vaccine supplies. 
+
+On Tuesday, the Aga Khan Hospital issued a public notice that they were no longer offering the mass vaccination exercise. 
+
+The hospital said it had temporarily suspended the vaccination of government-sponsored vaccine following the depletion of their stocks. 
+
+“We shall announce the resumption of the exercise once we receive more doses from the Ministry of Health,” the hospital said.  
+
+Limited number of doses 
+
+Karen Hospital has also put on hold the Covid-19 vaccination exercise due to the depletion of jab stocks.  
+
+MP-Shah, Mater Hospital, as well as The Nairobi Hospital also issued statements, saying they ran out of free jabs by Wednesday and were yet to be replenished. 
+
+The same goes for the Nairobi West where patients were at the vaccination site waiting for restocking at the facility owing to depletion of the AstraZeneca jab that was issued by the government. 
+
+The situation was not any different at Pumwani Health Centre where by 10 am, the jab stocks were depleted. 
+
+At Mathari Teaching and Referral Hospital, the script was the same— a limited number of doses had been supplied. 
+
+In North Rift, Uasin Gishu is among counties facing shortage of the vaccines.  
+
+“We have run out of vaccines in our facilities but request has been made to the national government who have informed us the doses will be delivered on Thursday,” said Everylin Rotich, County Health Executive.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The devolved unit received 21,000 doses and were distributed at Huruma County Referral Hospital, Moi Teaching and Referral Hospital, and Moi Barracks. 
+
+By Nasibo Kabale, Irene Mugo, Hilary Kimuyu, Hellen Shikanda, Steve Otieno, Stanly Kimuge, Barnabas Bii, Alex Njeru Stephen Munyiri, George Munene, Mwangi Muiruri, Jacob Walter and Gitonga Marete. The directive is an about-turn from recent communication which stated that politicians were not on the priority list. Safety concerns and poor information on vaccination drive blamed in Coast region. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
