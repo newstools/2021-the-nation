@@ -1,0 +1,229 @@
+The United States has raised the red flag over alleged human rights violations in Zimbabwe, which include torture of government critics by security forces. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In its country report on human rights practices in 2020, the US Department of State’s Bureau of Democracy, Human Rights and Labour said Zimbabwean security forces acted with tacit support from President Emmerson Mnangagwa’s government. 
+
+The report is yet another unflattering assessment of President Mnangagwa’s administration by the US in the last three years following a military coup that toppled long time ruler Robert Mugabe. 
+
+“Non-governmental organisations reported security forces abducted, assaulted and tortured citizens in custody, including targeted assault on and torture of civil society activists, labour leaders, opposition members and other perceived opponents of the government,” the report released on Tuesday says. 
+
+“Human rights groups reported government agents continued to perpetrate physical and psychological torture on labour leaders and opposition members during abductions. 
+
+“Reported torture methods included sexual assault, beating victims with sticks, clubs, cables, gun butts and sjamboks (a heavy whip), falanga (beating the soles of the feet), forced consumption of human excrement and oral chemical poisoning, as well as pouring corrosive substances on exposed skin.” 
+
+The department said that as of November 2020 there were a minimum of five reports of short-term abductions and assaults or torture of government critics by security forces. 
+
+A number of activists were allegedly abducted last year ahead of protests against the deteriorating economic situation in the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“These instances typically occurred at night, although some happened in broad daylight,” the report added. 
+
+“The abductors forcibly removed persons from their homes, parking lots and press conferences and assaulted them for hours before abandoning them, usually severely injured and naked, in a remote area.” 
+
+Some of the prominent victims include opposition MDC Alliance legislator Joana Mamombe, who was allegedly abducted and sexually abused alongside two other activists – Netsai Marova and Cecilia Chimbiri. 
+
+Ms Mamombe, Ms Marova and Ms Chimbiri were allegedly removed from police custody, then abducted and tortured by suspected security agents after they were arrested during a protest in Harare on May 13 last year. 
+
+“The three women sustained severe injuries from 36 hours of physical, sexual and psychological torture,” the report added. 
+
+“After the three women reported the crimes to police, they were rearrested and charged with making false statements to police and for faking their own abductions.” 
+
+President Mnangagwa’s government accused activists of faking the abductions to tarnish the country’s image. 
+
+The Harare administration is also accused of using the cover of Covid-19 lockdowns to clamp down on dissent. 
+
+Security forces enforcing the lockdown regulations were accused of using brutal force on civilians caught violating curfews and not wearing face masks. 
+
+“Impunity was a significant problem in the security forces and the civilian authorities who oversee them, including police, military and intelligence officers,” the report added. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“To date, no one has answered for disappearances, civilian deaths, rape, abduction or torture allegations from the 1980s to as recently as November (2020). 
+
+“Security forces were firmly under the control of the ruling party and were often directed against the political opposition.” 
+
+US President Joe Biden recently renewed targeted sanctions against Zimbabwe citing increasing impunity by security forces and President Mnangagwa’s reluctance to reform. 
+
+Zimbabwe insists that the sanctions are illegal and unjustified. Several western countries and the European Union also maintain targeted sanctions against Zimbabwe over alleged human rights violations and electoral fraud. The spike in the number of food insecure people in urban areas has been blamed on lockdowns imposed starting last year to slow down the spread of Covid-19. National Security minister Owen Ncube and three other officials are being punished for the killing of protesters by security forces in 2018 and 2019. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
