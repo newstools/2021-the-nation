@@ -1,0 +1,464 @@
+This beautiful county offers Nairobi residents a perfect weekend escape from the hustle and bustle of city life. Many have been killed and their bodies left to rot in the scorching Kajiado sun, until they get discovered by herders.  Rising to 8,000 feet, the rolling Ngong Hills provide a picturesque view of Kajiado, a county as vast as the eye can see in all directions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This beautiful county, famed for its scrumptious roast goat meat, traditional vegetables and numerous attractions for outdoor and photography buffs, offers Nairobi residents a perfect weekend escape from the hustle and bustle of city life.  
+
+At night, however, the place is increasingly crawling with murderers, who take the 18km trip to these southern outskirts of the Nairobi metropolis to torture and kill their victims, or dump bodies of those whose lives they have snuffed out. 
+
+And as distraught relatives search for their missing loved ones in the city, it turns out many have been killed and their bodies left to rot in the scorching Kajiado sun, until they get discovered by herders.  
+
+Such discoveries generate huge national interest. Everything, however, goes quiet after a few days, until another body is discovered, and the script starts all over again. 
+
+While homicide is not new in Kenya’s capital, cases have reached worrying levels over the past two or three years.  
+
+In one recent case, the body of a 28-year-old woman was found covered with a heap of rocks in Ongata Rongai. 
+
+The Directorate of Criminal Investigations (DCI) said Gloria Rumbale went missing on Thursday, March 11, after leaving home for work. 
+
+“After a day of no communication and fruitless search for the missing woman, her sister informed the police of her disappearance on Saturday, March 13. A report was circulated and investigations initiated,” said the DCI. 
+
+Strangled by hand 
+
+However, hopes of finding Joan safe and sound were shattered when a herder bumped into a lifeless body under a heap of rocks in a bush along Kimani road in Ongata Rongai. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Heeding a call by detectives who had been to the scene where a lady’s body lay cold and with multiple injuries, a sister identified Joan’s body. Crime scene investigation personnel have since processed the scene,” added the DCI. 
+
+It is now two weeks since Rumbale’s body was found and no clues have been forthcoming from the DCI Headquarters along Kiambu road in Nairobi on who her killers were. She was buried last weekend at her parents’ home in Shanderema village, Mumias East sub-county, Kakamega County. 
+
+Sadly, as each day passes, her killers continue to slip away from the hands of investigators.  
+
+Rumbale’s murder adds to a pile of cases where people are killed and their remains dumped in Kajiado County but the killers are never found. 
+
+Two days before Rumbale’s body was found in Ongata Rongai, a herder searching for his goat that had wandered away made a similar discovery 12km away in Kerarapon, Ngong.  
+
+The body was discovered on March 13, the day Jennifer Wambua, a Communications Director at the National Lands Commision (NLC) had failed to come home. 
+
+
+
+
+
+
+NLC Deputy Communications Director Jennifer Wambua whose body was found dumped in Ngong Forest on March 13, 2021. A post-mortem has revealed that she was strangled using bare hands.
+Photo credit: File | Pool
+
+ 
+
+She had been last seen by her husband, Mr Joseph Komu, who had dropped her at her Ardhi House work station in Nairobi. She had stopped picking up calls at about 10am the same day, prompting her relatives to launch a frantic search for her. 
+
+This search ended on March 15, after police informed her family that her body had been found a day after she had gone missing. She had been raped and strangled by hand until she died, before her body was dumped in a field belonging to the government in Kerarapon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kidnapped and murdered 
+
+The police are yet to arrest Wambua’s killers. The last time the Nation checked with investigators, all indications were that the trail was fast turning cold. 
+
+Almost a month before Rumbale and Wambua’s bodies were found dumped Kajiado, the body of businesswoman Caroline Wanjiku Maina was discovered by herders in Paranai, along the Kitengela-Namanga road. 
+
+It is said she had been lured by her business partners to meet them in Ngara, Nairobi, over a tender deal gone sour, only for her to end up being kidnapped.  
+
+
+
+
+
+
+
+
+
+
+
+Caroline Wanjiku Maina, the 38-year-old Nairobi businesswoman who was kidnapped and murdered by unknown assailants on February 12. 2021.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+Two suspects, Mr Edwin Otieno Odiwuor and Mr Samwel Okoth Adinda, have since been charged with the murder. 
+
+Wanjiku’s was yet another pointer to a trend where Kajiado is turning out to be Nairobi murderers’ favourite dumping ground. 
+
+Although official police statistics are hard to come by, Kajiado is safer compared to its neighbouring counties of Nairobi and Kiambu.  
+
+About 7,000 crimes are reported to the police in Nairobi per year while in Kiambu, the number is 6,900. In Kajiado, a county that is bigger than Nairobi and Kiambu combined, only 1,500 crimes are reported annually. 
+
+In terms of homicide, Nairobi records an average of 250 murders per year, according to the National Crime Research Centre (NCRC), while Kajiado records less than 50.  
+
+So, why is a county with so few homicide cases hogging the news in terms of murders? 
+
+Magnet for murderers 
+
+At 21,902 square kilometres, Kajiado is not only Kenya’s ninth largest county by land mass, but is just slightly smaller than Rwanda. The county, which borders Tanzania to the South, Narok to the East, Taita-Taveta to the West and Nairobi and Machakos to the north, is very sparsely populated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+According to the 2019 census figures, Kajiado has a population of about 1.10 million. By comparison, Rwanda has a population of at least 12.6 million. This means, save for its major urban centres like Kajiado town, Ongata Rongai, Ngong, Kiserian, Isinya and Loitoktok, Kajiado County is a vast swath of bare land dotted by grasslands, thickets and shrubs. 
+
+Predominantly occupied by the Maasai community, land ownership in Kajiado is mostly communal.  The vast grasslands are bereft of fences and mainly used for herding livestock.  
+
+Around the urban centres, the land has been subdivided and taken over by third parties or is still being held by the government. 
+
+It is this vast but empty land mass with no security features that makes Kajiado a natural magnet for murderers who want to dispose of bodies of the people they have killed. 
+
+Its proximity to Nairobi, a county where you are more likely to be murdered than anywhere else in Kenya, has only served to cement Kajiado as Kenya’s dumping ground for murdered people. 
+
+Kajiado County police commander Beatrice Gachago says her county is very safe and is only suffering from its closeness to Nairobi. According to her, this year alone, four people suspected to have been murdered in Nairobi were dumped in Kajiado. 
+
+Last year, six people from Nairobi were dumped in the vast county. Among the six bodies that were found dumped in the county last year was that of Scholastica Kilonzo. 
+
+The 43-year-old woman who used to sell charcoal went missing from her home in Nairobi’s Umoja estate on July 30 after receiving a call from an unknown person.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+
+
+
+Scholastica Kilonzo, who went missing from her home in Nairobi's Umoja estate on Tuesday July 30, 2019. Her body was found on September 12, more than six weeks after she disappeared in a thicket near Kajiado town. 
+Photo credit: Courtesy 
+
+ 
+
+Tortured and raped 
+
+Her body was found on September 12, more than six weeks after she disappeared in a thicket near Kajiado town. The body was still warm and initial reports indicated she was tortured and raped before she was murdered. 
+
+"It is hard for police officers to search every vehicle entering Kajiado County. Most of these crimes are premeditated, with an elaborative plan to conceal the crime,” says Ms Gachago. 
+
+"We have large chunks of undeveloped land covered by shrubs, which works to the advantage of criminals. We have lately intensified police patrols in known hotspots and police officers remain on high alert,” she assures. 
+
+According to the NCRC, 13 per cent of crimes committed in Nairobi are murders, which is way higher than the national homicide average of 4 per cent. An analysis of news statistics shows quite a number of the people murdered in Nairobi end up being dumped in neighbouring Kajiado. 
+
+“The area is generally safe but we have over the years had bodies of people killed elsewhere being dumped here,” Ms Maria Kariuki, a Nyumba Kumi representative in Kerarapon, where Wambua’s body was found, told the Nation. 
+
+“I have witnessed the discovery of bodies about five times over the past one year,” she offered. 
+
+Besides private assassins, the state too has been accused of dumping bodies of those it has executed within the county. The most famous case was that of populist politician Josiah Mwangi Kariuki, whose body was found in Ngong forest 46 years ago. 
+
+JM, as he was popularly known, had become a gadfly of the government, bashing it at every turn for propagating corruption, land grabbing and creating a nation of millions of beggars and a handful of rich well-connected politicians. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Badly decomposed body 
+
+An ambitious, wealthy and philanthropic politician, JM had spent time in prison as a member of the Mau Mau before independence. His newfound wealth had led him to eye the presidency and those around the nation’s founding president, Mzee Jomo Kenyatta, did not like it. 
+
+He was last seen alive leaving Hilton Hotel with General Service Unit (GSU) Commandant Ben Gethi. His badly decomposed body would be found in Ngong Forest by a herdsman and taken to City Mortuary where it was booked in as "unidentified adult male". 
+
+His murder, which sparked riots by University of Nairobi (UON) students, has never been solved to date. 
+
+However, years after JM’s death, the 2007 post-election violence provided the state once again with an opportunity to revert to one of its favourite dumping ground for those it had allegedly killed. 
+
+After the violence, a police squad dubbed ‘Kwekwe’ was formed with the sole purpose of eliminating Mungiki leaders.  
+
+Among those whose bodies were found in Ngong during this killing spree were Peter Maina Wachira, Peter Mwangi Gitau, Julius Irungu Mwangi and Joseph Waweru Mbugua.  
+
+“Waweru left his house in Nderi, Kikuyu, for his rural home in Murang’a, where he was to pay for some ongoing construction. When he failed to come back, his family launched a search in all mortuaries with no success,” said the Kenya National Commision on Human Rights in its report on extrajudicial killings at that time. 
+
+To date, Waweru’s body has never been found. The clothes he had on when he was last seen were, however, discovered weeks later in a thicket in Kiserian. His body was suspected to have been devoured by wild animals, something Kajiado County police commander Gachago says can happen even today. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Remember that Kajiado is too vast and mostly empty, plus it has wild animals,” she says. 
+
+Additional reporting by Stanley Ngotho Wambua was last seen on Friday morning when her husband dropped her at work. Maina’s decomposing body was found by herders in a thicket in Paranai, Kajiado County on February 15. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
