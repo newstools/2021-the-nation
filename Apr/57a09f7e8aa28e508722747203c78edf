@@ -1,0 +1,73 @@
+Tanzanian President Samia Suluhu Hassan Wednesday appointing veteran diplomat Liberata Mulamula as the new Minister for Foreign Affairs and International Cooperation, replacing Professor Palamagamba Kabudi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Mulamula was the permanent secretary in the ministry before her new appointment. She has also served as Tanzania's ambassador to the United States and was the first executive secretary of the International Conference on the Great Lakes Region (ICGLR). 
+
+In the minor cabinet shake-up Wednesday, Mr Kabudi was moved to the Ministry of Justice and Constitutional Affairs, taking over from Mwigulu Nchemba who will now be the Ministry of Finance and Planning docket was left vacant following the appointment of Philip Mpango as vice president. 
+
+President Suluhu announced the changes after the swearing in of Dr Mpango at State House in Tanzania’s capital Dodoma. 
+
+She also named Hussein Matanga, the Tanzanian ambassador to Japan, as her new Chief Secretary replacing Bashiru Ally who becomes one of her nominated members of parliament. 
+
+Mr Ally, former CCM General Secretary, had served in the position for a month. The nominee, Dr Philip Mpango, has been serving as Finance minister. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
