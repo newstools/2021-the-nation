@@ -1,0 +1,151 @@
+If our youth are so knowledgeable, then why are they so emotionally vulnerable?Why does the national youth suicide rate appear to escalate? The Covid-19 pandemic has drastically changed the lives of families, leaving many adults stressed and anxious and others struggling to cope. It has also put the mental health of young people at risk. They feel helpless and hopeless, and know it in new and deeper ways. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the social media, you find many explanations for the looming youth mental health crisis — everything, from indiscipline to lack of coping skills and pressures of being young in the Digital Age.  
+
+From conversations with young people, I have found them to be the most knowledgeable generation to date about mental wellbeing. They have all heard about depression, anxiety and other disorders. They know who a therapist is and have friends on mental health medication. They have a lot of information about the perils of mental ill-health. 
+
+But if our youth are so knowledgeable, then why are they so emotionally vulnerable? Why does the national youth suicide rate appear to escalate? And why does it seem that our youth experience more emotional upheaval and instability than in previous generations? Why do they burn their schools? 
+
+The answer is simple: It is about relationships or, in this case, the lack of them. In general, many young people feel let down by their parents, teachers and other community members — they feel as if they are raising themselves. Countless youths feel as if nobody really cares about them.  
+
+Unfortunately, many adults still have unresolved childhood issues and, as parents, we fall into unhealthy coping patterns and mechanisms which distance us from engaging with our children. More often than not, our children are disappointed by us and frustrated. 
+
+Broken relationships 
+
+Due to increased financial pressures, we focus on providing the required financial resources such as food, housing and school fees and think our children are okay — until something happens and we realise that things are not well. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Many of us adults have painful stories of broken relationships with our parents. Many have hidden wounds from toxic childhoods, compounded by continued toxic stress as adults at work and even in our homes. 
+
+To survive, parents become unavailable and absent. We are almost always hurt in the context of relationship and can only be healed in it.  
+
+Healing in non-judgmental relationships is rare among young people because sometimes their behaviour is extreme. If you can’t trust the people who are supposed to care about you, where do you go? What do you do? You find someone who seems to do. And you might not know the rules but this is the door to whatever comes next. 
+
+The world may be giving you mixed messages about your value or future; so, finding someone and believing that they care about you is, basically, the hope and danger of adolescence. Young people are looking for people to trust; that comes first. 
+
+We need to create a new model of care for our young people that is respectful, relevant to their lives, and centred on relationships. In making time for our children, we will find even our own youth disappointments beginning to heal. 
+
+Dr Yoder-Maina (PhD) is the executive director, Green String Network. angi@green-string.org. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
