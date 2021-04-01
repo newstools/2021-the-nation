@@ -1,0 +1,233 @@
+This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines.While Sputnik had been hailed as designed for poor countries and priced at $10 (Sh1,100), the pricing in Kenya and Pakistan rose to over $70 (Sh7,680) a dose. On March 10, a week after Kenya received the first consignment of the AstraZeneca vaccine, a statement appeared on the Sputnik V’s Russian website saying that Kenya had also approved the use of the Russian vaccine.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“With the authorisation of Sputnik V in Kenya,” said Kirill Dmitriev, the CEO of the Russia fund seeking new markets for it, “there are now 10 African nations that have registered the Russian vaccine.” 
+
+It took another two weeks before the Pharmacy and Poisons Board posted a notice on its official Twitter handle, admitting that it had “authorised” the Russian vaccine for emergency use – but had not “registered” it. 
+
+And that only came after Nanyuki Cottage Hospital announced that it had received the Sputnik V vaccine – sparking queries on when the government allowed the creation of a private market vaccine channel away from its official distribution. 
+
+The Ministry of Health then said no vaccine had been approved “for sale” in the country, as fears emerged that at Sh8,000, the Sputnik V, was going to be the preserve of the rich, who were eager to jump the prioritised vaccination queue. More so, some profiteers appeared to have, once again, taken advantage of the Covid-19 pandemic. 
+
+Commercialisation of Sputnik V 
+
+And now, Kenya has become the second country where the attempted commercialisation of Sputnik V by profiteers appears to have hit a snag, after a similar row emerged in Pakistan. 
+
+This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines, with Transparency International citing concerns with pricing and the potential for corruption. 
+
+“Pakistan is one of the first countries to allow the private sector to import and sell Covid-19 vaccines and [this] will provide a window of corruption, as there are possibilities some of the government vaccines may be sold to … private hospital[s],” Transparency International stated in a letter to the Prime Minister’s office. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The private importation of the vaccine to Kenya is spearheaded by Russian Direct Investment Fund and its CEO, Mr Dmitriev – a man who had been criticised by The Times newspaper for his continued reference to the Oxford University product as a “monkey vaccine” - but has faced criticism over the pricing, and for sidestepping importation and administration of the vaccine through government channels. 
+
+In Pakistan, the government has been forced to fix the price of Sputnik V at around $55 (Sh6,033) for the two doses, with Transparency International believing the price is still too high. The Pakistani importer has this week been threatening to re-export the cargo if the government did not fix the price. 
+
+Designed for poor countries 
+
+The emergence of Covid-19 vaccines as the next frontier for big business had been overlooked since the distribution channels involved not-for-profit organisations and government-to-government deals. 
+
+While Sputnik had been hailed as designed for poor countries and priced at $10 (Sh1,100), the pricing in Kenya and Pakistan rose to over $70 (Sh7,680) a dose. 
+
+Another fear has been on the emergence of a grey market, where extra vaccine doses not meant for export find their way into the commercial market. At the moment, Kenya has no rules on inoculations by the private sector. 
+
+In Pakistan, the local chapter of Transparency International has said the procurement of Covid-19 vaccines by private sector for commercial sale was “at high inflated price”. 
+
+The only other country where commercial sale has taken place is Lebanon, where media reports say the vaccine is being offered at a cost of $38 (Sh4,170) for the required two doses by Mr Jacques Sarraf, a local businessman and owner of a large pharmaceutical company, Pharmaline. He is also the honorary consul of the Russian Federation in Lebanon and he is distributing the vaccine through government channels. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+‘Very cheap’ price 
+
+That means that Kenyans are going to pay double for a similar dose, if the Nanyuki price prevails. 
+
+“The vaccine will be offered at a ‘very cheap’ price of $38 for the two doses and that the money will be paid by companies seeking to vaccinate their employees,” said Mr Sarraf. 
+
+He told the local press that he asked the Russians for the vaccine: “I pressed through all the contacts that I have and I told them to let me help my country at the current time, since I’m serving Russia’s interests in Lebanon,” Mr Sarraf was quoted. 
+
+While there is transparency on the people involved in the private importation of Sputnik in other countries where it is being commercialised, the identity of the Kenyan importers is shrouded in mystery. 
+
+While the Ministry of Health says that the vaccine is not in the country, the importers -- Dinlas Pharmaceuticals, claim the vaccine was imported with the full knowledge of the ministry. 
+
+And now, with an MP challenging the board to come clean over the importation, it seems we have not heard the last on Sputnik V, sold globally by a company whose vision is "to change the face of Russian capitalism". Health ministry maintains it’s not party to any agreement allowing distribution and sale of Russian vaccine to Kenyans. While Ministry of Health officials say they are unaware of any clearance to import Sputnik V, letters by Pharmacy and Poisons Board show early approvals. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
