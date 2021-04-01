@@ -1,0 +1,269 @@
+A bookcase is a great room divider in case you’re working with a small space.It can fit just about anywhere in your home, besides the living room and dining room. Long gone are the days when bookcases were strictly used to display books, they have since metamorphosed to become stylish décor pieces that can hold mementos, or styling pieces such as vases, picture frames, trophies, and a few books thrown in, even purely decorative ones.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Due to its versatility, this multi-functional décor piece has become popular in many homes, and is an effortless, affordable way to lend your living space some freshness. 
+
+Affordable because your local fundi can put together a simple one for you and paint it a brilliant white which will instantly light up your space. 
+
+A bookcase can fit just about anywhere in your home, besides the living room and dining room. It would come in handy in the bathroom too, a home office if you have one, even in your bedroom as extra storage.  
+
+To get you started, here are eight effortless ways to alter your space using a bookcase. 
+
+1. As a book storage 
+
+This is its most obvious use, what this piece of furniture was intended for. Use it to display the current books you are reading and the ones you have already read rather than storing them in a box somewhere or leaving them scattered all over the place. If you have children, displaying books on the shelves will go a long way in instilling a reading culture in them. Place the bookcase in your living room, study room or office if you have one. 
+
+
+
+
+
+
+Wooden bookcase in brown living room. Pool | Nation Media Group 
+Photo credit: Pool | Nation Media Group
+
+ 
+
+2. As a bedside table 
+
+For this purpose, make it small and shorter than a normal bookcase such that it can hold a bedside lamp. Underneath on the shelves you can place your bedtime reads, perhaps a clock, mobile phone, diary and other knickknacks that can make this space attractive. If your space is limited and you work from home most of the time as most organisations have embraced the work-from-home arrangement to contain the spread of Covid-19 pandemic, a more specious bookshelf will come in handy to hold all the items you normally use in the office such as a laptop and notebooks. This shelf could also have a study nook with space for a single chair and small table. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+3. As room partitioning 
+
+A bookcase can work as a great room divider in case you’re working with a small space. It works by carving space that was non-existent and is ideal if you have kids and want to create a study-from-home station. In doing so, consider leaving some spacing in between the partitioning to allow free movement between the two spaces. Besides books, display a variety of items such as artwork, family photos and vases. 
+
+
+
+
+
+
+If you have children, displaying books on the shelves will go a long way in instilling a reading culture in them.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+4. As shoe storage 
+
+Of course, this one will need some modification to serve as a shoe rack, but while at it, maintain the box shape since it is able to hold more than one pair at a time, saving space. This can go along the corridor, under the stairway or on any other space that has no use.  
+
+5. As utensils holder 
+
+The kitchen must be the busiest room in a home and the one that holds most items, therefore it could do with extra storage space. An open shelf gives you the opportunity to display your beautiful utensils such as your pricey serving dishes, plates and cups. 
+
+
+
+
+
+
+An open shelf gives you the opportunity to display your beautiful utensils such as your pricey serving dishes, plates and cups.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+The open shelves also make it easier to spot what you require when cooking. While designing a case for the kitchen, consider maximising your space by making horizontal shelves. Other items that could go on this storage area and spices and other cooking ingredients. Rolling carts that slide under your shelves are also good because they utilise that hidden space. 
+
+6. As a storage ‘door’ 
+
+With restricted space in most homes, designers have devised innovative ways to create room where there was none. One such was is mounting shelves or cubicals on the bathroom door or kitchen door to create storage shelves which can hold bathroom or kitchen towels, soaps and other items. 7. Corner bookcase 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Corner bookshelves provide a perfect place to display your books, photos of people that you hold dear, stylish clocks and flower vases. This can easily fit into any corner of your space including in the bathroom to hold tissue paper, soap, detergent and towels. 
+
+
+
+
+
+
+Corner bookshelves provide a perfect place to display books, photos and flower vases.
+Photo credit: Pool | Nation Media Group
+
+ 
+
+8. As a locker 
+
+This is a good way to store things you’d like to keep away from curious children such as detergents and other cleaning items. 
+
+vraballa@ke.nationmedia.com Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
