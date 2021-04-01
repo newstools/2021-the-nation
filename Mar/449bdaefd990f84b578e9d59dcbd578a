@@ -1,0 +1,227 @@
+The Covid-era work-from-home phenomenon has shown, with a good connection it’s possible to work anywhere in the world.In parts of Africa though, that is still a problem because electricity supply is erratic or not available upcountry. Every other day when I talk to Kenyans and Ugandans about the impact of Covid-19, a case of a “Covid exile” frequently comes up. Covid exiles are the people who fled the cities for the safety of the countryside. And they have done so well they aren’t coming back. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I am told of a reasonably wealthy family from western Kenya which created a new business in their Covid refuge and are looking for a tenant for their Karen home.  
+
+Another couple, also from Western, started a practice to “pass time” as they waited out Covid. The money rolled in, and combined with the bliss of a nice home, spacious compound and a small forest on their property, where the birds never stop singing, they have closed their Nairobi office. 
+
+In Uganda, two fairly successful city folks I know went home to lie low. One became a successful farmer; the other cashed in on the digital dependency to provide internet and related services in his home area and has become a techpreneur. 
+
+Covid-19, however, cannot claim to have started this trend. The most it can boast of is accelerating it. In 2019, reports were already speaking of a mini exodus from many African cities by professionals going to become farmers, environmentalists, create local innovation hubs or start schools.  
+
+A Ugandan couple in Kampala was so fed up with life in the city that they decided to go off the grid: Build a home on the outskirts of the capital, grow organic food, raise cows for milk and run on solar energy. The only thing they didn’t do was homeschool their children — which is a growing trend with Uganda the regional leader. They succeeded wildly and became leading organic food and fertiliser producers. 
+
+So, what has driven this trend? Many things, many of them unintended. It reminded me a story about the peril of the pub in the western world. The forecasters had it that online delivery would be the death of pubs. They reasoned that many people would choose to stay home, watch their sports on TV and have their booze (bought at a lower price) brought home, with a pizza thrown in. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Well, it didn’t quite happen that way. The pubs are threatened alright, but by a foe they didn’t see coming — dating apps. Turns out many people go to pubs to find new friends, hoping they turn into the love of their life — or even just ‘friends with benefits’. Such people do something else that is important for pubs, and restaurants and clubs: They buy more expensive drinks and meals. 
+
+Now with people able to swipe right and find a date on an app, the pub is facing competition it has no answer to.  
+
+Work anywhere 
+
+Many factors are driving this exit from the city. Among them, first, the internet. As the Covid-era work-from-home phenomenon has shown, with a good connection it’s possible to work anywhere in the world. 
+
+In parts of Africa though, that is still a problem because electricity supply is erratic or not available upcountry. That is where, secondly, solar power has disrupted things. Many people are able to power their homes with it, however far away from the grid they are.  
+
+One Christmas sometime back, I remember travelling in a remote part of Uganda and I was struck by a surprising sight on the roadside markets. Whether the vendors were selling grain, tomatoes, bananas or whatever, the one item they all had beside the food were small solar panels. Even the grass-thatched huts in the villages had gleaming panels mounted on them. 
+
+The third is the mobile phone and, most critically, mobile money. Having to walk into a bank to physically transact even for the smallest thing used to be an important reason people lived and worked in and near towns. With mobile money, and internet banking, that specific need is diminished. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The fourth is infrastructure. Though still inadequate, some African countries have built more infrastructure in the past 25 years than they did over the previous 50. It has reorganised markets and shifted (reasonably more skilled) populations around dramatically and made location in the big city that less important. 
+
+It has even altered the dynamics of travel between countries. A Ugandan expatriate in Nairobi told me she hadn’t been to Kampala in over two years. 
+
+“But you go home frequently,” I said, puzzled. Her home is in western Uganda. 
+
+“Yes, I do,” she said, “but these days it is quicker and cheaper for me to fly from Nairobi to Kigali and then drive across the border.” 
+
+I shouldn’t have been puzzled. If I need to go for a funeral in eastern Uganda, I no longer travel a day or two early: I catch a morning flight to Kisumu, take a car via Busia border and get to the funeral just as the priest is clearing his throat to begin his terrifying hour-long homily. 
+
+If I wanted to, I could live in Tororo and work in Nairobi. 
+
+Charles Onyango-Obbo is a journalist, writer and curator of the Wall of Great Africans. @cobbo3 Magufuli shattered most of how the person who rules Tanzania as its leader were supposed to conduct themselves. African regimes have a history of reserving the most extreme, and bizarre, treatments for journalists. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
