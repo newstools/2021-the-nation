@@ -1,0 +1,255 @@
+The Hague 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The International Criminal Court (ICC) on Wednesday upheld the acquittal of Ivory Coast's former president Laurent Gbagbo on crimes against humanity charges, paving the way for his return home after a decade away. 
+
+Gbagbo gave the thumbs up in court as judges dismissed an appeal by prosecutors over the shock 2019 decision to clear him and his youth leader Charles Ble Goude over a wave of post-electoral violence. 
+
+The first head of state to stand trial at the tribunal, Gbagbo, 75, had denied all charges over the bloodshed in which 3,000 people were killed after he disputed the results of elections in 2010. 
+
+Rejected appeal 
+
+Appeals judges "reject the appeal of the prosecutor and confirm the decision of the trial chamber" which originally dismissed the case, presiding judge Chile Eboe-Osuji said. 
+
+The judge said the ICC "hereby revokes all remaining conditions on the release of Mr Gbagbo and Mr Ble Goude" and ordered court officials to "make arrangements for the safe transfer of Mr Gbagbo and Mr Ble Goude to a receiving state or states." 
+
+Gbagbo has been living in Brussels under the court's orders since his release from detention in 2019, but had planned to return to Ivory Coast if cleared, thanks to an olive branch offered by his erstwhile rival Alassane Ouattara. 
+
+"Today’s decision is a step in the direction of true reconciliation," his defence team said in a statement. 
+
+'Exceptionally weak' case 
+
+Gbagbo stood up in the courtroom and applauded at the end of the hearing, while Ble Goude shook his fists in a sign of victory, an AFP correspondent in court saw. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Around 15 supporters in brightly coloured clothes danced and sang outside the ICC after the decision. Ble Goude later emerged to hug them. 
+
+After elections in 2010, Gbagbo refused to hand over power to Ouattara, the current president, sparking an outbreak of violence. 
+
+But French troops eventually intervened and Ouattara's loyalists drove Gbagbo from his bunker. He was sent to the ICC in The Hague in 2011. 
+
+
+
+
+
+
+Gbagbo’s right-hand man Charles Ble Goude raises his fist as he enters the courtroom of the ICC in The Hague on March 27, 2014.
+Photo credit: Michael Kooren | Pool | AFP
+
+ 
+
+Burden of proof 
+
+Gbagbo's trial started in January 2016, but three years later judges said they had found that prosecutors had "failed to satisfy the burden of proof to the requisite standard." 
+
+It was one of the ICC's biggest failures since it was set up in 2002 as the world's only permanent war crimes court. 
+
+Prosecutors then appealed, focusing on what they said was a procedural error when judges in 2019 initially handed down the decision orally, and did not issue a full written judgement until months later. 
+
+But the ICC dismissed the prosecution arguments on Wednesday, saying it was "self-evident" the verdict had been the same whatever the timing of the written judgement had been. 
+
+The appeals judges also upheld the original findings that the evidence offered against Gbagbo was "exceptionally weak". 
+
+Closely watched 
+
+The verdict on Wednesday was being closely watched in Ivory Coast, where Gbagbo's shadow still hangs over a nation that remains mired in political crisis. 
+
+Gbagbo was president from 2000 to 2010, a time of turmoil in the world's top cocoa grower, formerly a haven of peace and prosperity in troubled West Africa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+His old foe Ouattara ignited fresh unrest last year when he announced he would seek a third term in office — a scheme that critics said sidestepped constitutional limits. 
+
+Clashes claimed 87 lives while most of the opposition snubbed the October ballot -- which Ouattara won by a landslide. 
+
+But after Ouattara offered to give Gbagbo passports to aid his return, Gbagbo's Ivorian Popular Front (FPI) party ended a years-long electoral boycott. 
+
+Wednesday's judgment was key for the credibility of the ICC after a string of high-profile failures and controversies over the fact that it has largely focused on African suspects. 
+
+Outgoing ICC prosecutor Fatou Bensouda suffered a series of setbacks including the Gbagbo case and the acquittal on appeal of DR Congo former vice president Jean-Pierre Bemba. 
+
+Kenyan President Uhuru Kenyatta also saw charges of crimes against humanity over electoral bloodshed dropped by Bensouda. 
+
+Bensouda meanwhile is under US sanctions for an ICC probe into Afghanistan, while her investigation into the Palestinian territories has enraged Israel and Washington. The former Ivory Coast president is on trial over the death of over 3000 people. Cote d’Ivoire strongman Laurent Gbagbo has dispatched emissaries to various countries in Africa to seek support Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
