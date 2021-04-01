@@ -1,0 +1,283 @@
+Hamilton crossed the finish line less than a second ahead of Verstappen. During the race, he broke the all time record that the legendary Michael Schumacher held of leading 5,111 laps in Formula One.Bottas completed the podium and by doing so, saw himself, Hamilton and Verstappen equal the record of 14 podiums for a trio of drivers that was held by Hamilton, his former teammate, Nico Rosberg and Vettel. Perez came through in fifth, behind McLaren’s Lando Norris. Next up is Imola in mid April. Mercedes’ driver, Sir Lewis Hamilton, got his 2021 season off to the best start by taking the chequered flag at the Bahrain International Circuit where Red Bull had been expected to shine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Red Bull’s Max Verstappen had taken pole on Saturday, beating Hamilton comprehensively by 0.388 seconds, to declare his intent of wrestling the championship from the seven-time world champion this year. 
+
+Such was the pace of the Red Bull that Verstappen managed three purple sectors in the final push for pole. 
+
+An exciting race was expected, given that Verstappen’s pole had excited the Formula One community and it didn’t disappoint. 
+
+Given Verstappen’s pace, another talking point was whether his new teammate, Mexican Sergio Perez, would match his speed or at least play an active role as a wing-man. 
+
+Perez’s first start to a race in a Red Bull almost ended in disaster as his car stalled on the Formation Lap, leading to frantic efforts to get it going. This led to a second Formation Lap. 
+
+The Mexican, who had a disappointing qualifying session missing Q3 by just 0.035 of a second, was able to get power back on and had to start the race from the pit lane as a result. If there is a driver who is unfazed at starting last, it is Perez as time would tell. 
+
+Shortly after the start which Verstappen executed with prowess to keep Hamilton at bay, one of the rookies, Russia’s Nikita Mazepin, spun off and hit the barriers. 
+
+The Haas driver was too hard on the throttle at the exit of Turn Three and went off on the left side of the track, a few metres from where another Haas driver, Romain Grosjean, survived a crash miraculously last year when he weaved to the right dangerously and hit the barriers. 
+
+Hamilton’s teammate, Valtteri Bottas, came under pressure and lost a position to Ferrari’s Charles Leclerc just before the Safety Car came out.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Seconds after the restart on the fourth lap, Mick Schumacher, who is son to seven-time world champion Michael Schumacher, spun in the other Haas at Turn Four,  losing his rear just like his teammate, but with no hard consequences. 
+
+A Virtual Safety Car was deployed when Pierre Gasly lost the front wing of his AlphaTauri after hacking the back of Daniel Ricciardo’s McLaren. 
+
+At the front, Verstappen and Hamilton were beginning to open the gap on the rest of the team. 
+
+The Mercedes drivers were told that Verstappen had a problem with his differentials, cue for them to hunt down the race leader. Verstappen was managing Hamilton, keeping him out of DRS range, but he was biding his time for any opportunities that a different strategy would spring up. 
+
+Mercedes pulled the trigger at the end of the 13th lap, bringing in Hamilton for a fresh set of hard tyres, given that they did not have any set of new mediums left. 
+
+Verstappen and Hamilton had already opened a gap of more than six seconds to Bottas in third place. The question now was for how long Verstappen would keep going. 
+
+The longer the Dutchman stayed out, the more the probability that Hamilton would inherit the lead if he pitted. It did not help matters for Red Bull that Hamilton soon set fastest laps. Bottas pitted at the end of the 16th lap. 
+
+Four-time world champion Sebastian Vettel was running in seventh position from second last at the start of the race when Verstappen pitted and took on a set of new mediums. 
+
+The Red Bull driver fell seven seconds behind Hamilton. Having not pitted so far, Perez was now third from last on the grid. Bottas overtook him easily soon after. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Verstappen, on newer and faster tyres, was consistently reducing the time to Hamilton. At the halfway mark of the race, he was just 2.1 seconds behind the Brit. 
+
+Mercedes brought in Hamilton shortly after he said he couldn’t go any faster. He dropped to third. He expressed his concern that they’d pitted too early but he was told that the decision was made in order to cover an undercut by Red Bull. 
+
+Bottas also pitted in a bid to undercut Verstappen. This did not go well as the Finn was stationary for 10.9 seconds, in a botched up stop. 
+
+Meanwhile, Perez came in for his final stop on the 38th lap, Verstappen coming in a lap later for his second and final stop. 
+
+The Red Bull crew managed a whopping 1.9-second pit stop to give their man a morale boost for the 16 laps he had left to get the better of Hamilton. The Brit was 8.7 seconds ahead. 
+
+Six laps from the end of the race, Verstappen was on the verge of getting into DRS range of Hamilton. Mounting pressure saw the seven-time world champion lock up at Turn 10 and go slightly off track. 
+
+It worked to Verstappen’s advantage. With three laps to go, Verstappen took the outside of Turn One and used it to fillip out of Turn Three and with DRS advantage, pass Hamilton into Turn Four. “Get in there Max,” was the radio message he got seconds later for his brave move. 
+
+Verstappen had, however, run off track in seeking to make the move against Hamilton stick. He was ordered to hand the position back to the Brit. 
+
+That seemed to fluster the Dutchman who did not manage another attempt to overtake, despite having been advised earlier to preserve his tyres so that he could have a strong fighting chance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Hamilton crossed the finish line less than a second ahead of Verstappen. During the race, he broke the all time record that the legendary Michael Schumacher held of leading 5,111 laps in Formula One. 
+
+Bottas completed the podium and by doing so, saw himself, Hamilton and Verstappen equal the record of 14 podiums for a trio of drivers that was held by Hamilton, his former teammate, Nico Rosberg and Vettel. Perez came through in fifth, behind McLaren’s Lando Norris. Next up is Imola in mid April. 
+
+amwangi@ke.nationmedia.com Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
