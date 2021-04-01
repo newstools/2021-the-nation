@@ -1,0 +1,155 @@
+Washington 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sudan has paid $335 million as agreed to compensate victims of past anti-US attacks as part of a deal that removed the struggling country from the US terror blacklist, Secretary of State Antony Blinken said Wednesday. 
+
+The transitional, civilian-backed government provided the funds for survivors and victims' families from attacks including the 1998 bombings of the US embassies in Kenya and Tanzania by Al-Qaeda, which was backed by Sudan's then dictator. 
+
+"We hope this aids them in finding some resolution for the terrible tragedies that occurred," Blinken said in a statement. 
+
+New chapter 
+
+"With this challenging process behind us, US-Sudan relations can start a new chapter," he said. 
+
+"We look forward to expanding our bilateral relationship and to continuing our support for the efforts of the civilian-led transitional government to deliver freedom, peace and justice to the Sudanese people." 
+
+Sudan agreed to the package last year as it desperately sought to exit the US blacklist of state sponsors of terrorism, a designation that severely hindered investment in a country rattled by unrest over tough economic conditions. 
+
+Former president Donald Trump agreed last year to remove Sudan but only after securing an agreement by Sudan to recognize US ally Israel. 
+
+The delisting enjoyed wide agreement in Washington although some said it was unfair by focusing on US victims and not providing the same compensation to Africans who made up the bulk of the dead in the 1998 bombings. 
+
+The compensation will also cover the 2000 attack by Al-Qaeda on the USS Cole off Yemen's coast and the killing of US development worker John Granville in Khartoum in 2008. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+9/11 attacks 
+
+Some lawmakers had also pushed for Sudan to pay compensation to the victims of the September 11, 2001 attacks. 
+
+Strongman Omar al-Bashir, who welcomed Al-Qaeda as part of an Islamist turn in the 1990s, was toppled in April 2019 after mounting street protests. 
+
+Prime Minister Abdalla Hamdok has vowed to turn a page by ending conflicts and bringing more economic opportunities, and put an early priority on reconciling with the United States. 
+
+Last week the United States said it had assisted Sudan with more than $1 billion in credit to clear arrears, making the country again eligible for support from the World Bank and IMF. Move is part of a quid pro quo for Sudan normalising relations with Israel. The two countries have signed a bilateral agreement to settle pending claims for the African nation's delisting as a State sponsor of terrorism. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
