@@ -1,0 +1,145 @@
+Trust is a vital currency for optimal functioning of society. Its absence slows the wheels of fortune.A few years ago, a survey established that the youth, given a chance, had no qualms about partaking in corruption. In a 2002 BBC Reith Lectures, “A Question of Trust”, the moral philosopher Baroness Onora O'Neill bemoaned the crisis of trust in the British society. A great deal of society, she observed, had lost trust in politicians, media, conglomerates, hospitals. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Today, Kenya is no different from O’Neill’s world of yore. Ours is a society of pervasive dishonesty that we don’t know whom to trust. Crooks raid state coffers, politicians hardly keep election pledges, colleagues backstab one another, couples copiously cheat and traders tamper with weights and measures. Even the clergy can barely be trusted. 
+
+Yet trust is a vital currency for optimal functioning of society. Its absence slows the wheels of fortune. It robs life of its natural beauty. For instance, when the first case of Covid-19 was detected in Kenya, there was mixed reaction. Some took it seriously. Others doubted the government’s message. Cynics dismissed it as “a ploy to charm Western aid”.  
+
+Even the vaccine is distrusted, thanks to merchants of disinformation and lack of clarification. But to what degree is the ordinary mwananchi trustworthy? 
+
+Corruption 
+
+Let’s start with corruption. Do we chastise the corrupt because we are impeccable, we fathom the nuanced implications of corruption or we have not found an opportunity to steal? 
+
+A few years ago, a survey established that the youth, given a chance, had no qualms about partaking in corruption. 
+
+Still, if you want to understand the severity of dishonesty and distrust, ask any bar owner. Waiters and waitresses sneak into bars bottles of alcohol, mainly mid-sized spirits, that can fit in a pocket or purse and selling this illegal stock first. At the end, the owner is left with dead stock and bills to pay. 
+
+There is even a new trend: Shop attendants in major stores are now in cahoots with smaller businesses. While shopping in a major store, there is a likelihood that an attendant will declare an item out of stock but helpfully guide you to a different outlet.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dishonesty appears systemic, hardwired in our system. The social disaster affects trade, jobs and social engagement. It is time for introspection, change. 
+
+Mr Wamanji is a communication expert. wamanjipr@gmail.com. @manjis Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
