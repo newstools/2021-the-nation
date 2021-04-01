@@ -1,0 +1,171 @@
+Microsoft has won a Pentagon contract for augmented reality headgear for soldiers worth $21.88 billion over the next decade, the company and the US military announced Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The headsets, based on commercially available HoloLens, will make soldiers safer and more effective, according to Microsoft technical fellow Alex Kipman. 
+
+
+
+
+
+ 
+
+The Department of Defence (DoD) said the production agreement is for five years with a renewal option -- that could make the contract worth "in excess of $21.88 billion" over 10 years, a Pentagon official said in a statement. 
+
+Microsoft will rapidly start producing the so-called Integrated Augmentation System under the contract. 
+
+The award aims "to deliver next-generation night vision and situational awareness capabilities to the Close Combat Force at the speed of relevance," the Pentagon said. 
+
+A head-mounted display used by soldiers for battle and training employs sensors for night and thermal vision in addition to providing data for help in engaging targets and making tactical decisions, officials said. 
+
+"The program delivers enhanced situational awareness, enabling information sharing and decision-making in a variety of scenarios," Kipman said in a blog post. 
+
+
+
+
+
+ 
+
+The contract shows that Microsoft can make money from its augmented reality offerings with the military and likely heralds expanded uses by private businesses as well as consumers, according to Wedbush analyst Dan Ives. 
+
+"The second and potentially most important point is this deal just further drills in the narrative that Microsoft is tightening its grip on deals within the DoD and Pentagon," Ives said in a note to investors. 
+
+'Cloud arms race' 
+
+The Pentagon late last year said it was sticking with its decision to award a $10 billion cloud computing contract to Microsoft, despite Amazon's claims that former president Donald Trump improperly influenced the process. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"In a cloud arms race, Microsoft right now has the momentum," Ives said. 
+
+The Redmond, Washington-based company recently launched a platform called Mesh, in which long-distance co-workers can collaborate as though in the same room, using augmented reality glasses and cloud computing power. 
+
+"One of the easiest ways to think about it is Microsoft Mesh connects the physical and digital worlds, allowing us to transcend the traditional boundaries of space and time," co-creator Simon Skaria said in a video presentation. 
+
+Mesh is powered by Azure cloud computing systems that combine data centre processing power with artificial intelligence. 
+
+HoloLens headgear with a $3,500 price tag overlays digital imagery on real-world settings, but the Mesh platform has the potential to be synced to virtual reality gear such as Facebook-owned Oculus as well as smartphones, according to Kipman. 
+
+Apple, Google, and Facebook are among the tech titans investing in mixed reality. 
+
+Microsoft company expects outside developers and partners to build applications on Mesh, and is working to integrate it in products such as Teams virtual collaboration service. Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. The revelations have become public in a filing by Fatou Bensouda opposing the lifting of the arrest warrant against the lawyer.
