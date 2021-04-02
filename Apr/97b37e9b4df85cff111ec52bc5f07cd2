@@ -1,0 +1,369 @@
+BY LUCY MKANYIKA  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The growing criticism facing Taita Taveta county government over alleged underdevelopment has threatened Governor Granton Samboja's plans of seeking re-election in the 2022 General Election. 
+
+The governor's administration has been under sharp criticism from local leaders over poor performance and inefficient service delivery. 
+
+The county government has found itself on the receiving end, attracting heated criticism in the recent past.  
+
+Mr Samboja has blamed the previous administration under former Governor John Mruttu for slow development in the county.  
+
+In his previous remarks, the governor claimed that his predecessor left behind pending bills worth Sh1.2 billion, which has forced him to shelve his development agenda, to pay the debt which had accumulated from 2013 to 2017, thereby stalling projects.   
+
+"The funds we receive go to payment of pending bills and salaries. What remains is little for us to do development," he said. 
+
+His critics have however claimed that the governor is using pending bills as a scapegoat to justify his underdevelopment record. 
+
+Stephen Mwakesi, a resident, said there is little absorption of development funds by the county government, a situation that has made the administration lag behind. 
+
+"Pending bills are always there, so the low absorption is blamed for lack of government to use the funds when they are available. We have a significant number of incomplete projects, some not implemented, while others have stalled," he said.  
+
+Residents have been accusing the county of poor health services and failure to address the water shortage problem. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the governor's political advisor Bigvai Mwailemi said the county government has improved health services by the construction of new health facilities in far-flung areas.  
+
+"The county has ensured its 67 healthcare facilities across the county are well equipped. New services including cancer and eye clinics have been started at Moi County Referral Hospital in Voi," he said.  
+
+
+
+
+
+
+
+
+
+
+
+ICU beds at Mwatate sub-county hospital in Taita Taveta county.  The county is set to open an ICU centre at the hospital to improve critical care services to residents.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+He said Samboja's administration had achieved a lot for the residents including improved health care, road infrastructure, agriculture, water supply and a better business environment for traders. 
+
+"The critics are peddling lies because of their political interests. We have had challenges in the disbursement of funds from the Treasury and that is one of the reasons for slow implementation of projects," he added. 
+
+However, in December last year, nurses and clinical officers went on strike that led to the sacking of over 400 staff, paralysing services. 
+
+It was only this week that the nurses' impasse was resolved, but after residents in need of critical care had been forced to seek treatment in private facilities in the county or travel outside the region for the services.  
+
+The county's hardline stance to force the sacked workers to appeal to the County Public Service Board for them to be reinstated to work has raised criticism by locals. 
+
+Although the county government has recruited 79 new nurses, the number is not enough to fill the positions left by the sacked medics. Over 140 sacked medics have been reinstated to work after they were cleared by the board. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Maternity and theatre services for caesarian section and minor procedures have resumed at Moi County Referral Hospital in Voi. We expect male and female wards to be up and running by end of next week," said county executive for Health John Mwakima.  
+
+On water shortage, various areas of the county are also facing perennial shortages of the commodity.  
+
+However, the county recently received Sh2.5 billion to address water challenges in its major towns including Voi, Mwatate, Wundanyi and Taveta. 
+
+Far-flung areas especially in Mwatate and Wundanyi are still grappling with water shortage, forcing villagers to walk long distances in search of the commodity, for both domestic and livestock use. 
+
+
+
+
+
+
+
+
+
+
+
+Covid-19 isolation centre in Mwatate, Taita Taveta county. The Sh35 Million facility is among Governor Granton Samboja's latest project.
+Photo credit: Lucy Mkanyika I Nation Media Group. 
+
+ 
+
+"We walk for 16 kilometres to fetch water. We have to wake up very early in the morning to walk to the borehole to draw the water," said a Mwaktau resident Balzatry Ngati. 
+
+Mr Mwailemi however says that the water problem in the area will soon be a thing of the past after the county government in partnership with the European Union kicked off a Sh89 million Nyangoro-Maktau water project.  
+
+The project is expected to serve more than 17,000 residents in Maktau, Godoma and Mwashoti areas in Mwatate sub-county.  
+
+A fortnight ago, traders in Wundanyi invaded their old market after waiting for three years for the completion of the project. 
+
+The department of Trade had demolished the market in 2018, to pave way for the construction of a Sh10 million modern market.  
+
+The market was to be completed early this year, but the project stalled, forcing the traders to suffer while awaiting its completion. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"We have gone back to our old trading area because no project is going on here," the traders' chairperson Liverson Mwamburi said. 
+
+Another county government official, Wilfred Mwalimo, said they have terminated the contract after the contractor failed to adhere to set timelines.  
+
+"The new contractor will be on-site immediately to resume the work," he said. 
+
+Determined to put his house in order, Mr Samboja last month announced a reshuffle of his executive targeting county executive members and chief officers in various departments, ostensibly in response to a series of complaints from residents, over the alleged incompetence of his executive.  
+
+The county executive for Education, Libraries and Vocational Training Daniel Makoko, was moved to Trade, Tourism and Cooperatives docket which was under Ms Vumi Ringo. Mr Makoko was replaced by Ms Defence Manga who was in charge of Devolution, Public Service and  Administration. 
+
+Ms Vumi Ringo who is the recent entrant in Samboja’s executive was reshuffled to Trade, Tourism and Cooperatives department to now head the Youth, Sports, Gender, Culture and Social Services department. Mr Laban Mwashighadi who had occupied the office will now take over the Devolution department.  
+
+However, the rest of the county executive members of key departments including John Mwakima (Health), Davis Mwangoma (Agriculture and Livestock), Andrew Kubo (Finance), Esther Mwanyumba (Water), Mwandawiro Mghanga (Lands) and Gasper Kabaka (Public Works, Infrastructure, Transport and Housing) will remain in their substantive positions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Further, the governor also appointed Ms Joyce Mwachia as County Chief Officer for Finance and Economic Planning. Ms Mwachia, who was the director of Finance replaces Leonard Langat who was moved to Public Works, Infrastructure, Transport and Housing department.  
+
+In a statement, the County director of communications  Dennis Onsarigo, the reorganisation targeted to improve efficiency and service delivery across key departments. 
+
+"The re-organisation of the executive is in an effort of aligning the departments’ output with the government’s County Integrated Development Plan (CIDP)," Mr Onsarigo said in a statement. 
+
+Mr Lewis Mwakamba, said the residents hope that the reorganisation will significantly improve the situation. 
+
+The county officials said various projects are set to be completed by May. The projects include a fire station in Voi, Nyangoro water project, Ngerenyi High Altitude centre, Mwatate isolation centre, Mwatate market, Wesu x-ray centre, among others. The politician attempted to aide the escape of three convicted drug traffickers. He also gave out his property to relatives and friends. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
