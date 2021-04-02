@@ -1,0 +1,153 @@
+Needy secondary school, college and university students from Kirinyaga County Wednesday received over Sh3 million in bursaries from the county government. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While presenting the bursary cheques at her official residence in Kagio, Governor Anne Waiguru said that only the neediest students benefitted from the money. 
+
+The governor said that funds, amounting to Sh3,081,000, would benefit 179 secondary school students, 50 university students and 22 college students. 
+
+Beneficiaries in secondary schools were awarded each Sh5,000 while those in  universities and colleges received between Sh15,000 and Sh30,000. 
+
+Additional disbursement 
+
+She noted that the disbursement was in addition to the Sh110 million bursary given to about 40,000 students earlier in the year. 
+
+Ms Waiguru said the county bursary fund is aimed at enabling students from poor backgrounds to remain in learning institutions after enrolment. 
+
+“My government remains committed to supporting the education of our children, the improvement of academic performance in our county and ultimately, the lives of our youth,” she said. 
+
+Observe Covid-19 protocols 
+
+The Kirinyaga governor also appealed to all the residents in the county to strictly adhere to the Ministry of Health’s Covid-19 prevention measures like wearing masks properly whenever in public, washing hands regularly with soap and observing physical distance. 
+
+She noted that the county has registered a total of 530 Covid-19 cases since the outbreak of the pandemic. Some 436 patients who were home-based care and 24 isolation centres in the county have so far recovered. 
+
+Currently, four patients are undergoing treatment in isolation centres while another 27 are recovering under the home-based care programme. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The county has lost nine people to the disease, two of them having died during the current third wave. 
+
+More than 4,000 people who include health workers, police officers, teachers and people aged 58 years and above have already been vaccinated in Kirinyaga. 
+
+The governor urged the elderly as well as people with underlying conditions to visit the nearest designated vaccination centre for the jab. Governor advises beneficiaries to take education seriously now that they have been awarded bursaries. Kirinyaga County has set aside Sh90 million as bursary for the most needy school children in the area. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
