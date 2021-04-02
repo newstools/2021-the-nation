@@ -1,0 +1,84 @@
+The Ministry of Agriculture, Livestock Fisheries and Cooperatives has apologised for a controversial tweet that was posted on its official Twitter account. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The handle @KilimoKe, shared two controversial tweets on April Fools’ Day under the hashtag #Uhuruamalizeande and #unlockthecountry, which were bashing the government. 
+
+While issuing the apology, the ministry claimed the account was temporarily hijacked. 
+
+
+The Ministry of Agriculture Livestock, Fisheries and Cooperatives apologises for controversial tweets sent out from this account twenty minutes ago, which was temporarily hijacked. Necessary security measures have been put in place to safeguard the account. Asanteni.— Ministry of Agriculture (@kilimoKE) April 1, 2021  
+
+The Ministry of Agriculture further indicated that the necessary security measures had been instituted to safeguard its official social media handle. 
+
+This isn’t the first time a State agency has found itself in hot water over a social media gaffe. In December last year, the Independent Electoral and Boundaries Commission (IEBC) came under fire after publishing an erroneous tweet. 
+
+While announcing the launch of signatures backing proposed changes to the Constitution, it used the phrase ‘burning bridges initiative’ instead of Building Bridges Initiative (BBI). 
+
+“Happening now: The launch of the Burning Bridges Initiative Supporters Verification Exercise at the Bomas of Kenya,” the tweet read. 
+
+While apologising for the post, IEBC chairperson Wafula Chebukati said that the error did not in any way reflect the position of the electoral body or its staff. 
+
+“Earlier today, the Commission posted a tweet on the launch of the Verification of BBI supporters. 
+
+However, there was a typographical error in the tweet which was made inadvertently. The error does NOT in any way reflect the position of the Commission or its staff,” he said at the time. The tweet was posted on Wednesday morning on the Commission's verified Twitter handle. Siaya Senator says message was "more than a simple Freudian Slip". Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
