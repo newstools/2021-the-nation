@@ -1,0 +1,153 @@
+Nairobi County accounts for 31 percent of all vaccination cases countrywide.Only seven percent of the Uasin Gishu residents or 15,933 have been vaccinated. Only six percent of residents of Nakuru County, or 15,496 people, have received Covid-19 jabs, the latest data released by the Ministry of Health shows. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nairobi County, which like Nakuru is a hotspot for Covid-19 infections, already has 74,394 people who have been vaccinated. 
+
+This figures, which translates to 31 percent of all vaccination countrywide, is the leading in the country. 
+
+Only seven percent of the Uasin Gishu residents or 15,933 have been vaccinated out of the 238,648 people who have been vaccinated countrywide as of April 1. 
+
+Other counties with over 10,000 vaccinations include Kisumu County where 10,670 people have received the jab while Kiambu County which is under lockdown has vaccinated 9,406 followed by Kajiado, also under partial lockdown, with 8,272 while Mombasa has vaccinated 7,436, Nyeri (6,695), Murang'a (6,460), Laikipia (5,307) and Trans Nzoia (5,142). 
+
+Bungoma and Kericho counties have registered more than 4,000 people respectively, Kisii, Kitui, Nyandarua, Siaya, and Vihiga have vaccinated over 3,000 people. 
+
+Narok, Baringo, Elgeyo Marakwet, Embu, Nandi, Kirinyaga, Kakamega, Machakos, Bomet, Busia and Meru have vaccinated more than 2,000 people. 
+
+Highest number of doses 
+
+Kilifi, Migori, Tharaka Nithi, Wajir, West Pokot and Samburu counties have registered over 1,000 people while Garissa, Taita Taveta, Nyamira, Makueni, Turkana, Kwale, Isiolo, Mandera, Tana River and Marsabit counties have registered less than 1,000 people. 
+
+Only 182 people have received the jab in Lamu County so far, which is the lowest in the country while 52 cases of adverse events have been reported so far. 
+
+"These are cases where recipients complained about a symptom or a sign attributed to vaccination. These cases go through thorough investigations,'" said a top health official. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to data, 82,150 healthcare workers have received the jab translating to 34 percent followed by security officers at seven percent or 17,466 officers while 13 percent of teachers countrywide or 30,495  have received the jab while 108,537 people or 45 percent of non-essential services cadre have been vaccinated. 
+
+The data shows that stocks at the national level are 314,000 doses and at regional depots, the stock status is 423,755 doses. 
+
+Nairobi has received the highest number of doses at 218,399 followed by Eldoret Region (69,254), Mombasa region (30,853), Kakamega region (22,962), Nyeri region (19, 484), Kisumu region (16, 303), Nakuru region (14,738), Meru region (13,370), Mandera (5,053),  Garissa region (5,015), Wajir region (4,615), and Turkana region (3,259). 
+
+fmureithi@ke.nationmedia.com Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. Failure to release funds has affected services, especially in the health sector. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
