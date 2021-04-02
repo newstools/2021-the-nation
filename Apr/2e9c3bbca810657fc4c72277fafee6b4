@@ -1,0 +1,155 @@
+Sugarcane farmers have asked the government to compel millers who generate more money from by-products to consider increasing cane prices. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The farmers lauded the Ministry of Agriculture for effecting an eight per cent rise in price from April 1, but added that they need to be paid more. 
+
+Kenya Sugarcane Growers Association (Kesga) Secretary-General Richard Ogendo said the farmers should be paid a minimum of Sh5,500 per tonne of sugarcane to enable them cater for the rising cost of cane production. 
+
+“It is unfair to have all companies pay the same amount to farmers while we know some make huge amounts of money from the effort and sweat of the growers,” Mr Ogendo told the Nation in Kisumu yesterday.  
+
+Difficult conditions 
+
+He added that just like the Kenya Revenue Authority, which collects taxes from the processors, farmers should be given a slice of the income from the by-products. 
+
+“Farmers understand some millers are operating under very difficult conditions and rely only on sugar production as their source of income. We, however, call on the Ministry of Agriculture to ensure those who make ethanol, molasses, electricity, paper and other products reward farmers for supplying them with the primary raw material,” Mr Ogendo added. 
+
+Agriculture Cabinet Secretary Peter Munya announced earlier this week that millers would from April 1 be required to pay Sh4,040 per tonne of cane delivered from the current Sh3,700 –  the prevailing price since 2018. 
+
+According to proposal by the Sugarcane Pricing Committee, owners and managers of millers who fail to adhere to the new price will face a Sh500,000 fine or a prison term of one year. 
+
+Sucrose testing 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Having considered that the prevailing sugar factory prices over the past three months was Sh4,659, the committee approved an increase in the price of cane from Sh3,700 per tonne to Sh4,040 effective April 1, 2021 in line with the industry cane-pricing formula,” Mr Munya said at a press conference in Nairobi on Tuesday. 
+
+But Mr Ogendo said the adjustment based on production of sugar is not enough for farmers to take care of the labour and capital-intensive crop. 
+
+Mr Munya further indicated that the government would be shifting from payment of cane based on weight system to relying on sucrose content from June. 
+
+“We have embarked on setting up 11 sucrose testing units in all the sugarcane-producing zones,” the minister told journalists.  
+
+“By end of June, we will complete the remaining two to enable us shift to the quality-based system of compensation where sugar will be tested for sucrose content.” 
+
+vraballa@ke.nationmedia.com Sugar Cane Pricing Committee increases the price of the raw material by eight percent. Kesma says most distributors of troubled millers’ sugar have cut down on the quantities of bags they purchase. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
