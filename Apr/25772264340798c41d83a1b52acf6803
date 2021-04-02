@@ -1,0 +1,80 @@
+Police in Mombasa have recovered parts of the metal beams vandalized from the Makupa Causeway bridge a fortnight ago. Mombasa County Deputy Police Commander Joseph Chebii and a team from the Kenya National Highways Authority (KeNHA) raided two scrap metal dealers along Mbaraki area, in Mombasa on Thursday afternoon, where they recovered a beam and other cut out steel beams, believed to have been from the vandalized bridge. “We have recovered some stolen items that we believe are parts of the vandalized material from the Makupa Bridge. For the last two weeks, we have been on the lookout and from our intelligence, today we managed to trace some of the heavy metals here,” Mr Chebii said. Speaking during the raid at scrap metal dealer shops, Mr Chebii said they have already arrested 2 culprits, while one escaped before they got to the scene. “We have confiscated metal bars, copper wires, and a gas cylinder which we believe was used in cutting the metal beams,” Mr Chebii said as he warned scrap metal dealers and vandals against destroying public utilities.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenya National Highways Authority (KeNHA) Coast Regional Deputy Director Howard M’mayi (right) looks at a gas cylinder believed to have been used to vandalize the Makupa Bridge after raiding two scrap metal dealers along Mbaraki area on Thursday afternoon
+Photo credit: Wachira Mwangi I Nation Media Group
+
+ 
+
+KeNHA Coast Regional Deputy Director Howard M’mayi lauded the effort by the police in apprehending the culprits, whom he said would lead them to the sellers. “We have experienced the worst form of vandalism in the last one month. This is economic sabotage. We have gone to the bridge, restored it to ensure the safety of users. However, it was our desire to see the vandals apprehended,” Mr M’mayi said. The Makupa Causeway, which is one of the three road links between the Mombasa island and mainland, including Nyali bridge and Kipevu causeway, was built by the British colonial government in 1929.  Kenya Truck Drivers Association said three trucks were attacked by a group of gunmen along Nimule-Juba road. He also gave out his property to relatives and friends. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
