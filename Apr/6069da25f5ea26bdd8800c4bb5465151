@@ -1,0 +1,83 @@
+Nairobi Metropolitan Services (NMS) has started upgrading eight open air markets in the city. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The facelift will see the markets have modern stalls, parking areas, new-look ablution blocks as well as link roads to improve accessibility. 
+
+The markets include Muthurwa Market, City Park market, Jericho market, Wakulima, Uhuru and three markets along Kayole Spine Road in Embakasi, Landhies Road and Toi Market. 
+
+NMS Director-General Major General Mohamed Badi said already the Public Works directorate has begun the upgrade works at both City Park and Muthurwa Markets. 
+
+“Upgrade of the eight markets into proper standards with ablutions, parking spaces and modern stalls,” said Mr Badi. 
+
+He said NMS is working together with the national government which will handle 20 markets. 
+
+Link roads to the markets will be improved to enhance accessibility while the parking spaces will ensure farmers have enough space to deliver their produce to the markets. 
+
+“The various parking spaces in the markets will also be upgraded to ensure that there is enough capacity for farmers to come deliver their products in the markets,” he said. 
+
+Nairobi currently has 20 open-air and 23 built up markets which are not enough for the huge population of merchants in the capital city. 
+
+However, five new markets including Mwariro, Westlands, Gikomba, Karandini and New Wakulima which have been constructed at a cost of Sh2.2 billion will soon be unveiled to add to the number. 
+
+At City Market, more than 70 percent of the renovation works, which had stalled for many years, have been done and the market will soon be re-opened.  The planned multi-storey parking will be digitally operated with motorists charged hourly. They were evicted to pave way for the construction of a perimeter wall. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
