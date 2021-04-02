@@ -1,0 +1,273 @@
+The firms have been accused of abetting money laundering and disbursement to individuals sanctioned for supporting terrorist groups.All the four firms are headquartered outside of Somalia, but have been used by individuals, NGOs and even UN agencies to send money to Somalia. Somalia has absolved four money remittance firms operating in the country from accusations of abetting money laundering and disbursement to individuals sanctioned for supporting terrorist groups. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a report published on Friday, the Somali Central Bank says there is insufficient evidence Amal, Iftin, Taaj and Dahabshill money transfer services were used to remit cash to individuals fingered for aiding the al-Qaeda group in the Gulf region. 
+
+The Somali regulator though noted that there has to be improvement on compliance and is proposing tougher penalties for those who flout. 
+
+“The CBS (Central Bank of Somalia) audit team did not find any evidence of UN sanctions list violations by the four MTBs mentioned in the GI-TOC report. More specifically, none of the senders or recipients of the funds were on any UN sanctions list at the time of the transactions,” says the report authored by the regulator’s Licensing and Supervision Department. 
+
+“Crucially, the alleged receipts published in the GI-TOC report are inconsistent with the official MTBs receipts (both paper and electronic) of the same period, suggesting that they may not be genuine. 
+
+Amal and Dahabshill, both headquartered in the UAE, also have affiliated banks licenses by the Somalia Central Bank. All the four firms are headquartered outside of Somalia, but have been used by individuals, NGOs and even UN agencies to send money to Somalia, through an informal system known as Hawala, where the banked population is low. 
+
+Investigation of transactions 
+
+The findings are based on a report by the Geneva-based Global Initiative Against Transnational Organised Crime (GI-TOC), in October last year, which said individuals had either directly or through proxies received money through the four transfer services. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The report arose from an investigation of transactions made through the four firms, amounting to $3.7 million in 18 transactions to purchase illegal arms. Two batches of payments amounting to $40,000 aroused suspicion for possibly settling illegal arms purchases from a sanctioned individual in Yemen. The payments were made from the city of Bosaso in Puntland. 
+
+Since 1993, any purchases of arms could be both illegal in the country and the region, given the UN Security Council's resolutions that are binding to all member states where the four firms are is licensed to operate. 
+
+GI-TOC had found no suspicious transactions on the part of Dahabshiil while Amal was particularly accused of not flagging cash sent to Abdulrab Salem al-Hayashi, who was in October 2017 sanctioned by the US Treasury. 
+
+He was sanctioned for “assisting in, sponsoring, or providing financial, material or technological support for, or financial or other services to or in support of” Al-Qaeda-linked terror groups in the Arabian Peninsula. 
+
+Anti-money laundering 
+
+On Friday, the CBS audit team said the firms had maintained adequate records of customers consistent with local and international laws.  
+
+“It is clear from the audit that the four MTBs applied acceptable simplified know your customer (KYC) and due diligence procedures.  
+
+“Therefore, the allegations of the GI-TOC report that there are “widespread gaps in anti-money laundering/countering the financing of terrorism (AML/CFT) controls, including the principle of ‘know your customer’ (KYC)” is not warranted,” the report said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The GI-TOC report had said a man named Abdirahman Mohamed Omar aka Dhofaye had sent money to al-Hayashi using Amal express in Bosaso in October 2019. The auditors said they found a man with a similar name, but had not sent money to individuals sanctioned for abetting terror. 
+
+“The CBS audit team’s investigation concludes that the claims in the GI-TOC report were unverifiabe. There was not any evidence showing that Amal Express was used by Abdirahman Mohamed Omar (aka Dhofaye) anytime over the past 5 years.”  
+
+“The names and proxies mentioned in the GI-TOC report; or persons in any sanctions list were not found in the Amal Express’ systems or its archives.” 
+
+Money transfer operators 
+
+The regulator said copies of receipts published by GI-TOC from Amal and Iftin “were not genuine, and carried false Quick Reader [QR] codes.  
+
+The GI-TOC report did not blame the firms for directly bending rules for sanctioned individuals. But it suggests tougher scrutiny of agents hired by the money remittance companies to ensure compliance. 
+
+Guled Jama, the CEO of Amal Express said in a statement the investigations vindicate their operations. 
+
+“Following the release of this investigative report by the Central Bank of Somalia and based on the fact that Amal Express has been exonerated of any wrong doing, we demand from GI-TOC an unconditional apology and for them to retract their report,” he said in statement.  
+
+Somalia, where seven in ten people are poor and some illiterate depends on the Hawala system to remit money to the poor. But there are challenges as no formal national identification system has been implemented, allowing individuals to use nicknames of multiple identification to transact. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The Central Bank of Somalia said it will use the findings to crack down on unregistered money transfer operators and compel licensed firms to be strict on compliance, especially since the investigation only limited itself to the identified firms and individuals suspected of laundering money. Mogadishu has continuously blamed Kenya for hosting and arming Janan and his militia. Somalia cut diplomatic ties with Kenya in December last year, accusing Nairobi of meddling with her internal affairs. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
