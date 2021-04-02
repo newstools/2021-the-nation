@@ -1,0 +1,75 @@
+Cooperative Bank of Kenya has received Sh1.1 billion ($10 million) loan from Luxembourg-based impact investment fund for on-lending to agribusinesses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lender yesterday said it has received the subordinated loan from eco.business Fund and will extend the same to sustainable agribusinesses, such as those in the coffee, tea, and horticulture. 
+
+The facility marks the first investment in Kenya for eco.business Fund, which specialises in promoting use of natural resources, and mitigating and adapting to climate change. 
+
+Co-op Bank chief executive Gideon Muriuki said in a statement that the loan will provide much-needed financing for agricultural businesses, especially in light of the Covid-19 hardships facing many businesses. 
+
+“This new partnership with eco.business Fund that makes available $10 million for on-lending to farmers is a winner on many fronts,” Mr Muriuki said. 
+
+“It provides financing that is structured to suit the financing cycles of agriculture, and also comes with the support mechanisms to assist farmers to make a successful pivot towards sustainable, climate-smart agriculture.” 
+
+Chairperson of the board of directors at eco.business Fund Jens Mackensen said the deal seeks to promote green finance in the country. Whereas all financiers have reported the inevitable decline in profit, the numbers tell a different story on how they operate. The lender was also named best bank in sustainable finance in Kenya at the June 2019 Energy Management Awards by the Kenya Association of Manufacturers. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
