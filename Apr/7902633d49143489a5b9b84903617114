@@ -1,0 +1,157 @@
+He told athletes in camp to prepare for tough Covid-19 measures. Hit Squad initially had 16 boxers in training.The Olympic-bound pugilists are Elizabeth Akinyi, Elly Ajowi, Nick Okoth and Christine Ongare. The "bubble" training camp for some of Team Kenya members to the Tokyo Olympic Games at the Moi International Sports Centre, Kasarani will continue. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Team Kenya chef de mission for the Games, Waithaka Kioni disclosed on Thursday that Sports Cabinet Secretary Amina Mohamed had given them the go-head to continue with the training camp but under tightened Covid-19 protocols. 
+
+There was uncertainty about the bubble camp following the lockdown of five counties by the government including Nairobi after a spike in Covid-19 cases. 
+
+The government also banned all organised sporting activities in the country. 
+
+“We are happy that the CS accepted our appeal since this will give our athletes, who have qualified and those yet to qualify, an opportunity to prepare well,” said Kioni. 
+
+Athletes in camp are those from athletics and taekwondo, who are at Kasarani, and women's volleyball at Kenyatta University. 
+
+The boxing team that recently returned from Africa Zone Three Championships in Kinshasa is expected to join camp after Easter Holiday. 
+
+Return to camp 
+
+The men and women's sevens rugby teams, Shujaa and Lionesses, are in the United Arab Emirates for the Dubai International Sevens tournament, and are expected to return to camp later in month. 
+
+Athletics have 32 athletes mainly sprinters and field events, taekwondo has eight fighters while volleyball has 19 with setter Jane Wacu, who is in Seychelles set to join camp after getting her second dose of Covid-19 vaccine. 
+
+Shujaa had 24 players at Kasarani, and Lionesses 18 players at Kenyatta University. 
+
+“Boxing team will members will first be quarantined before their Covid-19 test results come out. We shall do the same to the rugby teams,” said Kioni. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He told athletes in camp to prepare for tough Covid-19 measures. Hit Squad initially had 16 boxers in training. The Olympic-bound pugilists are Elizabeth Akinyi, Elly Ajowi, Nick Okoth and Christine Ongare. 
+
+“It will be a proper bubble camp with no unauthorised movements taking place. There will be no third parties allowed in camp,” warned Kioni. 
+
+He said the health ministry would conduct Covid-19 tests after every two weeks in camp. 
+
+“This is good news compared to if we were told to break camp altogether,” said Kioni. 
+
+NOC-K launched bubble training camp on March 1. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
