@@ -1,0 +1,247 @@
+More than a week after jihadists staged a deadly raid on the northern Mozambican town of Palma, survivors on Thursday streamed into the port of Pemba, capital of gas-rich Cabo Delgado province. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Scores of relatives huddled outside the port, straining to spot family members disembarking from boats arriving from Palma, some 200 kilometres away. 
+
+More than 8,000 were displaced, dozens killed and many more are still missing following a coordinated attack on the town of Palma on March 24. 
+
+The jihadists reportedly beheaded residents and ransacked buildings in a rampage that forced thousands to seek safety in surrounding forests. 
+
+The attack is seen as the biggest escalation of the Islamist insurgency ravaging Cabo Delgado province since 2017. 
+
+On fishing boats or on foot, thousands of survivors fled the city of 75,000 inhabitants -- more than 40,000 of whom had already been displaced from their original homes and were living in Palma. 
+
+Hundreds more were still arriving in Pemba, the UN said on Thursday. 
+
+There is "no sense of normalcy returning, unfortunately," the UN refugee agency's Juliana Ghazi told AFP in Johannesburg from Pemba on Thursday. 
+
+A woman wearing a blue denim pinafore and pink face mask sat on the ground at the port, with a vacant stare, one hand clutching a fence, waiting for her son. 
+
+Another woman consoled her as she broke down in sobs. 
+
+A ferry carrying almost 1,200 passengers, mainly women and children, had docked at the port overnight. 
+
+The most vulnerable escapees including unaccompanied and injured children are being flown to the city -- the UN said nearly half of the 8,166 people who are registered as displaced are children. 
+
+'Utmost concern' 
+
+The attack launched last Wednesday was the latest in a string of more than 830 organised raids by the Islamist militants over the past three years, killing more than 2,689 and uprooting nearly 700,000. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A South African man was among those killed when a convoy of cars trying to evacuate survivors from a hotel was ambushed, his family said. 
+
+Britain's Times newspaper on Thursday reported that a Briton also died in the ambush and that his remains had been handed to the Special Air Services rescue team. 
+
+The defence ministry could not confirm or deny the death. 
+
+The African Union has called for urgent and coordinated international action to jointly address the "urgent threat to regional and continental peace and security".   
+
+In a statement, AU chairman Moussa Faki Mahamat expressed "utmost concern" at the presence of international extremist groups in southern Africa, calling for an "urgent and coordinated regional and international action". 
+
+The regional Southern African Development Community (SADC) held emergency talks in Harare on Wednesday to discuss the violence. 
+
+"This has heightened insecurity in the area, leading to a serious humanitarian crisis," the SADC chair, Botswana's President Mokgweetsi Masisi, said in a statement on Thursday. 
+
+"It is our fervent hope that the perpetrators will be quickly arrested and brought to justice."  
+
+But Mozambique President Filipe Nyusi on Wednesday played down the attack as "not the biggest", despite its unprecedented proximity to Africa's single biggest investment project. 
+
+French oil giant Total and other international companies have invested in a multi-billion-dollar gas exploration scheme off the Afungi peninsula, around 10 kilometres (six miles) away from Palma. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Total had already evacuated some staff and suspended construction work in late December following a series of jihadist attacks near its compound. 
+
+In Afungi, army commander Chongo Vidigal said the gas project was "protected". 
+
+"We are currently in the special area in Afungi and never had a terrorism threat," he said.   
+
+The aid-dependent country has sent troops to Palma to try and recapture the town. 
+
+On Tuesday, Mozambique's former colonial master Portugal announced plans to send around 60 troops to back them up.   
+
+Cabo Delgado's jihadists have wreaked havoc across the province with the aim of establishing a caliphate. 
+
+The insurgents are affiliated with the Islamic State group, which claimed the attack on Palma this week. Jihadists captured a coastal town in the country, beheaded residents and forced thousands to seek safety in surrounding forest. Save the Children says children as young as 11 years old have been targeted. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
