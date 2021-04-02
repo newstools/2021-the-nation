@@ -1,0 +1,157 @@
+The US is vowing a “new chapter” with Sudan after Khartoum completed compensation payments to American victims of terror attacks in Kenya, Tanzania and Yemen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+US Secretary of State Antony Blinken said on Wednesday Sudan had settled $335 million to the US, as part of a deal to pay American victims of terror attacks which Sudan had been accused of fomenting. 
+
+It means the money will be shared among Americans victims of the US Embassy bombings in Nairobi and Dar es Salaam. 
+
+The August 1998 incidents by al-Qaeda saw at least 224 people killed and another 4,000 injured in both cities, majority of them Africans. 
+
+A dozen Americans died in the attacks. 
+
+The money transferred by Sudan will also pay the family of John Granville, the American diplomat assassinated in Khartoum in 2008, and kin of 15 sailors  killed and 37 injured in the October 2000 bombing of USS Cole, the American warship, in Yemen. 
+
+All the incidents were acknowledged by al-Qaeda; which Sudan had been accused of aiding in the 1990s. 
+
+Al-Qaeda leader Osama bin Laden stayed in Sudan in early 90s, receiving training from the regime of Omar al-Bashir who was ousted in April 2019. 
+
+Bilateral relationship 
+
+“Achieving compensation for these victims has been top priority for the Department of State. We hope this aids them in finding some resolution for the terrible tragedies that occurred,” Secretary of State Antony Blinken said on Wednesday. 
+
+“We commend the efforts of Sudan’s civilian-led transitional government to resolve long-outstanding claims of victims of terrorism and look forward to starting a new chapter in our bilateral relationship.” 
+
+Sudan under Bashir had been defiant even after the US imposed sanctions barring American entities from trading with Khartoum, and made Sudan ineligible to seek credit from lenders. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After Bashir was removed, the new Transitional Government under Prime Minister Abdalla Hamdok negotiated with Washington to be removed from the sanction list of state sponsors of terrorism. 
+
+The other condition imposed by the Donald Trump administration was to normalise relations with Israel. 
+
+The payments received by victims mean Sudan has honoured its part of the bargain. 
+
+Former US President Trump had announced in January the removal of Sudan from the list of states sponsoring terrorism, which Washington placed on it in August 1993 after accusing Sudan of supporting and harbouring terrorist groups and Congress approved a draft resolution granting Sudan its sovereign immunity against future prosecutions before American courts. 
+
+The US says it will continue supporting the democratic transition in Sudan by enabling Khartoum to access international lenders such as the IMF and providing $700 million in aid and debt exemptions estimated at $ 230 million. Some lawmakers had also pushed for Sudan to compensate victims of the September 11, 2001 attacks. The two countries have signed a bilateral agreement to settle pending claims for the African nation's delisting as a State sponsor of terrorism. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
