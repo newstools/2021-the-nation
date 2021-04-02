@@ -1,0 +1,149 @@
+The United Kingdom has banned people travelling from Kenya from entering England starting April 9 to prevent the spread of the novel coronavirus.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kenya is among four counties that have been added to UK’s red list amid concerns about new Covid-19 variants. 
+
+Travellers, who have departed from or transited through Kenya, the Philippines, Pakistan and Bangladesh in the previous 10 days will be refused entry into England. 
+
+Only British and Irish citizens or residents will be allowed to enter the country from these nations from 4am on Friday April 9. 
+
+
+2/2 British, Irish and third-country nationals with residence rights arriving from these countries will be required to quarantine in a Government-approved facility for 10 days. See here for full information: https://t.co/LdbUf5WXKP— UK in Kenya 🇬🇧🇰🇪 (@UKinKenya) April 2, 2021  
+
+They will be required to arrive into a designated port. 
+
+Read: How British soldiers brought UK deadlier virus to Kenya 
+
+In an update on the GOV.UK website, the UK said some travellers from Kenya have tested positive for the South African variant. 
+
+“Of the average of 550 people that travel from Kenya to the UK each week, a significant number are testing positive on Day 2. Nearly a third of those positive have been carrying the B.1.351 variant, which originated in South Africa,” the update said.  
+
+The update said no direct flight bans from these countries will be put in place, but passengers are advised to check their travel plans before departing for England. 
+
+The British High Commission in Kenya in a letter to the Ministry of Foreign Affairs said the directive is a temporary measure that will be kept under review. 
+
+“The travel restrictions will only remain in place whilst the level of risk is assessed to justify these measures,” the commission said.  
+
+Here is a full list of countries currently on the UK's red list: 
+
+AngolaArgentinaBangladesh (will be added to the list 4am Friday 9 April)BoliviaBotswanaBrazilBurundiCape VerdeChileColombiaDemocratic Republic of the CongoEcuadorEswatiniEthiopiaFrench GuianaGuyanaKenya (will be added to the list 4am Friday 9 April)LesothoMalawiMozambiqueNamibiaOmanPakistan (will be added to the list 4am Friday 9 April)PanamaParaguayPeruPhilippines (will be added to the list 4am Friday 9 April)QatarRwandaSeychellesSomaliaSouth AfricaSurinameTanzaniaUnited Arab Emirates (UAE)UruguayVenezuelaZambiaZimbabwe 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Outbreak of the coronavirus was reported at their training camp in Nanyuki in January. The restriction is aimed at controlling spread of coronavirus variant identified in South Africa. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya.
