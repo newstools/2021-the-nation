@@ -1,0 +1,326 @@
+Politicians are allegedly fuelling clashes between the Gabra and Borana communities in Marsabit County for selfish gains. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Multiple attempts at dialogue have aborted over the years with top leaders now being accused of derailing talks. 
+
+The Nation has established that politicians have been hiring local and foreign militias to cause violence with the aim of displacing certain communities in a bid to swell up votes in their strongholds. 
+
+
+
+
+
+
+Ukur Yattani is evacuated from Moyale sub-county on August 31, 2013 in a convoy of vehicles.
+Photo credit: File | Nation Media Group
+
+ 
+
+Some leaders have also been accused of illegally settling migrants from neighbouring Ethiopia in villages along the border. Since these communities share the same language with those in Ethiopia, the aliens have managed to hide in plain sight from local law enforcers. 
+
+Some of the areas where the alleged illegal settlements have been reported are Elle-Borr and Elle-Dhimtu along the Kenya-Ethiopia border. These illegal settlements are believed to have led to the 2019 massacre of 11 Gabra elders in Forole. 
+
+
+
+
+
+
+A sign post showing Sololo in Marsabit.
+Photo credit: Joseph Kanyi | Nation Media Group
+
+ 
+
+The Gabra community accused political leaders from the Borana tribe of illegally settling aliens on their land to push the locals out and establish a voting population. 
+
+On the other hand, the Borana community has accused the national government of bias in enforcement of security, claiming it has been targeting them unfairly under influence from local leaders with power in the national government. 
+
+
+
+
+
+
+Photo credit: File | Nation Media Group
+
+ 
+
+Peace ambassadors have been trying to bring political leaders to the mediation table but a solution is nowhere in sight as some of the politicians are not willing to yield power for the greater good. 
+
+Security officials and mediators have also argued that the thirst for political supremacy is the reason peace talks have failed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+The Gabra community living along the Kenya-Ethiopia border in Forole town.
+Photo credit: File | Nation Media Group
+
+ 
+
+One of the key players in the pursuit of peace in the region is the National Cohesion and Integration Commission (NCIC), which has admitted that a solution is far from being found, mostly due to lack of political goodwill. 
+
+“The commission has been actively involved in trying to mediate for peace in Marsabit but some of the leaders are not ready to negotiate and find an end to the conflict,” NCIC commission Danvas Makori said. 
+
+
+
+
+
+
+Ms Galano Jillo at the grave of her husband who was killed in an attack in Garshaba village in Marsabit in 2019. Knee-jerk reactions by the government in its attempts to end the killings have failed to yield results.
+Photo credit: File | Nation Media Group
+
+ 
+
+On multiple occasions, talks between political leadership from the opposing side have ended without progress because either party did not agree to a compromise. 
+
+In a recent incident, Marsabit Governor Mohamud Ali is said to have walked out of a peace meeting in Nanyuki on grounds that the conditions set were unfavourable to his people, the Borana. 
+
+It is not clear exactly why the county boss withdrew, even though he has emerged as one of the key protagonists in the differences fanning clashes in the region. His position makes him the top leader in the Borana community. 
+
+In the Gabra community leadership is Cabinet Secretary for National Treasury and Planning Ukur Yatani, who served as first governor of Marsabit. The two, owing to their political influence, are vital players in the push for mediation. 
+
+However, their political competition, coupled with unresolved historical injustices, has made it near impossible to unite the two communities. 
+
+So bad is the rivalry among these leaders, and the animosity between their communities, that it has made running the county government difficult. During his tenure, the Borana community accused Yatani of nepotism and favouritism in execution of development projects. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Today, the Gabra community has turned an accusing finger towards Mr Mohamud, similarly accusing him of favouritism. He has been accused of failing to fund projects initiated by his predecessor on account ‘they are in Gabra areas’. 
+
+These differences have played out over the last eight years with the two leaders now being challenged to agree to make compromises for the sake of security. 
+
+Dialogue and peace 
+
+“This is not just a matter of getting the leaders to sit and talk or shake hands publicly. It calls for both sides to agree to make compromises for the sake of peace,” Commissioner Makori said. 
+
+Mr Yatani maintains there is a chance for dialogue and peace but mistrust still poses a major challenge. 
+
+“Political competition and alliance building by various communities is not unique to Marsabit but failure by some leaders to build trust and fairness could reinforce the feeling of marginalisation. The conflict will definitely end one day, and one possible scenario is getting leaders to make political sacrifices for the common good,” CS Yatani told the Nation. 
+
+The Nation reached out to Governor Mohamud through calls and text messages on the matter but by the time of going to press, he had not responded. 
+
+Militias have also been used to disrupt peace talks using coordinated attacks on villages during the mediations. 
+
+The NCIC says the government needs to address several security matters, among them disarmament of illegal gun holders and dismantling of local militias. 
+
+The Border Patrol Unit (BPU) and General Service Unit (GSU) have been deployed in Turbi area, which has witnessed clashes over the last three months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+ nkomu@ke.nationmedia.com Local political and community leaders are linked to the formation and arming of militias. There are more than 100,000 illegal firearms in the hands of civilians in the region, officials say. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
