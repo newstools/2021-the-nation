@@ -1,0 +1,82 @@
+A section of the busy Thika superhighway will be closed on Sunday, April 4, a roads agency has announced. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a notice issued on Friday, the Kenya National Highways Authority (KeNHA) said the service lane at the Ruiru Toll Station next to St Teresas of Avila Catholic Church will be temporarily closed for planned works. 
+
+
+PUBLIC NOTICEMotorists are notified of the temporary closure of the service lane at the RuiruToll Station next to St. Teresas of Avila Catholic Church for works planned for Sunday 4th April, 2021. pic.twitter.com/jP6UgTIFeb— Kenya National Highways Authority (KeNHA) (@KeNHAKenya) April 2, 2021  
+
+KeNHA urged all motorists to exercise caution and patience while driving through the road section. 
+
+A service lane runs parallel to an expressway or interstate highway. 
+
+It provides access to the property bordering it with little disruption to traffic. 
+
+Since late last year when KeNHA started recarpeting the service lanes, motorists using Thika superhighway have been having hard times and thanking lady luck after getting home safely. 
+
+KeNHA says it embarked on surface dressing of the road to slow down its deterioration. 
+
+“The rapid speed of the process means that disruption to road users, local businesses and emergency services is minimised,” KeNHA said. 
+
+Last year, motorists using the busy Thika superhighway endured five days of traffic disruptions after KeNHA closed a section of the highway at Garden City Mall to erect a foot bridge. It will facilitate safe crossing for pedestrians and free flow of traffic along the busy highway. Nairobi Senator Mike Sonko had earlier gone to court seeking to have speed bumps on the highway removed. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
