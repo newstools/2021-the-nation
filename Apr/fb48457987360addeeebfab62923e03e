@@ -1,0 +1,171 @@
+The 20-year-old Norwegian snubbed United to join Dortmund from RB Salzburg in 2019, but there is growing speculation Solskjaer will make another attempt to sign him in the close seasonTuchel wouldn't be drawn on Chelsea's potential interest in Haaland, instead claiming his agent was trying to stoke up a bidding warChelsea have also been linked with a move for Sergio Aguero after Manchester City's record goalscorer confirmed he will leave at the end of the season London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester United manager Ole Gunnar Solskjaer and Chelsea boss Thomas Tuchel have played down reports their clubs will go head to head in the race to sign Borussia Dortmund striker Erling Braut Haaland. 
+
+Haaland has emerged as one of the world's top forwards after scoring 21 goals in 21 appearances in the Bundesliga this season. 
+
+The 20-year-old Norwegian snubbed United to join Dortmund from RB Salzburg in 2019, but there is growing speculation Solskjaer will make another attempt to sign him in the close season. 
+
+Solskjaer coached Haaland at Molde and talk of a summer move from Dortmund has intensified after the player's agent Mino Raiola and father Alf-Inge Haaland were pictured in Spain. 
+
+He has also been linked with Manchester City, Real Madrid and Barcelona. 
+
+Asked if he can afford to miss out on Haaland again, Solskjaer said: "Well, I'm focusing on the next two months and whatever happens in the world of football. There's only so many places anyone can go to. 
+
+"I just focus on the ones who are here and even though I've worked with Erling it's not right for me as a Man United manager (to be) talking about Erling. 
+
+"I can talk about him as an ex coach of his but he will make his own mind up." 
+
+Aguero link 
+
+Solskjaer refused to confirm if Haaland was on his wanted list, adding: "I think the way the world works at the moment, you'd like to do, of course, all your business on the quiet and all your talks on the quiet. 
+
+"Hopefully we can suddenly sit here with players that no-one's written about and thought we're going to go to." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With Germany forward Timo Werner struggling to adapt to the Premier League, Chelsea could do with a quality addition to their attack. 
+
+But Tuchel wouldn't be drawn on Chelsea's potential interest in Haaland, instead claiming his agent was trying to stoke up a bidding war. 
+
+"I will not answer that, out of respect for the player and for Borussia Dortmund," Tuchel said when asked if Chelsea would speak to Raiola. 
+
+"He's a Borussia Dortmund player, and of course there's big news around him and his agent. 
+
+"And it seems like they are creating a race for the player. 
+
+"But still everybody needs to accept, and I will fully accept, that he is a Borussia Dortmund player. A very promising player of course, but with respect to the situation he's not in our squad, he's not in our club so there's no comment on anything else regarding him." 
+
+Chelsea have also been linked with a move for Sergio Aguero after Manchester City's record goalscorer confirmed he will leave at the end of the season. 
+
+Keeping tight-lipped on the mooted Aguero interest, Tuchel said: "I don't need to talk, it's the same, the same answer as for Haaland. 
+
+"It's absolutely clear that we have full respect for Man City and Sergio Aguero who is a big player for them. 
+
+"There is no word needed from me about that. His career is outstanding, it speaks for itself, and it's not finished yet. 
+
+"He will still help Man City to achieve their goals this season. 
+
+"But I will never speak more than that about a player of a rival." Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
