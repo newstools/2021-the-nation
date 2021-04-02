@@ -1,0 +1,145 @@
+Raiola, who is also the agent of Paul Pogba and Zlatan Ibrahimovic, and Haaland senior held discussions with Laporta and Barca's director of football Mateu Alemany.Haaland, 20, is the Champions League's leading scorer this season with 10 goals. Barcelona 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The agent and father of Borussia Dortmund striker Erling Braut Haaland visited Barcelona on Thursday to meet with the Spanish club's newly elected president Joan Laporta, local media reported. 
+
+"Barca's interest in the player has been confirmed in this meeting and they will enter the bidding," wrote Catalan daily Sport, alongside pictures of Haaland's agent Mino Raiola and his father Alf-Inge Haaland arriving in the city. 
+
+According to the paper Raiola, who is also the agent of Paul Pogba and Zlatan Ibrahimovic, and Haaland senior held discussions with Laporta and Barca's director of football Mateu Alemany. 
+
+"Both Raiola and the father have seemed open to signing for Barca although all will depend on the final price Borussia Dortmund put on the Norwegian," Sport added. 
+
+"This confirmation of Barca's interest passed on by Laporta was received with satisfaction by Raiola and Haaland's father, who are clear that Barca are not the only big club to have shown interest," wrote Mundo Deportivo. 
+
+"What Barcelona need is for the player to choose the club to precisely avoid an auction for him that in no case would benefit Barcelona, who don't have much money lying around." 
+
+Haaland, 20, is the Champions League's leading scorer this season with 10 goals. He has netted 49 goals in as many games for Dortmund since joining from Salzburg in January of last year. 
+
+According to Cadena Cope radio and Madrid sports daily As, Raiola and Haaland's father will also travel to the capital to meet with Real Madrid president Florentino Perez. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is a "merely informative" meeting, Cope reports, adding that Real "want to know the situation the Norwegian star is going through at Borussia Dortmund". 
+
+The radio station said Raiola and Haaland senior also want to gauge the club's interest in signing the Norway star. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
