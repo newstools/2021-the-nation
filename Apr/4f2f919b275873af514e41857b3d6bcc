@@ -1,0 +1,147 @@
+Pfizer and BioNTech said Thursday their Covid-19 vaccine was highly effective against the South African variant in the latest phase of ongoing clinical trials. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No cases of the disease were observed in South Africa during the phase-three trial study among participants who had received their second dose, the companies said in a statement.  
+
+Several coronavirus variants with the potential to be more transmissible have caused global concern over whether existing vaccines will still protect the world from a virus that is constantly mutating. 
+
+"In South Africa, where the B.1.351 lineage is prevalent and 800 participants were enrolled, nine cases of Covid-19 were observed, all in the placebo group," the companies said. 
+
+The nine strains were sequenced and six of them were confirmed to be of B.1.351 lineage, they said. 
+
+"The high vaccine efficacy observed through up to six months following a second dose and against the variant prevalent in South Africa provides further confidence in our vaccine's overall effectiveness," said Albert Bourla, chief executive of Pfizer. 
+
+Overall, the vaccine was 91.3 percent effective against Covid-19 in the analysis of 46,307 trial participants across several countries. 
+
+From the 927 confirmed symptomatic cases of Covid-19 in the trial, 850 cases were in the placebo group and 77 cases were in the vaccinated group. 
+
+The vaccine was 100 percent effective in preventing severe disease as defined by the US Centers for Disease Control and Prevention, and 95.3 percent effective in preventing severe disease as defined by the US Food and Drug Administration. 
+
+Pfizer and BioNTech had said in January that "small differences" detected in tests comparing the original virus and the recent versions "are unlikely to lead to a significant reduction in the effectiveness of the vaccine". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The companies said Thursday the new data "support previous results from immunogenicity studies demonstrating that (the vaccine) induced a robust neutralising antibody response to the B1.351 (South African) variant, and although lower than to the wild-type strain, it does not appear to affect the high observed efficacy against this variant". 
+
+Global deaths from Covid-19 have topped 2.8 million since the pandemic began a year ago, with vaccines seen as the only real chance of returning to some form of normality. Published data shows that the efficacy of the vaccines ranges from 66 per cent in Johnson and Johnson to 95 per cent in Pfizer. Distributors against marketing the vaccine since it has not been approved for commercial use. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
