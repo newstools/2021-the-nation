@@ -1,0 +1,163 @@
+As the Covid-19 vaccination campaign intensifies in Nakuru County, early data shows more men than women are going for the inoculation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to data released by the county Health Executive Kariuki Gichuki, as of March 31, 2021, at least 6,688 men which represents 56 percent and 5,146 women which translates to 44 percent had been vaccinated. 
+
+Cumulatively, about 13,301 residents had been registered by the end of last month and 11,840 which translates to 89 percent have been vaccinated. 
+
+About 1,461 residents which translates to about 11 percent have been registered and are waiting for the jab. 
+
+Interestingly, the healthcare workers who are working tirelessly to ensure the residents are vaccinated, only 35 percent or 4,177 of them have received the jab so far. 
+
+Nakuru County has more than 10,000 teachers in public and private schools. So far, only 1,488 or 12 percent of the teachers have been vaccinated. 
+
+1,019 officers 
+
+Only nine percent of security officers, who are categorised as front-line workers, have been vaccinated. This translates to 1,019 officers. 
+
+Residents in the non–essential category forms bulk of the residents who have turned up so far for the jab as 5,156 have been vaccinated. 
+
+The Governor Lee Kinyanjui administration intensified the Covid-19 vaccination   campaign after the county was declared a virus hotspot. 
+
+After a slow start to vaccinating priority groups, the number of residents visiting the vaccination centres has increased. 
+
+The county expects to vaccinate priority groups such as teachers and people with chronic health conditions, Dr Gichuki said. 
+
+"We have accelerated efforts to inoculate the elderly and front-line workers, and in some cases to open shots to all adult residents in essential service such as journalists earlier than expected," said Dr Gichuki. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccination timetable 
+
+"The increasing number of residents seeking the vaccine has made us come up with a vaccination timetable targeting all the 11 sub-counties," said Dr Gichuki. 
+
+He said the department expects a surge in the daily shots over the next week as more residents turn up for the jab. 
+
+“This is a new vaccine and we are retraining staff on how to handle the clients and other emerging issues. We have so far trained more than 100 staff," said Dr Gichuki. 
+
+The county is using its 30,000 AstraZeneca shots received to date to set up mass vaccination centres across the county in the first half of April, a health official said. 
+
+The county is also contemplating using mobile vaccination clinics to reach more people. 
+
+fmureithi@ke.nationmedia.com Acting governor says she decided to lead by example. The average number of daily Covid-19 cases is currently 1,300, with the highest number ever - 2,008 - recorded on Friday. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
