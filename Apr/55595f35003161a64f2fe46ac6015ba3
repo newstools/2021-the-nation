@@ -1,0 +1,231 @@
+New global data suggests that the burden of cancer has risen to 42,116 cases and 27,092 deaths a year.Sourcing and equipping of medical centres with screening and treatment services to increase the availability of facilities. Kenya’s fight against cancer has received a major boost after a major hospital installed a sophisticated diagnostic machine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The cyclotron machine at the Kenyatta University Teaching, Referral and Research Hospital, is capable of producing pharmaceutical drugs containing radioactive isotopes used for targeted diagnosis and therapy of diseases such as cancer. A cyclotron is a type of compact particle accelerator that produces radioactive isotopes that can be used for imaging. 
+
+The electrically powered machine does this by producing a radioactive sugar tracer (called 18F-FDG) that is metabolised by cancer cells, thereby highlighting the sites of the disease and its extent and/or spread. 
+
+The isotopes are also used to monitor remission or progression of cancer in patients. 
+
+The 18F-FDG tracer is administered as an injection and is used in a procedure called a positron emission tomography (PET) scan to help doctors diagnose cancer, heart disease, and epilepsy. Areas that use more energy pick up more of the sugar. Cancer cells tend to use more energy than healthy cells. The PET scan shows where the radioactive tracer is in your body.  
+
+Domestic use 
+
+In 2017, Kenya acquired its first ultra-modern positron emission tomography-computed tomography (PET-CT) scanner and cyclotron installed at the Aga Khan hospital's oncology unit. The machine gives an accurate indication of the progress of the disease in its earliest stages.  
+
+“This cyclotron will be the first public facility and the largest in Eastern and Central Africa, with a capacity to produce consumables for domestic use and for the region,” said Health Cabinet Secretary Mutahi Kagwe, on Friday at the delivery and rigging of the machine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The availability of the machine, the second in the country, will enable doctors to identify health threats at the cell-level, giving them the best view and time of treatment for complex diseases such as cancer and heart diseases, brain and other central nervous system problems, improving treatment outcomes. It is expected to reduce the number of people travelling out of the country for cancer treatment. 
+
+The equipment, key in producing the radioisotope tracers, is also expected to produce the consumables for other hospitals across the country. 
+
+“We have set up a team that is working on the logistics to transport the consumables (isotopes) from KUTRRH to other facilities in the country and the region. The half-life of the isotopes is about two hours,” said the KU hospital’s board chair Olive Mugenda. 
+
+State-of-the-art cancer centre 
+
+She encouraged counties to buy and install the two machines and the KU hospital will be providing the isotopes from the cyclotron. 
+
+As such, patients can be treated in their home counties without travelling to the university hospital. The referral facility has spent Sh8billion to build and equip a state-of-the-art cancer centre with 650-bed occupancy. 
+
+The hospital has set up, an Integrated Molecular Imaging Centre (IMIC)designed to offer comprehensive cancer diagnosis, treatment, and management. 
+
+Already, the centre has installed a 256 Slice CT scanner and 3T MRI. The hospital’s main goal is to provide survivorship and fill the gaps in the region in terms of screening, diagnosis and treatment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An explosion of new diagnostic imaging techniques since the 1980s such as ultrasound, CT, and MRI, and more recently PET scans have seen more people get diagnosed. 
+
+Radiotherapy equipment 
+
+However, Mr Kagwe said: “Kenya has extremely low levels of PET/CT and SPECT/CT penetration and less than 20 radiotherapy equipment across the country. This, coupled with the limited availability of oncologist/specialist, is restricting access to cancer care for a majority of the patients.” 
+
+The country’s very limited supply capacity with respect to diagnosis and treatment poses serious health care policy challenges. 
+
+New global data suggests that the burden of cancer has risen to 42,116 cases and 27,092 deaths a year. 
+
+This means that there were about 115 cases and 74 deaths daily. With the number of patients progressively growing, demand for specialised care continues to create a challenge in the management of the disease. 
+
+Sourcing and equipping of medical centres with screening and treatment services to increase the availability of facilities, equipment, and experts appear to be growing slowly. After decades of despair due to the lack of a treatment facility, hope is finally on the way for those battling cancer. Esther Atieno Andare speaks about her frightful but triumphant journey. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
