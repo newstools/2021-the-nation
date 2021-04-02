@@ -1,0 +1,163 @@
+A man in Bura, Tana River County demolished his house and left town to an unknown destination after learning that his wife of five years had married another man. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to the man's relatives, Abdikadir Shukri, 34, came back from a long trip and locked himself in the house for three days. 
+
+On the evening of the third day, he started giving out his property to relatives and friends, without a word, before revealing his frustrations to an uncle. 
+
+“He told me the wife has been married to a wealthy man in Garissa. I did not understand him well because they have been together for five years and have a child," said Mohammed Bule, the uncle. 
+
+The wife had reportedly told her husband that she had been called home to “nurse her ailing mother”. 
+
+After a period of subtle protests from Shukri, he allowed the wife to leave on the agreement she would return in a week. 
+
+However, before the wife could travel, he made a trip to Garissa, the woman's home area to investigate the claims since the wife's family was not supportive of their marriage from the onset. 
+
+The woman’s father is said to have turned down dowry from the man, noting that the man had stolen her daughter hence he would not bless the union. 
+
+"My nephew loved this girl, but the father and the brothers did not approve of it. So he impregnated the woman, hence there was no choice but for them to get married to save the family from shame," narrated the uncle. 
+
+Marital challenges 
+
+According to Mr Bule, only the girl's mother had approved of the marriage but later changed tune after the couple started facing challenges that would at times result in domestic violence. 
+
+The visit back home would seal the plans to marry off the woman as a second wife to a wealthy man. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"It emerged that the mother-in-law was not sick at all but had put up an act to arm-twist the son-in-law who loved her," said Hussein Dahir, the man's cousin.Shukri, a long-distance truck driver left for a three-day trip to Mombasa, and on return decided to meet friends at a joint, where his cousin started congratulating him for taking the bold step of leaving the wife for the sake of his peace. 
+
+"We were chewing khat, so I thought he knew about the wedding and that's why he travelled, only for him to confess he was not informed," recounted the Hussein Dahir, a cousin. 
+
+He immediately left to find the wife at their home where he learned she had been wedded three days after she left her home and had since left town with the new husband. 
+
+The woman's parents and the brothers ganged up, and chased him away, even threatening to lynch him. 
+
+"He was bruised a bit, had a torn shirt when he returned, and would not speak to anyone until the third day when he went to see my father," noted Dahir. 
+
+After the emotional conversation with the uncle, he demolished his house and left with a small bag carrying a few clothes. 
+
+The family has not been able to trace or make any contact with him, six days since he left. 
+
+Soduor@ke.nationmedia.com The locals want answers over the whereabouts of Isolation wards the administration promised during the first phase of the pandemic. Passengers accessing the Likoni channel between 4.00 am and 8.30 am were directed to the floating Bridge, as Kenya Ferry Services transported vehicles. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
