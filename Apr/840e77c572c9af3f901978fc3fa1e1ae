@@ -1,0 +1,275 @@
+Last Friday, President Kenyatta ordered cessation of movement into and out of Nairobi, Kiambu, Machakos, Kajiado and Nakuru counties.In the five counties, the President decreed that the night curfew would henceforth begin at 8pm. It is some minutes past 3pm and the streets of Nairobi are unusually clear; save for the hawkers, boda-boda riders, street families and parked vehicles.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There are no vehicular gridlocks. Then suddenly, all hell breaks loose and it’s rush-hour even before 4pm. 
+
+Offices start emptying. Car horns start honking as parking lots slowly become unoccupied. 
+
+Soon, human and vehicular snarl-ups begin to build up all over the capital city.  
+
+
+
+
+
+
+City residents queue at the Hakati bus terminus as they wait for public transport on April 1, 2021 to beat the 8pm curfew.
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+The mad rush to beat the new 8pm curfew deadline issued by President Uhuru Kenyatta last Friday has just begun. 
+
+Within no time, the town is streaming with people rushing home. Upper Hill and Community area offices pour their human traffic into the streets. The same happens in Westlands and the surrounding business centres. 
+
+A sea of humanity soon takes over Nairobi's city centre as people hurry to catch the next available vehicle to various estates. 
+
+At most bus terminuses, fares have been hiked in anticipation of an avalanche of commuters, but this does not deter the city residents from scrambling for space in public service vehicles.  
+
+Long queues and total disregard for social distancing and other health protocols seem to be the new normal in this frantic quest to be on the right side of the law. 
+
+Teeming with people 
+
+Railways Bus Station, Khoja mosque stage, Bus Station, Kencom, Ambassador, Agro House stage, OTC, Ronald Ngala Road and the area outside Naivas along Moi Avenue – each of the more than 31 bus stations in Nairobi is teeming with people. 
+
+Haile Selassie Avenue, Landhies Road, Jogoo Road, Mombasa Road, Thika Road, Waiyaki Way and Ngong Road are soon full of vehicles as the race to get home begins in earnest.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last Friday, President Uhuru Kenyatta ordered cessation of movement into and out of Nairobi, Kiambu, Machakos, Kajiado and Nakuru counties, which have now been zoned into a single “disease-infected” area due to a spike in Covid-19 infections as the third wave of the pandemic sweeps across the country. 
+
+In the five counties, the President decreed that the night curfew would henceforth begin two hours earlier – at 8pm – than in the rest of the country.  
+
+
+
+
+
+
+Residents of Juja and Thika town queue at the Super Metro stage along Moi Avenue in Nairobi's CBD on April 1, 2021 to beat the 8pm curfew. 
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+“We have to make sure we leave the city very early to avoid battle with police officers enforcing the new dusk-to-dawn curfew,” says Abigael Atieno, who is among a horde of commuters queuing outside Agro House bus stage for matatus heading to Ngong. 
+
+She, like many others, has to leave her place of work at 3.30pm or latest 4pm to be home before curfew time. 
+
+Ms Atieno will pay Sh150, up from the Sh100 she previously paid in bus fare. 
+
+The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu, as those returning from the estates strive to make their way back to the capital. 
+
+“We have no choice but to pay the hiked fares as you can see how long this line is. Waiting for the fares to drop is like expecting a miracle as the longer you wait, the more people join the queue. We have no time to play around and the matatus are taking advantage of this,” she offers. 
+
+Traffic gridlock 
+
+A similar situation obtains at Bus Station, which serves buses heading to Nairobi’s Eastlands and the Thika Superhighway. 
+
+“I left the office in Upper Hill at 3.30pm to be here at this time. The employer relaxed office hours so that we don’t get into trouble. We normally used to leave the office not earlier than 4.30pm,” explains Mr John Njoroge. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He says PSVs hardly observe the 60 per cent carrying-capacity rule as all the seats are full as soon as the matatus are out of the city centre. 
+
+“In the morning, matatus largely adhere to the 60 per cent carrying-capacity rule but in the evening all the seats are occupied,” he states. 
+
+
+
+
+
+
+City residents queue for public transport at Kencom stage along City Hall Way on April 1, 2021 to beat the 8pm curfew. 
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+While the curfew is meant to curb the spread of Covid-19, inside most of the matatus caution has been thrown to the wind.  
+
+This writer took a ride in a Ngong-bound matatu this week. The matatu snaked its way through Haile Selassie Avenue, then past the Green Park terminus, before starting using shortcuts to avoid the early traffic gridlock occasioned by vehicles leaving the city almost at the same time. 
+
+After rejoining Ngong Road at the Daystar roundabout, the matatu started picking more passengers with no regard for the social distancing rule.  
+
+In the opposite direction, lanes leading to the capital city were unusually clear, with only a few vehicles heading to town, a clear indication of a capital city that would hours later be a ghost town with only police officers and security guards roaming the deserted streets.  
+
+As the curfew hour approaches, stranded passengers opt to use boda-bodas to flee from the waiting police officers. 
+
+comulo@ke.nationmedia.com New measures came after admissions hit a fresh peak that have seen hospitals run out of ICU facilities. The President has declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru disease infested counties. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. In the rare instance, an ICU bed becomes available, money will determine if you get it.
