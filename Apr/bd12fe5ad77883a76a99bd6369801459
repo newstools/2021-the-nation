@@ -1,0 +1,275 @@
+Street vendors may soon be free to conduct their businesses without harassment from county government askaris. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A proposed law seeks to protect and regulate hawking by compelling all devolved units to designate market zones and imposes harsh penalties on county officers that harass licensed traders. 
+
+
+
+
+
+
+A hawker in Meru.
+Photo credit: Charles Wanyoro | Nation Media Group
+
+ 
+
+Sponsored by the Senate Tourism, Trade and Industrialisation committee chair Abdullahi Ibrahim Ali, the Bill is intended to regulate the right to informal trading by designating space for hawkers. 
+
+If enacted, all counties will maintain a register of licensed hawkers who will legally operate in designated restriction-free vending zones. They will also access restricted vending zones at a ‘special fee’. 
+
+“A restriction-free vending zone shall be an area in which a validly licenced street vendor may conduct vending activities,” the Bill states. 
+
+
+
+
+
+
+Hawkers at the Machakos Country bus terminal in Nairobi on Thursday, March 25, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+It seeks to bring order to a chaotic sector characterised by running battles between hawkers and askaris, sometimes with brutal consequences, such as the recent Kisumu incident where a woman was dragged on the tarmac. 
+
+It strives to strike a balance between the rights of hawkers to earn a living through legitimate businesses and observance of county bylaws. 
+
+The Street Vendors (Protection of Livelihood) Bill, 2021, allows counties to designate no-vending zones and imposes penalties – including a six-month jail term – for hawkers who breach the restricted area. 
+
+It is intended to ensure effective organisation and regulation of informal traders, who shall be regulated by the Office of the Cabinet Secretary for Trade. 
+
+
+
+
+
+
+Hawkers in Mombasa.
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+To discourage ‘dumping of hawkers in remote areas’, the Bill directs counties to take into consideration the commercial viability of an area proposed to be designated as a vending zone. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+To avoid abuse of powers by authorities, it states: “The county executive committee member shall not designate a market as a no-vending zone.” 
+
+A CEC may designate a specific street, building or zone to be a vending area for a period not exceeding five days. 
+
+A county government shall install essential facilities prior to the designation of a periodic market, including security, solid waste disposal, water, lighting and parking facilities. 
+
+No vendor shall be evicted or relocated from the location specified in their licence unless he/she has been given 30 days’ notice of such eviction. 
+
+The Bill demands that any officer that confiscates a vendor’s goods should issue them a receipt detailing the approximate value, reasons for the action, and where they will be recovered. 
+
+
+
+
+
+
+Hawkers in Nairobi town. 
+Photo credit: Francis Nderitu | Nation Media Group
+
+ 
+
+However, this only applies to traders operating in their vending zones, with their licenses and in compliance with the terms and conditions of their permits. 
+
+“A person shall not engage vending activities unless they are registered and in possession of a valid license upon payment of the prescribed fees and satisfaction of any prescribed requirements,” states the Bill. 
+
+A license shall classify a street vendor as stationary or mobile, and will detail she/her name, location, contact details, type of goods or services, time and date of trading and the make and registration number of vehicle, where applicable. 
+
+The license may be renewed upon expiry for a period not exceeding a year and may also be revoked, or suspended by a county government, which can also decline to renew it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This can only happen if a vendor is found to have breached the terms and conditions of his/her license. However, before declining  to renew, revoke or suspend, a county government should notify the holder of the license to show cause, within  14 days why such action should not be taken 
+
+Within 12 months of the commencement of the Act, counties will be required to conduct a survey of all hawkers and potential vending zones. 
+
+After nine months, they will submit the findings, including the vending zone plan, to the county assembly for approval. In considering the vending plan, the assembly shall conduct public participation. 
+
+Each devolved unit shall ensure vending centres are well maintained to enable hawking in a fair, transparent and safe manner.   
+
+The lists of hawkers in the counties will be forwarded to the ministry for preparation of a national register of licenced street vendors. 
+
+mchelangat@ke.nationmedia.com Failure to release funds has affected services, especially in the health sector. Payment based on weight to be done away with as focus shifts to sucrose content. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
