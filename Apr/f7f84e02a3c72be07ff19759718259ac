@@ -1,0 +1,77 @@
+The 224,000-ton Panama-flagged ship was grounded in the vital Suez waterway on March 23 and was refloated six days later.Eqypt says compensation demanded is not only for the financial losses, but includes the expenses of using dredgers and tugboats and the physical damage caused during the salvage process.  Egypt's Suez Canal Authority (SCA) will seek over $1 billion in compensation for the losses caused by a container ship, Ever Given, that was stuck in the waterway and blocking navigation for six days, SCA chairman Osama Rabie has said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The compensation for the losses and damages "will reach over 1 billion dollars," Rabie told a local TV channel on Wednesday.  
+
+"This is the right of the state and we will not give it up."  
+
+The 224,000-ton Panama-flagged ship was grounded in the vital Suez waterway on March 23 and was refloated six days later through the efforts of the SCA in cooperation with the Dutch firm Boskalis and its emergency response team SMIT Salvage hired by Ever Given's owner. The SCA chairman explained that the compensation demanded by the authority is not only for the financial losses caused by six-day navigation suspension, but includes the expenses of using dredgers and tugboats and the physical damage caused during the salvage process.  
+
+Egypt resumed navigation in the canal several hours after the stranded container ship was rescued early Monday, after which many of the 422 ships that have been kept waiting started to cross the waterway. 
+
+By Saturday at most, all 422 delayed ships will have crossed the Suez Canal, according to Rabie.  
+
+Linking the Mediterranean Sea with the Red Sea, the Suez Canal is a major lifeline for global seaborne trade since it allows ships to travel between Europe and South Asia without navigating around Africa, thereby reducing the sea voyage distance between Europe and India by about 7,000 km.  
+
+Some 12 per cent of the world trade volume passes through the man-made canal.  425 ships are waiting to travel through the vital shipping lane. Maritime security expert Dirk Siebels unpacks lessons learnt from the incident. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
