@@ -1,0 +1,151 @@
+Stung by the spike in Covid-19 cases and faced with accusations of leading in breaking health guidelines, boda boda operators in Tharaka Nithi County have started the push to have locals vaccinated against the disease. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They are also demanding to be included in the list of frontline recipients of the jab due to the nature of work where they interact with different people daily. 
+
+The suggestion to educate locals on the dangers of the virus by an industry complete with a chain of command for easy mobilisation is seen as a viable idea especially in a region where the disease has also claimed lives. 
+
+In an interview, Mr Dennis Murangiri, a rider, said in case they are infected, they are also likely to spread Covid-19 to their customers who they engage daily. 
+
+Vulnerable group 
+
+“The county government should consider vaccinating us against the Covid-19 disease because we are also among the most vulnerable groups,” said Mr Murangiri. 
+
+He said because their business has also been hit hard by the effects of the pandemic, the government should consider reducing the price of fuel and that of other basic commodities such as foodstuffs. 
+
+Mr James Kirimi, another rider, said the closure of learning institutions, and especially Chuka University, has affected their business because students are their main clients. 
+
+He said financial institutions are after most of them after failing to promptly pay loans that they acquired to buy the motorbikes. 
+
+“Financial institutions are taking away our motorbikes because we can’t afford to pay loans as agreed,” said Mr Kirimi. 
+
+And Tharaka Nithi County Bodaboda Association Chairman Willis Mugambi said most of the people contracting the virus are those handling money and that his members are at a greater risk. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“My over 5,000 members are at a greater risk of contracting coronavirus because they handle money many times,” said Mr Mugambi. 
+
+He added that because many Kenyans doubt the safety of the jab, they are ready to encourage their customers to be vaccinated. 
+
+The official added that the operators are willing to be roped into an awareness campaign to increase the numbers of those willing to be vaccinated against covid-19. No cases of the disease were observed in South Africa during the phase-three trial study among participants. The Ministry of Health is in talks with the African Union with a view to acquiring the vaccine. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
