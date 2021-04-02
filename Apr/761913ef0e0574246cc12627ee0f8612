@@ -1,0 +1,149 @@
+Every month, I travel from Nairobi to Nakuru County to visit my elderly parents. The other day, I called and told them I would not make the April trip — not due to the partial lockdown but because Covid-19 is rampaging and none of us are vaccinated. And I’m not on any jab priority list. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Many of my friends are struggling, having lost their jobs to the latest closure or constricted businesses, and with no financial safety nets from the government. 
+
+The only scenario where I can see my parents again, and businesses and jobs can thrive, is mass vaccination. But with the government-projecting 30 per cent by 2023, the only path ahead is rolling lockdowns, more job losses and shuttered businesses. 
+
+Ideally, the government should be at the forefront of a lightning vaccination drive that would restart the economy but the Jubilee administration is more adept at bungling everything. That means, realistically, the only avenue left to us is self-funded private sector-led inoculation. Even these, the government frustrates with slow approvals of vaccines. 
+
+While the commercial vaccines come at a price, that is nothing compared to the pain of losing lives, jobs and income. It is unconscionable that the government has put us in this position but it is now a fight for survival. 
+
+As has been posited, opening up vaccine imports in a well-regulated manner would mean prices going down from the Sh10,000-plus being charged for the Sputnik V vaccine. It will also put a rocket on this vaccination programme and allow us to go back to near-normal. 
+
+While this may seem like a private solution for a public problem, a cursory look around us shows the extent of government failure and how we have learnt to cope. We have thrived by finding private solutions to healthcare problems, schooling, security, sewer, garbage, recreation.... 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Middle class 
+
+In the midst of a pandemic is hardly the time to start a pushback for government services. The administration has grown immune to outcries and we cannot afford to lose any more time as death stares us in the face. 
+
+As a member of the much-demonised middle class, I can afford to buy the vaccine for myself and those close to me. I should have that option. Kenyans should have that option. The option between paying for the vaccine or losing my job or my life seems pretty clear to me. 
+
+There are millions more who, unlike me, cannot afford the vaccine and the free government vaccines should target them. That way, we will achieve herd immunity faster and save ourselves and our businesses from irreparable damage or ruin. 
+
+A host of vaccines are available with others on the way. Let the government open up commercial importation and get out of the way so we can rebuild our lives before it’s too late. After all, we are on our own — just as we have always been. 
+
+Peter Ogada, Nairobi As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
