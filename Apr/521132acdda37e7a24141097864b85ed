@@ -1,0 +1,153 @@
+The officials said sufficient oxygen supply at the referral hospital is a major boost to the increasing need occasioned by the Covid-19 pandemic. Covid-19 patients in critical condition might be forced to seek services in other counties as the Intensive Care Unit (ICU) at the Isiolo Referral Hospital is almost full. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In addition, wards at the hospital are all occupied. 
+
+Six patients are admitted at the centre with 13 beds while two others are under home-based care and are being monitored by health workers, according to County Health Executive Wario Galma. 
+
+By April 1, Isiolo County had recorded 559 Covid-19 cases and 13 deaths, two of them happening in the last one week. 
+
+Residents have recently reported cases of people dying from Covid-19-related complications but the health department insists the causes of death were not confirmed. 
+
+Reduced testing and delayed results have been blamed for the increasing cases of infection in the county as contact tracing has become difficult. 
+
+Health Chief Officer Ibrahim Alio asked residents not to drop the guard in observing guidelines for curbing the spread of the virus, warning that the county could report more cases if more tests are done. 
+
+A big number of those admitted to the ICU, he said, were people with underlying conditions. 
+
+Vaccination campaign 
+
+Mr Alio further asked residents aged 58 years and above to take advantage of the ongoing inoculation drive targeting the group in order to keep themselves safe from the virus. 
+
+The officials said sufficient oxygen supply at the referral hospital is a major boost to the increasing need occasioned by the Covid-19 pandemic. 
+
+The chief officer said the increasing number of patients being admitted at the ICU had overwhelmed the facility but that plans were underway to deploy more staff to the critical treatment centre. 
+
+“We are spending many resources on drugs and consumables at the ICU. The situation might worsen in the coming weeks. Our people should strictly observe the Ministry of Health guidelines to keep the disease at bay,” said Mr Alio. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We will have a crisis meeting to see how to deploy more critical care nurses to the ICU. I am appealing to all stakeholders to join hands and help stem the spread of Covid-19,” he added. 
+
+waweruwairimu001@gmail.com Governor Tunai says none of the Covid-19 patients in the county are in critical condition. Inquiries in top hospitals exposed frustrations families are undergoing to have sick relatives admitted. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
