@@ -1,0 +1,293 @@
+Events in Niger took a dramatic turn days before the country was about to make history by conducting the first transfer of power from one democratically elected government to another since its independence from France in 1960. In the early hours of the morning a military unit, reportedly from a nearby air base in the capital city, Niamey, launched an attempted coup.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The attack was quickly repelled by presidential guards. Adejuwon Soyinka asks Olayinka Ajala, an expert on Niger Republic, to unpack what this means for the future of the country.-------- 
+
+What lies behind the coup attempt? 
+
+There has been tension in the country since the results of run-off presidential elections were announced on the 23rd of February when the losing side rejected  the outcome. Mohamed Bazoum, a former interior minister, polled  55.75 per cent of the votes against the opposition candidate and former president Mahamane Ousmane who got 44.25 per cent. 
+
+
+
+
+
+
+Women walk past a campaign poster of Niger's former president and presidential candidate Mahamane Ousmane on February 18, 2021 in Niamey.
+Photo credit: Issouf Sanogo | AFP
+
+ 
+
+Ousmane alleged fraud. He claimed he had polled 50.3 per cent and that the election was rigged in favour of Bazoum. 
+
+While there had been an increase in violence in the country since the election results were announced, the attempted coup  on March 31 raised concerns to new levels in the volatile country. 
+
+The coup attempt was barely 48 hours before the inauguration of the new president was due. It shows that there is still some appetite to truncate democracy in some sections of the military. 
+
+Niger has been here before. What makes the country so volatile? 
+
+Since independence from France in 1960, Niger has experienced four coup d’états – in 1974, 1996, 1999, and 2010. It was under military rule for a combined 23 years before returning to democracy in 2011. 
+
+Three key factors explain the volatility of the country and its vulnerability to coups. 
+
+First is the economy. In 2019 the World Bank reported that over 40 per cent of people in the country were living in extreme poverty, a level considered extremely high by the bank. Security analysts argue that poverty increases instability – a prerequisite for coups. Although not all poor countries are prone to coups, other factors such as ethnicity and political calculations contribute to their likelihood. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Second, ethnic tensions and internal conflicts. The largest ethnic group in Niger are the Hausa which constitute about 56 per cent of the population, followed by Zarma-Songhai (22 per cent), Tuareg (8 per cent) and other small ethnic groups. 
+
+Successive military governments in Niger have taken various steps to stifle discussion about ethnicity in a bid to prevent it from dominating the polity. But this hasn’t stopped tensions. Smaller ethnic groups, such as the Tuareg, have gone as far as threatening to secede from the state. 
+
+Prior to Issoufou’s election as president in 2011, the Tuareg ethnic group engaged in constant agitation against previous regimes. But Issoufou was able to placate members of the ethnic group with political positions. 
+
+The Tuaregs have reduced their activities in recent years. Ethnicity nevertheless remains a polarising issue in Niger. 
+
+These tensions surfaced during the election campaign. Bazoum is from Niger’s ethnic Arab minority. Some opposition figures used this in the run up to polling and accused him of having “foreign origins”. Bazoum’s retort was that his rival’s father was from Chad. 
+
+A third issue is division in the Nigerien army. Issoufou attempted to unify the military by increasing the number of minority groups in the organisation. Nevertheless, ethnic divisions still affect it. 
+
+The most common criticism is that the army is negatively affected by appointments that are made along ethnic lines rather than for professional reasons. The larger ethnic groups are believed to be benefiting disproportionately from military recruitments. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+What role have regional players like Nigeria played? 
+
+Most regional players – especially Nigeria – supported the candidacy of Bazoum. This is because he rode on a platform of continuity and he is expected to continue the legacy of President Issoufou. 
+
+During his campaign, he labelled his policy platform Renaissance 3, a continuation of Issoufou’s Renaissance 1 and Renaissance 2 governing agendas. 
+
+There is a lot of interest in Niger in the region, particularly from Nigeria. Leaders of countries in the region didn’t openly support any candidate so as not to interfere in the elections. Nevertheless, Bazoum’s continuity agenda was welcomed by them too. 
+
+Niger is a key part of the security infrastructure in the Sahel and West Africa regions and is a member of the G5 Sahel and Multinational Joint Task Force. This implies that allies in the region would welcome a continuation of Issoufou’s legacy especially in combating the common threats. 
+
+What do recent events portend for peace and security in Niger, and the region? 
+
+The attempted coup is an indication that there is still division in the country and in the security infrastructure, especially the army. Having previously identified the challenges facing the new president, president elect Bazoum must ensure the country’s fragmented ethnic groups remain united to combat the security threats in the country. 
+
+The new president must also address the violence that’s broken out in the south west of the country. On the 21st of March 2021 armed gunmen raided several villages in southwestern Niger killing 137 people and injuring several others. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+If not addressed attacks like this will undermine peace and security, opening the door to opportunist military officers using them as excuse to stage another coup. 
+
+How can the new President build confidence? 
+
+Although Niger remains at the bottom end of the poverty index and insecurity remains high, Issoufou has managed to stabilise the country. He is the longest serving civilian president and also the first to handover to another democratically elected president. 
+
+The new president can build on these achievements to instil confidence in the country as well as the region. President elect Bazoum must ensure aggrieved ethnic groups are placated and must remain active in the regional security architecture while boosting economic productivity at home. 
+
+Article by Olayinka Ajala, Lecturer in Politics and International Relations, Leeds Beckett University Heavy gunfire heard in the middle of the night near the presidential palace. Some 12 per cent of the world trade volume passes through the man-made canal. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
