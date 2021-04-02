@@ -1,0 +1,215 @@
+The US government has announced the partial lifting of visa sanctions imposed on Sierra Leone over differences in the handling of deportees. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The US mission in Freetown said Secretary of State Antony Blinken ordered the move in recognition of the government’s increased assistance in facilitating the timely return home of its nationals who are subject to final orders of removal from the United States. 
+
+The sanctions were imposed in 2017 by the administration of former President Donald Trump, which at the time accused the Sierra Leone government of denying or “unreasonably” delaying accepting the return of its citizens, subjects, nationals or residents subject to final orders of removal from the United States. 
+
+In September last year, the issue became a heated subject of public discussion when the US government announced it was extending the ban. Sierra Leoneprotested the move, saying it had been cooperating with the US on the issue. 
+
+When they were imposed, the sanctions initially targeted junior level government officials mainly from the Foreign Ministry and Immigration Department. But when it announced the extension, the US Department of State notified the Sierra Leone government that it had extended the target to include immigrants and non-immigrant visas for ordinary Sierra Leoneans. 
+
+According to the statement announcing the latest decision, effective March 31, the US Embassy in Freetown will resume issuing all immigrant and most non-immigrant visas to qualified Sierra Leoneans. It adds that visa restrictions would continue to apply to B1, B2, and B1/B2 non-immigrant visas for officials of the Ministry of Foreign Affairs and Immigration Department until the Secretary of Homeland Security determines otherwise. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We recognise and appreciate the Government of Sierra Leone’s improvements on removals issues and trust that the government will continue to work with us in establishing a mutually-agreeable process for accepting Sierra Leonean nationals subject to final orders of removal from the United States,” said Ambassador David Reimer, who recently arrived in the country.  
+
+According to official sources, there were between 1,300 and 1,600 Sierra Leoneans in the US awaiting deportation as of September 2020. 
+
+The sanctions were also imposed during the administration of ex-president Ernest Bai Koroma. The current administration of President Julius Maada Bio said it had since changed that policy. But Foreign Affairs Ministry officials said the government had been trying to ensure thorough screening of the deportees to establish their true identity. They also blamed the delay on the Covid-19 pandemic. 
+
+Acceptance of deported citizens usually provokes huge public outcry in Sierra Leone, which has political implications for an incumbent government. 
+
+Reports also indicate that many of those on the US deportation list aren't Sierra Leoneans, and that many of them got their Sierra Leonean documents through fraudulent means when they sought asylum pretending to be victims of the country’s civil war. 
+
+Nearly 20 years after the war, there have been reports of people still buying the country's passport illegally. 
+
+Sierra Leone’s passport is said to be widely abused, and in some cases sold indiscriminately by rogue immigration and Foreign Affairs ministry agents. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2018, a joint operation by the US Embassy in Freetown and the Anti-Corruption Commission of Sierra Leone dismantled a major syndicate involving illegal issuance of diplomatic and ministerial passports. Eight people were detained, among them a top former government official who served under the Ernest Bai Koroma administration. 
+
+Koroma’s former head of Immigration was also declared wanted and was the subject of an extradition request from the United Kingdom in connection to that operation. More than 8,000 were displaced, dozens killed and many more are still missing following a coordinated attack on the town of Palma on March 24. The number of fighters loyal to the TPLF is likely swelling because of rising fury over atrocities Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
