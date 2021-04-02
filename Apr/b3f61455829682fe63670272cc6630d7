@@ -1,0 +1,157 @@
+Drivers said to have been attacked and their vehicles torched.The motive of the attack was not immediately clear. Two Kenyan drivers were yesterday killed and another two went missing after their trucks were ambushed along the Juba-Nimule highway in South Sudan. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Security agencies in Juba said they had responded to a report of an attack in which the drivers were attacked and their vehicles torched. The motive of the attack was not immediately clear. 
+
+Col James Dak, the deputy spokesperson of South Sudan National Police Service said a team was sent to the scene early yesterday.  
+
+“We were informed that some trucks that were driven by Eritreans were attacked at Neseito, so we sent a traffic police team to the scene of the incident but up to now they haven’t returned and thus I don’t have the full details of what happened. We will inform the media tomorrow [today] about the investigations,” said Mr Dak. 
+
+Juba could not confirm the nationality or number of drivers caught in the chaos, but an  association of Kenyan long-distance truck drivers said two of its members had been confirmed dead, and another two were missing.  
+
+Attacked by gunmen 
+
+Kenya (Truck) Drivers Association chairman David Kerote said three trucks were attacked by a group of gunmen along the Nimule-Juba road before daybreak yesterday.  
+
+“I was informed that three trucks – two fuel trucks and one goods truck – were attacked by a group of armed people along the Juba-Nimule road at around 4am yesterday. Two  drivers were burnt to death and two were missing.  
+
+“We can’t tell whether those who went missing have died or are in hiding. I have informed the Kenyan government about the incident and I appeal for investigation into the occurrence,” Mr Kerote told the Nation. 
+
+The association did not disclose the exact location where the incident happened.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Nation saw photos of trucks, including a fuel tanker that had apparently been torched on the roadside.   
+
+Notorious for ambushes 
+
+One driver who arrived at the scene after the attacks said he saw two bodies that had been burnt beyond recognition in two of the trucks. The Nation could not verify the authenticity of the photographs. 
+
+The Juba-Nimule highway connects the capital of South Sudan to the border with Uganda, the main route Kenyan drivers use to ferry transit goods to South Sudan.  
+
+The highway is notorious for ambushes and illegal roadblocks by some of the militia groups in South Sudan.  
+
+The country returned to normalcy after seven years of war in February last year, following the formation of a transitional government of national unity. 
+
+However, some groups have refused to sign the peace deal, allowing continued sporadic attacks on civilians across the country. They took to the streets, demanding that authorities take measures to curb road accidents. Five survivors were referred to a local hospital in Kasese District in western Uganda. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
