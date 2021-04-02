@@ -1,0 +1,153 @@
+The risk of soft tissue injuries is higher just before ovulation, due to the effects of a rise in oestrogen on ligaments, muscles and tendons. As a follow-up to last week’s column where we discussed the weighty issue of running with breasts, it feels like a good time to talk about something equally germane. Period problems. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I know, I know. That’s the subject nobody wants to talk about. And if you allow me a moment’s worth of honesty, I will tell you that I wasn’t entirely comfortable writing about this. 
+
+I kept wondering how you, my cherished readers, would feel about reading more than 500 words on menstruation. 
+
+I mean, most people hear about periods and they think it is all about blood loss and pain and that it is too personal a subject to talk about openly. Well, that is problem number one. We are yet to normalise the issue of female athletes’ menstrual cycles. But that is story for another day. 
+
+Gather around, members of the #WomenInSports brigade. For I am about to share some tidbits that might change your perception on menstruation and its effects on athletic performance for good. 
+
+For the clueless men in the room, I’ll break it down a little. For a few days every single month, 95 per cent of women experience a shift in mood and a decline in energy levels. 
+
+For female athletes, the stakes are so much higher. Should a race or a big training session clash around the three days of the month, it is almost impossible to hit targets. 
+
+The inflamed cores, painful cramps, reduced energy levels, worry, distraction, wild cravings, fluctuating emotions, reduced motivation, heavy menstrual bleeding and decreased appetite can certainly occasion a decline in athletic performance. 
+
+But guess what? Therein lies your strength! All you need to know is how to play around with the changing hormonal levels through the course of your period.For example, in the first half of the cycle, as oestrogen levels start rising, females are more likely to get the most benefit from a strength or high-intensity training session as the repair of muscle tissue is thought to be better at this time, and energy and strength levels rise to a peak. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Additionally, the risk of soft tissue injuries is higher just before ovulation, due to the effects of a rise in oestrogen on ligaments, muscles and tendons. 
+
+That’s the time you are most likely to suffer anterior cruciate ligament (ACL) injuries. And this is not just me talking. When the US team – led by stars Megan Rapinoe and Alex Morgan – won their fourth World Cup title in 2019, performance coach Dawn Scott revealed that the squad used period tracking and considered it as their breakthrough strategy to win. 
+
+But while there is a growing understanding on the effects periods have on female athletes, many female sports personalities, especially here in Africa, have neither the knowledge on how best to work with their menstrual cycles, nor the guts to skip training during the rainy days. 
+
+If you are this type of sports woman, there are many cycle tracking apps like Clue and FitrWoman which can help you apply specific ways to train and fuel your body during the different phases of your period. 
+
+Let’s hope that new studies will normalise the conversations of the female cycle. We shouldn’t have to be apologetic about it. 
+
+colilo@ke.nationmedia.com As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
