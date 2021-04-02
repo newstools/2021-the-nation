@@ -1,0 +1,151 @@
+Amid mounting international pressure, Abiy said a week ago that Eritrean troops would pull out of Tigray. The war in Ethiopia's northern Tigray region risks dragging on for months and even years, with both sides eyeing a military "knockout blow" that appears unrealistic, the International Crisis Group (ICG) said Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Prime Minister Abiy Ahmed sent troops into Tigray in November to detain and disarm leaders of the once-dominant regional ruling party, the Tigray People's Liberation Front (TPLF). 
+
+He said the move came in response to TPLF-orchestrated attacks on federal army camps. 
+
+Abiy declared victory within weeks, but combat has continued recently in central and southern Tigray, conflict-prevention group ICG said in a briefing published nearly five months after the first shots were fired. 
+
+The number of fighters loyal to the TPLF is likely swelling because of rising fury over atrocities, it said. 
+
+Even though Ethiopia's military has backing from Eritrea and Ethiopia's Amhara region, which borders Tigray to the south, most TPLF leaders remain on the run and ICG noted that none were reported captured or killed in February or March. 
+
+Fighters regroup 
+
+Pro-TPLF fighters have regrouped under the Tigray Defence Forces, an armed movement "led by the removed Tigrayan leaders and commanded by former high-ranking" military officers, ICG said. 
+
+The resistance is "entrenched" and enjoys popular support from Tigrayans angry over mass killings and rapes, including those committed by soldiers from Eritrea, the TPLF's bitter enemy, ICG said. 
+
+Amid mounting international pressure, Abiy said a week ago that Eritrean troops would pull out of Tigray. 
+
+But the region's interim leader Mulu Nega told AFP this week that withdrawal was "a process" and would not happen immediately. 
+
+Mulu, who was appointed by Abiy, has previously acknowledged that the Tigrayan population has "mixed feelings" about his administration's presence in the region. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He and other officials, though, have said assumptions that the TPLF enjoys widespread popular support are misguided and have downplayed its potential to mount an effective insurgency. 
+
+ICG said in its briefing that peace talks seem unlikely in the immediate term, but called on the US, the EU and the African Union to push for a cessation of hostilities and expanded humanitarian access. Majority of health facilities in the region have been destroyed or looted during the conflict. Conflict in Tigray has become a "dirty war" that is causing suffering for "defenceless" victims, General Tesfamariam told diplomats. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
