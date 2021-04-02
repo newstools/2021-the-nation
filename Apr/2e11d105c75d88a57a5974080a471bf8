@@ -1,0 +1,151 @@
+The African Union on Thursday called for urgent and coordinated international action after a jihadist attack that killed dozens and uprooted thousands on the northern Mozambican coastal town of Palma. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The jihadists captured Palma on March 24, ransacking buildings and beheading residents and forcing thousands to seek safety in surrounding forest. 
+
+Dozens have been killed, more than 8,000 displaced and many more are still missing following the coordinated attack seen as the biggest escalation of an Islamist insurgency that has battered Cabo Delgado province since 2017. 
+
+In a statement, AU chairman Moussa Faki Mahamat said he "condemns in the strongest terms the terrorist attacks". 
+
+Expressing "utmost concern" at the presence of international extremist groups in southern Africa, he called for an "urgent and coordinated regional and international action". 
+
+Regional bloc the Southern African Development Community held emergency talks in Harare to discuss the violence. 
+
+Botswana's President Mokgweetsi Masisi vowed regional help, but gave no details. 
+
+He said SADC would "respond in a helpful manner that we assure the integrity and sovereignty of one of our own, never to be assaulted by dissident, rebellious and non-state actor forces that undermine the democratic credentials and peace in the region." 
+
+But Mozambique President Filipe Nyusi on Wednesday downplayed the latest attack as "not the biggest", despite its unprecedented proximity to Africa's single biggest investment project. 
+
+Palma is around 10 kilometres (six miles) away from a multi-billion-dollar liquified natural gas project (LNG) led by France's Total and involving other international companies. 
+
+Total had already suspended operations and evacuated some staff in late December after jihadists launched a series of raids near its compound. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mozambique has sent troops to Palma to try and recapture the city. 
+
+Cabo Delgado's jihadists have wreaked havoc across the province in a bid to establish a caliphate. 
+
+The insurgents are affiliated to the Islamic State group, which claimed the attack on Palma this week. Palma is now a ghost town, with the remains of the dead laying in its streets. Save the Children says children as young as 11 years old have been targeted. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. In the rare instance, an ICU bed becomes available, money will determine if you get it.
