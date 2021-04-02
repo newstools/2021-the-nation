@@ -1,0 +1,218 @@
+Kandie and Barsoton have been sharpening their skills in Iten while Kamworor has been training at Kaptagat Forest as he seeks to participate in his first international race since he recovered from a motorbike accident in Eldoret last yearKandie revealed that he will be using the race to gauge his performance before shifting focus to the track with an eye on making Kenya's 10,000m team for the Tokyo Olympic GamesThe women's race has also attracted top athletes with world marathon record holder Brigid Kosgei set to clash with world marathon champion Ruth Chepng'etich It will be a battle of titans when world half marathon record holder Kibiwott Kandie and former world half marathon champion Geoffrey Kamworor clash at Istanbul Half Marathon in Turkey on Sunday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some of the athletes participating in the race were supposed to compete in Ras Al Khaimah Half Marathon in February before it was cancelled due to Covid-19 pandemic. 
+
+Also in the race will be Leonard Barsoton who was sixth at the World Athletics Half Marathon Championships in Gdynia, Poland last year. He is expected to perform well after vigorous training. 
+
+Kandie and Barsoton have been sharpening their skills in Iten while Kamworor has been training at Kaptagat Forest as he seeks to participate in his first international race since he recovered from a motorbike accident in Eldoret last year. 
+
+Kandie told Nation Sport that he is ready for the task ahead and wants to start the season on a high. 
+
+"This my first race this season and in competition you just apply what you have been preparing for the last four months. The race will be determined by how the body reacts after 5km but I believe I've prepared well. I'm looking forward to a good race," said Kandie. 
+
+He revealed that he will be using the race to gauge his performance before shifting focus to the track with an eye on making Kenya's 10,000m team for the Tokyo Olympic Games slated for July and August. 
+
+"I know it will be a fast race and I will be targeting the podium as a winner but my main target is to see how my body will react. I want to make the team that will be representing the country in the 10,000m during the Olympic Games," he said. 
+
+Kandie won Valencia Half Marathon last year in December in a new world record time of 57:32, shattering the previous record of 58:01 held by Kamworor. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kosgei, Chepng'etich battle 
+
+Kandie managed to shake off a strong field including Uganda's World Half Marathon champion Jacob Kiplimo who came second timing 57:37 while another Kenyan Rhonex Kipruto finished third in 57:49. 
+
+The women's race has also attracted top athletes with world marathon record holder Brigid Kosgei set to clash with world marathon champion Ruth Chepng'etich. Also in the race is Joan Chelimo. 
+
+Kosgei, who has been training at Kapsait in Elgeyo-Marakwet County, termed the race as challenging because they will be competing at a time athletes have stayed out of action due to coronavirus pandemic. 
+
+"It has been a long break in terms of competition and we shall be lining up to go for the prize though it comes at a time when many athletes are suffering due to lack of races across the world. The world is suffering but we hope the virus shall be contained so that we get back to our normal lives," said Kosgei. 
+
+Kosgei will also be using the race to prepare for the Tokyo Olympics. 
+
+"In the past I have a been participating in a half marathon race before a big assignment and this is no different because it helps me identify my weak points and rectify before then," she added. 
+
+Chepng'etich, on the other hand, said she feels privileged to be back in action having last competed in New Delhi Half Marathon where she finished second in 1:05:06 behind Ethiopia's Yalemzerf Yehualaw who won in 1:04:46. 
+
+"It's a competitive race and I'm just using it as part of my preparations towards Olympics Games where I will be eyeing a place in the podium. I'm going to give my best shot because it has been a long break," said Chepng'etich. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list.
