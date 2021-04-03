@@ -1,0 +1,257 @@
+ When boda boda operators got wind of a suspected motorbike thief’s arrest and was being taken to Kibugu police station, they sped in that direction in droves. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The riders grabbed the suspect from the locals and rode back to Embu town – 13 kilometres away – where they killed him and set the body on fire. 
+
+Embu County police boss Daniel Rukunga accused the boda bodas of taking the law in their hands. 
+
+A week before that, men in jackets and helmets invaded Karatina Hospital, dragged out two people suspected to be behind the theft of motorcycles in Mathira constituency and killed them. 
+
+The boda bodas said they were not happy with the way police investigations were proceeding following the murder of their colleagues. 
+
+Robert Nderitu, 28, and James Wahome, 29, were killed at the hospital compound as police officers watched from a distance helplessly. 
+
+Vigilantism and lawlessness among the riders has security officials in Mt Kenya worried. 
+
+Motorcycle theft 
+
+A bloody war between a gang and boda bodas has been brewing in Mathira, with nine people killed in under three months. 
+
+But this is no ordinary war on motorcycle theft. Investigations have shown that rivalry and infighting have been playing out among boda boda associations, leading to injuries and killings. 
+
+As police take the heat for “complacency” and “complicity”, the vigilantes get retribution for their colleagues by spilling more blood. 
+
+This was made clear at an abortive security meeting in Gacuiro village on Wednesday when riders walked out, accusing police of doing little in fighting crime. 
+
+They had one message for Mathira Deputy County Commissioner Anthony Maina and his team – “arrest the people killing our colleagues or we will kill them”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was not the first time the boda bodas made the threat. And the warnings keep translating into action.  
+
+After their killing, Nderitu and Wahome’s bodies were set on fire. 
+
+Earlier, an attempt to lynch the two alongside a third man had been thwarted by police. 
+
+The boda bodas then regrouped, stormed the hospital and beat the pair to death. 
+
+The riders said the lynching of the two was just a taste of what was to come. 
+
+The murders of Anthony Miano, Eliud Wambu, Timothy Wanjohi, William Kirii, Elijah Wahogo, Alex Wambugu and George Kariuki – all riders – remain unresolved. 
+
+George Kariuki, 21, from Kiawarigi is the latest victim of the crime that has hit Mathira. 
+
+Kariuki’s body was found in Tagwa forest, Kieni East, two days after he went missing. 
+
+The body of Eliud Wambu was found by the road, about two kilometres from Karatina, last month. Wambu had reportedly gone to pick a passenger the previous night. 
+
+Police now find themselves with nine murders on their hands. Nobody has been arrested in connection with the seven killings and two cases of lynching in Mathira. 
+
+The riders say they are tired of being told by police that investigations are at an advanced stage. 
+
+“We are following crucial leads and will close the cases soon. Apart from the murders, we are also looking into the burning of houses,” Nyeri County Police Commander Adiel Nyange said. 
+
+Political campaigns 
+
+Police sources, however, say the killings could have been motivated by business and political rivalry. 
+
+The more than 3,000 boda bodas are an asset when it comes to political campaigns. The riders are said to be aligned to several political camps. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Police have questioned the speed at which the riders identify suspects, attacking them and their homes. 
+
+Detectives say they are withhold information as they know the motives behind the killings. 
+
+Police in Mt Kenya have launched an operation on boda bodas, saying they are an impediment to the investigations. 
+
+“The riders have become the investigators, prosecutors, judges and executioners. That must stop,” Mr Nyange said. 
+
+There was a crackdown on traffic offenders and those implicated in killings on Wednesday. 
+
+The Nation, however, learnt that the operation was advised by intelligence reports that the riders were planning raids on the homes of people suspected to be involved in crime. 
+
+As of Thursday, some 132 motorcycles had been seized and 40 riders arrested. Ten motorbikes were flagged by police and National Transport and Safety Authority as possibly being involved in crime.  
+
+nkomu@ke.nationmedia.com  They have vowed to eliminate a murderous gang which has been attacking them Bodaboda riders have been launching retaliatory attacks accusing the police of leniency. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
