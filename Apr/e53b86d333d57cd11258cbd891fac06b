@@ -1,0 +1,235 @@
+The shift from buying milk sold in plastic containers to that distributed through Anytime Milk Machines (ATM) has been lauded as a milk retailing innovation in the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The ATMs have enabled consumers to buy quality and safe milk. However, while this is true to a large extent, studies have shown that milk adulteration, bacterial contamination and chemical preservatives are also present in ATM milk. 
+
+A recent study showed 55.3 per cent, 18.4 per cent, 23.7 per cent, 6.3 per cent and 7.6 per cent of milk sampled from various ATMs had not complied with the set standards for solids, total viable bacterial count, total coliform counts, hydrogen peroxide and presence of antibiotics respectively. 
+
+In yet another study, 55 per cent of the sampled milk from ATMs in one city had hydrogen peroxide while 23 per cent had bacterial contamination. 
+
+Buyers should, therefore, strive to double-check the quality and safety of milk purchased for various reasons, which include sensitivity of the target consumer such as babies, the need to get a constant supplier, to be sure and health implications of contaminated milk. 
+
+Milk ATMs 
+
+The milk vending machines are used for dispensing pasteurised and homogenised milk starting from 200ml. They are made of materials that are approved to handle food and have a refrigerated system that ensures milk is stored at 4OC. 
+
+The safety and quality assurance of milk from ATMs, coupled with their ability to dispense required amounts of milk, preservation ability, fair price as compared to packaged milk, record-keeping by the machine and the prior processing of raw milk has led to exponential growth of the technology. By the beginning of 2018, 500 ATMs had been registered across the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Milk sold through the machines can get contaminated/adulterated by physical materials (dirt or dust), chemicals (preservatives like hydrogen peroxide) and drug residues. Factors that contribute to milk contamination include the fluid nature of the product that allows it to mix easily with other substances like water, greed, demand and supply gap, which leads to addition of water to increase the volume, perishable nature of milk that leads to addition of chemical preservatives, low purchasing power of some consumers who insist on lowered prices forcing traders to add cheaper substances, weak legal/standard enforcement, and unavailability of milk testing laboratories. 
+
+Contamination/adulteration 
+
+Milk adulteration is the deliberate addition of substances that affect the quality and safety of milk while contamination might not be intentional. Some of the common milk adulterants include hydrogen peroxide (for milk preservation and prolonging of shelf-life) and water (for extending the volume) while bacterial contamination occurs before milking through infection of the udder (mastitis) or after milking. 
+
+Simple tests to detect milk adulteration/contamination 
+
+Although these tests can be used for any milk, the ATM milk is overemphasised here due to the rapid expansion of the technology. Test strips and lactometer used for these tests are available in agrovet shops, with the former retailing at less than Sh150 while the latter at Sh500. The latter is a long term use tool. 
+
+General milk adulteration examination: 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+1. Put a drop of milk on a polished vertical surface/wall. If it stops or flows slowly, leaving a white trail behind, then it is of good quality. Milk contaminated with water flows faster. 
+
+2. Boil a glass of milk on low heat while stirring it with a spoon until all the water evaporates. If the resulting solid is oily, then it is pure milk. If it is rock solid, most likely the milk had been adulterated. 
+
+Hydrogen peroxide 
+
+Dip a hydrogen peroxide test strip in a teaspoonful of milk. Colour change, for example, in the Quantofix paper from white to blue is an indication of hydrogen peroxide in the milk. 
+
+Water addition 
+
+Dip a lactometer in a glass of milk and check the reading. Most lactometers indicate whether a quarter, half or more water has been added. Density of pure milk is 1.028g/ml-1.036 g/ml (28-32 on the lactometer). 
+
+Mastitis/microbial contamination 
+
+Put a drop of milk on the test spot of a mastitis indicator paper. Colour change for example yellow to green for Kerbl paper is an indication of mastitis. 
+
+Packaged/powdered/UHT Milk 
+
+Smell, taste and appearance play a role in detection of the above substances but one should have used them previously to be able to identify them 
+
+Dr Mwirigi is a livestock production specialist.rivavet@yahoo.com Moses Gitonga grows giant varieties of pumpkins on an acre-and-a-half in Nagum village in Gilgil, Nakuru County. Purko Development Trust owns a community ranch in which they keep over 600 Coriedale sheep. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
