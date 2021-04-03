@@ -1,0 +1,411 @@
+Good Friday was a tale of two jurisdictions, with churches in the five Covid-19-infested counties shut or operating at their bare minimum, with a semblance of the usual “Way of the Cross” processions in the rest of the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Holy Family Basilica in Nairobi, which would have hosted multitudes on a normal Good Friday, was deserted. The Saturday Nation found some faithful in the vicinity of the church, praying in solitude. 
+
+In contrast, in the Catholic dioceses of Eldoret, Kakamega, Samburu and others, clerics led the sprinkling of congregants who attended the Easter prayers. Most churches, however, held shorter processions than usual. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Migori Catholics mark the way of the cross as Easter celebrations gain momentum
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Transmission of proceedings online also featured a lot in the day that is key to the Christian calendar, given its significance to the religion. 
+
+The All Saints Cathedral in Nairobi was largely deserted while at the Nairobi Baptist Church, there were about a dozen people inside the 3,500-capacity building. Pastor Munengi Mulandi, who was in the church, said the ban on in-person worship in Nairobi, Kajiado, Machakos, Kiambu and Nakuru counties as a measure towards taming the third wave of the Covid-19 pandemic had hit churches hard. 
+
+
+
+
+
+
+Bishop Dominic Kimengich (centre) of Eldoret Catholic Diocese leads Mass at Sacred Heart of Jesus Cathedral in the town on April 2, 2021.
+Photo credit: Jared Nyataya | Nation Media Group
+
+ 
+
+At the Holy Family Basilica, we found Celine Namwila sitting quietly as she studied the “holy word” while a cool morning breeze gently whooshed by. 
+
+“The Easter Mass is the peak of the Catholic calendar. It is depressing that we cannot have Mass as we are used to. However, not being able to enter the church does not mean that we cannot pray to God,” she said. 
+
+It was a similar sight in Nakuru, where many churches were closed. 
+
+The Metro International Church, which is usually filled to the rafters on normal Easter celebrations, was empty, save for its Bishop Mike Brawan, who said the Covid-19 pandemic had forced many adjustments. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Because of the challenges brought about by Covid-19, we have been forced to think differently. We have introduced online church services,” the cleric said. “However, the move also has its challenges, as not every member is able to access the online services.” 
+
+Bishop Brawan urged Kenyans to donate foodstuff to families going through tough economic times and the less fortunate in society. 
+
+In the Nakuru Catholic Diocese, St Monica, Holy Cross Catholic Church and Holy Trinity Catholic Church in Milimani remained shut. 
+
+In areas where in-person worship is allowed, it was a mixed bag. 
+
+In Narok, Nyandarua, Laikipia and Samburu, faithful opted for modest services held by small groups of clergymen. 
+
+In Samburu, most residents followed virtual sessions from the comfort of their homes. However, a handful managed to attend churches. 
+
+In Maralal town, most church gates were closed as soon as the number of worshippers reached the stipulated maximum. 
+
+
+
+
+
+
+  Catholic faithful holds a prayer at St Joseph Milimani in Kisumu on April 2, 2021.
+Photo credit: Tonny Omondi | Nation Media Group
+
+ 
+
+In St Peter’s Catholic Parish in Maralal, notices were pasted on gates urging worshippers to stay home and follow the proceedings virtually. Only 100 worshippers were allowed in the 800-capacity church. Bishop Virgilio Pante said the church would continue to observe guidelines issued by the Ministry of Health to mitigate the spread of Covid-19 and urged Christians not to relent praying because “prayer is the key if we want to defeat coronavirus”. 
+
+“We urge everyone to pray for our country. We are in a bad situation right now. Let us not only pray for Easter but also pray that God can lift us from this pandemic to allow us worship and do our businesses normally,” Bishop Pante said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Western Kenya, Kakamega Bishop Joseph Obanyi led a service at St Joseph’s Cathedral, where he called on priests to remain “the sign of hope when people are in despair”. The cleric, who is also the apostolic administrator of Bungoma Diocese, urged all the priests to be mindful of others. 
+
+In Bungoma, Fr Chrisantus Wanyonyi of Christ the King Catholic Church, urged the faithful to stay safe during the Easter holiday. 
+
+In Kisumu, St Joseph’s Catholic Church Milimani had its Good Friday service in the open to accommodate more worshippers and observe social distancing. 
+
+Fr Emmanuel Oketch Okello, while praying for a special healing, expressed hope that Kenyans and the international community will overcome the challenges posed by the respiratory disease. 
+
+
+
+
+
+
+Shieywe sub-parish Catholic faithful hold procession of the cross along Kakamega-Mumias Road to Holy Angels Lutonyi Parish in Kakamega.
+Photo credit: Isaac Wale | Nation Media Group
+
+ 
+
+“This is not a normal service. For the second year, we have not conducted processions and night vigils,” he said. 
+
+In Eldoret, Bishop Dominic Kimengich addressed journalists after presiding over a Good Friday Mass where he asked the government to address issues around availability of vaccines. 
+
+Bishop Kimengich said there is a need for the government to bring on board all stakeholders to ensure that all Kenyans are immunised against the virus. 
+
+“I urge the government to ensure there are enough vaccines to meet the expectations of many Kenyans who are earnestly waiting to be vaccinated. All Kenyans, regardless of their status in the society, have a right to get the jab — all the way from Coast to Turkana,” he said. 
+
+On the lockdown announced on March 26, Bishop Kimengich hailed President Uhuru Kenyatta for locking down the five counties. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“It was a wise decision for the President to lock down the affected counties following advice from experts,” he said. 
+
+At St Joseph’s Parish Ombo in Migori, the day saw low attendance of believers and remarkably short services. 
+
+
+
+
+
+
+Fr James Muraya of St Peter’s Catholic Church in Elburgon, Nakuru County, prays on April 2, 2021. John Njoroge | Nation Media Group
+Photo credit: John Njoroge | Nation Media Group
+
+ 
+
+Parish priest Alloyce Okumu said they were unable to undertake the normal ceremony due to strict guidelines issued by the church leadership following the Covid-19 outbreak. 
+
+“We usually walk five kilometres from the church and back but this time round we made a relatively shorter trip,” said Fr Okumu. “We hope that the virus will go and we will get an opportunity to worship freely. Nothing lasts forever.” 
+
+In Mombasa, assistant priest Polycarp Arori Ong’era led Mass at the Holy Ghost Cathedral, the largest Catholic church in the city. 
+
+Fr Onge’ra said Good Friday was marked differently this year because of the various restrictions placed by the government. 
+
+“On this day, we usually walk with the cross on the road, reciting the prayers and meditating about Jesus’ sufferings. But because of the current regulations, we have had to do it in church,” he said. 
+
+Away from church, other Easter-related activities like cross-country travel had an unusual touch. 
+
+In Kisii, most streets were deserted, with most people choosing to celebrate Good Friday quietly in their homes. 
+
+On a normal Friday, the town is usually congested with people winding up the week in pubs and restaurants. 
+
+“We have not had any business here. There are no people traveling upcountry from Nairobi or Nakuru because of the lockdown in those counties. Things are bad and we have nothing to celebrate,” said Mr John Omonge, a matatu operator who plies the Nairobi-Kisii route. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+However, there were reports of travellers from Nakuru to various areas of western Kenya using detours to move out of the zone locked down last week. Drivers found ways of escaping police roadblocks to enter the neighbouring Bomet and Kericho counties in Molo and Londiani. 
+
+In Bungoma, County Commissioner Samuel Kimiti said police were heightening patrols. 
+
+“Anyone found flouting traffic rules and defying curfew orders will be arrested,” he said. 
+
+In Turkana, locals were going on with their normal activities. They said most of their business were yet to recover from the effects of the Covid-19 pandemic. 
+
+Mr Peter Lospan said that just like last year, his plans to take his family of five to a vacation at Elite Springs on the shores of Lake Turkana or at the Coast had been shelved. 
+
+“I own a bar in Lodwar town and I have never recovered to a point of saving enough for a vacation,” Mr Lospan said. 
+
+Most hotels scaled down publicity on expected offers due to containment measures. 
+
+By Derick Luvega, Victor Raballa, Ruth Mbula, Vitalis Kimutai, Ian Byron, Titus Ominde, Brian Ojamaa, Sammy Lutta, Steve Otieno, Siago Cece, Onyango K’Onyango, Eric Matara and Geoffrey Ondieki. Some of the most affected by the lockdown are workers in hospitality, entertainment sectors. New measures came after admissions hit a fresh peak that have seen hospitals run out of ICU facilities. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
