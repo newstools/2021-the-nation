@@ -1,0 +1,289 @@
+Some 1.02 million AstraZeneca vaccine doses arrived in Kenya last month from the Serum Institute of India. Since then, the government rolled out an elaborate immunisation exercise across the country that has seen frontline workers and ordinary Kenyans alike receive their first jabs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Now that hundreds of thousands of Kenyans have been vaccinated, many are wondering what to expect. 
+
+Here are some answers compiled from World Health Organisation (WHO) Director of Immunisation, Vaccines, and Biologicals, Dr Kate O’Brien, Dr Dominic Ngugi and the Aga Khan University Hospital. 
+
+When does immunity kick in and how long will it last? 
+
+The vaccines we have right now are two-dose vaccines. After the first dose, we see a good immune response that kicks in within two weeks of the first dose. The second dose boosts the immune response within a shorter period of time. We don’t know how long immunity lasts after vaccination. We are following people who have been vaccinated to find out whether or not their immune response is durable over time and the length of time they are protected against disease. 
+
+What are the side effects of the vaccine? 
+
+Injection site pain, headache, fatigue; muscle pain (myalgia), a general feeling of ill health (malaise), fever, chills and joint pain, nausea. The majority of adverse reactions are said to be mild to moderate in severity and usually resolved within one to two days of vaccination. 
+
+By day 7, the incidence of subjects with at least one local or systemic reaction was 4 and 13 per cent, respectively. When compared with the first dose, adverse reactions reported after the second dose were milder and reported less frequently. 
+
+Can I still catch Covid-19? Can I still infect others? 
+
+Clinical trials showed that vaccines protect people against disease. What we don’t know yet is whether or not the vaccines also protect from just getting infected with Sars-CoV-2 and whether or not it protects against transmitting to somebody else. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I have an underlying medical condition that requires me to take daily medications. If I have been vaccinated, should I continue taking my meds? 
+
+Yes, says Dr Dominic Ngugi. 
+
+“You should continue with your medication as usual.” 
+
+I had surgery a few months ago, does it mean I can develop blood clots if I take the vaccines? 
+
+There have been reported cases of rare blood clots associated with the vaccine in Europe but unless you have hypersensitivity like an allergy, there’s no cause for worry. 
+
+“What you should probably do is continue exercising to better your circulation. Avoid sugar and animal fat like meat,” notes Dr Ngugi. 
+
+Also, he says, have a ketogenic diet which is a very low-carb and high in good fat. 
+
+“You eat fewer carbs and replace them with fat from olive oil and avocadoes,” explains Dr Ngugi. 
+
+I currently have flu, should I be vaccinated? 
+
+Yes. 
+
+Can I use painkillers after I have been vaccinated? 
+
+Talk to your doctor about taking over-the-counter medications, such as ibuprofen, aspirin, paracetamol, or antihistamines, for any pain and discomfort you may experience after getting vaccinated. You can take these medications to relieve post-vaccination side effects if you have no other medical reasons that prevent you from taking these medications normally. However, it is not recommended you take these medicines before vaccination for the purpose of trying to prevent side effects. 
+
+Is consumption of alcohol after vaccination bad? 
+
+Though there is no data on this, Dr Ngugi advises to abstain or reduce alcohol intake for the first 48-72 hours after vaccination as this is the usual advice. In the UK, experts recently advised people to avoid drinking alcohol in the days leading up to and after receiving the Covid-19 vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“If you must have it, then take it in moderation. A glass of wine or a bottle of beer,” he says. 
+
+How long do I need to take precautions for after vaccination? 
+
+We need to continue with precautions as we learn about what vaccines can do like preventing infection and transmission. We are still in very broad transmission. The length of how we continue with precautions is dependent on what countries and communities can do to crush the virus so that vaccines can do their best job at preventing disease. 
+
+We don’t have evidence yet for the use of Covid vaccines in some age groups like children, so for the time being such age groups will continue being at risk of infection and transmission. Secondly, we don’t have enough vaccines to protect everybody, therefore, we must continue to take precautions especially washing our hands, wearing masks, and maintaining physical distance and not gathering in large groups. 
+
+How long we need to continue with these interventions? 
+
+Only time will tell. Once we get broad vaccination in the community and know more about what the vaccine can do to prevent infection, only then can we slowly begin to take our collective foot off the pedal on these other interventions and ensure that transmission doesn’t start to escalate again. 
+
+Does the Oxford/AstraZeneca vaccine protect against the new viral variants? 
+
+According to preliminary results obtained in the UK, this vaccine maintains a high efficacy against the “British" (B1.1.7) variant. In contrast, its capacity to protect against symptomatic infections caused by the variant first identified in South Africa (B1.351) seems to be much lower (around 25 per cent), according to a small clinical trial in the African country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+ 
+
+emerab@ke.nationmedia.com This week, there was outcry in Pakistan after lobby groups criticised the private importation of Covid-19 vaccines. It is believed the SARS-CoV-2 virus that causes Covid-19 originally came from bats. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
