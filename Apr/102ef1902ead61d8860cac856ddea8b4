@@ -1,0 +1,265 @@
+The 15th Presidential Address on the Coronavirus Pandemic was a most remarkable work of public communication. Heralded with a grave heading and rendered in portentous style, we in the national audience could not help anticipating the solemn delivery of an historic sovereign writ. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Certainly, the measures announced were sufficiently draconian to produce enduring effects, both negative and positive. However, what caught the eye was the flagrant ambiguity and redundancy of a document intended to provide clear guidance, not confusion. It was as though the dramatic affectation of stately grandeur had usurped clarity and undermined the address’ effectiveness as a public policy instrument. 
+
+Over the next couple of days various concerned individuals and organisations in the public and private sector published clarifications in efforts to rationalise the presidential address. 
+
+Two ranking administration insiders used social media to set the record straight, before the Government Spokesman held a news conference where he basically restated the presidential address. It was a deeply embarrassing spectacle, all told. 
+
+The chaos that surrounded the announcement of the latest measures has become a defining feature of public management. Aside from intense contestation over the meaning of “cessation of movement” and whether it applies “within” or “between” named counties, the coming into effect of the measures called for astute interpretation to avoid hardship. At the same time, different state organisations seemed to be interpreting directives differently, according to their (perverse) incentive structures, leaving citizens in the lurch. 
+
+Eligible segments 
+
+This disjointed approach to public affairs has also creeped into the most decisive dimension of pandemic management: vaccine administration. Quite incredibly, it is not easy to ascertain what the official position on this matter is. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is, for instance, difficult to know whether the vaccine is free of charge for everybody, or for certain eligible segments of the population. Similarly, it is hard to tell who is eligible, where the shot can be obtained, if and how priority considerations apply. 
+
+The mystery of vaccine administration deepened when it appeared that anyone who turned up at any centre got the jab, regardless of their eligibility. As conscientious Kenyans waited patiently for their turn, strapping younglings in their thirties were proudly proclaiming their vaccination while those in their sixth decade remain unattended. 
+
+At the moment, some Kenyans are content to wait, while others shuttle from hospital to hospital in search of the elusive vaccine. Others are calling in favours and making use of their connections to leapfrog their way to eligibility wherever it is observed. 
+
+Centres are beginning to suspend vaccination campaigns because stocks are exhausted, and one can only pray that the second dose will be administered with integrity. With all this confusion, the faith of many people in vaccination is tested daily, and suspicion intensifies. 
+
+Private initiatives to make alternative vaccines available to those who would pay have been greeted with derision and intolerance. This response creates the worrisome impression that vested monopolistic interests are deeply embedded in the Covid-19 management system. The idea that Covid billionaires may be the masterminds fomenting the chaos in public management is not implausible at all at this point. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Covid-19 containment 
+
+Our shambolic effort in Covid-19 containment and mitigation will be devastating. Many avoidable losses, especially of lives and livelihoods, are going to have a long-lasting negative impact on national wellbeing and public confidence in government. 
+
+Our leadership has emphatically signalled that the lives and livelihoods of Kenyans are hardly priority in comparison to the ego trips of big men. At our hour of greatest need, government abandoned the opportunity to stand meaningfully with all its people. This season of missed chances has nonetheless enabled the rise and rise of violent policing in the name of governance and toxic VIP culture. 
+
+In the era of one-government approaches, multiagency response framework, an intensely regimented Cabinet with aggressive co-ordination and monitoring, efficiency, responsiveness and high strategic accomplishment should be the norm. 
+
+In any event, government-driven pandemonium is a shocking turn of events indeed. 
+
+This fiasco is especially scandalous because during our season of woe, we witnessed our leaders and authorities at their most efficient. Before our disbelieving eyes, a cordial handshake on the steps of Harambee House flourished into a juggernaut that consumed all in its way and set the country upon a fateful pass. No resource was spared, and no minute was wasted. 
+
+Every move was executed with precision and co-ordinated to near-perfection. In any event, the clarity of purpose and executive resoluteness were unmistakable. 
+
+It would be hard to believe that the same government is leading the coronavirus management except for one fact: the absolute and total disregard to the existential interests of the majority. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The level of abdication in evidence calls into question our commitment to, and even capacity for, meaningful self-government. 
+
+@EricNgeno The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
