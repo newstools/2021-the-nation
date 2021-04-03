@@ -1,0 +1,213 @@
+Globally, we use 129 billion face masks per month. Face masks have become part and parcel of our daily lives as a protective gear against Covid-19.  A lot is emphasised on how to put them on, but not how to properly dispose them for they are an infectious waste that could lead to more harm in other peoples’ lives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Millions of face masks are being thrown away, which translates to thousands of tonnes of extra waste going to landfills. Globally, we use 129 billion face masks per month. 
+
+In matatus and streets, you will not fail to see one or two used masks dropped and others blown away, which raises concerns on how many face masks end up in our water bodies and dumpsites. 
+
+Without a formally recognised union for waste handlers, their voice remains unheard. They work under compromised conditions, especially now when the country is battling the deadly virus and less awareness is created on how to dispose used face masks. 
+
+ When the first case of Covid-19 was announced in Kenya,   National Environment Management Authority (Nema) came up with guidelines to facilitate proper disposal of used face masks and other PPEs, but the question is how many Kenyans are aware of the measures on how to dispose their masks? How many bins have been placed at chief’s camps and how many disposal bins are there in matatu termini? 
+
+Final disposal 
+
+According to Nema,  “In gated communities, apartments, residential areas, factories, institutions and office blocks, the management or the owner of such facilities will provide medical waste pedal bins that will have bio-hazard bin liners. 
+
+The management/owners will engage a licensed infectious waste handler to collect and transport the infectious waste for a final disposal in accordance to the regulations 37- 43 of the Environmental Management and Coordination (Waste Management) Regulations of 2006. Is this effective or is it just in documents and how is Nema ensuring such a rule is followed? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We as a country need better disposal methods to cope with the huge numbers of masks being thrown away since most cannot be recycled. With waste pickers going on their daily duties in dumpsites without proper equipment, the situation will get worse. Waste pickers are facing a lot of risks during this pandemic which has weakened the economy, from lockdowns to handling contaminated materials and high exposure to germs. 
+
+In Kenya, a lot of waste is generated at household level, however with Nema’s measures which state, ‘In the rural and small urban centres at the ward level, the county governments shall provide the same waste bins that will be placed either at the chief’s camps, ward offices, or health clinic and any other appropriate designated places that will be communicated to the public”. Yet, there is less awareness on segregation of waste making contaminated waste to be mixed with recyclables which end in the hands of waste pickers as they find their daily income from the dumpsites. 
+
+Government should classify waste pickers as essential service providers and facilitate support by equipping them with protective gear and training them on handling waste. 
+
+Every Kenyan is aware of the benefit of putting a mask, campaigns and messaging should now focus on how to dispose used face masks to reduce risk of exposure of informal waste pickers who often live in crowded areas with poor sanitation. 
+
+It’s time to show support to waste pickers and the government can do so by advocating and training people on how to dispose used face masks to prevent them from health risks during these hard times. Not only will the measure help them alone, but also Kenyans at large  in stopping the spread of Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Patricia M Kombo, Communications and Outreach Officer, Centre for Environmental Justice and Development, Nairobi The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
