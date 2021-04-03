@@ -1,0 +1,161 @@
+Woods is recovering at home in Florida after suffering serious injuries when his car flew off the road and flipped several times during the Southern California accident.Hours of surgery were required to repair his shattered lower right leg and ankle, including a rod inserted into his tibia and the use of screws and pins to stabilize the joint. Augusta, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Severe leg injuries in a February car crash ensured Tiger Woods won't be playing in this year's Masters on the 20th anniversary of his "Tiger Slam" victory at Augusta National. 
+
+But the 45-year-old superstar, whose 15 major titles include five Masters green jackets, will have his legacy felt across the famed layout. 
+
+Woods is recovering at home in Florida after suffering serious injuries when his car flew off the road and flipped several times during the Southern California accident. 
+
+Hours of surgery were required to repair his shattered lower right leg and ankle, including a rod inserted into his tibia and the use of screws and pins to stabilize the joint. 
+
+Woods, who won his most recent major at the 2019 Masters, became the first black golfer to win a major title when he captured the 1997 Masters in record fashion. 
+
+On Thursday, the Masters will pay tribute to the first black golfer to play in the event when Lee Elder hits a ceremonial tee shot alongside usual honorary starters Jack Nicklaus and Gary Player. 
+
+"Lee was a pioneer. He was the one that broke the color barrier here and paved the way for players of color like myself to be able to play this event," Woods said about Elder. 
+
+"It's ironic that he did it in '75, I was born in '75, and when I won in '97, he was on the back of the green." 
+
+"To have him as our Honorary Starter, it's awfully special and important in the history of the event, but also for me personally, it's probably even more special." 
+
+Woods, whose 82 US PGA victories is level with Sam Snead for the all-time record, faces a long recovery and questions about his future. He was already recovering from a fifth career back surgery at the time of the crash, which investigators have described as "purely an accident" with no evidence of impairment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Woods completed a fairytale comeback from multiple back operations to win the 2019 Masters, an emotional victory that saw him hug his children the way he did he late father after his 1997 triumph. 
+
+- An emotional Slam - 
+
+But his most amazing golf feat was likely the "Tiger Slam" when he won the 2000 US and British Opens and PGA Championship and then added the 2001 Masters to capture four major trophies in a row. 
+
+"I've had some very special things happen to me," Woods said in 2001. "But I guess to win four consecutive majors, I don't think I've ever accomplished anything this great." 
+
+Woods, who was 25, recalled himself as "a little young, a little naive" for his 1997 victory but said in 2001 "I understand. I've been around the block. I have better appreciation for winning a major championship, and to win four of them in succession, it's just hard to believe. 
+
+"You've got to have your game peak at the right time. You've got to get some good breaks and you've just got to have everything kind of go right. And to have it happen four straight times, that's awfully nice. Some of the golfing gods are looking down on me the right way." 
+
+Woods became emotional on the 18th green after victory was assured, putting his cap over his face to hide his feelings. 
+
+"It was just a weird feeling," Woods said in 2001. "When I didn't have any more shots to play, that's when I started to realize what I had done. I started getting a little emotional." Woods was already recovering from his fifth back surgery. Woods faces a lengthy recovery from his injuries. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
