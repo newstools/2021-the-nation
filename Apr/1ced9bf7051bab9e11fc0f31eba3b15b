@@ -1,0 +1,213 @@
+ Drying is one of the oldest methods of preserving food. It is usually done by exposing the food to sun or by the use of artificial or solar heat. Meat, fish, vegetables, cereals and legumes can be dried in the sun or using wind. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In areas where there is little sunshine, artificial heating under controlled conditions is used, a method called dehydration. 
+
+Drying involves taking out as much water as possible from food so that spoilage organisms are not able to grow and multiply during storage. The amount of moisture that remains in food varies from one type to another. For many foods, the percentage of moisture left should be less than 30. Some foods, however, need as little as 2 to 3 per cent of moisture. 
+
+Fruits 
+
+All fruits require washing, peeling where possible and cutting into smaller pieces before drying. Fruits are selected at peak condition; not over or under ripe. To avoid discolouration during preparation, a stainless steel knife should be used for peeling and cutting. The prepared fruits can also be dipped in citrus juice, which is an antioxidant to avoid discolouration. 
+
+Some fruits like pineapples may require pre-cooking to soften the fibrous tissues and make the drying process fast. Others are blanched in steam or dipped in boiling water to stop enzymatic activities. Fruits used to prepare glazed fruit products are pre-cooked in heavy syrup containing water and sugar in the ratio of 1:1, then drained and dried. 
+
+Drying of fruits is best done in the oven at low temperatures of 48 to 65°C. When the sunshine is strong enough, fruits may be dried over 2 to 3 days with good results. The drying should be done on trays made of plastic, sisal, wood, fabric but never on metallic trays. Copper destroys Vitamin C in the fruits while aluminium discolours the fruits and iron rusts. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One kilo of fruits will require at least 30 square centimetre of tray space spread in a layer. The dried fruits can contain as much as 20 per cent moisture since they also have natural acid and sugar, which are both preservatives. The dried fruits should be leathery and springy, not brittle. 
+
+When no moisture can be squeezed out, the fruit is considered dry enough. Besides drying whole fruits, fruit leather can be made from dried pulp. All fruits, including berries, can be used to make fruit leathers. Fruits with high water content like pineapples and pawpaw are most suitable. When mixed with ripe bananas, these two fruits make very good leathers. 
+
+Vegetables 
+
+Vegetables can be preserved by drying, but it is not recommended for root vegetables like potatoes and carrots, which may be preserved in other ways. Some of the root vegetables may be dried and ground into powder that is used to prepare other dishes. The vegetables for drying should be tender and in their prime state. They should be dried as soon as they are harvested since deterioration starts immediately. Before drying, they should be properly washed and blanched. Some vegetables should, however, not be blanched before drying like garlic, coriander, onions, parsley, hot peppers, green maize, green peppers and tomatoes. After blanching, drain the vegetables and put outside to dry for one or two days depending on the type and intensity of sunshine. For green leafy vegetables, the drying duration is a day or two while root vegetables will take slightly longer. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Animal products 
+
+Protein-rich foods are the most difficult to preserve because the mineral is the best media for bacterial growth. Protein foods should, therefore, be handled carefully, dried quickly and stored in cool temperatures to prevent spoilage. A layer of meat strips or fish is placed on trays, covered with netting material to keep off flies and other insects and dried in an airy dust-free place. A solar dryer is most suitable for use as it gives better protection against contamination by flies and other insects. Meats and fish may also be smoked before drying. 
+
+The purpose of smoking is to develop a special colour and flavour and also protect the meat from oxidation. The smoke helps to preserve the meat as well. The dried meat may be eaten as it is or it may be ground and used in sauces, stews and soups or sprinkled on salads. Meats and fish that have been put in brine solution before drying should be soaked in fresh water before cooking to rehydrate the meat and remove salt. Moses Gitonga grows giant varieties of pumpkins on an acre-and-a-half in Nagum village in Gilgil, Nakuru County. Purko Development Trust owns a community ranch in which they keep over 600 Coriedale sheep. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
