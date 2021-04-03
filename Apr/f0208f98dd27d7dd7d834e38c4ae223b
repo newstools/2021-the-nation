@@ -1,0 +1,159 @@
+When Health Cabinet Secretary Mutahi Kagwe took to the podium this week, we had thought he was going to lift our spirits after President Uhuru Kenyatta had poured cold water on our Easter plans days before. Little did we know that he had entered into competition with the President on who could give Kenyans the worst news. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Kagwe told us that as we go about evading curfew police, we should know that our public health facilities are struggling to breathe, as they have run out of oxygen. 
+
+Since the Covid-19 pandemic found us sleeping a year ago, Kenyans have become accustomed to bad news from this government. We have always convinced ourselves that there’s no bad news we cannot take, until we were informed this week that our hospitals have been seeing oxygen tanks only on their wallpapers. 
+
+The Health CS’s public announcement that government facilities have no oxygen meant conceding that the government had failed to provide life in hospitals. In a different part of the world, he would have handed in his resignation letter that day, but this is Kenya. We had hopes in Mutahi Kagwe. 
+
+Bright spots 
+
+During his vetting he convinced us that he was well conversant with the bright spots and dark alleys of government, having served as a minister before. He had also been MP  and senator so he knew which thumbscrews to turn and whose arms needed twisting to get Parliament to pump more money into public healthcare. 
+
+As we were ticking the boxes with excitement, some lone voice in the corner quickly reminded us to temper our celebration with reality, as this man had been handpicked from his private practice, doing public relations. 
+
+We shouldn’t have been here had we sent our clever mouths on leave and let our ears do their job. One year later, the person who promised to eat Afya House cartels for breakfast now says he can’t get a functional gas cylinder out of anyone’s house. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+If there was a national competition, then this minister would have made it to the knockout rounds even before the games began. 
+
+The minister is discovering one year later that during a pandemic availability of oxygen in hospitals is a matter of life and death.  
+
+A child would have told us this for free. We did not need to pay an expert a year’s salary for him to tell us this obvious fact. 
+
+Oxygen cylinders 
+
+At a time when we are tightening our belts and borrowing from Peter to pay Paul, we could have put that money into meaningful use — like paying those who don’t sleep on the job. 
+
+These revelations on human resource capacity gaps need to be seriously addressed. We cannot blame the President any longer for giving us a square peg to fit into the Afya House round hole. 
+
+Anyone who takes one year to notice the absence of oxygen cylinders in hospitals requires all hands on deck to save his job. 
+
+There are better ways of proving to the President that you’ve been reporting to work than embarrassing yourself in the media. 
+
+If we wanted someone who could recite daily briefings on live television, we know where our nearest drama club is, and it isn’t at Afya House. 
+
+ gabriel.oguda@gmail.com The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
