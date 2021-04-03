@@ -1,0 +1,265 @@
+The mummified remains of 22 ancient Egyptian kings and queens will be paraded through the streets of Cairo Saturday, in an eye-catching royal procession to a new resting place. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dubbed the Pharaohs' Golden Parade, the 18 kings and four queens will travel in order, oldest first, each aboard a separate float decorated in ancient Egyptian style. 
+
+
+
+
+
+ 
+
+They are being moved from a decades-long residency at the Egyptian Museum in central Cairo for display at the National Museum of Egyptian Civilisation. 
+
+The new museum, in the south of the capital, opened its doors to limited exhibits from 2017 and will open fully on Sunday, before the mummies go on display to the general public from April 18. 
+
+Upon arrival, they will occupy "slightly upgraded cases," said Salima Ikram, professor of Egyptology at the American University in Cairo. 
+
+"The temperature and humidity control will be even better than it was in the old museum," added Ikram, a mummification specialist. 
+
+Emblazoned with the name of their allocated sovereign, each of the gold-coloured carriages will be fitted with shock absorbers for the 40-minute journey through Cairo, to ensure none of the precious cargos are accidentally disturbed by uneven surfaces.  
+
+Seqenenre Tao II, "the Brave", who reigned over southern Egypt some 1,600 years before Christ, will be on the first chariot, while Ramses IX, who reigned in the 12th century BC, will be at the rear. 
+
+Ramses II and Queen Hatshepsut, the most powerful female pharaoh, will also make the journey. 
+
+Beginning at 6pm local time on Saturday, the procession will take place under the watchful eyes of hefty deployments of security forces. 
+
+The parade will be spurred on by music and performances from Egyptian artists, all broadcast live on state television.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Princess Margaret horrified 
+
+Discovered near Luxor from 1881 onwards, most of the 22 mummies have lain since the early 1900s in the Egyptian Museum, on the capital's iconic Tahrir Square. 
+
+From the 1950s, they were put on display in a small room, one next to the other, unaccompanied by explanatory blurbs. 
+
+Ahead of their departure onto Cairo's streets, the mummies will be placed in special containers filled with nitrogen, under conditions similar to their regular exhibition boxes. 
+
+
+
+
+
+ 
+
+In their new home, they will be showcased individually, each next to a sarcophagus -- and in some cases, a statue -- in an environment redolent of underground royal tombs.   
+
+Exhibits will be signposted by a brief biography and, in some cases, copies of computerised tomography (CT) scans. 
+
+"The mummies will be shown for the first time in a beautiful way, for education, not for a thrill," another Egyptologist, Zahi Hawass said. 
+
+The macabre appearance of the mummies has over the decades put off some visitors. 
+
+Among the most prominent was a fellow royal -- Princess Margaret, sister to British monarch Queen Elizabeth II. 
+
+"I will never forget when I took Margaret to the museum," said Hawass, a former antiquities minister. 
+
+"In the gallery was the mummy of Ramses II... (Princess Margaret) closed her eyes and ran away -- she couldn't stand" what she saw before her. 
+
+The National Museum of Egyptian Civilisation was completed in 2010, and "I was planning to open this museum in 2012," Hawass said.  
+
+"But because of what happened in Egypt we could not," he added, referring to the country's 2011 popular revolution and subsequent turmoil. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+'Curse of the Pharaoh' 
+
+In the coming months, the country is due to inaugurate another new facility, the Grand Egyptian Museum, near the Giza pyramids. 
+
+It will also house pharaonic collections, including the celebrated treasure of Tutankhamun.  
+
+Discovered in 1922, the tomb of the young ruler, who took the throne briefly in the 14th century BC, contained treasures including gold and ivory. 
+
+A so-called "curse of the pharaoh" emerged in the wake of Tutankhamun's unearthing in 1922-23.  
+
+A key funder of the British dig, Lord Carnarvon, died of blood poisoning months after the tomb was opened, while an early visitor died abruptly in 1923. 
+
+With the planned parade coming only days after several disasters struck Egypt, some have inevitably speculated on social media that the mummies' looming disturbance has provoked them into unleashing curses.    
+
+Recent days have seen a deadly rail collision and a building collapse in Cairo, while global headlines were dominated by the fate of the giant container ship the MV Ever Given that blocked the Suez Canal for almost a week. 
+
+Both Hawass and Ikram were at pains to dispel any notion of a link between the mummies' parade and recent events. 
+
+"You know that everyone loves a story like this," said Ikram. "It makes things far more dramatic." The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
