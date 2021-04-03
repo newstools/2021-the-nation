@@ -1,0 +1,363 @@
+Since we published our first article about Safaricom's launch of 5G in Kenya last Friday, we have received thousands of concerns in our emails and social media accounts. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A lot of misinformation is going around on the technology that is supposed to transform Kenya's economy in the next four years, making 'Silicon Savannah' highly competitive in the international digital economy and fight for a share of the billions therein. 
+
+Fast live streaming, affordable cloud storage, robots conducting surgeries on humans more accurately, autonomous cars taking you where you want with no fear of accidents -- such is the prowess of 5G, but the myths, confusion, fake news, conspiracy theories and misrepresentation of facts could hurt the adoption of the technology by Kenya's tech-savvy populace. 
+
+The Nation looks at, and debunks, these myths: 
+
+1. This is the technology that brought the Covid-19 pandemic 
+
+This conspiracy theory sounds persuasive to many passive readers due to China's roll-out of 5G in 2019 being coincidental with the first cases of Covid-19 in Wuhan. 
+
+China's Huawei racing to 5G faster than the United States created a tech war. US tech theorists said 5G was a catalyst for the virus and renowned musician Keri Hilson tweeted to her 4.2 million followers that coronavirus may have been caused by 5G radiation. US president at the time Donald Trump tweeted to his 87 million followers demanding US technologists to develop a 6G network to counter China's 5G. Then followed the blatant lie that Bill Gates, founder of Microsoft, had invented 5G to infect the world with Covid-19, so he could control everyone's brain by vaccinating them with a secret microchip! 
+
+To date, there is no scientifically proven link between 5G and Covid-19. The coronavirus does not spread via radio waves or mobile networks. If you attended biology class, you will remember that viral diseases are transmitted from person to person, either through contaminated respiratory droplets or direct contact with cell tissues. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Even the World Health Organization (WHO) has clarified that Covid-19 is spreading in many countries that do not have a 5G mobile network. 
+
+"Viruses cannot travel on radio waves or mobile networks," says WHO. 
+
+Regarding the claims about Mr Gates, it is true that in a March 2020 interview he said that "we will have some digital certificates" which would be used to show who'd recovered, been tested and ultimately, who received a vaccine, but he did not mention the microchips. The Nation can confirm that Bill Gates's technology, which has never been launched, is more of a digital tattoo, very different from a microchip. 
+
+2. 5G poses serious health risks 
+
+Authorities in Germany, Finland and Norway, as well as the European Commission, have concluded that 5G exposure linked to wireless networks and their use does not cause adverse health effects if this exposure is below recommended limits. But concerns keep being raised about exposure to 5G radio waves; however, 5G differs little from 4G technology. What's more, there are very strict standards governing antenna installation so as not to exceed the maximum exposure threshold of the electric field strength (61 volts per metre (V/m) for frequencies about 2 GHz and 36V/m for 5G frequencies in the 700 MHz band to ensure there is no health risk from radio waves. 
+
+3. 5G's ultra-high frequency waves cause cancer 
+
+I bet this is not the first time you are hearing this. Such claims have been circulating since the days of 2G networks in 2002, through to 3G connectivity in 2010 and even got more amplified when Safaricom launched 4G in 2015. And this fear didn't just start with mobile phone transmitters -- people believed electric power cables caused cancer in the 1990s. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the claims of 5G causing cancer revolve around the fact that compared to other technologies, it uses ultra-high frequency and ultra-high intensity, along with differences in pulsing and polarisation from existing technology. Also, the shorter millimetre waves of 5G do not travel very far, and are closer to our bodies. 
+
+This claim remains inconclusive, but the WHO says, "Considering the very low exposure levels … there is no convincing evidence that the weak radio-frequency signals from … wireless networks cause adverse health effects." 
+
+An Australian study published in 2018 found no link between the increase in mobile phone use and the incidence of brain cancer. 
+
+However, WHO, together with the International Agency for Research on Cancer (IARC) has classified all radio frequency radiation as "possibly carcinogenic". 
+
+It has been put in this category because evidence that falls short of being conclusive that exposure may cause cancer in humans is evident. 
+
+Eating pickled vegetables has been placed in the same category as 5G in the potential to cause cancer. Drinking beer and munching sausages have been placed in a category of making your cells cancerous. 
+
+4. 5G is being weaponised 
+
+5G is a non-ionising radiation that does not carry enough energy to "ionise", or strip electrons from atoms and molecules. It, therefore, does not have enough energy to damage our DNA. The radiation emitted from radios, mobile phones, phone towers and Wi-Fi routers – RF radiation – is non-ionising. It sits at the low-energy end of the electromagnetic spectrum and is much safer than high-energy ionising radiation like X-rays. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+However, it is true that some military weapons use something called Active Denial System, which uses high energy millimetre waves, but these are directed waves which are very different from the radiated waves that a cell tower would use. The waves are non-lethal and used like an invisible security fence. To do this, they need to operate at a frequency of 95GHz, which is much higher than the upper frequency that 5G will be using. So, yes, 5G technology can be used as a weapon, but not by 5G base stations, they just cannot produce the power or frequency to do that. Nobody is trying to use 5G as a weapon to kill you. 
+
+5. 5G will render us infertile 
+
+Infertility concerns from mobile phones, just like cancer, have existed before 5G. But they are based on lack of understanding. There exists no scientific proof that 5G waves reduce your chances of getting children. 
+
+6. 5G will completely replace 4G 
+
+This is a half-truth. In the next 10 years, 5G will not have replaced 4G, and even after that, it may not completely replace it, because the expectation from competing network vendors is that 4G will also become faster and more stable, giving it higher utility than there is currently. If it eventually displaces 4G, then that will happen several years to come, given that most of rural Kenya still depends on 3G for connectivity. This is partly because 5G requires new expensive infrastructure to be built, but more because 5G requires clusters of antennas that are closer to users for operators to achieve the desired connection. That means it will take many years for them to be installed in every Kenyan village. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+7.  5G is a sign of the end times, the Biblical 666 
+
+While I do not refute that everything written in the Holy Bible will one day come to pass, linking 5G to the satanic symbol 666 is being overcritical. The Bible does not say the mark of the Beast will be networked through 5G internet despite the network's capability of linking millions of devices at once. It is possible technologies, or how they are used, could turn devilish in future, but a technology that gets you healed faster, allows seamless streaming of church services and mosque sermons, contactless payment of tithes and offerings while keeping religious communities connected, should be embraced. 
+
+8. 5G uses more energy than previous generations 
+
+It is actually the opposite. 5G is not an energy-intensive technology with a high carbon footprint. This is the first mobile standard to integrate optimised energy consumption into its own design. Remember that 5G antennas work “on demand” and only transmit data when and where needed. The truth is that 5G consumes only half the energy as 4G for every Gigabit of data being transmitted. And if by 2025, according to Safaricom, we will have achieved widespread deployment of base stations, then the 5G of the future could consume 10 times less per GB transported, while allowing more users and carrying 10 times more traffic. 
+
+9.  5G comes with vulnerability of cyber attacks 
+
+Now, this is true, as happens with any generation of internet connectivity. One 5G base station has the capacity to connect one million devices in a smaller geographical area. If a hacker succeeds to gain unauthorised entry into one device, infecting the rest of the devices with malware becomes easier. This has happened to 4G networks before and Kenya government agencies and corporates have been targeted. However, this field is already witnessing more investments in cyber threat intelligence and tight cybersecurity measures to thwart cyber-attacks before they happen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+fmailu@ke.nationmedia.com The series feature the latest and most advanced smartphone chipset yet in a Galaxy for greater speed. Kenya the first nation in Eastern Africa to adopt the technology regarded as a key enabler of the Fourth Industrial Revolution (4IR). The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
