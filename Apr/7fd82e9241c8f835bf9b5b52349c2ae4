@@ -1,0 +1,171 @@
+The racket is a complex web consisting of parents, students, teachers, invigilators, supervisors, school managers and education officials. Seventeen people in Nyanza have been arrested for malpractices in the ongoing Kenya Certificate of Secondary Education (KCSE) examination. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 17 are from Nyamira and Migori counties, which the Ministry of Education says are on its radar due to their history of cheating in national tests. 
+
+The arrests appear to confirm fears by Education Cabinet Secretary George Magoha, even as politicians cautioned him against profiling the region as a cheating hotspot. 
+
+Nyamira Senator Okong’o Omogeni recently told the CS to apologise for the remarks. 
+
+The racket is a complex web consisting of parents, students, teachers, invigilators, supervisors, school managers and education officials. 
+
+“We are monitoring some schools in Isebania,” Prof Magoha said in Kisii county last week. 
+
+“This is the headquarters of cheating. Some centres in Kisii county may be involved in the vice.” 
+
+The offences 
+
+Nyamira police on Friday arrested 13 people believed to have irregularly accessed materials with questions similar to the chemistry practical paper, which was done on Thursday. 
+
+County Commissioner Amos Mariba said seven are registered as private candidates at a centre that has eight candidates. 
+
+“A candidate received questions through WhatsApp, worked out some formulae in an exercise book, which he was found sharing with colleagues before exams started,” Mr Mariba said. 
+
+In the second case, a centre manager, supervisor, two invigilators, a chemistry teacher and the lab technician in Manga are being detained at Sengera police station. 
+
+Six candidates recorded statements with police before being freed. 
+
+Police, Education and Kenya National Examinations Council officials are investigating the cases to establish if the contents of the papers were same as the exam questions and answers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Invigilator arrested 
+
+In the Migori case, a principal, supervisor and two invigilators are detained at Kamagambo police station. The four will remain in custody for 10 days after they were arraigned for leaking questions to students. 
+
+Rongo Secondary School head Francis Akoth, Mr Job Mamayi, the supervisor and Ms Florence Auma and Mr George Magambo who were invigilators denied the charge. 
+
+The four were arrested on Tuesday at 3pm. 
+
+“An invigilator who was sharing examination materials at a centre in Migori has been arrested,” Prof Magoha said. 
+
+The case will proceed on April 9. 
+
+And on Thursday, the CS said exam papers are on sale, but dismissed them as “fake”. 
+
+He said a Kericho businessman was arrested for selling KCSE test papers. 
+
+The national examination started on Thursday last week. 
+
+rmbula@ke.nationmedia.com It’s suspected that rogue examiners are opening test papers before their scheduled time and taking photos. Some schools will face sanctions for leaking exam papers to Form Four candidates. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
