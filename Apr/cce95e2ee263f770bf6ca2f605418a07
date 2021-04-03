@@ -1,0 +1,183 @@
+Mr Henry Wanga Aura was arrested on Friday evening after an altercation with his wife. A primary school teacher has died in unclear circumstances while in police custody in Ragana, Migori county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Henry Wanga Aura was arrested on Friday evening after an altercation with his wife. 
+
+His mother, Ms Rosenael Aura, said he was found dead on Saturday morning at the Ragana  police post where he had been detained. 
+
+“He had a scuffle with his wife. I was in my house and only heard his wife shouting. Nobody was willing to share what had ensued so I took it as a normal family difference,” Mrs Aura said. 
+
+The wife later filed an assault case which prompted police officers to apprehend Mr Wanga. She fled after learning of his death. 
+
+Mrs Aura said she realised her son was dead when she took him food on Saturday morning. 
+
+“I brought him breakfast but the officer on duty was reluctant to allow me to see him. I became suspicious and called his brothers. That’s when we were told he had died. The officer said he hung himself the previous night using a shirt.” 
+
+
+
+
+
+
+Residents of Ragana village in Migori County at the police post where a teacher died while in police custody, April 3, 2021.  
+Photo credit: Ian Byron | Nation Media Group
+
+ 
+
+Residents protest 
+
+Protesting residents jammed the police post demanding to be told exactly what happened, with the majority reading mischief in the report by the police officers. 
+
+They raised concerns about alleged extrajudicial killings by police officers at the recently established Ragana police post. 
+
+Mr Pappine Odongo, who accused the police officers of using excessive force when handling suspects, said the death might have been the result of torture. 
+
+“We are tired of these officers. Everyone who is apprehended, and men are often dealt with severely. We demand to know exactly what transpired because the victim was found lying on the floor of the police cell with visible head injuries,” Mr Odongo said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He claimed that several people, including his elder brother, have been manhandled by the officers to the extent of suffering impairments, 
+
+“Last week, my elder brother was senselessly beaten by the officers for flouting curfew rules. He is currently bed-ridden. I am appealing to the inspector-general of police to order investigations,” he said. 
+
+
+
+
+
+
+A police officer restrains a surging crowd outside Ragana police post, where a primary school teacher died while in custody, during protests on April 3, 2021.
+Photo credit: Ian Byron | Nation Media Group
+
+ 
+
+Investigation launched 
+
+Suna West Sub-county Police Commander, Mr Wilson Nduati, visited the scene. 
+
+Mr Nduati said investigations into the incident were launched. 
+
+“I cannot give any tangible report for now, but we are investigating the incident and will take appropriate action,” he said. 
+
+Mr Wanga’s body was taken to the Migori County mortuary for an autopsy. 
+
+Ibyron@ke.nationmedia.com Chaos in Malambisia village, Butula as suspect dies in police custody. Judge says the prosecution has made a case against the accused. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
