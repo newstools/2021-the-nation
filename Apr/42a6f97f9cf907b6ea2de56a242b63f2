@@ -1,0 +1,161 @@
+Egyptian President Abdel Fattah al-Sisi has pledged investment to ensure no repeat of the episode, and the SCA has called for new tugboats and dredgers are needed. Cairo, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egypt's Suez Canal Authority said Saturday that a shipping traffic jam caused by a giant container vessel getting stuck on the crucial waterway for almost a week has been cleared. 
+
+Traffic on the canal, a conduit for over 10 percent of world trade, had begun moving again on Monday evening after the 200,000-tonne MV Ever Given was refloated with the help of international salvage experts. 
+
+"All the ships waiting in the waterway since the grounding of the... (MV) Ever Given have completed passage," SCA chief Osama Rabie said in a statement by the canal authority. 
+
+The wedging of the Japanese-owned, Taiwanese-operated ship had created tailbacks to the north and south totalling over 420 ships, with billions of dollars-worth of cargo. 
+
+Rabie has acknowledged that the blockage, which began when the ship veered off course in a sandstorm, left Egypt's international shipping and wider reputation on the line. 
+
+Egyptian authorities have presented the freeing of the mega-ship as a vindication of the country's engineering and salvage capabilities. 
+
+"Ninety-nine percent" of personnel who worked to refloat the giant vessel were Egyptian, according to Rabie. 
+
+Sisi's pledge 
+
+Egyptian President Abdel Fattah al-Sisi has pledged investment to ensure no repeat of the episode, and the SCA has called for new tugboats and dredgers are needed. 
+
+Maritime data company Lloyd's List said the blockage had held up an estimated $9.6 billion worth of cargo each day between Asia and Europe. 
+
+The canal is economically vital to Egypt, which lost between $12 and $15 million in revenues for each day the waterway was closed, according to the canal authority. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nearly 19,000 ships navigated the canal in 2020, working out an average of just over 50 per day, it says. 
+
+But the president and port authority have ruled out any further widening of the southern stretch of the canal where the boat became diagonally stuck. 
+
+Sisi oversaw an expansion of a northern section, which included widening an existing stretch and introducing a 35 kilometre parallel waterway, to much fanfare in 2014-15. 
+
+But that was achieved at a cost of over $8 billion, without significantly increasing revenues from the canal. 
+
+The Suez Canal earned Egypt just over $5.7 billion in 2019/20, little changed from the year before, and similar to the $5.3 billion in revenues earned back in 2014. 
+
+"Economically... (further expansion) would not be useful," Sisi declared this week. 
+
+The costly blockage is likely to result in litigation, according to analysts, with the ship's Japanese owners, Taiwanese operators and Egypt itself all under the microscope. Some 12 per cent of the world trade volume passes through the man-made canal. The promise comes a day after the refloating of the giant container vessel, MV Ever Given. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
