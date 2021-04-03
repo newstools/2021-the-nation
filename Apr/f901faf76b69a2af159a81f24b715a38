@@ -1,0 +1,249 @@
+For more than three years to 2020, measles killed an estimated 7,000 children in the DR Congo, with cases reported in all the 26 provinces. Authorities in the Democratic Republic of Congo are declaring an outbreak of measles, raising fears of a repeat of infections two years ago. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The country’s Ministry of Health said on Saturday that several provinces had reported new cases of the disease. 
+
+Dr Aaron Aruna, the Director of Epidemiological Surveillance at the Ministry of Health, said urgent measures had been taken but noted that the current outbreak is of a smaller scale. 
+
+“Unlike previous times, not all of the DRC's 26 provinces are affected by the epidemic.” 
+
+For more than three years to 2020, measles killed an estimated 7,000 children in the DR Congo, with cases reported in all the 26 provinces. 
+
+Doctor Aruna told the Nation that seven provinces in the North-West, Central and Eastern parts of the country had reported cases. They are Equateur, Nord-Ubangi, Sud-Ubangi, Maniema, Kasaï Central, Bas-Uele and Sankuru. 
+
+Situation "not alarming" 
+
+Measles, a highly contagious disease, is caused by a virus and often manifests within 10 days of infection. 
+
+According to the World Health Organization (WHO), it may spread through the air by respiratory droplets from coughing or sneezing. 
+
+Without treatment, patients are often put on medical care that targets lessening symptoms. The WHO often encourages vaccination to prevent infections from becoming severe and necessitating hospitalisation. 
+
+Data from the DRC’s Ministry of Health shows it killed at least five people per week in every 1,000 cases. The victims are mainly children aged five and below. 
+
+“The situation is not alarming compared to last year," said the head of epidemiological surveillance. 
+
+In reality though, official information would understate the seriousness on the ground. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Often in the DRC, some cases are not declared as the patients are in areas with health facilities ill-equipped for testing. 
+
+The WHO’s office in the DRC says measles has already killed 90 people in 2021. The majority of the cases have been recorded in Sud-Ubangi, (North-West of the DRC, 1000 km from Kinshasa). 
+
+Logistical issues 
+
+Dr Aruna acknowledged a "great logistical problem", suggesting it may take longer to eradicate the disease. 
+
+He also said that some Congolese are very reluctant to take vaccines and that the government often doesn’t perform routine vaccinations. 
+
+“The government, which had promised to organise a campaign of catching up, never carried out its promises,” he said. 
+
+“One manages with the few means available. The ideal would be to make stocks of vaccines available in each health zone, as was the case 20 years ago, so that each time there is an epidemic, the response is organised quickly.” 
+
+The WHO has identified the internal and external factors behind the outbreak. 
+
+These include "the difficulty of reaching all health zones, insufficient cold chain coverage … and insufficient health personnel". 
+
+In the case of Sud-Ubangi, the most affected province, the WHO pointed out the multiplicity of entry points and movements between several areas and neighbouring countries (Republic of Congo and Central African Republic). 
+
+Vaccination campaign 
+
+Dr Amédée Prosper Djiguimdé, head of the WHO office in the DRC, said the vaccination campaign is being carried out to "enhance immunity and thereby reduce morbidity and mortality attributable to measles". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Between November 2020 and January 2021, in at least 546 localities in the eight provinces of the DRC, there was a vaccination campaign against measles. 
+
+The Expanded Programme on Immunisation (PEV) said there are ‘’63 per cent of children who are not vaccinated or have unknown immunisation status,” in the affected provinces. 
+
+The WHO also reports that nearly 2,500 children of Central African refugees, present in the DRC, have benefited from the vaccination. 
+
+To avoid having an epidemic comparable to the one which killed more than 7000 people in the DRC, “the country is in the process of finalising its risk analysis of a measles epidemic based on the MRAT tool (Measles Risk Assessment Tool), which will make it possible to refine the epidemic preparedness and response plan”, underlined Dr Djiguimdé. 
+
+On Saturday, medical charity group, Doctors without Borders (MSF), deployed medics to the affected provinces to support the local teams it says "sometimes feeling too lonely" in the face of the urgency of the epidemic. 
+
+In the DRC, since Prime Minister Sylvestre Ilunga Ilunkamba resigned, alongside his entire government last February, the country is still waiting for a new government and, subsequently, appropriate actions against the disease. 
+
+The current government has resigned and is limited in engaging in major field actions. The country is also struggling to contain an outbreak of the deadly Ebola disease. Since November, more than 400 civilians have been butchered in North Kivu province. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077.
