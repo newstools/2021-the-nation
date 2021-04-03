@@ -1,0 +1,75 @@
+Pretoria, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A total of 55 students from South Africa's University of Pretoria have tested positive for Covid-19, said Minister of Higher Education, Science and Innovation Blade Nzimande on Friday. 
+
+"We are aggressively working on contact tracing with the help of the health department and have tested and screened a large number of students and staff over the last few days," he said. 
+
+As screening and testing are still ongoing this week, said the minister, there is a probability that the number of positive cases may rise. 
+
+He added that they are also working with the National Institute for Communicable Diseases to investigate the outbreak. 
+
+The authorities have established screening stations around the affected residences, Nzimande said, noting that other medical facilities including mobile health units and institutional campus clinics have also been stationed to offer psychosocial and other health assistance to the affected residents. 
+
+He called on students, lecturers and all staff to observe Covid-19 health protocols and guidelines as the 2021 academic year gets under way. No cases of the disease were observed in South Africa during the phase-three trial study among participants. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
