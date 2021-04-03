@@ -1,0 +1,173 @@
+Niger's new president, Mohamed Bazoum, takes the helm of one of the world's poorest countries, shadowed by jihadist violence and an alleged coup bid just two days before his swearing-in. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Here are the main challenges he faces: 
+
+Double jihadist threat 
+
+Along with Sahel neighbours Mali and Burkina Faso, Niger is prey to a jihadist insurgency that began in northern Mali in 2012 and then spread through highly porous borders. 
+
+More than 300 people have been killed in three attacks since the start of this year alone.  
+
+The country has also been attacked repeatedly in the southeast by Islamist militants from the Nigerian movement Boko Haram. 
+
+Hundreds of thousands of people have fled their homes, stoking a humanitarian crisis and further straining the economy. 
+
+Niger's armed forces have received training and logistical support from the United States and France, which have military bases there. 
+
+Poverty and population 
+
+A landlocked country in the heart of West Africa's Sahel, Niger is two-thirds desert. 
+
+Its 22.4 million people are mired in poverty, driven in part by a huge birthrate that averages seven children per woman. On current trends, the population will reach 70 million by 2050. 
+
+As one of the world's biggest producers of uranium and a small-scale producer of oil, it has been buffeted by falling prices for both commodities. 
+
+More than 40 percent of its GDP comes from agriculture, which also employs nearly 80 percent of the population and is vulnerable to climate change, according to the African Development Bank (AfDB). 
+
+Niger persistently ranks last out of 189 nations in the UN's Human Development Index (HDI), based on factors such as longevity, education levels, and per capita income. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Weak state and corruption 
+
+Niger has suffered from chronic political volatility since gaining independence from France in 1960. 
+
+It has seen four coups in its history, most recently a February 2010 putsch which toppled then president Mamadou Tandja. 
+
+Friday's inauguration marks the country's first-ever democratic transition of power. 
+
+Low pay for state officials and corruption are major problems. 
+
+An investigation is ongoing into the disappearance of millions of francs due to alleged billing irregularities by the ministry of defence under former president Mahamadou Issoufou. 
+
+Authoritarianism 
+
+Protests under Issoufou's regime regularly led to clashes with police and arrests of citizens and the new administration faces calls to end repressive tactics. 
+
+But the new president's own words do not signal change, say critics. 
+
+"The 'continuity' that Bazoum refers to is that the justice system is going to continue to protect the strong and abuse the weak," says Maikoul Zodi, Niger coordinator for the international pro-democracy collective Tournons la Page (Let's Turn the Page). 
+
+Several journalists have been arrested or sued by authorities over their coverage. Heavy gunfire heard in the middle of the night near the presidential palace. Events took a dramatic turn days before the country was about to make history by conducting the first transfer of power. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
