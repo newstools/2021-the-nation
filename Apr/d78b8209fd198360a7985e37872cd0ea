@@ -1,0 +1,145 @@
+Jack Ochieng is the national women's coach.Reigning African champions Angola are in Group C alongside Congo, Algeria and Cape Verde The national women's handball team has been drawn alongside familiar foes ahead of the African Nations Cup at Palais des Sport complex, in Yaounde, Cameroon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The East Africans, who are making a maiden appearance to the biennial event, are in Group B with alongside Democratic Republic of Congo, Nigeria and hosts Cameroon in the June 10-20 event. Jack Ochieng is the national women's coach. 
+
+The competition was originally scheduled to take place last December but it postponed due to the coronavirus pandemic. 
+
+Veteran Kenyan player Mitchelle Odhiambo believes they have enough background knowledge on their opponents having played against them in previous Africa Games and African Clubs Championship. 
+
+"We have never won against them but we know their approach to the matches. I just hope we will start early training as our intention is to leave a mark at that stage," said Odhiambo, who plays for Kenya Handball Federation (KHF) National League giants Nairobi Water. 
+
+KHF fixture secretary Charles Omondi said they want to get their act together this time around. 
+
+Omondi said they have previously given walk-overs in other international events  after arriving late at the venues thus posting dismal performance. 
+
+"If we prepare well, the team has a chance to perform well. We had started our season and the players were in competitive mood before all the sporting activities were put on hold by President Uhuru Kenyatta due to increased coronavirus cases," said Omondi. 
+
+"We have encouraged players to continue with their individual training as we remain optimistic that we will be allowed back in training," the official added. 
+
+Omondi, who is also the Secretary General for the East and Central Handball Federation (ECHAF), said the federation is in talks with a Swedish coach to have an additional expertise on the technical bench. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Reigning African champions Angola are in Group C alongside Congo, Algeria and Cape Verde, while  runners-up Senegal are in Group A alongside Tunisia, Guinea and Madagascar. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
