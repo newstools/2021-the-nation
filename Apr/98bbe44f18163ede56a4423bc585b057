@@ -1,0 +1,75 @@
+The United States said Friday it would lift sanctions imposed by former president Donald Trump's administration on the top prosecutor of the International Criminal Court, calling for a more cooperative relationship. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Former secretary of state Mike Pompeo last year imposed sanctions and refused visas for the outgoing prosecutor, Fatou Bensouda, after she launched an investigation into alleged war crimes by US military personnel in Afghanistan. 
+
+The court in The Hague further irritated the United States by opening an investigation into alleged war crimes in the Palestinian territories by Israel, a US ally which rejects the authority of the court. 
+
+Pompeo's successor, Antony Blinken, said the United States continued to "disagree strongly" with the moves. 
+
+"We believe, however, that our concerns about these cases would be better addressed through engagement with all stakeholders in the ICC process rather than through the imposition of sanctions," Blinken said in a statement. 
+
+He said that both the sanctions and visa bans against Bensouda and her staff were being lifted.  
+
+The Gambian-born prosecutor is leaving her job in June and will be replaced by British human rights lawyer Karim Khan, who now can open his work without the burden of looming sanctions. He replaces Gambian-born Fatou Bensouda and will serve for a term of nine years. The International Criminal Court (ICC) Prosecutor Fatou Bensouda has disclosed the identity of three witnesses to Deputy Prime Minister Uhuru Kenyatta. The loan would help Nairobi deal with Covid-19 related funding shortages. Board chairperson admits that poor management reduced firm to a buying machine.
