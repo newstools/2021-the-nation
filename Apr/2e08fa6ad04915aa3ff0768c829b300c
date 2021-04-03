@@ -1,0 +1,588 @@
+Summary: In the last one year places of worship have had to adapt to the new realities by going virtualSome have flourished while others are facing hell It's Easter weekend. Many of us who are Christians revere the four days as we commemorate the crucifixion, death, and resurrection of Jesus Christ. The observance is preceded by many activities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A time like this two years ago, "Kesha" invitation posters and a call to attend mass at a particular time would be circulating online and off-net. 
+
+Then just before Easter last year, Covid-19 hit our shores, and lockdown measures were effected. With time, church gatherings have been reduced to not more than 100 people per service, leaving churches and believers at a loss on how to get a dose of their spiritual nourishment. 
+
+The church has had to adapt. Thanks to technology and new media, many churches quickly moved much of their work from face-to-face interactions to online. 
+
+It's been a bumpy road. You see, when businesses and other institutions embraced the virtual world years ago, most churches maintained a business-as-usual modus operandi as they held to the traditional physical gatherings format. 
+
+Then the coronavirus hit. When the first case of Covid-19 was announced in March 2020, Pastor T Mwangi's church, Life Church in Limuru, was in its infant stages. 
+
+"I went to my Facebook page and discovered that I have over 25,000 followers. One day I just went live as I was making a prayer, and I discovered more than 400 people tuned in. So I said wow, this could be a platform but we are ignoring it. And then the prayer was shared and had more than 46,000 views. That was in March 2020. 'Wow, looks like we have not yet explored it (Facebook)' I exclaimed'," the Founder of Visionary of Truth Mentorship, show host of Angaza show KBC, and an actor in Mchungaji show on NTV, says. 
+
+
+
+
+
+
+Paster T Mwangi. Resident pastor life church Limuru, founder Truth mentorship society. Currently pursuing masters in divinity. PHOTO|POOL
+
+ 
+
+Pastor T quickly realised that the church needed to invest in equipment to improve their broadcast. People would ask, "Pasi, can we help you buy a camera?" Because I used to go Live with my phone, sometimes I am in my bedroom and the light would go off or our baby would wake up crying interrupting the broadcast. So we came up with a till number and a phone number for our diaspora listeners," the pastor who has a following of 108,437 people on Facebook says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Still, sustaining the daily production was a real headache. "To do that you need a team so it needs a lot of logistics. Even though our emphasis is not on giving, we have people who willingly pay their tithe or offerings to us. This has helped us improve our production. We have built a studio in Limuru for the bible study and now we have a project to solve the problem of frequent electricity outage," the Director at Hotsource Gospel magazine, says. 
+
+Young people coming in handy 
+
+As churches began to appear more online during Covid-19, Dr. Heidi Campbell said she recognised three themes or approaches to online church, "through transfer, translate or transform strategies." Campbell, a professor of communications at Texas A&M University and director of the Network of New Media, Religion and Digital Cultural Studies, shared insights from her new book, "The Distanced Church: Reflections on Doing Church Online. 
+
+"Many are rethinking the relationship of the church "as just being an embodied experience to being an immediate experience," she reports. 
+
+ 
+
+When the Anglican Church decided to stream services online, it was a first and "a path we didn't know how it was going to work," offers Archbishop Joseph Ole Sapit. In 2016 after he was elected the church's sixth archbishop, he noted that the digital platforms offered an opportunity for the church to reach more people especially the millennials and Gen Z. 
+
+"We left it at thinking level but when lockdown came, people had to get into orientation. For the first time, the youth took charge and became the handiest. I remember when I was taking part in zoom while in Narok, it was a young neighbour who used to connect my phone and laptop. However, there are still hitches here and there but even more avenues of going around them," says the Archbishop. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Archbishop Jackson Ole Sapit of the Anglican Church of Kenya. PHOTO|POOL
+
+ 
+
+Lightning strikes twice  
+
+For Pastor Sally Kithinji of Jesus Gospel Transformation Centre of Nairobi, the push to go back to the drawing board reminds her of the extreme challenges that their church has faced in the past. 
+
+In 2010, the church had to start from scratch after facing post-election violence. Now the pandemic has rendered the 23-year-old church a second blow. 
+
+"Crusades which are a core part of our offerings remain stagnant because of the pandemic," Pastor Sally says. 
+
+She adds: "Unlike the past years when we would go to crusades, preach and come back to the church with many souls saved, we have not been able to do that," she offers. 
+
+The strategy to go digital has been anything but smooth. 
+
+"When physical gatherings were halted, we rushed to social media platforms to reach out to the congregation. Our first stop was on Facebook. But, most of the time, our videos would get blocked. On inquiry, we were pointed to copyrighted songs in our worship. I wondered, "Why are they blocking the entire video if the issue was just a fragment of it?" Pastor Sally shares. 
+
+
+
+
+
+
+Pastor Sally Kithinji of Jesus Gospel Transformation Center in Ruaka. PHOTO|POOL
+
+ 
+
+In August last year, the church held a virtual conference but many people couldn't reach them as they had been blocked in the middle of the sermon. "We are unable to exploit social media. The frustration is too much. And sometimes people are so eager like during our crusade last year people had not gone to church for an entire month, so when the conference came, it was a time to refresh but most of them didn't manage to join," the pastor who church's Facebook profile has less than 2,000 followers says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The church has resorted to YouTube. "The response there is okay as people who know us find us there or Facebook when we don't get blocked," she offers. 
+
+Affording online access 
+
+While building an online audience is tedious, the problem is compounded by the fact that congregants need money to buy internet access in an already hard economy. 
+
+"I have only accessed services twice, and that's because I had free Wi-Fi. With my meagre earnings, data is a luxury. I depend on what is streamed on TV," shares Mercy Wanja, an admin assistant in a Meru-based hotel. 
+
+Pastor T Mwangi has faced the same hurdle especially with young people who initially held mentorship fellowships with 600 young people at a venue in Kenya Cinema Nairobi. "What works for the youth is when we load the message on YouTube and they download later perhaps when they access Wifi," the pastor says. 
+
+ 
+
+Worship in Secrecy  
+
+One of the key beneficiaries of the online church is Pastor David Ochar who co-founded cosmopolitan affirming church which is an LGBTIQ affirming religious community in Kenya. His vision was to draw people closer to God without being judged and stigmatised. 
+
+
+
+
+
+
+Pastor David Ochar, co-founder and  senior pastor at the cosmopolitan affirming church in Nairobi and Kisumu. PHOTO|POOL
+
+ 
+
+"We opened the doors to our church in 2013 and wanted to create a conducive environment for sex workers and LGBTIQ community because of the stigma we face in most mainstream churches," the pastor says. 
+
+Still, the issue of privacy is a major issue among his congregants. "Some of our very good members, the choir members, and some of the pastors are not comfortable being seen online and so that limits us. They are afraid that someone who doesn't know of their sexual orientation and identity might see them online," he says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Worked for our good  
+
+In the new order of things, innovation plays a key driver. One, the church has had to contend with worshippers not confined to a building or denomination and also an online audience that may browse from one page to another. 
+
+Two, they are competing for souls with other established pastors and churches globally who have perfected administering to online audiences. 
+
+"We get viewership from Dubai, Qatar, UK, USA, Canada, Germany, South Africa, and even India. 
+
+This is a mix of Kenyans and foreigners. Sometimes I preach in Kiswahili and people say they don't understand the language," Pastor T whose online community has tripled, says. 
+
+For Lee Wanja, Lead Pastor Fortress Assembly, Ruiru, going digital has been the breakthrough the church needed. 
+
+"I have been a pastor for six years but founded this in November 2019. Because of the instability brought forth by the pandemic, the physical church attendance was low and it felt like the church was not growing," she offers. 
+
+However, there is a silver lining. 
+
+"Our church membership had about 60 members when the pandemic started. However, our online reach has grown to reach over 10 countries. What happened is that we created WhatsApp groups. We currently have 10 groups, one telegram group, and Facebook. So what happens is that when one joins the group they invite others. Most people reach out and say they have been added by someone who is already in the group. We are now about 15,000 people across the platforms from 30," she offers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+
+
+
+Paster Lee Wanja, lead pastor Fortress Assembly, Ruiru, Kiambu County. PHOTO|POOL
+
+ 
+
+ 
+
+Archbishop Sapit says since they went digital the church has received thousands of new worshippers. "Even when physical fellowship resumed, we didn't stop streaming our services because we observed that we have a huge following both in Kenya and abroad in countries like Russia, Europe even from people from other denominations," he says and adds, "There is an opportunity for people to access variety and decide on what to watch." 
+
+ 
+
+Offerings and Givings 
+
+At a time like this last year, Nation interviewed leaders of various mainstream churches and what came out was that most of them were struggling financially. Without physical meetings, the tithe and offerings baskets were running empty. A year later, Sapit acknowledges major improvement. "We have not altered our plans or reduced the number of staff. People have been committing online," he offers. 
+
+For upcoming churches like Sally's, the digitisation of the services has affected the church's collection, so badly that they have cut the number of needy families they help from 150 to about 30. "What has happened is that number one is that a lot of people were sacked from their places of work, salaries slashed or let go which of course meant that if someone isn't working then tithing or offerings will not be forthcoming," she offers. 
+
+ 
+
+Family at the centre of it all 
+
+With the focus being on the congregants and less on the spaces we worship, some churches have brought fellowship at homes. 
+
+"This Easter we will share the word of God and the holy communion virtually. We are hoping to do small family events. We want to bring our families together, we preach virtually and we all partake of the emblems together in our different homes," said Pastor Lee Wanja. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Lnjeru@ke.nationmedia.com 
+
+ 
+
+Additional reporting by Fridah Mlemwa  
+
+ 
+
+ 
+
+Digital strategist tips on how to score more with online audiences 
+
+ 
+
+According to Muthoni Njakwe, a digital marketing expert and the founder and CEO of StedComm, a digital marketing, and advertising agency, churches must change how they communicate and interact with their congregants to survive. "Technology has transformed nearly every aspect of our lives. Churches are no different. It is no longer strange to find visitors using Google to find reputable churches," she says. 
+
+ 
+
+Tips: 
+
+ 
+
+1. Create a church website 
+
+ 
+
+This will serve as a central home and the place where people go to view services, learn about upcoming events and engage with blog posts. This website should be visually appealing and easy to navigate. It must be easy to access and load. To ensure consistent growth and regular traffic, build an SEO-friendly website. 
+
+ 
+
+2. Build social media presence 
+
+ 
+
+Kenyans are very active on social media. Leverage this by taking the word online. Create a YouTube channel as well. This will allow the church to share recorded services, archive weekly gatherings for others to search and watch and enhance the churches' content searchability. Also, create calendars for social media, share relevant content, communicate and engage regularly and also track performance using relevant social media analytical tools. 
+
+ 
+
+3. Host podcasts and webinars 
+
+ 
+
+A podcast is an audio-only experience that allows hosts to publish conversations on any topics they choose. With a podcast, your church can host sermons and discussions that are relevant and important to your target audiences. Thought leadership discussions can be on webinars. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+ 
+
+4. Take advantage of live streaming 
+
+ 
+
+Several conferencing platforms allow people to broadcast services at no cost. The conferencing platforms will allow your church to record church services and download those recordings into the database which can be posted later on your website, social media pages, or YouTube channel. Also, host live sermons on Facebook and Instagram. 
+
+ 
+
+5. Set up online church donations 
+
+ 
+
+This includes setting pay bill numbers and other online payment accounts. A study published by the Barna Group shows that 39 percent of all practicing Christian millennials are making donations online rather than using traditional donation methods. 
+
+ 
+
+6. Create online directories 
+
+ 
+
+These will allow your church to be located easily. It is generally free, and easy, to submit your church to local directory listings. These listings can be boosted online so that they appear when people search for certain phrases online. 
+
+ 
+
+ 
+
+ 
+
+Some Pastors who've grown their Facebook Following. Facebook is one of the social media platforms commonly used to stream church services. 
+
+1.Rev Lucy Natasha -1.4M 
+
+2.Evangelist Lucy Wangunjiri-386K 
+
+3.Reverend Ruth Wamuyu-376K 
+
+4.Rev Kathy Kiuna-277K 
+
+5.Apostle John Kimani-228K 
+
+6.Bishop Allan Kiuna-132K 
+
+7.Bishop Mark Kariuki-121K 
+
+8.Pastor T Mwangi- 108K 
+
+9.Pastor Sue Munene -94K 
+
+10. Bishop Margaret Wanjiru -79K 
+
+11. Harrison K Ng'ang'a-70K 
+
+12. Bishop JJ Gitau -70K 
+
+13. Pastor Godfrey Migwi-55K 
+
+14. Maurice Oloo-54K 
+
+ 
+
+ 
+
+Feedback to the editor: satmag@ke.nationmedia.com The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
