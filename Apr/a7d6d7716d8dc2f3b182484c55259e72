@@ -1,0 +1,155 @@
+World record holder Kosgei, world champ Chepng'etich best of the lot in women’s raceWorld record holder Kandie, Kamworor, Barsoton top attraction at Istanbul Half Marathon starting from 10am Who will blink first at Turkey’s financial capital city Sunday morning in the Istanbul Half Marathon men’s race? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Will it be the world half marathon record holder Kibiwott Kandie, who could be considered the marginal favourite, or the man he took the record from, Geoffrey Kamworor? 
+
+Then there is also Leonard Barsoton, who finished sixth at the World Athletics Half Marathon Championships in Gdynia, Poland last year. 
+
+But it will certainly not be an all-Kenyan battle with Ethiopia’s Amdework Walelegn, Kenyan-turned Turk Kaan Kigen and Ugandan Stephen Kissa, all sub-59 men, in with a shout for glory. 
+
+Take you pick, but as they say, the roads of Istanbul will decide the winner. 
+
+Top field 
+
+The women’s race is just as alluring. 
+
+It has attracted some of the world’s finest athletes over the distance with world marathon record holder Brigid Kosgei and world marathon champion Ruth Chepngetich the pick of the lot. 
+
+Add world 5,000m and world cross country champion Hellen Obiri and Joan Chelimo and you have a tinderbox of athletics talent ready to explode on the streets of the Turkish city. 
+
+Kandie and Barsoton sharpened their skills in Iten for Sunday’s showdown while Kamworor, back from injury,  criss-crossed the Kaptagat Forest to return his shape to the devastating level of two year ago. 
+
+“This is my first race this season and in competition you just apply what you have been preparing for the last four months. I believe in my preparations,” said Kandie. 
+
+“I know it will be a fast race and I will be targeting a win but my major objective is representing the country in the Olympics Games 10,000m race,” he added. 
+
+Kandie is certainly the form athlete of the moment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He won December’s Valencia Half Marathon with a new world record time of  57:32, shattering Kamworor’s record then of 58:01. 
+
+Kamworor, popular referred to as the man of all surfaces, as he can race very well on track, road and cross country, will be appearing in his first international race following his road accident last year where he was knocked down by a motorcycle in Eldoret. 
+
+brotich@ke.nationmedia.com Chepkoech said the ratification of her record could only motivate her more. The last time the duo faced off was during the national cross country trials in February. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
