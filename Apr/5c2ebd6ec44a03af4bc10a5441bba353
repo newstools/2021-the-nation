@@ -1,0 +1,247 @@
+Tuchel had overseen a 14-match unbeaten run in all competitions since replacing the sacked Frank Lampard in January.Christian Pulisic put Chelsea ahead early in the first half, only for Brazil defender Thiago to get his marching orders moments later for a second booking. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Chelsea manager Thomas Tuchel suffered the first defeat of his reign as struggling West Bromwich Albion took advantage of Thiago Silva's red card to earn a stunning 5-2 win on Saturday. 
+
+Tuchel had overseen a 14-match unbeaten run in all competitions since replacing the sacked Frank Lampard in January. 
+
+But that impressive start came to an embarrassing end as West Brom ran riot at Stamford Bridge. 
+
+Christian Pulisic put Chelsea ahead early in the first half, only for Brazil defender Thiago to get his marching orders moments later for a second booking. 
+
+That proved the turning point as Albion's Matheus Pereira struck twice in first half stoppage-time. 
+
+Mbaye Diagne grabbed West Brom's third goal and Callum Robinson netted twice to leave Tuchel shell-shocked. 
+
+Mason Mount's reply was no consolation as Chelsea's bid to qualify for next season's Champions League via a top four finish in the Premier League suffered a significant blow. 
+
+The Blues, beaten for the first time in 10 league games, remain fourth for now, but both West Ham and Tottenham would go above them if they win on Monday and Sunday respectively. 
+
+"We were unable to cope with the red card. I don't know why. We gave away two very easy goals," Tuchel said. 
+
+"What could go wrong went wrong after the red card. Every shot was a goal from them." 
+
+After conceding just two goals to start Tuchel's reign, this was a rude awakening for Chelsea.For the first time since 2011 against Arsenal, Chelsea surrendered five goals at home in the league. 
+
+It was the worst possible preparation for their Champions League quarter-final first leg against Porto on Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"It's important we digest it. I did not see it coming, now we have to take our responsibilities - me included - and shake it off," Tuchel said. 
+
+"It's a wake-up call. We will get the right response." 
+
+West Brom remain second bottom but their first league win at Chelsea since 1978 gives them a glimmer of hope in the fight to avoid relegation. 
+
+Thiago was making his first Chelsea start since February 4 after recovering from a thigh problem, but he was completely out of touch on his return. 
+
+The early signs were ominous when Jorginho's wayward pass was intercepted by Pereira on the edge of the Chelsea penalty area, forcing Thiago into a cynical foul that earned him a yellow card. 
+
+Despite their sloppy start, Tuchel's men took the lead in the 27th minute. 
+
+Marcos Alonso's 25-yard free-kick cannoned back off the post and Pulisic was first to react as he alertly steered his shot past Sam Johnstone from close-range. 
+
+But Thiago gifted Albion a lifeline two minutes later when he jumped into a rash two-footed foul on Okay Yokuslu, earning his second booking. 
+
+Chelsea were punished for some dismal defending in first half stoppage-time. 
+
+A long punt forward by Johnstone should have been dealt with easily, but Kurt Zouma allowed Pereira to run behind him and guide a superb lob over the exposed Edouard Mendy. 
+
+The Blues fell behind with virtually the last kick of the half. 
+
+James surrendered possession and Diagne found Pereira, who danced through the shambolic Chelsea defence before guiding cool low finish past Mendy from 10 yards. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Chelsea nearly drew level immediately when Johnstone made a hash of James' cross, forcing Semi Ajayi to turn Alonso's shot onto the post. 
+
+But they suffered a hammer blow in the 63rd minute. 
+
+A flowing move from the visitors ended with Robinson running onto Darnell Furlong's cross to smash a superb volley past Mendy from 12 yards. 
+
+Chelsea were in tatters and West Brom compounded their misery with a superb 68th minute break that featured a flurry of deft passes before Diagne slotted home. 
+
+Mount reduced the deficit with a close-range finish in the 71st minute. 
+
+But Tuchel's misery was complete in stoppage-time when Robinson struck again with a dinked finish. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
