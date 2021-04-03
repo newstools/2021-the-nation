@@ -1,0 +1,229 @@
+When President Uhuru Kenyatta announced new measures to deal with the Covid-19 infections and deaths which were going up by leaps and bounds in select counties, most of them bordering Nairobi –the epicentre of infections – it was expected that a howl of outrage would follow regardless of what he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Had he ignored the fact that the third wave of infections had arrived in the country with a vengeance, he would have been assailed for dereliction of duty, for it is his constitutional obligation to safeguard the lives of Kenyans.  
+
+Luckily, he chose to follow the advice of scientists and national security advisers and reinstitute a mild form of lockdown, restricting movement of people from the five most affected counties to the rest of the country. 
+
+However, despite the good intentions, the crude, profanity-laden roasting the President received for imposing other stringent measures affecting the entertainment and hospitality industry could be way beyond what he must have expected. In a sense, the protests are justified. 
+
+Big blow 
+
+The closure of bars and entertainment joints, which were only allowed to operate a few months ago after a whole year was certainly a big blow to their proprietors. The transport sector has also been badly affected, leading to mass layoffs. 
+
+Even more to be pitied are the thousands of employees in those two sectors who again find themselves without jobs. Any attempt to downplay their suffering would be extremely callous. 
+
+Just when they have started to rebuild themselves after a year in the cold, the pitiless virus decided to revisit with even more gusto and they had to be laid off again. This is enough for the sufferers to seek a scapegoat, and the President perfectly fitted the bill. His critics descended on him with a great deal of venom. 
+
+But was he wrong? 
+
+No, he was not. There is no way any leader worth the name would say “better dead than broke”. Those who have tried to do so have only succeeded in mortgaging the lives of their subjects. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, some clerics who have failed in their duty of advising their congregants to take seriously government advisories on the virus instead chose to launch vitriolic attacks on the country’s leadership, are of no help whatsoever and could even be misleading their flock. 
+
+So what if the President has again closed churches; is he responsible for bringing the virus to our shores? Are they happier while burying their stricken congregants, one after another, day after day? In a situation where seven people on average are said to die from corona daily, it is disconcerting to hear people tear to bits every measure taken to save them from the virus. 
+
+As some sage observed, lockdowns are a form of retreat so that one can fight again; death is final. 
+
+Tragic news 
+
+I am personally bitter because, while writing this column, I received the tragic news that a close relative, Mr Gideon Kamuri, had succumbed to a sudden stroke caused by Covid-19. Until his death on Wednesday night, Evangelist Kamuri ministered in Loresho PCEA Parish, after a number of years working in many other parishes in the city. I can only wish both his immediate and extended families solace during these sorrowful times. 
+
+At the same time, I would urge religious leaders to assist the government in sensitising their congregants, preferably online, to protect themselves from the virus, for it is clear that even when Covid-19 vaccines are widely available, we will still be in danger unless we observe all the rules meant to keep it at bay.No number of tirades from tithe-starved clerics and social media air-heads will make a difference. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+* * * 
+
+Only in Kenya can a violent horde of boda boda riders  “liberate” a suspected motorcycle thief from his arresters, frog-march him three kilometres to town, and proceed to stone him and burn his body in broad daylight. 
+
+Perhaps only in this country can such an event merit a mere brief in the inside pages of a national newspaper. If it is true, as reported, that something so odd actually occurred around Kibugu Police Station in Embu on March 30, then, indeed, we as a society have lost it altogether. 
+
+In other countries, not only would such a breach of a suspect’s rights have made the front-page in newspapers and prime time news on television, it is probable that some people in charge of security would have resigned in shame. 
+
+Not so in Kenya.  Just where is our sense of outrage as a nation? Where is our sense of values? If an unruly mob can take the law into its own hands and spring a suspect from custody, what would happen should a bunch of terrorists take it into their heads to do the same thing or worse? 
+
+andrewngwiri@gmail.com The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
