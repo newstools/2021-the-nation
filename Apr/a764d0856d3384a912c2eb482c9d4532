@@ -1,0 +1,331 @@
+A report by the KMPDC says all intensive care unit (ICU) beds in most major city hospitals are occupied. As the third wave of Covid-19 surges, occasioning a dramatic rise in the number of patients in critical condition, resources in hospitals across the country have come under intense strain. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last week, a report by the Kenya Medical Practitioners and Dentists Council (KMPDC) showed that all intensive care unit (ICU) beds in most major city hospitals were occupied. 
+
+Only 23 ICU beds were available for occupation at the time in Nairobi County, according to findings of the random survey.  
+
+What this means is that city hospitals could not admit patients in critical condition. 
+
+Hospitals’ ability to admit patients is primarily determined by the availability of beds. 
+
+But what specifically does a hospital bed entail? 
+
+Hospital beds are designed to provide patient safety, comfort and mobility. 
+
+Here are some of the components: 
+
+Mattress 
+
+A mattress is necessary for the comfort of the patient. 
+
+A hospital bed usually consists of a standard mattress with foam and springs. 
+
+Most hospital beds have what are called “air” mattresses. 
+
+Air mattresses are especially suitable for patients suffering from wounds or at the risk of pressure injury. 
+
+These mattresses can be inflated and deflated to attain the required level of pressure for the patient. 
+
+
+
+
+
+
+Some of the 170 jua kali hospital beds that were distributed from Nairobi to 14 counties across the country on March 24, 2021.
+Photo credit: Evans Habil | Nation Media Group
+
+ 
+
+Adjustable height 
+
+Elevation features allow caregivers to either lower or raise the bed to a comfortable level for the patient. 
+
+Both the head and the foot of the bed can be adjusted. 
+
+Adjusting the bed is necessary to help the patient breathe properly. 
+
+Sometimes it’s done when the patient is feeding/being fed. 
+
+It also makes it convenient for the doctors and nurses to attend to the patient. 
+
+Some conditions are best treated when the patient is lying in a certain position, which makes this feature important. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+These features could be either electronic or manual. 
+
+In most modern hospital beds, however, they are electronic. 
+
+Specialist beds 
+
+These types of beds are used to treat different types of injuries. 
+
+These may include back and spine injuries. 
+
+They could also be used to treat trauma. 
+
+Specialist beds include standing beds and turning beds. 
+
+Legacy beds also fall under this category. 
+
+Side rails 
+
+These adjustable rails are used for protection of the patient, specifically to prevent falls. 
+
+In modern beds, rails have buttons that can move the bed or summon a nurse. 
+
+They can even be used to operate the television. 
+
+In more advanced instances, the rails allow patients to undertake different activities without being confined to the bed. 
+
+Rails are, however, considered a form of restraint and their use may be subject to advice by a doctor. 
+
+Meal tray 
+
+Connected to the hospital bed is a platform where the patient’s meals and drinks are placed. 
+
+This allows the patient to feed without moving too far from the bed. 
+
+In most cases, the tray is collapsible. 
+
+
+
+
+
+
+Empty beds at Homa Bay County Referral Hospital in this picture taken on December 9, 2020.
+Photo credit: George Odiwuor | Nation Media Group
+
+ 
+
+Urine bag holder 
+
+Some patients are too weak to walk to the bathroom. 
+
+As such, the bed has a urine bag attached. 
+
+Patient can thus relieve themselves without moving from the bed. 
+
+Hospital attendants then empty or replace the bags.  
+
+Wheels 
+
+Unlike ordinary beds, hospital beds have wheels. 
+
+These make it possible to move the bed from one section of the facility to the other. 
+
+Sometimes the movement is within the room. 
+
+These wheels can be locked and unlocked for the safety of the patient. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+CPR facility 
+
+In some instances, the patient may require sudden cardiopulmonary resuscitation. 
+
+This function is activated by either a button or lever attached to the bed. 
+
+Once activated, the bed lowers to a certain level. 
+
+Meanwhile, the air mattress is deflated. 
+
+The resulting flat surface makes it easier for the administration of the CPR. 
+
+Bed exit alarm 
+
+Some advanced hospital beds have an alarm that’s triggered when the patient leaves the bed. 
+
+The alarm comes in form of a pressure pad placed in or on the mattress. 
+
+The alarm is activated when a patient either falls from the bed or wanders about without supervision. 
+
+This allows caregivers to monitor patients and to respond accordingly to ensure their safety. 
+
+The extent of use of these features is determined by the caregivers. 
+
+While they are generally used in hospitals, hospital beds can also be found in other facilities such as outpatient clinics, homes for the elderly, ordinary homes and assisted living facilities. 
+
+jkgitau@ke.nationmedia.com Shortage has raised concerns on whether recipients of the first dose will get their second after eight weeks. Abstain or reduce alcohol intake for the first 48-72 hours after vaccination. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
