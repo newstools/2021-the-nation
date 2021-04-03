@@ -1,0 +1,147 @@
+This week, truck drivers have reported incidents in which gunmen have ambushed them and torched their vehicles. Juba,  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenyan government has cautioned its drivers against using Juba-Yei highway following a fatal attack last week. 
+
+The Ministry of Foreign Affairs  said on Friday that it will seek assurances from Juba but that drivers should avoid the road in the meantime. 
+
+“The Government of Kenya is concerned by growing attacks against Kenyans and their interests in South Sudan,” it said, referring to Yei-Juba highway, a major artery connecting South Sudan to its east African neighbours, Uganda and Kenya. 
+
+ “Kenyans in distress across South Sudan are encouraged to urgently seek consular assistance from the embassy in Juba. The Ministry of Foreign Affairs is constantly reviewing the evolving situation and will provide periodic updates and advise on the security situation” the ministry said. 
+
+“The government is working closely with the Government of South Sudan to ensure that Kenyan interests are protected and that perpetrators of attacks against Kenyans are prosecuted to the fullest extent of the law.”  
+
+Vehicles torched 
+
+This week, truck drivers have reported incidents in which gunmen have ambushed them and torched their vehicles. 
+
+The truck drivers association said on Thursday that two Kenyans were burnt to death while another two were missing after their vehicles were attacked at the Ame Junction that day. 
+
+Earlier on Friday, the Kenya Transporters Association, a lobby of haulage firms, appealed to foreign carriers planning to drive to South Sudan to avoid using Juba-Yei road due to insecurity there. 
+
+In a statement seen by The EastAfrican, chief executive Dennis Ombok asked foreign drivers to avoid using the route as soon as possible. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Transporters are advised to withdraw their services with immediate effect until security is guaranteed,” he said. This comes a day after two Kenyan drivers were killed in an ambush along Juba-Nimule highway. Kenya Truck Drivers Association said three trucks were attacked by a group of gunmen along Nimule-Juba road. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
