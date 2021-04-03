@@ -1,0 +1,155 @@
+A renowned Mombasa hotelier has sent a heartfelt letter to locked up Nairobi residents narrating how the Coast region is reeling from the effects of the containment measures imposed by President Uhuru Kenyatta on March 26. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, Mr Mohammed Hersi, the chairman of the Kenya Tourism Federation, in a letter published on his website, urged the domestic tourists to continue adhering to the Ministry of Health protocols and flatten the curve. 
+
+The containment measures ordered by President Kenyatta as the country battles the third wave of infections saw Nairobi, Kiambu, Kajiado, Machakos and Nakuru locked down as one “disease-infested zone”. 
+
+For years, hundreds of Nairobi residents have been flooding the Coast region, Kenya's tourism hub, during the Easter holidays to enjoy the festivities. 
+
+Hotels, public beaches, Mama Ngina Waterfront and other touristic sites have always been flooded with people from upcountry. 
+
+But with President Kenyatta's containment measures that saw the five counties put under lockdown, the Coast region including the sandy warm beaches has remained deserted. 
+
+Last week, hundreds of people from other parts of the country, who had booked their holidays at the coast, were forced to cancel their journeys leaving occupancy rates at 10 per cent. 
+
+And Mr Hersi says the hospitality industry is feeling it. 
+
+"This Easter, Mombasa and Kenya coast is dead and lifeless without you good people. I mean it: Dead and silent without you. You may be considered noisy but what is life without some noise and happy faces?" posed Mr Hersi. 
+
+While Kenya coast is laid back, said Mr Hersi avers, Nairobi residents are the opposite: Outgoing and also good spenders. 
+
+“They love fine things in life and why lie? You guys love life and merry-making,” he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He cited Yuls and Nomad restaurants where most revellers could throng to enjoy the holidays. 
+
+Mr Hersi cited the dead silence witnessed at the Standard Gauge Railway, Moi International Airport, Airbnbs, supermarkets and beach hotels. 
+
+He mentioned Malindi and Diani Airports, which he said, would also be busy as the domestic tourists head to various destinations. 
+
+"But the roaring aircraft engines have this time all gone silent. Imagine we will miss your colourful dressing all set for the beach and in all shapes and sizes. Beach hotels are all quiet this morning... the airport is dead silent so is SGR which is silent with lone askaris keeping watch. If it was not for the cessation of movement, the entire Kenya coast, we would be ready to welcome our visitors. Now that you are not there everyone can fill the void. Without you it's never the same," he added. 
+
+The hotelier highlighted the plight of industry players who are now reeling from the effects of the pandemic and containment measures including eateries within Mombasa's Old Town and Nyali as well as taxi, public service vehicles and tuktuk drivers. Churches in five counties under lockdown remain shut as those in other areas hold shorter services. Mr Samboja has blamed the administration of former Governor John Mruttu for slow development in the county. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
