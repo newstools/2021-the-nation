@@ -1,0 +1,237 @@
+The Raptors won by 53 points and led at one point by 61 as they handed the short-handed Warriors their third worst loss ever and the sixth defeat in their last seven contests.With Stephen Curry and Draymond Green sitting out, the hapless Warriors looked out of sorts. Curry was ruled out hours before tipoff with a bruised tailbone and Green was scratched with a sprained finger. Curry missed five games earlier before returning for the last two games. Los Angeles, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Pascal Siakam celebrated his 27th birthday by scoring a season-high 36 points as the Toronto Raptors won their most lopsided game in franchise history with a 130-77 rout of the Golden State Warriors on Friday. 
+
+The Raptors won by 53 points and led at one point by 61 as they handed the short-handed Warriors their third worst loss ever and the sixth defeat in their last seven contests. 
+
+"You saw it," Warriors coach Steve Kerr said. "We just got destroyed. Not a whole lot to be said. Humiliating for everybody involved." 
+
+The Raptors have been having problems of their own, winning for just the second time in the past 15 games and snapping a four-game losing streak. 
+
+"Losing is not fun, and anything that lifts us out of that is good," said Siakam. 
+
+With Stephen Curry and Draymond Green sitting out, the hapless Warriors looked out of sorts. Curry was ruled out hours before tipoff with a bruised tailbone and Green was scratched with a sprained finger. Curry missed five games earlier before returning for the last two games. 
+
+"I just think the game went south on us quickly and we got demoralised," Kerr said. 
+
+"I think without Steph and Draymond out there I think we were a little bit rudderless when things went south. We didn't have the internal fight that we needed to kind of get over the hump." 
+
+The Raptors outscored the Warriors by 51 points in the second and third quarters, the largest point differential over a two-quarter span within a game in NBA history. Golden State also became the fourth team in the last 25 seasons to trail by at least 60 points in a game. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Turnovers have been an issue for Golden State this season as they committed 21, leading to 30 Raptor points. 
+
+"As a coach, you try to navigate the season with your team as best you can," Kerr said. "So there's times for humour, there's times for joy, there's times for serious discussion and soul searching. This is a time for soul searching for sure." 
+
+The Raptors outscored the Warriors 35-16 in the second quarter and 46-14 in the third to build a 108-56 lead. 
+
+Raptors Siakam also had seven rebounds and five assists and Gary Trent, who was recently acquired in a trade, finished with 24 points. OG Anunoby scored 21 points on eight-of-12 shooting. 
+
+Malachi Flynn tallied 16 points while Chris Boucher had 10 points, six rebounds and four steals. 
+
+Andrew Wiggins led Golden State with 15 points while Jordan Poole and Nico Mannion each scored 10 points. 
+
+Elsewhere, Giannis Antetokounmpo scored 47 points on 18-of-21 shooting from the floor and grabbed 12 rebounds as the Milwaukee Bucks breezed to a 127-109 win over the Portland Trail Blazers. 
+
+Antetokounmpo also had three blocks in posting his third 40-point performance of the season as the Bucks beat the Trail Blazers for the fifth straight time. 
+
+Jrue Holiday chipped in 22 points and 10 assists for Milwaukee, who are now 2-1 at the halfway point of their six-game road trip. 
+
+Damian Lillard led Portland with 32 points, CJ McCollum notched 18 points and seven assists and Robert Covington scored 18 points in the loss. 
+
+The loss snapped the Trail Blazers' four-game winning streak and was just their third defeat in the past 10 games. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+- Carlisle tests positive - 
+
+In New York, Luka Doncic scored 13 of his game-high 26 points in the fourth quarter as the Dallas Mavericks beat the New York Knicks 99-86. 
+
+The Mavericks were without head coach Rick Carlisle who had tested positive for Covid-19 earlier Friday despite receiving the vaccine shot in January. Carlisle was scheduled to coach in his 1,500th game Friday. 
+
+Assistant coach Jamahl Mosley filled in for him. 
+
+In Boston, Jayson Tatum scored 26 points, Jaylen Brown added 22 with 11 rebounds and the Boston Celtics beat the Houston Rockets 118-102. Nets stormed to a 32-11 lead after the first quarter in front of a pandemic-limited crowd of 1,700. Devin Booker finished with 21 points for Phoenix. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
