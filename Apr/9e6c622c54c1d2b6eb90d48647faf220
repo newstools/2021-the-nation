@@ -1,0 +1,169 @@
+CS Kagwe also announced the recovery of 220 more patients , 177 of them under home-based isolation and care, and 43 in hospital, raising the total to 93,650. Kenya's Covid-19 death toll on Saturday grew by 20 to 2,206 but the Health ministry said only two of the fatalities occurred in the past 24 hours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a statement, Cabinet Secretary Mutahi Kagwe said 14 of the deaths occurred over the last one month while four were late death reports from the audit of facility records, that took place on various dates.. 
+
+CS Kagwe further announced 1,184 new infections, out of a sample of 7,139 analysed in the last 24 hours, raising the country’s number of confirmed infections since the first one in March 2020 to 138,077. This resulted in a positivity rate of about 16.5 per cent, the ministry said. 
+
+Thus far, Kenya has tested 1,511,592 samples for the disease first reported in Wuhan, China, in December 2019. 
+
+Of the new patients, 1,146 were Kenyans and 38 foreigners 601 male and 583 female, the youngest one year old and the oldest 98. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Nairobi County accounted for 613 of the cases and was followed by Kiambu with 92, Nyeri 59, Kericho 47, Uasin Gishu 38, Machakos 37, Meru 33, Kajiado 28, Nakuru and Nyamira 26 each, Nyandarua and Kilifi 23 each, Taita Taveta 19, Kakamega 17, Laikipia 16, Kirinyaga 12, and Bomet and Bungoma 11 each. 
+
+Mombasa and Murang’a counties followed with eight new infection each, Busia, Kitui and Homa Bay five each, Vihiga four, Kisumu three, Kwale, Makueni, Mandera and Migori two each, and Marsabit, Nandi, Garissa, Narok and Isiolo one each. 
+
+CS Kagwe also announced the recovery of 220 more patients , 177 of them under home-based isolation and care, and 43 in hospital, raising the total to 93,650. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+As of Saturday, 1,582 patients had been hospitalized, 187 of them being under intensive care. Of those in ICU, 43 were on ventilatory support, 111 on supplemental oxygen and 33 under observation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Another 247 patients were separately on supplemental oxygen, 234 of them being in general wards and 13 in high dependency units. 
+
+The number of patients in the home-based care programme stood at 5,376. 
+
+ambuthia@ke.nationmedia.com As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. A lot of misinformation is going around on the technology that is supposed to transform Kenya's economy in the next four years. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
