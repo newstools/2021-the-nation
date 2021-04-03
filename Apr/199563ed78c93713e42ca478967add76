@@ -1,0 +1,81 @@
+A doubling of claims and withdrawals of policies hit health insurer AAR earnings pointing to an industry reeling from the impacts of the Covid-19 pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+AAR Insurance Kenya posted a 55 per cent decline in net profit to Sh234 million in the year ending December 2020 from Sh517 million the previous year. 
+
+Net claims and policyholders’ benefits rose 54.2 percent to Sh2.59 billion from Sh1.68 billion the previous financial year, with the company paying out close to Sh200 million in Covid-19 claims in 2020, signalling the harsh financial impact of the pandemic on health insurers. 
+
+“The surge in claims is attributed to Covid-19 impact on business and families. 2020 was an extremely challenging financial year given the sudden shocks of the new coronavirus health crisis which significantly affected our bottom line given impact on many employers and families,” AAR Insurance Kenya Managing Director Nixon Shigoli said. 
+
+AAR Insurance is among leading medical health underwriters with over 200,000 customers. 
+
+Higher insurance claims were met by falling premiums as customers most of who lost their jobs and were squeezed by the economic fallout from Covid-19 stopped paying for their dues. 
+
+AAR’s gross written premiums, representing the company’s revenue, declined three percent from Sh5.86 billion to Sh5.68 billion. 
+
+However, net earned premiums grew 19.7 percent to Sh.74 billion as total income also increased 14.6 percent to Sh4.56 billion. 
+
+Total assets increased by four percent to close the year at Sh5 billion while shareholders’ funds increased to Sh1.3 billion from Sh1.1 billion in 2019. 
+
+dguguyu@ke.nationmedia.com Association says claims arising during curfew hours cannot be dismissed on basis of time of accident. Essential service providers or people driving out with an emergency exempted from the order. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
