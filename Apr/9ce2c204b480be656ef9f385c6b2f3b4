@@ -1,0 +1,153 @@
+The European Medicines Agency (EMA), which like the World Health Organization previously declared the AstraZeneca vaccine safe, is expected to announce updated advice on the issue on April 7. The UK medical regulator said Saturday that out of 30 people who suffered blood clots after receiving the Oxford-AstraZeneca vaccine, seven have died. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The British acknowledgement of deaths comes as several European countries have paused the use of the AstraZeneca jab over a potential link to blood clots. 
+
+The UK's Medicines and Healthcare products Regulatory Agency said in a statement that "Out of the 30 reports up to and including 24 March, sadly 7 have died." 
+
+The Netherlands on Friday halted vaccinations with the AstraZeneca jab for people under the age of 60 after five new cases among women, one of whom died. 
+
+Germany took a similar decision earlier this week. 
+
+The European Medicines Agency (EMA), which like the World Health Organization previously declared the AstraZeneca vaccine safe, is expected to announce updated advice on the issue on April 7. 
+
+The EMA said again on Wednesday it believes the vaccine is safe and that experts have found no specific risk factors such as age, gender or medical history. 
+
+The UK regulator said that the 30 reports of thrombosis, submitted by medics or members of the public via a government website, came after 18.1 million doses of the vaccine had been administered in the country. 
+
+Most of the cases (22) were cerebral venous sinus thrombosis, a rare condition when a blood clot forms in the brain. 
+
+Eight other cases saw people suffer thrombosis and low levels of blood platelets, which help blood clot.  
+
+There were no reports of blood clots from the Pfizer/BioNTech vaccine it said, adding that "our thorough review into these reports is ongoing." 
+
+The regulator's website says that on the basis of current data, the benefits of the vaccines against Covid-19 "continue to outweigh any risks". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+AstraZeneca said last month following US efficiency trials that its vaccine is 79 percent effective at preventing the disease and does not increase the risk of blood clots. 
+
+The UK has administered more than 31 million first vaccine doses, using both the Oxford-AstraZeneca and the Pfizer-BioNTech jabs. People cannot choose which one they get. 
+
+The UK in June 2020 ordered 100 million doses of the Oxford-AstraZeneca vaccine and supported its development. It also ordered 30 million doses of the Pfizer-BioNTech vaccine the same year. The Ministry of Health is in talks with the African Union with a view to acquiring the vaccine. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
