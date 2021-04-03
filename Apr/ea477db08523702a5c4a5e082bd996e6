@@ -1,0 +1,261 @@
+Deep in the heart of the Laikipia and Samburu plateaus, an expansive grassland dotted with acacia and euphorbia trees, is a military base where hundreds of British soldiers come to improve their tactical combat skills every year.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Troops under the British Army Training Unit in Kenya (Batuk) consider the sweltering rough terrain in this region ideal for military training. 
+
+
+
+
+
+
+British and Kenyan soldiers during a past joint training exercise in Laikipia County.
+Photo credit: File | Nation Media Group
+
+ 
+
+Under the Defence Co-operation Agreement (DCA) with the Kenyan government, up to six infantry battalions carry out eight-week exercises in Kenya every year. 
+
+But in these plains, some in private ranches where rifle fire persistently crackles and mortar explosions are normal, the British war games have had a terrible impact on society, wildlife and environmental conservation. 
+
+Although Batuk has been credited with training Kenya Defence Forces troops, gifting military equipment and operational assistance, as well community health and sanitation projects, it has in the past been linked to cases of rape and child abandonment. 
+
+The unit has also been accused of leaving unexploded arsenal in the fields. 
+
+The most recent case relates to a fire that started during a soldiers’ training last week that destroyed some 12,000 acres of the pristine Lolldaiga nature conservancy in Laikipia County. 
+
+Although the Kenya Wildlife Service (KWS) in a statement said no elephants were killed in the three-day fire, Lolldaiga is home to more than 400 species of birds as well as mammals such as the rare Grevy’s zebra, leopards and wild dogs. 
+
+British soldiers who were training in the conservancy are said to have started the fire on March 24, with the UK government seemingly admitting liability for the tragedy. 
+
+The British High Commission has, however, said investigations into the actual cause of the fire are underway. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+British troops and employees of Lolldaiga Conservancy battled the inferno for more than four days, only managing to put it out last Sunday. 
+
+
+
+
+
+
+A fire rages at Lolldaiga Hills in Laikipia County on March 26, 2021.
+Photo credit: Joseph Kanyi | Nation Media Group
+
+ 
+
+A preliminary assessment of the damage by KWS shows almost a quarter of the conservancy, which is 49,000 acres, was damaged in the fire. 
+
+And a social media post by one of the British Army soldiers seemingly bragging about killing an elephant in an earlier fire remains the subject of investigations by the British military police. 
+
+“I am utterly appalled. I think that is outrageous and am very disappointed that a British soldier would post that. It is being investigated,” British High Commissioner to Kenya Jane Marriott said last week. 
+
+Restoration could be done either through natural regeneration or by replanting trees on the 12,000-acre section. 
+
+
+
+
+
+
+A fire rages at Lolldaiga Hills in Laikipia County on March 26, 2021.
+Photo credit: Joseph Kanyi | Nation Media Group
+
+ 
+
+On Monday, an environmental lobby group sued the British Army and the management of Lolldaiga Conservancy over the  wildfire that damaged 12,000 acres of Loldaiga Hills in Laikipia County. 
+
+The African Centre for Corrective and Preventive Action wants Batuk and Loldaiga Conservancy compelled to compensate surrounding communities for environmental damages caused by the fire. 
+
+In a petition filed at the Environment and Land Court in Nyeri, the lobby group also wants Batuk and its commanding officer as well as the conservancy to bear the responsibility of restoring the 12,000 acres of bushland that was destroyed. 
+
+The lobby group has accused the parties of failing to put in place measures to prevent fires as the British troops take part in training on Lolldaiga Hills, consequently endangering wildlife in the conservancy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lobby further argues that the fire resulted in tonnes of carbon emissions, which are likely to cause irreparable damage to the ozone layer. 
+
+“As a result of the respondents’ actions, millions of tonnes of carbon emissions have been released into the ozone layer, which are likely to cause irreparable loss and damage to the environment,” the petition read in part. 
+
+At the same time, the lobby group is demanding that the British Army and Lolldaiga Conservancy should compensate any beneficiary of the hills as well as any victim of pollution caused by the fire, including residents of the surrounding settlements. 
+
+kkimanthi@ke.nationmedia.com and nkomu@ke.nationmedia.com Firefighters are battling a huge blaze that has destroyed thousands of acres of vegetation. Locals say British soldiers detonated explosives inside conservancy sparking the raging inferno. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
