@@ -1,0 +1,238 @@
+Stage commanders, their deputies, set-up crew, and media personnel will have a sneek preview of the real competition.Three works teams – Hyundai Motorsport, Toyota and M-Sport (Ford) will field teams in the Safari Rally. Preparations for the 2021 World Rally Championship (WRC) Safari Rally have hit top notch, with the first shipment of equipment expected at the port of Mombasa this week. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Works teams that will compete in the event, which returns to the WRC calendar for the first time since 2002, will ship in equipment to be used at the Service Park located in Kenya Wildlife Service Training College in Naivasha. 
+
+
+
+
+
+
+WRC Safari Rally Media Safety Officer Anwar Sidi explains the media points at the Malewa Section to WRC Safari Rally media committee members on April 3, 2021.
+
+ 
+
+“We expect the first shipment of at least 60 containers of equipment which will used by works teams any time in the week. We have built what will be the biggest Service Park in the World Rally Championship history, and each works team shall be allocated space according to the requests of the works teams,” WRC Safari Rally CEO Phineas Kimathi told journalists in Naivasha on Saturday. 
+
+The equipment will then be transported by railway to Naivasha to enable works teams set up service stations in good time at the Service Park. 
+
+The Service Park covers an area of 220 metres by 90 metres and will be the nerve centre of the competition for works teams in the three-day competition that will run from June 24-27. 
+
+Kimathi, who is also Kenya Motor Sport Federation (KMSF) President, said it took sustained campaign to bring the Safari Rally back the WRC fold after a 19-year hiatus. 
+
+“Bringing the Safari Rally back to the WRC did not happen overnight. It took concerted effort, patience and resources. It is a project that had to be put in the government’s manifesto. By the time I joined KMSF IN 2014, Safari Rally was still an African Rally Championship event, and we had to look for a new strategy to achieve our agenda. We pulled out of the ARC, then got the whole continent behind us. We made presentations at the African Union meeting in Addis Ababa, then we got to where we wanted. We travelled to at least 26 countries to make presentations, including the Philippines,” Kimathi said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Saturday, journalists were taken on a tour of parts of the 300km route located in Naivasha. 
+
+Photojournalist Anwar Sidi, who is heavily involved in the Safari Rally as the main Media Safety and Route Coordinator, took scribes through the media stages. 
+
+“We will have about 90 media points in a total of nine competitive sections in the Safari Rally. Media personnel will be monitored by the Safety Officials how they move within the points,” Sidi, who has covered several WRC rallies, including the Acropolis and Rally of Great Britain, said. 
+
+He has contributed motorsports images to the Nation Sport for over three decades. 
+
+Sidi is also in charge of coordinating between the land owners and the rally organisers. All the competitive stages of the rally will be run on private land. 
+
+On Saturday, journalists visited the Service Station, Kedong Stage, and the Power Stage located inside Hell's Gate National Park. They also covered Loldia Stage which has strategic positions for photojournalists, and Malewa, which will host the “shakedown” for works teams. 
+
+Clerk of Course Gurvir Bhabra, Service Park Manager Anthony Gatei, Head of Security Julius Kabiru who is Police Commissioner, Chief Safety Officer Norris Ongalo, Head of Communication Elias Makori and Head of Media Operations Anwar Sidi gave detailed explanation of the Safari Rally operations to the journalists. 
+
+Before the rally proper, works teams will have a chance to test their cars at full speed in the “shakedown” at Malewa section of the route. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Power stage 
+
+The “Power Stage” at Hell’s Gate will test competing cars for strength, speed and endurance. 
+
+The Equator Rally which is an Africa Rally Championship event, will be a dry-run for the WRC Safari Rally. It will be organised by the Kenya Motor Sport Federation, and will be held from April 24-25. 
+
+It will feature six special stages that will also be used for the Safari Rally. They are Elementaita, Soysambu, Sleeping Warrior, Loldia, Malewa and Kedong. 
+
+The Equator Rally will provide WRC Safari Rally organisers and officials with an opportunity to gauge their preparedness. 
+
+Stage commanders, their deputies, set-up crew, and media personnel will have a sneek preview of the real competition. 
+
+Three works teams – Hyundai Motorsport, Toyota and M-Sport (Ford) will field teams in the Safari Rally. The women’s race is just as alluring. Argentina humbled France 19-7 in the final to win the first leg. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. The number of confirmed infections since last March has increased by 1,184 to 138,077. Health ministry says several provinces have reported the case but that the outbreak if of a smaller scale.
