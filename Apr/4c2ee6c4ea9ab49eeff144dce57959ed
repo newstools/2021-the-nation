@@ -1,0 +1,267 @@
+My heart, like the hearts of many proud Africans, has been in Nyanza this week, mainly because of the flight into Ancestry of the Ndlovukazi (Great She-Elephant), Hajjat Mama Sarah Anyango Obama Nyakogelo. About her, I can only refer you to the tribute of her unique grandson, Barack Hussein Onyango Obama. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As it happens, however, my heart was already in that Lake Basin “Low Land”, as my friend Governor Peter Anyang’ Nyong’o calls it in his famous poem, “Daughter of the Low Land”. This was due to a profound learning experience that I had at the Jaramogi Oginga Odinga University of Science and Technology (JOOUST), in Bondo, Siaya County, on March 17. I will tell you more about this presently. 
+
+But returning to the departure of great African matriarchs, that of Egyptian Dr Nawal al Saadawi, last Sunday, March 21, was a landmark in African literature and African feminism. As you will have noted from tributes by my fellow literati, Nawal al Saadawi was a medical practitioner who distinguished herself as not only a fiery activist and defender of women’s rights but also a superb literary artist. 
+
+As expected in the Egypt of her 1960s and 70s times, but also in many places even today, Nawal al Saadawi’s militancy drew a lot of hostility against her from diehard conservatives and male chauvinists. Her uncompromising denunciation of such backward practices as female genital mutilation (FGM), the denial of women’s sexual rights and the suppression of female sexuality led to harsh persecution and victimisation against her, both socially and professionally. 
+
+Yoke of poverty 
+
+The gist of Nawal al Saadawi’s argument in both her fiction and non-fiction is that women have to be liberated from the triple yoke of poverty, ignorance and patriarchy (PIP) that lies at the root of all their miseries. Several of her books, like Woman at Point Zero and The Hidden Face of Eve, are classics of feminist thought. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A striking detail from Nawal al Saadawi’s life, which connects well with my JOOUST learning experience, is that this remarkable woman had always wanted to be a writer but her family had persuaded her that there was neither money nor prestige in Literature. So, she had taken to the sciences and ended up as a medical doctor. 
+
+But, like quite a few other multi-talented and imaginatively motivated people, Nawal al Saadawi eventually excelled at both medical practice and creative writing, among her many other accomplishments. 
+
+A relevant comparison here is our own dear departed Dr Margaret Akinyi Ogola, a distinguished paediatrician, who was best-known as an international prize-winning novelist. 
+
+This underlines my feeling that that science and the humanities (arts) are inseparable parts of the same continuum of knowledge. We should, therefore, develop them alongside each other, rather than erecting artificial barriers between them, and possibly disadvantaging either of them vis-à-vis the other. 
+
+Indeed, this was the theme of what I wanted to share with my colleagues at JOOUST. But there were other reasons why I jumped at the invitation to lecture at the JOOUST. The most obvious was my notorious eagerness to share ideas and words with anyone who cares to listen. 
+
+Another, rather hidden, reason for my accepting the offer was the hope that it would be another opportunity to visit Bondo, where the main campus of the JOOUST is located. 
+
+Beautiful lakeside town 
+
+I last visited Bondo nearly thirty years ago, when I participated in a training seminar at the Teachers’ Resource Centre there. A lot must have changed since then, but I hoped it had not negatively affected the tranquil waterscape of that beautiful lakeside town. Anyway, the physical visit and lecture were not to be. The pandemic scourge made our occasion a virtual one, via Zoom. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That notwithstanding, once we hit our cyber lecture hall, my screen was filled with scores and scores of serious and expectant academic colleagues, including many of my close friends. I realised then that the virtual was becoming increasingly actual in these challenging times. I was flattered to learn that mine was actually to be the first in a planned series of such academic discourses. Were the organisers, my young colleagues, like Dr James Ogone, Dr Emily Ondondo and Dr Juliet Jagero, following an age order, giving priority to the oldest? 
+
+I was utterly humbled to note that the attending dons were led by not only Prof Josep Bosire, the DVC Academic Affairs, under whose docket my “visit” fell, but also by the VC himself, Prof Stephen Agong, who reminded me that he remembered me from his younger days. Was that not a really warm welcome to Bondo? Most importantly, it signalled to me how seriously the JOOUST community was taking the occasion. 
+
+Back to my talk, I was required to reflect on “Dismantling the Ivory Tower”. This implied a possible reconfiguring of our university teaching and research programmes to respond more appropriately to our society’s needs. 
+
+Realising that I knew very little about the subject, I decided to limit my remarks to my current hypothesis of “adili (ethics) na akili (skills)”, in my “swahilised” mind. 
+
+Basically, the idea is that a proper education should lay equal emphasis, for every individual, on both the humanities (adili) and the sciences (akili). A humanities scholar without reasonable scientific competence is merely a loquacious dreamer. But equally importantly, a clever scientist without genuine human and humane feeling is a dangerous and destructive machine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Ergo, every scientific course or research programme should have a humanities component, and every humanities programme should include a scientific element. This is what I mean by making STEM (science, technology, engineering, mathematics) more humane and making the humanities (arts and social sciences) more scientific. 
+
+I had, however, not thought out all this as lucidly as it might sound now. I learnt most of what I am sharing with you from the inspiring contributions of my JOOUST audience to the discussion that followed my lecture. JOOUST thus ended up being one of my best teachers in these matters. 
+
+Happy Easter to you all. 
+
+abubwase@yahoo.com The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
