@@ -1,0 +1,229 @@
+Most of the calls I get relate to real illnesses or conditions that diminish the welfare and productivity of livestock. However, a significant percentage are about harmless biological or behavioural occurrences where the farmer only requires education - even on the phone. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+To reward the farmers for their due concern for the welfare of the animals, I do not charge consultation fees for the reports of harmless events. Incidentally, such reports increase as the farmer gets more knowledgeable on animal behaviour in disease and health. Eventually, they decline as the farmer gets experienced in various animal species. 
+
+Farmers keep getting educated but the reports never cease because there are always new people getting into livestock farming or those experienced in one type of livestock venturing into a new livestock species. The farmers are, thus, naive of the new species normal and disease behaviour. 
+
+Cattle farmers have one main harmless occurrence they often complain of, which they report as their animals having “broken the egg”. The phenomenon occurs 48 to 72 hours after an animal is inseminated. The farmer reports that their cow or heifer is bleeding from the vulva and they are worried “the egg has broken”. 
+
+My interviews with different dairy farmers have revealed that farmers compare this to the menstrual blood in humans. They believe that the cow bleeds because the egg in the uterus disintegrated and pregnancy failed to occur. 
+
+Bleeding in cattle after heat is normal, whether the animal is inseminated or not. Unlike in humans, the bleeding is due to breakdown of excess blood vessels in the reproductive tract meant to supply blood during the heat period. The bleeding does not affect the chances of conception and only occurs in a small number of animals. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I recall one lady farmer who was ready to take a bet that her bleeding heifer would not conceive. I stayed on the professional lane. Our professional ethics professor taught us, many years ago, that we should never get into intellectual contests with our clients. 
+
+My response was, “The heifer may or may not conceive but trust science, the bleeding is independent of conception or failure of it.” I confirmed the heifer pregnant three months later. 
+
+Making noise 
+
+First time farmers sometimes also call to say their heifers have “gone crazy”. They jump over fences and make lots of noise. Well, in most cases it just turns out to be the first heat. 
+
+Heifers in top body condition and the smell of bulls in the neighbourhood can demonstrate explosive heat behaviour. Three of the cases on various farms and at different times unfortunately turned out to have been infected with rabies. 
+
+Normal explosive heat is not accompanied by violent behaviour towards people. The animals also have normal voice tone and volume for the whole duration of heat. The vulva is swollen and the animal sniffs the air and faces the direction of bulls. Finally, there is discharge of clear mucous from the vulva. 
+
+In contrast, rabies cases are violent to people, other animals and inanimate objects. The voice starts high but lowers with time, becomes hoarse and finally is completely lost. Saliva or froth may flow from the mouth. The eyes are very red and the animal finally becomes paralysed. 
+
+Another common “problem” reported in cattle is salty taste of milk and milk cuddling when boiled. In most cases, it is caused by milking animals late into pregnancy. However, in a few cases, it may be due to infection of the udder. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last week, John, who has recently started keeping sheep, called me to say his animals were breathing too fast. He thought they had pneumonia. The issue was simple, he had not sheared the sheep and the sun was hot. They were simply working hard to control their body temperature. 
+
+Mount everything 
+
+I advised him to shear the wool and to always do the same at the beginning of the hot season. Wool sheep should also be provided with shade because they tend to heat up faster than goats or hair sheep. The wool also acts as insulation and prevents skin cooling. 
+
+One goat farmer recently called me and said he thought his he goat was “insane”. It was attempting to mount everything, including chicken. It also made too much noise and drunk its own urine. The goat had been bitten by his dog when it tried to mount the dog. He wondered if the goat had rabies. 
+
+I found the goat to be absolutely normal. Even when I was there, the animal caused lots of laughter when it tried to mount my drug box. Poor goat, it had excess testosterone and was the only animal of its species in the compound. 
+
+Testosterone is the reproductive hormone responsible for mating behaviour. I advised his awkward activities were normal breeding behaviour for he-goats. 
+
+I told the owner to get the goat a few females for peace to prevail in the compound. Alternatively, he could castrate the animal and fatten it for slaughter. He opted for castration. 
+
+jmugachia@yahoo.com Moses Gitonga grows giant varieties of pumpkins on an acre-and-a-half in Nagum village in Gilgil, Nakuru County. Purko Development Trust owns a community ranch in which they keep over 600 Coriedale sheep. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
