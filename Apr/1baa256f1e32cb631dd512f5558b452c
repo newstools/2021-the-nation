@@ -1,0 +1,155 @@
+For the second year in a row, it is going to be an Easter season with little to smile about. As the country navigates the third wave of Covid-19 and a subsequent lockdown, millions of Kenyans continue to worry about the fate of their businesses, most of which are already reeling under the impact of these latest measures. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While it is important to think of our own survival, it is also good—and human—that we spare a thought for our brothers and sisters working in industries most affected by this lockdown. 
+
+Think about Kenyans working in the hospitality industry, who were expecting to cash in on the Easter season, only to now deal with massive cancellations and empty establishments. 
+
+Think about the waiting staff, housekeepers, concierges, baristas, bellhops and bartenders who even on “normal” days earn barely enough to feed their families but now have to make do with a fraction of their salaries. 
+
+Think of the workers in the entertainment industry—the DJs, artistes—and other professionals whose livelihoods depend on the entertainment business who will be staring at empty wallets next week. 
+
+Security teams 
+
+As we avoid private golf clubs and stay home this weekend, we must not forget those who work in these establishments: the chefs, cooks, waiting staff, caddies, valets, front desk managers, hotel managers and security teams that make your visit to the golf clubs comfortable but now have to go home to their families empty-handed. 
+
+We also need to think of the Kenyans working in the small businesses have had to significantly scale down operations due to the economic uncertainty and are facing salary cuts or, worse, layoffs. 
+
+While it is important to remain prudent in our spending and think of our families first, surely there must be something we could all do in our own little way to make life bearable for our brothers and sisters going through a tougher time. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For example, while we may avoid going out to restaurants, we could order takeout from any of these establishments to keep them going. 
+
+Or perhaps you could reach out to a friend who works in any of these industries and send them a bag of groceries for their families. You could reach out to your security guy at the gate with some unga and spread some Easter cheer. 
+
+Shopping list 
+
+Reach out to friends and family working in small businesses that have been affected and send them a little something for their families to enjoy. During your Easter shopping, perhaps you could include in your shopping list, items for a family that you know is need of some help. 
+
+Reach out to the support staff in your office – the cleaners, messengers—and let them know they can count on you. 
+
+None of us knows how long we will have to stick out until this dark phase is over. However, what I do know is that if this pandemic should teach us anything, it is that we are our brothers’ and sisters’ keepers. 
+
+Njoki.chege@aku.edu The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
