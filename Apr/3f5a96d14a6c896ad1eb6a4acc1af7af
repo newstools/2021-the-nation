@@ -1,0 +1,337 @@
+Lake Nakuru has always appeared in postcards as a colourful, peaceful destination hidden from the ravages of nature by an evergreen canopy and resting peacefully in the belly of the Rift Valley, but years of industrial pollution, coupled with a rather unfortunate locating of a sewerage treatment plant, are robbing it of its sheen and colour as millions of litres of toxic water are emptied into it daily. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As the flamingoes that have called this home for centuries die or flee, experts say it’s just a matter of time before this great oasis that gave Nakuru County its name breathes its last. Can it be saved? Eric Matara examines the history of blunders — and how to correct them 
+
+An awful smell hovers over the Nakuru Njoro Sewage Treatment Pond, which lies adjacent to the shoreline of Lake Nakuru, the ever-willing host of the world-famous Lake Nakuru National Park. 
+
+From a distance, thousands of flamingos dot shoreline. This, after all, is their home. This is their Ground Zero, their natural habitat and supporter of life. 
+
+But that colourful, emotional picture changes when one gets closer to the lake. Tens, perhaps hundreds of the pink birds lie in the mud. Dead. The pink of their feathers tarnished by the brown of the mud that will soon entomb them. 
+
+Then the reality hits home: Lake Nakuru, this Unesco World Heritage site, this bastion of local and international tourism, is killing its birds. Or, to put it more aptly, the lake, choking under pollution, is poisoning its birds. 
+
+The dead birds lining its shores, and the many others buried under the salty waters of the lake, are the casualties of a disease that scientists believe is caused by industrial pollution at an unimaginable, indescribable level. 
+
+Mr Edward Karanja, a senior Kenya Wildlife Service warden stationed at the lake, said yesterday that he, jointly with other experts, had launched investigations to establish what is killing the flamingos. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“A few sites within the lake have recorded the deaths, including at the sewerage treatment plant. We have engaged the Nakuru Water and Sanitation Services Company Limited on the matter,” said Mr Karanja. The investigation include post-mortem examinations of the birds to establish cause of death and detect any toxins in their carcasses. 
+
+Industrial pollution 
+
+Mr Jackson Kinyanjui, an environmentalist and founder of Climate Change Kenya, said that although the cause of the deaths remains mysterious, “we suspect industrial pollution by a nearby sewerage treatment plant”. 
+
+Mr Kinyanjui, a researcher who has spent the past one year studying the rising water levels in the Rift Valley, says a cocktail of raw sewerage and solid waste from industries in Nakuru town and its suburbs, which mostly contains toxins and heavy metals, is washed into the lake daily. 
+
+
+
+
+
+
+A carcass of a flamingo at a sewage treatment plant in Nakuru Town on April 2, 2021. Many of the birds are dying mysteriously in Lake Nakuru.
+Photo credit: Cheboite Kigen | Nation Media Group
+
+ 
+
+“Wildlife may be feeding on contaminated food and water. Lake Nakuru was once very popular due to the abundance of the beautiful flamingoes, but if this pollution is not stopped we risk losing the world heritage site. Both the county and national governments should join hands to end pollution of the lake,” said Mr James Wakibia, an environmentalist. 
+
+Of particular worry is the Mwariki sewerage treatment plant and River Njoro, which drains its waters into the Lake. The sewerage plant collects waste from various parts of Nakuru and was recently engulfed by the rising lakewaters. That means raw sewage is now part of the lake’s ecosystem, and conservationist Julius Muli says the pollution is evident from the smell and even apparent quality of the water. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A past study that investigated the extent of pollution showed the presence of heavy metals and pesticide residues in the lake. Water, sediment, fish and algae collected from the lake and its feeder rivers during the dry and rainy seasons were analysed for heavy metals and pesticide residues to identify possible sources of contaminants. 
+
+The study revealed that most contaminants entered the lake during the rainy season, indicating that run-off waters were collecting and discharging toxins into the lake. Over time, the concentration of those toxins has risen, and the swallowing of the sewarege treatment plant appears to have been the straw that broke the camel’s back. 
+
+Nakuru County environment chief officer Kiogora Muriithi, in a past interview, told this newspaper that there was a need for better waste water management as well as industrial discharge to ensure only clean effluent enters the lake. 
+
+“We must do this alongside continuous awareness creation on benefits of the lake and enforcement of existing laws and regulations. Regular clean-up exercises should also be intensified to save the lake, which is the pride of Nakuru,” said Mr Kiogora at the time. 
+
+Rising water levels in the Rift Valley lakes, including Nakuru, Baringo, Bogoria, Naivasha and Elementatita, have also worsened the situation for the flamingoes. The waters have not only left homes,farms and vegetation submerged, but also destroyed the flamigoes breeding grounds. 
+
+Lake Nakuru is fed by five seasonal rivers — Njoro, Makalia, Nderit, Naishi and Larmudiak — which flow from the Mau Escarpment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Permanent inlet 
+
+The only known permanent inlet to the lake is the Baharini Spring on its eastern shoreline, which, it has been found, only contributes about 0.6 cubic metres of water per second. About two decades ago, up to two million lesser and greater flamingoes — or a third of the world’s population — would flock the alkaline water to feed on the abundant blue-green algae nourished by their own droppings. 
+
+However, pollution, coupled with the rising water levels in recent years, have caused a big drop in salinity, and a number of flamingoes have migrated from Lake Nakuru and flocked elsewhere. Thousands of the birds migrated to other areas, including Lakes Bogoria, Elementeita, Magadi and Natron, the latter in Tanzania. 
+
+
+
+
+
+
+Flamingos  at sewage treatment plant in Nakuru town on April 2, 2021.
+Photo credit: Cheboite Kigen | Nation Media Group
+
+ 
+
+As a result, Lake Nakuru currently supports less than 500,000 flamingoes, compared to two to four million just a few years ago. 
+
+The lake hosts the world-renowned Lake Nakuru National Park, which is home to lions, gazelles, baboons, rhinos, zebras, buffaloes, and the elusive leopard, among other animals. The parks also serves as a sanctuary for endangered black and white rhinos. 
+
+A survey by two Moi University scholars conducted between 2010 and 2014 revealed that there were at least 450 bird species in the lake, classified broadly as water fowls and forest birds. 
+
+The lake was also last year ranked among the world’s most colourful destinations by Conde Nast Traveller, a travel website. 
+
+In March 26,2019, Tourism Cabinet Secretary Najib Balala, during a stakeholders’ meeting in Naivasha, said Lake Nakuru was “as good as dead” due to heavy pollutions and the migration of flamingoes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+He called for the formation of a team to address land encroachment on Lakes Nakuru, Naivasha and Elementaita, and asked scientists from the Kenya Wildlife Service to address the loss of biodiversity and the flight of flamingoes. 
+
+ematara@ke.nationmedia.com Rising water and pollution now threaten to take away lake's tag as international tourism site. Crocodiles and hippos among animals that have invaded homes as several lakes in the region overflow following heavy rains. The loan would help Nairobi deal with Covid-19 related funding shortages. Mike Pompeo had imposed sanctions and refused visas after ICC top prosecutor Fatou Bensouda launched investigation into alleged war crimes. Board chairperson admits that poor management reduced firm to a buying machine.
