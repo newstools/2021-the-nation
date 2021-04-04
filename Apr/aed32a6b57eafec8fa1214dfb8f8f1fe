@@ -1,0 +1,75 @@
+A police officer has been scheduled for an emergency reconstructive surgery at Nairobi West Hospital after he was attacked by woman who bit off his right ear. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The said attacker is reported to have been in violation of the dawn-to-dusk curfew on Saturday night when the incident happened. 
+
+The unnamed officer, a sergeant, was walking to Bypass Patrol Base in Lang’ata at 8pm when he came across the woman. He stopped her to enquire were she was heading to at that time. 
+
+"An exchange of words ensued where the furious lady jumped up and held the officer’s head firmly, then bit his right ear cutting it off completely,” a police report of the incident indicates. 
+
+The report under OB number 02 /04/04/2021 further states that after noticing that she had injured the officer, the woman ran towards the river bordering Langata and Kibera. 
+
+The injured officer is reported to have picked his fallen ear lobe and proceeded to Nairobi West Hospital where he was admitted. 
+
+Police have commenced investigations into the incident. Local secular artiste arrested following the death of her husband during a physical fight at their Kahawa Wendani home. Residents told police that there were some people in the neighbourhood at the time of the killing. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
