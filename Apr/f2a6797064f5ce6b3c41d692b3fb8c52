@@ -1,0 +1,275 @@
+This week the world began to follow the trial of a police officer named Derek Chauvin for murder. The police officer is charged with second-degree murder of George Floyd in May 2020 by using excessive force in trying to arrest the latter. The case has attracted global attention and is being broadcast live by many television stations. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The reason for the international interest in this murder trial is that a bystander recorded the accused police officer on a phone as he pressed his knee against Floyd’s neck for almost nine minutes. Floyd fell unconscious and ultimately died of suffocation. 
+
+Racist policing 
+
+There is a feeling that the reason for this ruthlessness by the policeman was out of an institutionally racist policing culture in the United States, which is indifferent to the black people’s rights. This led to the now pervasive and well-known Black Lives Matter movement. 
+
+The shock at the audacity of the policeman and the fact that this was broadcast through social media all over the world explains the immense interest in this case. Many are waiting to see what verdict the jury will give on this. 
+
+This will probably be the most watched trial since that of O J Simpson about a quarter century ago. In that trial, OJ Simpson, a renowned professional football player in the US was charged with the murder of his former wife and her friend. This trial also had racial undertones because the accused was a famous black man accused of murdering two white people. The trial ended rather cataclysmically with the acquittal of the accused and a feeling that he had escaped conviction because of his wealth and reputation. 
+
+The other case that attracted a lot of attention across the world regarding a renowned sportsman charged with murder was the South African case of Oscar Pistorius. Pistorius was a South African athlete who, as a double-amputee, competed against non-amputee runners in the 2012 Summer Olympics. He was charged with the murder of his girlfriend in 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ The trial was followed all over the world not only because of the accused’s status as an athlete but also because the deceased girlfriend was a well-known model in her own right. In 2014, the Pretoria High Court found that the charge of murder was not proved and convicted him of manslaughter. 
+
+This was later changed when the court of appeal held that the trial judge had been wrong and found that Oscar Pistorius was guilty of murder. He was then sentenced to serve six years in prison. The judge referred to the case as a “human tragedy of Shakespearean proportions”. 
+
+Black policemen 
+
+Still in South Africa, another case that attracted international attention was the murder trial of black militant poet Benjamin Moloise. He was charged with the murder of a police officer in 1982. South Africa was then in the loosening grip of the brutal Apartheid regime at the time of this trial. The charge was that Moloise had killed a black policeman on the direction of the African National Congress (ANC), then the organisation leading the fight against the racist apartheid regime. 
+
+The trial was based on a confession by the accused, which was taken upon his arrest. 
+
+Moloise recanted this confession, saying it was made under duress. The courts, however, went ahead with the trial, convicted him of murder and sentenced him to death. 
+
+Moloise was hanged in 1985 despite protests by several anti-apartheid activists and human rights organisations and even African governments opposed to the apartheid regime. 
+
+India too had a murder trial of significant world interest around the year 1985. This was the trial of three persons for the murder and assassination of then India’s Prime Minister Indira Gandhi in October 1984. Prime Minister Gandhi was assassinated by two of the persons who were part of the security of her official residence. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The trial of the two assassins and a person said to have been an accomplice in planning the murder was breathtaking in many ways. So intense were the passions drawn by the assassination that for a time,  no lawyer  was willing to take up the defence of the accused persons. Some remarks cast aspersions on the advocates who bravely agreed to undertake the work of defence counsel for the accused. 
+
+The trial was mammoth by all standards; 73 witnesses testified over 247 days but from an office specially designed with high security features including metal detector and bullet-proof glass screens but near a jail. The three were convicted of murder at the trial but one of them was later acquitted and released by the Supreme Court following an appeal. 
+
+The reason for the keen watch on this case was not just that it involved the assassination of a Prime Minister. There were also sectarian religious undertones at play. The accused persons were of the Sikh faith and it was said that the assassination had been an act of vengeance on the part of the Sikh body guards because the Prime Minister had earlier that year ordered the Indian Army to attack Sikh extremists in the Golden Temple to remove a number of militants who were hiding within the temple. 
+
+The invasion had angered the bodyguards and a number of Sikhs because the temple is the Sikh's holiest shrine. 
+
+In Kenya, a murder trial that attracted immense public attention was that of Arvinder Singh Chadha, then a police reservist. The prosecution’s case against Mr Singh was that on August 11, 1994, he had shot a 15-year-old street boy several times at close range within Nairobi. There was immense public outrage. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+At his trial, Mr Singh admitted having shot the boy in self-defence after he was threatened with a knife. The Police officer was acquitted in March 1995 after a trial in which the judge found that the street boy had been killed while trying to resist arrest after having committed a crime. 
+
+The public outrage after the acquittal was fanned by the feeling that it was a case of a poor African boy being fodder in the justice system after being killed by a police officer of Asian origin, with no consequence. 
+
+Nevertheless, Kenya has had its fair share of murder trials that highlighted the raw side of the state of race relations in the country. 
+
+Killed a prostitute 
+
+The 1980 murder trial of Frank Sundstrom, a sailor in the United States Navy who killed a prostitute while in Mombasa on holiday, is one such example. On being charged, the sailor pleaded guilty to a reduced charge of manslaughter and was released on a minimal fine and a bond to be of good behaviour for two years. 
+
+The racial dimension of this trial was that the judge and the prosecutor in this case were both British while the accused was represented by an advocate of Asian origin, leaving a bad taste and an appearance of conspiracy against the only black person in this cast, the unfortunate victim. 
+
+The decision was discussed even in Parliament, which expressed its deprecation for this racial bias in the administration of justice. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
