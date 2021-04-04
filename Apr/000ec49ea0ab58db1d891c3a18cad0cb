@@ -1,0 +1,161 @@
+Despite its inclusion on the UK’s latest travel advisory list, Kenya is still rated quite highly among African countries with working national Covid-19 response plans. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Although a third wave of infections is currently underway in the country, the caseload was only about 135,000 by Friday – far below the 800,000 by July 2020 forecast by some models last year. 
+
+Much of that success has been attributed to some robust public containment measures recommended by its team of experts and the agility of the country’s leadership in enforcing them. 
+
+President Uhuru Kenyatta, for example, has been quick to order lockdowns, night curfews and enforcement of face mask wearing and social-distancing rules at the first sign of danger. 
+
+In the latest set of containment measures announced late last month, he restricted movement in and out of the current Covid red zone consisting of Nairobi, Kiambu, Kajiado, Machakos and Nakuru counties. 
+
+Notable omission 
+
+The Ministry of Health reckons the partial lockdown and a ban on large social gatherings will significantly bring down the Covid positivity rate, which hit a scary peak of 26.6 per cent last Monday. 
+
+But the publicity blitz by the national government – including daily live TV briefings by Health ministry officials and periodic major announcements by the President from State House in Nairobi – has often overshadowed some equally significant victories in the counties and the role of local heroes in the same battle. 
+
+A notable omission from President Kenyatta’s latest list of hotspot counties was Mombasa. 
+
+While the coastal county is still second to Nairobi in terms of total confirmed Covid cases (with Kiambu fast catching up), the risk of infections spreading widely is currently considered relatively low. Go back a year and the pandemic situation looked rather bleak for Mombasa. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For days last April, it was almost neck-and-neck with Nairobi in reported cases. 
+
+On April 23, 2020, Mombasa recorded the highest single-day increase in infections in the country, setting off the alarm bells that would see its Old Town neighbourhood put under lockdown alongside Nairobi’s Eastleigh the following month. 
+
+Public health guidelines 
+
+So how did Mombasa shake off its Covid hotspot image in one year? As John C. Maxwell said, everything rises or falls on leadership. 
+
+With some of the public health guidelines initially widely resisted by the public and controversially enforced by police across the country, what seemed to have made the difference for Mombasa was the passion brought by Governor Hassan Joho to the battle. 
+
+TV footage showed him moving from street to street warning residents about the existential threat posed by Covid and appealing to each one of them to protect themselves, their families and others. 
+
+And while at it, he also mobilised the private sector to contribute to a safety net fund to cushion needy families. 
+
+Kenyans, subjected to another round of lockdowns without any reliefs to cushion them, would be forgiven for asking: what would someone like Mr Joho do? 
+
+jkotieno@ke.nationmedia.com. @otienootieno Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
