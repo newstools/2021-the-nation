@@ -1,0 +1,161 @@
+Liverpool took full advantage of Chelsea's shock collapse to close within two points of the top four with a 3-0 win at Arsenal.City are 17 points clear of second-placed Manchester United after a remarkable 15th successive away win in all competitions. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Liverpool clicked back into form to thrash Arsenal 3-0 at the Emirates on Saturday and rekindle their chances of a top-four finish in the Premier League. 
+
+Diogo Jota came off the bench to score twice either side of Mohamed Salah's 26th goal of the season as Jurgen Klopp's men closed to within two points of fourth-placed Chelsea. 
+
+The manner of the victory will be just as pleasing as the scoreline for Klopp as Liverpool looked far more like their old selves ahead of a trip to Real Madrid in the first leg of their Champions League quarter-final tie on Tuesday. 
+
+Chelsea's shock 5-2 defeat at home to West Brom earlier on Saturday opened the door for both sides to close in on their target of a top-four finish. 
+
+However, it was only Liverpool who showed any ambition as Arsenal were thoroughly outplayed. 
+
+The visitors pressed the Gunners high and quickly recovered possession, but lacked the killer edge up front to turn their dominance into goals until Jota was introduced on the hour mark. 
+
+Roberto Firmino flashed a shot just wide from outside the box before James Milner also failed to hit the target with the best chance of the first period. 
+
+Arsenal got to half-time without any damage done on the scoreboard, but suffered a major injury blow as Kieran Tierney limped off just before the break. 
+
+Tierney's outstanding form for club and country has seen calls for Liverpool's Andy Robertson to be dropped by Scotland to allow the former Celtic left-back to play in his favoured role. 
+
+With success for Arsenal this season now dependent on winning the Europa League, Tierney would be a big miss for Thursday's quarter-final, first leg against Slavia Prague. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Like Robertson, Trent Alexander-Arnold has failed to hit the heights of his stunning season as Liverpool romped to the title last year. 
+
+On Friday, Klopp expressed his shock that Alexander-Arnold had been dropped from the England squad by Gareth Southgate and the right-back showed his international manager what he is missing by creating the opener on 64 minutes. 
+
+Jota had only been on the field three minutes when he met Alexander-Arnold's cross with a powerful header at the back post. 
+
+Four minutes later, Salah wrapped up the three points as the Egyptian outmuscled Gabriel Magalhaes before coolly slotting underneath the advancing Bernd Leno. 
+
+The loss of centre-backs Virgil van Dijk, Joe Gomez and Joel Matip to injury has been attributed as the principal reason for Liverpool's slide down the Premier League table this season. 
+
+However, Jota's absence for three months due to a knee injury between December and March also played a major part. 
+
+The Portuguese pounced again at the back post for his sixth goal in four games for club and country to round off a miserable night for the Gunners eight minutes from the end. 
+
+Arsenal remain in ninth, nine points adrift of the top four. It was Jesus's fifth goal against Leicester in all competitions. For the first time since 2011 against Arsenal, Chelsea conceded five goals at home in the league. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
