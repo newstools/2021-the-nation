@@ -1,0 +1,167 @@
+Only 17,912 residents of Nakuru have been vaccinated against Covid-19 as of April 3, 2021, even as all Intensive Care Unit beds in the county's public and private hospitals are said to be full. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Joseph Kiamangu, a taxi driver watched as a client died in his car as they searched for an ICU bed in public and private hospitals in the devolved unit. 
+
+“I have never witnessed such a sad incident in my 15 years as a taxi driver. Every hospital we went to was full, I watched a woman wail uncontrollably as her husband died due to lack of an ICU bed," said Mr Kiamangu. 
+
+He added: "That picture is still troubling me three days after the incident, I'm now hesitant to pick Covid-19 patients." 
+
+The county is struggling to cope with the increasing number of Covid-19 patients seeking treatment in public and private hospitals. 
+
+ICU beds 
+
+"All ICU beds in the county are full and in the last three days, we have had to transfer patients out of Nakuru," said Governor Lee Kinyanjui. 
+
+Mr Kinyanjui said his administration will increase the number of our ICU beds by 50 percent in the next two weeks. 
+
+"We also intend to hire more qualified staff (ICU nurses) and expand oxygen supply to public and private hospitals," added the county boss. 
+
+He appealed to the national government for support to ensure oxygen is available in public and private health facilities. 
+
+Nakuru County Health Department has been under pressure due to the rising number of Covid-19 infected people who are in dire need of medical attention. 
+
+"The situation is getting worse by the day yet the number of residents going for the jab is relatively low," said the taxi driver. 
+
+According to the latest data released by the Health Executive Kariuki Gichuki only 10,188 men which represents 57 percent, have received the jab in comparison to 7,712 women (43 percent). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Cumulatively, about 20,461 people in the county have so far registered for vaccination. 
+
+Frontline workers 
+
+The healthcare workers who are leading the vaccination campaign are yet to get the jab as only 5,418 of the workers or 30 percent have been vaccinated. 
+
+The security officers who are categorised as essential frontline workers are yet to embrace the Covid-19 vaccine as only 10 percent or 1,891 officers have received the jab. 
+
+Only 2,378 out of the 20,000 teachers in the county have been vaccinated. This translates to 13 percent, while 8,225 residents or 46 percent in other professions have been vaccinated so far. 
+
+Former chairperson of Nakuru County Kenya Union of Post-Primary Education Teachers (Kuppet) Michael Gachohi said many teachers feared taking the jab. 
+
+"Many teachers have adopted a wait and see attitude instead of going for the jab because of fear while others are engaged in the KCSE exams," said Mr Gachohi. 
+
+At least four secondary schools principals in Nakuru County have contracted the virus. Three are admitted to various hospitals in the county while one is under isolation at home. 
+
+fmureithi@ke.nationmedia.com  Only 15,496 people have been vaccinated in Nakuru county, which is among the five Covid-19 hotspot counties. About 1,461 residents, which translates to about 11 percent, have been registered and are waiting for the jab. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
