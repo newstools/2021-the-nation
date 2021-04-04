@@ -1,0 +1,221 @@
+Evidence that a “rape culture” exists in British schools and universities emerged when a website collected 8,000 allegations of sexual abuse from pupils. Sara Soma, founder of the website Everyone’s Invited, told the BBC that allegations included “sexual harassment, groping at a Christmas party, image-based abuse, revenge porn, non-consensual sharing of intimate photos and general sexism and misogyny.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She said, “These are stories of a rape culture, where behaviour that is not normal is normalised. Rape culture is endemic. It’s in all parts of society, including universities and both state and private schools. ” The accounts mostly describe sexual harassment and sexual violence carried out by young males against girls and young women who are at school, college or university with them or who are part of the same social groups. 
+
+Often the incidents described took place outside of school or university premises. Responding to widespread calls for an inquiry, Education Secretary Gavin Williamson described the allegations as “shocking and abhorrent” and promised to take “appropriate action.” He said no school should be a place where children felt unsafe. Chief Constable Simon Bailey blamed “the volume of pornographic material that is being consumed”. 
+
+He said, “There is an erosion of understanding of what normal sexual relationships look like.” A culture had developed whereby in the minds of some young people, it was acceptable to treat young women as described on the website. Mr Bailey, the lead for child protection on the National Police Chiefs’ Council, called on parents who believe their son has committed a sexual assault to take him to the police. If their daughters were victims, they should report the abuse and the matter would be dealt with. One well-known private school, Dulwich College, described allegations in its case as “distressing and entirely unacceptable.” 
+
+A statement said, “We are meeting with victims to listen to their experiences and concerns and we will act on them.” The website initially drew attention to private schools but police warned that the state sector was far from immune, with more than 100 schools specifically named by complainants. Opposition Labour MP Jess Phillips said, “We need to have a better inspection regime, we need a proper inquiry.” Culture Minister Nigel Huddleston said government inspectors had powers up to and including closing down schools if there is evidence. “We will be looking very closely at this,” he promised. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+* * * 
+
+Farming in Britain is admired by many as a fine, upstanding occupation, the historical backbone of the national economy, an industry populated by strong, healthy and happy people. According to new research, nothing could be farther from the truth. 
+
+ A study by the Farm Safety Foundation found that 88 per cent of farmers aged under 40 ranked poor mental health as their biggest problem. In 2019, no fewer than 133 people working in agriculture committed suicide. One of the 133 was the partner of Kelsey Ann Williamson, who blamed the isolation of a farmer’s life. “My partner didn’t drive and he didn’t have access to public transport because it is so limited in the rural areas,” she said. 
+
+James Hoskings, 28, from rural Cornwall, quit dairy farming because he felt always tied to his work. He said, “On Christmas Day, when most families are at home listening to the Queen’s speech, a dairy farmer will be out milking his cows.” 
+
+ Four years ago, the Farm Safety Foundation started a campaign known as Mind Your Head to persuade farmers to speak out on mental health issues. Stephanie Berkeley, manager of the campaign, said, “Four years ago, nobody was willing to come forward and talk about the problem. Now they do and it’s a lovely thing to inspire affected people to get help by showing they are not on their own.” 
+
+ * * * 
+
+Sandwiches, known here as “sarnies,” are everybody’s regular snack, packed lunch or way of using up kitchen leftovers. Slipped between two slices of bread, the most popular fillings are ham, chicken, cheese, tomato, egg, sausage, bacon (for “bacon butties”) and salmon, plus two children’s favourites -- fish fingers and potato crisps. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, a survey of 2,000 British people has revealed that many of us prefer sandwiches made from fruit. More than four in 10 named apple, kiwi fruit, pineapple, orange, banana and pears as their sandwich of choice. Which just goes to show there’s no accounting for taste. 
+
+ * * * 
+
+A husband and wife were on safari in Africa. “Look,” shouted the husband, excitedly, “Lion tracks! You see where they go and I’ll see where they came from.” 
+
+* * * 
+
+Another safari: Two friends heard a snarl and suddenly there was a leopard in front of them. As Joe turned to run, Bill said, “Are you crazy? You can’t outrun a leopard.” Said Joe, “I don’t have to outrun the leopard, I just have to outrun you.” 
+
+Gerryo69@hotmail.com Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
