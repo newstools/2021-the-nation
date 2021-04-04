@@ -1,0 +1,147 @@
+At some point in their lives, Kenyans living abroad have walked into a coffee shop and been surprised to find Kahawa – Kenyan coffee. It’s usually a source of pride and joy to know that one of your country’s foreign exchange earners is sold in a country like America. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But Kenyan coffee is not very common and readily available. It is estimated that Americans consume 400 million cups of coffee every day and this coffee is consumed in various forms: latte, cappuccino, cold brew and other forms. As of 2020, Folgers was the leading ground coffee brand in the US, accounting for over 25 per cent of the US market. 
+
+Sometime in 2018, Mukurima Muriuki, a Kenyan based in Los Angeles, noticed a gap in the way the story of African coffee was told in America. “You walk into a grocery store to buy coffee and you smile when you see that it is sourced from say Kenya. However, after brewing a cup, you find it tasteless. 
+
+Now two things could have happened: First, that coffee could have gone stale because of being on the shelves for too long, or it is probably a blend, mixed with other bad coffee.” Muriuki told the Sunday Nation in a recent interview. “At that time I did not realise I could do much with coffee until someone asked me where they could find Kirinyaga or Kenyan coffee!” 
+
+African Coffee Club 
+
+Muriuki says that it dawned on him that first, he’s the son of Kirinyaga and therefore knew a little bit about coffee, and second, he had the ability to do something about it - showcase the best of Kirinyaga coffee and that is how African Coffee Club started. 
+
+According to Muriuki, the idea was to tell the African story through coffee while at the same time ensuring coffee lovers have a fresh product. Fast forward, last year, Muriuki’s African Coffee Club received a grant from Facebook and that is when it dawned on him that he was on the right track. But, the question still remains: why is Kenyan coffee not popularly marketed and sold in the US despite the fact that it's one of the best in the world? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ “Two reasons; one, the companies that own the production and marketing process get more profits from blending small quantities of high quality coffee from Kenyan and Ethiopian with large quantities of low quality coffee from around the world and two, products in the US are sold to retailers in portfolios which ensure that if one product is facing what is perceived as ‘unnecessary’ competition, the seller just withdraws the whole portfolio or a product in the portfolio that drives store sales,” said Dr David Amakobe, a Kenyan businessman based in Middletown, Delaware. 
+
+Fresh flowers 
+
+Dr Amakobe knows this very well because in 2010, he inked a big contract with one of the leading American chain stores, Walgreens, to supply fresh flowers from Kenya and cosmetics beauty products from Morocco.  
+
+For a few months, business boomed only to be told one day that his contract had been cancelled because one of the big chain beauty products suppliers had complained and threatened to pull out the chain stores. 
+
+Muriuki says that these impediments notwithstanding, the market for Kenyan coffee in the US is growing.  “Kenya should fine tune its methods of marketing coffee. This should be done in collaboration with the more than 150,000 Kenyans living in America. Most Kenyans living abroad either do not drink coffee or have limited understanding of the premium product grown in the motherland,” Muriuki said. In the much hyped deals, farmers expected to earn two times more. International trade is structured around profit, and only profit. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
