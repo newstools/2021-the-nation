@@ -1,0 +1,145 @@
+There has been a sustained call for resilience from our leaders during these difficult times, and part of encouragement to the public has involved many ways of telling people to tough it out. Meanwhile, the number of infectious Covid-19 variants is rising, we are back into county restricted movements, closed businesses, lost jobs and zero cushion for the vulnerable. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite the discovery and rollout of several vaccines, the politics of supply and demand means that the global South countries like Kenya will take a long time to get ahead of Covid-19. 
+
+Kenya is currently strapped for oxygen, oxygen cylinders and ICU beds, and it is more than evident that our health care personnel in both private and public hospitals are fatigued and burning out. Aside from the ways in which we continue to demand accountability and action from duty bearers, where can Kenyans derive hope when we are all tired and living in despair? Well, we can start in the one place we have always done so: from each other. 
+
+Kenyans have always opened paths to new possibilities for each other, even when these seemed unreachable. Kenyans have contributed to health initiatives, feeding programmes, set up schools, and stood by one another in small yet significant ways, simply by working together. 
+
+When some of us have been afraid, others among us have held space and spoken up, creating room for everyone to be heard, for different decisions to be made, and for new paths to be taken. This goes far beyond money and socio-economic class: we have given time, care, relief, comfort and even joy to each other. 
+
+Our boundaries 
+
+How then can we practise hope when there’s so little of it about? Foremost, we can stretch just a little further to be available beyond ourselves to others, in whichever ways we can. This is not a demand for further blood-letting and sacrifice of self beyond the huge ways we already work now, but a call for deep knowledge of our own boundaries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Secondly, we shouldn’t be afraid to ask for help. We’re often encouraged to only ask for help when we are at the end of our tethers. Yet in reality, a key measure of healthy relating among human beings is in interdependence. Help is already being given and received all around us, even when it is not labelled as such. A request for support, for comfort, for a show of care, can be one of the strongest shows of hope. 
+
+Lastly, it is crucial that we find a way to be hopeful as a way to amass strength to move towards better days, without ignoring the ongoing difficult realities that we are experiencing. 
+
+We are currently living with the realities of numerous losses of lives, health, income, safety, homelessness and starvation. As such, it is also valid to think that hope enables a belief that we are worthy now. We are worthy of care and relief now. 
+
+okoreschea@gmail.com Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
