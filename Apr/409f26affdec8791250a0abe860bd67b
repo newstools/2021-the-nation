@@ -1,0 +1,233 @@
+With no timeline as to when the ban could be lifted, even if it is temporary, many businesses will be devastated.  The angry reaction was quick. For many Kenyans, the decision by the United Kingdom to implement a travel ban amounts to betrayal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Even Foreign Affairs Principal Secretary Macharia Kamau joined the chorus of condemnation on Saturday. 
+
+But Dr Bitange Ndemo, an economist, said the impact of “the temporal measure” taken by the UK cannot compare with failing to do anything to protect public health. 
+
+“These are extraordinary times. It is not about British-Kenya differences but it is because of the pandemic. If we are to mitigate against the long-term impact on trade and other facets of our relationship, we need to follow the measures the government has put in place,” Dr Ndemo said. 
+
+“We have lost a lot in this pandemic and the quickest thing we can do is to comply and see how we can reduce the infection rate. Some people do not understand it.” 
+
+Kenya’s failure 
+
+For Dr Ndemo, Kenya’s failure to restrict travel to and from South Africa to contain the spread of the new variant of the virus should be blamed for the situation the country finds itself in. 
+
+“When the UK banned South Africans from landing there, we should have done the same. Failing to do so is what has led to the present chaos,” he said. 
+
+Boasting of long ties from the colonial era, the UK is the largest European investor in Kenya. 
+
+There are more than 100 British investment companies based in Kenya. 
+
+According to the Kenya National Bureau of Statistics (KNBS) Economic Survey 2020, Kenya’s value of exports to the UK in 2019 was Sh40 billion, second only to The Netherlands (Sh48 billion) in Europe. 
+
+National carrier 
+
+With no timeline as to when the ban could be lifted, even if it is temporary, many businesses will be devastated. Kenya Airways will be one of the most affected. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From April 9, KQ will only carry British and Irish nationals and third-country nationals with resident rights in the UK. The national carrier has announced two extra flights to London before the travel ban takes effect on April 9. 
+
+“Due to the increased demand for travel to the UK before the advisory takes effect, we have added two flights on April 4 and 8,” KQ said in a statement. 
+
+The carrier advised customers affected by the directive to reschedule their travel plans or request a refund with penalties waived. 
+
+Along with KQ, Jomo Kenyatta International Airport (JKIA) will also be badly hit by the UK directive. 
+
+Regional hub 
+
+As a regional hub, travellers to many African countries pass through JKIA. According to the notification by the UK, even passengers who pass through Kenya will have to quarantine or be barred from entering the country. 
+
+It means travellers who may have been relying on JKIA to connect to their destinations will have to find alternative routes. That is challenging and possibly more expensive. 
+
+Other players are still coming to terms with the ban. Kenya Private Sector Alliance Kenya, Tourism Board (KTB) and the Kenya National Chamber of Commerce and Industry said they are yet to understand the parameters of the ban. 
+
+For KTB, the ban is devastating as tourism and hospitality have suffered the most following the new measures announced by President Uhuru Kenyatta to contain the spread of the virus. 
+
+Some 155,800 British visitors either came for holiday or passed through Kenya more than any other European country in 2019, according to KNBS Economic Survey 2020. The pandemic has however seen the numbers drastically fall. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+wmenya@ke.nationmedia.com The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. With movement restrictions in Nairobi, Kajiado, Machakos, Kiambu and Nakuru counties, hotels have registered dismissal bookings over the Easter weekend. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
