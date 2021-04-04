@@ -1,0 +1,243 @@
+Organised militia groups are behind eight in every 10 of South Sudan’s civilian deaths in the country’s enduring conflict, in what could signal the limitations of ceasefire agreements. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A new report released by the United Nations Mission in South Sudan indicates that the militias were responsible for as many as 78 percent of civilian killings, injuries, sexual violence and abductions in South Sudan between January and December 2020.  
+
+UNMISS Annual Brief on Violence Affecting Civilians, marked Jonglei State and Pibor Administrative Areas as places where many civilians were killed. 
+
+“UNMISS documented the killing of 2,421 civilians in 2020, more than double the previous year. Just over 1,500 people were injured, up from 866. While the figures represent a significant increase in violence compared to 2019, the clashes were concentrated in just 13 percent of the country’s 540 payams and largely involved community-based militias rather than conventional parties to the conflict,” reads the UNMISS report. 
+
+The mission stressed that the level of violence also remains significantly lower than the period prior to the signing of the 2018 peace deal. 
+
+Spike in abductions 
+
+The report raises particular concern about a sharp spike in abductions by more than 300 percent. Many of the victims were children stolen from their families during militia-led raids.  
+
+Men were also abducted by conventional parties for forced military recruitment and labour. 
+
+The report notes a 21 percent reduction in cases of conflict-related sexual violence documented in 2020. 
+
+The report could be a chilling reminder to just how deep the South Sudanese conflict is. 
+
+The country, which became independent in 2011 plunged into conflict in December 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ceasefire agreements 
+
+It was until February 2020 that a government of national unity, bringing together bringing together President Salva Kiir, Vice President Riek Machar and various other armed groups, was formed. 
+
+The findings of so many killings in a year of supposed peace now mean the ceasefire agreements have been discarded or are not even recognised by the militia groups. 
+
+It also points to an existing cache of arms in the civilian hands, which the unity government must now pursue. 
+
+As it is, South Sudan is still lagging behind on a programme to normalise, train and merge the various fighters into one national professional army. Last week, some soldiers in training camps complained of congestion, and insufficient supplies; pointing to another low morale in the army. 
+
+Yet, sporadic violence has continued since. Officials in South Sudan say some elite politicians are still tied to the militia and bankroll their violence, just in case the groups are needed to secure their political careers. 
+
+Victims of violence 
+
+“The surge in subnational violence is deeply concerning and has had a devastating impact on the lives of communities already suffering huge economic deprivation due to flooding in areas like Jonglei,” said the Head of UNMISS, David Shearer. 
+
+Militia groups routinely mount illegal roadblocks to extort from motorists, and at times kill them. They also ambush villages, leading to relations. 
+
+The UNMISS report mentioned that many of the victims of violence were killed or injured during a wave of attacks by armed community-based militias across Jonglei and the Greater Pibor Administrative Area, as well as in Warrap and Lakes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Late last year, UNMISS said it deployed peacekeepers to the affected areas so they were in place ahead of the dry season when conflict traditionally erupts due to tensions between communities over scarce resources. 
+
+The peacekeeping mission currently has numerous temporary bases in particular conflict hotspots and is conducting regular patrols to help deter further attacks. 
+
+Peace talks 
+
+“We are also working closely with political and traditional leaders at the national and local level to promote reconciliation and facilitate peace talks as well as negotiating the release of abducted women and children,” said David Shearer. 
+
+“A peacebuilding trust fund is also being used to improve basic services to reduce the risk of fighting flaring up over access to resources.” 
+
+Last year, UNMISS's Human Rights Division report said between January and March 2020, over 270 incidents were documented, involving over 1,700 civilians. 
+
+The UN said during that time, over 650 civilians were killed, and over 450 were injured, and about 590 were abducted and 65 were subjected to sexual violence in different parts of the country. 
+
+Among the three main categories of alleged perpetrators involved in conflict-related violence, community-based militias remained the primary actors, according to UNMISS. South Sudan unity government says it will use the recent International Monetary Fund $174.2million grant to support its budget, pay arrears and strengthen measures of addressing the ailing economy. This comes a day after two Kenyan drivers were killed in an ambush along Juba-Nimule highway. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
