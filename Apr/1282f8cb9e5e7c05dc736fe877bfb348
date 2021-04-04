@@ -1,0 +1,77 @@
+Kisoi appealed to all teams to work on logistics which include preparing the players cards to enable them take part in the league without difficulties when action resumes. The Kenya Basketball Federation has warned players participating in any competition not sanctioned by the national body will be barred from taking part in KBF leagues. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At the same time, KBF secretary general Ambrose Kisoi has asked league teams to take advantage of the national suspension of sports activities because of Covid-19 to clear their outstanding league fees and prepare the players cards. 
+
+He said clubs that do not meet this requirements will be expelled from the league. 
+
+“We suspended the league last week in line with the government directive that all sports activities be put on hold and want all our league teams, including some that had not taken their slots in the competition to put their house in order,” said Kisoi. 
+
+Kisoi appealed to all teams to work on logistics which include preparing the players cards to enable them take part in the league without difficulties when action resumes. 
+
+“We want to take full control of basketball activities in the country after we realised some individuals and teams were taking advantage of our hands-off system of administration by organising parallel leagues and tournaments which time and again conflicted with our fixtures,” said Kisoi. 
+
+The KBF secretary said arrangements were being made to give Kenya Morans players Covid-19 vaccination ahead of the AfroBasket finals that will be staged in Kigali, Rwanda in August. 
+
+He said that the foreign-based players, a majority who will be available in May when the national team is expected to resume training, will be vaccinated upon arrival from their bases. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
