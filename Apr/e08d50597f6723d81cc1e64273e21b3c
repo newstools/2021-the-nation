@@ -1,0 +1,73 @@
+Kandie, the world record holder over the distance, set a new course record of 59:33 to beat compatriot Geoffrey Kamworor in an exciting battleKandie ran a tactical race sticking with the pack of five athletes before increasing his pace after crossing the 18km markKamworor, who was taking part in his first international race since he recovered from a motorbike accident in Eldoret last year, settled second in 59:37 Kibiwott Kandie is the 2021 Istanbul Half Marathon champion.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kandie, the world record holder over the distance, set a new course record of 59:35 to beat compatriot Geoffrey Kamworor in an exciting battle.  
+
+Kandie ran a tactical race sticking with the pack of five athletes before increasing his pace after crossing the 18km mark.  
+
+Kamworor followed with Ethiopia’s Walelegn Amdework in tow but they couldn’t match the world half marathon record holder who managed to win the race with ease. 
+
+Kamworor, who was taking part in his first international race since he recovered from a motorbike accident in Eldoret last year, settled second in 59:38.  
+
+Roncer Kipkorir was third in 59:46 while Ethiopia's Amdework came fourth in 59:48. Leonard Barsoton clocked 59:59 to enter into the top five.   Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
