@@ -1,0 +1,243 @@
+Benjamin Mendy opened the scoring for Manchester CityGabriel Jesus is the first City player to score on their birthday since Nolito in 2016.It was Jesus's fifth goal against Leicester London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester City moved closer to the Premier League title as the runaway leaders won 2-0 at Leicester, while lowly West Bromwich Albion handed Thomas Tuchel the first defeat of his Chelsea reign with a stunning 5-2 victory on Saturday. 
+
+Pep Guardiola's side are 17 points clear of second placed Manchester United after a remarkable 15th successive away win in all competitions. 
+
+United can close the gap with a win against Brighton on Sunday, but it is only a matter of time before City celebrate their third title in four seasons. 
+
+Goals from Benjamin Mendy and Gabriel Jesus killed off third placed Leicester in the second half at the King Power Stadium. 
+
+City, chasing an unprecedented quadruple, will go into their Champions League quarter-final first leg against Borussia Dortmund on Tuesday in confident mood after avenging the 5-2 thrashing they suffered against Leicester in September. 
+
+Sergio Aguero made just his sixth start of an injury-ravaged season just days after City announced their record goalscorer will leave at the end of the season. 
+
+Aguero was largely anonymous, as he often has been this term, but City controlled possession and their dominance was rewarded in the 58th minute. 
+
+Mendy cleverly eluded Marc Albrighton in the Leicester penalty area before curling a fine finish into the far corner with his weaker right foot. 
+
+The French left-back's second goal of the season was followed by Jesus's fifth in his last seven games in the 74th minute. 
+
+Kevin De Bruyne's pass opened up the Leicester defence and Raheem Sterling poked the ball towards Jesus, who stretched to tap into the net as he marked his 24th birthday in style. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+At Stamford Bridge, Chelsea boss Tuchel saw his 14-game unbeaten run since replacing the sacked Frank Lampard come to juddering halt. 
+
+Christian Pulisic gave Chelsea the lead in the first half, but Blues defender Thiago Silva was sent off two minutes later for a second booking. 
+
+Second bottom West Brom made the most of that gift in first half stoppage-time as Matheus Pereira struck twice in quick succession. 
+
+They were the first home league goals conceded by Chelsea since Tuchel arrived in January, also ending a run of seven successive clean-sheets in all competitions. 
+
+Shell-shocked Chelsea capitulated in the second half as Mbaye Diagne got Albion's third before Callum Robinson made it four. 
+
+Mason Mount's reply was no consolation for Chelsea, who conceded five at home in the league for the first time since 2011 when Robinson grabbed his second in the final moments. 
+
+Chelsea remain in fourth place after their first home league defeat against West Brom since 1978. 
+
+But West Ham and Tottenham would both go above them if they win their games in hand. 
+
+It was the worst possible preparation for Chelsea's Champions League quarter-final first leg against Porto on Wednesday. 
+
+Tuchel called for calm, insisting he would not read the riot act to his players and taking his share of the blame. 
+
+"We cannot lose our heads now and take away the trust we have in these players," Tuchel said. 
+
+"It was the moment after the game to be honest, be calm and to tell everybody to breathe. This is my responsibility. I trusted this line-up." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the day's final match, Liverpool can take advantage of Chelsea's stumble when they travel to Arsenal. 
+
+Jurgen Klopp's side would move within two points of Chelsea if they secure a second successive league victory for the first time since January. 
+
+Leeds pushed bottom-of-the-table Sheffield United closer to relegation with a 2-1 win against their Yorkshire rivals at Elland Road. 
+
+Jack Harrison put Leeds ahead with a 12th minute tap-in from Raphinha's cross. 
+
+The Blades equalised in first half stoppage-time, with Ben Osborn nudging Oli McBurnie's deflected shot over the line despite Luke Ayling's attempt to block. 
+
+In the 49th minute, Blades defender Phil Jagielka turned Harrison's cross into his own net, leaving the visitors 14 points from safety with only eight games left. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
