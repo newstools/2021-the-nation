@@ -1,0 +1,224 @@
+Casualties are often difficult to establish from Al-Shabaab attacks in remote areas, especially when the military is targeted. At least six people were killed and four wounded in a suicide bombing in the Somali capital of Mogadishu on Saturday evening. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ismael Mukhtar Omar, spokesman in the Ministry of Information, said three women and a child were among those killed when a suicide bomber blew up himself at a restaurant in the vicinity of Shangani of Mogadishu. 
+
+"Six people, among them three women and a child, were killed and four others injured this evening when a suicide bomber blew himself up at a tea shop in Shangani neighborhood," Omar told Xinhua over phone. 
+
+He said the motive of the suicide bomber had not been established but sources said he could have targeted a police station or a government ministry, which are located near the scene. 
+
+The latest attack came hours after the Somali National Army (SNA) said its forces killed more than 85 Al-Shabaab fighters and arrested 15 others in early Saturday's terrorist attacks on two SNA bases in the Lower Shabelle region. 
+
+Military base attacks 
+
+Al-Shabaab Islamist fighters attacked two key military bases in Somalia Saturday, detonating car bombs at both locations before engaging in an intense gun battle, an army official and witnesses said. 
+
+The attacks happened in the southern region of Lower Shabelle on bases in the towns of Awdheegle and Bariire -- some 30 kilometres (17 miles) apart. Both are forward operating bases in the fight against the Islamist group. 
+
+"The assailants tried to attack but thanks to our brave soldiers who knew about the tricks of the assailants, the militants were defeated and their wounded and dead bodies are strewn around, we will provide you the details later," army chief General Odowa Yusuf Rage told reporters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The forces are still pursuing the rest of the attackers and the Somali army is in control of the both contested locations." 
+
+Witnesses in Awdheegle -- home to the larger of the two bases -- said Somali troops had repelled the militants after around an hour of heavy fighting. 
+
+"Shabaab gunmen used a vehicle loaded with explosives to launch the attack, but they failed to enter the camp after nearly an hour of exchanging machine gun fire with the Somali troops," town resident Mohamed Ali said by phone. 
+
+"I saw several dead bodies of the Shabaab gunmen near the camp where the fighting occurred, the Somali soldiers paraded these bodies after the fighting." 
+
+Another suicide bombing 
+
+In Bariire, a car bomb was also detonated before heavily armed gunmen stormed the base. 
+
+"We heard a heavy explosion caused by a suicide bomber ramming a car at the entrance to the base and a heavy exchange of gunfire followed," said resident Abdirahim Malin. 
+
+"A few minutes later the militant fighters managed to enter the camp and torched some military supplies belonging to the Somali army." 
+
+Al-Shabaab, which has been waging a long insurgency to unseat the internationally backed government in Mogadishu, claimed responsibility for the attack in a statement on a pro-Shabaab website. 
+
+The group claimed it had killed dozens and captured military vehicles and supplies. 
+
+Casualties are often difficult to establish from Al-Shabaab attacks in remote areas, especially when the military is targeted. 
+
+Al-Shabaab were driven out of Mogadishu in 2011, but still control swathes of territory from where they plan and launch frequent, deadly strikes against government and civilian targets. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} What started out as a small outfit has grown to become al-Shabaab’s specialised fighting force responsible for carrying out commando-style attacks. Federal aviation agency cites area from Mombasa and North Coast to Somalia Deputy secretary-general says time has run out for those against Jubilee Party's ideals. The arrival, clearance and administration of the vaccine was shrouded in controversy.
