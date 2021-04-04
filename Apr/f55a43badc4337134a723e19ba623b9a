@@ -1,0 +1,425 @@
+The President has come of age, a completely different person from when President Daniel Moi first introduced him to the political stage. Some have used President Uhuru Kenyatta’s recent moves on ODM leader Raila Odinga to illustrate how he has largely remained in control of Kenya’s political chessboard at a time he should have been a lame duck at the tail end of his second term. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vanquishing the opposition through “soft power”, largely the handshake with Mr Odinga in March 2018, months after the 2017 elections, Mr Kenyatta today has almost all those who opposed him in the last polls on his side. At the same time, he has played hardball against some former allies, foremost among them Deputy President William Ruto, while also still not completely kicking them out of the Jubilee house. 
+
+But holding together this “team of rivals” can be compared to juggling several balls in the air in a manner he manages their interests and egos. 
+
+When he hosts Mr Odinga, he calls him his handshake brother. In the occasions he includes members of One Kenya Alliance comprising Wiper leader Kalonzo Musyoka, ANC boss Musalia Mudavadi, Kanu chairman Gideon Moi and Ford Kenya party leader Moses Wetang’ula in the mix, he says it is a meeting of party leaders supporting the Building Bridges Initiative (BBI) that proposes to change the constitution. 
+
+The meetings, that also include Kitui governor Charity Ngilu, are meant to make all the leaders feel equally important. The same strategy is applied when meeting regional leaders like Mombasa governor Hassan Joho, his Kilifi counterpart Amason Kingi and Governor Mvurya of Kwale. 
+
+Mr Odinga, however, does not enjoy being paraded alongside the One Kenya Alliance, a team he believes are his political juniors. 
+
+And when Mr Musyoka sulks about the inclusion of Mrs Ngilu in the meetings arguing he was the sole Ukambani kingpin and there is no need of inviting her, Mr Kenyatta calms him down by invoking the gender card. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The boss once told the Wiper leader that he didn’t not want to appear as not catering for interests of women, thus the presence of Ngilu,” a vocal member of the president’s men said. 
+
+
+
+
+
+
+President Uhuru Kenyatta and ODM leader Raila Odinga are taken on a tour by NMS Director of Transport and Public Works, Michael Ochieng, during a tour of the Green Park Bus Terminus in Nairobi on April 1, 2021. 
+Photo credit: PSCU
+
+ 
+
+Meetings with governors 
+
+In a show of masterful chess-like tactics and knowing that Mr Odinga has enjoyed unparalleled support in the region for years, Mr Kenyatta has also, at the same time, been meeting governors from Coast assuring them a place at the high table should they agree to play ball. 
+
+This, those privy to the strategy say, is to checkmate Mr Odinga in the event the political marriage comes to an abrupt end. Yet there is also the risk of this backfiring on him given Mr Odinga is a colossus. 
+
+Some observers compare Mr Kenyatta to a polygamous man who has to find a way of balancing interests of his wives without causing a pandemonium. 
+
+Raised eyebrows has become a permanent reaction in how the President relates with his political partners. On the day he met Governors Joho and Kingi, Mr Odinga’s men were not happy with some of them publicly venting their frustrations. It is no different when he engages One Kenya team and leave the rest out. 
+
+President’s intentions 
+
+But what does Mr Kenyatta want to do with the immense powers he’s consolidating? 
+
+In an interview with this writer in 2018, Jubilee vice-chairman David Murathe equated Mr Kenyatta to his Russia’s counterpart Vladimir Putin, a man who has consolidated power over the years with the State conforming to his wishes. 
+
+After exhausting his term in office, Mr Putin served as prime minister before making a comeback as President. It is an idea Mr Kenyatta has repeatedly dismissed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One Kenya Alliance is today fighting Mr Odinga but waiting in the wings for Mr Kenyatta’s endorsement. The President has made himself the common denominator in the equation since even the ODM side is clamouring to have him say ‘Raila Tosha’. 
+
+Mr Odinga’s elder brother Oburu Oginga is on the record saying that with the backing of the government machinery, they are assured of victory in the elections next year. 
+
+"Why haven't we gone to the State House despite winning in the past elections, it is because there was something we were missing. The system. System is very important and now with Uhuru Kenyatta who is holding the system our path is clear," he said. 
+
+In the end, Mr Kenyatta has managed to delay lame duck syndrome. He is so powerful a figure on the political stage that all key players still make reference to him with not a single individual coming up to say he wants to inherit his central bastion. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uhuru and Raila’s press conference at State House
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Politicians’ psychology 
+
+At a time high-ranking figures in Mr Odinga’s corner were beginning to doubt whether an endorsement for their man would come through, Mr Kenyatta at the burial of Mr Mudavadi’s mum Hannah Atsianzale said that it was perhaps the turn of other tribes to lead. He ended up exciting ODM constituency and buying him more time of support. 
+
+The President appears to understand the psychology of the politicians he is dealing with. He has, for instance, made supporters of Mr Odinga feel they are in government yet their leader really depends on Mr Kenyatta’s goodwill. 
+
+While this can be said about almost every politician, the love for optics has also ensured that they (One Kenya Alliance and the former prime minister) respond to any invite the President makes. They like it when their photos with the Head of State are released to the public. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+When his allies were beginning to grow impatient, wondering why they were not getting tangible benefits in return for their political support, Mr Kenyatta ensured he handed them some fringe appointments in government naming their allies to principal secretary Jobs as well as Chief Administrative Secretaries slots. 
+
+For three years now, ODM supporters have mocked those of the Deputy President William Ruto that ‘Jubilee stole their victory in 2017 but they retaliated by stealing their President’. 
+
+While some argue that the political divorce with his deputy, a man with whom they have campaigned in the past three presidential polls 2002, 2013 and 2017 on the same side is a foregone conclusion, some of Mr Kenyatta’s strategists say it is too early to say that. 
+
+Deliberately, he is not slamming the door on the DP just in case the experiment with Mr Odinga and One Kenya Alliance fails to take off. 
+
+Matured 
+
+The President has come of age, a completely different person from when President Daniel Moi first introduced him to the political stage more than 20 years ago when he could hardly address a crowd of 10 people. Mr Moi appointed him chairman of the Kenya Tourism Board in 1999 before he became an MP. 
+
+His political profile meteorically rose in last quarter of 2001, when he was nominated by Moi to Parliament. He was then named minister for local government. The following year, he was elected one of four vice-chairs of Kanu and subsequently made party’s presidential candidate in an election that was won by Mr Mwai Kibaki. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Yet interestingly, he finds himself in the same spot Mr Moi was in 2002 when everyone around him expected to be named Kanu flagbearer. 
+
+“President Kenyatta is in the same situation Moi was in ahead of the December elections of 2002. Each of them wants to be named the prince. For Kenyatta, much as this has earned him the space to rule in peace, it is high risk-high yielding game. He cannot afford to play both Raila and Ruto, if he loses the two blocs, Rift Valley and Nyanza, his legacy will be put to question,” Mr Murithi Mutiga, Horn of Africa Project director at the International Crisis Groups says 
+
+He adds Mr Kenyatta will only escape the succession if Mr Odinga decides to bow out of the race. 
+
+Around him are key pillars he unleashes strategically to send out messages he would rather not do himself. 
+
+
+
+
+
+
+Politicians Kalonzo Musyoka and Raila Odinga are pictured with President Uhuru Kenyatta and Deputy President William Ruto after promising to work together during 16th Annual National Prayer Breakfast at Safari Park hotel in Nairobi on May 31, 2018.
+Photo credit: File | Nation Media Group
+
+ 
+
+Good student 
+
+Last week, Mr Murathe repeated that they will be supporting Mr Odinga for President after days of hard-hitting statements from the Orange side. 
+
+“Our man for the presidency remains Raila, nothing has changed about that.” 
+
+His remarks, some analysts say, should be looked at in terms of assuaging the Orange base and keeping it inside the handshake. Mr Murathe, however, explains that his are genuine views. 
+
+He has also used the powerful state machinery to buttress his wit and unlike his predecessor Mwai Kibaki. One can say with certainty that Mr Kenyatta is keen to fashion his own succession. He is determined to. 
+
+“My intention is to hand over power to those who will not exploit the people or steal from them. I want someone who will unite the country into prosperity,” Mr Kenyatta said in February. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+His critics, however, say he has employed carrot and stick strategy to force submission. Tangatanga group of MPs that support DP Ruto for instance accuses him of unleashing agencies like the Ethics and Anti-Corruption Commission and the Directorate of Criminal Investigations on those with divergent political views and charging them for trumped up cases. 
+
+In the end, the fourth president of the republic appears to be a good student of the Chinese military general Sun Tzu, who in the Art of War, advocates for subduing the enemy without fighting. Whether he succeeds or not, time has the answer. 
+
+jwanga@ke.nationmedia.com Deputy secretary-general says time has run out for those against Jubilee Party's ideals. BBI principals move to rein in hardliners, get 'reggae' back on course. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. Court says concept of succession is about generational transfer of wealth from parents to their children.
