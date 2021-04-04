@@ -1,0 +1,238 @@
+Taita Taveta county government has put plans to help locals harness the potential of its waters by investing into the fishing sector. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last month, the Coast fishing sector got a major boost after the six  counties of Mombasa, Kilifi,  Kwale,  Lamu, Taita Taveta and Tana River received Sh3.2 billion from the European Union (EU), for development projects in the sector. 
+
+Taita Taveta's county department of Agriculture and Livestock has already pitched a proposal on aquaculture development to benefit from the funds. 
+
+The proposal involves improving fishing at Lake Jipe and Lake Chala in Taveta sub county and revival of 330 inactive fish ponds across the county.  
+
+The county has not yet fully exploited the resources found in its waters despite hosting the two lakes. The lakes are shared by Kenya and Tanzania, making it difficult to do meaningful conservation projects due to different strategies held by the two countries.  
+
+In a recent survey conducted by Taita Taveta county government in partnership with the Kenya Marine and Fisheries Research Institute (Kemfri), fish population in Lake Jipe have dwindled due to inappropriate farming practices by both downstream and upstream areas of its basin. 
+
+County executive for Agriculture Davis Mwangoma said the national government, through the Ministry of Agriculture and Taita Taveta county government are in dialogue with Tanzania to increase the fish population in the lake. 
+
+He said they are proposing to restock the lake for the county to benefit from Blue Economy. 
+
+The survey also showed that Lake Chala has the potential of harvesting over 600 tonnes of fish annually. The county government is currently conducting a second survey on the two lakes to get more comprehensive results. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Lake Jipe has been seeing a decline in fish stocks and that is why we are planning for the talks with the neighbouring country to see how we can increase the population and save the situation," he said. 
+
+He said the county department of Fisheries is working with Beach Management Committees for proper management of boat landing sites and fish sorting areas. 
+
+"We are also planning to open fish market points across the county. This will deal with the challenge of infiltration of fish from outside the region and also provide a ready market for our traders," he said. 
+
+The county government is also planning to supply each of the fish ponds with 1,000 fingerlings to revamp the farming. A total of 650 fishponds are targeted in the proposal. 
+
+"Apart from providing the fingerlings we will work with farmers to provide water, pond liners and other materials to revive the ponds," he said. 
+
+
+
+
+
+
+
+
+
+
+
+A fisherman shows his catch at Lake Jipe in Taveta, Taita Taveta county. The fish population in the lake has dwindled.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+Mr Mwangoma revealed that the county will work with Technical Vocational Training Centres (TVETs) in the region to introduce aquaculture courses to benefit residents who want to venture into the sector. 
+
+Jumuiya ya Kaunti za Pwani (JKP) had identified the Indian ocean and blue economy as one of their value chains to prioritise in their individual development plans. 
+
+Addressing Taita Taveta county assembly during his state of the county address in February, Governor Granton Samboja said his government is deliberating how best to tap into the Blue Economy.  
+
+Governor Samboja, who is also the chairperson of JKP said his county has put plans to tap into the Blue Economy by investing in fish farming. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We don't want to be left out as other regions are moving forward. My government is seeking to tap into the sector because research has proved that if harnessed well we will benefit from it," he said.  With movement restrictions in Nairobi, Kajiado, Machakos, Kiambu and Nakuru counties, hotels have registered dismissal bookings over the Easter weekend. The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
