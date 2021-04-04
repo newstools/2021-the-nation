@@ -1,0 +1,277 @@
+ODM leader Raila Odinga yesterday beat a hasty retreat, disowning the application to become the party’s presidential torchbearer in the elections next year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+His spokesman Denis Onyango told the Saturday Nation that the information about his boss applying for the slot was the work of “overzealous staff” in the party. 
+
+“He insists on not stating his position until after BBI agenda is finished. Some people in the party think time is running out and may have been behind the name coming up as one of the applicants,” Mr Onyango said. 
+
+He accuses the party secretariat through the secretary-general Edwin Sifuna and the head of the National Elections Board (NEB) Catherine Mumma of being in a hurry to settle on a presidential candidate. 
+
+“PM (former Prime Minister) told Sifuna and Mumma to put out a straight statement that what they put out was erroneous. That they have since established that Raila did not apply and leave it there. He and Mumma thought otherwise. They are in a hurry to get a candidate. They think time is running out. Raila thinks otherwise,” Mr Odinga’s aide said. 
+
+Read: Raila, Joho and Oparanya to fight for ODM presidential ticket 
+
+Yesterday, Mr Sifuna said the initial announcement on Mr Odinga’s candidacy was an April 1 Fool’s Day prank made on a light note. But sources within the party intimated that it took President Uhuru Kenyatta’s intervention to have the ODM leader change his mind – at least for the time being. 
+
+The latest position is contrary to multiple interviews conducted by the Saturday Nation on March 31, the final day for the applications set by the NEB. Party insiders confirmed on March 31 that indeed Mr Odinga had applied for the ticket but the official statement would only be issued the following day to avoid locking out other aspirants who had until midnight March 31 to apply. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Three applications 
+
+That was the day Mr Odinga chaired the party’s National Management Committee (NMC) at his Karen home where, among other issues discussed, was his 2022 plan. 
+
+On April 1, Ms Mumma in a statement confirmed that Mr Odinga, Mr Joho and Mr Oparanya had indeed submitted their applications in the prescribed manner by the Wednesday deadline. 
+
+“The NEB shall scrutinise the three applications, vet the candidates as required by the ODM elections and nomination rules and subsequent thereto announce the next processes and time table in accordance with the ODM constitution,” Ms Mumma said. 
+
+Ms Mumma, whose docket is concerned with conducting nominations for the party held her ground, insisting she received the three names from the party’s secretariat. 
+
+“Apparently this is serious. Note that my statement was based on information provided from the SG Sifuna on the number of applications received by the secretariat. Please follow up with him on his statement,” Ms Mumma said, adding that she was not aware of Mr Sifuna’s communication yesterday. 
+
+“To tell you the truth I don’t know about Sifuna’s statement. NEB does not receive the names of the applicants. NEB is given the names by the secretariat and that’s what happened and so my release was based on what the secretariat gave us.” 
+
+Another official, who sought anonymity for he is not authorised to issue official statements on behalf of the party, said the night meeting between President Kenyatta and Mr Odinga at his Karen home may have contributed to the ODM party’s withdrawal of Ms Mumma’s statement. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When the news that Mr Odinga had submitted his application broke, it was a long-awaited confirmation that he had finally made up his mind to run, exciting his political base and attracting condemnation in equal measure. His former colleagues in the defunct National Super Alliance such as ANC leader Musalia Mudavadi, who says it is Mr Odinga’s turn to support him for the presidency, accused him of betrayal. 
+
+What initially informed the application, we gathered, was the feeling that the BBI ship was fast running aground and there was an urgent need for the Orange party to put its house in order ahead of the polls. But with the BBI back on track after Mr Kenyatta reached out to Mr Odinga, he has decided to shelve his presidential ambition until after the referendum. 
+
+Crafting an alliance 
+
+While Mr Kenyatta’s main concern (he reiterated in the Wednesday night meeting at Mr Odinga’s Karen home) is that by his ‘handshake brother’ declaring his intention to run derails the BBI journey since it reinforces the thinking that it could be meant to aid Mr Odinga to succeed him, hence attracting opposition in some quarters, the Orange party has grown restive and suspicious of what the head of state is up to. 
+
+In the meeting, the President reportedly told key Odinga allies like the Senate Minority Leader James Orengo and the Minority Whip in the National Assembly Junet Mohamed to utilise “internal channels” to raise any issues they have instead of going public – and support the BBI drive. 
+
+The two politicians had accused Interior PS Karanja Kibicho of hijacking the BBI process. They also accused key bureaucrats in government of planning Mr Kenyatta’s succession to the disadvantage of their party leader. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The separate meetings Mr Kenyatta has had with a number of regional leaders such as Coast governors Salim Mvurya (Kwale), Hassan Joho (Mombasa), Amason Kingi (Kilifi), the latter being longtime allies of Mr Odinga, have made matters worse as he is suspected to be crafting an alliance behind Mr Odinga’s back. 
+
+The development leaves deputy party leaders Wycliffe Oparanya and Mr Joho as the only contenders for the seat in what may see Mr Odinga retire from elective politics having made four unsuccessful stabs at the coveted seat of power. 
+
+Yesterday, the duo said that the plans to fly the ODM flag remain on course. 
+
+“Whether competing against Raila for the party ticket or not, I am on firmly on the race,”Mr Oparanya said. “The truth is Raila never applied. I spoke to him. In fact, he is happy to see the younger party adherents go for this.” 
+
+Mr Joho on his part said on the question of presidential nomination, they will only go by what the National Elections Board says. 
+
+jwanga@ke.nationmedia.com; jjochieng@ke.nationmedia.com The trio have submitted their applications to the National Elections Board. ODM leader wishes to take a fifth stab at the presidency. It is not clear whether two opponents will step aside to give him a free pass or take him on in the primaries. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
