@@ -1,0 +1,235 @@
+Major towns and cities were virtually empty yesterday as people continued to observe public health guidelines against Covid-19. Many small businesses and hotels, which traditionally take advantage of the Easter season to make quick cash, recorded minimal business, highlighting in painful detail the effects of restrictions on Kenya’s nascent economy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Nairobi’s Uhuru Park, which is a popular spot for family fun, we found a few families enjoying boat rides, horse rides and the carousel. So bad was business that John Wambui, whose horse carries children around the park, rode home dejected, for lack of customers. He told the Sunday Nation that he had never seen an Easter like this. 
+
+A lone family rode a boat sat in the man-made lake while other vessels were moored. None had been booked for the day. 
+
+The same scenario was witnessed across the country, with many towns sleepy on the seconday day of the Easter weekend. In the coast, hotels suffered low bookings as the five counties categorised as red zones are a key source of tourists to the region. 
+
+
+
+
+
+
+John Wambui, a horse owner, leaves Uhuru Park in Nairobi on April 3, 2021 for lack of customers.
+Photo credit: Jeff Angote | Nation Media Group
+
+ 
+
+Hotel owners and tourism stakeholders in Lamu reported a 90 per cent decline in bookings. This, they said, had led to layoffs. At the Majlis Hotel in Lamu, the management had to cut down 35 per cent of staff. Yesterday, the 40-room hotel had only one booking. During previous Easter holidays, the hotel would record up to 36 guests. 
+
+Nine guests 
+
+At Peponi Hotel, the owner, Carol Korschen, said they were closing down. Peponi has 28 rooms and 125 staff. This Easter weekend they had only nine guests. 
+
+“I am closing down the hotel by April 6 to allow all the employees to go and rest at home with their families,” said Ms Korschen. 
+
+The grim situation was similar at Lamu House and Sunsail hotels, where the restaurant section remained empty. 
+
+Lamu Tourism Caucus chairman Abdallah Fadhil blamed the bad business on movement restrictions in Nairobi, Machakos, Nakuru, Kiambu and Kajiado, which he said “are our key sources of both domestic and international tourists”. Lamu County Executive for Tourism, Trade, Enterprise Development and Industrialisation, Mr Josephat Musembi, said a stakeholders meeting will be held this week to come up with ways of reviving tourism. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Kilifi, Kenya Association of Hotel Keepers and Caterers North Coast Regional chairperson Maureen Awuor said the industry was picking up well until it was disrupted by the third wave of Covid-19. 
+
+“Over 90 per cent of the bookings have so far been cancelled,” she lamented. 
+
+Also cancelled was the Malindi Multicultural Festival, an annual event celebrated during the Easter season at the Bunthwani Beachfront to promote tourism and African cultural heritage. Its climax is marked by a traditional beauty pageant among the Mijikenda known as “Princess Hando”, where the fairest of them all is crowned as the ambassador of the Mijikenda culture. 
+
+Coronavirus infections 
+
+Many hotels in Malindi and Watamu were closed and forced to lay off staff. Mr Alexandros Zissimatos, the General Manager of Diamond Plan Group of Hotels, said they were fully booked for the Easter holiday before the government issued the new Covid-19 restrictions. 
+
+“The bed occupancy currently stands at 20 per cent, down from 100 per cent after clients cancelled,” he said. 
+
+In February Skyward Express Airline introduced a daily flight from Wilson Airport in Nairobi to Malindi and onwards to Lamu, thereby becoming the fifth airline to operate at Malindi International Airport after Jambojet, Fly540, Safarilink and EastAfrican Safari Air.  However, tourists are unable to travel from Nairobi to Malindi, Lamu and Mombasa after President Uhuru Kenyatta last month banned movement in five key counties in a fresh bid to curb a spike in coronavirus infections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Nairobi and its environs, police continued to crackdown on lockdown and curfew breakers. Scores were reported arrested in Murang’a County for flouting the rules, while in Athi River a multiagency team impounded at least 20 passenger service vehicles and arrested a handful of passengers for not wearing masks and not social-distancing. 
+
+Fourteen-seater matatus and mini-buses heading for Machakos and Kitengela in Kajiado County were the most affected. 
+
+Additional reporting by Stanley Ngotho and Jeff Angote For years, hundreds of Nairobi residents have been flooding the Coast region, Kenya's tourism hub, during the Easter holidays. Most hotels had full Easter bookings and had already purchased food items. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
