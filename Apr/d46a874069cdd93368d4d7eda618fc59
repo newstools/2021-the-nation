@@ -1,0 +1,231 @@
+Plumbers are needed by everyone. It’s a vital service, because all homes and buildings will encounter plumbing issues. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+What needs to be done is usually straightforward, but it’s also messy and awkward – and so not many folks aspire to be plumbers. 
+
+Those who do take it up as an occupation seem to despise their own work – and it shows. Very few of us would be able to point to a friendly, attentive, competent plumber. The average customer’s experience is one of no-shows, botched jobs and inflated bills. It’s taken my household a while to settle on a decent one. 
+
+Management crusader Tom Peters asks in his new book, Excellence Now: Extreme Humanism: why should this be so? What if we had plumbers who were rather different? Picture the following, if you will. 
+
+A plumber who knows the work very well, and can diagnose accurately the first time what needs to be done. A plumber who is always on time, as promised. One who is neatly dressed, and shows up in a clean and roadworthy vehicle. 
+
+One who, after fixing the problem, takes the time to explain what had gone wrong. One who cleans up properly after the job and leaves you with no additional work. One who provides a fair and accurate bill. 
+
+Could we take it even further to imagine this: a plumber who rings you after 24 hours to check if all is well and there were no further issues? 
+
+I’ll give you some time to stop laughing hysterically. 
+
+Imaginary plumber 
+
+That experience is so far removed from the one most people have that it is hard to even visualise. And yet. Ask yourself: why shouldn’t it happen? What might be the result if it did? 
+
+Would you not be so enthralled by this imaginary plumber that you would become a lifelong customer? Would you not recommend this plumber to all your friends? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Would this plumber not become very successful – successful enough, in fact, to hire other plumbers and elevate above the messy work? Successful enough to invest in new ways of doing the old work? 
+
+Tom’s point is to stop us thinking in terms of commodities. We all fall into this trap; we think that because things have always been done a certain way, that is the only way they can be done. We look at the norm, the average, and we embrace it and become it. Bang average. Mediocre, just one of the under-performing crowd of tired contenders. 
+
+Tom’s book continues his lifelong mission to make us “de-commodify” our heads because that’s where this attitude begins, in the head. We accept limitations and constraints and boundaries as though they are solid lines that cannot be crossed, when actually they exist only in our minds. 
+
+Our guiding mantra should actually be: there are no commodities, only opportunities to add distinction. Or, in Tom’s language, EDWPF - Extreme Distinction Worth Paying For. Taxi services, payments, retail – these were all dull, pricey, bad experiences, done the same way by all players. Until new players who rejected commodity thinking revolutionised those industries. 
+
+Let me throw down two challenges today. First, to those who lead businesses and organisations. What commodity thinking are you stuck in? What experiences are you giving your customers that you have never questioned, just because that’s what the industry has always done, and it's exactly what your competitors do? Please bang your heads together and break out of this malaise. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Next, to all of us. Why do we accept mediocrity and standardisation and meh-ness in our own work? Why can’t we aim to be the plumber who’s different? 
+
+Bigger deals 
+
+What stops us adding little touches of excellence to our daily work – no matter how dull and drab it might initially seem? What stops us saying, “I will be the best this occupation has ever seen. I will be different, be fresh, be interesting. I will refuse to do it the same old mediocre way that everyone else does.” 
+
+In my book The Bigger Deal, I gave examples of porters, sweepers, clerks and hawkers who had risen above mediocrity by refusing to engage in commodity thinking. These folks added smiles and positivity and small gestures and kindnesses to their daily work. 
+
+Their lives became bigger deals through their effects on those they interacted with. I quoted the famous football manager, Bill Shankly. The most important thing he ever said was not about soccer at all, it was about work: “If I was a road-sweeper, my street would be the cleanest in the borough.” 
+
+Use that attitude whatever you do, and what you do will rise, and so will you. To be better than average, you have to escape from the average. 
+
+www.sunwords.com Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
