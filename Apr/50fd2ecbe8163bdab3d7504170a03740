@@ -1,0 +1,243 @@
+Against the backdrop of the fading sun, on a dusty road, there emerges the silhouette of two people walking towards the western horizon. They seem to be a couple talking to each other. Or are they quarrelling? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There is an urgency in their movement. They are running away from the epicentre of the events of the weekend. On this Sunday evening, they are fleeing from the dream of their life. On that dirty road, they ruminate over the recent events. They assess their decision of running away. Maybe it was not a mutual decision. 
+
+They had invested three years in following a man who, they thought, was the Messiah — the one to set Israel free from the oppression of the Romans. He was to re-establish the kingdom of David. He started off well enough: he worked miracles. His words were wise. He had a large following. And yet he was killed on the Friday evening. After all, he could not save himself. 
+
+What’s more? On this Sunday morning, after the gruelling wait of the special Sabbath, the women report that the tomb is empty. 
+
+The possible fake news forwarded by the women has been verified to be true by the men. The tomb indeed has no body. But he, their hero, is not in sight. 
+
+Is this a plot? Has his body been robbed? Is this a conspiracy? Running away is their coping strategy. 
+
+Two disciples 
+
+The tale of the two disciples on that arid pathway is our story today. It is lockdown again. Covid-19 seems relentless. The third wave in Kenya, they say. 
+
+How many more waves can we expect? Is there an end to all this? Did the government decide right? Questions are galore. Our hope seems faint. And the end to our troubles is not yet in sight. 
+
+Even as our economy was regaining momentum and our educational institutions getting back to a rhythm, as tourism was picking up, and with the vaccines being rolled out, it seemed we were getting back to life as usual. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But it is lockdown again. At least in four “hotspot” counties. 
+
+When we had the first lockdown around Easter last year, Covid-19 seemed far away. 
+
+We only heard the daily announcements from Health Cabinet Secretary Mutahi Kagwe. 
+
+The cases being reported were some other people out there. And we asked, is it real? Is it a conspiracy? 
+
+Now coronavirus is near us. I know someone who knows a person who has succumbed to the disease. You know someone who has recovered from the illness. Or at least, they had the symptoms and treated themselves. 
+
+Maybe it was I who was infected, or perhaps it were you. We are all part of this story. Where can we run to? How can we cope? 
+
+Getting back to the story of the two disciples of Jesus running away from Jerusalem to their village called Emmaus, their hopelessness was not the end. 
+
+Jesus himself joins them. He invites them to reframe their story of despair into an experience of hope. Sickness or death is part of the human condition. 
+
+Back to Jerusalem 
+
+We have to live with it. He assures them that he is alive among them. Death is never a full stop, but only a comma. 
+
+The two disciples, as gospel writer Luke (24:13-35) tells us, go back to Jerusalem. 
+
+The return journey at night is full of energy, vitality, and hope. 
+
+The story of the two disciples of Jesus returning to their community as agents of hope could be ours too. 
+
+As someone who has recovered from coronavirus, I salute our medical personnel. I appreciate last year’s lockdown that gave us time to prepare better to face up to the rising number of infections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And yet, we need to care for those who are infected. We need to be sensitive to those who are bereaved. We have to support those who have lost their jobs and livelihoods. 
+
+We should appreciate those who are making sacrifices and taking risks on our behalf. 
+
+We can all be agents of hope to one another. We can help each other rise again. 
+
+We can accompany each other to return to our communities of worship, study and work. We can be more responsible to one another. 
+
+For that will be the true Easter! Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
