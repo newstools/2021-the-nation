@@ -1,0 +1,151 @@
+Covid-19 death toll in the country has risen to 2,224 after 18 more fatalities were reported.From latest recoveries, 420 are from home-based care  while 113 are from various health facilities. Kenya’s Covid-19 positivity rate is at 15.1 % after 911 people tested positive from a sample of 6,045 in the last 24 hours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a statement to media houses on Sunday, the Ministry of Health said the total number of confirmed infections had risen to 138,988 while the total number of samples tested stands 1,517,637. 
+
+At the same time, the ministry has said that a total of 282,518 people have been vaccinated across the country as of April 3, 2021. 
+
+Of the new cases, 880 were Kenyans and 31 foreigners with 503 of them male and 408 females. The youngest is a two-year-old and the oldest 98 years. 
+
+The ministry has also reported the recovery of 533 patients in the last 24 hours pushing the total recoveries in the country to 94,183. 
+
+From the latest recoveries, 420 are from home-based care and isolation while 113 from various health facilities. 
+
+Meanwhile, Covid-19 death toll in the country has risen to 2,224 after 18 more fatalities were reported. Of these deaths,11 occurred in the last one month, while seven were recorded during audit, Health Ministry says. 
+
+Highest number of infections 
+
+As of Sunday, 1,586 patients had been hospitalized, 198 of them being in the intensive care unit. Of those in ICU, 43 were on ventilatory support, 125 on supplemental oxygen and 30 under observation. 
+
+Another 236 patients were separately on supplemental oxygen, 222 of them being in general wards and 14 in high dependency units. 
+
+The number of patients in the home-based care programme stood at 5,903.  
+
+The CS also noted that a total of 282,518 people have been vaccinated across the country since the exercise started. 
+
+Nairobi county had the highest number of infections from Sunday’s new cases with 536 cases followed by Kiambu 91, Uasin Gishu 48, Machakos 34, Nakuru 34, Mombasa 27, Kajiado 23, Nyeri 20, Meru 16, Kilifi 11 and Garissa 10. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nyandarua had eight cases followed by Laikipia, Kitui, Kakamega each six, Taita Taveta, Turkana, Mandera and Bungoma each four, Murang’a and Nyamira each three, Baringo, Elgeyo Marakwet, Kwale and Makueni each two, and Isiolo, Kericho, Kirinyaga, Kisumu and Nandi each one. The county is struggling to cope with the rising number of Covid-19 patients seeking treatment in public and private hospitals. The number of confirmed infections since last March has increased by 1,184 to 138,077. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
