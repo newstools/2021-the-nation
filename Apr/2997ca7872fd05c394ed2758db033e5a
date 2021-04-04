@@ -1,0 +1,439 @@
+ That Safaricom’s 5G launch last month was inspired by the Covid-19 pandemic remains debatable, but it is during the past one year that Kenya has witnessed massive adoption of emerging technologies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ ‘Silicon Savanna’ as Kenya is preferably referred to in the global technology stage, has seen an upsurge in the use of cloud-based services, Big Data analytics, blockchain, Artificial Intelligence (AI), Virtual and Augmented Reality, making 5G the only remaining complementary technology that the country so much needed. 
+
+But the most critical aspect of such a combination of frontier technologies has been their prowess in powering cashless payments in developed economies, where Sweden leads the race with 97 per cent of its population enjoy the convenience of cashless transactions. 
+
+With only 3 per cent of all retail payments being cash, ATM machines and cash out points have become more scarce. 
+
+Many shops and restaurants don’t accept cash, contrary to Kenya where, despite M-Pesa being hailed by the World Bank and United Nations as game changer in financial inclusion, cash remains king, with over 200,000 M-Pesa agents across the country transacting Sh529 billion last October, according to the Central Bank of Kenya. 
+
+Financial digitisation 
+
+Compared to Kenya, whose digital money journey remained a dream till Safaricom launched M-Pesa in 2007, Sweden’s voyage to financial digitisation began very early, being one of the very first countries outside the United States to connect to the internet. 
+
+The first email ever sent outside of the US was sent from the Royal Institute of Technology (KTH) in Sweden back in 1983. Equally important, the first DNS (Domain Name Server) root server outside of the US was set up at KTH in Sweden. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Driven by a group of computer enthusiasts and scientists at KTH, and soon at other universities, an early Internet Service Provider (ISP) was established in Sweden, which operated besides the state telco monopoly Televerket, which later, when the market was opened, became Telia. 
+
+The first ISP, Algonet, now defunct, grew rapidly with new customers coming in during the early 1990s and others ISPs joined in as the market was liberated. 
+
+ Leap forward to the mid 1990s and the number of internet users had grown to a significant portion of the population. 
+
+Recognising the social ‘digital divide’, the government of Sweden became aware of the importance of providing internet services to the majority of the population. 
+
+Government programs were established, the most significant being trade unions subsidizing the price of home computers and internet access to its members. By the mid 2000s, when the internet in Kenya was still unheard of, a majority of Swedes owned a computer and were connected to the internet, something that Kenya only achieved after 2010. 
+
+Today, a majority of the population in Sweden enjoys high quality, stable internet access. The market penetration of a speed of at least 100 Megabits per second (Mbps) fiber access to households is about 70 percent, the rest of the population connecting through equally fast cable- or Digital Subscriber Lines access. 
+
+5G networks 
+
+ Mobile 4G access coverage is about 95 percent of the population, and the first 5G networks are up and running, though the market penetration of 5G is still small, but growing fast. Also, in Sweden internet access is cheap – most people hardly worry about the internet bill. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Kenya, 4G coverage is yet to reach many parts of remote areas, despite Safaricom’s CEO Peter Ndegwa saying the telco has achieved over 90 percent of 4G coverage. Kenya’s dominant network remains 3G and 5G, which was launched recently, only has 15 base stations across the country. 
+
+Parallel to the digitalisation of the Swedish society during the 1990s and early 2000s, criminal activities related to cash were on the rise. 
+
+Cash, of course, needs to be physically transported between the central bank and the commercial banks, between the banks, and between banks, saccos and all the retail endpoints. These value chains were targeted by criminal gangs and the whole situation escalated and seemed to go out of hand. 
+
+To a large extent the costs of the robberies and the related increase in security costs fell on the banks. 
+
+Eventually, the banks were fed up, and thus began the process that eventually led to the cashless situation of today. The solution, as the banks saw it, was to reduce the use of cash all together. Instead, banks started to promote the use of credit and debit cards. 
+
+Though banking cards were present before, they were not too popular among retailers due to the fees charged. These fees were essentially removed and the use of cards increased in popularity. To this day the bulk of all retail payments are made with cards. 
+
+Sweden is not only one of the most cashless societies, it is also one of only a handful of countries where the use of digital identities is ubiquitous, something the Kenyan government has attempted to achieve through the use of digital ID cards in its controversial Huduma Namba project. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Basically everyone has an e-ID in Sweden, and this has proved to be a huge enabler for digital payment services.  It’s not only easy to authenticate, it’s equally easy to identify a user. This significantly lowers the costs and increases the efficiency related to Know Your Customer processes and Anti-Money Laundering processes KYC/AML. 
+
+Retail business 
+
+That means the cashless state in Sweden is driven to a large extent by the banks and to some extent by the retail businesses, compared to Kenya where a single telco is controlling the biggest chunk of digital transactions. 
+
+Doing away with cash would save money for all entities handling cash in Kenya, since cash is expensive to handle due to transportation costs with manual handling like counting the cash at M-Pesa agents attracting armed thugs. 
+
+Labour costs of handling money in Sweden are very high in a global comparison, a reality that has pushed the population to debit and credit cards. The vast majority of these cards are debit cards issued by the banks, in addition to some credit cards issued by other entities. 
+
+This frequent use of cards actually means that Sweden is somewhat lagging behind many other countries in the world, including, in some regards, Kenya. 
+
+The extreme in Sweden lies in the fact that so few use cash, but not in the technology replacing it. Cards, after all, have been around for decades. 
+
+Mobile money payment systems like M-Pesa, which is used even by rural dwellers through USSD, are not very popular in Sweden. 
+
+Mobile wallets 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+A 2020 survey by American research firm Boston Consulting Group (BCG) indicates that globally, Kenya is only second to China in terms of mobile money payments, where transactions via mobile wallets and phones represent 87 per cent of the Silicon Savannah's Gross Domestic Product (GDP). Sweden is yet to adopt this kind of mobile money penetration. 
+
+However, Kenya’s efforts to go cashless have always hit a snag, with poor implementation strategies leading to a collapse of a system that many players in the public transport sector see as the ultimate solution to the ever chaotic matatu industry where unnecessary traffic jams have been delaying businesses across major towns. 
+
+Such traffic jams, especially in Nairobi, have been a breeding ground for phone snatchers and money pilferage, a huge security threat that even the AI cameras by the county management and Huawei have failed to address. 
+
+Cases of passengers refusing to pay fare, or conductors declining to hand back balance to passengers have been on the rise in the pandemic period, where an economic contraction has been synonymous with loss of livelihoods. 
+
+A solution developed last year by NCBA bank in collaboration with Kenya Mpya buses, relying on real-time data analytics and AI could prove critical, where travellers pay via M-Pesa and book a seat in advance, but its adoption remains low among other matatu saccos and owners. 
+
+ In Sweden, where fare payment is cashless, only a few mobile payment systems are in place, like Apple Pay, but it remains a tough call to replace cards, because the actual gain in convenience is small, bearing in mind that ‘small’ payments (below about Sh5,000) can be made ‘touchless’ with NFC (Near Field Communication) enabled cards. Only for a higher amount do Swedes have to enter a PIN code. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In Kenya, M-Pesa users have however been calling for a reduction in the number of steps when paying for goods or services through the Lipa-Na-Mpesa service. Whereas you have to go through six steps when paying via M-Pesa, Swedes only do a single swipe. 
+
+Sensitivity and cyber security loopholes 
+
+Does all this mean everyone in Sweden is happy? Not exactly. Banks are happy, retailers are happy, most people are happy, but the Swedish government is not. The major concerns put forth by the government is the sensitivity of the payment system. 
+
+The cashless society of Sweden is hypersensitive as it depends entirely on internet connectivity. They are not designed with peer-to-peer payments in mind, they need the functionality of central, often cloud based, backend systems. 
+
+That means if for some reason vast portions of the country would lose connectivity to the internet, people won’t be able to purchase everyday goods like food. 
+
+This is a major concern of the Swedish government and its people. In case of a crisis or emergency people need to have some cash as a backup, a problem is very few people adhere to the government’s advice to save and store cash “under the mattress”. 
+
+Payment cards 
+
+Another concern is that not all people have a good banking relationship. Banks are mandated to provide payment accounts and issue payment cards to anyone who asks, but still not everyone has them. And finally there is the privacy and cyber security loophole surrounding digital payment systems. Cash is, after all, anonymous. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It is not likely Sweden will revert the trend towards less cash. On the contrary, cash is losing ground every year. The Swedish government, however, has said it will not give up on cash. 
+
+The clear position of the government is to stand by cash and to keep supporting cash. But the government is in no position of forcing the use of cash, the government simply has to follow the development of new payment technologies like mobile money and adopt its policies. 
+
+Meanwhile, the Swedish Central Bank Riksbanken has deployed a project to seek development of the so-called e-krona, a Central Bank digital currency. 
+
+The project is well under way into its third year where a handful of proof-of-concepts has been evaluated, and it’s expected to deliver some results this year, probably resulting in small scale trials next year. 
+
+If the e-krona seeks to replace cash, it must be designed to support direct peer-to-peer payments, like M-Pesa, not relying on internet access, maybe not even on electricity, otherwise it will be in the same situation as cards. 
+
+But many Swedes fear that a Central Bank digital currency may be the ultimate surveillance tool unless they are designed with data privacy and protection in mind. 
+
+Sweden also feels that there is a solution in having high-tech futuristic microchips implanted into people’s skin to help them carry out everyday payments and replace credit cards and cash. 
+
+More than 4,000 people have already had the high-tech chips, about the size of a grain of rice, inserted into their hands with the pioneers predicting millions will soon join them as they hope to take it global. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+fmailu@ke.nationmedia.com, lasse.dobos@gmail.com BAT agrees with the Ministry of Health’s advisory that it sells its Lyft nicotine pouches under the tobacco rules. Justus Oluoch is the director, ‘Its Ajus Media’. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
