@@ -1,0 +1,225 @@
+Now, we are out of 2021 Afcon, and qualifying for 2022 Fifa World Cup is the preserve of countries which invest time and resources in their football. Matches between Kenya and Uganda normally attract a lot of attention from fans of the two teams, not because the two countries are particularly great footballing nations, but due to the fierce rivalry between the two teams. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When Africa’s draw for the 2022 Fifa World Cup qualifiers was done and Kenya ended up in the same pool with Mali, Uganda, and Rwanda, my mind raced back to key moments from past matches between Uganda Cranes and Harambee Stars especially in the Africa Cup of Nations (Afcon) which is Africa’s premier national football team tournament and Council for East and Central African Football Associations (Cecafa) tournament. 
+
+No, I did not immediately think about a meeting between Kenya and Mali which is the top-ranked team in the pool. 
+
+Instead, my mind went back to October 8, 2011 when Kenya pulled off its own football version of “Operation Entebbe,” that counter-terrorist hostage-rescue mission carried out by Israeli commandos at Entebbe Airport in Uganda on July 4, 1976 which inspired the movie “Raid on Entebbe”. 
+
+Going by Fifa ranking, Mali, at position 54, is the highest-ranked team in Kenya’s pool, followed by Uganda (83rd), Kenya (104th), and Rwanda (133rd) so were it not for the “special history” between Kenya and Uganda in football, this discussion should have been first about Kenya’s match against 1977 Afcon runners-up Mali. 
+
+There are many talking points in Kenya’s “special relationship” with Uganda, but none highlights the point better than the “raid in Kampala,” that meeting between the two fierce rivals at the Nelson Mandela National Stadium in Namboole on October 8, 2011 in a must-win 2012 Afcon qualifier match. 
+
+Before the match dubbed “Migingo derby” by Kenyan fans, busloads of vuvuzela-blowing Harambee Stars fans trooped to Uganda in spite of a warning of possible terror attack by American embassies in Nairobi and Kampala. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Playing in Group “J” alongside Uganda, Angola and Guinea-Bissau, Kenya had not qualified for Afcon since 2004 and stood a slim mathematical chance of qualifying for the biennial tournament. 
+
+Uganda had not qualified for the tournament since losing the 1978 final against Ghana. 
+
+The Uganda Cranes had, among others, captain Dennis Onyango but were without talented but controversial striker David Obua (he was replaced by Brian Umony). With Dennis Oliech, McDonald Mariga, Victor Wanyama and Arnold Origi in its ranks, Kenyan fans were expectant with hope that the team would win. Uganda also had a mathematical chance of qualifying for the tournament. 
+
+The first leg in Nairobi having ended 0-0, Kenya needed to win the match to stand a chance of playing in 2012 Afcon, co-hosted by Equatorial Guinea and Gabon. 
+
+Uganda needed to win or match Angola’s points from the southern African nation’s match against Guinea Bissau to qualify, and the Cranes had not lost at Namboole for 10 years. 
+
+Playing at Nelson Mandela Stadium in Kampala, Kenya spoiled the party for Uganda in a 0-0 draw. A tightly-marked Dennis Oliech did not score but man-of-the-match Arnold Origi thwarted many efforts by Uganda’s strikers in many one-on-one situations. 
+
+Before full time, disappointed Ugandan fans started trickling out of Namboole Stadium. Those who had stayed behind trooped out of the stadium at full time, but Kenyan fans stayed behind to cheer their team. On the same day, Angola beat Guinea-Bissau 2-0 away to qualify as Group “J” leaders on 12 points, followed by Uganda (11 points), Kenya (eight) and Guinea-Bissau (three). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Angola qualified for 2012 Afcon directly as group leaders as fans of second-placed Uganda were left waiting to find out whether their team would qualify by being one of the best runners-up. They did not. Libya and Sudan took those positions. 
+
+No team from East Africa qualified for the tournament, which Zambia won after beating Cote d’Ivoire 8-7 on penalties in the final after a 0-0 draw. 
+
+That match provides insights on the “special relationship” between Kenya and Uganda, and we have not talked about many others in Cecafa Senior Challenge Cup. 
+
+Now, we are out of 2021 Afcon, and qualifying for 2022 Fifa World Cup is the preserve of countries which invest time and resources in their football. 
+
+Like the Israeli forces which rescued the hostages in Entebbe within an hour after landing, let’s first prepare to stage our own version of “90 Minutes in Kampala.” 
+
+jmwamba@ke.nationmedia.com Mulee and his men are not going anywhere. Campaigns against the Olympic Games are nothing new. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
