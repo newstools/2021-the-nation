@@ -1,0 +1,167 @@
+The conflict between the Garre and the Murulle clans has been raging on for more than a year leaving dozens dead.Mandera experienced the worst bloodshed between the Garre and Degodia clans between 2007 and 2010. The Garre Council of Elders has called for an end to inter-clan feuds further appealing for peaceful co-existence among clans residing in Mandera County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Garre clan traditional supreme leader, Sultan Ali Noor Ibrahim Sheikh said the local community need to understand that development can only be achieved where there is peace. 
+
+“We want peace which will bring us development in Mandera. We need to relate well with each other for development,” he said. 
+
+According to the Sultan, both Garre and Degodia communities have since settled their differences and now live peacefully. 
+
+“We had issues with the Degodia clan but a solution was found, we need to find a solution too between the Garre and Murulle clans,” he said. 
+
+Raging conflict 
+
+The conflict between the Garre and the Murulle clans has been raging on for more than a year leaving atleast two dozens of people dead from both communities. 
+
+The latest incident happened last week when a herder was killed by armed men suspected to be clan militias drawn from the Murulle clan. 
+
+The herder was murdered at Alung’o within Mandera South as he searched for his lost livestock. 
+
+The incident caused tension in the area forcing Governor Ali Roba to call for a speedy action from the law enforcers in investigating and apprehending the perpetrators.  
+
+Peace agreement 
+
+“We are having issues leading to conflicts emanating from land ownership, grazing fields and water points for herders but as clan leaders we are committed to finding a lasting solution,” he said. 
+
+The Garre Clan Council of Elders supports the recently signed peace agreement dubbed Umal Peace Accord between the Garre and Murulle. 
+
+In the accord, the Murule clan was fined 150 camels after being found guilty of causing death and destruction of property owned by members of the Garre clan within the contested area. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The decision is welcome, paying a fine of 150 camels is not an easy thing and it will deter many from engaging in lawlessness,” he said. 
+
+In the accord, the Murulle clan was asked to pay the 150 camels in three years with 50 camels each year starting this January.    
+
+Political marriage 
+
+The two clans have been fighting over ownership of Yedho village that sits on the border of Lafey and Mandera South constituencies. 
+
+Lafey is inhabited by the members of Murulle clan while Mandera South is believed to be home for the Garre community. 
+
+“I don’t understand why these two clans are having issues when we are cooperating politically in Mandera,” he said. 
+
+Mandera experienced the worst bloodshed between the Garre and Degodia clans between 2007 and 2010 over political representation of the Mandera North constituency. 
+
+The two clans got into a political marriage in 2013 that has seen the Murulle hold the deputy governor position, two members of parliament seats and a handful of ward representatives. Executive asked to ensure budget allocations for development of Arabia and Kiliweheri sub-counties. Widowed by attack on Mandera quarries, women form self-help group, to help them fill their husbands’ shoes Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
