@@ -1,0 +1,211 @@
+Over the past month, a number of women have fallen victim to sexual and gender-based violence, specifically rape. Even in death, the women have been blamed, ridiculed, objectified and their circumstances trivialised. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ Men and some women fail to understand the impact of such ridicule and insensitivity. This not only creates an unsafe environment for women and discourages other victims from reporting their perpetrators, it also encourages the perpetrators of these heinous acts. 
+
+In one such case involving Homeboyz Radio, many have protested and demanded an apology for the insensitive remarks made towards a victim of gender-based violence. While a generic apology has been issued, and a number of other steps taken against the presenters and the station, that is not enough because it does not respond to the gravity of the situation and root cause of gender-based violence. There are many who deemed the actions taken against the presenters and the station unnecessary and talked about overreaction by “toxic feminists”. 
+
+Date rape and femicide are sadly a reality for women. If stringent measures are not taken, Kenya could end up with a crisis of institutionalised gender-based violence. Unfortunately, it is the victims who are routinely blamed while the perpetrators are excused for “being men”. While the perpetrators may sometimes face criminal charges, the conversations and attitudes of some men and women reveal a society oblivious to the meaning of rape culture and gender-based violence. 
+
+Rape culture 
+
+Simply defined, rape culture refers to an environment where rape is common and sexual violence against women is normalised and excused. The use of misogynistic language, objectification of women’s bodies and glamourisation of sexual violence perpetuate rape culture, creating a society that ignores women’s rights and safety. Manifestations of rape culture include teaching women to avoid getting raped instead of teaching men not to rape and trivialising sexual assault. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With increased access to technology, social media has become the main hub for most social, political and economic discussions. It is laudable that we enjoy freedom of expression in Kenya. But these platforms have become a double-edged sword, at once consolidating free speech but also threatening those very freedoms. 
+
+Both social and mainstream media have been used to perpetuate and encourage rape culture. The internet has created a platform for discourse around gender-based violence. 
+
+A quick breeze through social media comments discussing sexual violence reveals the extent to which rape culture has taken root. Most comments make fun of, ridicule and blame the victims of sexual and physical violence while taunting those with a contrary opinion. 
+
+The discussions, mostly by men, are an indication of how deeply toxic patriarchy is still engrained in society despite the great strides made in gender equity. There is need to sensitise people on prevention of sexual gender-based violence. It appears the concept of consent is not understood by most and respect for women and their rights is seen as a favour. 
+
+We must ensure women are safe in our society and are able to navigate their life without fear and anxiety – it is their right! It should be natural to respect women – and not just because we have sisters, mothers or daughters. 
+
+As much as the government has an obligation to protect all its citizens – including through legislative and policy change, the public has a role to play too. As members of the society, we should raise awareness and confront rape culture and gender-based violence. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The ubiquity of social media means we can all use these platforms to drive preventive messaging to ensure that rape culture and tolerance for gender-based violence are not normalised. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
