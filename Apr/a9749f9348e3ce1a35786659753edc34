@@ -1,0 +1,233 @@
+Kenya is among four counties that have been added to UK’s red list amid concerns about new Covid-19 variants. Kenya came out fighting last night, reciprocating the ban by the United Kingdom on Kenyan visitors by introducing its own stringent measures and accusing London of betrayal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a strongly worded statement released by the Foreign Affairs Ministry to the British High Commission, Kenya banned passenger flights originating from or transiting through UK airports starting April 9. The suspension will be reviewed in a month. 
+
+Passengers from the UK will be required to produce negative Covid-19 certificate and valid Covid vaccine certification. 
+
+They would also be required to go through mandatory seven-day isolation after arrival. 
+
+The only exceptions to the restrictions, which begin midnight April 9, are cargo flights between the two countries, which will continue to operate through protocols “to be announced”. But the crew will still be required to present a vaccination certificate and a negative PCR test certificate. 
+
+Kenyans in the UK or transiting through British airports are also exempt. 
+
+UK’s Red List 
+
+The measures seem to mirror those announced on Friday by London, which put Kenya on the Red List due to the belief that the vaccine-resistant South African coronavirus variant is spreading locally. 
+
+The UK added Kenya, the Philippines, Bangladesh and Pakistan on the Red List and announced that passengers from these countries would be denied entry from April 9. 
+
+British citizens will also be barred from leaving the UK for these countries, pending a review of Covid-19 infection status. 
+
+“All UK government officials and diplomats must have a valid Covid-19 vaccination certificate and a valid Covid-19 negative PCR test certificate to enter Kenya,” Nairobi said in the terse statement. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The government said London’s move is meant to punish a country that is neither a source nor a super spreader of coronavirus. 
+
+Kenya says it has been consistent in maintaining a positive stance towards the UK despite the challenges and disruptions imposed by the pandemic. Kenya has remained in constant contact with the United Kingdom throughout this pandemic in order to maximise opportunity for cooperation. 
+
+It added that it has a genomic surveillance programme and has been among the first countries in Africa to identify variant strains, including the highly virulent UK and South African ones. 
+
+Serious consequences 
+
+The ban will have far-reaching consequences on business, travel, tourism and security cooperation, Nairobi said. 
+
+“The decision by the Government of the United Kingdom to “Red List” Kenya and to stop all travel from Kenya for those resident in Kenya and those transiting through Kenya to the United Kingdom will have deep and far-reaching consequences on the Kenya-UK trade, travel, tourism security cooperation among other sectors,” said the government. 
+
+The third Covid-19 wave the country is managing with stringent protocols and restrictions is an example of the sacrifices Kenyans are willing to make to ensure this disease does not spread in Kenya or anywhere else in the world for that matter, the state added. 
+
+Kenya feels betrayed, noting that it expected closer cooperation with the UK rather than punitive measures that are discriminatory, divisive and exclusive in their character, the government said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The decision of the UK is reportedly based on scientific evidence, with Kenya particularly indicted for not closing down routes the South African variant of the coronavirus known as B.1.351 entered the country. Diplomats expressed anger at what they feel is wrong-timing. 
+
+“We find it disappointing,” said a diplomat before the official response was issued in the evening. 
+
+“We have worked with the UK, including vaccines. This is unwarranted,” the official added, referring to trials on the Oxford/AstraZeneca vaccine which were conducted in Kenya. 
+
+The government says that the fact that some travellers from Nairobi have allegedly tested positive for Covid in London is not exclusive to Kenya and does not justify Kenya’s Red Listing. Kenya has written to London to seek clarification on the decision but has not received any response. 
+
+amutambo@ke.nationmedia.com Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
