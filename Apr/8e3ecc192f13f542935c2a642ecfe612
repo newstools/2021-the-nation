@@ -1,0 +1,367 @@
+Some 10 years before he committed suicide, if at all he did, Edoardo Agnelli, had become fodder for conspiracy theorists in Turin, Italy – and partly in Kenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While he was set to inherit the $15 billion fortune that was his family’s business empire, which included the Fiat car manufacturing company, a huge stake in Alfa Romeo and the high-end Ferrari and Chrysler vehicles, he had a self-inflicted troubled life which was the love of paparazzi who followed him all over. 
+
+The Agnelli family was also majority shareholders of Juventus FC, the Italian Serie A football club, but, despite all these wealth, that also included owning Italy’s largest bank, happiness did not run within the family or as the cliché goes – you can't buy happiness. 
+
+Edoardo’s escapades in Malindi were also known. He would arrive at the Kenyan coastal town with an entourage of carefree hookers and Italian scofflaws who had earned the town the notorious tag – the ‘mafia paradise’ – just like in Fulgencio Batista’s Havana. 
+
+Edoardo’s father, Gianni Agnelli, had for decades turned Fiat to be one the largest companies in Europe ever since he took over the family firm in 1966 and grown it to become a multi-billion dollar empire. In Italy, they nicknamed Gianni L’Avvocato meaning the lawyer – perhaps because he had graduated with a law degree from Turin University. Thanks to his riches, he was also a lifetime member of the Italian Senate. 
+
+Conquered 
+
+Gianni never thought much about the family and as his wife, Marella, told her biographer; “for Gianni, a woman is to be conquered, not to be loved.” 
+
+Gianni seemed to agree and described himself more as a “devoted husband” rather than a “faithful husband “– thanks to the allay of beauties, including Swedish actress Anita Ekberg, former US First Lady Jacqueline Kennedy and Italian actress Silvia Monti, who became his lovers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Gianni did not think much of his son Eduardo either, as stories of his sex and drug escapades mimicked his life. Edoardo’s sister, Margherita, was said to have “spent the majority of her life as a mother, giving birth to eight children with two husbands… (and) until 2004 she remained aloof, distant, separate.” 
+
+Thus, while Gianni was gifted in making money and was touted as the richest man in modern day Italy, his worry was on who would inherit the leadership of the family empire which had for years provided rich fodder for tabloids. 
+
+When news broke out that Kenyan police had raided a private villa in Malindi and arrested Edoardo for possessing drugs, it did not surprise anyone in Italy; or those who followed his family’s escapades. A vice was running within the family. 
+
+Edoardo’s grandfather, by the same name, was a known party-goer and whose only known achievement was helping finance Juventus and turning it into a leading football team before he died in 1935. A story is told that when Edoardo’s grandfather died from a plane crash, a love affair between his widow, Virginia, and a journalist, led to a potential wedding which was cancelled at the last minute. The children, who included the father of the Malindi playboy, had to be kidnapped back to the Fiat palace and their mother Virginia was later killed in a “car crash”. 
+
+It was, therefore, not a surprise when Edoardo, known by his friends as Crazy Eddy, was arrested in Malindi on August 20, 1990. This was seen as a continuation of a long story of misfortunes that had dogged the family. As the Independent described him, he was the “tormented, lost child, who wandered from faith to faith in search of himself, and rescued periodically from drug scandals.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With the Kenyan arrest, his father was called to once again rescue the son who had been charged with possession of 300 grams of heroine and several rolls of bhang. Before the case collapsed before magistrate Martin Muya, police had insisted that he had thrown the cocaine sachets and bhang to an adjacent room, where some two prostitutes were sleeping, to avoid arrest. 
+
+Multi-billion Fiat empire 
+
+But what looked like a simple case became fodder for conspiracy theorists who argued that the arrest was plotted to deny Edoardo a chance to inherit the leadership of the multi-billion Fiat empire after his father turned 70. 
+
+His Malindi friends had told Italian newspapers that Eduardo was set up by drug traffickers who were using the town as the conduit between drug hubs in Pakistan and Europe while then Italian ambassador to Kenya, Renato Volpini, thought there was much more to the story. By then, Malindi used to be the playground of casanovas, drug lords and tycoons – a triumvirate structure that also earned it the title Riviera of Kenya thanks to the cash flows from sleaze and tourism. 
+
+There was also talk that since Eduardo had started a drug rehab project in Malindi, he became the target of traffickers who were worried that this son of a billionaire might out them. So, was this the revenge? 
+
+Whatever happened in the Watamu resort on the night of August 20, 1990, would never be known. The magistrate found that since the rooms had ceilings of woven mat, Eduardo would not have thrown the sachets over the wall. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But that was not the end of the story of the son of Fiat industrialist; the poster boy of a dysfunctional family. 
+
+Before the Malindi incident, Edoardo’s friends claim that he had decided to spend the rest of his life taking care of the less fortunate and that that was the time his father decided to exclude him from the control of the company. 
+
+More so, while he had chosen Iran as his adopted country and turned to Islam for solace, he would also be found celebrating Easter at the Vatican where he was personally known by Pope John Paul II. 
+
+He would also visit Far East where he would get mesmerised by Oriental religions and thus started philosophizing on how to democratise the work place. With all that, and with his track record of pushing drugs, Edoardo perhaps knew that he would not be an obvious choice to inherit his father’s position in a company founded in 1899 and which relied on Italy’s protected market. 
+
+But on the morning of November 15, 2000, news broke out that Edoardo’s body had been found at the bottom of a viaduct. His car, with engine still running, was parked at the side. 
+
+The question that arose was whether he, indeed, committed suicide or he was pushed to his death. 
+
+Eduardo was reported to have opposed a Fiat deal with Russia; takeover of the company by his brother-in-law, and the offer to give him money in exchange for his inheritance. 
+
+The other intrigue was the plot by his father to nominate a grandson, John Elkann, as the heir to the Fiat business. Elkann had his surname changed to Agnelli and before his death, Eduardo had prepared to have a discussion with his father on the succession plan. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In the book, Eighty meters of mystery: The tragic death of Edoardo Agnelli, the author narrates the toxic relationship that existed within Fiat and the possible cover-up that took place after his death. 
+
+“For six months I collected testimonies from friends, relatives, other figures to rewrite the facts of that day, the fifteenth of November of the year two thousand. I asked myself: why a thousand articles, thirty books and two investigations have been written for Lady Diana's death, one in England, another in France while for Edoardo the case was closed in forty-eight hours ," writes the author. 
+
+Like in most murder cases, the author noted the absence of Edoardo's bodyguards on that day; there was also an unexplained two-hour interval “between leaving the house and arriving at the Fossano viaduct.” 
+
+Missing autopsy exam 
+
+It was also noted that the CCTV cameras were either not working that day or the footage was missing. More so, records from his mobile phones were deleted and there were no fingerprints on his car. When you add the missing autopsy exam – the mystery simply deepened. 
+
+With the suicide theory, the story of Edoardo ended there. The inner conclave of the Fiat empire was now in the hands of other people – not related to the Agnellis since Gianni Agnelli was struggling with chemotherapy. It was also the year when Fiat sold 20 per cent of it to General Motors in a $2.4 billion stock swap as the downward spiral started. 
+
+There are still people who think that Malindi spoilt the son of the Fiat billionaire – or that he had lost touch with the family in his search for billions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But there was a silver lining to it all. The picking of John Elkann as the heir looks like the work of a genius. The young man they had all dismissed – since he was in his 30s - has salvaged the company back to profits, thus continuing with a legacy that was almost destroyed in Malindi. 
+
+An attempt by Edoardo’s sister to raise the matter in court was dismissed and one company has been salvaged from family feuds. The Kenyan families fighting in courts can learn something here. 
+
+Jkamau@ke.nationmedia.com @johnkamau1 Residents of Watamu location on Friday invaded Timboni village and set ablaze four posh houses worth millions of shillings, claiming they were owned by drug barons. The idea is to reduce the harm caused by drugs without necessarily stopping drug use. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
