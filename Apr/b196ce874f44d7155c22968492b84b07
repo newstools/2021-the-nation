@@ -1,0 +1,75 @@
+Former State House Comptroller Abraham Kiptanui has died after a long illness, his family has announced. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kiptanui long served as State House comptroller during the tenure of Kenya's second President, Daniel arap Moi. He retired in 1996. 
+
+A statement released by Moi's Press Secretary Lee Njiru , on behalf of the family, said Kiptanui died at Nairobi Hospital early Sunday morning. 
+
+"He passed away peacefully in the presence of his family following a long illness bravely borne," the statement said, adding funeral arrangements will be announced at a later date. 
+
+Kiptanui had been hospitalised for nearly a month. 
+
+The former State House comptroller and his successor Franklin Bett commanded respect due to their unmatched expertise in governance. 
+
+They are among the influential individuals said to have been behind Moi’s two-decade grip on power.  Ex-president’s clique expected to play crucial role in community politics as Ruto, Gideon clash. On Friday, it was reported that one of former President Moi's associates, former State House Comptroller Abraham Kiptanui, was suing another key insider in the Moi State House, former personal... Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
