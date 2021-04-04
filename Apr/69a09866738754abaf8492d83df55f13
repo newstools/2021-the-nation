@@ -1,0 +1,321 @@
+The British American Tobacco (BAT) has agreed to sell its controversial nicotine pouch product under strict laws after it was banned from the market last year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In response to Sunday Nation enquiries, BAT said that it had agreed with the Ministry of Health’s advisory that it will now market its Lyft nicotine pouches under the Tobacco Control Act (TCA 2007) and Tobacco Control Regulations, which demand that — among other things —the product only be sold to adults, bear graphic images and warnings on its packages, and attract higher taxation. 
+
+“BAT Kenya welcomes the clarity provided by the MoH who recently advised that Lyft should be sold and regulated under Tobacco Control,” the tobacco manufacturer wrote in response to several questions about the sale of the product in the Kenyan market. 
+
+The move comes after months of behind-the-scenes push, and a publicity blitz, to have the product marketed under lax regulations that would exempt it from the tough regulations associated with cigarette selling in Kenya. 
+
+A letter by the tobacco maker after Health Cabinet Secretary Mutahi Kagwe declared the product illegal, sought to convince the ministry that the product ought to have been classified differently and exempted from the tobacco rules that also bars them from being advertised. 
+
+Read: Are the regulators napping? Kenya caught in nicotine pouches storm 
+
+The letter dated February 18 opens the lid on the pushback by the British multinational, which had asked the ministry to provide an opportunity to “work together to create a sustainable regulatory framework”. 
+
+Smokers 
+
+The cigarette maker also tried to justify its push for better marketing conditions for its nicotine pouch using the newly established multibillion shillings factory in Kenya to manufacture the product, a move it said, “supported the government’s Big Four agenda”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+BAT Kenya managing director Crispin Achola had asked for a ‘transition period’ of at least nine months to sell its stock of Lyft valued at Sh33 million, which was nearing expiry after they were forced to halt sales in September 2020 amidst concern that the product was reaching mainly non-smokers and underage users who were exposed to addiction and who would easily be recruited into becoming smokers. 
+
+"We currently have the equivalent of 400,000 cans of LYFT stock worth approximately Sh33 million which we are unable to sell and run the risk of expiring as we are unable to meet your packaging and labelling compliance deadline of 21 days. 
+
+We therefore request an adequate transition period of a minimum of nine months to enable us sell our current stock and if needed, meet further consumer demand to prevent further loss,” Mr Achola wrote, requesting for a meeting with CS Kagwe. 
+
+Read: Kenyan parents fight sale of Lyft, BAT’s new nicotine product 
+
+Although it was not readily verifiable whether CS Kagwe yielded to the request that was also copied to six other senior officials in government including Interior PS Karanja Kibicho and Kenya Revenue Authority commissioner-general Githii Mburu, the CS had in January written to BAT directing that Lyft should be regulated under the tobacco laws. 
+
+The Health CS did not immediately respond to Sunday Nation enquiries about the fate of the BAT request despite promising to give answers through Director of Public Health Kepha Ombacho. We had sought to also find out whether any investigations were being done to hold those who irregularly allowed the product into the market before CS Kagwe raised the red flag. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The importation of the nicotine pouches had been licensed by the Pharmacy and Poisons Board (PPB), causing a dispute within the Ministry of Health over the clearance to sell the product. 
+
+Speaking to Sunday Nation, the country’s chief pharmacist, Dr Fred Siyoi, said that the board will no longer be involved in the licensing for sale of the nicotine pouches. 
+
+“We agreed that the Tobacco Control Board are now in charge. There was a dispute because in our Act it talks about nicotine and then there is also Tobacco Control Board (TCB),” said Dr Siyoi. 
+
+Tobacco Control Board 
+
+But then at a meeting of the Ministry of Health, it was agreed that anything containing tobacco product will be dealt with Tobacco Control Board. 
+
+“The board (TCB) is now in a better position to answer questions,” said Dr Siyoi. 
+
+The sale of Lyft under the tobacco regulations may be a big win for the country as tobacco manufacturers have been accused by anti-tobacco lobbyists to be using such products to attract the youth into early addiction and eventually into smoking despite selling it as a relief product to help smokers quit. 
+
+However, the US National Institute on Drug Abuse (NIDA) links nicotine addiction to smoking. The link makes the clearest association between the use of Lyft and cigarette smoking hence the need for the tighter regulations. 
+
+“Most smokers use tobacco regularly because they are addicted to nicotine. Addiction is characterised by compulsive drug-seeking and use, even in the face of negative health consequences. Most smokers would like to stop smoking, and each year about half try to quit permanently,” NIDA wrote in a research published last year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Scientific evidence has demonstrated that nicotine is toxic to the developing adolescent brain and BAT was recently forced to withdraw its nicotine pouches in Russia, where products made by other brands have been blamed for several teenage hospitalisations and linked to one death. 
+
+Tobacco laws 
+
+Tobacco Control Alliance chairperson Joel Shunza, who has been vocal about the ministry’s increased dalliance with tobacco manufacturers, had opposed the idea of opening the tobacco laws for amendment with BAT having opposed the establishment of the law. 
+
+“It is good that the ministry is playing tough because this is a matter of public health and the risk of having millions of young people addicted and turned into smokers in the future. They should also not be allowed to sell the stock because it was brought here illegally in the first place,” Mr Shunza said. 
+
+The sale of the Lyft nicotine pouch under the tobacco law will be a big blow to BAT Kenya which vehemently opposed its passage and whose worldwide strategy has been to increase the overall size of the’ non-combustible products’ targeting some 50 million more consumers by 2030 and in the process, earn over Sh650 billion in revenues by the end of 2025. 
+
+The firm recently revealed it already has 13.5 million consumers of its non-combustible products, a growth of three million in 2020 alone and its Kenyan subsidiary defied Covid-19 business disruptions to record a 42 per cent jump in net earnings last year. 
+
+Mr Achola recently revealed that the firm had set aside some Sh1 billion to market the nicotine pouches which the law will now bar from being advertised all any platform in the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+edwincowino@gmail.com wmenya@ke.nationmedia.com Government’s policy faulted for allowing tobacco firms to introduce new products in Kenyan market. Non-smokers need to be careful when consuming nicotine alternatives Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
