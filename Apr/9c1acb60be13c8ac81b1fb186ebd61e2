@@ -1,0 +1,161 @@
+The four hospitals were commissioned by President Uhuru Kenyatta in late February.The 16-bed capacity hospitals are part of 24 new Level 2 and 3 hospitals being constructed in Nairobi’s informal settlements. At least 16,200 patients have been attended to at the four newly-opened Nairobi Metropolitan Services (NMS) hospitals, easing pressure on access to healthcare in Nairobi’s informal settlements. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The success, recorded in only a month, has eased pressure on Kenyatta National Hospital (KNH) and Mama Lucy Hospital. 
+
+The four hospitals - Muthua-Uthiru, Ushirika in Dandora, Kiamaiko and Kayole-Soweto - were commissioned by President Uhuru Kenyatta in late February. 
+
+The 16-bed capacity hospitals are part of 24 new Level 2 and 3 hospitals being constructed across Nairobi’s informal settlements at a cost of Sh2 billion. 
+
+According to data from NMS Health directorate of Health at NMS, since the unveiling of the four health facilities, a total of 16,208 patients have sought treatment at the hospitals. 
+
+Uthiru hospital has attended to 5,974 patients followed by Kayole-Soweto with 3,774, Ushirika hospital with 3,541 and Kiamaiko at 2,919. 
+
+Quality healthcare services 
+
+During the period up to March 1, 2021, a total of 41 deliveries have been recorded at the hospitals with 17 at Uthiru, 11 in Kayole-Soweto, eight in Kiamaiko and five in Ushirika. 
+
+A total of 737 patients have sought both ante-natal and post-natal care with a huge percentage of them in Uthiru and Kayole-Soweto. 
+
+Another 750 have visited the hospitals in search of family planning services, 1,380 for immunization, another 718 for laboratory services and 1,771 for nutritional care. 
+
+However, the bulk of the patients have been those over five years accounting for 6,963 while those aged below five years standing at 3,796. 
+
+“A total of 47 percent of walk-in patients at KNH are drawn from Nairobi and by creating accessible, affordable and quality healthcare services in informal settlements through these new hospitals, we intend to reduce the number significantly,” said NMS Health Secretary Dr Ouma Oluga. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+New health facilities 
+
+As part of the new health facilities, Gatina hospital in Kawangware and Gichagi in Kangemi are complete awaiting commissioning. 
+
+The others at Mukuru kwa Reuben, Mukuru kwa Njenga, Riruta-Satelite and Lunga Lunga are at advanced stage of completion. The 19 new hospitals comprise of 10 Level 2 facilities while the rest are Level 3. 
+
+The Level 2 include Sinai in Viwandani, Soweto-Kayole, Ngomongo-Korogocho, New Mathare-Kiamaiko, Lucky Summer, Gatina in Kawangware, Ushirika in Dandora, Zimmerman, Gumba in Mathare and Gichagi in Kangemi. 
+
+Level 3 ones include Pumwani-Majengo, Tassia kwa Ndege, Mukuru Kwa Njenga, Mukuru kwa Reuben, Kianda 42-Kibera, Ngundu – Kamulu, Karura – Mwiki, Uthiru Muthua and Githurai kwa Chief. 
+
+The five hospitals being refurbished include Lunga Lunga, Upendo, Riruta Satelite, Dandora 2 and Kibera Chief Camp in Soweto East. 
+
+A Level 2 health facility is also known as a dispensary and is run by clinical officers while a Level 3 one is referred to as a health centre and is run by at least one doctor, clinical officers and nurses. President took an extensive tour of Nairobi’s Eastlands where he launched several projects. The commotion saw several vehicles in the president's convoy stopping with police officers rushing to assess the situation. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. What does Mr Kenyatta want to do with the immense powers he’s consolidating? Court says concept of succession is about generational transfer of wealth from parents to their children.
