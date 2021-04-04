@@ -1,0 +1,343 @@
+The pandemic has claimed more than 2.8 million lives worldwide.West Africa's Guinea-Bissau launched its vaccination campaign on Saturday with the AstraZeneca vaccine. Rome, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Millions of Christians around the world on Saturday faced another Easter weekend under restrictions because of coronavirus surges, but the hard-hit United States made good news as it crossed the milestone of 100 million people receiving at least one vaccine shot. 
+
+Worrying spikes in infections in many parts of the world, even as vaccine rollouts gather pace, have forced the reimposition of deeply unpopular restrictions. 
+
+Italy began a strict Easter lockdown on Saturday, with the entire country deemed a high-risk "red zone" during a time when families usually get together. 
+
+At Rome's normally bustling Piazza Navona, site of the famed Fountain of the Four Rivers, a scattering of dog-walkers and cyclists could be seen enjoying the spring weather. 
+
+
+
+
+
+
+A Catholic nun attends an Easter vigil mass on Holy Saturday, at the Church of the Holy Sepulchre in Jerusalem, on April 3, 2021. 
+Photo credit: Emmanuel Dunand | AFP
+
+ 
+
+Shops selling essentials were open in the nearby winding streets, but without the normal throng. 
+
+"It's getting annoying," a man who gave his name as Giovanni said of the restrictions, as he walked his dog. 
+
+New curbs were also coming into force Saturday in France, where authorities are scrambling to deal with a dramatic rise in cases that has overwhelmed hospitals in Paris. 
+
+Country situations 
+
+Restrictions had been already stepped up in other European nations such as Belgium. 
+
+Germans protested in their thousands on Saturday amid heated debate throughout the country about tightening restrictions in the face of a third wave of Covid-19. 
+
+Marchers, few of whom wore face masks, carried banners with the slogan "End the dictatorship of Covid". 
+
+The government scrapped plans for a strict Easter lockdown, but Chancellor Angela Merkel urged people to limit their social contacts ahead of the break. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Across the Atlantic, fresh curbs were also imposed ahead of Easter in Ontario and Quebec, Canada's two most populous provinces. 
+
+And in the Philippines, a lockdown affecting more than 24 million people was being extended for another week as authorities deploy tents and health workers to overwhelmed hospitals. 
+
+
+
+
+
+
+A worker disinfects the St John's Cathedral Church as a preventive measure against the Covid-19 coronavirus on the eve of Easter in Peshawar on April 3, 2021.  
+Photo credit: Abdul Majeed | AFP
+
+ 
+
+But there was a step towards normalcy in Jerusalem's Old City, where a lockdown dampened Easter last year. 
+
+A modest crowd turned out this year as most major sites opened thanks to Israel's successful vaccine rollout. 
+
+"Last year, it was very hard. We felt like the city was dead," said Lina Sleibi, a Palestinian Christian who sings at church services in the nearby West Bank holy city of Bethlehem. 
+
+Now, "you feel alive again", she said. 
+
+Near 3 million dead 
+
+The pandemic has claimed more than 2.8 million lives worldwide. 
+
+But the United States, the hardest-hit nation, became the first country to administer at least one shot to more than 100 million people -- around 40 percent of its adult population. 
+
+President Joe Biden has vowed that all adult Americans will be eligible to receive the vaccine by May 1. 
+
+But infections remain on the rise in parts of the country as well, and Biden urged Americans to keep wearing masks and taking other precautions. 
+
+"We need to finish this job," he said. 
+
+The US Centers for Disease Control and Prevention has updated its guidance to say that fully vaccinated people can travel without observing quarantines, but should wear masks. 
+
+
+
+
+
+
+Actress HRH Princess Theodora of Greece and Denmark volunteers at the Los Angeles Trial Lawyers' Charities and El Nido Family Center to deliver food and Easter gifts during their Spring Kickoff celebration at El Nido Family Center on April 3, 2021 in Los Angeles, California.  
+Photo credit: Kevin Winter | Getty Images | AFP
+
+ 
+
+Vaccination campaigns have struggled to gain traction across much of Europe due to supply issues and questions over the AstraZeneca jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Netherlands on Friday became the latest European country to halt AstraZeneca vaccinations for people under 60 over fears of links to rare blood clots. 
+
+Britain and the British-Swedish firm itself have defended the jab's safety, and the World Health Organisation and the EU drugs regulator have said that so far the benefits far outweigh the risk. 
+
+Vaccine side effects 
+
+On Saturday, the UK medical regulator said that out of 30 people who suffered blood clots after receiving the shot in Britain, seven had died. 
+
+The 30 reports of thrombosis came after 18.1 million doses of the vaccine had been administered in the country. 
+
+Paul Hunter, a medical microbiologist at Britain's University of East Anglia, told AFP he initially thought the link between vaccination and blood clots was likely a "random association". 
+
+But as evidence mounts of clusters in separate countries, "the weight of evidence is now looking towards Oxford-AstraZeneca actually being the cause of these adverse events", he said. 
+
+West Africa's Guinea-Bissau launched its vaccination campaign on Saturday with the AstraZeneca vaccine. 
+
+
+
+
+
+
+Pope Francis prays as he celebrates the Easter Vigil on April 3, 2021 at St. Peter's Basilica in The Vatican during the Covid-19 coronavirus pandemic. 
+Photo credit: Remo Casilli | Pool | AFP
+
+ 
+
+One of the worst Covid-19 outbreaks is devastating Brazil, which has reported more deaths than any country after the United States. 
+
+It is the epicentre of an unfolding crisis in Latin America, where infections have soared past 25 million, likely fuelled by a more contagious variant first detected in Brazil. 
+
+Peru has gone into an Easter lockdown, Chile has closed all borders, Ecuador announced fresh restrictions and Bolivia sealed the border with Brazil. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Argentina's President Alberto Fernandez announced late Friday that he had tested positive but was "physically well." He had the two-shot Sputnik V vaccine from Russia. 
+
+In a radio interview Saturday, he said he had "no idea" how he got infected. 
+
+"If it were not for the vaccine, I would be having a very bad time," he said. For years, hundreds of Nairobi residents have been flooding the Coast region, Kenya's tourism hub, during the Easter holidays. The country is observing 21-day mourning period following the death of President John Magufuli. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
