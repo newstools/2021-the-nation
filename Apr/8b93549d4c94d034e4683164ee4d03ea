@@ -1,0 +1,145 @@
+German Chancellor Angela Merkel’s hasty revocation of a hastily announced Easter lockdown was surprising, even shocking, given her ever-calm demeanour. Even more extraordinary was the apology she issued to parliament: “The mistake is mine and mine alone. Because in the end, I bear responsibility as chancellor. I regret it deeply, and I ask our citizens for forgiveness.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Merkel was right to reverse course. The proposed lockdown, agreed at a lengthy late-night conference of German regional government leaders, would have shut down vital supply chains and created chaos in food shops ahead of the sudden closure. The move might have cost but lives. 
+
+Few governments have been as candid as Merkel’s about their own limitations. Around the world, the pandemic has laid bare the problems democracies face when they respond to complex and rapidly changing situations. When governments are forced to make so many decisions, some inevitably will appear unfair, mistaken, or both. 
+
+Decisions on travel restrictions, lockdown rules, or vaccine prioritisation are bound to embody some degree of arbitrariness. Everyone agrees that essential workers should be exempt from lockdowns, but not everyone agrees on how “essential” should be defined. 
+
+Are teachers essential workers? Beyond hospital personnel, which other medical workers should be included? Cosmetic surgeons might perform vanity procedures, but they might also be needed after a horrendous accident. All distinctions are sure to breed envy and distrust. 
+
+Absurdities 
+
+Travel policies, too, can produce their own absurdities, especially when exceptions are made for the influential and the well connected. The United Kingdom, for example, recently instituted a complete travel ban, but exempted “essential” business travel. 
+
+Accordingly, some suddenly deemed it essential to look after property abroad. The “Stanley Johnson loophole” was born, so named for Prime Minister Boris Johnson’s father, who had justified travelling to Greece on these grounds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccinations are even more problematic. There is a strong case for vaccinating nursing-home residents and their caregivers, because the elderly are especially vulnerable and the virus spreads easily in shared living quarters. But there is also a strong case for vaccinating young and mobile people who are more likely to circulate widely, potentially becoming super spreaders. 
+
+The overarching question is how such choices should be made. Should people vote on them, or fill out opinion surveys? Complicating matters further is the issue of co-morbidities, which are often a decisive factor in whether the virus proves fatal. 
+
+The most common of these – obesity, high blood pressure, asthma, and diabetes – come in different degrees of severity, and affect some demographic groups disproportionately. In some US states, current and former smokers (with practically no elevated risk) can jump the line. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
