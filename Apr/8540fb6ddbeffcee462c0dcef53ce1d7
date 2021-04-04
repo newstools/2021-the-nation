@@ -1,0 +1,151 @@
+As Covid-19 waged its war on humans, the body of scientists, politicians, pundits – everyone – started to create or circulate coronavirus-related content using numerous channels made possible by the internet. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+And just when we thought we were numbed enough by the Covid-19 information flood, the Covid vaccines started to become available for use. 
+
+Whereas vaccines spurred hope, they also sparked a tidal wave of information — myths, their efficacy, and potential future impact on our bodies. As a result, many people are unsure whether to trust the vaccine or watch and wait from the sidelines. The World Health Organisation has coined a new term for the tsunami of information on the pandemic. They call it "infodemic," meaning "an over-abundance of information that makes it hard for people to find trustworthy sources when they need it." 
+
+Stiff competition 
+
+Unable to make sense of all these steady jets of information, many feel lost, fatigued and confused. In times of distress, however, people look to the experts to guide them with accurate information to make informed decisions on how to respond to the crisis. 
+
+However, in this pandemic, even those enlightened by science find the information too dizzying to use. Many also have a divided opinion; they are not signing from the same vaccine hymn book. 
+
+Even before the pandemic hit our shores, we were already living in an era of information overload. Loads and loads of information are produced every second. It is now a herculean task to make sense of it. 
+
+One way to find and ferret out good, helpful information is to support the media houses to continue gathering, processing and disseminating information as an act of public service. Most people, especially in rural areas, trust radio and television to deliver news that they can trust and deliver it in ways that resonate with their daily lives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Unnecessary deaths 
+
+Owing to stiff competition and reducing advertisement revenue, the media houses are now forced to make tough choices. As though that is not bad enough, their business is further imperilled by the pandemic, causing many to cut back on their expenses. These measures stifle the media's ability to gather information and broadcast it at a pace that rivals the fake news. 
+
+Accurate and reliable information can be compelling in stemming the tide of misinformation that invariably fans the spread of Covid-19, leading to many unnecessary deaths. 
+
+To win the war against the virus, the government must work hand in hand with the media to support the generation and dissemination of credible information. The media’s business is to whittle down information to the level that the ordinary people can understand, thereby helping them to make informed choices. 
+
+The government is therefore duty-bound to supplement the budgets of media houses and help feed people with good information and starve of Covid-19. 
+
+samwambugu@gmail.com Twitter: @samwambugu2 Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
