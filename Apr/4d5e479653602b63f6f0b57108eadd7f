@@ -1,0 +1,75 @@
+Former international Tony Lidonde, who handled Andulu at AFC Leopards, described him as a footballer who had natural talent, with better understanding of the game. Messages of condolences continue pouring in for former AFC Leopards defender, Sabastian Andulu who collapsed and died at his home in Kakamega on Thursday aged 57. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The former Kenya international will be laid to rest on April 10 in Central Idakho Ward, Ikolomani in Kakamega. 
+
+Andulu leaves behind a widow, Jerida Khakayi, and four children. 
+
+Former international Richard Madegwa, who played alongside Andulu at Nyeri Stima before both crossed over to Leopards in 1989, said: “I express my shock at the demise of Sabby. He was instrumental in our squad…Rest in Peace Sabby.” 
+
+“I mourn one of the greatest defenders who played a big role in putting Leopards back to the top. His skills left fans begging for more,” said former international Martin Musisi. 
+
+Francis Oduor “Killer” remembered Andulu as a key member of the Leopards squad of the early nineties. 
+
+Former international Tony Lidonde, who handled Andulu at AFC Leopards, described him as a footballer who had natural talent, with better understanding of the game. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
