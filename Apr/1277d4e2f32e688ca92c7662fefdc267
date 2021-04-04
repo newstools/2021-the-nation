@@ -1,0 +1,75 @@
+Mulinge said he was happy to be part of the history making team. KPA will be making their inaugural appearance at the African Clubs Championship. Kenya Ports Authority (KPA) have set themselves a quarter-final target at the men’s African Clubs Championship that will be held in Tunisia from April 16 to April 28. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+KPA coach Sammy Mulinge however said their target might change after the draw for the championships is released and knock-out permutations become possible. 
+
+Speaking at the KPA gymnasium in Makande after a team training session, Mulinge said his side was composed of mostly rookies with no international exposure but had the promise to turn into winners. 
+
+“I first want to thank the KPA management for keeping the players morale very high after each of them received an additional Sh120,000 a fortnight ago to cushion them during these tough times," Mulinge said. 
+
+“This together with the excellent training facility, excellent accommodation and focused training will definitely translate into results come the championships,”  said Mulinge, who is also the national women’s beach volleyball team head coach. 
+
+Mulinge said he was happy to be part of the history making team.  KPA will be making their inaugural appearance at the African Club championships. 
+
+“The players are upbeat and responding very well to training which is now highly intense,” the tactician said. Sodertelge finished fourth in the Swedish League. KPA started residential training a fortnight ago. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
