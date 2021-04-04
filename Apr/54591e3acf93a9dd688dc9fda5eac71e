@@ -1,0 +1,269 @@
+A one-kilometre earth road stretching from the dusty Ole Tipis trading centre, off the upcoming Nakuru-Narok Road in Narok County, leads one to a farmhouse. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From there, one takes a rough road that leads to a sheep ranch run by Purko Development Trust, on behalf of the Purko community. 
+
+The ranch is jointly owned by the community and is managed under trust deed. Seeds of Gold team finds workers performing routine tasks on a sheep farm, such as herding in preparation for tagging, shearing, crutching, dipping and yarding for sale 
+
+Joseph ole Nkaiwuatei, the chief executive officer of the 65–year-old Trust, is among workers checking on the sheep. 
+
+“We mainly breed ewe lambs and sell the animals to the community. Community members have access to high quality breeds of sheep and cattle which we also keep at a subsidise rate. They also have access to clean wheat seeds and are allowed to graze their animals after wheat and barley are harvested,” says Nkaiwuatei as we start a tour of the 3,200-acre farm that besides 600 sheep hosts 60 dairy cattle for milk, wheat, barley, peas and potatoes. 
+
+Some of the Corriedale sheep are raised for meat while others for breeding, explains Nkaiwuatei. 
+
+"We plan to increase the population to between 2,000 and 3,000 in the next three years.” 
+
+
+
+
+
+
+Jackson Nkurumwa (left) the livestock manager and Joseph ole Nkaiwuatei, the chief executive officer of Purko Development Trust on their farm in Narok. 
+Photo credit: Francis Mureithi | Nation Media Group
+
+ 
+
+The sheep have plastic tags placed near the tip of the ear for record-keeping. 
+
+"The tags are for identification and are important for breeding. They contain information such as date of birth, weight and lambing day," says Jackson Nkurumwa, the livestock manager. 
+
+After nine to 10 months, the ewes are ready for mating." 
+
+"The females must be properly fed for good breeding. We offer them green pasture and oats before mating to increase the chances of twinning," he says, adding, "We avoid inbreeding by buying lambs from Timau in Meru County." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last year, the group was planning to import new breeds from South Africa or the United Kingdom to improve their herd but the Covid-10 pandemic scuttled the plans. 
+
+“We keep Corriedale sheep because it is a dual-purpose breed used in production of wool that we sell and good quality mutton. They also have a long life, are hardy, have high fertility rate and adapt easily to a wide range of climate conditions,” says Nkaiwuatei, noting they employ 45 workers. 
+
+They sell up to 200 breeding lambs a month to the community members at Sh20,000 while non-members cough up to Sh50,000. 
+
+The farm faces various challenges, including theft and attack by wild animals such as hyenas. They have been forced to hire more security guards to patrol the ranch. 
+
+“Diseases such as enterotoxaemia (kidney disease), foot and mouth and diarrhoea also attack the animals. These are controlled through vaccination, isolation and prompt treatment.” 
+
+For good results, sheep must be dewormed monthly and dipped to control parasites regularly. 
+
+
+
+
+
+
+Joseph Ole Nkaiwuatei (left) and Jackson Nkurumwa on their farm in Narok.
+Photo credit: Francis Mureithi | Nation Media Group
+
+ 
+
+Besides grass, the sheep are fed commercial feeds and legumes such as oats for protein which are necessary for muscle growth and development, says Nkurumwa. 
+
+The tails are cut to prevent diseases as long ones are normally covered by manure and attract flies. 
+
+“We also check their hooves to prevent infections (foot rot). We trim sick hooves," says Nkurumwa. 
+
+Keeping the ranch clean is key to raising healthy and thriving sheep in the ranch. 
+
+Dr Mary Ambula, a senior researcher in animal science and a specialist in animal nutrition at Egerton University, says sheep should be put in clean and protected paddocks. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"They should be fed adequately, provided with clean and fresh water, protected from dogs or other stressers like diseases. Young lambs and the ewes fight and must be separated," says Dr Ambula. 
+
+
+
+
+
+
+Joseph Ole Nkaiwuatei the chief executive officer of Purko Development Trust during the interview at his farmhouse office at Purko sheep ranch in Ole Tipis, Narok County. 
+Photo credit: Francis Mureithi | Nation Media Group
+
+ 
+
+She adds deworming is important for sheep just before the rains while hoof-trimming, cutting the tails and shearing for the wool bi-annually should be maintained. 
+
+Marking breeding rams, according to her, helps manage the lambing ewes and identify those ready for mating. 
+
+"A marking alerts you of an infertile or sub-fertile rams when there is still time to do something about it, which is much better than finding out months later when ewes fail to lamb," she says, adding on sire sign harness, one can use a cloth painted during mating and tie on a particular ram and when they mate, the mark will remain on the ewe. 
+
+satnation@ke.nationmedia.com BAT agrees with the Ministry of Health’s advisory that it sells its Lyft nicotine pouches under the tobacco rules. Justus Oluoch is the director, ‘Its Ajus Media’. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
