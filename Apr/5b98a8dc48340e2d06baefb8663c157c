@@ -1,0 +1,147 @@
+ Justus Oluoch is the director, ‘Its Ajus Media’, a firm that specialises in photography, audio production and film making. He is also the CEO, 254 Celebrities, a Nakuru-based charitable organisation that deals with visitation of children homes, delivering sanitary pads to girls in West Pokot and helping the elderly. The 28-year-old father of one holds a mass communication/TV production degree from Multimedia University. He shares his career path with Sunday Nation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I was born in Maseno and raised in Siaya County. I grew up in a family of five and I am the first born. I spent my entire childhood next to my mum. From her I developed the interest in story telling since she always shared the student composition she always marked, yes she is a teacher. 
+
+I attended both primary and secondary schools in Siaya County. I later came to the city to pursue mass communication/TV production at the Multimedia University. After graduating with a bachelor’s degree, I started off as an intern at Equator FM in Maseno as a news editor and a voice over artist. Later, I was employed as a studio technician at Nairobi Aviation College media studio. I then left to start ‘It’s Ajus Media’. This is where I am currently as the director and also as a content creator, writer and video editor. 
+
+Its Ajus Media started as AjusCODE Production but I had to rebrand in March 2016 after a friend Frank Texas joined. AjusCODE only aimed at creating short funny clips but later, after rebranding, we introduced photography, documentary production, advertisements, content creation for film and a fully equipped audio studio. 
+
+My light bulb moment came a while back when media personality Johnson Mwakazi came to Nakuru to give a motivational talk. I was working in Nakuru then. After his talk, I decided to start saving for a camera. I saved around Sh40,000 to buy a Canon camera. This is the best decision I ever made. It is a step that changed everything. 
+
+To date, I believe I couldn't be where I am today hadn’t I made that move. It was that plus the little aggression I had then. I still look back and get stunned. From just a camera to a fully equipped media team. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+My key drivers have been simplicity and aggression. These two have really helped me a great deal to where I am. I have also come to learn and appreciate the fact that creativity is an endless process. Currently, our dream is to do what fully-fledged media houses do. 
+
+We are joining hands with institutions such as schools and NGOs. We are also working with production gurus who've challenged us a lot in the field. Along the way, we have failed quite a number of times. We come up with creative ideas but they just flop. However, this has never held us down. We take the failures as lessons and move on to the next idea. 
+
+I have had people that have helped me get to where I am right now. I’ll start from home, the first script ever I read was written by my mum and I liked every bit of it. I wish she knew how many scripts we wrote in high school based on what I picked from her. Secondly, friendships formed in campus that have stood the test of time. 
+
+Bena and Greg, as I fondly refer to them are very creative guys I met in campus and who have helped mould my creativity. The late Mr Alvo, was also very aggressive and helped push everything we have today. 
+
+Also, partner Texas is very devoted and persistent. My advice to the youth today is that the ideas in your head should be exploited as soon as they pop out. It is also very important to be disciplined in life.” 
+
+@Wanja_Mbuthia @MbuthiaAmina BAT agrees with the Ministry of Health’s advisory that it sells its Lyft nicotine pouches under the tobacco rules. Moses Gitonga grows giant varieties of pumpkins on an acre-and-a-half in Nagum village in Gilgil, Nakuru County. Deputy secretary-general says time has run out for those against Jubilee Party's ideals. Three women and a child were among those killed when a suicide bomber blew himself up. The arrival, clearance and administration of the vaccine was shrouded in controversy.
