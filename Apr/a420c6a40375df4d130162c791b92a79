@@ -1,0 +1,223 @@
+The coastal towns are reeling once more from extrajudicial killings.Police use the unjustifiable claim that the murder victims were just another bunch of robbers. Some of our police officers are just thugs in uniform. They prove it time and again with their illegal shoot-to-kill policy. I have returned to this topic a few times now. Had the practice stopped, I, and many others against extrajudicial killings, would have something complimentary to write about than discuss the problem repeatedly. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to the Constitution, no police officer has any legal right to take away the life of a Kenyan — whether they suspect them of robbery or terrorism or whatever. 
+
+The coastal towns are reeling once more from extrajudicial killings. Reports by civil society groups and the families of those who have allegedly died at the hands of the police there suggest that the victims were picked up from their homes by “police” and remained untraceable for weeks before they were found dead. 
+
+Police use the unjustifiable claim that the murder victims were just another bunch of robbers. It is not the role of the police to make that determination; neither is it to mete out the death sentences on the streets. They continue to usurp the role of the prosecutors and judges and, until this vice is put to a stop, many more Kenyans will lose their lives needlessly. 
+
+Gender cleansing 
+
+In addition, for all intents and purposes, we are witnessing gender cleansing. Many children are being orphaned, mothers are losing sons and wives widowed because the police believe it is their right to kill any moving male suspect with impunity. 
+
+Extrajudicial killings in places like Mombasa have crossed a tolerable line if ever there was one. People now live in fear and the character of the town has remarkably changed. A once-peaceful and -joyful tourist town is now replete with uncertainties as police terrorise unarmed innocent civilians. 
+
+It has become quite scary, especially for young men, to socialise outside their homes as has been the culture for centuries. Now they are not even safe in their own homes as police have elected to turn up and drag them out, never to be seen again. Where is the government as such injustice is carried out by our police officers? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The anti-terrorism policy appears to cause terror in communities rather than bring peace. Allowing police to kill with impunity amounts to state-sponsored terrorism. Our government and foreign governments that are sponsoring the war or terror are silent on extrajudicial killings carried out in the guise of anti-terrorism. 
+
+The extrajudicial killings occurring in Kenya will not be tolerated in the streets of Britain or the US, two of the largest sponsoring countries of anti-terrorism measures. There will be many questions asked and insistence on any such measures being carried out under strict human rights guidelines. In the West, loss of a life at the hands of the police, whether while fighting ordinary crime or terrorism, is rare. Should it occur, the rule book will be thrown at the police officers involved. 
+
+Why the silence by the international community and acceptance of wanton abuse of human rights in Kenya as police go on the rampage in the name of fighting terrorists or robbers? Western donors need to hold Kenyan police with the same standards they do theirs on human rights. Their silence means they value Kenyan lives less despite their arms and funding contributing to the problem rather than creating peace and security in Kenya. 
+
+No doubt, terrorism is one of the biggest challenges the world faces. But that does not mean countries suspend their human rights ethos as they fight it. Doing so leads to the miscarriage of justice that we keep witnessing in parts of the country as anyone profiled as a terrorist becomes a murder target for the police without due process of the law being followed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Impunity 
+
+Police dragging an unarmed man out of his house and shooting him to death only on suspicion of terrorism or robbery is the highest form of impunity. Such acts turn societies against each other and the citizens against law enforcement agencies. 
+
+Being nervous of the police or, indeed, the government, does not give the two bravado points but suggests further breakdown of law and order is in the offing as the citizens are bound to fight back. Police are pushing Kenyans’ back to the wall and that is a recipe for disaster. 
+
+Summonses are crucial in fighting crime. It is a tool that has been used effectively to get politicians to appear before the court or a disciplinary body to answer to misdemeanours. Why are they not being applied across the population? The government pretty much knows our whereabouts now more than ever before as technology has made it easier to collate data on citizens. 
+
+The ID, and now Huduma Namba, give perfect profiles of those whom police are interested in. Police can use the intelligence they have to arraign suspects in court rather than exterminate them. 
+
+Police should stop believing that crime — including terrorism — in poorer communities can only be resolved through use of brute force and live ammunition. Winning the hearts and minds of residents and the use of summonses are more effective crime control models than brutality. 
+
+kdiguyo@gmail.com. @kdiguyo The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
