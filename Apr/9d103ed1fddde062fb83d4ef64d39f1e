@@ -1,0 +1,81 @@
+Police recovered the suspected murder weapon which will be presented in court as exhibit.The suspect is expected to be taken to court tomorrow when open court session resumes. Police in Naivasha are holding a 26-year-old man who reportedly slashed his wife to death over Sh2,000 at Kosovo area in Naivasha. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A neighbour who spoke to Nation.Africa said the couple quarreled on Friday night before the shocking incident. 
+
+The 20-year-old woman is said to have used the cash without her husband's consent, an act that infuriated the man who picked a panga and slashed her several times.  
+
+“The husband was demanding that the wife explain how she used the money. This led to a heated exchange and the fatal incident," said the neighbour. 
+
+After the incident the suspect escaped to his birth place in Njoro, Nakuru County where police caught up with him on Sunday. 
+
+“He (the husband) alerted the wife’s relative about the murder before he fled,” said an officer at the heart of the ongoing investigations. 
+
+The couple had rented a semi-permanent structure at the far flung area and were engaged in farming. 
+
+Police recovered the suspected murder weapon which will be presented in court as exhibit. 
+
+The suspect is expected to be taken to court tomorrow when open court session resumes. 
+
+Machariamwangi2008@gmail.com Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
