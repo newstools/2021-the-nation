@@ -1,0 +1,159 @@
+Fighting in Sudan's restive Darfur has killed at least 18 people and wounded 54, medics said Monday, with witnesses reporting heavy fighting in the key city of El Geneina. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After clashes on the weekend, residents in El Geneina -- state capital of West Darfur, and close to the border with Chad -- said gunfire erupted in the city at dawn on Monday, with shells exploding in the suburbs. 
+
+Plumes of smoke rose high into the sky as people fled the violence, witnesses reported. 
+
+"The committee recorded 18 fatalities and 54 wounded, who are receiving medical care at El Geneina Teaching Hospital," the West Darfur Doctors' Committee said in a statement, citing clashes on Saturday and Sunday. 
+
+The committee, part of a nationwide independent body formed in 2016 representing the medical community, said an ambulance carrying wounded victims was attacked.Hospitals are still receiving victims, it added. 
+
+"On Monday, we woke up to the sound of gunfire," Abdelrahman Ahmed, an eyewitness, told AFP. "Clashes are still ongoing, and have spread to the western suburbs".It is unclear what sparked the latest violence. 
+
+The vast Darfur region was ravaged by a civil war that erupted in 2003, leaving around 300,000 people killed and 2.5 million displaced, according to the United Nations. 
+
+The conflict has subsided over the years, and the latest in a string of peace deals was agreed in October. 
+
+But clashes still erupt, often over land and access to water. 
+
+Eyewitnesses said fighting still raged on Monday afternoon, as thick smoke billowed over the town. 
+
+"We stayed in our homes, but we've been hearing gunfire close by -- a shell landed at our neighbour's home a short while ago," said Adam Issa, another resident. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+After years of conflict, the region is awash with automatic weapons. Clashes often pit nomadic Arab pastoralists against settled farmers from non-Arab ethnic groups. 
+
+"I live in the eastern part of the city, and I am seeing a cloud of smoke covering the western, southern and southwestern districts," said Saleh Issa, another El Geneina resident. 
+
+"Some residents from these neighbourhoods have fled towards our area -- most of are women and children," he added. 
+
+Sudan is in the midst of a rocky transitional period following the toppling of long-time president Omar al-Bashir in April 2019 off the back of mass protests against his rule. 
+
+The transitional government has pushed to build peace with rebel groups in Sudan's main conflict zones, including Darfur. 
+
+On December 31 last year, the UN and African Union ended a 13-year peacekeeping mission in Darfur, even as residents feared further violence. 
+
+More than 200 people were killed in clashes in January, in some of the worst bloodshed the region had witnessed in years. Covid-19: Country's largest referral hospital, Muhimbili, says it will keep using its steam booths. Intrusion of vested interests is the fundamental cause of crisis over appointments. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
