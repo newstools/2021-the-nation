@@ -1,0 +1,151 @@
+Regardless of the  ravaging virus, it is imperative that we look ahead because life must go onAs a result of the ban on all local sports activities, sponsors have taken a huge financial hit; with some even forced to cut down staffWithout sponsorship funds and limited government funding, our sportspeople will suffer a lot It’s now clear that Covid-19 will be with us for a long time, and we need to adjust to live with it. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The virus, which has wrecked havoc the world over, has taken a heavy toll on sportspeople. 
+
+Football clubs must have a sound plan to remain competitive in these uncertain times. It remains to seen if AFC Leopards have plans for the future. Regardless of the  ravaging virus, it is imperative that we look ahead because life must go on. 
+
+Following a fresh lockdown imposed by President Uhuru Kenyatta on March 26 due to a spike in Covid-19 cases in the country, there are fears that that some teams will close shop if the ban is not lifted as soon as possible. 
+
+The move has denied fans the opportunity to watch their favourite teams on TV, and organisers have started complaining. 
+
+Most leagues in the world are proceeding but without fans. Since they have TV viewers, they still earn an income. 
+
+The new lockdown is a heavy blow to players who were struggling to find their footing after the previous one last year in March. 
+
+Financial hit 
+
+The players were returning to some form of normalcy after months without pay and untold hardship. 
+
+As a result of the ban on all local sports activities, sponsors have taken a huge financial hit; with some even forced to cut down staff.  Sponsors who use TV to market their products cannot spend money on empty stadiums. 
+
+Without sponsorship funds and limited government funding, our sportspeople will suffer a lot. Athletes are staring at a bleak future after races were cancelled left, right and centre. 
+
+The government should create incentives for our athletes who are staying at home. Fans are eager to have the league restarted. We can’t blame the fans for spreading coronavirus because they have not been allowed into the stadiums. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some players are stranded because they are unable to pay hotel bills in Nairobi. Others can only afford one meal in a day because they have no income. 
+
+My humble appeal to President Uhuru Kenyatta is to reverse his directive on our football leagues and allow matches to resume. It will be very tough for teams to keep players without playing for their respective clubs. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
