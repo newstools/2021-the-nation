@@ -1,0 +1,273 @@
+Governor Roba said unless the national government and well-wishers steps in to save the situation, his administration will not be able to manage the crisis. Marsabit and Mandera counties are staring at imminent famine amid a ravaging drought. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+More than 10,000 households in Turbi Sub-county in Marsabit have been affected. This comes after one-and-a-half years of below-average rainfall. 
+
+Mr Katelo Ramata, a resident of Bubisa Location in Marsabit, said hundreds of pastoralist families are facing a difficult choice between feeding themselves or their animals. 
+
+“We’re staring hunger and possible death in the face if the situation does not improve,”Mr Ramata said. Smaller animals were first to die, followed by cows, donkeys and camels. 
+
+Most of the herders have been forced to leave their manyattas and travel for more than 170kms in search of pasture in Hurri Hills, North Horr and even neighbouring Ethiopia. 
+
+Entire livelihoods have been wiped out for families that rely on the livestock for meat, milk, transportation and trade. 
+
+The situation has been further aggravated by the Covid-19 lockdown as pastoralists are finding it difficult to transport their animals to Nairobi to avert further losses. Mr Ramata claimed that, over the last two weeks alone, over 1,000 goats and sheep have died. 
+
+
+
+
+
+
+Residents of Bubisa village in Marsabit County show the devastating effects of drought in this picture taken on April 4, 2021
+Photo credit: Jacob Walter | Nation Media Group
+
+ 
+
+Animals dying 
+
+During a visit to the area, the Nation witnessed carcasses of sheep and goats strewn in open fields in Bubisa. 
+
+Mr Ramata said livestock started dying two weeks ago, but the average daily loss of animals has surged over the past three weeks. 
+
+He attributed this to the depletion of pasture occasioned by the recent desert locusts invasion. 
+
+In Mandera County, the drought situation was worsening by the day, Governor Ali Roba said. 
+
+The governor said unless the national government and well-wishers steps in to save the situation, his administration will not be able to manage the crisis. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I take this early opportunity to appeal for help and support from the national government and request development partners and well-wishers to come to our aid to avert this looming humanitarian disaster,” he said at a press conference over the weekend. Mr Roba said the county is facing a serious food shortage. 
+
+
+
+
+
+
+Jerricans are lined up next to an underground water tank in Turbi Hills along Marsabit-Moyale road on March 6, 2015.
+Photo credit: File | Nation Media Group
+
+ 
+
+Relief food needed 
+
+At least 200,000 people are in dire need of relief food in a situation that has affected 30 percent of the county’s population, according to National Drought Management Authority (NDMA). 
+
+“We are in a crisis after the short rains of October-December season were below average in Mandera,” said NDMA county director Hussein Mohamed. 
+
+Mr Roba has revealed that his administration is unable to cope with the high demand for water by the residents in hard hit areas. 
+
+“The situation is dire and the county government cannot cope with the demand for water, livestock feed and food for vulnerable families and communities” he said. 
+
+Mr Roba added: “We need urgent help with food rations, livestock feed and nutrients and water trucking to overstretched areas within the county”. 
+
+He blamed the drought on the failed rains coupled with the locust invasion last year. It has been reported that households cannot cope with the high prices of food. 
+
+“The food prices have sky-rocketed due to recent increase in fuel prices and locking down of the five counties including Nairobi where most supplies come from,” he said. 
+
+
+
+
+
+
+A Mandera resident fetches water from a trench. The county’s residents have no access to clean water. 
+Photo credit: James Kahongeh | Nation Media Group
+
+ 
+
+Mitigation measures 
+
+Mr Roba said that, despite lacking enough resources, his administration has put in place several mitigation measures including water trucking to 312 settlements. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The county has rolled out a short term plan for drought emergencies including provision of water through water trucking, rapid response maintenance and the repair and rehabilitation of boreholes. 
+
+Mr Roba said his administration will continue drilling and equipping boreholes and buiding and rehabilitating water pans. The county government has hired additional 31 water bowsers to ensure uninterrupted water supply in hard hit areas. 
+
+In the past five months, 75 boreholes have been sunk in Mandera but only 51 have produced water while ten are yet to be equipped. Some 43,700 households have received relief food in the past two months. Pastoralists Community Initiative Development Association Programmes and Partnerships Director Wario Guy said immediate humanitarian assistance was needed in the area. 
+
+The NDMA Early Drought Bulletin of February 2021 indicated that most parts of Marsabit County generally remained dry with exception of parts of North Horr, Laisamis and Moyale sub-counties which received off-season rains. 
+
+The report indicated that vegetation cover also continued to deteriorate as compared to the past months. Oguna says situation likely to worsen if expected April rainfall is not enough. Governor Ali Roba says his county is facing serious food shortage occasioned by worsening drought situation. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
