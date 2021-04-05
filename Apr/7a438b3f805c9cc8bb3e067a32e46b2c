@@ -1,0 +1,163 @@
+John Ngugi Maina was profiled to have engaged in tens of murders, violent robberies, rapes, and peddling illicit brews and narcotics. Last Saturday, John Ngugi Maina, a man police had placed on their “wanted” list, sneaked into his wife’s bed at 2am, expecting to spend the night with her. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But, as it turned out, he was being watched by a number of residents who wanted to win the Sh50,000 bounty police had placed on his head. 
+
+Maina has been on the police radar for more than two years for allegedly establishing a criminal network in Murang’a christened Jeshi ya Gaica. 
+
+He was profiled to have engaged in tens of murders, violent robberies, rapes, and peddling illicit brews and narcotics. On the fateful night, police received crucial information that the wanted man was in his wife’s house and pounced on him. 
+
+He had attracted attention of residents when he sauntered into his house, drunk and singing. 
+
+Dragged out of bed 
+
+Murang’a South Police boss Anthony Keter confirmed the 2am arrest at the suspect’s home in Maica Ma Thi village where they dragged him from under his matrimonial bed. 
+
+“Alcoholism is not a good thing but this is one moment that we as a police unit are unreservedly appreciating it,” he said. “The suspect had sneaked in to check on his wife while drunk and as he approached the gate to his home, he started singing war songs in his drunken stupor. That is how we were tipped that our target was around.” 
+
+Mr Keter said the suspect slid under the bed and attempted to dislodge bricks from the wall to find an escape route. At least five people made calls, tipping the officers about the suspect and the first caller was rewarded with bounty, according to Mr Keter. 
+
+However, he said a consolation reward of Sh2,000 each was made to the other four “just to show them appreciation for their commitment to the rule of law in the principle of community policing.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Before his arrest, police had on Tuesday confronted the suspect as he administered an illegal oath to three young men into his gang. 
+
+“We fired a shot at him when he took a bow and arrows to confront my officers. In our restraint to fatally confront him, he escaped and we arrested the three lads he was indoctrinating into his gang aged 14, 17 and 19 years,” Mr Keter said. 
+
+Arrest celebrated 
+
+News of his arrest was greeted withjoy in the village as politicians led by Ichagaki ward rep Charles Mwangi terming it “a major breakthrough in security” in the area. He said the suspect had become the word and the law to extent of threatening area assistant chief to never be seen patrolling Maragua town, terming it as his territory. 
+
+Maina had captured media headlines for his daring attacks in the town. 
+
+Murang’a County Commissioner Mohammed Barre on Sunday told the Nation that the gang had been profiled to have 15 leaders. 
+
+“So far, 12 of them are serving various sentences in jail after we won convictions against them for the past one month. We were remaining with three and now we have the commander in our custody. That leaves us with the task of apprehending the two remaining co-leaders,” he said. 
+
+Mr Barre identified the two as Abraham Nduba and Peter Njeri, saying the officers will not relent until they are arrested. 
+
+He said the suspect will be arraigned on Wednesday to face capital-offence charges. 
+
+mmuiruri@ke.nationmedia.com Detectives question speed at which boda boda operators identify motorbike thieves. Security authorities say he is currently in Somalia planning an attack on Kenya. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
