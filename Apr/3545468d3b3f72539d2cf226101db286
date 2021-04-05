@@ -1,0 +1,226 @@
+The Clippers got a game-high 22 points from Marcus Morris while all-stars Kawhi Leonard and Paul George finished with 19 and 16 points respectively at Staples Centre arenaZach LaVine scored a game-high 25 points as the Chicago Bulls snapped a six-game losing skid with a 115-107 win over the under-manned Brooklyn Nets in ChicagoWithout injured starters Kevin Durant and James Harden, the Nets looked out of sorts in having their four-game win streak halted Los Angeles 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Los Angeles Clippers didn't have to lean heavily on their superstar duo against the defending NBA champions on Sunday, getting help from their supporting cast in a 104-86 rout of the short-handed Los Angeles Lakers. 
+
+The Clippers got a game-high 22 points from Marcus Morris while all-stars Kawhi Leonard and Paul George finished with 19 and 16 points respectively at Staples Centre arena. 
+
+Luke Kennard tallied 15 points off the bench and guard Rajon Rondo made his Clippers' debut, playing 13 minutes in the win which comes in the middle of a nine-game homestand. 
+
+"We were great defensively. We set the tone early. We were physical and we got into bodies," said Clippers coach Tyronn Lue. 
+
+Kennard and Terance Mann have stepped in nicely to fill the void left by an injury to starting guard Patrick Beverley. Mann finished with seven points. 
+
+Lue was pleased with what he saw from Rondo who finished with two points and two steals in limited playing time. 
+
+"He going to be good for us in the long run. He makes the game easier. It is just good to see him out there," Lue said. 
+
+Marc Gasol with 11 points was the only starter to finish in double figures Sunday for the Lakers, who are without the injured LeBron James and Anthony Davis. 
+
+Reserve Montrezl Harrell scored a team high 19 for the Lakers who have lost six of their last 11 games. 
+
+Daunting road trip 
+
+It doesn't get any easier for the Lakers. Sunday's defeat was their final home game before embarking on a five-game road trip that begins Tuesday against the Toronto Raptors, who crushed Golden State by 53 points, 130-77 on Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We didn't handle their defensive pressure well at all," said Lakers coach Frank Vogel of the Clippers. "We had a tough shooting night. Tough shooting night at the rim, missed nine layups  and 21 shots in the paint." 
+
+The loss of James and Davis has jolted the Lakers season.  
+
+James has been out two weeks nursing a right, high-ankle sprain suffered on March 20 against the Atlanta Hawks. Davis has missed over two dozen games this season, the last 22 due to a strained right calf.  
+
+They tried to fill the void by signing centre Andre Drummond, but he has not played since injuring his toe in his Laker debut last Wednesday. 
+
+Elsewhere, Zach LaVine scored a game-high 25 points as the Chicago Bulls snapped a six-game losing skid with a 115-107 win over the under-manned Brooklyn Nets in Chicago. 
+
+Tomas Satoransky finished with 19 points and 11 assists, centre Nikola Vucevic tallied 22 points and 13 rebounds for the Bulls who gave their playoff hopes a much needed boost at United Center arena. 
+
+Thaddeus Young had 12 points, Patrick Williams scored 11 and Daniel Theis added 10 for the Bulls, who overcame a slow start with a spirited second quarter in which they outscored the Nets 32-18. 
+
+Without injured starters Kevin Durant and James Harden, the Nets looked out of sorts in having their four-game win streak halted. They dropped to 34-16 on the season. 
+
+The Nets had six players in double figure scoring including Kyrie Irving, who finished with 24 points and a season high 15 assists. 
+
+Jeff Green came off the bench to score 21 points while LaMarcus Aldridge and Joe Harris scored 11 points apiece and Blake Griffin and Bruce Brown each had 10. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
