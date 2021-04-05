@@ -1,0 +1,157 @@
+More than 11,000 civilians are known to have fled Palma in recent days, according to the UN. Maputo, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mozambique's military said Sunday a "significant" number of militants had been killed during a battle over a key northern town and gas hub captured by the Islamic State last month. 
+
+Palma was seized by the jihadists during coordinated attacks on March 24, in what was seen as the biggest escalation of the insurgency ravaging the north of the African nation since 2017. 
+
+The true death toll is not yet known, but thousands were displaced from the town of some 75,000 and the French energy giant Total suspended operations at its multi-billion-dollar plant. 
+
+On Sunday, the army escorted officials and journalists through the ravaged town, claiming a "significant" number of militants had been killed, and that they had now secured the surrounding area. 
+
+Commander Chongo Vidigal, leading the military operation to regain control of the town, said the area was "safe" -- but fell short of declaring the army had regained control. 
+
+"The airfield area was the only one we needed to clear and we did that this morning. It's completely safe," Vidigal said. 
+
+"I think that it is a significant number of terrorists who were shot down," he said, adding they would clarify the exact number later. 
+
+Many civilians killed 
+
+Last week, the government said dozens of civilians had died during the fighting, but Vidigal said they had not finished counting the bodies. 
+
+In the first footage of the aftermath, state television broadcast videos of soldiers hastily pulling black plastic sheets over the dead on the streets. 
+
+A few civilians were collecting bags of grain, while one man was shown trying to clear a destroyed stall. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The town's hospital was destroyed, as were commercial banks and the state prosecutor's office. 
+
+Vidigal said the Total gas plant, which the company abandoned on Friday, was secure. 
+
+"The facilities are safe, they are protected," he explained. 
+
+Total pulled out its staff on Friday, while the United Nations suspended civilian evacuation flights over security concerns. 
+
+More than 11,000 civilians are known to have fled Palma in recent days, according to the UN. More than 8,000 were displaced, dozens killed and many more are still missing following a coordinated attack on the town of Palma on March 24. Palma is now a ghost town, with the remains of the dead laying in its streets. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
