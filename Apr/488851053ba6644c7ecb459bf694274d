@@ -1,0 +1,153 @@
+The cold war between Nairobi and London has now resulted in the suspension of Kenya Airways’ flights between the two countries from Friday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes two days after the government banned all flights from the UK, effective April 9, in response to London’s move to bar Kenyans from its territory over the spike in Covid-19 cases. With more travellers rushing to beat the deadline, KQ has added two flights to the UK tomorrow and Thursday. 
+
+The ‘Red List’ 
+
+With the suspension being indefinite, those affected have been asked to either change their bookings for later travel or ask for a refund with all penalties waived. All tickets must, however, be utilised before March 31 next year. 
+
+The tiff between the two countries began last Friday when the UK added Kenya to its ‘red list’ amid concerns about new Covid-19 variants, and banned passengers from Nairobi. Kenya now joins its neighbours Tanzania and Somalia on the UK’s red list. 
+
+“Of the average 550 people that travel from Kenya to the UK each week, a significant number are testing positive on Day 2. Nearly a third of those testing positive have been carrying the B 1.352 variant which originated from South Africa,” the British High Commission said. 
+
+Following this, London stated that only British, Irish and third country nationals with residence rights in the UK will be allowed. Nairobi termed the announcement a “regrettable decision”. 
+
+“The decision will have deep and far-reaching consequences on the Kenya-United Kingdom trade, travel, tourism, security cooperation among other sectors,” the Ministry of Foreign Affairs said. 
+
+This diplomatic response was followed by Kenya suspending all passenger flights between the two states. The suspension is to be reviewed within four weeks. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vaccination certificate 
+
+In addition to having a valid Covid-19 negative PCR test certificate, anyone coming to Kenya from the UK must have a valid vaccination certificate, failure to which they will be subjected to 14 days mandatory quarantine on arrival at their own cost. 
+
+However, travellers below the age of 18 will only require a certificate of Covid-19 negative PCR test to enter Kenya. “Kenya remains of the opinion that in solidarity and in seeking to build back from the pandemic, the Government of the United Kingdom would have offered support to Kenya through the provisions of vaccines,” the Kenyan government stated. 
+
+Shortly after the Ministry of Foreign Affairs issued its new requirements, the British High Commission promised to inform their citizens on the way forward. 
+
+“We will be factually updating our Travel Advice for those travelling to Kenya in light of the statement by the Ministry of Foreign Affairs,” the UK said through its official twitter account. 
+
+The national carrier, KQ, has asked its guests to check their fights or manage their booking through its website, their travel agents or the Kenya Airways Contact Centre on +254203274747 or write to Customer.Relations@Kenya.Airways.com.  The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. London says its decision was informed by “scientific evidence” based on tests from arrivals from Kenya. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. Mr Lukwago was then evacuated from the venue.
