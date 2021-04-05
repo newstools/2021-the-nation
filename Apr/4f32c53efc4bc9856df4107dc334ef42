@@ -1,0 +1,297 @@
+Under the law, mobile network operators can only share information regarding their subscribers after being served with a court order, which must be specific about the kind of data to be released.  If you thought that phone call you made discreetly or the mobile cash transaction you approved was out of the reach of law enforcement agencies, then think again. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Crime busters are having an easy time accessing all your call, text and mobile money records from telecommunication companies.   
+
+The courts are, however, increasingly frowning upon the detectives’ snooping tactics, which are also exposing the telcos to privacy violation suits. 
+
+Under the law, mobile network operators can only share information regarding their subscribers after being served with a court order, which must be specific about the kind of data to be released. 
+
+But the Nation has established that the Directorate of Criminal Investigations (DCI) has agents embedded in telcos, who at times access subscriber data without court orders. 
+
+Much like many other legal decisions, the admissibility of such data in court has split judges, as some prosecutions have proceeded, while others have seen suspects set free and shielded from arrest on the strength of how their private data was obtained. 
+
+Robbery incident 
+
+Mr Donald Atema Sipendi was arrested in 2011 for allegedly robbing Ms Maureen Kebenei of valuables worth Sh21,000 and threatening her with violence in Nakuru. 
+
+Mr Joseph Wekesa, a police officer in Nakuru, walked into one of the telecommunications company’s care centre and asked the attendants to trace Ms Kebenei’s phone, as part of the investigation into the robbery. 
+
+Read: New anti-snooping message software on Android 
+
+Mr Allan Mboche, another officer at Menengai Police Station, told the court that he asked the telco to release data on the stolen phone. 
+
+The firm supplied Mr Mboche — through Mr Wekesa — with a printout of incoming and outgoing calls that were used to track Mr Sipendi. During the arrest, Mr Sipendi also had a pen that Ms Kebenei claimed was in her purse. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The two had been in a matatu with Ms Kebenei just before the robbery. 
+
+Mr Sipendi was handed the death sentence alongside Kennedy Engeki. 
+
+In 2019, High Court judge John Mativo released Mr Sipendi upon appeal. 
+
+The judge found that the call records had been obtained illegally, which watered down the evidence that prosecutors had against Mr Sipendi. 
+
+In 2015, the Court of Appeal released Mr Alex Ngoko, a robbery with violence suspect who had been convicted on the strength of phone call and mobile money transaction records that the police obtained illegally. 
+
+Mr Ngoko had been accused of robbing a mobile money agent, Millicent Akinyi, of two mobile phones and other personal items valued at Sh34,000 on January 13, 2013 in Homa Bay. Neither Mr Ngoko nor the magistrate who initially heard the case dwelled on the admissibility of the phone data in court. 
+
+The evidence was incriminating, as it showed that Mr Ngoko received money from Ms Akinyi’s mobile cash agency. But it had been obtained illegally, which forced the appellate court to release Mr Ngoko. 
+
+Section 65(8) of Evidence Act 
+
+“One issue has caused us anxiety and it is whether the statements from (the telecommunications firm) produced by PW 8 could be relied upon to prove the case against the appellant. We have reviewed the proceedings and it is clear that neither the prosecution nor the learned magistrate paid attention to the admissibility of the statements and the need to comply with the provisions of Section 65(8) of the Evidence Act.” 
+
+Read: Big Brother could start tapping your calls, texts from next week 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“In our assessment, the case against the appellant could not be proved without production of the computer-generated statements of account from (the telecommunications firm) connecting the complainant's mobile money agency account…,” the Court of Appeal said before releasing Mr Ngoko. 
+
+In several cases where police obtain phone data irregularly, prosecutors are unable to defend the evidence as they lack an authentication certificate and information proving that the computer used to print them is legitimately in operation. 
+
+That loophole has seen several cases dismissed — and in the larger scheme — denied justice to victims of crimes as serious as murder and corruption. 
+
+Aside from the bungling of cases, court proceedings have confirmed that there are several law enforcement officers planted in telcos to spy on suspects, a move that has opened the door for abuse of one of Kenya’s most sensitive information storage spaces. 
+
+The Nation has seen at least 10 court files detailing how DCI detectives are seconded to telecommunication firms, where their work is to provide call and phone data to investigators.  
+
+These are private companies, which gives them the freedom to hire workers based on their own policies. 
+
+The presence of security agents in telcos with access to the private data of millions of subscribers raises legal red flags. 
+
+Mr Duncan Okatch, a lawyer with experience in policy and governance, said the move is illegal and could expose both the State and telcos to huge payouts arising from privacy violation suits. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“That is a big problem because nobody is allowed to access those records, however they wish. A court order must be produced, and it must be specific to the kind of information to be released. That position has not changed in law. If you obtain any information illegally, it ruins your case,” said Mr Okatch. 
+
+Serious breach 
+
+“Telecommunication firms are private entities. There is no way the DCI can have an officer attached there. The companies can hire officers to liaise with them for security purposes, but they cannot have unfettered access to people’s private data. The companies have a duty to protect their clients. Allowing officers access to such data is a serious breach,” he added. 
+
+The firm mentioned in court cases was yet to respond to our queries on the presence of DCI officers in their offices and with access to private data by the time of going to press. 
+
+But court papers reveal that there could be DCI officers in every office of telecommunication firms that stores subscriber data. 
+
+Several cases were in different towns across the country, but had affidavits from DCI officers who admitted to accessing subscriber data. 
+
+The documents also show that some of the detectives are posted in the telcos as ‘liaison officers’ under the security departments. 
+
+bwasuna@ke.nationmedia.com There are concerns that DMS might be used to intercept calls and text messages. Anonymous: To exchange information, terrorists have exploited disposable cellular phones and Internet cafes The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
