@@ -1,0 +1,171 @@
+Of the new patients, 446 were Kenyans and 14 foreigners 250 male and 210 females.Cumulative fatalities in the country now stands at 2,244 after 20 more deaths were reported in the last 24 hours. Kenya has recorded 460 new Covid-19 cases from a sample size of 2,753 tested in the last 24 hours, bringing the total number of confirmed cases to 139,448. This represents a positivity rate of 16.7%. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Of the new patients, 446 were Kenyans and 14 foreigners 250 male and 210 females, the youngest is a seven-month-old and the oldest 89. 
+
+Distribution of  Monday's positive cases by age are zero- nine years (14), 10-19 years (17), 20-29 years (66), 30-39 years (111), 40-49 years (98), 50-59 years (73), 60 and above (81). 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Nairobi county had the highest number of infections from Monday’s new cases with 295 followed by Kitui 62, Machakos 29, Kiambu 28, Nyeri 12 and Nakuru 12. 
+
+Kajiado had nine cases followed by Kilifi four, Mandera three, Laikipia two and Meru, Mombasa, Nyandarua and Kakamega each one. 
+
+Meanwhile, Covid-19 death toll on Monday grew by 20 to 2,244, however the Health ministry noted that only one was recorded in the last 24 hours.  
+
+Total fatalities 
+
+Health Cabinet Secretary Mutahi Kagwe said 10 deaths occurred over the last one-month while nine were late death reports from the audit of facility records, that took place on various dates. 
+
+In terms of age the total fatalities are as follows: Zero-nine years (45), 10-19 years (17), 20-29 (91), 30-39 years (199), 40-49 years (312), 50-59 years (495), 60 years and above (1,062). 
+
+The CS further announced the recovery of 178 more patients, 99 from various hospitals while79 are from home-based isolation and care, raising the total recovery to 94,361. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+As of Monday, 1,590 patients had been hospitalised, 200 of them being in the intensive care unit. Of those in ICU, 40 were on ventilatory support, 130 on supplemental oxygen and 30 under observation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Another 240 patients were separately on supplemental oxygen, 223 of them being in general wards and 17 in high dependency units. 
+
+The number of patients in the home-based care programme stood at 5,998. Ministry also reports recovery of 533 patients, pushing total recoveries in the country to 94,183. The number of confirmed infections since last March has increased by 1,184 to 138,077. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
