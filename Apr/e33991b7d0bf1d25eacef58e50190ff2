@@ -1,0 +1,85 @@
+It is suspected the girl may have been defiled by her attackers in Nyamanji East location.The girl recently sat KCPE exams at Got Rateng' Primary School and was waiting for the results. A Class Eight pupil from Homa Bay County who went missing a week ago has been found murdered and her body dumped in a thicket near a water pan. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The decomposing body of Marry Achieng' was discovered by a group of villagers in Waiga B Village on Sunday. 
+
+The body had burns indicating the attackers could have splashed a corrosive chemical on her before escaping. 
+
+Achieng' recently sat KCPE exams at Got Rateng' Primary School in Nyamanji East Sub Location and was waiting for the results. 
+
+It is suspected that the pupil may have been defiled by her attackers who then murdered and dumped her body in the thicket. 
+
+Failed to return home 
+
+Nyamanji East Sub-location assistant chief Charles Odongo said the pupil went missing on Monday last week.  
+
+Her father Mr Alex Ojuang reported that her daughter went to a local dispensary for medical check-up but failed to return home. 
+
+"We are yet to establish who committed the offence. We suspect the girl was defiled then murdered. The suspects could have poured acid on the body," Mr Odongo said. 
+
+Mbita Sub-county Police Commander Charles Mwangi confirmed the incident. He said detectives are following crucial leads in the investigations. 
+
+Nominated MCA Sophie Salim asked police to speed investigations and ensure the suspects are arrested and arraigned. 
+
+The body was taken to Homa Bay County Referral Hospital mortuary for postmortem examination. Local secular artiste arrested following the death of her husband during a physical fight at their Kahawa Wendani home. At night, Kajiado is teeming with murderers, who go there to torture and kill their victims, or to dump bodies. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
