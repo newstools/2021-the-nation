@@ -1,0 +1,157 @@
+Going by the recent media focus on KTDA, it is apparent that the government is keen to improve the affairs of tea farmers and the lucrativeness of the industry. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There is a need for sobriety among the parties to develop far-reaching proposals that will not only change the leadership, as suggested, but also the desired fattening growers’ purses. 
+
+From my basic understanding of how KTDA works, I’m of the view that the model has worked fairly well since its privatisation in 1999. You can’t separate a KTDA director from a tea farmer. 
+
+Farmers own the factories they sell their tea leaves to through equity shares. They decide who sits in the factory board through elections. The directors are elected for a three-year term. Joint factory boards then elect one of them at the zonal level to sit on the KTDA board. 
+
+KTDA then plays the role of an aggregator: Capital mobilisation, value addition, marketing (local and global) and management (operational and strategic). In return, it charges a management fee of 2.5 per cent of the tea revenue from the factory. 
+
+Where the government should pay more attention to the KTDA model is that fee — its fairness and sustainability. Secondly, KTDA has several related parties. A KTDA director could sit on another related board, creating conflict of interest. This can be verified through the beneficial ownership information of KTDA and its related parties with the Registrar of Companies, as well as a scrutiny of tea brokerage firms. 
+
+Daniel Mureithi, Kiambu 
+
+* * * 
+
+President Kenyatta issued an Executive Order on March 12 directing the Tea Board of Kenya to conduct elections in all tea factories within 60 days, which KTDA officials have challenged in court. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Agriculture CS Peter Munya must not give in to their demands because even the Tea Act paved the way for the elections. 
+
+David M. Kigo, Nairobi 
+
+* * * 
+
+Contrary to Jerry Kenyansa’s letter, KTDA is a farmer-owned organisation where elected directors in every factory represent the views of the shareholders. 
+
+Before making any change to the business model, KTDA engages the farmer and directors, who are also farmers, to give the go-ahead. The bottom-up structure is what has powered the success of the small-holder tea industry. 
+
+ KTDA does not engage in price manipulation as he alleged. Most teas are sold at the Mombasa auction in an open and transparent manner, where forces of supply and demand rule. Upstream, prices are determined by quality, which is based on climate, ecology, crop husbandry and soil type. 
+
+The auction is run by an independent entity comprising diverse players in the industry, locally and abroad, with its own rules and governance structures. 
+
+Egadwa Mudoga, corporate communications manager, KTDA The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
