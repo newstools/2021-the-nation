@@ -1,0 +1,169 @@
+Not for the first time this season, United needed a second-half fightback after a dismal first 45 minutes to take all three points thanks to goals from Marcus Rashford and Mason GreenwoodDanny Welbeck deservedly opened the scoring for the Seagulls against his old club before Lewis Dunk hit the crossbar for the visitorsVictory opened up an 11-point cushion for the Red Devils over fifth-placed Tottenham and Liverpool in their quest to qualify for next season's Champions League London  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester United came from behind to beat Brighton 2-1 on Sunday to cut Manchester City's lead at the top of the Premier League to 14 points, while Tottenham's top-four challenge suffered a setback as Joe Willock's late strike rescued a 2-2 draw for lowly Newcastle. 
+
+Not for the first time this season, United needed a second-half fightback after a dismal first 45 minutes to take all three points thanks to goals from Marcus Rashford and Mason Greenwood. 
+
+Danny Welbeck deservedly opened the scoring for the Seagulls against his old club before Lewis Dunk hit the crossbar for the visitors. 
+
+However, Brighton also repeated the story of their season as they failed to make the most of their dominance before the break. 
+
+Rashford slotted home an equaliser on 62 minutes from Bruno Fernandes's pass to reward United's marked improvement. 
+
+Fernandes was involved again for the winner as his cross was volleyed back across goal by Paul Pogba and into the path of Greenwood to head home just his second league goal of the season. 
+
+United's chances of chasing down City look forlorn with the runaway league leaders needing just 11 points from their remaining seven games to seal a third title in four years. 
+
+But victory opened up an 11-point cushion for the Red Devils over fifth-placed Tottenham and Liverpool in their quest to qualify for next season's Champions League. 
+
+'Same coach, different players' 
+
+Spurs were left to rue letting another lead slip away at St. James' Park. 
+
+Jose Mourinho's side were just five minutes away from moving into fourth place thanks to Harry Kane's first-half double. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Joelinton had put Newcastle ahead and Steve Bruce's men were rewarded for a much-improved performance when on-loan Arsenal midfielder Willock smashed in off the underside of the bar five minutes from time. 
+
+Tottenham edge ahead of Liverpool on goal difference but are still two points behind fourth-placed Chelsea with eight games left. 
+
+"I'm frustrated. We needed to win the match. We created some instability with so many individual defensive mistakes that we made," Mourinho said. 
+
+Asked why Tottenham have struggled to hold onto leads when his teams have been so solid defensively in the past, Mourinho replied: "Same coach, different players. 
+
+"The Premier League is hard and is high-level football, and when in some actions you don't show that you belong to that high level of football, it's difficult." 
+
+Willock's goal could prove invaluable for fourth-bottom Newcastle as they moved three points clear of Fulham, who were beaten 3-1 at Aston Villa. 
+
+Fulham looked set to move out of the drop zone when Aleksandar Mitrovic pounced on a loose pass by Tyrone Mings to score his first league goal since September. 
+
+Villa had looked devoid of ideas without talisman Jack Grealish due to injury. 
+
+But Dean Smith's men suddenly sparked into life to score three times in the final 12 minutes. 
+
+Egyptian winger Trezeguet came off the bench to score twice in three minutes to turn the game around. 
+
+Ollie Watkins then tapped home from Bertrand Traore's cross to round off the scoring. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
