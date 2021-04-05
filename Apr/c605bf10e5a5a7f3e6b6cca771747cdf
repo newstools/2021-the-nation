@@ -1,0 +1,105 @@
+Police in Mombasa County are holding a man caught on tape torturing a man for allegedly stealing from Ajab Mills in Shimanzi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Swabir Mohamed, a security supervisor at Ajab Mills, is being detained at Urban Police station pending arraignment on Tuesday. He recorded a statement on Monday morning. 
+
+Confirming the arrest, Urban divisional police commander (OCPD), Mr Eliud Monari, said the man was arrested based on a video clip that went viral. 
+
+“He was seen subjecting a member of the public to torture, which attracted a public outcry. He was found, is in our custody and has to face the law,” Mr Monari said. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Man caught on tape torturing a man in Mombasa arrested
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+The OCPD said they were still piecing evidence to use in court even as they looked for the complainant. 
+
+He said the video was recorded sometime in September 2020 but that the incident was not reported until Monday, when it surfaced. 
+
+“The information we have received so far indicates that the incident took place at Ajab within Shimanzi. We are carrying out investigations before he is arraigned,” he said. 
+
+Mr Monari urged the public not to take action despite having the power of citizen arrest. He said they should always hand suspects over to police and use minimum force while dealing with them. 
+
+“Even if he had committed a crime, the suspect manhandled him. He did not act according to the law. There are ways to handle suspects - the humane way,” he said. 
+
+He noted that the courts were established for the pursuit of justice. 
+
+bwachira@ke.nationmedia.com Police say Henry Wanga Aura died by suicide but residents allege brutality by police officers. Police said a motorcycle, a stained knife and hammer was recovered from the scene. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
