@@ -1,0 +1,167 @@
+ Every year, young people graduate from colleges and universities in their hundreds of thousands with great hopes of finding jobs related to their fields of study. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For many, that dream has remained a mirage. Since independence, millions of Kenyan youths are jobless. 
+
+This has led to the belief that for one to get employed, they must have connections. 
+
+To a certain extent, I think this is true. 
+
+I know of a neighbour who works in a senior position at the Kenya Defence Forces and who has five of his sons working in the same establishment. Every year, many youths in our neighbourhood present themselves for recruitment in the KDF and go through rigorous trials at the local stadium. 
+
+However, since they do not have anyone “who knows them”, they don’t get selected. 
+
+The elite in our country want to convince us that the observation above is a mere stereotype, but to me, this is the reality. 
+
+Regret letters 
+
+My father, who struggled to get an education, has not been successful in getting a job. 
+
+He narrated to us how his classmates got jobs even before they graduated from school just because they had “connections”. 
+
+He also showed us a carton full of regret letters from different companies where he had applied for a job, saying there are no vacancies, yet those firms continue to hire on a regular basis. 
+
+Nepotism in our country, though viewed as a stereotype, is a sad reality. The effects of nepotism is visible across our society, in that we have the wrong people in the right jobs who are messing up our institutions. 
+
+For instance, we have thousands of unqualified people in charge of our national security, criminal justice system and defence. 
+
+All they needed was to know someone and to bribe their way into the police service, and the military and we, the taxpayers, are the ones now paying the price of their incompetence. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Investigations into crimes are being mishandled every day and millions of cases are collapsing in court because of these incompetent officers. 
+
+Quacks 
+
+In the end, thousands of families have been denied justice. 
+
+In our hospitals, we have quacks operating on patients and many lives have been lost under their care due to wrong diagnoses. 
+
+I strongly believe that nepotism, favouritism and corruption are cancers that are finishing us and need to be fought from all fronts. 
+
+Please play your part. Stop favouring your friends, cronies and relatives while hiring. 
+
+May merit be your shield and defender. 
+
+Are you aged 10-20 and would like to be Nation’s young reporter? Email your 400-600-word article to diversity@ke.nationmedia.com Politicians are allegedly fuelling clashes between the Gabra and Borana communities in Marsabit County for selfish gains. Rutere says NCIC should ensure all politicians found culpable are prosecuted. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
