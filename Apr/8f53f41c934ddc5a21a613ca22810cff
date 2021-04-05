@@ -1,0 +1,229 @@
+The Kajiado gubernatorial race has caused political ripples, with a section of pastors from Kajiado East finding themselves at the epicentre of murky waters of politics under clan politics. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Friday, a section of pastors are said to have been hosted by Kajiado East MP Peris Tobiko in her Irpolosat home in a highly-secretive political meeting. 
+
+An insider has intimated that the clergy were bestowed with the responsibility of prevailing upon former Governor David Nkedianye to support her gubernatorial bid. 
+
+Ms Tobiko is quoted as having said that current Governor Joseph ole Lenku and Kajiado South MP Katoo ole Metito, who is also eyeing the governorship position, come from the same minority sub-clan — Ilkisongo — and that she is  also in talks with Mr Katoo to support her. 
+
+Ms Tobiko, Mr Nkedianye and Mr Katoo come from the larger Oldomongi clan, while Mr Lenku comes from the Olkiteng clan. 
+
+“Mheshimiwa Tobiko is seeking our support in her governorship bid. She believes Dr Nkedianye may listen to the clergy and shelve his ambition to recapture the seat in support of Ms Tobiko,” said a pastor who attended the meeting. 
+
+Efforts to reach Ms Tobiko regarding the meeting were, however, unsuccessful as she did not answer her phone or responded to a text message. 
+
+Mr Metito leans towards Jubilee Party’s Tangatanga faction associated with Deputy President William Ruto, while Ms Tobiko, though on the periphery, tilts towards the Kieleweke wing, which supports President Kenyatta. 
+
+Political pundits say clan politics might take centre stage, with Mr Metito’s Ilkisongo sub-clan accusing him of betraying Mr Lenku. 
+
+Political pact 
+
+Ms Tobiko is said to be working on a political pact with other leaders to square it out with Governor Lenku in 2022 elections. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She is said to be seeking to establish a formidable ‘political centre of power’ in Kajiado East that might see some local political heavyweights thrown under the bus before the 2022 elections. 
+
+ Fifteen months to the General Election, Muungano, a political pact consisting of Ms Tobiko, Dr Nkedianye, former Kajiado Senator Peter Mositet and former Nairobi County Speaker Alex Magelo has collapsed. 
+
+Ms Mositet and Mr Magelo bolted out after landing government appointments. They currently pitch tent in Governor Lenku’s camp. 
+
+But Ms Tobiko insists she is the best candidate to oust Governor Lenku, thus seeking Dr Nkedianye’s endorsement. 
+
+Speaking at Kiloh Primary School recently when presiding over an NG-CDF project, the second-term MP said it is impossible for Dr Nkedianye to beat Mr Lenku on the ballot. 
+
+“Surely, what magic will you use to oust a person who wrestled a seat from you? I’ve voted for him (Dr Nkedianye) in two consecutive elections. It’s my turn now,” Ms Tobiko said. 
+
+However,Dr Nkedianye downplayed any political plan to endorse Ms Tobiko or any other candidate, saying he is preparing the ground for his 2022 gubernatorial bid. He steered clear of clan politics. 
+
+"Some politicians who benefited politically under my umbrella are busy saying they helped me. It sounds strange, but I won’t be swayed by their empty rhetoric. My constituency is intact and I’m upbeat on winning,” he said. 
+
+When reached for comment, Mr Lenku termed the move by some of his competitors as ‘clan balkanisation and division of the Maasai community’. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He urged his competitors to shun divisive politics that can polarise the county. Attempts to reach Mr Metito were futile. 
+
+Others in the gubernatorial race include former defunct Ole Kejuado County Council Chairman Taraiya ole Kores and former NTSA boss Francis Meja. Reiterating his ambition to become Kenya’s fifth President, the Amani National Congress (ANC) leader has asked the community to support him. Kajiado Governor and a section of leaders from the Maa community endorse BBI report The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
