@@ -1,0 +1,256 @@
+The demolished structures comprised mostly multi-storey buildings.The affected individuals said they were not given any eviction notice. More than 5,000 residents of Nairobi's Njiru area have been left counting losses with ongoing demolitions in the area by the government to pave way for development projects. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The bulldozers descended on the houses leaving a trail of rubbles and debris in its wake as residents tried in vain to salvage the little they could. 
+
+Some of the affected homeowners watched helplessly from afar as their houses went down as it was too late to rescue anything. 
+
+The structures comprised mostly multi-storey buildings with some of them not even moved into while others construction at different stages. 
+
+"I had just completed building the house and not even moved in and it is now gone," said one of the affected homeowners. 
+
+No eviction notice 
+
+The affected individuals said they were not given any eviction notice and were caught by surprise to see the bulldozers descending on their houses. 
+
+The demolitions come less than a year after similar destruction of structures in Kariobangi North estate that left more than 5,000 residents homeless after the government demolished their houses to reclaim the land. 
+
+
+
+
+
+
+One of the many residential houses that have been brought down in the ongoing demolition exercise in Nairobi's Njiru area on April 5, 2021.
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+The then demolitions were supervised by police and was blamed on the Nairobi City Water and Sewerage Company. The government said the demolitions were done after expiration of an earlier notice to vacate the land. 
+
+Makadara MP George Aladwa condemned the inhumane demolitions in Njiru, saying the national government has the constitutional responsibility to ensure that citizen rights are protected and every Kenyan is accorded equal treatment as per the law. 
+
+Left homeless 
+
+He pointed out that hundreds of people have now been left homeless and some injured with relevant authorities giving a blind eye to their cries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Aladwa said it is worth noting that similar evictions happened last year in Ruai and Kariobangi and the majority of the victims are still homeless. 
+
+He said the demolitions will hit the residents hard at a time when Kenyans are battling the hard-economic times brought about by Covid-19. 
+
+
+
+
+
+
+One of the many residential houses that have been brought down in the ongoing demolition exercise in Nairobi's Njiru area on April 5, 2021.
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+"How will the affected look for new homes at a time when the same government has restricted movement?" posed Mr Mr Aladwa. 
+
+He implored President Uhuru Kenyatta to halt the demolitions and evictions until such a time when the country is through with the troubles of Covid-19. 
+
+Counting huge losses 
+
+"While I welcome all the intended development projects in our sub-county from both the county and national government, it is hard to understand the motivation behind evicting people from their homes at a time when the President has announced cessation of movement in and out of Nairobi," he said. 
+
+At the same time, Aladwa said that close to 2,000 traders in Uhuru Market off Jogoo Road are also counting huge losses after a private developer of Ethiopian descent evicted them from the market. 
+
+The MP said that the traders were not given any notice only for the private developer to descend on their stalls at night rendering them jobless overnight. 
+
+
+
+
+
+
+One of the many residential houses that have been brought down in the ongoing demolition exercise in Nairobi's Njiru area on April 5, 2021.
+Photo credit: Collins Omulo | Nation Media Group
+
+ 
+
+The ODM party chair in Nairobi County called on upon relevant authorities to issue fresh eviction notices to any other targeted areas as well as put in place immediate compensation and settlement of those who have legally been evicted in areas affected so far. 
+
+"I call on all elected and nominated leaders in Nairobi to unite against these inhumane, brutal and untimely acts that clearly violate the rights of those we represent," he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The demolitions were effected following an uproar by residents and a section of traders. Dozens of timber yards erected along the main road were brought down. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
