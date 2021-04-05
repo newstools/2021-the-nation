@@ -1,0 +1,325 @@
+Some universities in Nigeria are in crisis over the selection of vice-chancellors. From Ibadan to Lagos, Oye Ekiti and Dutse, things have not been running smoothly. While others like Lokoja and Ndufe Alike have been resolved, there were problems as well. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Conversation Africa’s Wale Fatade asks Ayodeji Olukoju, former vice-chancellor of Caleb University, why this is so and what should be done to tackle it. 
+
+-------------- 
+
+How are vice-chancellors chosen in Nigerian universities? 
+
+This depends on the type of university – federal, state or private – as well as the type of private university – secular, faith-based and hybrid. Another factor is whether the appointment is for a pioneer vice-chancellor or a successor. 
+
+The standard in federal and state universities is that pioneer vice-chancellors are appointed by fiat by the Visitor. The Visitor is usually the president of Nigeria or the governor of a state for public universities. It is the Proprietor for private universities. For subsequent appointments, a vacancy is declared – in a newspaper advertisement – six months before the end of the tenure of the incumbent. Conditions are stated in the advertisement which include number of years of post-professorial qualification, academic and administrative qualifications, and experience in various other capacities. 
+
+At the close of the deadline for submission, candidates are shortlisted. Interviews can take place in different formats, depending on tradition or the preference of the Visitor, board of trustees or governing council. 
+
+Although this system worked seamlessly in previous years, it has come under strain in recent times. The problem is that the corrupt hand of operators can disrupt any system. 
+
+Why are some universities in crisis over appointments? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The intrusion of vested interests is the fundamental cause. 
+
+Take the role of state governors. There are 36 states in Nigeria. In most cases the governors regard the post as another political appointment preserved for family, friends, loyalists or their surrogates. 
+
+Another consideration for governors is that to win – or retain – power they must nurture the support of particular communities. This means that considerations such as ethnicity, sub-ethnicity, senatorial zone balancing, home town of origin, nepotism and religion are at work. 
+
+On another level, chairmen and influential members of a university’s governing council could favour a particular candidate, and not always the best, as a form of patronage (as dictated by their appointing authorities) or as a reward for the highest bidder. 
+
+And then there’s the more direct corruption – some vice-chancellors are said to have literally bought the position with considerable sums of money. 
+
+Staff unions also play a role. They sponsor candidates supposedly to advance the cause of the staff. But in most cases, other disruptive factors are at play. These include political interference as well as other considerations, such as clamours for a ‘son of the soil’ (host state or community) or member of a religious group. 
+
+What makes the position so attractive these days? 
+
+The obvious reason is the concentration of power and access to wealth in the position. Vice-chancellors have the power of patronage as they interface with – and are courted by – powerful people such as politicians, traditional rulers and religious leaders. Many might have helped them into office in the first instance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Vice-chancellors are also well remunerated. The consolidated salary, perks and allowances of a public university vice-chancellor is many times that of the highest paid professor. 
+
+In addition, gifts and patronage flow into the office throughout the tenure of the incumbent, especially during religious and commemorative occasions. 
+
+Then there’s the exercise of power. Vice-chancellors could make – or mar – the careers of friends or foes. They too dispense patronage within the system as they nominate or appoint the chair and members of powerful boards or committees; they chair the appointments and promotions committee, which also entitles them to determine external assessors of professorial candidates. In other words, they determine the career progression of their non-professorial colleagues. 
+
+Lastly, in many cases they also influence the choice of their successors as they nominate their deputies, who are often groomed to succeed them in office. 
+
+What would be a better way of making the appointments? 
+
+The only solution is to make the process of appointment transparent by giving each candidate a fair shot at the position. There should be no preferred or anointed candidates, sponsored by external or internal vested interests. 
+
+A few changes might help. 
+
+First, sitting vice-chancellors should leave their posts in the last three months of the selection exercise. This is to ensure that they don’t rig the system in favour of certain candidates. In their place, the oldest serving professor, if found above board, should oversee the transition. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Second, sitting deputy vice-chancellors who are interested in the office should also step aside for the process to be fair to all. 
+
+Third, the composition of the selection panel should be done with emphasis on character, diversity of representation – within the institution as well as outside – such as disciplines and gender. 
+
+Fourth, the criteria for selection and scoring should focus on the academic and administrative abilities and character of the candidates. Certain criteria give undue advantage to candidates at the expense of others. For example, candidates in the sciences have an edge in the number and size of research grants won for the obvious reason that scientific research is heavily funded all over the world. Since the job is not primarily to win grants, that should not be a criterion for selection. 
+
+Candidates should be judged fairly under the rubric of contribution to knowledge in their various disciplines. 
+
+How did you become a vice-chancellor, and are there lessons to be learnt? 
+
+I responded to a newspaper advertisement, was shortlisted and was interviewed with other candidates. The university hired the famous boardroom guru, Dr Michael Omolayole, as a consultant to lead the exercise. The panel comprised the chair, who was also the pro-chancellor and chairman of the university council, a former pioneer vice-chancellor as well as members of the board of trustees and council. 
+
+We were interviewed in three stages, two of which were in group format (all candidates together) and the final one featuring one candidate at a time. Practical questions were asked to test our knowledge of university administration and ability to handle hypothetical problems. The panel also cleverly asked us to recommend our top three candidates. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The result of the exercise, in which I topped all three sections and was the preferred candidate of the others, was relayed to the Senate when I was presented on October 18, 2010. It was meant to show the transparency of the system that produced me. That gave the system and the candidate legitimacy. 
+
+Article by Ayodeji Olukoju, Distinguished Professor of History and Strategic Studies, University of Lagos Mr Lukwago was then evacuated from the venue. The dispute over the GERD, built across the Blue Nile, has been simmering for around a decade. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
