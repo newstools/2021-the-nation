@@ -1,0 +1,295 @@
+In a barbed wire-fenced homestead in Kabaa village in Nyandarua West, Mr James Gichohi carefully guides his cows into the milking shed.  Two of them are blind. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“This cow got blind late last year. The loss of eyesight now prevents the animal from feeding well, which has affected its milk production and stunted its growth,” says Mr Gichohi. 
+
+Cattle blindness is the latest challenge dairy farmers in Nyandarua and Laikipia counties are grappling with amid  huge losses. Of Mr Gichohi’s five cows, two went blind in less than 15 months. This is in spite of him seeking help from a veterinary officer in Nyahururu town. 
+
+“I’ve five Friesian dairy cows on my five-acre farm. Months ago, I noticed that one of my dairy animals was producing a lot of tears.” 
+
+“On close examination, I noticed a red flap of flesh protruding from the eye. I called a veterinary officer, who prescribed some drugs for the cow,” recalls Mr Gichohi. 
+
+Months later, he realised that the other one had a blue colouration in the middle of the eyes. 
+
+“I again noticed that another cow had watery eyes; it later went blind. This is a worrying trend,” laments the farmer, who says, he did not seek the help of a veterinary officer the second time. 
+
+Traumatic injuries 
+
+The animals got used to using their other senses to move around. 
+
+Mr Paul Mbogo, a neighbour and dairy farmer, whose Friesian cow suffered the same fate a year ago, says blindness has affected the quality of his animal’s life and predisposed it to traumatic injuries. 
+
+“The cow is stressed. This has reduced its milk production. This is because when the animal is blind, it can no longer feed comfortably. In many cases, we are forced to sell our animals at a throwaway price,” Mr Mbogo says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The farmer who practises semi-zero grazing on his farm, says almost every homestead in the area has at least one blind cow. The eye infection occurs in animals of all ages, but is more severe in the young ones. 
+
+“If you go around the neighbourhood, you will find that half the dairy cows are blind,” Mr Mbogo adds. A few kilometres away in the neighbouring Huho-ini village in Laikipia County, Ms Mercy Wanjira’s two cows are also blind. 
+
+“A survey in the area conducted by farmers revealed nearly half of cows in the neighbourhood are blind or half-blind,” Ms Wanjira says. 
+
+The farmer admitted that she had not sought help from any veterinary officer because her neighbour, whose three cows went blind, did not get any help despite travelling as far as Nyahururu town to consult the animal health experts. 
+
+Ms Wanjira adds that Zebu cattle in the neighbouring Rumuruti, Kinamba and Sipili, as well as in Baringo County, appear to be less affected than the European breeds. 
+
+ The farmers say that the disease is also generally less severe in sheep, goats and other livestock. 
+
+“We’re calling for intervention from both levels of government and other experts to help us know what is ailing our animals,” Mr Mbogo said. 
+
+Nyandarua’s Agriculture and Livestock Executive James Karitu says the county had written to the Nakuru Veterinary Investigation Laboratories requesting them to investigate the cause of the blindness in cows from the affected regions. 
+
+“They’ve not yet come, but they will. It’s a question of facilitation,” Dr Karitu says. He added that among the issues the research will look into is the claim by farmers that the blindness could be due to substandard dip chemicals sold by private dealers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dr Karitu says there are many illnesses that can cause blindness in cows, including the East Coast Fever, if a sick animal is not properly treated. 
+
+“The well-known cause of blindness in cows is Pink Eye, but the good thing is that it’s treatable. If detected early, the blindness can be reversed. In case one has a recent blindness case for their cow, reach out to a veterinary officer because most of the cases are treatable,” Dr Karitu tells farmers. 
+
+In Nyandarua County, he says, the areas most affected by cow blindness are Kaimbaga, Milangine, Gathanji, Ndundori and Kipipiri. 
+
+One of the theories being peddled around by both farmers and county officials is that the animals might have lost their eyesight to injuries after being pricked by grass as they grazed in open fields. 
+
+However, this does not explain why donkeys, goats and sheep that graze in the same open fields have not gone blind. 
+
+Nyandarua County Veterinary Director Edward Kanyari says there are several theories as to why cattle blindness is occurring at high rates in some areas of Nyandarua. 
+
+“It can be as a result of early cataract disease or injuries to the cornea or poisoning from chemicals used in commercial farms for killing weeds. Some pesticides are harmful to animals,” Mr Kanyari says. 
+
+Hand-held sprayers 
+
+Mr Daniel Gitari, a Nyahururu-based vet, says most livestock farmers, who can’t access a cattle dip, use hand-held sprayers to wash the animals at home. He notes that the sprayers used on the animals are the same ones used by farmers to spray crops. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“If the equipment are not well-cleaned before using them on cows, the crop chemical residue might be what is causing blindness in a large number of cows in the county,” he speculates. 
+
+Eye infections are common in cattle, but many farmers, according to Mr Gitari, are oblivious to the infections until it is too late. 
+
+“Excess tears or thick secretions from eyes are the commonest clinical signs of eye infections. Eyes are delicate and sensitive and should be treated immediately,” notes Mr Gitari. 
+
+Several infections can cause excess production of tears, including Pink Eye.  “This is a bacterial disease that’s spread by flies as they feed on discharge from the eyes. Clinically, the disease presents as clouding of the eyeball, which appears to protrude from the socket and if not treated, it results in blindness,” he adds. 
+
+The vet reveals that Pink Eye can easily spread within herds when fly populations are high and during the dry season. 
+
+Controlling flies and separating sick animals from the rest of the herd is the best way to prevent the spread of eye infection in livestock, Mr Gitari says. 
+
+Other diseases that affect the eyes include cancer of the third eyelid, bovine papillomavirus and infectious bovine rhinotracheitis, and eye worms, among others. 
+
+snjuguna@ke.nationmedia.com Pinkeye is an illness some farmers take time to attend to, but as vet shows, treat it urgently Elgon Kenya vet responds to issues that affect livestock farming. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
