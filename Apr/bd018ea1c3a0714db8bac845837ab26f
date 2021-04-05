@@ -1,0 +1,243 @@
+The Riyadha Mosque and Islamic Centre, along with a section of the Muslim fraternity in Lamu County, is infuriated by a Kenyan designer whom it accuses of misusing the mosque's portrait. This comes after US rapper and business mogul Jay Z was spotted coming out of a restaurant in California last week while sporting a T-shirt bearing an image of the mosque. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+Watch and learn more about the iconic #Lamu Riyadha Mosque on Jay Z’s t-shirt and the man behind it 👉🏾 https://t.co/a9x0YMrhyJ#TETE #HabibSwaleh pic.twitter.com/iyIq9H2Zv0— Omar Kibulanga (@OmarKibulanga) April 3, 2021  
+
+The T-shirt was designed by Zeddie Lukoye of Blkburd Genes, a local company which has been on a mission to educate people around the world about history, nature, and current affairs.  
+
+
+
+
+
+
+Fashion designer Zedekiya Lukoye, popularly known as Zeddie Loky, of men's wear brand Narok NYC. 
+Photo credit: Courtesy
+
+ 
+
+The move, however, has elicited anger and prompted the Riyadha Mosque’s management, under its Secretary General Abubakar Badawy, to write a letter to Mr Lukoye compelling him to come out publicly and apologise. 
+
+In the letter dated April 3, 2021, the mosque explains that the congregation was deeply concerned about the portrayal of their mosque in what they referred to as sacrilegious joints as portrayed on the designer's social media accounts.’ 
+
+The management cited a Facebook post made on February 7 last year where a man is said to have worn the T-Shirt with the mosque’s image, yet he appeared to be performing in a bar. It goes ahead to explain why an ‘endorsement’ by someone as famous as Jay-Z is not an honour for the establishment. 
+
+"We don't consider this an honour, nor a privilege, for the historical mosque and its Founder Habib Swaleh for its imagery to be portrayed in such a way. Bars and clubs are an affront to the spiritual respect and dignity of the mosque, its founder, to the congregation, and the general Muslim community within and outside Lamu,” stated Mr Badawy in the letter “We therefore politely request you to show respect for the mosque by removing our Mosque's portrait on the shirt, to show us that you really do respect the people of Lamu and the Mosque."  
+
+
+
+
+
+
+
+
+
+
+
+Lamu's Riyadha Mosque and Islamic Centre Secretary General Abubakar Badawy during an interview.
+Photo credit: Kalume Kazungu I Nation media Group.
+
+ 
+
+The letter also went ahead to advise the designer to use the moment and learn about Islamic history and the affront that such an action has to their faith.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We encourage you to keep promoting Lamu. However, kindly in future please consider the cultural relevance of what you choose to portray on your shirts, to make sure you are not appropriating a minority community's culture and practices to promote something that is contrary to their beliefs," stated Mr Badawy. 
+
+Coast Interfaith Council of Clerics (CICC) chairman Mohamed Abdulkadir said it was illogical for the Mr Lukoye to associate a religious symbol like that of Riyadha Mosque with worldly things. 
+
+"He should understand that what he did was wrong not only for Riyadha Mosque but Islam in general. You cannot associate a religious minaret with worldly things. You print a T-Shirt with a logo that might end up in clubs and bars. Let him apologize," said Mr Abdulkadir. 
+
+Lamu Elder Alawy Abzein also stressed that the designer of the T-Shirts was wrong as everyone knows that Riyadha Mosque has a history of religious heritage. 
+
+Mr Abzein, however, called on Muslims not to rush into condemning the fashion designer but rather educate him of the significance of the Riyadha mosque minaret to Muslims in Lamu and the world. 
+
+He advised the designer to use other symbols to represent Lamu if he genuinely wanted to promote the image of the county. 
+
+"We have so many symbols that resemble Lamu. We have the seafront, boats and dhows. We also have the common symbol -- the star and crescent, which also represent Lamu very well. Using a minaret was wrong. He should agree to apologise and withdraw the photo of the minaret," said Mr Abzein. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Riyadha Mosque in Lamu is the longest continuously functioning, and one of the most influential, Islamic teaching institutions in the Swahili world. It was founded in the late 19th century, and has since provided both basic Islamic education to children and higher learning to advanced students.  Pineapples lacked market during the peak of Covid-19 pandemic, despite the bumper harvest. Swabir Mohamed's arrest comes after a video clip of a man being tortured went viral. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
