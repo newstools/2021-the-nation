@@ -1,0 +1,147 @@
+The public’s demand for greater transparency on a president’s health are not unreasonable but that rule is weak and on stilts. The constitutional right to privacy reigns supreme. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Though a public figure, a president is a patient and a data subject and their contractual relationship with a doctor is anchored on the fidelity to the law. When they ultimately leave office, it is unfathomable what political pollution can be visited upon them with all their medical history public. 
+
+Full disclosure of their medical details while in office can speculatively affect financial markets and dent public confidence. Notably, health is a ground for impeachment world over if it gravely affects the official functions of a sitting president. 
+
+The length to which presidents go to hide their medical issues is captured by US President Grover Cleveland’s disappearance in 1893. Under the guise of a fishing expedition, he boarded a friend’s yacht for his Cape Cod summer home. Six surgeons removed his tumour, five teeth and part of his jaw without an incision and leaving his signature moustache intact. Within weeks, he was speaking publicly. 
+
+Heart attack 
+
+History is replete with presidential ailments — from Abraham Lincoln’s depression to Franklin D. Roosevelt’s paralysing polio. Dwight Eisenhower had a heart attack and a stroke while in office. John F. Kennedy was plagued by a number of conditions — Addison’s disease, hypothyroidism and severe back pain — that were not made public in his lifetime. Woodrow Wilson had a stroke so severe his wife took over many of his routine duties. His successor, Warren Harding, had congestive heart failure and died of a heart attack two years into office. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A school of thought for full disclosure of a president’s medical history says the public should be fully informed before they vote; no claims of privacy, confidentiality or privilege can obscure the obligations of a candidate to be candid with the electorate. 
+
+Clamour for US presidential candidates to release their medical records could stem from a desire to gauge whether one might survive their term and meet the demands of the stressful job. But even with perfect information, doctors have a hard time prognosticating, especially, as they say, on the future. 
+
+No law compels a sitting president to make a full disclosure of their medical records. Further, public concern should only arise when a president’s health is so impaired as to render them absentees from office for a reasonable time. Even then, details of their ailments are guarded by the doctor-patient confidentiality principle, buttressed by data privacy laws. 
+
+Writing in The Atlantic, Dr Dhruv Khullar, a physician, argues in “What should we know about the President’s health” that the question is not whether a prescription could help; it’s whether the benefits outweigh the risks. In this case, a wholesale release of medical records would do more harm than good. 
+
+Presidents are not immortal and do not deserve to be vilified for being humanly sick. 
+
+ayuotimothy@gmail.com. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
