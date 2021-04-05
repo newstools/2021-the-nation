@@ -1,0 +1,75 @@
+Tanzania's national referral hospital, Muhimbili, has stated that the steam booths that were placed at its facility in Dar es Salaam will remain intact, an indication that the key hospital may continue to provide steam therapy as one of the ways to help fight Covid-19.   
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Steam therapy, whose efficacy experts are divided on, was launched earlier this year as part of a national campaign by the Tanzanian government to fight coronavirus.  
+
+Muhimbili National Hospital's (MNH) response follows an appeal allegedly made by a Member of Parliament, Dr Hamis Kigwangalla, calling on the referral facility to remove the steam inhalation machines on grounds that they portray the hospital in bad light.  
+
+However, MNH has maintained that the steam machines are among effective remedies against Covid-19, adding that the disease still has no cure despite research being conducted by numerous countries.  
+
+According to the hospital, approximately 1,1000 individuals have used the machines and expressed satisfaction with the results as a mitigating factor. However, some global health experts, including the World Health Organization, have disputed the effectiveness of steaming as a viable treatment for Covid-19. 
+
+Further, on his Twitter account, Dr Kigwangalla called on the government to consider taking more stern measures against the virus, such as pushing government officials to start wearing face masks and also greenlight importation of Covid-19 vaccines into Tanzania. 
+
+Tanzania last reported Covid-19 case figures in April 2020 when it announced 509 confirmed cases.  Country last gave case figures in April 2020, reporting 509 infections. Should you go for either the AstraZeneca or Sputnik V vaccine, here's where you can get them. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
