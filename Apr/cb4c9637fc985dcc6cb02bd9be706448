@@ -1,0 +1,168 @@
+Two Coast law makers have criticized the move to force pedestrians use the Liwatoni floating bridge in Mombasa, calling for suspension of the directive. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The mandatory usage of the Sh1.9 billion floating bridge for over 300,000 commuters was implemented last week, when the Mombasa County Emergency Response Committee on Covid-19 put up measures to curb the spread of Coronavirus in the port city. 
+
+This was in addition to a raft of measures put up by President Uhuru Kenyatta to contain the spread of the third wave of Coronavirus. 
+
+But Mombasa senator, Mohammed Faki and his Kwale counterpart Senator Issa Boy have warned that use of the bridge will lead to further spread of the Coronavirus, criticizing the county government for failing to consult them, the public and other leaders when coming up with the law.  
+
+“I strongly condemn the move by the county and national government which lacks input from the members of the public,” said Mr Faki who spoke during an impromptu visit at the floating bridge. 
+
+He added that the move to have every commuter use the floating bridge was unfair to users who are elderly, sick, or physically disabled and are now forced to walk for more than a kilometer to cross over between Mombasa island and Likoni mainland. 
+
+They urged officials to reconsider and have commuters use both means, by limiting the number of those using the ferry just like it was done last year.   
+
+
+
+
+
+
+
+
+
+
+
+Mombasa Senator Mohamed Faki (right) with his Kwale Counterpart Issa Boy at the Likoni Floating Bridge in Mombasa in this photo taken on 1st April 2021.
+Photo credit: Kevin Odit I Nation Media Group
+
+ 
+
+Last week images of a crowd of thousands of commuters using the floating bridge created an uproar when they were captured using the bridge while failing to maintain social distance.  
+
+Kwale Senator Issa Boy said that business entities were complaining over the directive to force commuters to use the floating bridge.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Many of the Kwale residents who are either working or doing business in Mombasa use the ferry,” he said “With this congestion, it is going to have adverse effects on us. It is better if they allow pedestrians to use both the ferry and the bridge so that we reduce the congestion of people in one place." 
+
+The Likoni crossing channel acts as the main link between Mombasa and Kwale counties, with Mombasa being the center of most business activities in the region. 
+
+Early this year, the Liwatoni floating bridge was launched to ease congestion along the Likoni crossing channel which has been a major challenge. 
+
+But before the directive, very few commuters used the facility with some of them complaining about the long distance and the heat experienced while crossing the one kilometer stretch. 
+
+Areas in Likoni and Kwale have been reporting low number of cases of Covid-19 and leaders fear that if the move in not reconsidered, the deadly virus will spread over to the region.  
+
+Mr Faki said he had already petitioned the Mombasa County Government and Kenya Ferry Services not to force residents to use the Liwatoni floating bridge. The US rapper and business mogul was recently spotted wearing a T-shirt bearing an image of the mosque. The court faulted the trial process the foreigner was taken through, from the first time he was arraigned in Shanzu court, Mombasa. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. The move is effective April 9, the carrier said in a statement on Monday. Mr Lukwago was then evacuated from the venue.
