@@ -1,0 +1,237 @@
+Chelsea's shock collapse to a 5-2 defeat with 10 men against West Brom helped Liverpool's cause to close the gap between the two sides to just two pointsSpurs' latest failure to hold onto a lead at St James' Park will do little to quell the speculation over Harry Kane's futureFulham collapsed to concede three times in the final 12 minutes at Villa Park and left their manager bemoaning a lack of experience London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester City are just 11 points away from clinching a third Premier League title in four years as even a much-changed side from Pep Guardiola outclassed third-placed Leicester 2-0 at the King Power. 
+
+Behind City, Liverpool were the big winners of the weekend as they produced arguably their best performance of 2021 to thrash Arsenal 3-0 at the Emirates. 
+
+Victory for Jurgen Klopp's men, allied to dropped points for Chelsea and Tottenham, means all three are separated by just two points in the fight for a top-four finish. 
+
+At the other end of the table, Fulham missed a great opportunity to move out of the bottom three as they let a 1-0 lead slip late on to lose 3-1 at Aston Villa. 
+
+Liverpool find their groove 
+
+Liverpool's chances of a return to the Champions League next season seemed all but gone when Fulham became the sixth consecutive visiting side to win at Anfield a month ago. 
+
+However, the Reds looked refreshed by a two-week layoff during the international break for many of their star players. 
+
+Even Arsenal boss Mikel Arteta admitted his side were lucky to escape with only a three-goal margin of defeat as Liverpool produced a performance worthy of champions on the day they mathematically could no longer retain their title. 
+
+"It was a very important statement for us because we need to show that we fight for it. We cannot only talk about it, we have to show it on the pitch," said Klopp on his side's chances of climbing back into the top four. 
+
+Chelsea's shock collapse to a 5-2 defeat with 10 men against West Brom helped Liverpool's cause to close the gap between the two sides to just two points.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Liverpool also have the better run in, but it is far from a two-horse race. Tottenham edged ahead of Liverpool on goal difference despite blowing a late lead to draw 2-2 at Newcastle. 
+
+West Ham can move fourth if they win at Wolves on Monday, while Everton have two games in hand to overturn a five-point deficit on Chelsea. 
+
+Is Kane too good to stay at Spurs? 
+
+Spurs' latest failure to hold onto a lead at St James' Park will do little to quell the speculation over Harry Kane's future. 
+
+The England captain was again in supreme form, scoring his side's two goals to move top of the Premier League scoring charts. 
+
+Kane has now scored 29 goals in all competitions for Tottenham, but unless Spurs shock Man City in the League Cup final later this month, will see another season go by at club level without a trophy. 
+
+City, Manchester United, Barcelona and Paris Saint-Germain have all been linked with a move for the 27-year-old in recent weeks. 
+
+Tottenham chairman Daniel Levy's asking price for his prized asset may prove too high in a deflated transfer market due to the economic consequences of the coronavirus pandemic. 
+
+But Kane refused to rule out a move during the international break and will not want to spend another of his peak years without Champions League football. 
+
+Fulham not 'horrible' enough 
+
+A point for Newcastle also had a big impact on the bottom of the table as the Magpies moved three points clear of Fulham. 
+
+Scott Parker's men were well set to move out of the bottom three thanks to Aleksandar Mitrovic's first Premier League goal since September. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But Fulham collapsed to concede three times in the final 12 minutes at Villa Park and leave their manager bemoaning a lack of experience. 
+
+"Sometimes you need to be horrible, play the game in the right territory," said Parker. 
+
+"It's a young team but we were naive and made silly mistakes. After the first goal, we dropped our intensity and it affected us too much and we weren't streetwise enough." Diogo Jota came off the bench to score twice. Newcastle leave it late to puncture Spurs' top four drive. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
