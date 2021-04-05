@@ -1,0 +1,249 @@
+While lead prosecutor Liat Ben-Ari will be laying out the criminal case against Israel's longest-serving leader, across the city President Reuven Rivlin will hold discussions that could determine Netanyahu's political fate. Jerusalem, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Israel's legal and political dramas converge Monday, with Prime Minister Benjamin Netanyahu due in court for his corruption trial and the president to launch talks to help form a government. 
+
+Judges have ordered Netanyahu to appear at the Jerusalem District Court for the prosecution's opening arguments in the case where he is charged with bribery, fraud and breach of trust -- allegations he denies. 
+
+While lead prosecutor Liat Ben-Ari will be laying out the criminal case against Israel's longest-serving leader, across the city President Reuven Rivlin will hold discussions that could determine Netanyahu's political fate. 
+
+Israel's March 23 election was its fourth inconclusive vote in less than two years, prolonging the worst political crisis in the nation's history. 
+
+Netanyahu's right-wing Likud party finished first, winning 30 seats in the 120-member parliament, but his ability to form a stable governing coalition is precarious, a reality that has plagued him for several years. 
+
+Rivlin on Monday begins two days of consultations with party officials to determine who has a plausible path towards a 61-seat majority, in a parliament bitterly divided between those who back Netanyahu and those committed to ending his 12-year tenure. 
+
+Customarily, Rivlin gives a 28-day window to form a government to the leader with most recommendations from individual lawmakers. 
+
+That can be extended 14 days at the president's discretion. 
+
+Expected support 
+
+Netanyahu is expected to get support from his 30 Likud loyalists, 16 lawmakers representing Israel's ultra-Orthodox Jewish parties, and six votes from the far-right Religious Zionism alliance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That makes a likely total of 52, nine short of the absolute majority needed. 
+
+Because the ideologically divided anti-Netanyahu camp has no agreed leader, Netanyahu may receive the most recommendations. 
+
+But in comments that infuriated Likud, Rivlin last week implied that he would not necessarily be guided by mathematics alone. 
+
+He said he would give the mandate to the lawmaker who has a chance to form a government "that will heal the divisions between us and rebuild Israeli society." 
+
+The president also said that "out-of-the-ordinary coalitions" may be required to break the political gridlock. 
+
+Given past public acrimony between Rivlin and Netanyahu, Likud interpreted those comments as a sign that the president was tacitly aligned with the anti-Netanyahu camp. 
+
+Rivlin -- a Likud member when he was in parliament -- was accused by Netanyahu's party of overstepping his largely ceremonial mandate. 
+
+Within the anti-Netanyahu bloc, the centrist Yesh Atid party, led by former television host Yair Lapid, won the most seats with 17. 
+
+An anti-Netanyahu alliance would require a tightrope deal among Lapid, Likud defector Gideon Saar, Netanyahu's estranged protege Naftali Bennett -- a hardline religious nationalist -- and a group of centrist and left-wing parties. 
+
+Fresh twist 
+
+In an unprecedented twist for Israeli coalition politics, it appears impossible for either camp to form a government without support from the conservative Islamic Raam Party, headed by Mansour Abbas, who controls four seats. 
+
+Abbas has said he is open to hearing from all sides, but the far-right Religious Zionism party has ruled out sitting in a government with Raam, complicating Netanyahu's coalition hopes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is also far from certain that the anti-Netanyahu bloc can coalesce, raising the prospect of a fifth election in less than three years. 
+
+Rivlin will select a leader on Wednesday charged with trying to form a government. 
+
+If they fail to do so, Rivlin will then move on to the next name on his list. 
+
+Netanyahu was formally charged last year with accepting improper gifts, and seeking to trade regulatory favours with media moguls in exchange for positive coverage. 
+
+Anti-Netanyahu protesters, who dub him the "Crime Minister", surrounded the court ahead of his last appearance in February, and are expected to do so again on Monday. 
+
+Judges have said Netanyahu can leave the courtroom after the opening arguments, when the witness testimony begins. 
+
+No quick resolution is expected. 
+
+The trial enters a more intensive, evidentiary phase on Monday but a ruling is still several months off. 
+
+Netanyahu would not be compelled to resign as prime minister unless he is convicted with all appeals exhausted. That could take several years. PM Netanyahu has voiced hope for an end to the unprecedented period of political crisis. He lost power in 1999, but regained it 10 years later and has not relinquished it since. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
