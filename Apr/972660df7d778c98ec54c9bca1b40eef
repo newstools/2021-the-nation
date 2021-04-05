@@ -1,0 +1,73 @@
+Tripoli, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Libyan Minister of Health Ali Zanati on Sunday announced that a shipment of 101,250 dozes of Russia's Sputnik V Covid-19 vaccine, provided by the United Arab Emirates, arrived in Libyan capital Tripoli. 
+
+Experts supervised the distribution of the vaccine to special medicine cooling stores across the country at -18 degrees celsius, Zanati told a press conference in Tripoli, confirming that a vaccination campaign will begin soon and that he will be the first to receive the vaccine. 
+
+He said that the country is expecting about one million doses of the vaccine on April 11, and the total number of vaccine Libya expects to receive is five million. 
+
+Priority for vaccination will be for medical staff treating COVID-19 patients inside isolation units, followed by the elderly, those with chronic diseases, and then medical workers in different hospitals and medical centers, the minister added. 
+
+According to Libya's National Center for Disease Control, the total number of confirmed Covid-19 cases in Libya so far is 162,294, including 149,238 recoveries and 2,737 fatalities. As the Health ministry disowns Sputnik V deal, the circumstances in which 75,000 does were shipped in and cleared for use stinks of the Kemsa tender scam. The arrival, clearance and administration of the vaccine was shrouded in controversy. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
