@@ -1,0 +1,319 @@
+ The Building Bridges Initiative (BBI) is facing a timeline nightmare even as its backers insist that a referendum is still possible by July. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to the schedule, Parliament should have dispensed with the Bill by today before it goes to a referendum on or before June 6. 
+
+However, Parliament has gone on a one-month recess and it is yet to complete the joint committee report that will then be considered by the House – which makes the June 6 deadline highly unlikely. 
+
+Even a July referendum may be unlikely given the current political gerrymandering and alliance building as well as Kenya’s sorry financial situation. 
+
+But even if, by a miracle, the BBI team was to secure a referendum by July or August, the team will have to surmount monumental legal and timeline questions raised by the Independent Electoral and Boundaries Commission (IEBC). 
+
+Read: BBI in limbo as Covid-19 takes toll on its calendar 
+
+The commission a fortnight ago threw a spanner in the works on the duration it would take them to create the proposed 70 new constituencies. 
+
+While the BBI team says the constituencies should be created six months after the adoption of the document, the IEBC says time is way too short, citing previous boundary reviews that took as long as two years. 
+
+Public hearings 
+
+IEBC cites the need for public hearings, preparation of reports, dispute resolution, and fresh voter registration in the new constituencies, at a time the agency will be preparing for the 2022 General Election. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Uhuru, Raila BBI 'reggae' is back on track
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+In the 2010 review of boundaries, then-Interim Independent Boundaries Review Commission did first round of data collection and public hearings from May 2009 to November 2010, with the IEBC taking over the role for the second round of hearings from January to March 2012. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Read: IEBC hints at 2024 date for review of constituency boundaries 
+
+“The commission is of the view that the six-month period in the transition clause, for the exercise to be completed, is not adequate given past experience and practice,” IEBC Chairman Wafula Chebukati told Parliament two weeks ago. 
+
+Besides the timeline, there are also questions as to whether the BBI team erred in allocating the proposed 70 constituencies to different counties based on population. 
+
+In the proposed constituencies, Nairobi County will take the lion’s share at 12, Kiambu (6), Nakuru (5), Kilifi (4), with Mombasa, Kwale, Machakos, Uasin Gishu, Narok, Kajiado and Bungoma getting three each. Meru, Trans Nzoia, Bomet, Kakamega, Kisumu will get two each. 
+
+The entire Nyanza region of Kisumu, Siaya, Homa Bay, Migori, Kisii and Nyamira only got four extra constituencies, with Kisumu getting two and Siaya and Nyamira one each. Mandera, Embu, Makueni, Kirinyaga, Murang’a, Turkana, Nandi, Laikipia, and Kericho will get one additional constituency each. 
+
+Mr Chebukati argues that it is the commission's sole responsibility to determine boundaries of constituencies and the BBI's role should have ended only with suggesting the number to be created, and not stating which counties should get what. 
+
+These are some of the issues being deliberated upon by a joint committee of Parliament – comprising the National Assembly and the Senate teams that deal with justice and legal affairs – and which had until April 1 to submit a report, a deadline they missed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feel free to abandon the BBI train, ODM party told
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+The Nation understands that the joint committee has resolved to table the report on May 4 when Parliament resumes. 
+
+"The two principals have agreed that there are no amendments to the document. That is our position," committee co-chairman Muturi Kigano said, dismissing a possibility of Parliament re-opening the document as had been suggested. 
+
+Read: Raila ally wants House recalled to enact BBI Bill 
+
+Rarieda MP Otiende Amollo last week said as soon as the committee completes its report, Parliament can be recalled for a special sitting to approve the document, saving some much needed time. 
+
+"With the draft BBI Bill as it is, a referendum is inevitable. The question is when. In our earlier projection, we had it in June. It is still my view that it can be done by July," Dr Amollo said. 
+
+Nandi Senator Samson Cherargei, allied to Deputy President William Ruto, warned: "They should be careful because beyond August this year, I think it would be too late because it will then be just one year until elections." 
+
+The committee had hired Prof Patricia Kameri-Mbote and Dr Collins Odote, among others, to guide them on questions raised on the role of Parliament in the process and whether or not the two Houses could reopen the document for any editing after public participation. 
+
+But even if all were to go according to plan, there is still the issue of money that the BBI has to contend with. While the IEBC says a referendum will cost as much as Sh14 billion, ODM leader Raila Odinga has suggested Sh2 billion. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+With the International Monetary Fund warning that it won’t allow its Covid-19 loans to be used in political processes, the BBI team will have another mountain to climb in terms of finances. The Parliamentary Budget Office has projected that it will cost Sh361 billion to implement the BBI Bill once it has been passed. IEBC terms as illegal BBI Steering Committee’s allocation of new constituencies to counties. Plan will see an extra 150 poll units in the past 10 years, nearly twice the number added over previous 47 years. The government’s appetite for debt shot up by 69 per cent between March 2020 and March 2021. Senator is touring counties, holding strategy meetings with advisers and regional leaders.
