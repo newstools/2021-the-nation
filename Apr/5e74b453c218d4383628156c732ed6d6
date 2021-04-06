@@ -1,0 +1,237 @@
+A major administration shake-up has happened at the Nairobi Metropolitan Services (NMS), just a year after its establishment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The sweeping changes have seen at least 13 high ranking officers redeployed, demoted, or given warning letters. 
+
+According to multiple sources who spoke to the Nation, the reorganisation at the agency led by Major General Mohamed Badi could be the result of infighting, sabotage and misappropriation of funds. 
+
+Five directors have been affected in the realignment, with the biggest casualty being Deputy Director-General Kang'ethe Thuku. 
+
+Some of the directorates hit by the changes are Treasury and Planning, Environment, Water, Sanitation and Energy, Health Services, Administrative Support Services, and Procurement. The NMS has at least 10 directorates. 
+
+For compliance and ICT directorates, the last warning was issued to their heads to either shape up or face redeployment or demotion. 
+
+The NMS was formed in March last year, to take over four Nairobi County government functions of health, transport; public works, utilities and ancillary services, and county planning and development services. 
+
+"The affected have been accused of having installed their cronies in different directorates, working with "cartels" from City Hall, especially those in the garbage industry, and sabotage," said the source. 
+
+On Thursday last week, NMS Human Resources Director Dominic Gicheru bid his colleagues goodbye after being redeployed out of NMS. 
+
+"Good afternoon all. This is to inform you that I have been deployed out of NMS and instructed to hand over to Mr Kibet. I take this opportunity to thank you all for all we did together … I take this opportunity to congratulate Mr Kibet for this appointment and wish him well in his duties," read the message. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Complacency 
+
+Another source privy to the goings on confirmed that the changes have happened, saying that most of them have been occasioned by complacency and working closely with cartels at City Hall. 
+
+The garbage menace also continues to plague the national government's agency, with heaps of garbage still a fixture in Nairobi. 
+
+Maj-Gen Badi did not respond to our text message inquiring about the changes. However, we were informed that he has not been feeling well and that is why he missed the impromptu tour of NMS projects by President Kenyatta and ODM leader Raila Odinga last week. 
+
+Mr Thuku laughed off the claims, saying what happened are “normal internal changes” done by the DG but he has not been affected as he is still Mr Badi’s deputy, having received no letter to the contrary. 
+
+“I am still NMS deputy director-general. If I would have been redeployed I would have received a letter from the President through the head of the PSC. Those are works of those fighting NMS,” he said. 
+
+NMS head of strategic communication, Mr Tony M'Barine, however, neither confirmed nor denied the changes, but said he would give an appropriate response on Tuesday noon after "verification of the facts". 
+
+"Like I said … I'm hearing too. This is Easter and there has been no formal communication of the same. I will give you appropriate response on Tuesday at noon after verification of the facts," said Mr M'Barine. 
+
+On reports of misappropriation of funds, Mr M'Barine said he is yet to see any report from the Auditor-General's office to that effect. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I urge you to report from facts you can prove. Let us be professional. Avoid the rumour mills." 
+
+Interestingly, a special audit on utilisation of Covid-19 funds by county governments released in February this year by the Auditor-General fingered the NMS for a number of irregularities involving Sh294 million received in June, 2020, from the national government. 
+
+Some of the irregularities involved failure to utilise a Sh64 million makeshift isolation centre, irregular cash withdrawal of Sh32 million from KCB for payments for facilitation of health workers, and Sh120 million payment to frontline healthcare workers without a budget. 
+
+"However, the management could not explain the basis of the facilitation, authority to pay facilitation and the expenditure could not be supported," read the audit report in part. 
+
+Turf wars have been witnessed at NMS, with Mr Badi last December having to split the Enforcement and Compliance directorate into two, following battling between the director, Ms Rachael Maina, and her deputy Mark Leleruk for control of the department. 
+
+The directorate was split into Enforcement on one hand, and Compliance and Delivery Services on the other. 
+
+Dr Leleruk now heads the Enforcement wing, with Ms Maina heading the Compliance and Delivery Services section. They report directly to Maj-Gen Badi. The markets include Muthurwa Market, City Park market, Jericho market, Wakulima and Uhuru. Many NGOs and CBOs concentrated on Kibera and Mathare and neglected Mukuru slums. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
