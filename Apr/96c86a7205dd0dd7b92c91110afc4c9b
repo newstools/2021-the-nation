@@ -1,0 +1,153 @@
+Cyber threats increased sharply by 59 per cent in the three months to last December to 56.2 million, a new report by the communications regulator shows. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The online threats shot up due to the increase in Internet usage during the pandemic. 
+
+Previously dormant 
+
+The National Kenya Computer Incident Response Team or Coordination Centre says it detected 56.2 million threats, up from 35.1 million detected in the previous quarter. 
+
+The increase was “attributed to the systematic resumption to normalcy amongst sectors and services that were previously dormant due to the restrictions surrounding the Covid-19 pandemic,” the Communications Authority of Kenya (CA) says in its latest quarterly report. 
+
+Malware attacks also shot up by 44.7 per cent to 46 million in the quarter to December 2020, CA adds. 
+
+The increase is compared to 31.8 million events detected in the period to September. 
+
+The value of mobile money transfers jumped 33 per cent to Sh983 billion in the three months to December 2020, as a bigger size of the economy moved through mobile. 
+
+CA data shows that in the September-December period, the value of transfers from customers to businesses grew by 33.7 per cent to Sh983.7 billion. 
+
+Money agents 
+
+This compares to Sh735.9 billion transferred in the July-September period. 
+
+Between October and December, the value of business-to-business transfers increased to Sh1.7 trillion from Sh1.3 trillion. 
+
+As business activities resumed with the easing of cessation measures placed to prevent the spread of the Covid-19, more Kenyans preferred to use digital means of payment for services, while businesses too increased their use of mobile money channels in their inter-transactions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The number of active registered mobile money subscriptions stood at 32.5 million, whereas the number of active mobile money agents stood at 264,390 during the period under review. The value of transfers across pay bill and till numbers grew significantly,” the report by CA states. 
+
+pmburu@ke.nationmedia.com Findings come ahead of this year’s International Day of the Girl Child on October 11. Security officers are now monitoring social media posts of youths perceived to be allied to some leaders in the county. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
