@@ -1,0 +1,79 @@
+Brazzaville, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Congo's Constitutional Court on Tuesday certified the re-election of longtime leader Denis Sassou-Nguesso, two weeks after provisional results gave him a widely expected landslide victory in the central African country. 
+
+Rejecting an appeal by the opposition, court president Auguste Iloki said Sassou-Nguesso, 77, is "declared elected" with 88.4 percent of the vote. 
+
+The March 21 election was boycotted by the main opposition and overshadowed by the death from Covid of Sassou-Nguesso's only major rival, Guy-Brice Parfait Kolelas, 61, who garnered 7.84 percent of the vote. 
+
+Sassou-Nguesso campaigned as the defender of Congo's youth -- the average age of the country's five million people is 19 -- and outlined plans to develop agriculture in order to ease dependence on food imports and diversify the economy of the oil-rich country. 
+
+One of the world's longest serving leaders, Sassou-Nguesso has been in power for an accumulated 36 years, first taking the helm in 1979. 
+
+The former paratrooper's election to another five-year term marks his fourth win since 2002. 
+
+Critics have accused him of authoritarian rule and turning a blind eye to corruption, poverty and inequality despite the country's oil wealth. 
+
+Kolelas, the son of a former prime minister who was a leading government critic, died aboard a medical plane that flew him to Paris on polling day. Sassou Nguesso has already accumulated more than 36 years in office. Kolelas died in medical aircraft which had gone to pick him from Brazzaville. Health ministry also reports 394 new infections and 14 more deaths. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
