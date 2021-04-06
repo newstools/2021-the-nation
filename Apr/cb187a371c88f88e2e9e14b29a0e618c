@@ -1,0 +1,69 @@
+Police on Tuesday morning arrested Betta Mutuku, the principal of ABC Kiseveni Secondary School in Machakos County, over suspected exam irregularities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Mutuku is currently being interrogated at Machakos Police Station after she was found in possession of what is believed to be a copy of KCSE exam material. 
+
+"She published a copy of a KCSE mathematics paper on her WhatsApp status hours before the exam," a security source privy to the arrest told the Nation. 
+
+More to follow. The CS says teachers in Migori County are under investigations following their attempts to tamper with the exam papers. Thirteen people arrested in Nyamira county over alleged cheating in KCSE exams. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
