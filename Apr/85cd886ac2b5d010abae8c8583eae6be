@@ -1,0 +1,255 @@
+Kenyans have come up with ingenious ways of beating the security system to travel upcountry, the Nation has established. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite the order on cessation of movement in and out of the ‘red zone’ —  Nairobi, Nakuru, Kiambu, Machakos and Kajiado — people are still sneaking in and out of the zoned area, but at more than triple the normal fares. 
+
+An unlikely alliance between matatu operators, boda bodas and corrupt police officers manning roadblocks has turned President Kenyatta’s order into a cash cow. 
+
+Inspector-General of Police Hillary Mutyambai last week mounted 33 roadblocks around the five counties to stop all forms of movement over the Easter weekend. Their effectiveness has, however, been put into question after what the Nation observed. 
+
+There are two routes to Western Kenya: Nairobi-Nakuru-Mau Summit or Nairobi-Mai Mahiu-Narok. The Narok route leads to Kisii, Migori, Oyugis, Rongo, Isebania, Kilgoris and Nyamira. The Nakuru route leads to Kisumu, Kakamega, Mumias, Bungoma, Kitale, Eldoret and all the other towns in north-West Kenya. 
+
+The Narok way has road blocks in Mai Mahiu and Suswa while the Nakuru highway has officers in Limuru, Mau Summit and Timboroa. However, they are now illegal toll stations where Public Service Vehicles pay Sh1,000 per passenger to be allowed through. 
+
+Those unwilling to do so drop their passengers about a kilometre before the roadblock. They then board boda bodas, which use ‘panya routes’ to go around the roadblock and drop them at a safer place for the next part of the journey. 
+
+Part with cash 
+
+It’s an expensive and risky way to travel but both operators and passengers said they have no option. “It’s expensive because of the roadblocks. You have to part with cash at every stop. Out of the Sh3,000 (fare), Sh1,000 will go to the police,” one of the fleet operators told the Nation. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Police at a roadblock at Del Monte area that borders Kiambu and Murang'a counties on March 29, 2021.   
+Photo credit: Simon Ciuri | Nation Media Group
+
+ 
+
+On a trip to Kisii at the weekend, we witnessed packed buses all the way, although the traffic was lower than normal, signalling that several companies were adhering to the ban travel ban. Interestingly, there were many school buses on the road despite the fact that learning institutions are closed. 
+
+It raised suspicion that school buses were being used to ferry passengers since they are not banned from the road. “These roadblocks will be manned day and night to ensure compliance of non-movement into and out of the zoned areas,” said Mr Mutyambai on Thursday. 
+
+For those allowed to travel in and out of the ‘disease infested areas’, the Nation observed that officers were not checking their temperatures as was the case last year. 
+
+The roadblocks were like mini health centres last year, with medical personnel who checked temperatures and recorded personal details such as origin and places of destination for contact tracing. 
+
+Those with high temperatures were stopped from proceeding with their journeys and taken for further medical check-up. This time, provided you have the necessary travel documentation, you are allowed to pass the roadblocks. 
+
+In Nairobi, while the busy Machakos bus terminus was unusually quiet, business was booming yesterday in the back alleys of Mfangano, Tsavo, Taveta and Latema. 
+
+With buses and shuttles out of business due to their conspicuousness, their businesses have been taken over by the new vehicles of choice for long distance travel – Toyota Voxies and Noahs. 
+
+
+
+
+
+
+A boda boda operator ferrying passengers and their luggage using an alternative route to avoid a police roadblock mounted at Mau Summit junction along the Nakuru- Kericho road on March 29, 2021.
+Photo credit: John Njoroge | Nation Media Group
+
+ 
+
+At Latema Road, operators charge Sh3,000 for the 350km journey to Kisumu. “This is the eighth vehicle bound for Kisumu. We are usually here by three in the morning. I am sure some are on their way back,” one of the operators said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+More money 
+
+A few metres ahead at the junction of Tsavo and Kenneth Matiba roads, we found a fully packed matatu bound for Tharaka-Nithi. Passengers had paid Sh1,500, instead of the usual Sh400. 
+
+“Going to Meru is no big deal. Here is our parcel shuttle. You just sit at the back with the luggage and we will explain that you are one of our staff at the roadblock,” an operator at Prestige Express Shuttle offered. 
+
+Meru passengers paid between Sh1,500 and Sh2,000, inclusive of a ‘police budget’ at the Kenol roadblock. “With the police on the road, we have to ask for more money. That is why we are asking for Sh1,500 and not Sh500 as usual,” said an operator. 
+
+At Mfangano Street, just off Ronald Ngala, a Kericho shuttle was parked, waiting to fill up with passengers. 
+
+“We will deal with every other eventuality if you have Sh2,500,” a crew member told us. “We deduct Sh1,000 from every passenger's fare to deal with the roadblocks. The police are eating well as the lockdown means more money for them.” 
+
+With each shuttle carrying at least eight passengers, the operators make Sh12,000 per journey as the police take Sh8,000 per vehicle. The bigger question, however, is: How many people with coronavirus are passing through such roadblocks daily? 
+
+vachuka@ke.nationmedia.com, soketch@ke.nationmedia.com Members of the public flouting Covid-19 imposed lockdown will soon risk arrest with the help of drones. The mad rush to beat the curfew deadline has seen many people wait for hours to board a matatu. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
