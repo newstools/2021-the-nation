@@ -1,0 +1,273 @@
+A ghost school exposed in a parliamentary report last week is among four institutions a publisher could not trace in 2018, giving a glimpse into how long corrupt education officials have been stealing public funds using fictitious schools. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The publisher who had been contracted to supply books reported to the Education ministry in 2018 that they could not trace the four schools on the ground even after making enquiries to local education officials. 
+
+It’s unclear whether action was ever taken on that expose, but the matter has only come public this month following an investigation by a parliamentary watchdog that exposed how a rogue official stole free education cash channeled to one of the fictitious schools- Mundeku Secondary School in Kakamega. 
+
+Read: Scandal of thousands of ghost learners revealed  
+
+The Nation has established that in 2018, Mundeku Secondary School was among other bogus schools in the ministry records. Other schools flagged include Belgut Kaptugen Starehe Boys in Belgut Sub-county, Kericho County (152 students), Ikonge DEB in Kisii Central, Kisii County (448 students) and Dol Dol Boys in Laikipia North, Laikipia County (64 students). The three, however, did not feature in the parliamentary report. 
+
+Read: New probe in theft of school funds 
+
+A list given to publishers to supply books to schools under Secondary Quality Improvement Programme (SEQIP), for example, indicated that Mundeku had an enrolment of 1,188 students. Such high enrolment numbers are usually registered in national and a few extra-county schools. Considering that the government allocates Sh22,244 per learner in secondary school, the money lost to the rogue official could be more. The auditor had actually put the figure at Sh27,329,598.95 before the ministry submitted the lesser figure. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Theft of billions 
+
+The failure by the Ministry of Education to fully migrate to the National Education Management Information System (NEMIS) is now blamed for the theft of billions of taxpayers’ money pocketed by corrupt officials and school heads, according to the report by the Public Accounts Committee. 
+
+The Public Accounts Committee Report on the Examination of the Auditor-General’s Report on the Financial Statements for the National Government for the Financial Year 2017/2018, shows that lack of accurate data on learners has led to loss of the money through manipulation of data. In one extreme and daring case, a former clerical officer at the directorate of education offices in Kakamega County listed a non-existent school in the disbursement schedule through which he would receive funds. 
+
+The report also noted that another officer had been interdicted for inflating the enrolment data for 185 schools, resulting in the overpayment of Sh269,254,288. The cases have been referred to the Ethics and Anti-Corruption Commission (EACC) for further investigation. The report was tabled before Parliament last week by the chair of the committee, Opiyo Wandayi. 
+
+To stop the pilferage (but unconnected to the report) school heads were given up to last Thursday to register all learners in the NEMIS. Head teachers and Education officials have over the years taken advantage of loopholes in data management to steal money from public coffers. 
+
+Read: Fake receipts used to steal free schooling cash  
+
+“The ministry has been using a computer programme that heavily relies on manual input of school data into the programme by officers from MoE headquarters to disburse funds to primary schools. This mode of payment has been prone to errors,” the Principal Secretary for Early Learning and Basic Education, Julius Jwan, said in the circular on registration into NEMIS. Only learners who appear on NEMIS will receive the government capitation funds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Lack of birth certificates has previously been cited as a hindrance to the registration but Dr Jwan clarified that even learners without the document will be captured on the system. 
+
+“We have challenges especially in the rural areas where some parents don’t submit the information we ask for. Also, the system is not friendly when a learner transfers to another school and sometimes you find their details in about three schools,” said a head teacher who requested anonymity. He added that some of his colleagues also have technological challenges using the system. 
+
+Identified a loophole 
+
+In the Kakamega case, the clerical officer identified a loophole in the government system for disbursing funds to schools and registered Mundeku Secondary School. He then opened an account at Equity Bank through which he would receive the money. 
+
+The PAC report shows that the man fraudulently received Sh11,131,305.53. It, however, does not state how long the ‘school’ was in government records and how it avoided the attention of auditors. 
+
+Late last year, Education Cabinet Secretary George Magoha put the money lost yearly through manipulation of student numbers at Sh752,594,740. He also said that the ministry had established that enrolment had been inflated by 529,997. He, however, did not say how long this had been going on. 
+
+“Due diligence identified an inflation of numbers of learners from 8.47 million to 9 million learners. The shortfall of 529,997 learners has led to the saving of Ksh752,594,740 annually,” Prof Magoha said. This is the figure in the latest edition of the Basic Education Statistical Booklet. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+When then Education CS Fred Matiang’i launched the NEMIS in 2017, the objective was for it to be “the single source of truth for information for the Kenyan education system (schools, learners and facilities).” It was designed to “provide quality data that is reliable, relevant, and easily accessible.” 
+
+Read: How free education billions were stolen  
+
+In 2019, the EACC reported that it was investigating the possible embezzlement of Sh10 billion from the FPE programme. In its 2017/18 report (Inquiry Number: EACC/FI/ INQ/89/2017), the commission investigated allegations of irregularities in procurement of textbooks for public schools using the FPE funds. According to multiple sources, cartels capitalise on the data gaps to inflate the enrolment and thereafter make fictitious claims. 
+
+Billions of shillings were lost even before NEMIS was introduced. In June 2011, an audit report by the National Treasury exposed massive corruption in the FPE where Sh4.2 billion was reported to have been lost since 2005. The report was handed over to investigators by President Uhuru Kenyatta when he was the minister for Finance. Over 100 people were said to have been under investigation but no convictions were made. 
+
+dmuchunguh@ke.nationmedia.com Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
