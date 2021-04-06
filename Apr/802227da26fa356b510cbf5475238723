@@ -1,0 +1,151 @@
+Some media houses recruit practitioners not on the basis of their academic qualifications but popularity on social media.Journalism graduates are now lining up with social media influencers to audition for jobs that they are more qualified for. These past weeks practically unravelled the risks and potential damage of media houses employing self-proclaimed ‘media practitioners’ with little or no training in the field. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For many local radio stations, it is less about upholding media ethics and values and more about garnering a larger audience than your competitor. 
+
+Qualified media practitioners have watched despondently as their promised positions in the industry are taken up by ‘celebrities’ and ‘media personalities’. 
+
+Traditional media in Kenya is slowly shifting the spotlight from the main agenda of journalism — keeping their audience informed — and instead fix it on members of the Fourth Estate.  
+
+Some media houses recruit practitioners not on the basis of their academic qualifications but popularity on social media. Journalism graduates are now lining up with social media influencers to audition for jobs that they are more qualified for. 
+
+Watching the trending video involving three male presenters on Homeboyz Radio whom the Communication Commission of Kenya (CK) penalised for promoting gender-based violence against women, I was appalled at the level of ignorance they portrayed — not just in regard to personal ethics but also as practitioners in traditional media.  
+
+Power of agenda setting 
+
+The “Code of Conduct for the Practice of Journalism in Kenya” is clear as regards sexual discrimination, reporting on matters in regards to acts of violence and sensitively referencing to victims of sexual abuse. The three, who clearly displayed distorted moral values, would at least have avoided such a blunder had they knowledge on media practice. 
+
+Media practitioners ought to understand the power of agenda setting. The bold idea that the audience knows what it wants deludes media houses into recruiting controversial social media influencers and ‘celebs’ in the name of giving the audience what it wants. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But the audience will only know what they want from what you give. In many cases, they may have no idea what they want until you give them something that makes them realise they needed it all along but just didn’t know they did. 
+
+Media practitioners have the power to impact the society, to affirm what is morally acceptable or not. It is not how popular a radio presenter is that will make me tune in to a show; it is how well informed they are and how interactive, inquisitive and diligent they are in doing their homework. 
+
+Traditional media is slowly losing its influence, impact and audience, partly because media practitioners involved are trying too hard to copy what goes on in social and digital or new media. 
+
+Today’s ‘journalists’ are ignorant of the guidelines and laws that precede journalism. It’s time we let social media celebrities remain as just that and stop ending their careers by throwing them into the deep waters of traditional media without first teaching them how to swim. 
+
+Mr Maina is a communication and media student at Kenyatta University. kevomaina15@gmail.com Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
