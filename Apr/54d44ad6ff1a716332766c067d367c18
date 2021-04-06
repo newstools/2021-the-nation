@@ -1,0 +1,151 @@
+An Ethiopian Airlines cargo plane flying from Addis Ababa into Zambia accidentally landed at an airport that is still under construction, a government official and the airline said Monday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The plane hit the tarmac on Sunday at the uncompleted airport in Zambia's northern Copperbelt province, which is currently served by the Simon Mwansa Kapwepwe International Airport around 15 kilometres away. 
+
+The transport ministry's permanent secretary Misheck Lungu said the pilot had landed at the future Copperbelt International Airport "by error". 
+
+"When he was about to land he was communicating with the radar and they told him, 'We can’t see you'," Lungu told AFP.  
+
+"So he used his sight as he had no control and landed at an airport still under construction." 
+
+Lungu added that no damage resulted and said investigators would issue a "comprehensive report" on the incident. 
+
+The pilot later flew the plane to its original destination. 
+
+Ethiopian Airlines confirmed the incident and said details were being investigated in cooperation with Zambian authorities. 
+
+In an emailed response to AFP, a spokesperson said that pilots had not been notified of the construction of a new airport with "the same runway-heading orientation" as the existing one. 
+
+"The fact that there was no NOTAM (notice to airmen)... and the close proximity between the two airports may have contributed to the incident," the spokesperson said. 
+
+Zambia is Africa's second-largest copper producer, with most of the mineral found in the so-called Copperbelt.  
+
+The opening of the province's new Chinese-built airport had initially been scheduled for mid-2020, but was delayed by the coronavirus pandemic. 
+
+Once completed, the $397 million facility will have a greater carrying capacity than its predecessor, with upgraded amenities and 3,500 metres of runway.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Cargo flights have helped Ethiopian Airlines remain financially viable during the pandemic, with Africa's largest carrier repurposing dozens of passenger planes as freight transporters. The approval hitch looks set to ease competitive pressure on Kenya Airways, which uses JKIA as its main cargo hub. The cause of the fire is still unknown. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. This comes even as angry Kenyans on Monday went online to protest the latest Sh257 billion loan from the IMF.
