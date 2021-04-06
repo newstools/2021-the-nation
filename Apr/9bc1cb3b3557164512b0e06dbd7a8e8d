@@ -1,0 +1,231 @@
+Our economists are beholden to the West and their powerful institutions. African governments enjoy little policy autonomy and leverage. Africa has economists who graduated from prestigious universities. Some of these scholars occupy privileged positions, where they are expected to utilise their knowledge and generate solutions that could help Africa to shed its dubious tag of global hopelessness. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But that has not happened, and is unlikely to happen, because our economists are beholden to the West and their powerful institutions.  
+
+African governments enjoy little policy autonomy and leverage. The World Bank and the IMF have seconded personnel to the National Treasury and the Central Bank of Kenya and across the continent to ensure Washington’s policy dictates are carried out, no matter how destructive.  
+
+Africa is expected to implement policies that have been rejected elsewhere. Our Economics students are often taught utopianism, replacing commonsense with untested textbook theories. They are the proponents of neoliberal economics. 
+
+I have previously faulted international organisations and implicated some of them in the ever-worsening economic situation in Africa. I explained that an outsider, no matter how well-meaning, has his own agenda. This is because nationalism and vested interests, not ultraism, drive international development cooperation.  
+
+Increased food demand 
+
+African governments interested in sustainable development must be creative, pragmatic and even defiant. They should always question what industrialised nations and their institutions recommend. It is okay to take a different development path if that would benefit the homeland. 
+
+In 2016, the African Development Bank (AfDB) observed that increased food demand, changing consumption patterns, population growth and urbanisation would sharply drive up food imports — from $35 billion (Sh3.5 trillion) in 2015 to over $110 billion by 2025. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+To mitigate against this crisis, the bank tasked Chiji Ojukwu, its director in the Agriculture and Agro-Industry Department, to convene top economists with the view of developing and costing a continent-wide agricultural development strategy.  
+
+In 2016, the bank launched an ambitious “Feed Africa” 2016-2025 Agricultural Transformation Strategy that promised to deliver the following by 2025: Eliminate extreme poverty; end hunger and malnutrition in Africa; make the continent a net food exporter; and move Africa to the top of export-orientated global value chains where it has comparative advantage.  
+
+'Hunger Hotspots' 
+
+It posited that neoliberal policies, underpinned by free markets, would help the continent to capture commercial opportunities in the agricultural sector, as was the case with other developing countries — notably, Brazil, Malaysia and Vietnam. 
+
+This is yet another heartbreak. Africa is nowhere near meeting any of those soaring promises. Undernourishment has risen — from 17.6 per cent in 2014 to 19.1 per cent in 2019 — or 250 million people. 
+
+African countries are spending more on food imports. In their “Hunger Hotspots” joint outlook for March to July 2021, FAO and WFP warned that there were 20 countries (14 in Africa) whose populations were likely to face acute food insecurity, putting lives at risk. 
+
+The continent remains as it were some 50 years ago — a chief producer of raw materials and unprocessed commodities. Its share in the global value chains is negligible. 
+
+AfDB’s Agricultural Strategy is openly neoliberal for it seeks to place the private sector, not governments, in the driver’s seat. The bank has argued that a “well-functioning and vibrant private sector can manage and allocate skill and capital to scale emergent success and drive long-term sustainable agribusiness growth”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Improve food security 
+
+But alas! How would this work when the private sector in Africa is neither well-functioning nor vibrant?  
+
+The daunting task itself, of feeding people and reviving the agriculture sector, is too important to be left to profit-seeking enterprises. Farmers and governments — not the business community — bear the responsibility of keeping rural Africa developed and countries food-secure. 
+
+AfDB failed to acknowledge and disclose that Malaysia and Brazil were successful most likely because of their large government subsidy programmes. Brazilian soya bean and grain farmers receive large but relatively less subsidies than their American and European counterparts.  
+
+Last year, the Malaysian government handed out subsidies of about Sh615,000 to each of its 1,200 glutinous rice farmers in Langkawi. In all, those growing padi rice received subsidies worth Sh20 billion. Malaysia is interested more in self-sufficiency than the market efficiency that both World Bank and AfDB promote.  
+
+These subsidies improve food security, boost productivity and address poverty in rural areas. Brazil uses subsidies to support its farmers to compete with American and European multinationals that are also heavily subsidised. Africa needs economists who are truthful, genuine and bold. 
+
+Mr Chesoli is a New York-based development economist and global policy expert. kenchesoli@gmail.com. FAO has in that past questioned Africa's addiction to imported food and agricultural products. Africa’s dire circumstances reflect a failure of its political and intellectual class to find sustainable paths for economic growth. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
