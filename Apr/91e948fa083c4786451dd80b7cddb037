@@ -1,0 +1,77 @@
+The Hague, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The EU's drug regulator said Tuesday it is still deciding whether the AstraZeneca coronavirus vaccine causes blood clots, after a top official said there was a clear link. 
+
+The European Medicines Agency's safety committee "has not yet reached a conclusion and the review is currently ongoing", the Amsterdam-based EMA said in a statement to AFP. 
+
+"We will communicate and hold a press briefing as soon as the review is finalised. This is currently expected tomorrow (Wednesday, 7 April) or on Thursday, 8 April," it added. 
+
+The statement came after the EMA's head of vaccine strategy Marco Cavaleri was quoted in Italian media as saying that there was a "clear" connection and that the agency would announce it within hours. 
+
+"In my opinion, we can say it now, it is clear there is a link with the vaccine. But we still do not know what causes this reaction," Cavaleri told Italy's Il Messaggero newspaper in an interview. 
+
+After several countries suspended the use of the AstraZeneca jab, the EMA said on March 18 that the benefits of using it outweigh the risks and it should remain in use. 
+
+But it has said there is a possible link to rare blood clots and that it would issue updated advice during this week's meeting of its safety committee. But as is true of all medications, risks must always be weighed against benefits. The UK medical regulator said Saturday that out of 30 people who suffered blood clots after receiving the shot, seven have died. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
