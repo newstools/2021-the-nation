@@ -1,0 +1,161 @@
+Commuters along the Hola-Garissa highway have been left stranded following heavy rains that have rendered parts of the Garissa-Hola road impassable. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The flash floods have cut the road at Bilbil area, 4 kilometers from Bura town. 
+
+This has now seen several buses headed to Hola from Nairobi and those headed to Nairobi from Bura turn back to the nearest towns, while other passengers take the risk to swim across the flooded section. 
+
+Some angry commuters narrated their frustrations that have left children headed for Hola from Nairobi starve on the road. 
+
+"We spent the night on the road. Hours later, we still have no rescue, and now my children are hungry. I can’t risk swimming across," said Saumu Ibrahim, one of the affected passengers. 
+
+Vehicles carry goods destined for Hola have been forced to wait in Garissa as the Kenya National Highway Authority (Kenha) issued travel advisory, warning motorists to keep off the affected sections. 
+
+Buses plying the same route have been forced to park in Garissa, as they wait for the water to subside. 
+
+With the help of some youth at a cost, travelers have been forced to alight from buses and swim across, to board other waiting vehicles. 
+
+"You can't risk swimming across alone, as people have drowned here before. So, the travelers must depend on the young men, who “know the way” in the water," said Abdi Shukri. 
+
+Kenha on the other hand has advised commuters to avoid the road as it assesses the damage. The affected section is a part that was scheduled for repair after the floods in 2018. 
+
+According to County's Roads Executive Eng. Stephen Wachira, the administration had addressed the concerns over the road with the Kenha regional office, who promised to work on the section, which has now been washed away, for the fifth time. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"They came up with the design and awarded the contract, but the pace has been too slow considering that this is a commercial road serving vehicles from Mombasa headed to Garissa and Nairobi," he said. 
+
+Mr Wachira, however, noted that their appeals have been ignored by the road’s agency, while the situation repeats every rainy season. 
+
+According to Mr Wachira, Kenha was supposed to fix culverts in the broken path, with each culvert costing Sh12 million. 
+
+Kenha Regional Manager, Erick Wambua, however, notes that the contract was awarded in October 2018, but could not commence following subsequent floods in 2019 that once again washed away parts of the road. 
+
+However, he noted that the agency advised the contractor to create a diversion before the rains, opinion that may have been ignored. 
+
+"It is something we anticipated and advised the contractor to prepare a diversion, but he delayed, though I am informed he is currently on-site doing the necessary," he said. 
+
+Heavy rains in the Eastern side have been blamed for the current situation. 
+
+Tana River County Commissioner Mbogai Rioba called on residents to cease traveling towards Garissa until Kenha finds a safe solution to the problem. The county is yet to fully exploit the resources found in its waters, despite hosting two lakes. Political tension, conflict and natural disasters have been blamed for East African region’s large refugee and displaced populations. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
