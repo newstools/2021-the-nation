@@ -1,0 +1,173 @@
+CS Kagwe announced 14 more deaths, six of them over the last one month and eight from the audit of facility records, raising the toll to 2,258. The number of Covid-19 recoveries in Kenya on Tuesday increased by a record 2,217, the Health ministry announced, saying a majority of the patients had been hospitalised. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a statement, Cabinet Secretary Mutahi Kagwe said 1,542 people had been admitted while 675 were treated at home. The total number of recoveries was 96,578. 
+
+CS Kagwe announced 14 more deaths, six of them over the last one month and eight from the audit of facility records, raising the toll to 2,258. 
+
+In terms of new infections, he announced 394 more, from a sample of 2,923 analysed over the past 24 hours, which increased the total to 139,842. The positivity rate stood at 13.5 per cent. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+All but 20 of the new patients were Kenyans whereas 209 were male and 185 female, the youngest eight months old and the oldest 95. 
+
+Since confirming its first Covid-19 infection last March, the country had tested a total of 1,523,313 samples for the disease by Tuesday. 
+
+In terms of case distribution, Nairobi County led with 246 and was followed by Kiambu with 29, Machakos 23, Uasin Gishu 22, Kitui 20, Nakuru 15, Kajiado and Kilifi 10 each, Trans Nzoia five, Mombasa four, Murang'a three, Makueni two, and Nandi, Taita Taveta, West Pokot, Elgeyo Marakwet and Embu one each. 
+
+As of Tuesday, 1,576 Covid-19 patients had been admitted to health facilities countrywide while 6,182 were under home-based isolation and care. 
+
+Some 205 patients were under intensive care, 46 of them on ventilatory support, 130 on supplemental oxygen and 29 under observation. 
+
+Another 257 patients were separately on supplemental oxygen, 242 of them in general wards and 15 in high dependency units. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+CS Kagwe further reported that 325,592 Kenyans had been vaccinated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He said there had been 277 cases of adverse side effects, including headaches, but that reports indicated that a majority of them cleared within two days. 
+
+Those vaccinated so far were in Nairobi (108,180), Nakuru (23,511), Uasin Gishu (18,516), Kisumu (13,644) and Kiambu (13,623). 
+
+ambuthia@ke.nationmedia.com Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
