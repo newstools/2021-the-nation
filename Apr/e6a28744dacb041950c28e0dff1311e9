@@ -1,0 +1,251 @@
+For the dead to be buried in a mass grave without Islamic rites would be considered an abomination in a country which is 90-percent Muslim. Neither Mohamed Diop nor his fellow mourners knew any of the people they were burying. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+What had prompted these people to attend the funeral, a sombre Islamic ceremony at a cemetery in Dakar, was not love, friendship or even knowledge of the deceased, but simply a sense of duty and charity. 
+
+For almost 10 years, volunteers with the Jamiyatou Rahmati Wal Ihsani (JRWI, or Association for Solidarity and Perfection in Arabic) have taken it upon themselves to provide the unidentified dead with a Muslim funeral. 
+
+For the dead to be buried in a mass grave without Islamic rites would be considered an abomination in a country which is 90-percent Muslim. 
+
+On a day in late March, 28 bodies without names -- 23 men, two women and three children -- received a dignified burial, with several hundred people in attendance. 
+
+A sense of duty 
+
+The JRWI activates its network for the funerals, but not all the mourners are members. 
+
+Faith, a sense of duty and the hope of divine recognition are some of the reasons why people gather to honour those to whom they have no ties. 
+
+"I came thinking of my final fate. I do it hoping for a divine reward, and it is not the first time," acknowledged Diop, who is in his twenties. 
+
+Mohamed Gueye, an imam in a poor Dakar neighbourhood, recalled what inspired him to help found the charitable organisation. 
+
+"One day I saw a vehicle enter the cemetery and leave shortly afterwards. 
+
+"When I asked, they told me it had to do with unidentified people who were being buried and that it was often in a mass grave, without respect for Islamic rules." 
+
+They include a ritual washing of the body, a white shroud and a prayer, the imam explained. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Giving unknown people a proper burial is something "that we do for God," he added. 
+
+Nameless dead 
+
+JWRI volunteers recover the people to be buried at public hospitals, as they had done that day at one called Le Dantec. 
+
+Hospitals must keep deceased patients for 45 days before they are placed in the association's care, it said. 
+
+Senegalese hospitals did not respond to questions from AFP on the subject. 
+
+It was not known how many unidentified people die each year, nor what happens to bodies if the association cannot take care of them. 
+
+It is not uncommon for bodies remain unidentified or for families not to claim them -- the reasons can be various, from breakdowns in family ties to administrative failings. 
+
+The head of the capital's fire services, Colonel Papa Ange Michel Diatta, said unidentified bodies may be victims of road accidents, homeless people, or others who suffer from mental illness. 
+
+Once they have dealt with the emergency, the fire service leaves it up to hospitals to identify the deceased. 
+
+In November, JRWI also buried 13 clandestine migrants. 
+
+The group had suspended burials owing to the coronavirus pandemic to avoid exposing volunteers and because large gatherings were banned. 
+
+A simple prayer and grave 
+
+"In nine years, we have buried 1,029 people in Dakar and other regions," said Lamine Mandiang, the JRWI secretary general who works in the oil sector. 
+
+A group burial can cost the equivalent of almost 700 euros ($800), about half the average per capita annual income, according to World Bank data, and the association does not always have the money, imam Gueye says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It depends on contributions from members and others, aid from municipal governments or other public institutions, and a foundation sponsored by Marieye Faye Sall, Senegal's first lady. 
+
+Her "Fondation Servir le Senegal" (Serving Senegal Foundation) has provided vehicles to transport the deceased and mourners. 
+
+A column of hearses, ambulances and buses made its way from Le Dantec hospital along a 15-kilometre (nine-mile) route to Dakar's Muslim cemetery. 
+
+JRWI volunteers wearing green and orange uniforms unloaded the bodies, brought them into a small mosque, where a prayer was said, and bore them to a grave that had been dug beforehand. 
+
+Another imam, Mohamed Samb, said a final prayer, noting also that there were many tombs nearby that were fancier than stipulated under Islamic rules. 
+
+The 28 unidentified bodies will lie beneath a mound marked by a simple stone with no incription, Samb said. Usually the departed are accorded immense respect irrespective of how they lived. Some Kenyan communities mourn the death of their kin with great feast. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
