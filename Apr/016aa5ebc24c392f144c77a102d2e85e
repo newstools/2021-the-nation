@@ -1,0 +1,219 @@
+The confusion and utter incompetence forever put on display by this government sometimes seems like the stuff of dark comedy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Except that issues of life and death are no laughing matter. At a time when all efforts should be on a consistent and coordinated effort against the Covid-19 pandemic, the Ministry of Health is on a tragic comedy of errors and incomprehensible decision-making. 
+
+Right now, the ministry and other government departments have a lot on their hands with the deadly third wave of the coronavirus pandemic. That virtual blockade around Kenya’s economic and communications hub — Nairobi and bordering counties — is bound to dim any prospects of recovery and drive many more people into poverty, hunger and desperation. Yet, there is little the government is doing to show that it has any plans to minimise the economic impact and cushion the most vulnerable. 
+
+There are also a great many questions still crying out for answers: The slow and confused coronavirus vaccine rollout; conspiracy theories, propaganda and falsehoods that are undermining efforts to contain spread of the virus; failure to take swift and decisive action against the so-called ‘Covid billionaires’; and speculation, rumour and confusion over the best regimens for prevention and treatment. 
+
+These are just some of the issues the government needs to respond to swiftly and effectively to assuage public fears and provide clarity and direction. Instead, the hapless bureaucracy decides that the priority is to ban private sector involvement in importation and distribution of Covid-19 vaccines – a measure targeted at Sputnik V. 
+
+Clean bill of health 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There has already been a great deal of controversy about the Russian vaccine, mostly because, from inception, there was contradictory information indicating that in government the right hand did not know what the left hand was doing. 
+
+The Health ministry was denying knowledge on commercial availability of the vaccine when it had already been given a clean bill of health by the Pharmacy and Poisons Board. By the time it intervened last Friday, intense debate over Sputnik V versus the British-made Oxford-AstraZeneca had taken on both commercial rivalry and local political dimensions. 
+
+It will now be difficult for the ministry to disentangle itself from suspicion that the decision to put the brakes on Sputnik V was motivated by considerations other than medical science and the wellbeing of vaccine recipients. 
+
+It is not by accident that nearly all media reports on the Sputnik ban made mention of the fact that Deputy President William Ruto was amongst the first prominent figures to go public on getting the Sputnik jab, followed in tow by some of his political supporters. One headline called it the ‘Ruto-linked vaccine’, although there was no evidence offered that the DP was anything more than a customer like any other. 
+
+Before Dr Ruto, celebrity lawyers Ahmednassir Abdulahi and Donald Kipkorir had been quick to boast on social media their being the first and second Kenyans, respectively, to get Russian vaccine. The two delight in showing off their wealth, jet-set lifestyle and material acquisitions and would attract just the mild interest and curiosity due other social media socialites. When Dr Ruto followed up with the same jab, however, it assumed dimensions of a political statement. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Negative publicity 
+
+The Deputy President of the Republic of Kenya consciously opted for the Sputnik vaccine in the midst of growing debate over whether it was superior to the government-issue AstraZeneca, which was already generating a lot of negative publicity across the world over safety concerns. 
+
+Dr Ruto is a clever man and would not have been blind to the optics. He had also been a conspicuous absentee when President Uhuru Kenyatta and a clutch of Cabinet secretaries got their jabs at State House in a belated public vote of confidence in AstraZeneca. His aides say he was not invited to the State House event but Dr Ruto subsequently ‘voting’ for the ‘rival’ drug was quite telling. 
+
+The big question is whether Dr Ruto making his choice provides enough justification for the government to stop the distribution and administration of Sputnik. The decision seems petty, pointless and illogical. The government already has enough challenges delivering its vaccine to all who need it and really has no business disrupting complementary private sector efforts as long as the requisite regulatory procedures are fully complied with. 
+
+In the meantime, the government should be paying more attention to answering the myriad legitimate queries over vaccine safety and establishing an effective public education and information mechanism that is equal to the task of effectively responding to the deluge of fake news and propaganda around Covid-19. 
+
+mgaitho@gaitho.co.ke www.gaitho.co.ke @MachariaGaitho Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. This comes even as angry Kenyans on Monday went online to protest the latest Sh257 billion loan from the IMF.
