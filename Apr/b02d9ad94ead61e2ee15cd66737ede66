@@ -1,0 +1,151 @@
+The Nairobi County Assembly has adjourned its sittings indefinitely following a spike in Covid-19 cases which has seen six MCAs hospitalised with two fighting for their lives on life support machines. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The suspension comes after more than 40 ward representatives tested positive for the deadly virus with around 15 still battling the disease. 
+
+The assembly had just resumed its sittings on Tuesday morning after a two-week recess that started on March 18, 2021. 
+
+While passing the procedural Motion to adjourn the House sine die, the county legislators agreed that Covid-19 has spread in the Assembly hence the need to adjourn until the curve flattens. 
+
+Majority Leader Abdi Guyo, while moving the Motion, said he had just recovered from Covid-19 that had even affected members of his family. 
+
+The Matopeni/Springvalley MCA said the Assembly will now suspend its plenary sittings until further notice till the cases subside. 
+
+Victims of the disease 
+
+“This disease is serious and we are heeding what the President directed. Most of us have been victims of this disease. Right now we have two of our members in ICU and more than 40 have tested positive,” said Mr Guyo. 
+
+Seconding the Motion, Minority Leader Michael Ogada said nothing should be put ahead of people’s lives and the break is necessary to monitor the spread of the disease. 
+
+“Nothing is as important as life and our coming here will affect our lives. This virus has claimed many lives. Let’s take a break and adhere to Ministry of Health protocols,” said the Embakasi MCA. 
+
+Speaker Benson Mutura said committees of the House can continue meeting virtually in case there is important Business brought before them. 
+
+“I now propose to suspend Tuesday and Thursday sittings and any other sittings as may arise, like committees, will be done virtually. The clerk of the assembly is requested to facilitate all other committee meetings virtually,” said Mr Mutura. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The assembly has been holding its sittings two times every Tuesday (morning and afternoon sessions) and in the afternoon every Thursday. 
+
+comulo@ke.nationmedia.com The workers had been receiving treatment at various hospitals across the county. Most county executive affairs are being handled outside the county incurring huge costs. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
