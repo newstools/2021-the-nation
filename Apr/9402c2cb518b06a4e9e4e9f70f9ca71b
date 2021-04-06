@@ -1,0 +1,161 @@
+Renowned benga musician Albert Gacheru, who in 1990s produced many recording artistes, has died at the Kenyatta National Hospital. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Gacheru, who was known for his two hits "Mwendwa wakwa Mariru" and "Mumunya", was the producer behind artistes such as the late Queen Jane, the late John Demathew and gospels singers such as Mary Wambui and Shari Martin. 
+
+His brother Julius Kanyora told the Nation that Gacheru had been in the ICU for the last two months and died last night at 9pm. 
+
+
+
+
+
+
+Albert Gacheru during an interview with the Nation on June 1,  2011.
+Photo credit: File | Nation Media Group
+
+ 
+
+Born in Nyandarua, the trained accountant – who later did law at the Mt Kenya University – fought in courts for the rights of musicians  and for the streamlining of the copyright act to protect both the musicians and the producers. 
+
+His battle against music pirates saw him lodge various cases at the High Court where he represented himself. 
+
+But his music production house suffered in early 2000 when his shop and studio in Nairobi burnt down with all his tapes recordings – a setback that saw him retreat. He blamed the fire on the pirates who were determined to bring him down. 
+
+Before that, vandals and thieves had broken into his Wamaitu Productions shops in Nairobi and stolen equipment. 
+
+Gacheru was also involved in organising musicians and was once a director of Music Copyright Society of Kenya and also the Kenya Music Composer Association. 
+
+
+
+
+
+
+Music Copyright Society of Kenya chairman Albert Gacheru (centre), Bernard Mukaisi (left) and chief executive officer Merit Simiyu during a press briefing on July 31, 2017.
+
+ 
+
+Some of the hits that he produced included My Dear Nduku by John Demathew and Maray Wambui's Ahadi ya Bwana. 
+
+Gacheru had started off in in 1980s by opening a hardware shop along Duruma Road Nairobi before turning it into a music shop in mid 1980s when his song Mumunya hit the market. 
+
+His hunt for pirates would taken him to the their dungeons in Kampala and Dar es Salaam as he hunted for evidence of who was pirating his recordings. While he received serious death threats then, Gacheru managed to weather the storms. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
