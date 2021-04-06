@@ -1,0 +1,273 @@
+An increase in human-wildlife conflict has been reported in parts of Taita Taveta raising fears of food insecurity due to invasions on farms.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Kasigau ward alone, more than 200 farms have been invaded by marauding elephants from Tsavo National Park that have made the fields their home. 
+
+Farmers have expressed fears that they will soon stare at poverty and depend on food aid from the government if the menace is not resolved.  
+
+The rising conflict has seen residents to demand that Kenya Wildlife Service (KWS) drive the elephants from the farms. 
+
+Locals in the affected areas of Kasigau, Sagalla and Marungu wards said invasions have been on the increase as elephants have made their farms their grazing fields. 
+
+
+
+
+
+
+
+
+
+
+
+A pawpaw farm which was destroyed by elephants in Miasenyi, Taita Taveta county on photo taken on April 5, 2021. The residents are blaming KWS for failing to take immediate action.
+Photo credit: Lucy Mkanyika I Nation Media Group. 
+
+ 
+
+"All my crops were destroyed by elephants last night. I don't know where to start," says Mariana Mangi, a Kasigau resident. 
+
+The perennial invasions have since forced the residents to protest to authorities against the menace.  
+
+Some of the residents say they have abandoned their farms as their crops keep being destroyed by the elephants every harvesting season.  
+
+ Janet Matano, a Miasenyi resident says their farm was invaded on Saturday night and the jumbos destroyed their vegetable crops and 20 fruit trees.  
+
+"The farms belong to our widow's group. All the pawpaw trees have been destroyed," she says. 
+
+They had done electric fencing around their farm, yet the elephants managed to enter and destroy the crops and trees.  
+
+"We have complained to KWS, and they have promised to take action, but for how long will we be incurring such loses?" she poses. 
+
+Another Miasenyi resident Philomena Wakesho say 11 elephants are on the loose, terrorising residents in the area. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Wildlife organisations have issued residents with bright flashing lights and air horns to keep away the elephants, but they are no longer scared of the tricks. 
+
+Kasigau Member of County Assembly Ibrahim Juma say they are lobbying to have a KWS camp in the area to have the rangers reachable on time.  
+
+"The elephants are still in the farms. We fear for the security of residents," he says.  
+
+Cases of human-wildlife conflicts are not new in the area but are on the rise. 
+
+
+
+
+
+
+
+
+
+
+
+A  farm which was destroyed by elephants in Miasenyi, Taita Taveta county on April 5, 2021. The residents are blaming KWS for failing to take immediate action.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+For years, the residents have suffered invasions but those who spoke to nation.africa said the conflict has increased in the recent past.  
+
+The residents say they are used to sharing space with the wild animals, which are protected by law even on the private property. 
+
+Conservationists believe that the cases have soared due to increasing human encroachment on wildlife corridors, which has forced the elephants to enter human settlements in search of pasture and water, leading to conflicts. 
+
+"Now we see them every day. We cannot move around the village even during the day because the elephants roam around the whole day," says Bughuta resident John Mwafungo, complaining about the damage the jumbos have caused to his crops. 
+
+The government compensation to losses caused by wildlife has also been slow. Decades after the launch of the kitty only a handful of residents have been compensated.  
+
+"It is a tedious job to get the compensation. We are asked to fill forms and submit them to KWS but we never get the money. It is better to not claim the compensation," Nelson Mwadime says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Despite the efforts that has been put into understanding and resolving the human wildlife menace in the county, no clear solution has emerged. 
+
+In parts of the county, locals have declined to allow KWS to erect electric fence to prevent the elephants from trespassing from Tsavo into the community land.  
+
+In 2019, residents moved to court to block the construction of 96-kilometre along Mgeno-Maungu-Kasigau stretch claiming that KWS wanted to convert more land in to a conservation area. 
+
+The Sh265 million project has now stalled as the government waits for court ruling to either continue or stop the construction works. 
+
+KWS is working with private rangers from Wildlife Works to keep the wild animals from destroying crops and invading human settlements in villages adjacent to Tsavo National Park.  
+
+Efforts to reach acting Tsavo Assistant Director Ken Ochieng were futile as he was unavailable on phone.  The county is yet to fully exploit the resources found in its waters, despite hosting two lakes. Extensive campaigns by elders, local administrators, targeted traditional circumcisers, sponsored their alternative activities Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
