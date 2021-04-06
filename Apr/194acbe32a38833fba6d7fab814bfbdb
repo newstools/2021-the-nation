@@ -1,0 +1,83 @@
+Tanzania last released data on Covid-19 almost a year ago with data then showing that Tanzania only had 509 cases. Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tanzanian President Samia Suluhu Hassan intends to form a committee of experts to evaluate the Covid-19 pandemic and advise the government on the way forward. 
+
+President Suluhu said Tuesday that Tanzania needs to have a clear and understandable position on the pandemic so that it can make informed decisions. 
+
+The country cannot continue to rely on external reports on the pandemic while it has none, she said. 
+
+“On the issue of Covid-19, I think I should form a committee of experts to look at it professionally and then advise the government. It should not be silenced, rejected or accepted without professional research,” she said. 
+
+"We cannot isolate ourselves as if we are an Island but also, we cannot accept everything brought to us. We cannot continue just reading about Covid-19 worldwide, yet Tanzania is all blank [sic]. It is incomprehensible. 
+
+“Tanzania needs to have its own understanding of where we stand on the issue of Covid-19." 
+
+Tanzania last released data on the pandemic almost a year ago, which showed that the country had only 509 cases. 
+
+At the time, the late President John Magufuli said his country was free from Covid-19 while authorities encouraged local remedies such as steam therapy. 
+
+Read: Tanzania to continue with steam therapy 
+
+Magufuli's government also said Tanzania would not procure vaccines despite the insistence of the World Health Organization (WHO) that the jab was necessary in curbing the spread of the virus. President Suluhu suspends Deusdedit Kakoko over allegations of massive embezzlement at the ports authority. In five years, he achieved more than just about any African leader in the past 40 years. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
