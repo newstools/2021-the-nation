@@ -1,0 +1,173 @@
+More than 1,800 inmates have escaped after a heavily armed gang attacked a prison in southern Nigeria using explosives, correctional authorities said Monday, in one of the West African country's largest jailbreaks. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The attackers blasted their way into the Owerri prison in Imo state, engaging guards in a gun battle and breaking out inmates, the national corrections authority said in a statement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gunmen attack Nigeria prison facility, free scores of inmates
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+"I can confirm that the Imo State command of the Nigerian Correctional Service was attacked by unknown gunmen in Owerri," Imo state corrections service spokesman James Madugba said, adding that the number of escaped inmates was yet to be confirmed.  
+
+"The situation is under control," he said. 
+
+The assailants arrived in pickup trucks and buses before storming the facility, the correction authority said. 
+
+No group claimed responsibility for the assault, though President Muhammadu Buhari called the attack an "act of terrorism" carried out by "anarchists" and urged security forces to capture the assailants and the escaped detainees. 
+
+Prisons in Africa's most populous country are often overcrowded, and as many as 70 percent of inmates are on remand and can be held awaiting trial for years. 
+
+The governor of neighbouring Abia state imposed a night curfew on two towns there, a statement said, to protect local residents without direct reference to the prison attack.  
+
+Imo state is part of a region that has long been a hotbed for Nigerian separatist groups and where tensions between federal authorities and the indigenous Igbo population are often high. 
+
+The Indigenous People of Biafra (IPOB) separatist movement has recently been posting videos on social media of dozens of its militiamen in training. 
+
+Authorities imposed a curfew on parts of Imo State earlier this year after clashes between the army and the local militia. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But IPOB spokesman Emmanuel Powerful rejected any involvement in the Imo prison attack in a statement, dismissing any accusations as "lies". 
+
+Calls for a separate state of Biafra in the south are a sensitive subject in Nigeria, after a unilateral declaration of independence from British rule in 1967 sparked a brutal 30-month civil war. 
+
+Buhari is facing several security challenges including a more than decade-long jihadist insurgency in Nigeria's northeast, a spate of mass kidnappings by criminal gangs in the northwest and a surge in piracy on commercial shipping in the Gulf of Guinea off the coast. Police said assailants had attacked the site on the second day of violence in the city of 20 million people. Failure to wear a face mask in public attracts a six-month prison sentence. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. This comes even as angry Kenyans on Monday went online to protest the latest Sh257 billion loan from the IMF.
