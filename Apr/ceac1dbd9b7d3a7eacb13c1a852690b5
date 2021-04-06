@@ -1,0 +1,157 @@
+One of Dr Matiangi’s enduring legacies in his stint as the Education CS was the streamlining of examination administration.The bold measures he instituted with tenacity and grit in 2016 entirely eradicated exam cheating. In one of his enthralling fables related with brio and flair, Aesop, the nonpareil wit from ancient Greece, narrates the story of Mercury and the woodman. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+One day, a poor woodman was hewing a huge tree on the margin of a deep pool in the forest. The sun was setting and the woodman was exhausted, having worked nonstop since sunrise. 
+
+It so happened that the axe accidentally slipped out of his hands into the pool. Dejected and forlorn, he bemoaned his harsh fate. The axe was all he had to make a living; he could not afford another one. 
+
+As he stood sobbing in agony, the god Mercury  suddenly appeared and sought to know the cause of his distress. After he narrated his tale, Mercury dived into the pool and emerged with a golden axe. 
+
+“Is this your axe?” Mercury inquired. “No,” said the woodman. Mercury sprang back into the pool and came out with a silver axe but the honest woodman said it wasn’t his. When Mercury retrieved the wooden axe, he was touched by the woodman’s candour and gifted him with the other two. 
+
+The story spread and several woodmen trooped to the forest. They hid their axes and pretended to have lost them. When Mercury appeared with the golden axe, each one claimed it was his. Outraged by their brazen perfidy, Mercury reached for his whip and lashed the liars, who fled home empty-handed.  
+
+Eradicated exam cheating 
+
+Here, Aesop fulminated against deceit and mendacity while exalting probity and moral rectitude.One of Dr Fred Matiangi’s enduring legacies in his two-year stint as the Education Cabinet Secretary was the streamlining of examination administration. 
+
+The bold measures he instituted with tenacity and grit in 2016 entirely eradicated exam cheating and restored credibility and faith in a system hitherto plagued by leakages and malpractices. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Worryingly, exam cheating has re-emerged. 
+
+The Daily Nation of March 26 reported that nearly half of the questions in the English Language paper were lifted verbatim from two books and a test sold to a number of schools in February, casting doubt on the integrity of the KCPE exams. 
+
+The newspaper also revealed on April 2 that test papers suspected to be part of the ongoing KCSE exams are being hawked on social media platforms. 
+
+That some teachers and parents are accomplices to exam fraud is an indictment of our society and depicts the moral abyss into which we have sunk. 
+
+Exam cheating is deleterious to students and society. Exposing some students to exam materials before the tests begin disadvantages and dispirits other candidates and jumbles up the national scores. 
+
+Secondly, since admission to institutions of higher learning is based on misleading grades, it results in “half-baked” graduates. To paraphrase Shakespeare in Macbeth, “...their titles hang loose about them like a giant’s robe upon a dwarfish thief”.  
+
+Thirdly, cheating encourages students to glorify shortcuts in life as a means to rapid success. As Aesop’s compatriot and fellow savant Sophocles the tragedian said, “I would prefer even to fail with honour than to win by cheating”. 
+
+Mr Maosa is a banking and finance expert. vinnymao Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
