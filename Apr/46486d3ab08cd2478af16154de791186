@@ -1,0 +1,153 @@
+Boda boda operators are showing Kenyans their real face. A few weeks ago, some riders in Nyeri County trailed people they suspected of being in a group that was allegedly harassing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They caught up with them in a hospital, where they had been taken by police who had saved them from mob justice. 
+
+The riders then killed the patients in front of the helpless police officers and shocked hospital workers and patients. Recently, a boda boda vigilante group razed a home in Gachuiro Village, also in Nyeri, belonging to a man they suspected belonged to a gang that was stealing motorcycles. 
+
+This is quite worrying because the riders are taking the law in their hands and committing heinous crimes with impunity. We might be made to think our law enforcement agencies, the police and county administration have allowed this as the ‘new normal’. 
+
+The going-ons in Nyeri have been replicated in many other counties and the boda boda operators still roam free. Since the government allowed boda boda to operate during the President Mwai Kibaki era, when he made it possible for young men and women to access motorcycles by relaxing taxes. 
+
+That made the machines widely affordable and gainfully engaged youth across the country. However, the sector has become pure sorrow and grief to Kenyans. 
+
+Uncountable accidents caused by rogue operators have been its signature. They have become nothing but terror. Whereas Kenyans saw in boda boda hope of affordable and quick transport, there has emerged fears of being robbed while being ferried in them or maimed as the rider does not even know the basic traffic rules. 
+
+Huge concern 
+
+This should be a huge concern to our law enforcement agencies. Some of them are well-behaved and have proven this industry can grow and take them places but a majority behave like they belong to the once-dreaded Mungiki sect that took the intervention of minister John Michuki to bring order to the then-moribund matatu industry. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The indefatigable Interior Cabinet Secretary Fred Matiang’i should direct his energies into bringing this “hustler” industry, as they call themselves, into seeing the importance of maintaining law and order; otherwise, they will soon become a hydra. 
+
+David M. Kigo, Nairobi 
+
+* * * 
+
+Day scholars, especially girls, face many challenges. It is sometimes risky and unsafe for her as she walks the long distance home. A boda boda rider may offer to help her get home but, since nothing is for free, he might demand for some sort of ‘payment’. 
+
+This is a trap that has landed many girls in sexual affairs with the riders that end up in the girls either becoming pregnant or even contracting sexually transmitted infections, including HIV. 
+
+Waweru Mwangi, Kisumu Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. This comes even as angry Kenyans on Monday went online to protest the latest Sh257 billion loan from the IMF.
