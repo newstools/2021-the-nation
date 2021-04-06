@@ -1,0 +1,231 @@
+Dar es Salaam, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tanzania President Samia Suluhu Hassan on Tuesday ordered the Information ministry to lift the ban on some media outlets in a move that could define her legacy on freedom of expression. 
+
+“I am told you revoked licenses of some media outlets, including some online television stations. You should lift the ban but tell them to follow the law and government guidelines,” she said. 
+
+She was speaking during an event to swear in newly appointed Permanent Secretaries at State House, Dar es Salaam. 
+
+The new president said by lifting the bans on the media outlets, the world will no longer regard Tanzania as a country that launches unnecessary attacks on press freedom. 
+
+“But make sure that whoever is given a go-ahead to operate a media company does follow the law of the country,” she said. 
+
+The regulations, she said, must be open and punishments issued by authorities must be proportionate to the specified offence. 
+
+“You must not ban just because you have the power to do so… Lift the bans but make sure they follow the government’s regulations and guidelines,” she said. 
+
+Tanzania has some laws that are deemed repressive by media practitioners that have been used by authorities to ban newspapers and TV stations in the past few years. 
+
+Media Services Act 
+
+For instance, the Media Services Act of 2016 gives officials powers to shut down media organisations that violate their licences by confiscating printing machines. 
+
+President Samia’s stance is a complete shift from that of her predecessor, the late John Magufuli, who is on record as having publicly warned newspapers in 2017. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Speaking during a public rally in Shinyanga in January 2017, Dr Magufuli said the days for newspapers deemed to incite dissent “were numbered”. 
+
+ “We will not allow Tanzania to be a dumpsite for inciting (newspaper) content. This will not happen under my administration,” he said in January 2017, accusing two newspapers, which he did not name, of seeking to cause trouble. 
+
+“Whenever you read them, they are full of inciting content ... their days are numbered,” he said. 
+
+The statement resulted in self-censorship among some shocked practitioners. 
+
+And in March 2019, The Citizen newspaper was suspended for seven days after publishing a story that showed the shilling depreciating against the American dollar. 
+
+Similarly, in 2017, authorities banned four newspapers for what they termed as “dissemination of false information” and “threatening national security”. 
+
+Mawio Newspaper was banned for publishing an article that linked former presidents to controversial mining contracts while Tanzania Daima was banned for what authorities termed as “continuous publication of false information”. 
+
+Mwanahalisi was banned for two years after it published an article that compared Dr Magufuli with opposition politician, Tundu Lissu while Raia Mwema was banned following the publication of an article titled “Magufuli presidency likely to fail.” 
+
+On April 16, 2020, Tanzania Communications Regulatory Authority banned Mwananchi Newspaper from publishing online for six months. It was also slapped with a Tsh5 million fine for allegedly publishing “false” news. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On June 23, 2020, the Information Services Department, which registers print media outlets, announced the revocation of Tanzania Daima’s distribution and publication license as of June 24. 
+
+The statement accused the publication of breaching the law and professional ethics and banned its distribution domestically and abroad. President Suluhu says Tanzania cannot continue to isolate itself like an island. Deusdedit Kakoko's arrest follows his suspension by President Suluhu on allegations of embezzlement. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
