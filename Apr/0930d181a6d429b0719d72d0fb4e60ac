@@ -1,0 +1,317 @@
+Kenya is losing an estimated Sh8 billion every day to the Covid-19 lockdown. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is according to estimates by Mentoria Economics, a Nairobi-based think tank, which says restrictions of movement in and out of the coronavirus infested zone comprising of Nairobi, Nakuru, Kiambu, Machakos and Kajiado counties that collectively account for nearly 40 percent of the country’s Gross Domestic Product (GDP) is expected to cost the economy Sh230 billion this month alone . 
+
+The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP, according to the organisation, which has analysed lost productivity, job cuts, dip in exports and internal trade. 
+
+Mentoria Economics conducted a survey on the impact of Covid-19 measures on businesses in Nairobi compared to their performance before the lockdown. 
+
+“According to interviews we conducted with players in affected sectors such as transport, most businesses were operating at less than 50 percent of their normal capacity. To get the monthly impact of the lockdown we arrived at US$1.52 billion in losses for businesses operating half their capacity. The remaining 42 counties outside of the lockdown area significantly depend on customer demand from these five counties, thereby contributing to an additional loss of about US$0.77billion or 0.8 percent of GDP per month,” said the chief economist at Mentoria, Ken Gichinga. 
+
+“When you add 1.6 percent to 0. 8 percent, you arrive at 2.4 percent of GDP or about Us$2.3 billion, which is a daily loss of Sh8.34 billion,” he added. 
+
+Mentoria Economics estimates that a number of counties that are heavily dependent on Nairobi including Uasin Gishu, Mombasa, and Kisumu, are the most adversely affected by the lockdown. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Covid-19 wave 
+
+The survey mirrors another one undertaken by the European Commission and the Kenya Institute for Public Policy Research and Analysis (Kippra) following similar Covid-19 movement restrictions imposed in April last year. The two institutions projected that the GDP would contract by 3.8 percent if a new set of lockdown measures were to be imposed due to another Covid-19 wave, translating to a Sh362 billion loss. The Kenya National Bureau of Statistics (KNBS), in a survey published last year, estimated that up to 1.72 million workers lost their jobs in three months to June last year. 
+
+The knock-on effect of the lockdown is being felt further away including at the coast, where hoteliers say they are staring at Sh150 billion in losses over the next six months due to cancelled bookings. 
+
+President Uhuru Kenyatta announced the new restrictions last week, citing a sudden surge in infections that had seen hospitals fill up in two months. He said the lockdown, despite its adverse economic effects, was necessary to save lives. 
+
+In addition to the lockdown, the curfew was extended from 8pm to 4am in the five counties, much earlier than 10pm in other parts of the country. Bars were closed and restaurants were only allowed to provide takeaway services. The main drivers of the reduction in economic activity are the drops in labour productivity, export commodities and tourism. 
+
+“Even though Nairobi contributes 20 percent to the country’s GDP, one will have to calculate what percentage the other four counties contribute to the economy to find out the impact of the partial lockdown,” said consultant economist Dr David Ndii in an interview. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“One will also have to look at what sectors have been affected the most to calculate the losses.” 
+
+A 2019 KNBS report that ranked the contribution of the 47 counties to the GDP named Nairobi (21.7 percent), Nakuru (6.1 percent) and Kiambu (5.5 percent) as the country’s top-three richest counties. Machakos (3.2 percent) and Kajiado were also among the wealthiest. 
+
+Hoteliers at the coast are counting heavy losses this Easter season as most bookings were cancelled partly due to the lockdown in Kenya’s largest financial hub. 
+
+The chief executive officer of the Kenya Association of Hotelkeepers, Mr Mike Macharia, said the isolation of Nairobi had led to huge losses in the tourism sector. 
+
+“International clients come through Nairobi. They can’t connect to Mombasa. If you are a tourist and you land in Nairobi, you are not allowed to connect to Mombasa. So we are basically talking about a shutdown on hotel bookings,” said Mr Macharia who also sits on the Federation of Kenya Employers board. 
+
+Kenya Private Sector Alliance (Kepsa) CEO Carole Kariuki Karuga said the private sector was conducting a survey to determine the impact of the partial lockdown on the economy. 
+
+Announce incentives 
+
+“We are going to conduct a survey to determine the impact of the measures on the economy. But right now, we do not have figures on the impact of the partial measures that the President has put in place,” said Mrs Kariuki. 
+
+Nambale MP John Sakwa Bunyasi, a former economist at the World Bank, regretted that the government is yet to announce incentives to either individuals or companies hit by the new Covid-19 restrictions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+  “There should be balance between supporting businesses and households as Covid-19 is going to be with us for some time. The Government should maintain ‘malipo kwa wazee’ because they are not a dead loss to the economy,” he said National Assembly Majority Whip Emmanuel Wangwe called for long-term measures, including tax relief, to help businesses. 
+
+A Technical report by the European Commission’s Joint Research Centre (JRC) and Kippra 2020 study titled “Covid-19 Impacts and Short Term Economic Recovery in Kenya” reveals that last year’s lockdown had a negative impact on the economy. 
+
+“The economic impacts of the April-June Covid-19 lockdown in Kenya and abroad would lead to a 5.6 percent negative GDP impact and 11.8 percent decrease in employment relative to projected pre-Covid values.  With a pre-Covid growth rate projected at 6 percent, the GDP expansion in 2020 would thus be reduced to about 0.1 percent.” 
+
+The EU-Kippra report warned that a second lockdown would further lead to the decrease of foreign remittances thereby affecting the stability and value of the Kenyan Shilling to the dollar. 
+
+“An extended second lockdown inside Kenya would further increase the negative GDP impacts to 9.2 percent, implying an economic contraction of around 3.8 percent in 2020, while employment would be reduced by 19.2 percent relative to baseline levels.” 
+
+On Friday, the International Monetary Fund (IMF) approved an estimated Sh254.41 billion ($2.34 billion) financing package to help the Kenyan government in its response to Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+National Treasury Cabinet Secretary, Ukur Yatani, welcomed the IMF support but was not very specific on the immediate plans for the current lockdown. 
+
+“The National Treasury is confident that the support and reforms set out in this programme will go a long way in mitigating the effects of the pandemic while aiding in the achievement of the government's policy objectives set out in the recently approved budget policy statement as well as the Medium Plan II,” said Mr Yatani, in a statement. From Mombasa, western Kenya to Baringo county, operators count billions of shillings in lost earnings during Easter season. Most hotels had full Easter bookings and had already purchased food items. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
