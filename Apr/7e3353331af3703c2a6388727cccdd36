@@ -1,0 +1,391 @@
+Potential successors of President Kenyatta are each struggling with their own dilemmas that will influence their performance in the cut-throat race for the country’s fifth President. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Deputy President William Ruto, ODM leader Raila Odinga, Wiper leader Kalonzo Musyoka, Amani National Congress boss Musalia Mudavadi, Kanu’s Gideon Moi and a growing third force that has second term governors including Alfred Mutua, Kivutha Kibwana, Wycliffe Oparanya and Hassan Joho as well as new comers like former minister Mukhisa Kituyi are angling for State House. 
+
+Each faces unique challenges that undermine their positions in the treacherous terrain that is political deal-making, and how they navigate these shortcomings will determine their fate. 
+
+Read: Kenyatta's political chess game leaves him in charge 
+
+For President Kenyatta’s estranged deputy, his debut 2022 presidential run increasingly seems an anti-establishment race, but he has another dilemma in courting strong allies. 
+
+The lesser seats 
+
+Having served for the constitutional maximum two terms as Deputy President, the DP will only be going to the negotiating table to dish out the lesser seats as he goes for the presidency. That in itself makes him unfavourable for those with presidential ambitions. 
+
+Talks of a Ruto-Raila alliance immediately raised the question of how the DP would treat Mr Odinga in such an instance, and given unless BBI constitutional changes are implemented, posts like that of Prime Minister are unavailable. 
+
+It would appear it’s such calculations that have seen the DP discard the regional kingpin presidential campaign building, instead choosing to amass as many MPs from different parts of the country in place of regional chiefs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Presidential hopeful Dr Mukhisa Kituyi at Misikhu trading centre in Bungoma County on his way to Mbakalo in the county during his homecoming on March 6, 2021.
+Photo credit: Jared Nyataya | Nation Media Group
+
+ 
+
+Belgut MP Nelson Koech said the ‘hustler nation’ mantra was a stroke of political genius. “Such an arrangement of bridging the gap between the haves and the have-nots is a first in Kenya and I can understand the pessimistic attitude from conservative elements who believe that the only way one can rise to the helm is by grouping the so called regional kingpins,” Mr Koech said. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DP Ruto answers Uhuru over his 2022 succession remarks
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Mr Odinga, too, is walking a tight rope in his quest to succeed President Kenyatta in next year’s poll as he tries to juggle the BBI ball and strategise for a  fifth presidential run. 
+
+His supporters had hoped that his working relationship with the President would give him an added advantage, but recent turbulence in the handshake, where some of his key lieutenants alleged a plot to edge him out of the succession politics, has sent tongues wagging in his camp, with many seeing it as a possible betrayal of the 76-year-old politician. 
+
+Insiders also see age as a key factor in Mr Odinga's 2022 political decision, with fears that this might be his last shot at State House. 
+
+Read: Raila disowns his application for ODM party ticket 
+
+The ganging up of fellow Nasa principals — Mr Mudavadi, Mr Kalonzo and Mr Wetang'ula —  who want him to step down and support one of them, citing a 2017 Nasa coalition agreement, isn’t helping matters for him either as he is portrayed as one who doesn’t keep his word. 
+
+ODM County Chairman, Makadara MP George Aladwa, says Mr Odinga still remains a formidable force to reckon with in the 2022 General Election.  “All the 2022 formations need Raila. Even the One Kenya Alliance needs him and I don’t see why they should keep avoiding him, yet the BBI has proposed the expansion of the executive, which will surely accommodate everybody,” Mr Aladwa argues. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Machakos Governor Alfred Mutua addresses a meeting in Mlolongo on September 6, 2020 when he announced his 2022 bid for the presidency. 
+Photo credit: Sila Kiplagat | Nation Media Group
+
+ 
+
+Political analyst Dismas Mokua argues that Mr Odinga’s brand suffered slightly on account of the 2017 elections. 
+
+“Raila’s supporters feel betrayed on account of deaths and property destruction to support his candidature. Some blame him for failure to check on Jubilee excesses on account of the Handshake. He has created the impression of a selfish leader who pursues his selfish interests without due consideration to his voters interests,” Mr Mokua says. 
+
+Brand fatigue 
+
+Mr Mokua adds that there is also brand fatigue creeping in, and Mr Odinga has also lost key national politicians who have been supporting his candidature and is grooming new ones who have not been tested. 
+
+“Raila phobia in parts of Kenya is real and this will complicate his presidential trajectory,” Mr Mokua told the Nation. The ODM leader should perhaps employ his populist strategies to rally his bases. 
+
+Murang’a Senator Irungu Kang’ata argues that Mr Odinga is unlikely to get President Kenyatta’s endorsement. “His base has been chipped away, including Coast, while Mt Kenya remains hostile to him,” he says. 
+
+Read: Secret plot to cut ODM leader Raila Odinga down to size 
+
+Mr Musyoka, the Wiper leader who has twice been Mr Odinga’s running mate in 2013 and 2017, faces an even bigger dilemma. 
+
+His tenure as Ukambani kingpin faces a threat from second-term governors Alfred Mutua and Kivutha Kibwana, both angling for national limelight —  a development that piles pressure on the former vice president to run for president. 
+
+
+
+
+
+
+President Uhuru Kenyatta (centre), Deputy President William Ruto (left) and opposition leader and former Prime Minister Raila Odinga during the Building Bridges Initiative (BBI) report launch in Nairobi.
+Photo credit: File | Nation Media Group
+
+ 
+
+Kitui Senator Enoch Wambua acknowledged the pressure on Mr Musyoka, who came third in the 2007 presidential race and was subsequently appointed vice-president in a post-election deal with President Kibaki. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“If he had any thoughts of deputising anyone else, it will be almost impossible to convince his base that he can be second fiddle,” Mr Wambua, who is Mr Musyoka’s close ally, said 
+
+“Kalonzo has come of age. He has built a huge network locally and internationally, and he has a solid base behind him that expects nothing short of him running for the presidency,” Mr Wambua added. 
+
+Mr Musyoka himself has ruled out playing second fiddle. “I supported Raila in 2013 and 2017 as his running mate. And then I support him again a third time? People would think I am mad; permanently deputising. I have the experience and the qualities that it takes [to be President]. I am going for it,” he said last month. 
+
+For Mr Mudavadi, despite bagging Mr Wetang’ula, he still faces an onslaught by Mr Odinga, Mr Oparanya and Dr Kituyi in the battle for supremacy even in his Western Kenya backyard. 
+
+He has also been seen as a fence sitter, a negative at a time Kenya wants a candidate to ruffle feathers, Mr Mokua opines. 
+
+Read: Uhuru succession battle shapes up to four-horse contest 
+
+“He has to keep his Western Kenya core base under lock and key while penetrating other vote rich regions,” Mr Mokua said. 
+
+“Musalia is also seen as a safe candidate and would easily be acceptable across the board. We have the support of the President and are now working on having Tinga on our side,” said ANC Deputy Party Leader Mr Ayub Savula. 
+
+Mr Moi, the Baringo senator working to rejuvenate Kanu, has revived his State House run, with insiders saying he is ready to go it alone if the infant One Kenya Alliance does not work out. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Enjoying the name recognition and as third term MP, Senator Moi, however, faces the huge challenge of coming from the same electoral base as Dr Ruto, seen as the current king of the Rift Valley. 
+
+Said to be favoured by the Kenyatta family as a return of the endorsement President Kenyatta got from President Moi in 2002, Senator Moi’s prospects at the presidency are at their best now, and politically speaking, is a matter of now or never for the Kanu boss. 
+
+Huge ethnic base 
+
+Dr Kituyi, as well as governors Mutua (Machakos), Kakamega’s Oparanya, Makueni’s Kibwana, and Mombasa’s Joho have projected themselves as the third force seeking to vanquish the old order, a monumental challenge in Kenya’s current political setting. 
+
+Past record, especially of any dirt in the counties, would be fodder for rivals. Fresh faces like Dr Kituyi, besides having to build their bases, have to reckon with a take-down by the old guard. 
+
+Political analyst Mark Bichachi argues that the top contenders need a huge ethnic base from which to launch their campaigns, which only Mr Odinga and the DP wield, with the ability to convince others to step down for them being another key consideration. BBI principals move to rein in hardliners, get 'reggae' back on course. It is an experiment that also involves propping up the One Kenya Alliance. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
