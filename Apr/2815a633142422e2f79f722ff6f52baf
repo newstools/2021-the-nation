@@ -1,0 +1,155 @@
+Three women who are contesting the Bonchari parliamentary seat in the May 18 by-election will be trying to beat the odds and pull a surprise in the male-dominated race. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The three are former Kisii Woman Rep Mary Sally Keraa (United Green Movement), Ms Margaret Gesare Nyabuto (Maendeleo Chap Chap) and former Bonchari MP John Oroo Oyioka’s widow Teresa Bitutu , who will fly the United Democratic Movement (UDA) flag.  They will battle it out with 10 men for the seat. 
+
+Gusii region, which comprises Kisii and Nyamira counties, is deeply patriarchal and, apart from nominations and seats reserved for female candidates, women have only managed to clinch county assembly seats. 
+
+There are two elected women MCAs in the entire Gusii region. One of them is Ms Callen Atuya of Bokeira Ward in Nyamira County, who defied all odds to beat 11 men in the 2017 General Election. The other one is Ms Rosa Kemunto Orondo of Majoge Basi Ward in Kisii County. 
+
+Toxic environment 
+
+Gusii Council of Elders Secretary General Samuel Bosire said the few brave women who vie for political seats in the region often endure a toxic environment. 
+
+“The environment is made very difficult for them to an extent that most give up,” he said, adding that it was high time the community embraced the idea of electing women leaders. 
+
+“We have seen other communities entrust top leadership positions to women. Why not Gusii? Tanzania President Samia Suluhu is already doing well,” said Mr Bosire. The by-election was occasioned by the death of Mr Oyioka on February 5. His widow,Ms Bitutu, is entering the race on a sad note after two of her supporters died in a road accident last week. 
+
+Ms Bitutu, who managed Oyioka’s St Angelic Teacher’s Training College in Suneka, has promised to complete her husband’s projects if elected. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The people of Bonchari asked me to contest for this seat since they believe I am the best candidate to complete the projects started by my late husband,” she said.  Ms Keraa said she had served the people of Kisii as their woman rep and would replicate the good work as their MP. 
+
+Door-to-door campaigns 
+
+“The people of Bonchari have a chance of electing a woman as their MP. I will ensure that all initiatives I started during my tenure as woman rep continue. I ask them to give me a chance to serve them,” said the former director of the Lake Basin Development Authority. 
+
+Ms Gesare has embarked on intensive door-to-door campaigns. She said women leaders often have the best interests of their constituents at heart. 
+
+“It’s time women are given a chance to lead in the Gusii region because it’s very clear that the men have failed,” said Ms Gesare. 
+
+The 13 contestants will be battling for the attention of the over 52,000 registered voters. 
+
+rmbula@ke.nationmedia.com This now brings to 13 the total number of candidates who will vie for the seat. Mr Oimeke resigned from Epra to vie for the seat amid an ongoing corruption case. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
