@@ -1,0 +1,77 @@
+Madrid are already without the injured Sergio Ramos, meaning Nacho Fernandez and Eder Militao are the only fit central defenders left in Zinedine Zidane's squad for the game against Liverpool in the Spanish capital later on TuesdayMadrid have had six positive cases of Covid-19 this season, Varane following Militao, Eden Hazard, Casemiro, Luka Jovic and Nacho in catching the virus Madrid 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Raphael Varane tested positive for Covid-19 on Tuesday, Real Madrid said, leaving the team facing a crisis in defence ahead of their Champions League quarter-final first leg against Liverpool. 
+
+Madrid are already without the injured Sergio Ramos, meaning Nacho Fernandez and Eder Militao are the only fit central defenders left in Zinedine Zidane's squad for the game against Liverpool in the Spanish capital later on Tuesday. 
+
+"Real Madrid C. F. informs that our player Raphael Varane tested positive in the Covid-19 test he underwent this morning," a club statement read. 
+
+Varane's absence comes at the worst possible time for Madrid, with the Frenchman also expected to miss Saturday's Clasico against Barcelona and the return leg against Liverpool at Anfield next week. 
+
+Varane has been a key part of Real Madrid's upturn in form in recent weeks, which has seen the team go 11 games unbeaten and move to within three points of La Liga leaders Atletico Madrid. 
+
+Barcelona are just a point behind Atletico, with the Clasico at Valdebebas this weekend set to mark a crucial point in the Spanish title race. 
+
+Madrid have had six positive cases of Covid-19 this season, Varane following Militao, Eden Hazard, Casemiro, Luka Jovic and Nacho in catching the virus. Fortress Anfield has turned into a visitors' dream with fans absent because of the coronavirus pandemic. Madrid will be without their captain Sergio Ramos. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
