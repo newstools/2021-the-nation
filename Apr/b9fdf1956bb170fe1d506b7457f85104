@@ -1,0 +1,283 @@
+“This is normal to us. Yes, it is uncomfortable but that doesn’t bother us in any way. We know the situation will normalise in a matter of days.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+These are the words of a Lamu elder Hussein Chonda, explaining what he views as a normal occurrence of the overflow of the Indian Ocean in Lamu Old Town. 
+
+Looking around, you see people on foot and cart handlers wading through puddles of salty water from the Indian Ocean. 
+
+The streets and the general seafront area within Lamu Island are submerged for days now due to high tides that have caused the water from the ocean to overflow. 
+
+
+
+
+
+
+
+
+
+
+
+Residents walking through flooded parts in Lamu Old Town.
+Photo credit: Kalume Kazungu I Nation Media Group
+
+ 
+
+The situation has also left several houses and shops in Lamu Old Town submerged. But is it normal? Mr Chonda insists it is. 
+
+“We are not scared. This is not a problem for the natives of Lamu and if it is, then it has always been solving itself. It has been like this since time immemorial,” said Mr Chonda. 
+
+Bwana Mia, a native of Lamu who owns the Seafront Café, which is adjacent to the ocean, is also not surprised by the flooding. 
+
+Mr Mia looks undeterred even though his café is already submerged. 
+
+His customers are seated inside the joint while stepping on water. 
+
+He laughs off questions on whether his premises might be swept away by the flooding from the Indian Ocean. 
+
+“Visitors like you (the writer) might think Lamu is facing a major disaster that needs urgent redress. But for us, once it is overflowing like this, we can tell what season it is. The overflow occurs every month of Sha’ban, which is the eighth month on the Islamic calendar. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Houses, streets submerged in Lamu Old Town as Indian Ocean experiences unprecedented high tides
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+The flooding signifies the end of Sha’ban and the start of Ramadhan,” he said. 
+
+Lamu Muslim cleric Izudin Alwy says the situation has recurred at the same time for decades and that their forefathers have been relying on such happenings to determine time and seasons since ancient times. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Our grandfathers and great grandfathers witnessed this. We are experiencing it today and our future generations will also witness this same scenario here in Lamu,” he said. 
+
+“This Indian Ocean water overflow signifies the end of one month and the start of a special one.” 
+
+Since last week Monday, transport and movement in Lamu Town have been greatly affected, especially during the evenings when the situation becomes worse and even making it impossible for donkeys, carts and motorbikes to wade through the flooded streets. 
+
+
+
+
+
+
+
+
+
+
+
+Residents walking through flooded parts in Lamu Old Town.
+Photo credit: Kalume Kazungu I Nation Media Group
+
+ 
+
+Residents with houses adjacent to the ocean are sometimes forced to remain indoors for hours as their homes and pathways remain flooded. 
+
+But as most of the residents remain defiant, Husna Ali, another local, pleaded with the government to erect sea walls to avert such inconveniences. 
+
+“We want these current seawalls in Lamu Old Town to be raised to counter the heavy tides experienced during such particular times. If they raise the seawalls, the water won’t come over here in our residential and business premises to disturb our peace,” said Ms Ali. 
+
+County Director of Meteorological Services Edward Ngure said the problem is caused by a change of the ocean behaviour in Lamu and the various coastlines where the gravitational attraction of the moon to ocean water results in high or low tides. 
+
+“The gravitational attraction of the moon creates what we call high and low tides. There is then the tidal range, which is the difference between the ocean level at high tide and the ocean at low tide. A number of factors influence the tidal range in every location,” explained Mr Ngure. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“That’s why the ocean water in places like Lamu overflows due to factors like the slope of the seafloor. Water appears to move a greater distance on a gentle slope than on a steep slope. Lamu is low-lying and hence the flooding, which thereafter normalises as time goes by,” he added. 
+
+The weatherman, however, advised locals in Lamu, particularly fishermen and sailors, to adhere to various weather updates from his office to know when it is safe for them to ply the Indian Ocean and when not to. The US rapper and business mogul was recently spotted wearing a T-shirt bearing an image of the mosque. The politician attempted to aide the escape of three convicted drug traffickers. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
