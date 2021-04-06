@@ -1,0 +1,147 @@
+Two decades ago, I had just moved to the USA for my graduate studies and it fascinated me so much that I could print out driving directions from the MapQuest website. Soon after, it was possible to order used textbooks from Amazon.com as opposed to buying new ones from our university bookshop. Shortly thereafter, there was an option to take some of my classes online. Luckily, home internet was available. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Back in Kenya, the concept of cybercafés was growing exponentially in major towns. Locals were starting to use emails as a means of communication and searching online was picking. Cybercafés soon become a trademark for accessing the internet. Since then, so much more has happened. In the last two decades, the digital revolution has spread globally. As such, businesses hoping to survive have had no option but to embrace that revolution. 
+
+At the centre of the digital revolution are a myriad of digital technologies and the connectivity offered through the internet. Even though many of us may not comprehend what has been happening in the back-end of the digital revolution, every day we experience these advancements. 
+
+ The smartphone, digital applications, social media, data analytics, enterprise resource planning systems etc are some of the technological advancements that continue to define the world of business today. 
+
+These technologies have fully transformed business operations and customer interactions. They have made it easier for businesses to run their operations in a more systematic, seamless and centralised manner. 
+
+Businesses are more than ever before interconnected with their staff, customers, suppliers and partners. In particular, customers are spoilt for choice. Products and services are available any time anywhere. 
+
+Store information 
+
+It is unbelievable just how much a customer can do with their smartphone or on their computers. It is no longer just about calling texting or emailing. Customers are using different digital applications on their telephone or computers to make pre-purchase comparisons, place orders, make purchases, keep track of their transactions, transmit information, store information, share experiences, transform information, make predictions and much more. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ Digital technologies have changed how businesses and customers interact. Today, many customers are using digital technologies and others are living in digital spaces. As a smart business, are you intentional about reaching out to customers in those spaces and making it possible for them to interact with your business? Have you built a community of customers that you will experiment with as you walk the digital transformation journey? 
+
+The digital transformation journey continues. It is not easy to predict how that future will look like. However, it is true to say that only those businesses that adapt fast enough will survive in the long run. As customers experience new ways of doing business, their expectations continue to rise. 
+
+As a forward-looking business, it is important to study global trends in your industry and beyond. In addition, it is crucial to take action today to win your customers and stay ahead of others in your industry. What is your business doing to survive in a world where digital advancements continue to cause major disruptions? 
+
+ Connect via Twitter @KiruthuLucy Committee report says procurement process was flawed and want Oracle barred from any bid for the next 10 years. The move is effective April 9, the carrier said in a statement on Monday. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
