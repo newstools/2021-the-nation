@@ -1,0 +1,147 @@
+Kenya, like the rest of Africa as well as Europe and some parts of Asia, is grappling with the third wave of the Covid-19 pandemic that is, undoubtedly, more disastrous than the earlier strains. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The fresh wave is fuelled by various new variants and is on such a fierce rampage, as evinced by the upsurge of infection and mortality rates. As a result, healthcare facilities across the country are overstretched. 
+
+This is what prompted President Uhuru Kenyatta to reimpose tighter restrictions, especially in high-risk counties, to curb the increasing number of infections and, importantly, ensure the healthcare system is not overrun. 
+
+Fortunately, Kenya recently received its first consignment of the Oxford-AstraZeneca vaccine and rolled out an inoculation drive. Vaccination remains the most sustainable long-term intervention against the coronavirus. While simple preventive measures are effective against the disease, they are not strictly adhered to by the public. 
+
+More than a year since the first case of Covid-19 in the country, it is evident that Kenyans are fatigued by adhering to the safety regulations. The virus, however, does not take a breather. In fact, it’s mutating to deadly variants. Therefore, the vaccine is a huge step in the management of the pandemic. 
+
+But even as the deployment of the Oxford-AstraZeneca vaccine for mass vaccination drives intensifies in several countries, there are reports linking the drug to the formation of blood clots in the individuals who have received it. This prompted several European countries to halt its rollout. It took the intervention of the European Medical Agency (EMA) and the World Health Organization (WHO) to allay the fears concerning its safety for the countries to resume inoculation drives. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Side-effects are mild 
+
+However, even with the evidence that only a few recipients developed the side-effect, against the millions that have been vaccinated, there is loss of confidence and scepticism in some quarters over the safety of the vaccine. Other side-effects reported — including headache, fatigue, fever, muscle aches, chills and soreness at the injection site — are all mild. They are an indicator of immune response kicking in and should disappear within a few days. 
+
+All the approved Covid-19 vaccines have been shown to be extremely effective in reducing the risk of severe disease, hospitalisation and death. With the benefits far outweighing the risks, it’s prudent to encourage uptake of the vaccine. 
+
+Covid-19 Vaccines Global Access (Covax), a global mechanism aimed at ensuring that developing countries do not miss out on the jab, has projected a delay in the supply of the second batch of the Oxford-AstraZeneca vaccine. This, coupled with the emergence of aggressive variants, should jolt everyone out of their reverie and adhere to the protocols. 
+
+New variants are a major concern and call for thorough surveillance and assessment, considering their efficacy against current vaccines. 
+
+ zablonok@gmail.com. @KerimaZablon The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
