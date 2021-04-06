@@ -1,0 +1,237 @@
+A knee injury has ruled Lewandowski out of both the quarter-final home leg at the Allianz Arena and the return in Paris next TuesdayOf the 103 goals Bayern have scored either in the Bundesliga or Champions League this season, Lewandowski has contributed to 46 of them with either a goal or an assistBayern, who are on a run of 19 games unbeaten in the Champions League, have a score to settle with PSG, against whom they have lost five of their nine previous matches Berlin 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Holders Bayern Munich face a test of their ability to defend their Champions League crown without top-scoring striker Robert Lewandowski at home to embattled Paris Saint Germain on Wednesday. 
+
+A knee injury has ruled Lewandowski out of both the quarter-final home leg at the Allianz Arena and the return in Paris next Tuesday. 
+
+The timing could not be worse with Lewandowski sidelined for the two-legged repeat of last season's Champions League final when a Kingsley Coman header gave Bayern the title after a 1-0 win over PSG. 
+
+Of the 103 goals Bayern have scored either in the Bundesliga or Champions League this season, Lewandowski has contributed to 46 of them with either a goal or an assist. 
+
+Yet Bayern proved at the weekend that they can win a big game without him. 
+
+Leon Goretzka hit the winner in Saturday's 1-0 victory at second-placed RB Leipzig to leave Bayern seven points clear at the top of the Bundesliga. 
+
+"Obviously, they are better with Lewandowski," Leipzig coach Julian Nagelsmann said of Bayern. "But they have a world-class team and brilliant players to play in his place." 
+
+Having already faced Leipzig, Lewandowski's understudy Eric Maxim Choupo-Moting is set to make only his third Champions League start this season against his former club. 
+
+'Huge anticipation' 
+
+The 32-year-old Cameroon striker left PSG after coming on as a replacement against Bayern in last season's Champions League final.  
+
+"The anticipation is huge," Choupo-Moting said of facing his ex-club. 
+
+"It is the new edition of last year's final. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Perhaps nobody would have expected that we would meet again so quickly." 
+
+Bayern, who are on a run of 19 games unbeaten in the Champions League, have a score to settle with PSG, against whom they have lost five of their nine previous matches. 
+
+Yet PSG have their own problems, on and off the pitch.  
+
+Brazil superstar Neymar was sent off during Saturday's 1-0 home defeat to Lille, who usurped Mauricio Pochettino's PSG as French league leaders. 
+
+Kylian Mbappe, who scored four goals over two legs in their last 16 to help knock out Barcelona, is expected to partner Neymar in PSG's star-studded attack. 
+
+Covid-19 has cast a shadow over the PSG squad with both defender Alessandro Florenzi and midfielder Marco Verrati having tested positive. 
+
+Nevertheless, PSG's German defender Thilo Kehrer, who could replace Florenzi at right-back against Bayern, says the Parisian club is eager to avenge last season's final defeat. 
+
+"The frustration was huge, but in the meantime we've turned it into motivation -- and that has become even greater to win the Champions League now," Kehrer told Sport Bild. 
+
+Bayern have the strength in depth to cope without Lewandowski. 
+
+Saturday's match-winner Goretzka has been involved in seven goals in Bayern's last five league matches. 
+
+The burly 26-year-old showed great finishing with a superb shot after being set up in Leipzig by Thomas Mueller, who has nicknamed his team-mate 'SCOREtzka'. 
+
+"I guess Thomas was bored during the international break. I had to score to prove 'Mull' (Mueller) right," quipped Goretzka when asked about his new nickname. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bayern's defence will also be boosted by the return of fleet-footed left-back Alphonso Davies and centre-back Jerome Boateng, who were both suspended for the game against Leipzig.   The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
