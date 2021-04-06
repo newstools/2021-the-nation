@@ -1,0 +1,213 @@
+The Ministry of Education has initiated procedures towards the amendment of the Basic Education Act 2013. The Basic Education (Amendment) Bill 2020 seeks to make several changes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Among the proposed changes is to redefine basic education as “a programme offered at the pre-school, primary, secondary and middle level colleges and includes a programme offered at adult and continuing education centers”. That means it will be used to govern some 50,000 existing institutions and others that will be established in the future. 
+
+Secondly, the Bill seeks to abolish the National Education Board (NEB) but retain the County Education Boards (CEDs). However, the CEDs are proposed to be restructured in such a way that the teachers unions and the Kenya Primary School Heads Association are excluded from its membership. It is not indicated how resolutions from the CEDs that require the attention of the Cabinet Secretary for Education will be escalated to that level. 
+
+Thirdly, the Bill seeks to introduce the position of a manager — “a person who has been appointed by the Cabinet Secretary to oversee the management of education resources and implementation of policies and guidelines in basic education institutions”. That is likely to raise concerns among stakeholders. I wish to delve into this matter in detail. 
+
+Capitation 
+
+The government grants about Sh1,500 to the every primary school pupil as capitation. Hence, a single-stream school with 45 pupils per class for six classes in the Competence-Based Curriculum (CBC) receives Sh405,000. A manager in such a school, earning consolidated emoluments of Sh35,000, takes home Sh420,000 yearly. This is more than the capitation they are employed to ensure prudent utilisation of. With smaller schools that have an enrolment of less than 20 students per class, then the implications of hiring a manager become more irrational. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Another issue is the rationale of employing 50,000 managers to schools lacking more than 100,000 teachers when the principals or their deputies can carry out these tasks as part of their duties or for an allowance. The demand for teachers will certainly increase due to the low pupil-to-teacher ratio that is the norm in CBC, which needs more personalised attention of students by their teachers. 
+
+Overlap of duties 
+
+A third factor is the overlap of duties of the manager and board of management (BoM), inevitably leading to role conflicts. Among other functions, BoMs are mandated to “administer and manage resources of the institution; receive, collect and account for any funds accruing to the institution and to ensure its development”. These are the same functions to be assigned to the manager in addition to an oversight role. 
+
+Does the proposed manager oversight the BoM as well? That also obtains for the conflict likely to arise between the principal and the manager. Who between the two, for example, will be the accounting officer in the school? Who will oversight the other? What will be the pecking order in the school? 
+
+A fourth and significant factor is that the manager, being an appointee of the CS, will be an employee of the Public Service Commission. The principal and the teachers are appointees of the Teachers Service Commission. The non-teaching staff are employees of the BoM. Which organ of the ministry, or which individual, will be assigned to mediate between these parties in case of conflict? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+That does not seem to have been considered in the Bill. Wouldn’t it be better to have the manager as the deputy principal in charge of educational resources, much like the deputy vice-chancellors in charge of finance and administration in universities? 
+
+At a challenging point in the history of education — the transition from the 8-4-4 system to the CBC, promotion of the concept of 100 per cent transition of pupils from primary to secondary schools and the convoluted school calendar brought about by theCovid-19 pandemic — it is not a time to introduce issues that could derail the thoughts of the stakeholders from seeking solutions. 
+
+bsogomo@gmail.com. @Bsogomo The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
