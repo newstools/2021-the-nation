@@ -1,0 +1,229 @@
+ Recovery hopes of millions of people employed in the tourism sector as well as operators during Easter Holidays literally died with the announcement of fresh travel restrictions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This came at a time when Kenya’s hospitality sector had begun laying post Covid-19 growth strategies to reclaim its position as eastern Africa’ s leading tourism destination. 
+
+The plans banked on reopening of borders and international airports in August last year that brought some relief even though overseas visitor numbers were still depressed. 
+
+Read: Flight blockade will devastate local businesses  
+
+Mara Serengeti ecosystem Hotel Managers Forum Chairman, Mr James Ole Pere, said operators were on a recovery path before the fresh lockdown came knocking on their doors. 
+
+Speaking on phone from the world famous Mara, Mr Pere said domestic tourism offered a lifeline to most establishments during the slow return of international tourists, but just after they had completed shopping for food and non-food items ready for Easter came the choking measures. 
+
+“Both domestic tourists and international travellers were inconvenienced while making bookings: We spent millions of shillings preparing for these peak seasons. The government should allow people to celebrate while strictly following the protocols,” said Mr Pere who is the Keekorok Lodge manager. 
+
+Flamingos migrated 
+
+According to Lake Bogoria National Reserve senior warden James Kimaru, the region was expecting to reap big from the tourism sector this season after millions of flamingos migrated from breeding in Lake Natron in Tanzania earlier than expected. 
+
+The birds normally move to Tanzania for breeding in November and come back mid-June but they arrived at the Lake in millions in January, painting the entire lake pink. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We were expecting to receive a lot of tourists during this Easter holiday especially that flamingos arrived earlier than anticipated, making it the only lake hosting the millions of birds in Rift Valley. Several tourists from Nakuru and Nairobi counties had confirmed their coming only for them to cancel after cessation of movement was imposed in some counties due to surge of Covid-19 cases," said Mr Kimaru. 
+
+East Africa Tour operators association running over 200 fleet of off-road vehicles are worried this could be the last nail in the tourism coffin and pleaded with the government to allow them to have special passes for tourists to save the industry that is reeling from the pandemic. 
+
+According to their secretary Felix Migoya they have been counting heavy losses from last year with many of the tour company owners losing their vehicles to the hammer due to bank loans. 
+
+“This was to be a full recovery window, but the government has slapped our faces by announcing another lockdown, which will throw the sector recovery into oblivion,” said Mr Migoya. 
+
+Read: Covid curbs leave businesses and families reeling 
+
+Speaking on phone, Kenya Tourism Federation (KTF) chairman Mr Mohammed Hersi said; "The recent containment measures have thrown the entire industry into disarray." 
+
+Tourist destinations 
+
+Mr Hersi said the containment measures were announced with very little lead time, since there were already thousands of bookings in different tourist destinations and visitors already in the country with others expected to arrive ahead for confirmed safaris and tours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It was anticipated that the sector can potentially attract 615,000 tourists within six months if domestic, regional and global travel opens up in September, and 450,000 if normalcy resumes in December last year. 
+
+The council of governors chairman for Tourism and wildlife Samuel Tunai laments that the ripple effects of the Covid-19 restrictions announced by the president have caused an immediate loss of thousands of jobs and would hit the sector badly. 
+
+Mr Tunai who is also the Narok county governor said up to 80 percent of international tourists immediately cancelled their planned tour just days ahead of the Easter holiday that would see hotels at the Maasai Mara Game Reserve grappling with empty beds for the second year running. 
+
+The Maasai Mara sits in Narok county, where governor Tunai said that between June and October – the high season marking the climax of the wildebeest migration – the local government usually takes in at least sh2 billion, but with the lockdown there is a mirage in the recovery process. With movement restrictions in Nairobi, Kajiado, Machakos, Kiambu and Nakuru counties, hotels have registered dismissal bookings over the Easter weekend. For years, hundreds of Nairobi residents have been flooding the Coast region, Kenya's tourism hub, during the Easter holidays. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
