@@ -1,0 +1,75 @@
+Muyah, who took over the reign at swimming in September 2016 upon the resignation of Ben Ekumbo, passed away on Tuesday morning at Kenyatta University HospitalKSF deputy president Zack Musembi confirmed that Muyah was admitted in the Intensive Care Unit (ICU) at Kenyatta University Hospital on March 29Muyah, 54, is survived by his wife and two children Acting Kenya Swimming Federation (KSF) president Patrick Muyah is dead. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Muyah, who took over the reign at swimming in September 2016 upon the resignation of Ben Ekumbo, passed away on Tuesday morning at Kenyatta University Hospital. 
+
+KSF deputy president Zack Musembi confirmed that Muyah was admitted in the Intensive Care Unit (ICU) at Kenyatta University Hospital on March 29 after falling ill. 
+
+“We are heartbroken to lose such a great leader,” said Musembi. 
+
+Muyah, 54, is survived by his wife and two children. 
+
+Cabinet Secretary for Sports Amina Mohamed was among the first people to send her message of condolences to the late Muyah's family and the swimming fraternity. 
+
+"It is with deep sadness that I have learnt of the passing on of Mr. Patrick Muyah, the Ag. President of the Kenya Swimming Federation. Patrick was an outstanding sports administrator who played a major role in building and strengthening swimming in Kenya," tweeted Amina. KRU pleads with President Uhuru Kenyatta to rescind his decision. Varane's absence comes at the worst possible time for Madrid. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
