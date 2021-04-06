@@ -1,0 +1,231 @@
+The three counties share 21,000 doses against a population of 3,075,949.Nairobi County accounts for 31 percent of all vaccinated cases after inoculating 74,394 people. More men than women have been vaccinated against Covid-19 although the uptake is slow nearly a month into the roll out. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Of the 238,648 people vaccinated nationwide by April 1, 57 percent are men and 43 percent women, according to Ministry of Health data. And 14 counties account for 75 percent of the total number of people vaccinated nationwide (178, 954). 
+
+There’s still vaccine apathy among health workers, teachers and security officers, as many other people (45 percent) have been vaccinated compared to these priority groups. 
+
+About 135,220 men have received at least one dose compared to 103,428 women. It’s unclear why women aren’t going for the vaccine although there’s speculation that conflicting information about effects, for example, on those under birth control, among others could be having an impact. 
+
+Read: Myths slow down fight against cervical cancer in Wajir 
+
+A majority of people who have received the jab are not on the first phase of the priority list. As of April 1, an estimated 108,537 (45 percent) “other” people received an AstraZeneca jab. 
+
+By comparison, only 34 percent or 82,150 health workers and 30,495 (13 percent) teachers have been vaccinated. Security officers, at only seven percent (17,466), are the least covered among the priority groups. 
+
+One of the reasons cited for the high uptake among non-priority groups if fear of the third wave. 
+
+Religious leaders 
+
+Health Chief Administrative Secretary Rashid Aman has consequently asked Kenyans who are not listed as health workers, teachers, uniformed forces, religious leaders and those over 58 years to give way. 
+
+Despite kicking off three weeks ago, the country’s immunisation efforts have had a staggered start due to a reluctance among some health workers, most of them nurses, who have expressed doubts about the safety of the vaccines. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to various representatives of health professionals, this reluctance is fuelled by lack of sensitisation and training. 
+
+The sluggish uptake of the vaccine, which expires in June, has seen the government move on to the next target—those aged 58 and above, who were initially categorised as the Phase Two priority group. It has also offered the vaccine to all political, religious, and community leaders as a way of boosting confidence in the overall vaccination process. And as recent as last week, people who were not even on the list have ended up getting the shot, with medical professional associations protesting the “haphazard manner” in which the process was being handled. 
+
+“The Ministry of Health should stick to the Phase One and accelerated Phase two approach in order to ensure that the most vulnerable in the society are protected first,” the Kenya Medical Association said in a statement on Sunday. 
+
+Read: Is the Covid-19 vaccine safe for you? 
+
+The government last week confirmed that more than 815,000 doses had been dispatched countrywide, with 39,000 delivered to the military. The rest have been dispatched to counties and the nine regional depots. 
+
+Nairobi County accounts for 31 percent of all vaccinated cases after inoculating 74,394 people. It is followed by Uasin Gishu at 15,933 (seven percent) and Nakuru 15,496 (six percent). On the flip side, Lamu County has registered the lowest number of inoculations at only 182. 
+
+Covid vaccine 
+
+The trend has also been witnessed in several other counties. In Marsabit, 255 people have received the vaccine, while Tana River and Mandera account for 451 and 485 respectively. Isiolo has vaccinated 559 people, Kwale 640, Turkana 738, Makueni 745, Nyamira 855, and Taita Taveta 901. A study carried out by Africa CDC in partnership with the London School of Hygiene & Tropical Medicine (LSHTM), and Orb international in December found that about nine in 10 Kenyans would take a Covid-19 vaccine if it was publicly available and was deemed safe and effective. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This compares to an African average of 79 percent. 
+
+However, failure by the government to create awareness and sensitisation among the public continues to hamper the vaccine’s uptake, especially in counties heavily influenced by traditional beliefs. Distance to the regional depot for counties like Isiolo, Mandera, and Marsabit that rely on Garissa County for vaccination, has also been blamed. 
+
+Other reasons include the low number of doses received by these counties. The three counties share 21,000 doses against a population of 3,075,949. But explaining the distribution of doses, head of vaccination deployment Dr Willis Akhwale said: “Initially it was based on the number of medics. Now, we are factoring in population densities to accommodate the elderly.” 
+
+emerab@ke.nationmedia.com Should you go for either the AstraZeneca or Sputnik V vaccine, here's where you can get them. But as is true of all medications, risks must always be weighed against benefits. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
