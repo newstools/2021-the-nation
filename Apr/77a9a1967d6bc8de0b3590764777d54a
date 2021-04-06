@@ -1,0 +1,153 @@
+Vibrant political parties and sound electoral systems characterised by free, fair and regular elections are key ingredients of democracy. A political party is recognised by law as part of the electoral process. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Among other roles, it nominates or supports candidates for national or county elections with a view to forming, or influencing the formation of, the next government. 
+
+The Political Parties Act 2011 requires parties to have a national mien and outlook and a democratically elected governing body. They must respect and mind the interests of minorities and marginalised groups and promote the Constitution and the rule of law. 
+
+They must not be founded on religious, linguistic, racial, ethnic, gender or regional basis or engage in corruption. But that has not been the case; parties and politicians circumvent the law. 
+
+When parties used to be registered under and governed by the Societies Act, they belonged to individuals. Now, the Political Parties Act demands inclusivity. But a most violated provision of the Act is the prohibition from belonging to more than one party at a time. Such a person is “deemed to have resigned from the previous political party”. But that has never been obeyed, all the way to the highest office. 
+
+Mass exodus 
+
+The cases of Kakamega Senator Cleophas Malala and Amani National Congress (ANC), and Malindi MP Aisha Jumwa and Orange Democratic Movement (ODM), among others, illustrate the sheer impotence of parties when faced with rebellion. 
+
+But perhaps the most glaring of them all was the open defiance by Deputy President William Ruto to his party boss, President Uhuru Kenyatta. Elected on a joint Jubilee Party ticket with the President, he started pushing his own agenda, the “Hustler Movement”, in a daring opposition to the party position. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Dr Ruto’s move would trigger what amounts to a mass exodus of elected leaders from Jubilee and other political parties to the United Democratic Movement (UDA), presumed to be his political vehicle in his 2022 presidential quest. Not surprisingly — as has become the norm — these leaders have not resigned from the parties that sponsored them to seek a fresh mandate from the voters through UDA. 
+
+By the parties helplessly looking on, their actions and threats amounting to hot air, the inaction entrenches a violation of the law and encourages gross political indiscipline in the party rank and file. 
+
+The Registrar of Political Parties and other relevant institutions must also help to streamline the operations of the parties to ensure they adhere to the dictates of the law and entrench democracy. 
+
+Sound ideologies 
+
+The current crop of politicians should take a leaf from the rift between ODM leader Raila Odinga and then-Saboti MP Michael Kijana Wamalwa over the leadership of Ford-Kenya in 1994. As the rivalry reached fever-pitch, Mr Odinga resigned and joined the then-little-known National Development Party (NDP), which he used to recapture his Langata Constituency seat in the ensuing by-election. 
+
+Only when elections are about true competition of political parties based on the sound ideologies and aspirations that they espouse, not some selfish populist agenda, the cause of democracy is advanced. 
+
+aminnuh@gmail.com. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
