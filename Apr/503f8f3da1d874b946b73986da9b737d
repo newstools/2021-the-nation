@@ -1,0 +1,145 @@
+Farmers are usually vulnerable as the millers take advantage of their weak position to dictate prices during a glut.They are bound to take advantage of the much over-mature cane in the farms to purchase the cane at throwaway prices. At last, the Ministry of Agriculture has addressed the plight of sugarcane farmers regarding low cane prices by increasing an eight percent increase to Sh4,040 per tonne. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Although that will not fully compensate farmers for the high cost of production, it is a move in the right direction — save for the problem of lack of enforcement. 
+
+Farmers are usually vulnerable as the millers take advantage of their weak position to dictate prices during a glut. They are bound to take advantage of the much over-mature cane in the farms to purchase the cane at throwaway prices. 
+
+Another issue is delayed payment. Sometimes farmers wait for more than a year. The price increase should, therefore, be accompanied by a stringent payment schedule of not more than 30 days from the date of cane delivery.  
+
+Then there is cane wastage during transportation to the factory, for which the farmer bears the cost. Cane should be weighed at the farm gate so that any pilferage is borne by the miller. This will make them more careful. Cane transportation to the factory is very inefficient and expensive, which leads to high cost of sugar. 
+
+Reorganisation of subsector 
+
+Further, roads in the sugarbelt are not properly maintained by the national and county governments, as well as the respective sugarmillers. This results in high transport costs, hence expensive local sugar compared to the other Comesa  countries, which Kenya competes with.  
+
+The high average conversion ratio of 13 tonnes of raw sugarcane to one tonne of refined sugar, compared to nine in other countries, is unfair. 
+
+Let millers also diversify the range of by-products by venturing into methanol, molasses, spirits, fertiliser, alcohol, industrial sugar and others. They should also adopt fast-maturing and high-yielding cane varieties with high sucrose content and invest in modern machinery.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There is more than enough market for sugar in the country and abroad. All that is needed is reorganisation of the sugar subsector. 
+
+Opiyo Oduwo, Kisumu. opiyooduwo@yahoo.com. Health ministry also reports 394 new infections and 14 more deaths. One of the world's longest serving leaders, he has been in power for 36 years. This comes after Khartoum and the Jewish State struck a deal to normalise ties.
