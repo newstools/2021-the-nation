@@ -1,0 +1,255 @@
+Legal and financial hurdles could derail the push for a constitutional referendum. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The court cases challenging the Building Bridges Initiative (BBI) and the cash crisis at the Independent Electoral and Boundaries Commission (IEBC) are the major obstacles in the process. 
+
+But even as this emerges, some lawmakers want the Sh14.39 billion allocated for the exercise in the budget for the 2021/22 financial year, to be channeled towards the war on Covid-19 by cushioning the most vulnerable Kenyans. 
+
+Kakamega case 
+
+The allocation is contained in the Division of Revenue Bill (DoRB) 2021 that was passed by the National Assembly last month and taken to the Senate for concurrence. 
+
+The legislators calling for the reallocation of the funds — Senator Susan Kihika (Nakuru), Kimani Ichung’wah (Kikuyu MP) and John Kiarie (Dagoretti South MP) — are loyal to the Tangatanga camp led by Deputy President William Ruto that is opposed to the referendum. 
+
+But even as the funds remain critical, the nine cases in court challenging the constitutionality of the process remain the biggest hurdle the promoters of the BBI have to counter. 
+
+The hearing of the eight cases in Nairobi — which were consolidated into one — has already been concluded with judgment set to be issued on notice. 
+
+The hearing of the case filed in Kakamega is yet to commence. If the court finds merit in the cases, it will be a big blow to the process. 
+
+Although they may appeal, time is of essence considering the processes in hearing and determining the matter, while cognizant of the fact that the General Election is due next year. 
+
+Assuming all goes well for BBI promoters, the earliest the IEBC can secure funds is July. The money allocated must be appropriated by the National Assembly in June this year and can only be released by the start of the next financial year, which is July 1, 2021. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As the situation is, the only other way out for the commission is a second supplementary budget. 
+
+“We haven’t received any cash so far, either for preliminaries or otherwise,” an IEBC official told Nation yesterday. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TangaTanga MPs hold presser on curfew, IMF loan
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+The composition of the commission is also an issue. The positions left vacant by the four commissioners who resigned before the October 26, 2017 presidential re-run, and April 2018, are yet to be filled. 
+
+Ceremonial role 
+
+It was in the interest of the BBI promoters that a referendum law be enacted to seal the loopholes in the current regime. However, the Bill has stuck in the National Assembly. 
+
+The BBI Constitution of Kenya (Amendment) Bill 2020, was approved by a majority of the 47 counties and moved to Parliament. The National Assembly and Senate Speakers appointed a joint committee to conduct a public hearing and present a report to the two chambers for consideration. 
+
+But disagreements in the committee over whether Parliament should open the Bill for amendment has delayed the conclusion of the report. 
+
+Siaya Senator James Orengo recently told the Senate that the role of Parliament in considering the BBI Bill should never be treated as “ceremonial”. 
+
+“You cannot have a provision in the Constitution where Parliament is required to conduct business or a transaction for ceremonial purposes,” Mr Orengo said. 
+
+“The fact that Parliament is involved in this process is proof enough that the two Houses are not ceremonial. In fact, Parliament is one of the few institutions which is involved in the parliamentary process and in the popular initiative. It is not for nothing,” the Siaya Senator noted. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The adoption of the Bill by the county assemblies means that even if either of the two Houses or all of them reject the Bill, there will be a referendum. 
+
+In the event that the two Houses adopt the Bill, Article 256 (5) provides that the President shall, before assenting to the Bill, request IEBC to conduct, within 90 days, a national referendum for approval of the Bill. 
+
+ “The commission is intact and come the referendum, the boundaries review and the 2022 General election, we are ready to perform our mandate under the Constitution,” he said. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. “Parliament, among other institutions, must move with speed and play its part by dispensing with the BBI Bill,” Ugunja MP Wandayi says. The estimated loss is equivalent to 2.4 percent of Kenya’s US$96 billion GDP. Last week, Kenya banned the importation, distribution and administration of vaccines by the private sector, citing transparency concerns. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation.
