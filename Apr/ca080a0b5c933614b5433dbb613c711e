@@ -1,0 +1,295 @@
+The Hague 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The EU's medicines regulator said Wednesday that blood clots should be listed as a rare side effect of the AstraZeneca vaccine but the benefits of the jab continue to outweigh risks, as several countries battle fresh virus surges amid vaccine shortfalls. 
+
+A number of nations have suspended the use of AstraZeneca's vaccine for younger populations after it was earlier banned outright in several places over blood clot scares among younger people. 
+
+The back-and-forth over the shot comes as countries from Germany to Ukraine and India face new waves of infections and deaths from the virus that has now killed more than 2.8 million people globally. 
+
+Scrambling for doses 
+
+Governments are scrambling to secure much-needed vaccine doses, with Australia the latest nation to complain of shortages that it blamed on EU export controls. 
+
+The European Medicines Agency (EMA) said Wednesday that blood clots were a "very rare" risk, encouraging countries to continue its use. 
+
+"EMA's safety committee has concluded today that unusual blood clots with low blood platelets should be listed as very rare side effects" of the shot, the agency said in a statement. 
+
+The announcement came after its safety committee examined reports of blood clots, but EMA chief Emer Cooke said no particular risk factor had been identified but the clots could be linked to an immune response to the vaccine.  
+
+"Specific risk factors such as age, gender or medical history have not been able to be confirmed, as the rare events are seen in all ages," she told a news conference. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The benefits of the AstraZeneca vaccine in preventing Covid-19 overall outweigh the risk of side effects," she added. 
+
+"It is saving lives." 
+
+Snap lockdown 
+
+Canada, France, Germany and the Netherlands are among several countries that are not recommending the shot for younger people, although the World Health Organization insists the benefits of the jab largely outweigh the risks. 
+
+The controversy surrounding the jab has marred a global vaccine rollout that governments hope will help countries emerge from a pandemic that has ravaged the global economy and subjected much of humanity to some form of confinement. 
+
+In Germany, Chancellor Angela Merkel expressed support for a snap lockdown to stem rising cases, after decentralised measures failed to quell outbreaks. 
+
+The patchwork of rules across Germany's 16 states "is not contributing to security and acceptance at the moment", her spokeswoman Ulrike Demmer said. 
+
+Hard-hit France imposed tighter measures this week, while Ukraine on Wednesday reported record new deaths and hospitalisations. 
+
+"It is no exaggeration to describe the situation as critical," said Kiev mayor Vitali Klitschko, warning that the city's hospitals would run out of beds "very soon". 
+
+Kiev also tightened measures this week, closing kindergartens and primary schools and introducing travel restrictions. 
+
+India, which registered a 24-hour record of almost 116,000 new cases on Wednesday, said it too would rollout tougher curbs with new curfews in place in 20 cities, including the capital New Delhi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+India has now recorded 12.8 million cases — the third-highest behind the United States and Brazil. 
+
+'Very stressed' 
+
+As millions readied for new anti-virus rules in India, the country's Serum Institute — the world's largest Covid vaccine maker — said it needed financial help after the government imposed export restrictions to secure much-needed doses at home. 
+
+Production capacity at the Serum Institute of India -- which makes the AstraZeneca jab — is now "very stressed, to put it quite frankly", the company's CEO Adar Poonawalla said. 
+
+Australia was facing vaccine woes of its own, after just 700,000 of a contracted 3.8 million doses of the AstraZeneca vaccine were delivered. 
+
+Prime Minister Scott Morrison blamed the EU for the shortages, accusing the bloc of "strict export controls". 
+
+"3.1 million vaccines didn't arrive in Australia — that's just a simple fact," he said. 
+
+"It's not a dispute. It's not a conflict. It's not an argument. It's not a clash. It's just a simple fact." 
+
+More than 692 million doses of coronavirus vaccines have now been administered globally, according to an AFP tally, with just a handful of countries leading the pack by a wide margin. 
+
+Israel has inoculated 61 percent of its people with one dose, while the United States has administered 33 percent with a first shot. 
+
+Hoarding vaccines 
+
+Meanwhile, Amnesty International said in its annual report Wednesday that richer countries are failing a "rudimentary" test of global solidarity by hoarding Covid vaccines and that the crisis had exposed "broken" policies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"The richest countries have effected a near-monopoly of the world's supply of vaccines, leaving countries with the fewest resources to face the worst health and human rights outcomes," said Amnesty boss Agnes Callamard. 
+
+In the United Kingdom nearly 47 percent of people have received a first dose, and the country on Wednesday started rolling out the Moderna jab, the third approved after AstraZeneca and Pfizer. 
+
+The first person to get the Moderna shot in Britain said she was relieved to finally feel safe again.  
+
+"I'm an unpaid carer for my grandmother so it is very important to me that I get it, so I can care for her properly and safely," said 24-year-old Elle Taylor. Oxford University said that it had paused a British trial of the AstraZeneca vaccine on children. The statement came after a top official said there was a "clear" connection to blood clots. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
