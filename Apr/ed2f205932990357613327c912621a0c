@@ -1,0 +1,77 @@
+Though without a finisher’s badge, he developed a strong fanbase between 1968 and 1973 driving a Ford, Alfa Romeo, and DatsunNjathi first entered the 1968 Safari Rally co-driven by Eliud Thuku in a Ford Cortina GT The Safari Rally of the yore attracted many drivers who made the numbers and remained the backbone of the event like Amon Njathi who passed on last Sunday aged 90. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Njathi was one of the pioneer and regular black African rally drivers in the East African Safari Rally. Though without a finisher’s badge, he developed a strong fanbase between 1968 and 1973 driving a Ford, Alfa Romeo, and Datsun. 
+
+Njathi ran his own garage, Njathi Motor Works at Quarry in the road before relocating to Lunga Lunga. 
+
+“Njathi was one of the unsung heroes who made up the numbers every time the Safari revved to a start outside City Hall back in the day,” recalled Sammy Ng'ang'a, a former Safari Rally Press Officer. 
+
+“He had the passion for the sport. The Safari's rich history has its spine in the likes of Amon Njathi and many others who have never gotten any recognition,” he added. 
+
+Njathi first entered the 1968 Safari Rally co-driven by Eliud Thuku in a Ford Cortina GT. The duo switched to an Alfa Romeo Giulia Super the following year. 
+
+He partnered with P. Kihara in 1971 in a Datsun 1600SSS, and Harry Thuku, the first in 1973 in a similar make. 
+
+Eliud Thuku became the first Kenyan black man to finish the Safari in 1971 co-driven by N. Njuguna in a Datsun 1600SSS. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
