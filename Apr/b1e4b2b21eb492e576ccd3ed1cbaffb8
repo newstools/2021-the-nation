@@ -1,0 +1,247 @@
+The Kenyan who co-founded the Sarit Group of companies that include Text Book Centre (TBC) is dead. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Vidhu Shah, popularly known as Bachubhai Shah, died in Nairobi on Tuesday. 
+
+Mr Shah partnered with Mr Maneklal Rughani to establish the Sarit Group of Companies including TBC, Kartasi Industries and the Sarit Centre. 
+
+“Through his drive and desire to lead change in the education sector, Bachubhai shaped TBC into the company it is today. He will be remembered for his love and dedication to TBC as a company, brand and family and will be greatly missed,” the company said in the announcement. 
+
+TBC did not, however, disclose details of what the legendary business executive and education lover died of or where he died at. 
+
+
+
+
+
+
+
+
+
+
+
+The dream to establish the Sarit Centre was conceived by Mr Vidhu Shah and Mr Maneklal Rughani more than 40 years ago, in 1976.
+Photo credit: File
+
+ 
+
+“Bachubhai was admired and respected as a visionary leader both by TBC employees and TBC customers such as bookshops around the country which he supported to start and advised them along the way. Beyond his many successful business ventures, Bachubhai made an indelible mark in the community through his stewardship, personal relationships and championing causes to bring the community closer,” TBC added. 
+
+Apart from co-establishing the TBC, Mr Shah will also be remembered for co-establishing one of the most popular malls in the country – the Sarit Centre – when in 1983 they created the “city within city.” 
+
+President Uhuru Kenyatta also sent a message of condolence to the family of Mr Shah, who died aged 86. 
+
+In his message of comfort and encouragement, the President described the late Shah, popularly known as Bachubhai, as one of Kenya’s finest and visionary entrepreneurs whose business acumen contributes greatly to the country’s economy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Mzee Bachubhai was a true patriot and a nationalist who created job opportunities for many Kenyans through his entrepreneurial exploits. He strongly and truly believed, and lived the Kenyan dream of hard work, determination and success,” the head of state said. 
+
+
+We mourn the loss of our co-founder, Bachubhai Shah. pic.twitter.com/XhSdW4YKfN— Text Book Centre (@TextBookCentre) April 6, 2021  
+
+“His entrepreneurial spirit saw him establish Sarit Centre, Kenya’s first shopping mall in the 1980s when nobody else thought about it. He did not stop at that but moved on to establish several other successful businesses including Text Book Centre which has continued to quench Kenyans thirsty for knowledge.” 
+
+Enduring legacy 
+
+President Kenyatta said Mzee Bachubhai has left a rich and enduring legacy of success. 
+
+The dream to establish the Sarit Centre was conceived by Mr Shah and Mr Rughani more than 40 years ago, in 1976. 
+
+By 1983, the mall’s first phase had been opened at the heart of Westlands, the affluent suburb of Nairobi City. 
+
+Sarit became the first enclosed shopping mall not only in Kenya but also across East Africa. 
+
+Offering Kenyans the first experience of shopping, conducting business activities, taking leisure and accessing other services such as health, banking and entertainment under one roof, the Sarit Centre became one of the most notable business establishments in the country. 
+
+It was featured in the 8-4-4 system curriculum for business studies. 
+
+To date, Mr Shah and Mr Rughani’s families continue to run the business chains, which have grown to command respect in the country and across the region. 
+
+On the other hand, TBC, which came into being with the merging of the Rughani family’s bookshop (Rughani Bookshop which the family operated in Karatina, Nyeri County by independence) and the Shah family bookshop (Vidhu Shah Bookshop which the family-owned in Murang’a), has over time grown to become one of East and Central Africa's largest educational, cultural and technological content and products distributor. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In 2000, Mr Shah was awarded the Grand Warrior of Kenya for his contribution to the business and education sectors in the country. 
+
+As the curtains fell for him yesterday, both the academic and business worlds in Kenya and the region were left mourning a huge loss. In the spirit of Valentine’s weekend, we spoke with three couples whose love was brewed in campus. They tell us how their relationships survived the tedium of limited romantic adventure, the... There were health herbs from Syria, intricate silver from Iran as well as ornate furniture from India. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
