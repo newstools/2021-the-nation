@@ -1,0 +1,157 @@
+The alert was first raised by the US Centres for Disease Control following a rise in the number of cases.It issued Level Four advisory, which is to ask national not to travel to a region over insecurity or health. The US government has retained its highest travel advisory on Nairobi initially indicated by the Centres for Disease Control, and which asks Americans not to travel to Kenya due to Covid-19 cases. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In its update published on Wednesday, the State Department asked its citizens not to travel to Kenya and “exercise increased caution in Kenya due to crime, terrorism, health issues and kidnapping.” 
+
+The alert was, in fact, first raised by the US Centres for Disease Control following a rise in the number of cases. It issued Level Four advisory, which is to ask national not to travel to a region over insecurity or health. 
+
+“Travellers should avoid all travel to Kenya,” the CDC had said in March, when the infection rate was high as 20 percent per day.  
+
+“Because of the current situation in Kenya even fully vaccinated travelers may be at risk for getting and spreading Covid-19 variants and should avoid all travel to Kenya,” the CDC had said. 
+
+High Covid-19 cases 
+
+On Wednesday, the State Department said travel to Kenya would be forbidden, borrowing cue from the CDC. The CDC has flagged Tanzania, Somalia, Ethiopia, Burundi, Tanzania for high Covid-19 cases. 
+
+Kenya’s cases rose steeply over March, forcing President Uhuru Kenyatta to declare a lockdown on Nairobi and four other counties now known as Disease Infested Zone. 
+
+By April 7, there were 141, 365 reported cases. Some 1523 more people contracted the virus on Wednesday, the Ministry of Health announced. 
+
+It is unlikely that that the new travel advisory will impact much on the travel connections between the two countries, especially since air travel has not been banned between them. Both have been requiring negative tests for passenger arriving on their territories. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The US routinely issued travel advisories but based on threat of terrorism. It still advises nationals not to travel to the border areas with Somalia. 
+
+Safety of US citizens 
+
+On Wednesday, the US Embassy in Nairobi said the advisory will be updated regularly to reflect the Covid-19 situation in the country. 
+
+“The Department of State has no higher priority than the safety and security of US citizens abroad. To that end, our travel advice must be fact-based, accurate, and transparent. Our travel advice in no way reflects our relationship with any country,” a spokesperson from the Embassy told the Nation. 
+
+“The government and people of Kenya have taken many strides to mitigate against the spread of Covid-19. We are monitoring conditions closely and will adjust our travel advice for Kenya when the situation on the ground changes.  
+
+The Embassy says the travel advice now must take into account changing Covid-19 conditions, given its pandemic nature today. 
+
+“Kenya has recently seen a steep increase in Covid-19 cases and the President of Kenya announced additional restrictions on March 26, 2021. This change in our travel advice reflects these developments.  The measures do not apply to Kenyan nationals living in the UK or travelling through its airports. Kenya, Bangladesh, Pakistan and the Philippines added to England's coronavirus red list. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
