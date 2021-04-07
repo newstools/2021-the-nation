@@ -1,0 +1,149 @@
+Britain on Wednesday began rolling out its third coronavirus vaccine, from US company Moderna, as questions mounted over jabs from the country's main supplier, AstraZeneca. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Moderna vaccine, which is already being delivered in Europe and the United States, joined ones from AstraZeneca-Oxford University and Pfizer-BioNTech in Britain's armoury against Covid-19. 
+
+The first jabs of the two-stage Moderna inoculation were injected at a hospital in Wales, in a timely diversification of Britain's rollout that was hailed by Prime Minister Boris Johnson. 
+
+"We have ordered 17 million doses that will be going into arms across the UK in the coming weeks. Please get your jab as soon as you are contacted," he tweeted. 
+
+Supply problems for AstraZeneca had threatened to complicate Britain's inoculation drive this month, and concerns are building over a potential link between the jab and rare blood clots among a small number of recipients. 
+
+Oxford University said late Tuesday that it had paused a British trial of the AstraZeneca vaccine on children. 
+
+The university said the trial had posed "no safety concerns", but that it was awaiting more data from Britain's Medicines and Healthcare products Regulatory Agency (MHRA) before restarting the study. 
+
+The MHRA says it is looking into the cases of clotting, amid reports that the regulator may join some countries in the European Union in restricting access in younger age groups. 
+
+The MHRA reported over the weekend that there had been 30 blood clotting cases, seven fatal, out of 18 million doses administered in Britain.  
+
+The European Medicines Agency (EMA) is also looking anew at the issue, but so far the World Health Organization insists the jab is safe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kent Woods, a British former head of both the MHRA and EMA, told LBC radio that the risks of Covid were much higher and he had "no reservations" about the AstraZeneca vaccine. 
+
+But Maggie Wearmouth, a member of the government's Joint Committee on Vaccination and Immunisation, told the Daily Telegraph that "perhaps slowing things down" with the rollout "until we're absolutely certain" might be wise. 
+
+Any delays could imperil the British government's phased easing of its current coronavirus lockdown, with all adults due to receive a first vaccine dose by the end of July. The pause is the latest setback for vaccine, which has faced questions about its efficacy and potential side effects. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
