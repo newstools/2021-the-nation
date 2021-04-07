@@ -1,0 +1,367 @@
+Killings within families are rising at a time when the overall rate of crime has been comparatively low for the past one year. The frequency at which violent homicides are being reported in the home has become unnerving. What started as an ordinary argument between siblings quickly escalated and got out of hand as suddenly as it began. By the time the commotion ended, one sibling was on the ground dying, while his brother was contemplating his escape. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+By yesterday, police in Kangundo were looking for the killer, as Sub-county Commander Philys Kanina revealed that the fatal conflict that had turned brothers against each other was over food. 
+
+“The suspect hit his brother with a jembe in his face killing him instantly after they quarrelled over food,” she said regarding the incident, which took place on Sunday afternoon. 
+
+“We’re however trying to ascertain whether there was another motive for the murder,” she said. 
+
+As police in Kangundo continued the search for the 26-year-old suspect, their counterparts in Ruiru, Kiambu County, yesterday arraigned a woman suspected of killing her husband, a Kenya Defence Forces (KDF) soldier. 
+
+The Directorate of Criminal Investigations (DCI) asked to detain Violet Asale, pending investigations on the circumstances surrounding the death of Daniel Omollo Onyango last weekend at their home in Kahawa Wendani.  
+
+Although Ms Asale has denied the killing, she admits that there was a scuffle between them on Sunday morning. She insists, however, that she does not know what hit Mr Omollo. 
+
+
+
+
+
+
+Kenya Defence Forces soldier Daniel Omollo Onyango who was killed at Kahawa Wendani on April 4, 2021.
+Photo credit: Pool
+
+ 
+
+Police are counting on a post-mortem examination on Onyango’s body, which is scheduled for today. 
+
+On Monday afternoon, police in Kisumu’s Central Police Station were shocked when 19-year-old Kevin Okal Odhiambo casually walked in while carrying the severed head of his 70-year-old grandmother in a bucket. 
+
+The frequency at which violent homicides are being reported has become unnerving among families and law enforcement agencies in recent months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While it was predicted, and appears to be happening, that movement restrictions due to the Covid-19 pandemic were going to cause a spike in domestic violence, the rate at which family members are killing each other is alarming. 
+
+The trend is rising at a time when the overall crime rate has gone down over the past one year, mainly attributed to the increased presence of police officers on patrol and the nationwide curfew that has curtailed movement. 
+
+Love triangles 
+
+On average, according to statistics compiled by Nation from police and news reports, at least three people are killed in the hands of their family members every day. 
+
+These are conservative estimates based on the cases that are reported to the police, which means that the actual number could be much higher. 
+
+While a good number of such murders involve love triangles and an element of planning, most cases point to random moments of anger-induced violence, often sparked by heated arguments. 
+
+It was reported that 19-year-old Odhiambo hacked his grandmother to death, severed her head, and took it to Nyalenda Police Station in Kisumu. It’s alleged that he slit Jane Adhiambo’s throat before severing her head with a jembe. 
+
+
+
+
+
+
+Police take Kevin Okal Odhiambo (left) into custody after he allegedly killed his grandmother in Nyalenda, Kisumu, on Monday.
+Photo credit: Tonny Omondi | Nation Media Group
+
+ 
+
+He then carried the head in a bucket wrapped in a gunny bag and took it to the police station where he surrendered himself. While the motive for his act is still not clear, the police believe it could have been triggered by a family dispute. 
+
+“The suspect was recently released from Shikutsa Juvenile Remand Home for the offence of stealing,” said Kisumu County Police Commander Samuel Anampiu.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In Embu, police are investigating the case of a man who hacked his brother to death on Monday. 
+
+Mr Dishon Kinyua, 43, is said to have hacked his younger brother Godfrey Gitonga for refusing to hand over a title deed to a piece of land they inherited from their parents in Mbeere. 
+
+Police reports indicate that they were each supposed to get two of four acres. This would have effectively made them equal land partners, but apparently Mr Kinyua sold his two acres.  
+
+After selling his inheritance, Mr Kinyua is said to have started demanding a portion of his brother’s two acres, which sparked a conflict. This dispute is said to have escalated on Monday after Mr Kinyua started demanding the title deed to Gitonga’s plot. 
+
+On failing to get the title deed, Mr Kinyua took an axe, chased his brother, and hacked him to death. He escaped to a neighbouring village, but was tracked down and arrested. He was yesterday charged with the murder of his brother. 
+
+But why would a brother kill a brother and why are such cases on the rise when other crimes are generally reducing?  
+
+It appears that Kenya is facing a pandemic within a pandemic at family level. 
+
+Gender-based violence 
+
+While the government is able to patrol the streets and make sure that everyone is adhering to Covid-19 rules, the home — the one place that is supposed to be safest for everyone — cannot be patrolled by the police. 
+
+“The positive efforts to tackle Covid-19 have negative consequences, just like a coin has two sides,” psychologist Philomena Ndambuki says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“There’s an obvious risk of loss of livelihoods and the psychological health issues that arise from lockdowns and the uncertainty created by the alteration of the day-to-day lifestyles,” she says. 
+
+Dr Ndambuki says that, people in this state, who don’t have good coping mechanisms, become restless and can erupt at the slightest provocation.  
+
+This, she says, is the same reason why there has been an increase in gender-based violence during the Covid-19 lockdown due to a destabilisation of community institutions. 
+
+The United Nations states that one in three women worldwide have experienced physical or sexual violence since the outset of the Covid-19 pandemic. 
+
+“Just as levels of violence against women have risen, lockdowns and other movement restrictions have made it more difficult for survivors to report abuse and seek help,” a UN report released at the end of 2020 says. 
+
+“This is the ‘shadow pandemic’ that is spreading amid the Covid-19 crisis, and we need a global collective effort to stop it,” the report further says.  
+
+Upsurge of violence 
+
+In Kenya, the government has admitted before that there has been an upsurge of violence in the homes during the Covid-19 pandemic, but has done little to stop it or punish those responsible. 
+
+In May last year, President Kenyatta ordered the National Crime Research Centre to give an advisory on possible remedial measures to rising cases of domestic violence within 30 days. Nothing has been done 
+
+The country was at that time just two months into a lockdown and a surge in domestic violence was already being reported. It is now almost a year since the President’s order and nothing has been done.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Meanwhile, the domestic violence that was initially targeted at women has come full circle. Men and children are now being killed by their family members as well. 
+
+Last week, a 37-year-old man strangled his two children before killing himself at Kaseve village, Nduluku location in Makueni County. The bodies were found lying in a bed in one of the rooms in which the family was staying. Neighbours then found the man’s body hanging from a nearby tree last Tuesday. 
+
+Three days before the shocking incident, a man who had gone to seek his estranged wife from her parents in neighbouring Kitui County was killed after his in-laws turned on him and beat him to death.  
+
+The in-laws, who according to police had had enough of him, bludgeoned the man to death before throwing him into a ditch at Museve village. 
+
+A similar tragedy took place at Nyawa village in Elgeyo Marakwet County, after a man who was also on a mission to re-unite with his estranged wife was lynched by his in-laws on arrival early last month. 
+
+vachuka@ke.nationmedia.com Local secular artiste arrested following the death of her husband during a physical fight at their Kahawa Wendani home. After committing the heinous crime, the suspect surrendered himself to the police. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
