@@ -1,0 +1,398 @@
+There’s an old phrase about a rising tide lifting all boats, irrespective of design and size, to safety and success. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+For almost a year, the business community in the capital subscribed to this aphorism following the transfer of core services from the inept City Hall to the orderly Nairobi Metropolitan Services (NMS). 
+
+When he was sworn in, NMS boss Maj-Gen Mohamed Badi hit the ground running and said Nairobi would undergo a major face-lift to restore its continental status as the ‘Green City in the Sun’. 
+
+
+
+
+
+
+
+
+
+
+
+A new-look of Kenyatta Avenue in Nairobi's CBD in this photo taken on Wednesday, March 31, 2021 after it was upgraded by Nairobi Metropolitan Services (NMS), in the ongoing city face-lift projects.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+He pledged to upgrade roads, build health facilities, fix the transport system dominated by chaotic matatus and restore order in public offices. 
+
+Months down the line, there’s a stark contrast between the gleaming streets at the heart of the Central Business District (CBD) and the dilapidated infrastructure in downtown Nairobi. The difference as night and day. 
+
+Beyond the neat façade of manicured non-motorised transport corridor dotting Kenyatta Avenue, Wabera and Muindi Mbingu streets at the city centre, the larger CBD needs an urgent face-lift. 
+
+
+
+
+
+
+
+
+
+
+
+ A pile of uncollected garbage at Ngenda Lane on Sunday, April 4, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Open fecal matter, heaps of garbage, flooded streets, lanes and roads with potholes, the lower section of town is in a sorry state. 
+
+At the city centre, key among the NMS improvements have been the red and grey bricks forming NMT corridors for pedestrians and cyclists, re-carpeting of roads and restoration of streetlights. 
+
+However, the facelift has only been a scratch on the surface of the city centre with only the frontage easily seen by people being improved. The public resting area outside Hilton Hotel has been turned into a sleeping location by street families. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Open bedrooms 
+
+The same is true of alleys along Biashara Street, which have been turned into ‘open bedrooms’ by street families, mostly women and their children, who openly defecate along the pathways. 
+
+Downtown Nairobi has been left crying out for urgent makeover as it slowly descends into another slum in the city centre. Taveta Lane – just a few metres from the Kenya National Archives – is fast rivalling the Dandora dumpsite. 
+
+
+
+
+
+
+
+
+
+
+
+Piles of uncollected garbage in a section of Nairobi’s Racecourse Road on Sunday, April 4, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Reeking of pungent smell from fecal matter and decomposed garbage, the lane is now a dumpsite for surrounding salons, restaurants, shops, stalls and hotels. 
+
+To marinate the mounds of garbage are customers of the several wines and spirits shops, who openly pass water on the solid waste right behind Grand Holiday Hotel, Sunning Hill Exhibition and Ndungu House. 
+
+“Some of the garbage collected last Friday. We are used to the mountains of garbage littering this lane,” says a hawker. 
+
+Just on the opposite side is Tsavo Road, which is dotted with potholes. Tsavo Lane is worse as the whole stretch from Kenneth Matiba – formerly Accra Road – to the other side kissing Latema Road is a no-go-zone. 
+
+
+
+
+
+
+
+
+
+
+
+ A pile of uncollected garbage dumped on Taveta Lane in Nairobi on Sunday, April 4, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+The lane has been taken over by miraa traders who have erected their makeshift roofs for sunbathing their khat, forming a dark canopy. On the opposite side, Duruma Road and River Lane are also in a bad state with potholes and strewn garbage peppering the two passways. 
+
+The stretch from Globe Roundabout is an official hawkers’ path, who spill to Kirinyaga Road. At the Jainsala Road, Ngenda Lane and Charles Rubia Road convergence is a heap of garbage that has seen many days, if not months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The state of the road outside City Square Post Office in Nairobi on Sunday, April 4, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+First native African mayor 
+
+The mound is right behind Rumit Stores Limited on the side facing Keekorok House. Named after the first native African mayor of Nairobi, the road is full of potholes that if one misses their step while stealing a glance at the sex workers common on that location could leave them on the ground – without teeth. 
+
+There are also heaps of garbage at the Riverside Bridge, while behind Mutigwo Iganjo Hotel, shanties act as spare parts stalls and eateries for mechanics working at a nearby garage. 
+
+
+
+
+
+
+
+
+
+
+
+Potholes on a section of Tsavo Road in Nairobi on Sunday, April 4, 2021. The lane has been turned into a dumping site.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Along Ring Road, a mountain of garbage welcomes you to Kamukunji Police Station. 
+
+Between Wakulima Market and Kahawa House along Haile Selassie Avenue is a hawkers’ paradise. 
+
+Although admitting to the problems, Maj-Gen Badi says the future is bright with the completion of a new asphalt plant that will help in re-carpeting of more roads. 
+
+
+
+
+
+
+
+
+
+
+
+Stagnant water on a section of Nairobi’s Ngaramia Nane on Wednesday, March 31, 2021.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+Based on Kangundo Road, the plant can produce 2,400 tonnes of bitumen daily, which is enough to re-carpet three kilometres of a road. 
+
+Nairobi has been relying on asphalt from a plant on Nanyuki Road in Industrial Area, which produces only 150 to 300 tonnes a day. 
+
+Street vendors and mechanics will soon be moved to a new market next to Utalii College along the Thika Superhighway, he said. 
+
+
+
+
+
+
+
+
+
+
+
+An impassable Muthurwa Market in Nairobi on Monday, April 5, 2021. The recent rains in Nairobi city have compounded an already bad situation.
+Photo credit: Dennis Onsongo | Nation Media Group
+
+ 
+
+NMS has engaged 24 new garbage collection firms and renegotiated terms with contractors that had been hired by the defunct county administration. 
+
+“The contracts have just been signed and we hope that we will be able to clear the garbage soon,” says Maj-Gen Badi. 
+
+comulo@ke.nationmedia.com 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} ​​​​​​​Once complete, the new Pangani will have a mix of 1,562 residential units coupled with various commercial amenities to serve the residents The deep-rooted rivalry between Nairobi Governor Mike Sonko and NMS boss Mohammed Badi has taken a new turn. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
