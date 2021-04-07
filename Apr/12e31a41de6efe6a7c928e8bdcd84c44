@@ -1,0 +1,173 @@
+Patrick Ngugi, 30, was arrested at 9.30pm on Saturday in Kajiado for flouting the 8pm curfew. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Police also said the boda-boda rider was in possession of fake US dollars. 
+
+He was detained at Matasia police post and would have been expected to appear in court on Monday. 
+
+His family had an agonising night after the father of a two-year-old boy failed to return to their home in Lower Matasia, Kajiado North Sub-county. 
+
+All this while, he was at a police post some 200m away. Tragically, however, he was never to return home at all, as he died on the same night of his arrest. 
+
+The circumstances of his death are unclear. Police say he committed suicide using shoe laces, but can’t tell exactly what time that happened. They only say his body was discovered on Sunday morning. 
+
+That, however, raises the question of how he got into the cells with his shoes – or shoe laces, which are supposed to be removed before going into the cells. 
+
+It’s routine that a suspect is stripped of all items, particularly those that might be used to cause harm. 
+
+Foul play 
+
+His family suspects foul play, alleging that the decision to hurriedly move the body to the morgue without notifying them was part of a cover-up. 
+
+Ngugi’s father, Mr Peter Ng’ethe, said he wants to know whether he was killed in the cells, by whom and why. 
+
+He also demands to know whether his son was in the cells alone. If there were other suspects, he wonders, why didn’t they raise the alarm when he hanged himself? 
+
+Ngugi’s mother, Ms Susan Wanjiru, said the family was alerted by police officers about her son’s death at noon on Sunday. 
+
+They rushed to the police station, where they were informed that the body had been taken to City Mortuary. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The body was moved by officers immediately we were notified around midday on Sunday. Everything was done in a huff. We caught up with the police vehicle ferrying our son’s body in Ngong. It was inhumane," said Ms Wanjiru. 
+
+She said the police informed them that Ngugi had committed suicide using his shoe strings a few hours after he was taken into custody. 
+
+The police added that Ngugi had fake US currency of unknown value. 
+
+Exonerate police officers 
+
+But Kajiado North Sub-county police boss Rashid Mohamed said Ngugi committed suicide sometime between his booking in the cells and Sunday morning. 
+
+“The immediate family and members of Nyumba Kumi were notified before the body was moved," Mr Mohamed said, dismissing claims of secrecy over the matter. 
+
+Mr Mohamed dismissed the murder theory, saying a post-mortem examination on the body would determine the cause of death and exonerate police officers from any wrongdoing. 
+
+However, the family wants the Independent Policing Oversight Authority (IPOA) to investigate the incident. 
+
+"My family cannot afford to retain a private pathologist to represent us. We fear we may not get justice for our son's death. We want IPOA to intervene," Mr Ng'ethe said. 
+
+"He was a comrade who earned an honest livelihood. We want police to expedite the investigation to unearth the mystery surrounding his death," said Joseph Kamau, a boda-boda rider in Lower Matasia. 
+
+sngotho@ke.nationmedia.com After committing the heinous crime, the suspect surrendered himself to the police. Police say Henry Wanga Aura died by suicide but residents allege brutality by police officers. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
