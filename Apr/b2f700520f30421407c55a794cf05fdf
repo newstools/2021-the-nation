@@ -1,0 +1,143 @@
+We still have 70-year-old transformers yet we pay some of the highest electricity bills, laments Nairobi resident Shobhna Shah.Also unimpressed with Kenya Power is Pascal Wasonga, who is unhappy with the utility’s office at Port Victoria, on the shores of Lake Victoria. Power problem • Kenya Power has become notorious for outages, moans Nairobi resident Shobhna Shah. “In the upmarket General Mathenge Road, we have power cuts daily. Power fluctuations damage expensive gadgets and lifts. We still have 70-year-old transformers yet we pay some of the highest electricity bills.” Her account is No. 121595540 and contact, shahshobhna@ymail.com. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+*** 
+
+Dark zone • Also having serious issues with Kenya Power is Pascal Wasonga, who is unhappy with the utility’s office at Port Victoria, on the shores of Lake Victoria. Says he: “It’s been over a week in the dark for us and, to add salt to injury, the staff are not picking up our calls. We’re considering getting a solar panel at Sibale in Nambuku Ward, Samia Sub-County.” His contact is pascalwasonga@gmail.com. 
+
+*** 
+
+Responsibility • While the US has set aside $1.9 trillion (Sh190 trillion) to cushion the country and Americans against Covid-19 pandemic woes, Carey Yiembe can’t help marvelling at the stark contrast with Kenya. “The latter has not only tightened the noose around its citizens’ necks but also saddled them with more debts. With the huge IMF loan released, the positivity rate will decline.” His contact is yiembe@gmail.com. 
+
+*** 
+
+Water woes • Nairobi Water and Sewerage Company wishes to inform Ginny Nyambu, a resident of Omega in Obama Estate, Kayole, that lack of water has been due to numerous disruptions because of road construction. The Corporate Affairs Department says the water supply days are Sunday, 2pm to 6pm, and Monday, 7am to 1pm. Customers should report faults by dialing *888# or email info@nairobiwater.co.ke. 
+
+*** 
+
+Self-destruct • The “rise in murder cases involving friends or relatives shows that emptiness and meaninglessness are stalking the nation”, notes X.N. Iraki. “What happened to religion and traditional wisdom that gave meaning and purpose in life? It seems by making money the centre of our lives, we’ve planted the seeds of our own destruction. Let’s return to reason.” His contact is xniraki@gmail.com.      
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Have a living day, won’t you! US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
