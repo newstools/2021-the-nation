@@ -1,0 +1,248 @@
+Just like they have been doing for the last few months, the athletes woke up and went to the stadium to continue with their preps only to be turned away from the facility by the contractors who are working on the siteA notice seen by Nation Sport at the entrance of the facility states that no sporting events will go on at the stadium until further noticeIn less than a month, the world will be converging in Chorzow, Poland for the World Relays and a number of Kenyan athletes are still struggling to qualify for the games due to lack of competitions Athletes preparing for the World Relays and Olympics Games in Eldoret were on Wednesday morning handed a rude shock after they were locked out of the Kipchoge Keino Stadium. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Just like they have been doing for the last few months, the athletes woke up and went to the stadium to continue with their preps only to be turned away from the facility by the contractors who are working on the site. 
+
+A notice seen by Nation Sport at the entrance of the facility states that no sporting events will go on at the stadium until further notice. 
+
+“To our sports men and women, due to critical stage of construction activities that is going on at the site, we would like to inform you all that, all sporting activities are halted from April 5 until further notice. We are sorry for any inconvenience,” said the statement. 
+
+
+
+
+
+
+A notice at one of the entrances of Kipchoge Keino Stadium in Eldoret town, Uasin Gishu County on April 7, 2021,barring sportspersons from further use of the facility which has a tartan track to train. Construction of the facility is ongoing and the athletes, some who are preparing for Tokyo 2020 Olympics, complained that they do not have an alternative field to do speed work.
+Photo credit: Jared Nyataya | Nation Media Group
+
+ 
+
+The stadium, which has been hosting a number of athletes from Elgeyo Marakwet, Uasin Gishu and Nandi counties, is under construction with two contractors currently on site. 
+
+In less than a month, the world will be converging in Chorzow, Poland for the World Relays and a number of Kenyan athletes are still struggling to qualify for the games due to lack of competitions. 
+
+Kenya’s 800m star Eglay Nalianya bemoaned the lack of training facilities in the region. 
+
+“We have been depending on institutions for track sessions and since the coronavirus pandemic struck, we have been training at Kipchoge Keino Stadium which is the only government facility with a tartan track. Now we have been locked out and we have nowhere to go,” a visibly disappointed Nalianya said. 
+
+Nalianya has been aiming to get qualification mark for the Olympics Games and the World Relays. 
+
+
+
+
+
+
+The status of the western side of Kipchoge Keino Stadium in Eldoret town, Uasin Gishu County under construction on April 7, 2021. Golbo Construction Limited, one of the contractors at the site put a notice ,barring sportspersons from further use of the facility which has a tartan track to train. Construction of the facility is ongoing and the athletes, some who are preparing for Tokyo 2020 Olympics, complained that they do not have an alternative field to do speed work.
+Photo credit: Jared Nyataya | Nation Media Group
+
+ 
+
+Naomi Korir, who is also an 800m specialist, said that the suspension of sports activities in the country has greatly affected athletics as most team sports have already qualified for the Olympics. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We have been struggling to hit the qualification mark and with lack of training facilities, athletes who normally fly high Kenya’s flag are now suffering and this will have a big impact in the Olympic Games. The government should help us out so that we can be able to win medals,” said Korir. 
+
+And foreign athletes have not been spared either. 
+
+Benin’s Yarigo Noelie, who has been training in Kenya since December as she prepares for the Olympics Games, decried the current development. 
+
+“I managed to represent my country during the World Indoor Games in February before jetting back. I’m now preparing for the Olympics Games which is about 100 days away and I have been depending on this stadium for my speed session but it has been closed,” said Noelie. 
+
+
+
+
+
+
+Benin 800 metres athlete Yarigo Noelie, (left) talks to Nation Sport outside Kipchoge Keino Stadium in Eldoret town, Uasin Gishu County on April 7, 2021, after they were denied access to its tartan track. Construction of the facility is ongoing and the athletes, some who are preparing for Tokyo 2020 Olympics, complained that they do not have an alternative field to do speed work.
+Photo credit: Jared Nyataya | Nation Media Group
+
+ 
+
+Chekron Ibrahim, a decathlon athlete from the USA, has been in the country for the last 16 months and just like the others, he is stranded due to lack of training facilities. 
+
+“Kenya has good weather for training and that is why I have been camping in Iten while commuting to Eldoret for my sessions,” said Chekron. 
+
+Golbo Construction Company, which has been tasked with completing the remaining terraces in the Northern and Southern wings, said the works have reached a critical part where heavy machinery is involved. 
+
+“We would have loved to see the athletes train everyday but the works now involve heavy machinery and we would not like to see anyone getting injuries. We shall be able to allow them after we have finished this critical part,” Geoffrey Kinyua, the site engineer, told Nation Sport. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
