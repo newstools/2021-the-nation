@@ -1,0 +1,254 @@
+More than 50 businesses in Tana River have closed shop, with others contemplating shutting down, owing to the high cost of doing business in the county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The affected traders are moving to Garissa and Kilifi counties for new opportunities citing high levies imposed by the Tana River county government. 
+
+According to the traders, the county administration has made it difficult for businesses to thrive, following what they have termed as the inconsiderate increase of levies. 
+
+Janet Musyimi, who has been a clothes vendor in Hola town for the past seven years, said the sudden hike of licence fees is not concurrent with her gains hence the need to find a better environment for her goods. 
+
+"It has been very difficult for me to cope. The growth has since stagnated since the gains are all going to paying rent and the numerous levies imposed," she lamented. 
+
+According to Ms Musyimi, the county administration did not carry out a market study before increasing and imposing levies. 
+
+The traders noted that, unlike the past five years, business in the county has immensely dropped hence poor gains for them, coupled with the crippling effects of the Covid-19 pandemic. 
+
+"Other counties have relaxed the levies to cushion their traders. We have also seen some counties waive rent in these hard times, but Tana (River) is increasing the levies," she said. 
+
+Ms Musyimi says she has found relief in Kilifi County, where she notes that the levies and business permits are friendlier, and the county administration is sensitive to the current situation. 
+
+Joash Mangi, another businessman, said he was relocating his motorbike spare parts shop from Madogo to Garissa County, whose main attraction, he says is the ‘friendlier’ trading policy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An aerial view of Hola Town street with some closed shops. Businesses are shutting down due to the high levies imposed by the Tana River County.
+Photo credit: Stephen Oduor I Nation Media Group
+
+ 
+
+According to Mr Mangi, the county government in Tana River is biased against traders and is hiking cost for permits and levies, driving many out of the county. 
+
+"I used to pay Sh10,000 for a permit, right now they want me to pay Sh25,000 for the same permit in the same business environment when Garissa county offers Sh12,000 for the same," he said. 
+
+Mr Mangi noted that the administration has failed to explore other resources for revenue and has hence taken pressure on traders to replenish its coffers. 
+
+Some of those contemplating exits from Tana River include bar owners, hardware owners, and motorcycle dealers. 
+
+Bar owners have decried a charge of Sh36,000 for the permits compared to their colleagues in Kilifi who are charged Sh8,000. 
+
+Hardware owners on the other hand now must pay Sh21,000 up from the Sh7,000 they paid in 2019. Motorcycle traders decried the exorbitant Sh40,000 charged for the business permit. 
+
+“It is very difficult to grow as a businessman, and the main reason investors cannot put their money here, is because of the high charges," said Josephine Kwako. 
+
+Tana River Business Community chairman Godfrey Gichuki lamets that the county government has arbitrarily increased the levies, scaring away investors. 
+
+He claimed that, unlike the earlier county administration, the number of traders and trade has reduced immensely, with more than 5,000 traders having allegedly fled the county between 2017-2020. 
+
+"You could notice how mango farmers made losses last season, the trucks would come and go back empty due to the exorbitant parking fees imposed by the county government," he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+a 20-tonne truck of mangoes, the parking levies shot up from Sh5,000 to Sh15,000, and a 10-tonne truck from Sh3,000 to Sh10,000; the neighbouring counties of Lamu and Kilifi charge Sh2, 000 and Sh750 respectively for the latter. 
+
+He notes the administration started charging the additional levies without consulting them despite the business environment worsening daily. 
+
+Mr Gichuki noted that more than 20,000 traders are counting losses as most of their suppliers have abandoned them, owing to the exorbitant rates charged on parking. 
+
+Tana River Revenue Director Kase Daido, however, noted that the levies charged in Tana River County are fairer than those charged in other counties. 
+
+According to Mr Daido, the county has been collecting low levies, occasioning the need to increase them. 
+
+He noted that the traders are to blame for their misfortunes as they did not show up for public participation forums to which they were invited. 
+
+"Culture change will always be met with opposition, but people will adapt after some time. What we are doing is for the common good," he said. The flash floods have cut the road at Bilbil area, 4 kilometers from Bura town. The mandatory usage of the Sh1.9 billion floating bridge for over 300,000 commuters was implemented last week. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
