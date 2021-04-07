@@ -1,0 +1,171 @@
+The county is struggling to cope with the increasing number of Covid-19 patients seeking critical treatment.Number of patients seeking critical treatment in public and private hospitals is increasing by the day. When Patrick (not his real name), a businessman in Nakuru County, tested positive for Covid-19 on Monday last week, his family prayed that his condition would not deteriorate. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He visited a local hospital and despite having a severe headache and chest pains, he was told to go back home as health officials sought space for him in the already overstretched facilities. 
+
+Two days later, his condition worsened. He was briefly taken in by a private hospital in Nakuru town, which referred him to an Intensive Care Unit (ICU). 
+
+His distressed family spent the better part of Thursday, April 1, trying to secure an ICU bed for him in Nakuru, but all in vain. 
+
+The family decided to take him to Nairobi, more than 150km away, hoping to get an ICU bed there. 
+
+He, however, died on the way to the capital city. 
+
+Died in a taxi 
+
+“We could not get space for him at the Nakuru Level Five Hospital, Nakuru Nursing Home or Mediheal. We were told all the ICU facilities were full. We then decided to rush him to Nairobi. Unfortunately, he passed on while en route to Nairobi,” a family source told the Nation. 
+
+In yet another case, Mr Stephen Njoroge, a taxi driver in Nakuru town, watched as a client died in his car. 
+
+They had searched for an ICU bed in public and private hospitals in the county to no avail. 
+
+“I have never witnessed such a sad incident in my 15 years as a taxi driver. Every hospital we went to was full. I watched a woman wail uncontrollably as her husband died due to lack of an ICU bed," said Mr Njoroge. 
+
+Turned away by hospitals 
+
+The two incidents illustrate the pain of many coronavirus patients who have been turned away by hospitals in Nakuru due to lack of space. 
+
+The county is struggling to cope with the increasing number of Covid-19 patients seeking critical treatment in public and private hospitals. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Saturday, Governor Lee Kinyanjui admitted that all ICU beds in the county were full. 
+
+“The county health department is under immense pressure due to the number of patients requiring critical care. All ICU beds in the county are full,” revealed the governor. 
+
+For the past one week, doctors in the devolved unit have been referring patients in need of critical care to neighbouring Kericho, Nairobi and Bomet counties. 
+
+Stretched to their limits 
+
+The county’s largest health facility – Nakuru Level Five Hospital – as well as Molo and Naivasha sub-county hospitals have been stretched to their limits. 
+
+A total of 98 patients are currently on supplementary oxygen and others in ICU. 
+
+For instance, Nakuru Level Five Hospital yesterday had 25 patients in isolation, Naivasha Sub-county Hospital had 14, Langalanga (20), Valley Hospital (8), Nakuru War Memorial (4), Nakuru Nursing Home (13), Bondeni (14), Nakuru Specialist Hospital (16), Nairobi Women's Hospital (11) and Evans Hospital (2). 
+
+A nurse at the Nakuru Level Five Hospital yesterday said all their ICU beds are occupied. 
+
+“We have been getting serious cases, especially of people with pre-existing conditions like diabetes, cancer and hypertension. But we have been referring them to hospitals outside Nakuru. 
+
+It is very worrying. People should start taking this disease very seriously,” the nurse said. Of the 238,648 people vaccinated nationwide by April 1, 57 percent are men and 43 percent women. Members of the public flouting Covid-19 imposed lockdown will soon risk arrest with the help of drones. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
