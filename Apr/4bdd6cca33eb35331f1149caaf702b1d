@@ -1,0 +1,149 @@
+The clerk to Parliament says some of the legislators are using the gadgets for personal business.MPs have the option of paying a fee to keep the iPads. Kampala. The Ugandan parliament has ordered legislators to return iPads that were issued to them by April 30. The iPads, which were handed to them in 2016 at the beginning of their terms in office, were meant to help MPs facilitate their work. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a March 31 letter from the Clerk to Parliament, Ms Jane Kibirige reminds all MPs that the iPads are the property of government and must be returned or paid for before the end of their terms. 
+
+She said parliament has valued the iPads for disposal depending on the type and year of purchase.Those who are unable to return the gadget will purchase them at a disposal price set by the House, depending on the brand. 
+
+“The Parliamentary Commission through the Contracts Committee has approved the disposal of iPads by sale to the current users. The decision was informed by the fact that these iPads have since become part and parcel of the current holder and carry data personal to them,” the letter reads in part. 
+
+“This is to, therefore, to inform you that the amount corresponding to the iPad you hold shall be deducted from your emolument of May 2021 to recover the cost of the iPad in your possession,” the letter added. 
+
+MPs, who were given Apple air 2 wifi+cellular (2014) will pay USh550,000 (about Sh16,318) to retain them, those with Apple iPad 9.9 32gb (2018) will part with USh600, 000 (about Sh17,800) while those who were given Apple iPad 9.7, 128gb (2018) are to pay USh700,000 (about Sh20,768). 
+
+“However, if you prefer not to pay for the iPad and would like to return it to the commission, you are requested to inform the Clerk to Parliament to that effect in writing by April 30,” Ms Kibirige said. 
+
+Mr Muwanga Kivumbi (Butambala County) said: “These iPads have become our personal items and they store a lot of our information that we do not wish to lose. The money parliament is asking for is very little and I am sure all MPs can afford it.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Lowila Oketayot  (Pader District Woman MP) said those that will be returned will be disposed of at a cheaper price since there is a, iPad budget for new MPs. Manjiya County MP,  Mr John Baptist Nambeshe, said they do not see any problem with returning the iPads because their term is ending in May. 
+
+Background on iPads for MPs 
+
+The Parliamentary Commission in 2013 approved a proposal to purchase tablets for all MPs in the 9th Parliament at a cost of more than USh1b on them. Legislators are required to return the iPads or pay a residual fee at the end of their five-year tenure. 
+
+Report by Damali Mukhaye 
+
+editorial@ug.nationmedia.com  US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
