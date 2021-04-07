@@ -1,0 +1,77 @@
+Kenya’s Covid-19 positivity rate now stands at 20.5 per cent with another 1,523 people testing positive for the virus in the last 24 hours. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The new cases were recorded from a sample size of 7,423, the Ministry of Health said Wednesday afternoon. 
+
+In a statement to media houses, the Ministry of Health said the total number of confirmed infections has risen to 141,365 while the total number of samples tested hit 1,530,736. 
+
+Of the new patients, 1,432 are Kenyans and 91 are foreigners with 842 being male and 681 females. The youngest is a three-month-old baby while the oldest is aged 105 years. 
+
+Counties distribution 
+
+From Wednesday’s number, Nairobi County has 626 new infections followed by Kiambu with 142, Uasin Gishu 108, Nakuru 92, Mombasa 65, Kericho 46, Murang’a 45, Kisumu 36, Kilifi 36, Machakos 36, Turkana 34, Nandi 30, Makueni 29, Kajiado 27, Meru 19, Kakamega 17, Taita Taveta 15, Nyandarua 14, Embu 13, Busia 12, Nyeri 11, Garissa 10 and Laikipia 10. 
+
+Others are Siaya 9, Kitui 8, Kisii 7, Baringo 3, Kwale 3, Mandera 3, Nyamira 3, Trans Nzoia 3, Kirinyaga 3, Vihiga 2, Narok 1, Tharaka Nithi 1, West Pokot 1, Bungoma 1, Elgeyo Marakwet 1, Homa Bay 1 and Isiolo 1. 
+
+Over the same period, the Covid-19 death toll rose by 18, bringing total fatalities in Kenya to 2,276. However, the Health ministry noted that all are late deaths reports from facility record audits. The deaths occurred on diverse dates over the last one month. Health official says 279 people have reported side effects after receiving the vaccine. The pause is the latest setback for vaccine, which has faced questions about its efficacy and potential side effects. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
