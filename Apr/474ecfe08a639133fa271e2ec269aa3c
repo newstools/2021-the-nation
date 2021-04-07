@@ -1,0 +1,157 @@
+The United Nations Mission in South Sudan (UNMISS) said Tuesday it plans to reduce troop numbers by seven percent this year, due to a drop in violence in the conflict-torn country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+UNMISS chief David Shearer said the drawdown is also a result of UN troops withdrawing from camps where civilians had sought protection during the country's six-year civil war, handing control of the sites to Juba. 
+
+"Over the coming year, there will be reduction of our military and police peacekeepers by around seven percent," Shearer told journalists during his last press conference after four years in the job. 
+
+He said the decision was also a result of a "reduction in violence" following the signing of a peace deal in 2018. 
+
+UNMISS currently has 14,500 military and 2,000 police peacekeepers across the country. 
+
+The mission announced its withdrawal from the so-called protection of civilians sites in September 2020, when some 180,000 still lived in the camps where they had fled amid brutal ethnic atrocities which characterised the conflict. 
+
+The government has not announced how many still remain. 
+
+Despite the reduction in the number of peacekeepers, Shearer cautioned "the peace process remains fragile and there is still much to be done." 
+
+Shearer said however that more troops could be brought in if violence rose again. 
+
+President Salva Kiir and Vice President Riek Machar, for years on opposing sides of the battlefield, formed a coalition government on February 22, 2020 after nearly a year of delays. 
+
+However almost none of the other provisions of the truce have been honoured, and analysts have warned of a return to war. 
+
+Shearer urged the leaders to pick up the pace on the implementation of a new constitution, formation of a national army and economic reform. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some 400,000 people are estimated to have died as a result of the war which broke out in 2013 -- two years after independence from Sudan -- when Kiir accused Machar of plotting a coup against him. 
+
+The oil-rich country remains severely underdeveloped and poorly managed.  
+
+Despite the peace deal, brutal communal conflicts -- often over cattle raiding -- continue, with more than 1,000 killed in violence between rival communities in the last six months of 2020. 
+
+The UN warned last month that parts of South Sudan were facing famine, with some 7.2 million going hungry in the coming months.   
+
+The International Monetary Fund has approved $174 million (148 million euros) in emergency assistance to South Sudan, much of which will be used to pay long overdue salaries for civil servants. South Sudan unity government says it will use the recent International Monetary Fund $174.2million grant to support its budget, pay arrears and strengthen measures of addressing the ailing economy. The UN panel of experts on South Sudan has on several occasions accused the government of delaying and obstructing the process of establishing the Hybrid Court. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
