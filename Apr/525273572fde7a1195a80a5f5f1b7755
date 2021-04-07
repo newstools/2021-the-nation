@@ -1,0 +1,177 @@
+He was arrested over suspected links to Twitter handles @MutemiWaKiama and @WanjikuRevolt. Police want a Nairobi court to allow the detention of an activist suspected to be behind a poster circulating on social media indicating that President Uhuru Kenyatta is not authorised to act or transact on behalf of Kenyans. The graphic was posted at a time when Kenyans had trooped online to voice their opposition to loans disbursed by the International Monetary Fund (IMF). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+State prosecutor Joseph Irungu Gitonga pressed for Mr Kiama to be detained for 14 days to enable cybercrime officers to examine the published graphic before deciding what charges to file against him. 
+
+“The presidency is a symbol of unity and any attack on him on the institution is contemptuous,” Mr Gitonga submitted. 
+
+“Police are investigating a case of contravention of a number of the computer misuse and cybercrime Act No.5 0f 2018 including false publication contrary  to Section 22 (1) as read with  Section 22 (2) (b) and (d) thereof,” Mr Gitonga told the magistrate. 
+
+He added that the alleged offences were committed on April 5/6 2021 by way of publication on social media. 
+
+Corporal Patrick Kibowen, who is one of the detectives handling the case, told the court that Mr Kiama is accused of contravening various provisions of the Computer Misuse and Cybercrime Act including false publication. 
+
+The investigator said that a preliminary probe revealed that two Twitter handles, @MutemiWaKiama and @wanjikuRevolt, which posted the graphic, are linked to Mr Kiama.  
+
+As a result of the suspected link to the Twitter handles, Mr Kiama was arrested on Monday and detained awaiting arraignment in court.  
+
+“Besides the Twitter handles, the suspect published the National Identification Number of President Uhuru Kenyatta and his portrait cautioning the world lending institution against dealing with him,” Mr Gitonga stated. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activist Mutemi Kiama in court over IMF loan poster
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+During the arrest, he was found in possession of three laptops, a Toshiba hard drive and two mobile phones.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The items were forwarded to the police digital forensic laboratory for examination.  
+
+Police say the activist could have worked with other persons who they are still pursuing. 
+
+“We have reasonable suspicion that Kiama, if not detained as requested, may remotely delete the suspected false publication thereby interfering with the investigations”, Mr Kibowen says. 
+
+Defence 
+
+However, defence lawyers Martha Karua and Mr Harun Ndubi sought to have the activist freed on bond saying “there is nothing criminal about the publications.” 
+
+“The offence is bailable and it will give the officer investigating the case enough time to conclude investigations. Mr Kiama was arrested on Tuesday in his house while eating his lunch and the officers did not even give him time to finish. They know where he lives. Admit him to free bond”, Ms Karua said. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Kenyans on social media criticise international lenders for advancing Jubilee administration more loans. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
