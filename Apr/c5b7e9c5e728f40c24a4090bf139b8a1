@@ -1,0 +1,291 @@
+Kenya is not planning to slow down its borrowing appetite any time soon despite mounting public pressure on the government to slow down on its borrowing spree. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is after the International Monetary Fund (IMF) revealed that the country plans to borrow an additional Sh1.3 trillion that includes at least two Eurobonds from the international financial markets in the next 18 months. 
+
+According to the National Treasury's borrowing plan contained in its submissions to the IMF, Sh528 billion ($4.8 billion) of government external borrowing will be concessional compared to Sh253 billion ($2.3 billion) in commercial borrowing (Eurobond issuance) for project financing. 
+
+In total, the Eurobonds alone will net the country a total of Sh781 billion. 
+
+Debt management 
+
+IMF notes that the borrowing plan under the programme allows for another Sh550 billion ($5 billion) Eurobond issuance to be used exclusively for debt management operations, which could include a refinancing of the 2024 Eurobond and retiring of relatively expensive syndicated loans. 
+
+"Given Kenya's financing needs, the domestic market is projected to be an important source of public financing, particularly during the early phase of the programme," the document notes. 
+
+This now explains the current push to increase the debt ceiling beyond the Sh9 trillion limit. 
+
+By the end of 2020, multilateral creditors accounted for about 40 per cent of external debt in Kenya, while debt from bilateral creditors represented close to 33 per cent. 
+
+Loans from China 
+
+Of Kenya's bilateral debt, about 63 per cent is owed to non-Paris Club members, mainly loans from China to finance construction of the standard gauge railway (SGR) project. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+IMF says the Kenyan government has shifted its financing strategy to prioritise concessional financing, and with the recovery of market access in recent months, the authorities plan commercial borrowing — in limited amounts — to safeguard external debt sustainability. 
+
+"While Kenya is at high risk of debt distress and subject to zero limits on non-concessional borrowing, the authorities have requested, and staff supports, non-zero limit exceptions for project financing and debt management operations," the IMF says in the report. 
+
+In this context, commercial borrowing will be used to finance projects that are critical for Kenya's development strategy and have high economic and social returns and for which concessional financing is not available and to proceed with liability management operations. This approach is consistent with the Fund's Debt Limit Policy. 
+
+Treasury said last month that Kenya would use proceeds from a fresh Eurobond to retire expensive loans and refinance the old Eurobonds, if it fails to secure cheaper concessional loans. 
+
+ "With regards to the Eurobond, we have plans to access the international financial market for two reasons. One is to refinance some of the expensive debt," said Dr Haron Sirima, the director-general, Public Debt Management Office at the National Treasury. 
+
+He said the second reason why the government is contemplating accessing the international financial markets was in the event it does not get cheaper credit elsewhere, the Treasury will have to go for another Eurobond to repay previous Eurobonds. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"In the event that we will not be able to raise concessionary funding by June, we may need to raise additional resources to breach that gap," 
+
+Dr Sirima added that the rules governing Eurobond issuance bar countries from telling the market in advance when and how much the borrower plans to borrow. 
+
+Expensive debt 
+
+He said retiring expensive debt would give the government some breathing space by reducing the interest repayment pressures. 
+
+Treasury Cabinet Secretary Ukur Yatani said the country has no challenges with Eurobond repayments because it is going to be rolled over. He said the government has also made provisions for servicing and also replacing. 
+
+Rolling over is a debt strategy where, instead of repaying the principal of a loan when it falls due, a country decides to enter into a new agreement with the lender to give it a new loan to repay the first debt. 
+
+Though it is a preferred mode of refinancing debt worldwide, it comes with a roll over risk where the new loan can come at a higher rate, thereby forcing the borrower to pay more in interest repayments. 
+
+Kenya went for its first Eurobond in June 2014 where a total of Sh280 billion was borrowed in five and 10-year tranches. 
+
+The government went back for another Eurobond in 2018 year where it netted Sh202 billion in 10 and 30-year tranches. 
+
+Kachumbari bond 
+
+In 2019, Kenya was back at the international markets where it raised its Sh210 billion in its third Eurobond named the Kachumbari bond that also repaid other loans and funded unspecified infrastructure projects. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The loan was issued in a dual tranche, one maturing in seven years and the other after 12 years. In total, the country has raised about Sh692 billions in Eurobonds alone, which started maturing last year all the way to 2024. 
+
+For some time now, Treasury has also been exploring various alternative financing options such as private placement, diaspora bonds, Islamic bonds (Sukuk), and issuance of sovereign green bonds over the medium term to finance climate friendly public projects. 
+
+By the end of December 2020, Kenya's debt had grown to Sh7.2 trillion, which is equivalent to 65.6 per cent of the gross domestic product (GDP). Total external debt was Sh3.7 trillion while the domestic debt was Sh3.4 trillion. 
+
+The Public Finance Management Act, 2012 sets the statutory debt ceiling at Sh9 trillion. At the current borrowing pace of about Sh1 trillion per year, this ceiling is going to be hit before the end of the next financial year. 
+
+Mr Yatani said experts at the debt office under the National Treasury are working hard to ensure that the country restructures its loan portfolio to ease the burden. 
+
+ 
+
+pwafula@ke.nationmedia.com Kenyans on social media criticise international lenders for advancing Jubilee administration more loans. Kenya's public debt has ballooned by more than Sh1 trillion in the last one year. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. Havi says ban violates law which guarantees right to highest attainable standard of health.
