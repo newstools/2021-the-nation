@@ -1,0 +1,149 @@
+Covid-19 lockdowns have seen Kenyans work, shop, socialise and entertain themselves online more than ever.With some counties locked as a bloc and restrictions eased for others, many will be open to new digital experiences. The Covid-19 crisis toppled our daily lives at dizzying speed. Travel ground to a halt. Schools, stores, restaurants and entertainment venues shut. Sports leagues suspended, their seasons halted. Hotels emptied. Billions of people under lockdown, working from home or suddenly out of work. Months, even an entire year, of self-isolation, total or partial lockdown. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In many cases, significant spending constraints quickly and dramatically changed how consumers behave. And in a world facing ongoing economic pressures, many of these behavioural changes are likely to endure. It’s normal for people to adjust spending in times of social or economic uncertainty. 
+
+Covid-19 lockdowns have seen Kenyans work, shop, socialise and entertain themselves online more than ever, some for the very first time. This not only increases their comfort with digital technologies and experiences, but also their appetite for them. 
+
+With some counties locked as a bloc and restrictions eased for others, many will be open to new digital experiences. For hospitality organisations, this should be seen as an invitation to innovate and invest in digital technology. 
+
+While travel restrictions are easing in parts of the world, it could still take time for the travel and tourism sector to regain its strength. Domestic tourists in Kenya are expected to spend much less time on holiday. 
+
+Recover and rebuild 
+
+This will require many hospitality establishments to redirect their efforts to understand and engage with this new domestic, short-trip traveller. 
+
+Trust will play a pivotal role in enabling organisations to recover and rebuild in the near term and thrive in the long term. Allowing businesses to reopen may represent a return to some degree of normality, but local travellers need to be able to trust that hospitality establishments are taking sufficient actions to protect their health. 
+
+Every hospitality sector business will need to engage with consumers and communicate the steps they’re taking to keep customers and employees safe — and demonstrate how they’re living up to those commitments at every point of interaction. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Companies that adapt their offerings to reflect changing preferences and behaviours demonstrate their desire to listen, understand and respond to their customers. In the near term, this can deepen consumer trust in the firm, fostering the kind of bond that can drive future growth and success. Consumers will remember the brands that paid attention and “took care” of them during these times. 
+
+Maintaining and building trust will be essential for businesses of all sizes, but larger hospitality organisations are likely to have an advantage given their greater capability to not only invest in trust-building improvements, but also ensure consumers know about the measures taken. 
+
+Covid-19’s impact on the customer experience in the hospitality sector is undeniable. Its impact on operational realities can’t be understated either. And with the road to recovery likely to be bumpy, as the world deals with the ebb and flow of all this, organisations that can maintain operational agility stand to better navigate the uncertainties ahead. 
+
+Mr Hasnain is the CEO and founder of PrideInn Group of Hotels. md@prideinn.co.ke. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
