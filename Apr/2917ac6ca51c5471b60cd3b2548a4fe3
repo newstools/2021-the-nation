@@ -1,0 +1,353 @@
+On the night of the mission, he joined two of his friends, Said Kiondo and Fredric Katulo, for the assignment.Their mission was to kill Mombasa businessman Josphat Karani Mwai as he returned home at night. After killing him, we went upstairs, received Sh15,000 each and went home. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is Nahashon Adegu, 63, who spent almost 34 years in prison for the brutal murder of a Mombasa businessman.  
+
+Adegu was sentenced to death in 1989 alongside two other men for the murder of Josphat Karani Mwai at his Changamwe home on December 6, 1987. 
+
+Mwai was a politician, a Gema big shot and a prominent distributor of beer in Coast. He was also the Changamwe ward chairman of the then-ruling party Kanu. 
+
+Adegu had been approached by a friend for a job he had not done before: Kill a man. The client was Mary Njeri, the wife. 
+
+“She had an affair with a local mechanic and wanted her husband dead because he had become too rough on her. She had set aside Sh45,000 for the job,” he recalls.  
+
+Njeri’s relationship with her husband had deteriorated when he learnt about her affair with a mechanic. Things got thick when Mwai discovered that she had bought the boyfriend new equipment for his workshop, which was a few kilometers from their residence.  
+
+With a great sense of betrayal, Mwai stormed the workshop and took away the items, a move that irked his wife. 
+
+ 
+
+“Since I had no money, I accepted to participate in the murder,” says Adegu, who was then a casual labourer in Bamburi. 
+
+On the night of the mission, he joined two of his friends, Said Kiondo and Fredric Katulo, for the assignment. They were to kill him as he returned home at night. 
+
+“She told us her husband normally returns home at 1am, so we left that night and waited for him in their house from 11pm,” he says. 
+
+Armed with a metal bar and a panga, they strategically took positions in the living room.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“She alerted us as soon as she heard the security bell. We watched as she welcomed him home with a hug, little did he know it was his last day. We quickly swung into action and hit his head from behind thrice; he fell down and began bleeding. We dragged his body and left it at a corner in the living room,” he recalls, regretfully. 
+
+As they attacked him, the wife ran towards the bedroom, which was on the first floor. 
+
+“We then followed her, took our money and left,” he says.  
+
+It was supposed to be a quick, clean job. However, one of them messed up the plan and it did not take long before detectives pounced on them, one after the other.  
+
+Sentenced to death 
+
+After only weeks of investigations, they were all charged with murder. 
+
+“Kiondo was responsible for our arrest because he had been seen with the woman before and after the murder, so he was the first suspect. When they got him, he gave us in. He escorted the police to our homes and that is how we were arrested. We suspected he was tortured,” he says.  
+
+Njeri was also arrested and charged. 
+
+In the ruling, the court noted that Njeri hatched a plot with Kiondo, whom she had had an affair with for two-and-a-half years, to recruit other people to kill her husband. The court further noted the deceased died a very painful death from cut wounds he had sustained. 
+
+In the trial, the court heard that a day before the murder, Njeri and Kiondo met with another tall man at Mtopanga Bar in the presence of two other accomplices. The two men later became prosecution witnesses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Adegu was sentenced to death, which was later reduced to life imprisonment upon appeal. He was sent to Kamiti Maximum Prison, where he spent 20 years before being transferred to Shimo La Tewa, where he served for 13 years. 
+
+Adegu regrets taking part in the murder and is yet to recover from the psychological trauma he has undergone over the years. 
+
+“The events of the fateful night are still clear in my mind. I still remember how we attacked him and how he groaned until he died. I have prayed, and I believe God has forgiven me,” he offers. 
+
+30 years behind bars 
+
+Having preferred two appeals, which did not succeed, he decided to get used to prison life, as he awaited his death. He gave up and hoped that one day, God would hear his prayers and forgive him. 
+
+“Like the Biblical Paul and Silas, I prayed day and night. Life in prison is not easy, I have been through challenges that I would have avoided had I concentrated on my work and refused to allow greed to control me,” he says, regretfully. 
+
+“I lost my family. My wife left with our two children. I haven’t seen her since my arrest. She did not visit me in jail or at the police station. She just left with the children,” he says in an interview on March 29 in Mombasa. 
+
+After 30 years behind bars, Adegu filed a petition before the High Court in Mombasa. He did not touch on his innocence but pleaded with the court for mercy, saying he had learnt his lessons, reformed and would wish to be set free.  
+
+“I have reformed and transformed through different trainings that have earned me skills, which will assist me earn my daily bread if given a chance to rejoin the society. I am also old and sickly. I am epileptic,” he wrote. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The state submitted that Adegu committed a grave offence, considering that a life was lost, and prayed for a definite and deterrent sentence of 50 years’ imprisonment. 
+
+The court called for a probation report, which indicated that Adegu’s had good conduct and was disciplined. In terms of training, it indicated that he had done carpentry, upholstery and biblical studies. 
+
+“He has been elevated to special stage in the prison progress stage system due to good character. The prisoner regrets the offence he committed and claim he was a young man, who wanted money. He has embraced Christianity and has prayed for forgiveness,” the probation report by Macharia Annah stated. 
+
+Re-unite with family 
+
+It also said his family was ready to forgive him, and that prior to his arrest and jailing, he had not formerly introduced any woman, as his wife, to them. So they were not aware of his marriage or the children. 
+
+His family said they were ready to give him part of the land left behind by their parents to start up a business. 
+
+“The inmate seems to have learnt his lesson for the time he has been in custody. He has a positive attitude and he may be considered for release. He will be supervised and enrolled in appropriate aftercare programmes,” Ms Annah stated in her report. 
+
+Mombasa Resident Judge Eric Ogola said in his final decision that the report was positive and the court was satisfied that the petitioner – being a first offender – had transformed by taking up courses to better himself.  
+
+“He has been in prison for 31 years; he committed the crime in his youth at 32 years, now he is a remorseful old man of 63 years. I am satisfied he has served sufficient time in prison, and that he is now a changed person, who can go out there and venture into business as he is now empowered through the training he went through in prison.  I am inclined to sentence the petitioner to the term already served. The Petitioner is set at liberty unless otherwise lawfully held,” the judge stated. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Adegu left Shimo La Tewa Prisons on March 24 and has promised to use the remaining part of his life to re-unite with his family and live his life according to “God’s will”. 
+
+“I am looking for my children, let them show up wherever they are. I am here for them and ready to start a new life with them. I ask for their forgiveness and allow me spend the remaining part of my life with them. 32 years is a very long time to miss your loved ones,” he offers.  
+
+At the time of his arrest, his first born child was six years old while the second was three. 
+
+“They are now adults. I hope they will forgive, accept and welcome me,” he says. 
+
+He is, however, not interested in a reunion with his ex-wife. 
+
+“Let her enjoy her life where she is,” he says. “I regret what I did. I truly do,” he says, then saunters off, to a new world, and beginnings. 
+
+bocharo@ke.nationmedia.com  After committing the heinous crime, the suspect surrendered himself to the police. The decomposing body of Marry Achieng' was discovered by a group of villagers in Waiga B Village on Sunday. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
