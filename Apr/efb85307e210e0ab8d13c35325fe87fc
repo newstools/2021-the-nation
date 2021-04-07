@@ -1,0 +1,233 @@
+Granada have slumped to ninth in La Liga but have enjoyed a brilliant debut European campaign, notably beating PSV Eindhoven away in the group stage and eliminating Napoli in the last 32 before defeating United boss Ole Gunnar Solskjaer's old club Molde of Norway in the round of 16.Unai Emery won the Europa League in three consecutive years with Sevilla and took Arsenal to the 2019 final. Paris, France 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester United head to Spanish surprise package Granada while Arsenal take on Slavia Prague, but Ajax against Roma may be the tie of the round. 
+
+AFP Sport looks ahead to the Europa League quarter-finals ahead of the first legs on Thursday at 1900 GMT: 
+
+Emery the Europa League expert 
+
+Dinamo Zagreb (CRO) v Villarreal (ESP) 
+
+Unai Emery won the Europa League in three consecutive years with Sevilla and took Arsenal to the 2019 final. When he was appointed by Villarreal last summer he said he dreamed of winning a trophy with a club that has been one of the most consistent in Spain in the last 15 years, with nine top-five finishes in La Liga. There have been four European semi-finals too, but they have never won a major trophy or reached a final. 
+
+With Emery, they are currently sixth in La Liga and have been excellent in Europe, cruising through their group before eliminating Red Bull Salzburg and Dynamo Kiev. Now they face perennial Croatian champions Dinamo Zagreb who are enjoying their best European run since the 1960s after stunning Jose Mourinho's Tottenham Hotspur in the last 16. 
+
+Croatian international Mislav Orsic is the man to watch after his brilliant hat-trick did for Spurs. 
+
+Ajax eyeing another final 
+
+Ajax (NED) v Roma (ITA) 
+
+On paper this is the tie of round, as the runaway Dutch league leaders welcome visitors from Serie A to Amsterdam for the first leg. 
+
+Four-time European champions Ajax are enjoying another deep run in continental competition soon after reaching the Europa League final in 2017 and the Champions League semi-finals in 2019. Erik ten Hag was in charge two years ago and is still at the helm now with Ajax beating Lille and Young Boys after dropping out of the Champions League in the group stage. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Roma's hopes of qualifying for the Champions League from Serie A have been hit by a slump in form so the opportunity to get there by winning this competition should not be sniffed at. They have already eliminated Braga and Shakhtar Donetsk in the knockout rounds. 
+
+Slavia threat for Arsenal 
+
+Arsenal (ENG) v Slavia Prague (CZE) 
+
+For the second year running Arsenal's poor league form under Mikel Arteta has left them looking to cup competitions for success. FA Cup winners last year, the Gunners' only hope of silverware this season is in the Europa League, and this competition -- in which they reached the 2019 final -- almost certainly offers their best chance of returning to the Champions League next season. 
+
+After winning all six group games and then edging Benfica and Olympiakos, Arsenal can nevertheless not afford to take Slavia Prague lightly. The Czech champions are on a 21-game unbeaten run which includes knocking Leicester City and Rangers out of Europe. 
+
+The latter tie was marred by accusations by Rangers midfielder Glen Kamara that he was racially abused by Slavia centre-back Ondrej Kudela, who will miss Thursday's game in London with what his club described as "a bruised nose" and "high fever". 
+
+Man United too strong for Granada? 
+
+Granada (ESP) v Manchester United (ENG) 
+
+United shrugged off the disappointment of being knocked out of the Champions League in the group stage to claim impressive wins against Real Sociedad and AC Milan in the Europa League. 
+
+The Old Trafford side are chasing a first trophy since winning this competition in 2017 and on paper they should be too strong for Granada, even if Anthony Martial is out injured and Eric Bailly has tested positive for Covid-19. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Granada have slumped to ninth in La Liga but have enjoyed a brilliant debut European campaign, notably beating PSV Eindhoven away in the group stage and eliminating Napoli in the last 32 before defeating United boss Ole Gunnar Solskjaer's old club Molde of Norway in the round of 16. 
+
+"On Thursday we are going to play one of the most important matches in our history," said Granada coach Diego Martinez, who won the Europa League during his time as an assistant coach to Emery at Sevilla. Soldado knows what it feels like to beat the Old Trafford club. Tottenham and Liverpool are just three points behind West Ham with eight games to play. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
