@@ -1,0 +1,166 @@
+The Kenyan designer who printed a T-shirt with an image of Lamu’s Riyadha Mosque has apologized. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The move follows uproar from the mosque's management after American rapper and business mogul Jay Z was recently spotted wearing one of the designers T-shirts.  
+
+
+Watch and learn more about the iconic #Lamu Riyadha Mosque on Jay Z’s t-shirt and the man behind it 👉🏾 https://t.co/a9x0YMrhyJ#TETE #HabibSwaleh pic.twitter.com/iyIq9H2Zv0— Omar Kibulanga (@OmarKibulanga) April 3, 2021  
+
+Zedekiah Lukoye, popularly known as Zeddie Loky, the chief executive officer of California-based Blkkburd Genes that printed the T-shirt, said he was sorry for using the famous Riyadha Mosque for the firm's new t-shirt collection.  
+
+
+
+
+
+
+Fashion designer Zedekiya Lukoye, popularly known as Zeddie Loky, of men's wear brand Narok NYC. 
+Photo credit: Courtesy
+
+ 
+
+In the letter sent to Riyadha Mosque and Islamic Centre Secretary General Abubakar Badawy and seen by nation.africa, the designer confessed that he was unaware, during research and design stage, that portrayal of the mosque on T-shirts would be perceived as sacrilegious. 
+
+Mr Loky goes ahead to appreciate the mosque for bringing the matter to his attention. 
+
+“In this respect, we are willing to make this right with you. We will make sure to remove all the inappropriate portrayal of Riyadha Mosque Lamu on our T-shirts,” he says in the letter. 
+
+The designer further explains that he had alerted friends and family who received the T-shirt to respect the dignity of the mosque, its founder-Habib Swaleh, and the general Muslim community “by not wearing it in bars nor clubs if they happen to decide to wear it.” 
+
+He says that the intention of the prints was in good faith and in line with the company’s mission of educating people around the world about history using various art designs. 
+
+“Since we only produced 20 T-shirts for some of our celebrity friends and family, we will not be reprinting this design,” he states. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Loky has also promised to frame the entire collection and put it at a museum for exhibition “to bring awareness of their work in order for them to continue appreciating what the company does.” 
+
+“We look forward to an amicable solution to this matter. Once more, we’re sincerely sorry for using Riyadha Mosque Lamu without your authorisation,” says Mr Loky in the letter. 
+
+Riyadha Mosque and Islamic Centre Secretary General, Abubakar Badawy, confirmed receiving the letter from the designer. 
+
+“We received the letter yesterday. The designer and the company have shown remorse and we don’t take that for granted. The apology has been accepted. We are looking forward to partnering with them to promote the good image of Lamu,” said Mr Badawy. 
+
+Coast Interfaith Council of Clerics (CICC) Chairman Mohamed Abdulkadir said he was touched by the designer’s apology. 
+
+“This should be a lesson to others. Let them know that Lamu is guided by its own traditions and religious aspects. We should all respect that,” Mr Abdulkadir said.The Lamu Riyadha Mosque is the oldest, having been built in 1892. It is hailed as a landmark historical site because of its role in spreading Islam in East and Central Africa. In 2018, the government declared it a national monument under the National Museums and Heritage Act. The US rapper and business mogul was recently spotted wearing a T-shirt bearing an image of the mosque. Parts of Lamu submerged as Indian Ocean waters rise. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
