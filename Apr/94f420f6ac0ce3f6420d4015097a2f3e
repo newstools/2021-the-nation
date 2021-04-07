@@ -1,0 +1,85 @@
+A man, who allegedly paid large sums of money to a university student to lure young girls into his sex den, has been charged in Nairobi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Abdirizak Adan Abdullahi was arraigned before Kibera Senior Principal Magistrate Esther Boke alongside Faith Washiali Bwibo. 
+
+The duo faced charges of rape, malicious damage to property and trafficking for purposes of sexual exploitation. 
+
+Adan denied three counts of rape malicious damage to propter and indecent assault. 
+
+Bwibo denied that she unlawfully and knowingly lured a 19-year-old Law student for sexual exploitation. 
+
+Adan allegedly raped the student on March 2, 2021 in Mugoya estate, South C. 
+
+He was also accused of indecently assaulting the complainant and damaging her IPhone worth Sh40,000. 
+
+State Prosecutor Allan Mogere and the victim’s lawyers opposed the release of the suspects on bond arguing that "they are a danger to the society now that schools are closed and young girls are at home." 
+
+The court heard that Adan has been molesting teenage girls and should be kept away from the society. 
+
+"This man raped the victim after she was lured into his house by Faith. Faith was a friend to the victim. She attempted to compromise her by giving her Sh30,000," one of the lawyers told the court. 
+
+Mr Mogere told the court that Adan took the victim to Naivasha and abandoned her. She was rescued by police. 
+
+The suspects were remanded after the magistrate declined to grant them bond. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
