@@ -1,0 +1,321 @@
+ ‘He is dead. He is forgotten. He is rotting in the ground and the only way he is gonna come back up is if you let him come back. Don’t you ever go back to his place, don’t you ever let his name cross your lips, don’t you ever pull his file, ‘cause if you do… he’ll rise up out of that ground. He’ll do you in. It’s the little things, Jimmy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This line from Denzel Washington’s latest movie The little things captures the dilemma the insurance regulator is facing as they try to keep insurance companies that collapsed to stay dead and discreetly pay frustrated policy holders. 
+
+Over the years Blue Shield Insurance, United Insurance Company, Standard Assurance Company, Concord Insurance Company, Access Insurance Company, Stallion Insurance Company Ltd and Lakestar Insurance Company all went under with policy holders claims. 
+
+They were put under receivership and their owners and the regulator have been dancing around each other in endless litigation as the companies ran into the ground leaving policy holders waiting for decades without recovering their money. 
+
+Read: Kin kill to defraud insurance companies 
+
+This was despite setting up of the Policyholders Compensation Fund (PCF) in 2005 to cushion holders of insurance policies in the event that companies are unable to discharge their services, which had collected Sh13.5 billion by December last year. 
+
+MPs decided that if an insurance company went down, policy holders would be paid immediately, this however would only apply into the future with legacy failures having to wait until the court liquidated them to issue compensation to shareholders. 
+
+Received eight claims 
+
+But after decades of inactivity Insurance Regulatory Authority (IRA) has pulled the file of Concord insurance and started making Sh250,000 payout to policy holder with a promise to pull the Standard insurance file next. 
+
+“We have started with Concord and Standard insurance because their matters have been concluded. The others are still in court and we hope they shall soon be resolved,” Commissioner of Insurance Godfrey Kiptum said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However the regulator has only received eight claims out of the 2,989 claimants who will get Sh392 million from the company that collapsed eight years ago. 
+
+Blueshield Insurance Company Limited that was placed under receivership in September 2011, has Sh2.2 billion claims out of which Sh2 billion will be paid out. 
+
+Read: How 'dead' men fleece insurance firms of millions 
+
+United Insurance that has been in receivership for 15 years owes policy holders Sh1.2 billion out of which Pcf will pay Sh514 million while Standard Insurance owes Sh685 million and the fund will settle Sh172 million. 
+
+But the move has roused former shareholders against IRA who have come out guns blazing blaming the regulator for their troubles and calling for audits on alleged pillage of their companies while under management. 
+
+United Insurance owner Peter Mwangi with two former staff members Charles Mwangi and Godfrey Kamau stormed Kenya Re Insurance, the statutory manager, demanding back their company. They staged a mini mutiny before being arrested. 
+
+
+
+
+
+
+Blue Shield  Insurance Company Ltd offices in Nairobi in this picture taken on September 16,2011. 
+Photo credit: File | Nation Media Group
+
+ 
+
+Sergeant David Kairu attached to the Insurance Fraud Investigation Unit said the owners were acting on an advisory in an ongoing winding up petition that called for the failed company and the Insurance Regulatory Authority to settle the long-standing matter out of court, but had instead turned rowdy. 
+
+Caretaker board 
+
+“They arrived and after being ushered into the operations manager’s office, they turned rowdy demanding that he vacates the office immediately. The operations manager on sensing danger excused himself out, closed the door and immediately called our office for assistance,” Mr Kairu said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“They were acting on the basis of an opinion given by the Solicitor General regarding the winding up case that is in its advanced stage in court,” he said. 
+
+Blueshield owners, Beth Muigai and Jean Ngengi on the other hand blocked their winding up suit by exposing how the statutory manager mishandled the firm and asking to be included in a caretaker board to revive the company over one year. 
+
+According to Blueshield owners a former statutory manager John Sifa Keah and Eliud Muchoki Muriithi, who served as the manager from September 15, 2011 to July 4, 2014, defrauded the underwriter to the tune of millions of shillings. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find out the intriguing ways that 'dead' men use to fleece insurance firms of millions
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+They say a special audit by the Auditor General in August 2016 faulted former IRA chief executive Sammy Makove for appointing the statutory managers without showing they were the best choice allowing them to pay themselves without stating the basis for their remuneration. 
+
+Increasing salaries 
+
+The receivers were fingered for arbitrarily increasing their salaries including charging the collapsed insurer Sh1.1 million as business entertainment expenses and making payments without invoices or job cards for evidence. 
+
+“In December 2012, Eliud Muriithi increased his salary to Sh1.6 million per month. He, therefore, paid himself Sh400,000 per month for 19 months over and above the approved Sh1.2 million, translating to a total overpayment of Sh7.6 million,” former auditor general Edward Ouko said. 
+
+Owners of the company have launched suits against its statutory manager with misappropriation of its funds and Mr Makove with an attempt to irregularly sell a multi-billion shilling office block in Upper Hill belonging to Blue Shield Insurance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The stakes have been so high that a judge recused himself from hearing a case against the winding up of BlueShield Insurance citing an attempt to bribe him. 
+
+IRA has maintained that it gave all the companies’ shareholders time and opportunity to inject new capital but they failed and that it has handled the receivership in line with the law. 
+
+“The companies were put under statutory management in line with the law, while we do not want to discuss the merits and demerits of the cases since the matters are in court we are waiting for firms to be wound up and let the policy compensation fund carry out its mandate,” Mr Kiptum said. 
+
+The regulator gave Concord shareholders a plan to inject Sh1.2 billion in 2014 and negotiate a tax liability of Sh776 million with Kenya Revenue Authority. However the owners made very little progress towards reviving the company prompting the regulator to file for liquidation. 
+
+At the time of filling the winding up petition in January 2016 Concord needed Sh2.4 billion to get back on its feet. 
+
+Blueshield said they have at all-time been committed to reviving the company although the terms were onerous with the regulator driving a hard bargain. 
+
+dguguyu@ke.nationmedia.com Beneficiaries hatch plans to kill their relatives and collect huge sums from insurance companies. More than Sh600m in benefits remains unclaimed as people desist from telling relatives about their life cover. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
