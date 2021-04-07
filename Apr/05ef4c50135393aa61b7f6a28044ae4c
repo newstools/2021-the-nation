@@ -1,0 +1,147 @@
+Residents of Kitengela and its environs have a reason to smile after the Kenya Railways on Wednesday launched a train service from the Nairobi CBD to Lukenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The train started operating on Wednesday, providing commuter services between the capital city and new locations in Machakos and Kajiado. 
+
+Kenya Railways said the Lukenya Railway Station is located at the end of Muigai Road and commuters will part with Sh100 as fare for the journey to the Nairobi Central station. 
+
+“One turns off at the Namanga Road and Muigai Road junction. The Kitengela Halt is at the end of the newly tarmacked Deliverance Church Road,” said Kenya Railways. 
+
+The service will have stops at Makadara, Imara Daima, Mlolongo, and Kitengela with the first train departing the area as early as 5:45am with an expected arrival time of 7:40am. 
+
+The evening train will depart from the Nairobi Central station at 4:50pm to arrive at Lukenya Railway Station at 6:47pm. 
+
+Kenya Railways managing director, Philip Mainga, said the project is within the existing railway corridor. 
+
+“We are expanding our network on the commuter rail to Lukenya. This comes after we have had a lot of complaints from Kitengela residents. As of last week, I finalised my work on the station and hopefully this week we will have our first train from Nairobi to Lukenya,” said Mr Mainga. 
+
+Kenya Railways is building 26 stations to serve the new routes in the first phase. 
+
+Some of the newly built stations are located in existing railway corridors, including Syokimau, Makadara and Imara Daima. 
+
+The second phase will extend services to Thika and Limuru while the third will target the satellite towns of Ongata Rongai, Kiserian, Ngong, Kiambu, Ruai and Kangemi in the coming months. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The corporation has procured 11 Diesel Multiple-Units (DMU) from Spain at Sh1.15 billion, five of which are already operational. The remaining six are expected next month. The Nairobi commuter rail service that seeks to decongest major roads is finally taking shape. Service to ferry tourists from Nairobi to town in Laikipia County every weekend. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
