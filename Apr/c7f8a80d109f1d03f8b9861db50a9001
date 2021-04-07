@@ -1,0 +1,79 @@
+GSU coach Gideon Tarus said their efforts to secure Nyayo National Stadium indoor arena, Nairobi have come a cropperKenya Prisons team manager Hassan Tari said they will be going for a podium finish despite the situation General Service Unit (GSU) and Kenya Prisons men's volleyball teams are yet to access indoor training facilities ahead of this month's Africa Clubs Championships in Sousse, Tunisia. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+GSU coach Gideon Tarus has decried the development saying it will have a negative impact on team's performance. 
+
+Tarus said their efforts to secure Nyayo National Stadium indoor arena, Nairobi have come a cropper. 
+
+"While we are aware that President Uhuru Kenyatta gave directives for all the sporting activities to be suspended due to increased coronavirus cases, our plea is that they allow us to access the indoor facility. The competition will be played indoor while we are training outdoor, and therefore it will hard  for the players to adjust," said Tarus. 
+
+He added: "If we can't access the facility then we will have to request our sponsor to allow us to depart to Tunisia early so that we can get time to train at the venue." 
+
+Kenya Prisons team manager Hassan Tari said they will be going for a podium finish despite the situation. 
+
+"I have been with this team and participated in previous championships and I must say this is the best squad the team has had in recent times. In 2019, the team finished seventh but this time around we want to go all the way and challenge for the title. 
+
+"The players are in top form and raring to go. It's sad that we can't access the indoor facility which would have made all the difference but we are determined to perform well," said Tari. 
+
+GSU, Kenya Ports Authority (KPA) and Prisons qualified for the annual event after finishing first, second and third respectively during the 2019 Kenya Volleyball Federation (KVF) National League. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
