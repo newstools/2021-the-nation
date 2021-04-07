@@ -1,0 +1,241 @@
+Now, 16 years after his first game in European competition, the 35-year-old Soldado is trying to put off his last.Soldado has played for eight teams in three countries, from Real Madrid to Tottenham Hotspur and Fenerbahce. Madrid, Spain 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Unforgettable," said Roberto Soldado, remembering the first professional goal he scored. 
+
+The header against Olympiakos from a David Beckham cross kept Real Madrid alive in the 2005 Champions League, giving way to a pile-on with Roberto Carlos, Raul, Sergio Ramos and Robinho. 
+
+Now, 16 years after his first game in European competition, the 35-year-old Soldado is trying to put off his last. 
+
+The days of the Galacticos are long gone as he hopes to engineer one of the biggest victories in Granada's history against Manchester United in the Europa League quarter-final, first leg on Thursday. 
+
+"We don't know how many years it might take for this club to play in Europe again and I don't know if I will ever play in Europe again," Soldado told AFP ahead of the match at Los Carmenes on Thursday. 
+
+"We all have to make the most of it." 
+
+Soldado has played for eight teams in three countries, from Real Madrid to Tottenham Hotspur and Fenerbahce. 
+
+None have climbed as fast as Granada, who finished 10th in Spain's second division three years ago and have been guided by coach Diego Martinez to the verge of the Europa League semi-finals. 
+
+"Since he arrived, the club has gone up and up," said Soldado, who has scored 11 goals this season. 
+
+Martinez was just 37 when he took charge and is now rated as Spain's most talented up-and-coming manager. 
+
+"Everyone got in the boat with him, everyone puts themselves at the service of the team, that is the identity," said Soldado. 
+
+"No matter how old or young you are, we work the same and for the same thing. There are no egos. I try to contribute my little grain of sand, with the experiences I've had, but I have the same desire to learn like a youngster. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We know we are small but we have the ambitions of a giant." 
+
+They face a colossus in Manchester United, the fourth-richest club in the world up against the fourth-poorest in La Liga. 
+
+"They have great players, not just one or two but several, individually they are far superior to us," said Soldado. 
+
+"But our strength is the team and that's where we have to feel superior. Dreaming is free. What we have to dream is that we can knock out Manchester United." 
+
+Soldado knows what it feels like to beat the Old Trafford club, his last appearance against United was for Tottenham in a 2-1 win on New Year's Day in 2014. 
+
+"I remember it well, it was January 1 and the night before I was sitting on my own at home eating grapes, like the Spanish tradition on New Year's Eve," Soldado said. 
+
+"It wasn't the best feeling but the next day it was worth it." 
+
+Soldado came off for a young Harry Kane, the player that would accelerate his departure for Villarreal after a disappointing two years in the Premier League. 
+
+"Mentally I was not prepared to carry so much pressure because they paid a lot of money for me," said Soldado. 
+
+"I didn't know how to handle it. By the time the explosion of Kane happened, I was already in the background." 
+
+Now Kane is linked to a move, perhaps to Real Madrid.  "If you receive an offer from a club like Madrid, it is very difficult to say no," said Soldado. 
+
+"I think Kane is on the verge of a trophy and if it happens, I would really like him to be the captain to lift it because I know he feels the club, he loves it from the inside." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Soldado would have liked another go in England but after Villarreal came Fenerbahce, and then offers from clubs that might have paid him more than Granada, but given less. 
+
+"It has been a long journey of 16, 17 years with lots of ups and downs, where I've been able to play for big clubs that I dreamed of when I was a child," he said. 
+
+"But when you're 35, the birthdays keep coming and you appreciate more what you do. I still get up and go to training with joy. And that's everything." Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
