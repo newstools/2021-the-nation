@@ -1,0 +1,167 @@
+Mandera Governor Ali Roba has reshuffled his Cabinet, saying this will enhance service delivery in the county. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In an executive, Mr Roba said his decision was informed by the need for transparency and accountability in all departments. 
+
+“I have made this decision after considering the need to enhance efficiency, transparency and accountability at all departments of government,” he said. 
+
+He said he wants a governance structure and leadership that ensures better service delivery to the people of Mandera County. 
+
+In the changes, Mr Ahmed Sheikh Mohamed was moved to the Ministry of Roads, Public Works and Transport while Ms Sulekha Harun Hulbale was moved to head Finance and Economic Affairs from the Ministry of Roads and Public Works. 
+
+Covid-19 death 
+
+Ms Hulbale replaces Mr Ibrahim Barrow Hassan who succumbed to Covid-19 last month. 
+
+Ms Rahma Abdow Abdirahman has been moved from the Ministry of Agriculture to Trade, Investments and Industrialisation while Nadifa Ahmed Mohamed is now the new minister for Education, Sports and Culture after being moved from the Ministry of Gender, Social Services and Youths. 
+
+Mr Adan Dagane Hamud will head the Ministry of Agriculture after being moved from Trade, Investment and Industrialisation. 
+
+Mr Issadin Adawa Edow, who was sworn in last week to head the Ministry of Education has been moved before even setting foot in office. He will now head the Ministry of Gender, Social Services and Youth Affairs. 
+
+Mr Edow had been hired to replace Mr Izzidun Abdullahi who resigned under unclear circumstances after serving for three years. 
+
+Mr Roba also appointed Mr Ahmed Sheikh Mohamed in acting capacity as County Executive Committee Member in the Ministry of Public Service, Conflict Management, Cohesion, Integration and Devolved Units until a substantive minister is appointed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Not affected 
+
+Three ministers were not affected by the new announced by the governor on Tuesday. They include Mr Mohamud Adan Mohamed (Health Services), Mr Adan Hussein Hassan (Lands, Housing and Physical Planning) and Mr Mohamed Ali Omar (Water, Energy, Environment and Natural Resource). 
+
+Several county chief officers were also moved to different departments. 
+
+This is the fourth time Governor Roba is reshuffling his executive committee in the past eight years he has been in office. 
+
+The first attempt in 2016 ended up in court after some executive members opposed the move, terming it unfair. 
+
+Governor Roba also faced a hurdle in compiling his executive in 2018 after re-election as the same invited a court case. 
+
+Some ministers accused the governor of assigning them ministries with mandates contrary to their professional qualifications. 
+
+He was forced to reorganise the Cabinet to evade the court case. 
+
+In another attempt in February last year, Governor Roba fired three ministers during a reshuffle. 
+
+The three have since taken him to court over what they termed as unfair dismissal. Jubilee MCAs accuse EFP of rejecting all 10 nominees of Governor Ali Roba. Roba says EFP is punishing him for defying elders' "negotiated democracy". US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
