@@ -1,0 +1,157 @@
+Former Nairobi Governor Dr Evans Kidero has tested positive for Covid-19 days after he was vaccinated against the virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The former county chief made the announcement on Wednesday through his Facebook account. 
+
+He had been vaccinated against Covid-19 on Monday last week at a hospital in Nairobi. 
+
+But nine days later, Dr Kidero confirmed that he contracted the virus. 
+
+After the vaccination last week, he said he got symptoms related to Covid-19. 
+
+"I got vaccinated against Covid-19 last Monday (March 29, 2021) which was followed by Covid-19-like reaction three days later," he wrote on his social media account. 
+
+Dr Kidero and his family went for a test on Tuesday. 
+
+Infected 
+
+But the results, which were delivered on Wednesday, showed that he was the only one infected with the virus. 
+
+He said he will go into isolation for the next two weeks. 
+
+Meanwhile, he advised people he had come into close contact with including his campaign team members to go for the Covid-19 test. 
+
+"It is my appeal to Kenyans to continue observing the Ministry of Health protocols on containing the spread of Covid-19. Put on face masks, wash your hands with soap and clean flowing water or use an alcohol-based hand sanitiser to fight the virus," he wrote on Facebook. 
+
+Dr Kidero has been campaigning to succeed Homa Bay Governor Cyprian Awiti in 2022. 
+
+He recently held a meeting in Nairobi with a group of elders from Kanyada clan on March 23. 
+
+Earlier in March, the former governor temporarily suspended all his political activities, which he had planned to hold in Homa Bay County following news that ODM leader Raila Odinga had contracted the virus. 
+
+Dr Kidero and the ODM leader had been together during Mr Odinga's tour of the Coast region to popularise the Building Bridges Initiative (BBI). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An immediate test after the coastal campaign confirmed that Dr Kidero was negative until Wednesday when another test showed that he had contracted the virus. There is confusion on whether governors who lost after serving one term can begin on a clean slate if elected next year. ODM party leader Raila Odinga says he has tested negative to Covid-19. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
