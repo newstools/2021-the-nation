@@ -1,0 +1,301 @@
+Cradling her newborn son in a thick white blanket on the patio of her Gaza home, Iman al-Qudra knows it will be years before her baby boy, Mujahid, meets his father. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her husband Mohammad al-Qudra has been imprisoned in Israel since 2014, and for Iman to get pregnant his sperm had to be smuggled out of jail to be used in an in-vitro fertilisation (IVF) programme. 
+
+Iman is one of several Palestinian women in the Israeli-blockaded Gaza Strip and occupied West Bank who in recent years have turned to IVF using sperm from an imprisoned husband. 
+
+It is a complex endeavour -- Israeli prison officials voiced doubt it was even possible -- and success is not guaranteed.  
+
+For the Qudras, another Palestinian, who was being freed from the same prison in southern Israel where Mohammad is held, had to first agree to smuggle out the semen on the day of his release.  
+
+He then had to swiftly get it past the Gaza Strip crossing, tightly controlled by Israel. 
+
+Next came Iman's IVF treatment, and then an anxious wait to see if it had worked.  
+
+A specialist in reproductive health at the University Hospital of Toulouse (CHU), Louis Bujan, told AFP it was "plausible" for sperm to remain viable during such a journey, regardless of refrigeration conditions. 
+
+"It all depends on the quality of the sperm from the start," said Bujan, adding semen can be held in a container for more than 24 hours and remain viable.   
+
+'I wanted a boy'  
+
+After three attempts, Iman conceived in 2020, five years after last being given permission to see her husband during a prison visit.  
+
+"I was afraid of being too old for another pregnancy by the time my husband was released," she said, surrounded by her three daughters, all conceived before Mohammad's imprisonment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"I wanted a boy" which an IVF treatment allowed her to choose, she told AFP.   
+
+Specialist Abdelkarim al-Hindawi performed the procedure in Gaza City, where he said he has carried out several fertilisations of prisoners' wives.  
+
+"Usually the sperm arrives hidden inside a pen or a small bottle, passed (secretly) during visits," or sneaked out by a freed cellmate, he said.  
+
+"It has to be here within 12 hours, or it will no longer be viable," he said, adding the semen is then frozen for preservation at the clinic.  
+
+Each attempt costs $2,000, a huge sum in poverty-ridden Gaza, which has been under an Israeli blockade since 2007 when Hamas Islamists took power in the territory.  
+
+The peeling walls of the Qudras' home in Khan Yunis, southern Gaza, are covered with portraits of Mohammad, looking youthful in contrast to his dated weapon and military uniform.  
+
+A member of Hamas's armed wing, Qudra was captured by Israeli forces during the 2014 war in Gaza and later sentenced to 11 years in prison for belonging to the movement, said Iman. 
+
+Hope for others 
+
+Salaheddine and Muhannad Zibn, who live in the northern West Bank, have only met their father once, during a prison visit when one was five years old and the other just two weeks, said their mother Dalal.  
+
+She told AFP her children were the first conceived via IVF from a father detained in Israel, a claim supported by the Palestinian doctor who performed the procedure, Ghosson Badran. 
+
+"I am very proud to be the first because it is our right to have children," she said. "I gave hope to many women."  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Her husband Amar has been serving a life sentence for planning anti-Israel attacks for Hamas since 1997, Dalal Zibn said. 
+
+When her husband first proposed IVF, she said: "I did not understand the concept." 
+
+"Then he convinced me and the doctors reassured me." 
+
+Like Qudra, Dalal Zibn had daughters before her husband was jailed. In 2012 she decided to try IVF, in the hopes of having sons.  
+
+The Israeli Prisons Service (IPS) views the stories of sperm-smuggling with scepticism. 
+
+"We have no information or evidence to support these allegations," IPS spokeswoman Hana Herbst told AFP, characterising them as "rumours". 
+
+"We do not know how it is possible to pass sufficient semen for a medical procedure," she added.  
+
+No questions 
+
+But the Palestinian Prisoners' Club, a West Bank-based rights group, estimates 96 babies have been born in this way to jailed fathers. 
+
+Many came from procedures performed at the Razan Centre in Nablus which only accepts older women or those whose husbands have long sentences, Badran said. 
+
+Prisoners' wives at Razan are treated for free.  
+
+But verifying the donated sperm is from the jailed husband is delicate, and Badran said sworn statements from both sides of the family are required before IVF attempts. 
+
+"We don't know how they get it and we don't ask them any details," she told AFP. 
+
+While many patients see it as a "victory" over Israel, the medical team is trying to stay "out of politics", Badran said. 
+
+Hindawi, the Gaza doctor, said he does not ask questions either.  
+
+"It's not my job. Usually no one asks about the DNA because there is trust, because it's the wife who brings it," he added.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But for young Muhannad Zibn only one thing matters. He says he is longing to see his dad, "to hug him and especially go and buy toys with him, like the other kids".  Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine. People are Googling for medicines without knowing if they work, especially for people with comorbidity.
