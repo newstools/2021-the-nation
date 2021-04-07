@@ -1,0 +1,295 @@
+By now you know the symptoms and quick remedies for coronavirus by heart. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A multivitamin here, paracetamol there, an antibiotic and a lozenge there. To add to this, you have probably heard it many times – the trusted blend of ginger, lemon and garlic, and sometimes honey, being touted as a form of home remedy for Covid-19, whether ingested or through steaming. 
+
+
+
+
+
+
+A man enters into a steam inhalation booth installed by Tanzanian herbalist Msafiri Mjema in Dar es Salaam, on May 22, 2020. The treatment is used as a preventive measure against Covid-19.
+Photo credit: Ericky Boniphace | AFP 
+
+ 
+
+But, as some Kenyans are quickly finding out the hard way, some of the remedies and drugs being sold over the counter could be exacerbating their symptoms instead of making them better. Experts say that there is no evidence to suggest that consuming ginger, lemon and garlic or using those ingredients to steam oneself can protect you from contracting the Covid-19. 
+
+For generations, a tonic made primarily from these ingredients has been used to help fight colds and flu or as an immune booster. Because of Covid-19, their demand has increased, pushing up prices to more than double. 
+
+Besides the vegetables, WhatsApp groups are rife with recommendations on what medications to use, a trend that could increasingly be exposing people to medical risks. And one young couple had to learn this the hard way. 
+
+Atamba’s family experience  
+
+Mr Emmanuel Atamba’s family contracted Covid-19. 
+
+“We started treatment, you know what they say (cough syrup for kids if they are coughing, stronger medication for adults if they show symptoms and immune boosters/multivitamins to boost your immunity. The famous concoction, which everyone has their recipe for and of course eating fruits, vegs and resting more. 
+
+“We had done all that… for 10 days since the test and all the symptoms had vanished – we were all healthy and okay – but still keeping away from other humans until we confirmed the virus was completely gone,” he recounted. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Friday, however, Mr Atamba’s wife, Mercy, “out of nowhere”, started experiencing breathing difficulties. 
+
+“It was bad, like a horror movie. We opened all windows, sat outside the house with her, but nothing doing. She was breathing heavily, couldn’t feel the air going into her lungs and we were all scared.” 
+
+Naturally, Mr Atamba thought Covid-19 was back. After all, this was one of the symptoms of the disease. So he knew that his wife, 26, needed oxygen immediately. 
+
+Like many Kenyans, he knew what the Health ministry had advised: “If the symptoms worsen, go to the nearest health facility.” 
+
+There was the fear of not getting a bed because most hospitals and intensive care units (ICUs) across the county are brimming with critically ill patients. Still, he rushed her to a private facility nearby. 
+
+Azithromycin overdose 
+
+Mr Atamba’s wife stabilised at the hospital. But curiously, his wife’s symptoms were not triggered by Covid-19 symptoms. Rather, they were caused by an over-the-counter antibiotic he had bought for family use. 
+
+“The nurse asked if she had finished her dose for azithromycin. I then asked her, innocently, if there was even a dose for that? She has been taking one tablet a day since she had chest pains,” he responded. 
+
+Nurse: Are you serious? You only take it for three days! 
+
+Me: (Ashamed) – Yeah, she took it for seven days straight. 
+
+ “That was the end of the conversation – he checked her vitals, said she was stable and asked that we wait for the doctor.” 
+
+That conversation sent him to Googling. He realised what his wife was exhibiting was actually a side effect of azithromycin, coupled with the fact that she had taken an overdose. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I immediately called a friend who had been using the same – she had taken it for 10 days and was surprised to know that all her pain during her battle with Covid-19 was actually as a result of the medication and not the infection.” 
+
+Azithromycin is an antibiotic. It is widely used to treat chest infections such as pneumonia, infections of the nose and throat such as sinus infection (sinusitis), skin infections, Lyme disease and some sexually transmitted infections. 
+
+According to Mr Atamba, none of the people who recommended azithromycin to them said anything about the dosage or side effects. 
+
+Mr Atamba’s case is not isolated. Over-the-counter (OTC) drugs are legal drugs that one can acquire without a prescription. In their intended doses, experts say these drugs pose little to no risk. However, the problem occurs when OTC drugs are used in large doses, which can lead to health problems including memory loss, kidney failure, heart problems and death. 
+
+Right dosage 
+
+“Unregulated use of medications can lead to organ damage,” says Dr Wairimu Mbogo, a pharmacist and head of commercial and operations at Meraky Healthcare. 
+
+While it is crucial to get the right medicine at the right dosage, Dr Mbogo explains that people are Googling for medicines without knowing if they work, especially for people with comorbidity. 
+
+People are different and react differently to medication. 
+
+Dr Dominic Ngugi, a pharmacist and head of the legal and ethics committee at Pharmaceutical Society of Kenya (PSK), argues that people are also desperate because of the pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“The panic and the confusion that comes with having Covid-19 makes it difficult to emphasise or persuade people to go the hospital. As a result, self-medication has increased,” says Dr Ngugi. 
+
+ From his experience, Mr Atamba advises: “It doesn’t matter how you are scared about the virus – when you learn you are positive, make sure whatever medicines you take are properly prescribed. Follow the dosage at least, ask for information even from the chemist on what the side effects are so that you know and look out for them – be sure how much to take, when to take it and how to take it.” Patients hospitalised with severe Covid-19 were at great risk of developing long-term conditions, according to a new study. The coronavirus claimed 4,195 lives in the deadliest day of the pandemic yet for the hard-hit country. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. Health authorities say 279 people have been adversely affected after receiving the vaccine.
