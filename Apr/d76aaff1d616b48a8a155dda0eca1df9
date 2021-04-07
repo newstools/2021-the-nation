@@ -1,0 +1,81 @@
+Jacob "Ghost" Mulee's charges began the international break with victory in friendly matches against lowly South Sudan (1-0) and Tanzania (2-1) on March 13 and 15 respectivelyKenya then held Egypt to a 1-1 draw in Nairobi on March 25 before beating Togo 2-1 on March 29 in what was their final 2021 Africa Cup of Nations (Afcon) qualifierBelgium stays on top followed by world champions France, Brazil, European champions Portugal and Spain in that order Kenya is up two spots to 102 in the latest Fifa world rankings released on Wednesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Harambee Stars played four matches during the Fifa international break last month. 
+
+Jacob "Ghost" Mulee's charges began the international break with victory in friendly matches against lowly South Sudan (1-0) and Tanzania (2-1) on March 13 and 15 respectively.  
+
+Kenya then held Egypt to a 1-1 draw in Nairobi on March 25 before beating Togo 2-1 on March 29 in what was their final 2021 Africa Cup of Nations (Afcon) qualifier. 
+
+In Cecafa region, Uganda leads at position 84 despite dropping by one position. Kenya (102) is second followed by Sudan (123), Rwanda (129), Tanzania (137), Ethiopia (140), Burundi (142). 
+
+Ethiopia and Sudan have improved by six and four places respectively after qualifying for 2021 Afcon. 
+
+Djibouti is up one spot at 183, while Somalia remain 197th globally. Eritrea moved up two places to 203. 
+
+Mali, who Kenya will face in 2022 World Cup qualifiers starting June, have dropped three places to 57th in the world. 
+
+Harambee Stars are also in the same group with Uganda and Rwanda in the race to Qatar. 
+
+Belgium stays on top followed by world champions France, Brazil, European champions Portugal and Spain in that order. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
