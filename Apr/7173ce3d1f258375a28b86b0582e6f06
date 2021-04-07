@@ -1,0 +1,155 @@
+The disease is said to have started in Kiagu area.The animals which die in about three days from onset of symptoms. Farmers in Tharaka Nithi County, are counting losses after a mysterious disease killed at least 50 cows in Tharaka area in a span of one month. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The disease is said to have started in Kiagu area and is rapidly spreading across Turima Location especially after the onset of the ongoing rains. 
+
+The farmers told the Nation on Wednesday that the affected cows are excreting blood-stained dung, have sores on the lower parts of the tongue and are oozing blood from their ears and nostrils. 
+
+The animals which die in about three days from onset of symptoms, also exhibit high temperatures and are drinking a lot of water. 
+
+Mr Kanyamba Mucee, one of the farmers from Kiagu area, said he has already lost two cows to the disease and is worried that the unknown illness is likely to cause more havoc including affecting people. 
+
+“Our neighbour lost one cow and in about a week the disease had spread to three other homesteads including our home where it killed two cows,” said Mr Mucee. 
+
+Various drugs 
+
+He said the farmers have been administering the sick cows with various drugs hoping that the disease is one of the common diseases mostly experienced during the onset of rains but have not seen any positive results. 
+
+Mr Gitonga Machauru, another farmer from Kathuura area who lost one cow last week, said more than 10 years back, a similar disease cleared all the livestock in his village. 
+
+He said though some of the symptoms are similar to those of anthrax, they suspect this is different disease because no human being has so far been affected despite some people eating meat from the carcasses of the dead livestock. 
+
+“We disposed the carcass in the bush for the dogs to eat but an unknown persons came and carried part of it,” said Mr Machauru. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Veterinary doctors 
+
+Tharaka Nithi County government has dispatched veterinary doctors in the affected region to establish the kind of illness affecting the cows.   
+
+Mr Njagi Njue, the county agriculture executive told the Nation that after establishing the kind of the disease, they will commence treatment or even impose quarantine if necessary. 
+
+“Our officers are already on the ground trying to establish the kind of disease for an immediate appropriate response,” said Mr Njue. 
+
+He warned the residents against eating the carcasses of the affected animals, noting that the best way of disposing the carcasses is by burying them. Cattle blindness is the latest challenge dairy farmers in Nyandarua and Laikipia counties are grappling with. The main risk is that despite isolating them, some can bring deadly and difficult to treat disease to the old herd. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
