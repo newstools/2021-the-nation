@@ -1,0 +1,209 @@
+More than 200 people in Bura, Tana River County have been displaced after the Bura Irrigation Canal spilt over. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Four villages and a part of Bura town have been marooned by water, forcing residents to move to the road and other higher parts of the town. 
+
+Speaking to the nation.africa, the residents recounted a sleepless night following the water intrusion that started at 9pm on Tuesday. 
+
+"We were just about to sleep when my children started complaining about the floor being waterlogged amid the rain, only to switch on the lights and find water slipping under the door," said Asha Sefu. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hundreds displaced as Bura canal spills over
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Ms Sefu was forced to relocate her children to the market stalls, where they spent the night as she ensured the safety of her property. 
+
+In Bula Jebesa, residents said the water led dangerous snakes into their homes forcing them to flee to safety. 
+
+"The snakes are looking for a warm place, so they found refuge in our houses. We could not risk our lives fighting them," said Abdulahi Osman. 
+
+
+
+
+
+
+
+
+
+
+
+Abdulahi Osman, an  an elder at Bula Brij during an interview with the nation.africa.
+Photo credit: Stephen Oduor I Nation Media Group.
+
+ 
+
+The residents noted that their plea to the National Irrigations Authority (NIA) to seal the spill zones in the canal after a similar incident in 2019 fell on deaf ears. 
+
+Further, they say the contractor of the  Sh7.3 billion gravity canal did not do a proper survey to foresee a disaster even after disregarding advice from locals. 
+
+"NIA is aware that the contractor has not been going about this project the right way, but they have ignored our efforts to have them mitigate such disasters," said Abdi Gure, a resident. 
+
+They noted that the project will in the future create more havoc than the intended good if the issues raised by locals are not acted upon. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Area MCA Ishamel Kodobo called on NIA to move fast and mend the spill gaps at the canal to avert further damage. 
+
+
+
+
+
+
+
+
+
+
+
+More than 20 homes marooned by water at Bula Jebesa as a result of spillage at the Bura Canal in Tana River County.
+Photo credit: Stephen Oduor I Nation Media Group.
+
+ 
+
+Mr Kodobo warned that failure to address the matter at its early stage will result in death and loss of livelihoods. 
+
+"You have seen children almost drowning here and in certain times, when the rains persist, crocodiles start swimming towards the villages along the same canal," he said. 
+
+He also appealed to the government to fast track the progress of the gravity canal construction, to avert future floods in the neighbouring villages. 
+
+Bura NIA Manager Peter Orua noted that the team is assessing the reports to address the problems. 
+
+However, he warned locals against settling too close to the canal and grazing along the canal as such interferes with the dykes, hence spillage. The flash floods have cut the road at Bilbil area, 4 kilometers from Bura town. The accused the county of hiking the cost of permits and levies, driving many out of business. US State Department has asked its citizens not to travel to Kenya due to Covid-19 cases. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Havi says ban violates law which guarantees right to highest attainable standard of health.
