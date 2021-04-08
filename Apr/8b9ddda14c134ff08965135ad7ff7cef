@@ -1,0 +1,231 @@
+Nicolas Pepe had broken the deadlock for Arsenal in the 86th minute after a night of glaring misses in the first leg of the last-eight tie.But Tomas Holes headed in a last-gasp equaliser to leave the contest finely poised. London, United Kingdom 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Slavia Prague stole an away goal deep into stoppage time against wasteful Arsenal to earn a 1-1 draw and gain the upper hand in their Europa League quarter-final tie on Thursday. 
+
+Substitute Nicolas Pepe had broken the deadlock for Arsenal in the 86th minute after a night of glaring misses for the home side in the first leg of the tie. 
+
+But Tomas Holes headed in a last-gasp equaliser to demoralise Mikel Arteta's men and leave the contest finely poised ahead of next week's return leg in Prague. 
+
+"The game is under control, we had got the goal we wanted, but we put ourselves on the back foot," a frustrated Arteta told BT Sport. 
+
+"We conceded a corner, they put bodies in the box and anything can happen. Of course it changes the feeling after the game." 
+
+He said his late substitutions changed the contest but his side did not capitalise. 
+
+"They are a good opponent and really difficult to play against," he added. "Now we need to go there and win the game. We've done it in the past and we're sure we can do it again." 
+
+Arsenal are realistically out of the running to finish in the top four of the Premier League, meaning they must win the second-tier European League to reach next season's Champions League. 
+
+They came into the match at the Emirates after a chastening 3-0 defeat against Liverpool last weekend left them stuck in mid-table in the English top-flight. 
+
+Bukayo Saka and Emile Smith Rowe were passed fit to start but captain Pierre-Emerick Aubameyang was dropped to the bench. 
+
+Saka, who missed the Liverpool defeat, was a regular threat down the Arsenal right but his delivery into the box was poor. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The England international missed a golden chance to break the deadlock when he steered wide with only goalkeeper Ondrej Kolar to beat and Rob Holding forced a fine save with a header. 
+
+The visitors' only real chance of the opening period came when Lukas Provod fired just over following a Slavia raid down the right. 
+
+Arsenal came agonisingly close to taking the lead early in the second half when Willian -- still seeking his first goal for the club -- struck the outside of the post from a free-kick. 
+
+Lacazette miss 
+
+Just after the hour mark Arsenal should have been ahead when forward Alexandre Lacazette stole the ball from the last defender near the half-way line and charged forward with only the goalkeeper to beat. 
+
+The France international opened up his body and looked certain to score but overhit his shot and it came back off the crossbar. 
+
+Arteta shook his team up with a number of substitutions, throwing on Aubameyang, Pepe and Mohamed Elneny together in the 78th minute and it almost reaped immediate dividends but Aubameyang steered wide. 
+
+Suddenly Arsenal were playing with more the tempo and substitute Gabriel Martinelli forced a fine save from Kolar. 
+
+The home side finally got the breakthrough they deserved when Aubameyang fed the ball to club-record signing Pepe, who raced into the box and dinked the ball over the goalkeeper. 
+
+Arsenal looked set to travel to the away leg with the advantage but the Czechs, who had seen off Leicester and Rangers in previous rounds, poured forward and Leno turned a Provod shot onto the post and behind. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The resulting corner made its way through to Holes, who stooped to head home at the back post in the 93rd minute. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
