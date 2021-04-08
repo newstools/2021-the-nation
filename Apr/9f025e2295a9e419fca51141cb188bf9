@@ -1,0 +1,153 @@
+ The opposition Orange Democratic Movement (ODM) is in search of a flagbearer in the 2022 General Election. That will be its fourth attempt. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Governors Wycliffe Ambetsa Oparanya (Kakamega) and Hassan Ali Joho (Mombasa) have expressed keen interest in the position. Raila Amolo Odinga, the party leader, is however sitting on the fence despite being widely expected to “battle” it out with the two aspirants. 
+
+Yet, to many, this is a vain exercise. A public relations stunt even. The ODM flag, street legend holds, is a preserve of ‘Agwambo’, period! That would be the 76-year-old Raila’s fifth stab at the elusive presidency. Maybe ODM needs a different horse. 
+
+Let’s bet on Joho aka Sultan alias 001. The flamboyant and incredibly effective Star of the Sea could surprise us. His candidature would debunk the myth of “it will always be Raila”. It might also break the jinx of losses for the Orange party. 
+
+Further, it could help us to cure the ethnicity cancer. Joho is as cosmopolitan as they come. He’s not encumbered by the ‘big tribe’ burden. Furthermore, a quick glance at his cabinet suffices: It’s the face of Kenya. It’s also a brave mix of gender and age. 
+
+Besides, Joho is a reformist, a performer. You just need a look at Mombasa to appreciate his leadership credentials. In one fell swoop, he transformed Mombasa into an enviable, vibrant and decent city. 
+
+There’s no denying the clout of Mr Odinga. Just look at the flattering superlatives associated with him: Enigma, Baba, statesman, Tinga and Agwambo. These monikers give credit to his struggles for and contribution to democracy in the country. 
+
+Pass the baton 
+
+Furthermore, his spirit is unrelenting. He has vied for State House on four occasions: 1997, 2007, 2013 and 2017. Yet, in the relay race, it reaches a point when the baton must be passed to the next athlete.  That is the true spirit of competition. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In any case, Raila has been there, seen it, done it. He served as the MP for Lang’ata from 1992 to 2013. He has held various Cabinet portfolios, reaching the apex — Prime Minister. In short, he has had his day. He is ‘Mr Establishment’. The old order. 
+
+Why an unlikely candidate? The Bible offers great insights. The story of David and Joseph are good illustrations. God goes for the unimaginable child. That could be the reason why the presidency has eluded Mr Odinga. Now, he must play kingmaker — marshal his popularity asset and bequeath it to his diligent, energetic, ambitious political protégé Joho. 
+
+The Mombasa governor is charismatic in his own right, firing the imagination of voters, mainly the youth. Further, Joho enjoys name recognition: He’ll be an easier sell as opposed to, say, Mr Oparanya. 
+
+That does not mean Agwambo will exit the political track so soon. Nay. He’s still relevant. But he’s beyond the presidency. He belongs to the court of the sage. His remit to stabilise, to pacify, to guide. 
+
+Give Joho a chance. 
+
+ochiengf@gmail.com. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
