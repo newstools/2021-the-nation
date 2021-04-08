@@ -1,0 +1,157 @@
+The UK has administered nearly 32 million first vaccine doses to people -- around 60 per cent of the adult population. Britain moved Thursday to reassure the public over the safety of its coronavirus vaccine campaign, after deciding to offer alternatives to an AstraZeneca jab amid blood clot concerns. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Health Secretary Matt Hancock urged people to keep getting inoculated, a day after Britain's medicines regulator said the vaccine developed by the British-Swedish firm was linked to 79 cases of rare clotting and 19 deaths. 
+
+But those under 30 are to be offered alternatives to the AstraZeneca vaccine, more than 20 million doses of which have been administered since early December. 
+
+Hancock emphasised the serious side effects were "extremely rare", adding that all three of the vaccines so far approved for use in Britain were "safe for all ages". 
+
+Addressing those under 30, an age group in which vaccine hesitancy tends to be higher and is largely yet to be offered the jab, he urged young people to keep faith with the UK's vaccine drive. 
+
+"The vaccines are safe, and if you want to have the Pfizer vaccine or Moderna vaccine instead then that is fine," Hancock told the BBC, referring to two other vaccines approved by British regulators. 
+
+"Covid is a horrible disease and long Covid affects people in their 20s just as much it seems as any other age group and can have debilitating side effects that essentially ruin your life," he added. 
+
+The decision Wednesday by the independent Medicines and Healthcare products Regulatory Agency (MHRA), on the advice of the government's Joint Committee on Vaccination and Immunisation (JCVI), has stoked fears the country's successful vaccine programme could be derailed. 
+
+Officials said the changes would not impact the rollout timetable of offering a first dose to all adults by the end of July, thanks to supplies from US firm Moderna and Pfizer-BioNTech, a US-German joint effort. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The European Medicines Agency also presented its findings Wednesday on the AstraZeneca jab, saying clotting should be listed as a "very rare" side effect to the vaccine. 
+
+Britain, one of the worst-hit countries by the coronavirus pandemic with nearly 127,000 dead, has sped ahead with its vaccination campaign relative to European neighbours. 
+
+The UK has administered nearly 32 million first vaccine doses to people -- around 60 per cent of the adult population. 
+
+Hancock emphasised the impact vaccinations have had on Covid deaths in the UK, saying the number of people dying from Covid was cut in half in the last nine days. 
+
+According to modelling by a team at University College London, the country could reach herd immunity from the virus by Monday. 
+
+The research, which is yet to be peer reviewed, estimates nearly 75 per cent of people should have immunity from the virus by next week. 
+
+However, some medical experts urged caution over the assessment. 
+
+"Unfortunately, the modelling approach used to produce this analysis has a history of making over-confident and over-optimistic predictions," noted Adam Kucharski, of the London School of Hygiene and Tropical Medicine. European Medicines Agency says there is a causal link between the vaccine and a dangerous type of blood clot. The chair of the Covid-19 vaccine task force, Dr Willis Akhwale, spoke to the Nation. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
