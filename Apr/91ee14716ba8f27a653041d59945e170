@@ -1,0 +1,321 @@
+A large group of older residents in far flung villages of Taita Taveta are unaware of the ongoing Covid-19 vaccination exercise, triggering fears that they might miss out the important jab. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The elderly, who are now eligible to get vaccinated against Covid-19, may miss the opportunity to get inoculated as they are unable to access designated clinics in Voi, Wundanyi, Mwatate and Taveta towns due to the long distances involved. 
+
+Some of those who spoke to nation.africa in Ghazi, Kitobo and Makwasinyi villages, said they were unaware of the ongoing vaccination exercise that also targets healthcare workers, security officers and teachers.  
+
+"I'm yet to be vaccinated because I did not know that I'm eligible for the jab," said Ms Rhoda Marinda, a Ghazi resident.  
+
+
+
+
+
+
+
+
+
+
+
+Ms Rhoda Marinda, a Ghazi resident in Voi sub county at her home. She has urged the government to conduct mobile Covid-19 vaccination programme for the elderly in far flung areas.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+The 58-year-old said there will be no vaccine equity if the government fails to consider residents in far flung villages, by conducting mobile clinics in those areas. 
+
+Some said they are unable to travel to the vaccination clinics since they do not have bus fare. 
+
+Another resident, Luciana Mwanjala said she is ready to for the vaccine when given an opportunity to get one.  
+
+"Does the vaccine protect against Covid-19 virus? If so, why should I not be vaccinated? We just hear on radio that people are being vaccinated, but I don't know the people conducting the exercise and where one can get it," she said. 
+
+However, cases of Covid-19 are yet to hit hard in the remote areas of the county.  
+
+Ms Rose Dawa, a community health volunteer in Kitobo village, Taveta sub county said no one has been vaccinated in the area.  
+
+Porous border 
+
+Kitobo, which neighbours Tanzania, is a notorious illegal route for those sneaking in and out of the country. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+She however said they are aware of the availability of the vaccine but are yet to get information on how the elderly in the area will get access to the designated clinic. 
+
+"Ours is to continue conducting awareness in villages by urging the residents to adhere to the Covid-19 rules. We are waiting for further information from the department, for us to begin telling them how and where they can get the vaccines," she said. 
+
+Another community health volunteer in Kitobo, Ali Kalewa said the porous border has proved to be a threat to residents in the area. 
+
+He said they are working with security agents in the area to ensure that movements through the porous border are stopped.  
+
+"Our biggest task has been frequent sensitisation of residents to adhere to these rules. We cannot fully stop the Tanzanians from coming into our villages, so we ask the residents to follow the simple guidelines," he said. 
+
+While the nationwide vaccine rollout had been sluggish last month after the rollout of the exercise, the announcement by government to expand the group of people eligible for the jab from healthcare workers to security officers, teachers and the elderly has slowly increased the uptake.  
+
+Taita Taveta county has a population of over 28,800 elderly people. Statistics at the county department of health revealed that elderly residents volunteering for vaccination was increasing every day in clinics across the county. 
+
+Meanwhile, a total of 1,573 doses have been administered in the county, according to data from the department of Health.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A fortnight ago, the numbers were low due to slow uptake by medical workers, teachers, and security officers.  
+
+According to the breakdown on those who have so far received the vaccine, other categories that include residents with comorbidities posted the highest number of 711, while 283 healthcare workers, 232 security officers, 224 elderly and teachers 123 have received the vaccine. 
+
+County executive for Health John Mwakima said community health volunteers were working at the village level to create awareness about Covid-19 precautions and the vaccine for the targeted population, to help increase the pace of vaccinations. 
+
+He said the department has decentralised vaccination to facilities in each of the four sub counties to reach those in far flung areas, in a bid to increase access to the vaccine. 
+
+"There are no vaccination days. Every day is a vaccination day. People are travelling from as far as Kasighau for the vaccine," he said. 
+
+During the launch of the exercise on March 8, the county government had received 1,500 doses of the vaccine which had targeted healthcare workers. Last week, the county received another 1,500 doses from the health ministry.  
+
+
+
+
+
+
+
+
+
+
+
+Nurse Maimuna Shaban inoculates an elderly woman at Moi County Referral Hospital in Voi, Taita Taveta county. Vaccination clinics have witnessed an increase number of elderly people from urban areas of the county going for the vaccine.
+Photo credit: Lucy Mkanyika I Nation Media Group.
+
+ 
+
+"All doses will be replenished based on our consumption. The jabs currently are not for everyone but for the targeted groups under phase one," he said. 
+
+He urged residents to remain vigilant by practising the recommended Covid-19 safety precautions that include wearing of masks, washing hands, and avoiding crowded places.  
+
+Teachers have reported the lowest number of those who have so far received the jab.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Kenya Union of Post Primary Education Teachers (Kuppet) branch officials blamed it on misinformation that is spread on social media. 
+
+"We are trying to reach out to them through our union leaders and to encourage them to go for the vaccination," said Shadrack Mutungi, branch's secretary general,  who received his vaccine jab on Tuesday.  
+
+The union leader said some of the teachers are keeping away due to misinformation about the effectiveness and safety of the vaccine.  
+
+The Health department has only reported mild side effects by those who have received the vaccine.  
+
+Mr Mutungi said by coming out to get the vaccine he has encouraged his colleagues to also come out to get vaccinated.  
+
+"I have received many calls from teachers since yesterday. They want to know whether I have experienced any reactions. Unfortunately, there are those who are hard to convince," he said. Four villages and a part of Bura town have been marooned by water. European Medicines Agency says there is a causal link between the vaccine and a dangerous type of blood clot. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
