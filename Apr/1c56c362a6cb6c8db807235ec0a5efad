@@ -1,0 +1,165 @@
+Political campaigns have begun in Uasin Gishu county as the race to succeed Governor Jackson Mandago intensifies. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With less than two years to the General Election, Jubilee lawmakers and ward representatives in Deputy President William Ruto’s camp say those hoping to be governor must back his State House bid. 
+
+Some Jubilee MPs have declared interest in the position, setting stage for a political battle in the cosmopolitan region. 
+
+Some 2017 losers have also launched their campaigns. 
+
+Kapseret MP Oscar Sudi recently cautioned against ethnic politics but insisted that the contenders must support Dr Ruto. 
+
+“Voters should reject tribal chauvinists and choose development-oriented leaders,” Mr Sudi told the Nation by phone. 
+
+“We value peaceful co-existence. There is no such thing as being Nandi, Keiyo, Marakwet or any other ethnic community when it comes to elections.” 
+
+However, Soy MP Caleb Kositany said anyone intending to be county boss must be supported by the biggest ethnic group in Uasin Gishu. 
+
+“The majority will have their say in the 2022,” Mr Kositany said in his constituency yesterday. 
+
+“If you want to be governor, you must seek the blessings of the community.” 
+
+The Soy MP will contest the seat on a United Democratic Alliance ticket. His aides have launched online campaigns. 
+
+The ethnic factor has proved a major factor in previous General elections. 
+
+Businessman Bundotich Zedekiah Kiprop “Buzeki”, who attempted to unseat Mr Mandago in 2017, Kenyan ambassador to Pakistan Julius Bitok and 2017 Soy parliamentary seat hopeful Jonathan Bii are also expected to be in the race. 
+
+Mr Buzeki garnered 82,869 votes against Mr Mandago’s 126,681 in the Jubilee primaries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Addressing journalists in Eldoret yesterday, Mr Buzeki said Dr Ruto’s allies should not incite locals against their rivals. 
+
+He said every Kenyan has a right to support a candidate of his or her choice. 
+
+“Uasin Gishu residents want a governor who will steer the region to greater heights in terms of development. They want a person who will improve livelihoods and not the nonsense being peddled by leaders allied to the DP. We are in a democratic country where one chooses a leader he wants,” Mr Buzeki said. 
+
+He has in recent months been attending high-profile political functions in Uasin Gishu. 
+
+Interestingly, the tycoon has been praising the Mr Mandago’s record, a tactic pundits say is an attempt to bring the latter’s supporters to his side. 
+
+The Myoot Council of Elders has called for unity in the Rift Valley as the 2022 succession debate and campaigns intensify. 
+
+onyangooluoch85@gmail.com They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
