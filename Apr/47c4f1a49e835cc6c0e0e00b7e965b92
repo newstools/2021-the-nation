@@ -1,0 +1,145 @@
+The pandemic has hit Kenya’s revenues and limited access to commercial loan markets, forcing the country to turn to the World Bank and the IMF for direct budgetary financing.Previously Kenya had kept away from direct budget funding from institutions like the IMF and the World Bank during former President Mwai Kibaki’s regime.  The International Monetary Fund (IMF) has warned Kenyans opposed to its loans that they would face way more expensive commercial lending from other sources without its assistance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The IMF has released a statement following public outcry over the government’s growing appetite for debt after it approved a $2.34 billion (about Sh257 billion) loan to Kenya, saying its bailout has saved the country from a debt crisis in the middle of the Covid-19 pandemic. 
+
+IMF said the loan would help Kenya tackle Covid-19 in the short run and balance its books in the long run by replacing expensive bank loans with concessional financing from bilateral countries and multilateral institutions. 
+
+“The arrangements with the IMF — together with additional financing from development partners and capital markets and G-20 support under the Debt Service Suspension Initiative (DSSI) — will help meet Kenya’s significant medium-term financing needs including to support their Covid-19 response. The alternative to this financing is much sharper fiscal consolidation or much more expensive borrowing on commercial terms,” the IMF said in a frequently asked questions on Kenya. 
+
+The pandemic has hit Kenya’s revenues and limited access to commercial loan markets, forcing the country to turn to the World Bank and the IMF for direct budgetary financing. 
+
+Previously Kenya had kept away from direct budget funding from institutions like the IMF and the World Bank during former President Mwai Kibaki’s regime with most of the support coming in the form of project support. 
+
+Now, the country’s deteriorating cash flow situation that is marked by falling revenues and worsening debt service obligations has forced the country to return to these loans, which have conditions attached to them. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last year, Kenya borrowed Sh79.3 billion from the IMF and has now taken Sh257 billion under the current programme. 
+
+From the World Bank, Kenya took $750 million (Sh75 billion) in 2019, and last year took a $50 million (Sh5.3 billion) Covid-19 emergency funding, a $43 million (Sh4.5 billion) loan for battling locusts, and $1 billion (Sh106 billion) budget support facility to help manage adverse effects of the Pandemic. 
+
+Kenya plans to borrow an additional $1.5 billion (Sh150 billion) from the World Bank this year. 
+
+The pandemic only tipped the scales for the country that was headed to a debt crisis after President Uhuru Kenyatta’s Jubilee administration borrowed at least Sh6.1 trillion to implement his manifesto in 10 years in power having inherited slightly more than Sh1.79 trillion in June 2013. This now explains current push to increase debt ceiling beyond the Sh9 trillion limit. Rampant corruption and lack of accountability in President Kenyatta’s government has seen the country sink into the debt abyss. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business.
