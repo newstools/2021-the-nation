@@ -1,0 +1,157 @@
+Harry, who served with the British military in Afghanistan, will appear on camera and executive-produce "Heart of Invictus," a multi-episode series which follows competitors as they train for next spring's competition in The Hague. Los Angeles, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Prince Harry will produce a documentary about the Invictus Games for disabled military veterans -- the first series under a lucrative deal he and  wife Meghan Markle signed with Netflix after moving to California last year. 
+
+Harry, who served with the British military in Afghanistan, will appear on camera and executive-produce "Heart of Invictus," a multi-episode series which follows competitors as they train for next spring's competition in The Hague. 
+
+"This series will give communities around the world a window into the moving and uplifting stories of these competitors on their path to the Netherlands next year," said Harry in a statement. 
+
+The program will be the first released by the couple's Archewell Productions, which inked a sprawling deal with streaming giant Netflix last September to produce "impactful" films and series. 
+
+"As Archewell Productions' first series with Netflix, in partnership with the Invictus Games Foundation, I couldn't be more excited for the journey ahead or prouder of the Invictus community for continuously inspiring global healing, human potential and continued service," said Harry. 
+
+No financial terms were disclosed, but the deal is reported to be multi-year and exclusive to Netflix. 
+
+Multiple other projects rumored to be in development include a nature documentary series and an animated series focused on inspiring women, although former "Suits" star Markle has no plans to return to acting. 
+
+"The Duke and Duchess of Sussex and the Archewell Productions team are building an ambitious slate that reflects the values and causes they hold dear," said Netflix content chief Ted Sarandos. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"From the moment I met them, it's been clear that the Invictus Games hold a very special place in their hearts, and I couldn't be happier that their first series for Netflix will showcase that for the world in a way never seen before." 
+
+Harry has previously appeared in Paralympics documentary film "Rising Phoenix," and launched the first Invictus Games back in 2014. 
+
+The couple first went public together at the Games' September 2017 edition. 
+
+The Olympics-style sports event taking place in The Hague in the Netherlands was initially scheduled for 2020 but was twice delayed to spring 2022 because of the coronavirus pandemic. 
+
+As well as following their training, the series will also dive into the competitors' "powerful stories of hope and resilience." 
+
+The couple quit the British royal family and moved to California last year. 
+
+An explosive interview they gave to Oprah Winfrey last month -- in which they claimed an unnamed royal had asked how dark their baby's skin would be -- plunged the monarchy into its biggest crisis since the death of Lady Diana. 
+
+Markle and Harry also run a wide-ranging non-profit organization named Archewell. The announcement came a day after Harry became "chief impact officer" at San Francisco life-coaching startup BetterUp. The Duke of Sussex has been named as chief impact officer of BetterUp Inc, a coaching and mental health firm founded in 2013. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
