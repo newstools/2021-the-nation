@@ -1,0 +1,153 @@
+Persons living with HIV in Nakuru County have asked the national government to end the Sh45 million import tax dispute over antiretroviral drugs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The lifesaving drugs have been held at the port of Mombasa for nearly four months after a disagreement between the Kenyan government and the US Agency for International Development (USAid) on who should pay tax for the cargo. 
+
+Ms Serah Muthoni Mwangi, one of the HIV patients in Nakuru, said the stalemate has affected more than 1.2 million people who depend on the drug for survival in the country. 
+
+“It is unfortunate that the drugs are lying at Mombasa port because of red tape bureaucracy at the expense of the suffering patients who are now staring at death,” said Ms Mwangi. 
+
+Ms Mwangi said that many HIV patients were now forced to travel far and wide in search of antiretroviral drugs. 
+
+ “Many patients are spending the meagre resources in search of these drugs in health facilities outside their stations,” said Ms Mwangi. 
+
+She added: “If the HIV patients fail to get their daily doses, the viral load increases and this leads to more infections and death.” 
+
+She said many HIV patients were not ready to openly talk about their suffering due to stigma. 
+
+Read: ARVs shortage to 'hit remote areas hardest' 
+
+ “Since January when the drugs were withheld in Mombasa port, very few HIV patients have come out to complain about the delay and this can be attributed to stigma associated with the disease,” explained Ms Mwangi. 
+
+ “There are HIV patients who don’t collect drugs from nearby clinics. Instead, they travel out of their stations to collect the medicines from places where they are not known,” she added. 
+
+She said that due to fear of victimisation in places of work, many HIV patients were reluctant to disclose their HIV status to their employers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ “Some HIV patients still fear that if they disclose their status to their employers they would be sacked. Some have been collecting the drugs using different names due to stigma associated with HIV/Aids,” said Ms Mwangi. 
+
+She revealed that some of the HIV patients were using non-prescribed drugs due to lack of the ARVs. 
+
+fmureithi@ke.nationmedia.com Efforts to have the cargo now stuck at the port cleared even with the help of the US embassy have hit a brick wall. Shortage in supply of ARVs can have devastating effects on HIV patients. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
