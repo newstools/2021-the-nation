@@ -1,0 +1,290 @@
+When Lewis Wachira set out with one of his friends for a night of fun in one of Nairobi’s popular joints, he had no idea it would be a day he will live to remember. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Wachira had decided to link up with his friend in Ruai for roast meat (nyama choma) and some drinks. They were later joined by two women whom his friend said were his friends. 
+
+The four of them spent the afternoon together till late in the evening, when Mr Wachira informed his friend that it was time for him to head back home. 
+
+“We stayed at the popular joint till 9pm. I wanted to leave because I did not want the 10pm curfew to find me outside. So my friend told me that since we were heading in the same direction, we could share a taxi. He had introduced one of the women as his girlfriend,” recalls Mr Wachira. 
+
+“And instead of my friend heading to his house with his girlfriend, he suggested that they chill out at my place because the women were still in party mood and would leave later on in the night,” he added. 
+
+However, by the time they were ready to call it a night, it was quite late – at 1am. “So my buddy requested me to allow them to sleep at my place,” adds Mr Wachira. 
+
+He then excused himself to go and sleep since he had to wake up very early the following day and go to work. He owns a printing and cyber café shop in Kayole. 
+
+
+
+
+
+
+At home, while trying to find out the items that had been stolen, he came across a small black plastic bag that was tightly wrapped. Upon opening it, he found an assortment of tablets, he recalled.
+
+ 
+
+Energy drink 
+
+Mr Wachira says he only had an energy drink during his stay with the trio. But in the morning, he and his friend woke up to a scene straight out of a movie. 
+
+“I found things in my house had been tossed around. My friend was sleeping on the couch alone and the two women were gone. I woke him up and asked him where the women had gone to and he told me he had no idea. In fact, after rousing him from sleep, he tried standing up but he couldn’t. He was sweating and started vomiting,” says Mr Wachira. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I was also not feeling well. I was dizzy and sweating profusely. I did not vomit like my friend, maybe because I did not take alcohol the previous night. He tried calling one of the women but her phone was off.” 
+
+The phones, ATM cards and the money he had in the house from his business were all gone. 
+
+“I was in a state of panic and the first thing we did was run to Ruai police station to report. We had no money even for bus fare. Interestingly, at the police station, the officers started laughing on hearing our ordeal. One of them was telling us how important it was to have a wife,” he says. His case was booked under OB number 62/8/3/21. 
+
+From his printing and cyber café shop, he had collected a total of Sh50,000, which he had not yet banked. 
+
+“Every day when I close my business I take the money home and keep it in a safe. From the police station, we decided to go to the bank and withdraw some cash since we did not have any. We went to my friend’s bank and he immediately asked them to block his ATM cards. But when he sought help from the manager to withdraw some money from his account, he was informed that there was nothing in his account,” remarked Mr Wachira. 
+
+
+
+
+
+
+
+
+
+
+
+His case was booked under OB number 62/8/3/21.
+Photo credit: Courtesy
+
+ 
+
+My bank 
+
+“That is when I realised things were worse than I had thought. I immediately ran to my bank, hoping that the same fate had not befallen me since I have a withdrawal limit of Sh50,000. They immediately blocked my ATM and mobile accounts. The woman who was helping me then confirmed that some money transfers had been made on my account.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Wachira said Sh174,000 was transferred from his account to another account registered under the name Samuel Ngugi Gitau. Another Sh150,000 was also transferred from his account to an M-Pesa number. 
+
+All the transactions were done through mobile banking. How the two women were able to get his PINs is still a mystery to Mr Wachira. 
+
+“I think the drug they used does not render their victims completely unconscious, because the only way for them to know my PINs is if I told them. At home, while trying to find out the items that had been stolen, I came across a small black plastic bag that was tightly wrapped. Upon opening it I found an assortment of tablets,” he recalled. 
+
+After losing all his savings, Mr Wachira decided to seek help from an officer attached to the Directorate of Criminal Investigations. 
+
+“After meeting with the CID officer and explaining my case, I learnt the two women had been arrested before and charged with cases of fraud. He assured me they would soon arrest the two women who are apparently sisters,” Mr Wachira offered. 
+
+“I had earned the money in my account through sweat. It was my two-year savings. Imagine every day doing a photocopy for Sh2 a page. I had even denied myself certain luxuries because I wanted to buy a new and better photocopier machine than the one I had,” he further lamented. 
+
+“It seems this is the two women’s job; going around Nairobi and defrauding unsuspecting men of their hard-earned money. In addition to cleaning my bank account, they also went ahead to take mobile app loans. In total, they made away with Sh500,000 from me.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+} A seminarian who couldn’t resist the charm of a woman learnt his lesson the hard way over the Easter weekend. The suspects, Mercy Njeri and Rita Achieng, were not given an option of bail. They forced their way into her house while making monetary demands. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
