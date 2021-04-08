@@ -1,0 +1,141 @@
+The Serum Institute of India on Thursday refunded the South African government for vaccines Pretoria had ordered but which were undelivered.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+South African Health Minister, Zweli Mkhize, said the Institute - which is the main supplier of the Oxford AstraZeneca vaccine to Africa under the Covax facility - had refunded money for the 500,000 doses purchased but which the country decided not to use.  
+
+South Africa changed tack after finding out, through a trial, that the vaccine offered little protection against illness caused by the dominant local B.1.351 coronavirus variant. The trial was carried out by researchers at the University of Witwatersrand and Oxford University but was not been peer reviewed at the time. 
+
+The country had placed an order of 1.5 million doses in February this year.  
+
+"We have managed to salvage the AstraZeneca situation: the one million doses we had received were sold to the African Union and distributed to many African countries who have now been able to access vaccines through this process," the minister explained. 
+
+Mr Mkhize has told South Africans to now expect more than one million vaccine doses from Johnson&Johnson this April as the country looks to ramp up its vaccination drive. 
+
+The Serum Institute, in the meantime, hopes to gain support from the Indian government to help it meet demands for both local and international markets. According to Adar Poonawalla, SII's chief executive, since the government pays the firm less per shot than it earns from exports, it needs $408 million to boost its currently "very stretched" production capacity. 
+
+"This was never budgeted or planned initially, because we were supposed to export and get the funding from export countries but now that that is not happening, we have to find other innovative ways to build our capacity," Poonawalla said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Indian government, despite fighting its own local challenge against infection numbers, has been supplying vaccines across Africa under a diplomatic promotion known as ‘Vaccine Maitri’ or Vaccine Friendship. Britain moved Thursday to reassure the public over the safety of its vaccine campaign. European Medicines Agency says there is a causal link between the vaccine and a dangerous type of blood clot. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. Sudan's government has declared a state of emergency in the region.
