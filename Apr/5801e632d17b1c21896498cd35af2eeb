@@ -1,0 +1,349 @@
+A European Medicines Agency (EMA) recommendation Wednesday that a dangerous type of blood clot should be listed as a "very rare side effect" of the AstraZeneca jab stopped just short of saying there is a causal link between the vaccine and the deadly condition. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Questions have persisted for weeks on whether highly unusual blood clots among those getting the AstraZeneca vaccine against Covid-19 were more frequent than in the general population, and what causes them if they were. 
+
+Here's what we know: 
+
+What has been observed? 
+
+As of April 4, national health authorities have reported 222 cases of a rare thrombosis affected the brain or abdomen among some 34 million people in Europe who have received the AstraZeneca jab, according to the EMA. 
+
+As of March 22, by which time 86 such cases had been logged, 18 had resulted in death. 
+
+"This thrombosis of large veins is unusually located in the brain, and even more rarely in the digestive tract," the French Medicines Agency (ANSM) noted. 
+
+It is also associated with a condition characterised by abnormally low levels of platelets, which are small cell fragments in our blood that form clots to stop or prevent bleeding.  
+
+In mid-March Germany's medicines regulator, the Paul Ehrlich Institute (PEI), flagged what they described as an abnormally high number of cases involving these rare cerebral blood clots, mostly in younger and middle-aged women. 
+
+Also seen in extreme cases of sepsis, this condition involves "both thrombosis and haemorrhaging", Odile Launay, a member of the scientific body advising the French government on Covid-19 vaccines, told AFP. 
+
+Link with the vaccine? 
+
+The EMA has been reluctant draw a straight cause-and-effect line between the vaccine and the rare blood clots. 
+
+Last week the agency said the link "has not been proven but is possible," and headlined Wednesday's finding the same way.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Other specialists are more categorical. 
+
+"We have to stop speculating on whether there is a link or not -- all the cases showed these symptoms three to 10 days after inoculation with the AstraZeneca vaccine," Pal Andre Holme, who heads a team at Oslo National Hospital working on these cases, told Norwegian television. 
+
+"We have not found any other triggering factor." 
+
+Norway's national medicines agency backed this assessment, with one of their executives, Steinar Madsen, saying "there is probably a link with the vaccine". 
+
+How big is the risk? 
+
+Based on the most recent data, someone getting the AstraZeneca vaccine stands a 1-in-153,000 chance of cerebral venous sinus thrombosis (CVST), the blood clot in the brain, or its equivalent for the digestive tract. 
+
+The risk of death, based on data as of March 22, is one in 1.4 million. 
+
+To put that in a different perspective: the odds of getting hit by lightning in an average lifetime -- about 1 in 15,000, according to the US National Weather Service -- are more than 90 times higher than dying from a brain blood clots after receiving an AstraZeneca jab. 
+
+In Germany, there have been 31 suspected cases of CVST -- 19 accompanied by a drop in blood platelets -- with nine deaths, according to the Paul-Ehrlich Institute.  
+
+These cases were spread across 2.8 million AstraZeneca vaccine doses injected, or just over one case per 100,000 doses.  
+
+The comparable figures for France are 12 cases and four deaths out of 1.9 million doses, and for Norway, five cases and three deaths out of 120,000 doses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Britain -- where AstraZeneca has been administered more than in any other country -- registered 30 cases as of Saturday, including seven fatalities, across a total of 18.1 million doses. 
+
+As is true of all medications, risks must always be weighed against benefits.  
+
+"We would all prefer to have drugs that are 100 percent safe but they don't exist," Adam Finn, a professor of paediatrics at University of Bristol, told the London-based Science Media Centre last week, commenting on renewed bans of the AstraZeneca vaccine in Germany and elsewhere. 
+
+"Right now the biggest risk to our lives and livelihoods throughout the world is Covid-19," Finn added. "We need to stay focussed on the need to prevent it taking millions more human lives before it is brought under control and the only effective way to do that is through vaccination." 
+
+The EMA has consistently echoed this view. 
+
+"The reported combination of blood clots and low blood platelets is very rare, and the overall benefits of the vaccine in preventing COVID-19 outweigh the risks of side effects," the agency said Wednesday. 
+
+Risk factors? 
+
+Most cases of cerebral thrombosis have occurred in those under 65, but it is impossible to draw any conclusions about age because the vaccine has been administered to date mostly among younger people. 
+
+During its initial rollout, AstraZeneca was not administered to older people because of a lack of data during clinical trials. 
+
+The fact that most cases have been among women could reflect the fact that the health sector -- predominately women -- was given priority for vaccination. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+"Based on the currently available evidence, specific risk factors" -- such as age, gender or pre-existing conditions -- "have not been confirmed", the EMA said Wednesday. 
+
+A half-dozen countries temporarily paused the AstraZeneca jab in mid-March, and even more have now suspended the vaccine again. 
+
+Germany decided in late March to ban its use for anyone under 60, while in Canada -- as in France -- the age threshold is 55. In Sweden the age cutoff is 65. 
+
+"We do not have just one vaccine, we have several," Sandra Ciesek, a professor of medical virology at the Goethe University Frankfurt, wrote in Science magazine. "So, restricting the AstraZeneca vaccine to older people makes sense to me." 
+
+Norway and Sweden have taken the more radical step of suspending the AstraZeneca vaccine altogether. 
+
+Possible explanations? 
+
+For the moment, there are only hypotheses. 
+
+The one favoured by the EMA and many independent researchers is some form of an immune reaction. 
+
+"One plausible explanation for the combination of blood clots and low blood platelets is an immune response, leading to a condition similar to one seen sometimes in patients treated with heparin," the EMA said Wednesday, 
+
+In very rare cases, the anti-coagulant medication heparin is known to induce a severe reaction known as heparin-induced thrombocytopenia (HIT). 
+
+In a recent study that has not yet been peer-reviewed, German and Austrian researchers reached the same conclusion, proposing a name for what they described as a new syndrome: "vaccine-induced prothrombotic immune thrombocytopenia (VIPIT)."  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+An association of French scientists and doctors called "On the Side of Science" have suggested that such an immune response could come from the accidental insertion of the needle into a vein in the upper arm, rather than muscle. Health official says 279 people have reported side effects after receiving the vaccine. Oxford University said that it had paused a British trial of the AstraZeneca vaccine on children. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
