@@ -1,0 +1,85 @@
+Ngunjiri died in Nyandarua after a short illness, his family said on Thursday.His death comes just two days following the demise of Gacheru.  The family of legendary Benga musician Albert Gacheru was on Thursday thrown into deep mourning following the death of their elder brother Basilio Ngunjiri. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ngunjiri died in Nyandarua after a short illness, his family said on Thursday. His death comes just two days following the demise of his brother Gacheru, who was renowned for his two hits ‘Mwendwa wakwa Mariru’ and ‘Mumunya’.  
+
+
+
+
+
+
+Musician Albert Gacheru during a performance.
+Photo credit: File | Nation Media Group
+
+ 
+
+Their younger brother, Julius Kanyora, said Ngunjiri died on Thursday morning at the JM Memorial Hospital in Nyandarua where he was hospitalised "for some days." 
+
+Mr Kanyora said the two deaths have devastated his family. He added that plans are underway to bury the two brothers on Saturday. 
+
+He said burial arrangements for Gacheru were nearly complete but the family will now consider burying the two brothers on the same day.  
+
+Mr Epha Maina, who is the chairman of Talented Musicians and Composers (Tamco) Sacco termed the twin deaths as "saddening and a blow to the local music fraternity." 
+
+ "Gacheru empowered musicians to fight music pirates," Mr Maina said. He was known for his two hits "Mwendwa wakwa Mariru" and "Mumunya". Albert Gacheru was the most vocal voice against music piracy in the country. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
