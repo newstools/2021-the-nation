@@ -1,0 +1,233 @@
+A processing plant at Longisa Hospital produces 9,000 litres of oxygen per hour.The hospital has invited neighbouring counties to tap on the resource to save lives. When Mzee Erick Koskei fell ill a week ago, he was rushed to a private hospital in Narok town for treatment. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Doctors at the facility could only administer first aid since he needed an emergency surgery. But the operation could not be undertaken at the hospital because there was a shortage of oxygen supply in the wards. 
+
+The 78-year-old patient, who is a resident of Sogoo in Narok South was referred to Longisa County Referral hospital in the neighbouring Bomet County for the operation since even Narok County Referral Hospital was experiencing a shortage of oxygen supply. 
+
+His family members hired an ambulance that rushed him to Longisa County Referral Hospital where he was operated on successfully. 
+
+"I am glad that I had a successfully surgical operation that saved my life. I did not know that oxygen is a key ingredient required in hospitals. I thank God that I am alive due to the quick decision by medics who referred me here,” said Mr Koskei from his hospital bed on Thursday, where he is recuperating and was due for discharge in a few days' time. 
+
+Saving lives 
+
+Whereas major private and public hospitals in the country, including Kenyatta National Referral Hospital (KNH), have lately reported shortages of oxygen supply with the spike in Covid-19 infections, Longisa County Referral Hospital in Bomet county produces more than it can be consumed by patients. 
+
+In a classic case of plenty amid shortage, the hospital which is the only public hospital in the South Rift that produces its own oxygen has invited neighbouring counties to tap on the resource for use in their facilities so as to save lives. 
+
+Mr Benard Bii, a biomedical technician at the hospital says a plant at the facility produces 9,000 litres of oxygen per hour. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Comparatively, the production per hour exceeds what KNH requires daily by 1,000 litres with the latest statistics showing it consumed 8,000 litres daily but could only get 3,000 litres from suppliers due to biting shortages. 
+
+“We produce more than enough for Longisa hospital where all the wards have been supplied with piped oxygen for use by patients whenever required and we also supply health facilities across the county,” said Mr Bii when he took the Nation around the facility on Thursday. 
+
+Shortage of oxygen 
+
+Dr Isaac Birech, the Medical Superintendent at Longisa County Referral Hospital said the facility has not experienced shortage of oxygen even with the third and more deadly third wave of Covid-19 in the country. 
+
+“We have enough oxygen for use by patients at the referral hospital and Covid-19 isolation centre in Koiwa sub county hospital,” said Dr Birech, adding that the renal unit had been expanded from the previous six beds to the current 13 beds. 
+
+Governor Hillary Barchok said the county also has vacuum evacuators which are vital in treatment of patients with Covid-19 placed in lifesaving equipment in hospital. 
+
+“We have lately had inquiries on our ability to supply the excess oxygen we produce to the neighbouring counties where there is an acute shortage. The county is ready and willing to support others in the spirit of devolution,” said Dr Barchok. 
+
+The oxygen plant was set up in 2015 at the advent of county government units following the promulgation of the new constitution in 2010 by former President Mwai Kibaki. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Oxygen in excess  
+
+Dr Joseph Sitonik, the County Executive in charge of Medical Services and Public Health said the ambulances transferring patients on referral cases from neihbouring counties through Bomet are free to refill their oxygen cylinders at Longisa County Referral Hospital should the need arise. 
+
+Normally, oxygen is supplied to aneasthetic machines and ventilators in hospitals or directly connected to patients with a flow-metre and tubing. 
+
+“The case of Longisa hospital producing oxygen in excess is a perfect case of devolution working in the health sector. It is pace setter which comes in handy with the worrying number of death of Covid-19  patients for lack of oxygen even in major private hospitals,” said Mr Charles Tonui, a resident of Kugunoi village in Kipreres ward. 
+
+Cabinet Secretary for Heath Mutahi Kagwe a week ago called on Kenyans holding empty oxygen cylinders at their homes to return them to hospitals for a refill and use by the sick who are in dire need of the supplies. 
+
+Mr Kagwe said public health facilities can only supply 16 per cent of the total oxygen required by Covid-19 patients who are most vulnerable lot due to the shortages.  
+
+The CS noted that while the usual market demand for oxygen in health facilities in the country stood at 410 tonnes, the demand had risen to 560 tonnes mid last year. ARVs are also limited, with some counties having run out of stock. County’s referral hospital that serves more than five devolved units does not have any unoccupied ICU beds. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
