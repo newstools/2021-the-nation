@@ -1,0 +1,143 @@
+From new infections, 1,591 are Kenyans and 107 are foreigners with 926 being male and 772 females.Ministry of Health also reported the recovery of 456 patients in the last 24 hours. Kenya has recorded 1,698 new Covid-19 cases from a sample size of 11,352 tested in the last 24 hours, bringing the total number of confirmed cases to 143,063. This represents a positivity rate of 14.9%. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From the new infections, 1,591 are Kenyans and 107 are foreigners with 926 being male and 772 females. The youngest is a 17-day-old infant while the oldest is aged 100 years. 
+
+The Ministry of Health also reported the recovery of 456 patients in the last 24 hours. Of these recoveries, 267 were reported from home-based care and isolation while 189 were from various health facilities in the country. 
+
+Meanwhile, cumulative fatalities from Covid-19 in Kenya has risen to 2,292 after 16 deaths were reported in the last 24 hours. 
+
+The Ministry of Health said that one death occurred in the last 24 hours, one within the last one-month while 14 are late deaths reports from facility record audits. 
+
+In terms of counties Nairobi county continues to lead with 788 new cases followed by Kiambu 121, Nakuru 81, Mombasa 73, Uasin Gishu 65, Turkana 46, Kisumu 43, Kitui 41, Nyeri 39, Machakos 37, Meru 35, Bomet 30, Nyamira 30, Bungoma 28, Kajiado 28, Garissa 24, Busia 23, Kilifi 20, Trans Nzoia 19, Murang’a 14, Kericho 13, Nandi 13, Migori 12, Nyandarua 11 and Laikipia 10. 
+
+More new infections were reported in Siaya 9, Isiolo 7, Kakamega 6, Taita Taveta 6, Vihiga 5, Makueni 3, West Pokot 3, Homa bay 2, Kwale 2, Tharaka Nithi 2, Kirinyaga 1 and Baringo 1. 
+
+There are, 1,620 patients had been hospitalised, 235 of them being in the intensive care unit. Of those in ICU, 48 were on ventilatory support, 155 on supplemental oxygen and 32 under observation. 
+
+Another 261 patients were separately on supplemental oxygen, 248 of them being in general wards and 13 in high dependency units. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The number of patients in the home-based care programme currently stands d at 4,247. Britain moved Thursday to reassure the public over the safety of its vaccine campaign. The Ministry of Health has also reported 178 more recoveries in the last 24 hours. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
