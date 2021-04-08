@@ -1,0 +1,237 @@
+The India captain and prolific batsman is pivotal to Royal Challengers Bangalore's hopes of winning a maiden IPL title.He led his team to an improved showing last year with 466 runs in 15 matches as Bangalore made the play-offs in the United Arab Emirates. Chennai, India 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Top players from around the world have gathered for the 14th Indian Premier League, which starts on Friday for a 52-day Twenty20 extravaganza played in empty stadiums because of the coronavirus pandemic. 
+
+Here, AFP highlights five stars who could be key in stopping Mumbai Indians winning for a third straight year: 
+
+Virat Kohli (Royal Challengers Bangalore) 
+
+The India captain and prolific batsman is pivotal to Royal Challengers Bangalore's hopes of winning a maiden IPL title. 
+
+He led his team to an improved showing last year with 466 runs in 15 matches as Bangalore made the play-offs in the United Arab Emirates. 
+
+But with critics, including former India opener Gautam Gambhir, suggesting there needs to be a changing of the guard at Bangalore, 'King' Kohli, who said he will open the batting in T20 internationals and in the IPL, will be determined to shine ahead of the T20 World Cup later this year. 
+
+Ben Stokes (Rajasthan Royals) 
+
+The England all-rounder has proved his worth across all formats and his form with bat and ball will be crucial as the inconsistent Rajasthan strive to follow up their inaugural IPL triumph in 2008. 
+
+Royals, who will be captained by India's Sanju Samson this season, finished bottom of the eight-team table last year, with Stokes only joining the team late due to his late father's illness. 
+
+He scored 285 runs, including an unbeaten 107, in eight matches for a team that ran hot and cold. 
+
+Royals' new director of cricket Kumar Sangakkara believes Stokes is "exactly the type of player any side would want". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Steve Smith (Delhi Capitals) 
+
+A new start awaits Australia's Steve Smith after he was bought by Delhi Capitals for $300,000 in this year's auction following his release from Rajasthan Royals. 
+
+Smith, who captained Royals last year, could find it tough to make the starting XI in a power-packed Delhi line-up including skipper Rishabh Pant, Shikhar Dhawan, Prithvi Shaw and Shimron Hetmyer. 
+
+But coach Ricky Ponting insists Smith, a prolific top-order batsman who has amassed 2,333 runs in 95 IPL matches, will be hungry to perform in a T20 World Cup year. 
+
+"I think the fact that he's been released from the franchise that he's been at for a long time will make him a bit hungry as well this year," Ponting said on the Cricket Australia website. 
+
+He added Smith's chance to play would be in the top three of the batting order. 
+
+Chris Morris (Rajasthan Royals) 
+
+The Royals broke the bank for the South African all-rounder in the IPL auction as the 33-year-old became the most expensive player in IPL history at $2.25 million. 
+
+Morris, who has claimed 80 wickets and scored 551 runs in 70 IPL games, admitted the price "blew my mind". 
+
+"There is a little bit of added pressure, but the pressure that you get from a price tag doesn't affect you on a cricket field at the end of the day," Morris said. 
+
+Chris Gayle (Punjab Kings) 
+
+Still a force in Twenty20 cricket at the age of 41, the veteran remains a vital part of the Punjab Kings' batting arsenal. 
+
+The self-styled "Universe Boss" exploded last season after making the side midway through the tournament to hit three half-centuries in seven matches. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Punjab missed out on a play-offs spot, but the destructive left-hander, who is targeting his third T20 World Cup title with West Indies later this year, said he believed the change in the team's name from Kings XI Punjab would also bring them a change in luck. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
