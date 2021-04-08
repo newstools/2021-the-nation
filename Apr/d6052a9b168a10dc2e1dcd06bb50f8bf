@@ -1,0 +1,165 @@
+Mueller says whoever starts Tuesday's return leg must do their job to ensure Bayern take their chances at PSG's Parc des Princes. Munich, Germany 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Thomas Mueller says holders Bayern Munich must show their "killer instincts" and finish their chances at Paris Saint-Germain in Tuesday's return leg to avoid a Champions League quarter-finals exit after losing to the French giants at home. 
+
+Bayern badly missed injured striker Robert Lewandowski in Wednesday's first leg as the hosts converted just two of their 31 shots on goal, while Kylian Mbappe scored twice from the six chances PSG created all game in their 3-2 away victory at the Allianz Arena. 
+
+Despite falling snow in Munich, PSG turned up the heat on the holders and the French giants are hot favourites for the return in Paris. 
+
+"If we had shown the killer instinct that often characterises us, we would have seen a completely different game," fumed goal-scorer Mueller. 
+
+While Bayern failed to take their chances, PSG took all theirs as clinical passes from Brazil star Neymar saw the visitors racing into a 2-0 lead with early goals by Mbappe and PSG captain Marquinhos. 
+
+Bayern clawed their way back to 2-2 with headed goals by Lewandowski's under-study Eric Maxim Choupo-Moting and Mueller, but Mbappe's superb shot midway through the second-half sealed PSG's win. 
+
+"We've made our bed, now we have to lie in it and chase down the deficit," Mueller added with Bayern needing at least two goals in Paris. 
+
+The holders must do so without Lewandowski, who is sidelined by a knee injury and says he will not be ready for the return leg. 
+
+"It's too early," the Poland striker said, "I'm doing everything to get back on the pitch, but only if I feel really good and sure about my health." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While both Mbappe ("nothing is won yet") and PSG head coach Mauricio Pochettino ("everything is still open") are talking up Bayern's chances in the return, the holders are under intense pressure. 
+
+PSG ended Bayern's 19-match unbeaten run in Europe and while Flick suffered his first Champions League defeat as head coach, Bayern's boss remains defiant. 
+
+"We are still in good spirits," he insisted. 
+
+"If you look at our game, you can look positively to Paris. 
+
+"We will try everything there to get to the semi-finals." 
+
+Flick substituted midfielder Leon Goretzka for the pace of Alphonso Davies and swapped Niklas Suele for the more experienced Jerome Boateng in the first half as Bayern fought back. 
+
+Behind the scenes, tensions appear to be brewing with Flick implying he is unhappy with the decision to not extend the contract of 32-year-old Boateng, who will leave at the end of the season. 
+
+Mueller says whoever starts Tuesday's return leg must do their job to ensure Bayern take their chances at PSG's Parc des Princes. 
+
+"We didn't expect to lose Goretzka and Suele during the game, but all the players who are here have what it takes to keep up in the big games," said Mueller. 
+
+"If we put this performance on the pitch in Paris, we will get the chances again. 
+
+"Then we have to be there (to take our chances)." President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
