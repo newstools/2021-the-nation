@@ -1,0 +1,81 @@
+The 47-year-old "little master" of batting, who went into hospital on Friday, is one of the most high-profile cases of a new pandemic surge in the country of 1.3 billion people.Tendulkar is the highest run-scorer ever in Test matches and one-day internationals. Mumbai 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Indian cricket legend Sachin Tendulkar on Thursday returned home after almost a week in hospital as a precautionary measure to combat the coronavirus. 
+
+The 47-year-old "little master" of batting, who went into hospital on Friday, is one of the most high-profile cases of a new pandemic surge in the country of 1.3 billion people. 
+
+"I have just come home from the hospital and will remain isolated while continuing to rest and recuperate," Tendulkar tweeted. 
+
+"I would like to thank everyone for all the wishes and prayers. Really appreciate it. 
+
+"I remain ever grateful to all the medical staff who took such good care of me & have been working tirelessly over a year in such difficult circumstances." 
+
+Tendulkar is the highest run-scorer ever in Test matches and one-day internationals. 
+
+He retired in 2013 after playing in 200 Tests, in which he made 15,921 runs. 
+
+He scored another 18,426 runs in 463 ODIs and hit 100 centuries across both formats. 
+
+Just before announcing he had the coronavirus, Tendulkar had led an India Legends team to a win over Sri Lanka in a Twenty20 exhibition series. The announcement took Tendulkar's former cricket friends and foes by surprise. Tendulkar is widely revered as one of the greatest batsmen of all time. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
