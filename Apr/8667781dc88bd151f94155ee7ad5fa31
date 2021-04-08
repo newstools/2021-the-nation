@@ -1,0 +1,239 @@
+The patients had a wide range of symptoms – from itchy rashes to painful blisters and swollen hands.Panic gripped Shina village when rumours spread that a witchdoctor was behind the disease. A mysterious illness has killed eight people in a tiny village in Kakamega county in just a month. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Authorities confirmed the deaths in Isukha West ward, Ikolomani constituency, but the cause of the disease is yet to be known. 
+
+The patients had a wide range of symptoms – from itchy rashes to painful blisters and swollen hands. The complications resulted in death. 
+
+Panic gripped Shina village when rumours spread that a witchdoctor was behind the disease after traditional alcohol was stolen from a homestead. 
+
+“Those affected drank chang’aa that had been stolen from the home. After the incident, the homeowner threatened to consult a witchdoctor. People are scared because they believe it is about witchcraft,” a villager told the Nation. 
+
+One of the families was yesterday making burial arrangements for Antony Wiraka, who died on Sunday.  
+
+Acting strangely 
+
+His widow, Violet Wiraka, said his hand began swelling and turned charcoal black. 
+
+“My husband started acting strangely. He told me he was unwell and feared he would die. He even threatened suicide because of the pain,” the mother of three said. 
+
+At a neighbouring home, Ms Claire Musanga lost her husband to the disease on March 9. Wycliffe Shivachi developed itchy rashes on his hands that did not respond to treatment, said the mother of six. 
+
+“My husband died suddenly. We cannot explain what caused the death. I’m now left with the children to feed and care for. Life can be cruel,” she said. 
+
+A short distance from her home, Ms Eunice Munjeresa is also mourning her husband.Her son, a third-year student at Maasai Mara University, has been doing everything to comfort her. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Battling the illness 
+
+A few metres away, Mr Edwin Mavia, 32, has had sleepless nights battling the illness.  
+
+“My whole body gets itchy at night. I have wounds on my back and don’t know what to do. I’m  praying for the best,” Mr Mavia said. 
+
+Mr Patrick Chumwani, 35, is in a similar situation. He developed blisters on his fingers, which did not respond to traditional therapy weeks ago. In vain has Mr Chumwani sought treatment at a nearby hospital.  
+
+He has resigned to fate, believing it’s the “power of witchcraft”.  
+
+“The blisters are painful. I have not gone back to hospital because this could be witchcraft. I hope the pain will go away. All I can do is pray and hope God will save my life,” Mr Chumwani said. 
+
+Mr Patrick Ingosi, 45, has been battling the illness for a month and watched helplessly as his friends died. 
+
+Affected families 
+
+“We have tried all we can but we are stuck. We shall not lose hope,” he said. 
+
+The county government sent Public Health director William Olaka and other experts to the village. 
+
+Health executive Collins Matemba declined to give details of a post-mortem on two of the dead men. 
+
+“I will issue a statement after Dr Olaka and the medical teams have compiled their report. They are visiting the affected families,” he said. 
+
+Governor Wycliffe Oparanya directed the public health team to do all it can to save lives.  
+
+“I am waiting for the report so that we can deal with the situation. We are stretched because of coronavirus. Our medical workers are also stretched because of Covid-19 infections but we have sent a team to the village,” Governor Oparanya said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+bamadala@ke.nationmedia.com At least 50 cows in Tharaka Nithi county have died in a span of one month. Despite the locals’ superstitious beliefs, scientists believe there’s a logical explanation for the crying rocks. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
