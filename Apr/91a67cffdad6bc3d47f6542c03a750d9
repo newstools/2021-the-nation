@@ -1,0 +1,161 @@
+Governor Anyang Nyong’o has requested the traffic police department in Kisumu to urgently investigate why the Nyamasaria flyover on the Nairobi-Kisumu highway has become a blackspot. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This comes after an accident at the spot claimed three lives on Wednesday. 
+
+Three people died in the grisly road accident involving a truck ferrying sugarcane, which veered off a flyover and landed almost 20 metres down, crushing two saloon vehicles. 
+
+The driver of the lorry and a passenger died on the spot in the noon accident that happened at the Kachok interchange in Nyamasaria. 
+
+The truck was transporting sugarcane from a yard in Awasi to a sugar factory for milling. 
+
+According to Kisumu County Commander Mr Samuel Anampiu, while the driver of the truck died on the spot, the two other occupants succumbed to injuries on their way to the hospital. 
+
+The tragic accident left two stationary vehicles, which were at a makeshift carwash below the fly-over, destroyed. Luckily, there were no occupants in the two vehicles. 
+
+Steep hill 
+
+A witness, Mr Bernard Otieno, said the truck approached the steep hill at a high speed making it difficult for the driver to control it. 
+
+“It was at this point that the truck hit the barrier walls toppling over it and crushing with a thud several feet below,” said Mr Otieno. 
+
+Some men who wash vehicles a few meters below the flyover had to scamper to safety as the truck came down, crushing two of the vehicles that they were cleaning. 
+
+It is not the first time such a truck toppled down from the flyover. In 2016, three people died at the same spot in a similar accident. 
+
+Residents are now questioning why there are no guard rails to prevent such incidences. 
+
+“It is not only limited to such trucks. We have also seen motorcycle operators hit the wall and fall off the fly-over,” said Mr Otieno. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They asked Governor Nyong’o to review his earlier directives barring heavy trucks from the Central Business District and forcing them to use the fly-over as an alternative route. 
+
+“The flyover is very narrow to accommodate the trucks. Its winding nature makes it difficult for the truck drivers to negotiate corners,” said Oscar Odhiambo, a resident. 
+
+The bodies of the deceased were taken to the Jaramogi Oginga Odinga Teaching and referral hospital morgue. 
+
+The lorry and the two damaged cars were towed to Nyamasaria police station. 
+
+Governor Nyong’o, in a message of condolence to the bereaved families, said the area has become a black spot, especially for cane hauling trucks, hence the need for traffic officers to establish the cause. He spent the better part of Sunday in his handshake partner's home turf, inspecting the development projects he commissioned. Among the victims were a man, his wife and their daughter, who took the motorcycle ride home. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
