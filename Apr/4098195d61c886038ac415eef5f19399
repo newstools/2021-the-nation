@@ -1,0 +1,178 @@
+A suspected tyre burst, coupled with road excavation and speeding could have led to the dawn accident yesterday, which saw 14 people killed at Kwa Shume near Kizingo on the Mombasa-Malindi highway in Kilifi County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The accident involved a Muhsin Bus, managed by Garissa Sacco, which was travelling to Garissa from Mombasa, and a Sabaki T Shuttle minibus from Malindi to Mombasa. 
+
+
+
+
+
+
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+According to Kilifi County Commissioner Kutswa Olaka, who visited the scene to oversee the rescue operation, the Muhsin Bus had a tyre burst, making the driver to lose control and ram the on-coming minibus, shoving it to the roadside. 
+
+“The drivers of the two vehicles died on the spot and we could not immediately establish the exact number of passengers who were on board the two vehicles,” Mr Olaka said. 
+
+Kilifi County Police Commander Nelson Taliti, who accompanied Mr Olaka to the scene, said the accident would have been avoided if the Muhsin Bus were not speeding. 
+
+“The driver could have managed to control the bus,” Mr Taliti said. “From the initial assessment, speed was a contributing factor that has seen innocent lives lost.” 
+
+
+
+
+
+
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+A Simba Coach bus driver at the scene blamed the contractor, who is expanding the Mombasa-Malindi-Garsen road, saying, had it not been for the ongoing roadworks, the accident wouldn’t have happened. 
+
+Last evening, Kilifi Governor Amason Kingi alongside senior county officials visited the Malindi Sub-county Hospital to comfort the victims’ families. 
+
+Mr Kingi said a number of travellers were county staff headed to work in Kilifi town from Malindi, where they stay. 
+
+Prone to accidents 
+
+“I’m informed that staff routinely use the minibus for their commute as they dedicatedly serve their county and country,” he said, adding: “I would like to assure the families that my administration will accord them all the necessary support at this very trying moment.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Olaka urged the contractor to speed up the construction, saying, parts of the road were prone to accidents. 
+
+
+
+
+
+
+Photo credit: Kevin Odit | Nation Media Group
+
+ 
+
+Malindi Sub-county Hospital Medical Superintendent Joab Gayo said the injured were 14 males and four females. Others were rushed to two private facilities — Tawfique Hospital and Star Hospital — in Malindi. 
+
+ “The six casualties, who were in critical condition at our facility, were later referred to the Coast General Teaching and Referral Hospital in Mombasa for specialized treatment,” Dr Gayo said. Several others injured in the accident involving a Muhsin bus and a Sabaki T shuttle. Four people survived the Monday night road crash with serious injuries. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
