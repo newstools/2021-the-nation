@@ -1,0 +1,79 @@
+A senior journalist working for the state broadcaster was on Wednesday night shot dead in her house in Ngong, Kajiado County. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Betty Barasa, a senior producer with the Kenya Broadcasting Corporation (KBC), was waiting for the gate to her residence in Olulua to be opened when she was accosted by three men suspected to be thugs. 
+
+Police told nation.africa that they suspect that the three men were hiding at a nearby house, which is still under construction when Ms Barasa arrived at about 8:30pm. 
+
+After confronting the journalist, the thugs forced their way into the property while making monetary demands. 
+
+Overpowered 
+
+In the house were Ms Barasa's husband, her son and house help who were also overpowered by the men as they embarked on a ransacking spree. 
+
+At some point, it is said that one of the men forced Ms Barasa to take him upstairs in search of the money they had failed to get. 
+
+It is at this point when two shots were heard from an upstairs bedroom. Ms Barasa was shot twice on the head and died immediately. 
+
+Her body has been moved to Montezuma funeral home as police intensify the hunt for the thugs, who made away with some electronics. At night, Kajiado is teeming with murderers, who go there to torture and kill their victims, or to dump bodies. Tyson Walumbe was found badly beaten and unconscious behind his favourite café. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
