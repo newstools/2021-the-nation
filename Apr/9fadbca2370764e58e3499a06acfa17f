@@ -1,0 +1,533 @@
+There are many things that Elizabeth Njeri Kahuha misses doing. One is staying alone and going out on her own.  She also misses aerobics and playing basketball. But her muscles these days get weak and rapidly fatigued due to loss of voluntary control. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sitting in her mother’s house, Njeri, 35, explains how her dream of a sports career went down the drain when she started manifesting symptoms of myasthenia gravis, an autoimmune condition that affects the voluntary muscles – the ones under an individual’s control. 
+
+“In 2009, I started feeling the symptoms. I would fall at random while playing basketball. When you are passing the ball, it doesn’t get to the person you intended to get to. But when I went to hospital, all my vitals were fine,” says Njeri. She was then a final year student at Kenyatta University pursuing sports science. 
+
+As a fitness instructor, she explains, she would fall while leading an aerobics class, yet she was making regular moves. 
+
+The following year, she was diagnosed with myasthenia gravis. 
+
+What happens with the condition is that the immune system produces antibodies that block the communication between the brain and the muscles. So when the brain sends a signal to the muscles to contract or relax, the muscles do not receive the signals. 
+
+Feeling unsafe and traumatised 
+
+“Diagnosis involves testing the blood for antibodies that are responsible for interfering with the communication between the brain and the muscles,” she adds. 
+
+A sample of Njeri’s blood was sent to South Africa, and the results were out in about a week. 
+
+“When I got the results, I did not know the impact that the disease would have on my life. I thought it was something that would eventually go away. It didn’t. In fact, it has no cure,” she says. 
+
+Just before she could really grasp the effects of the disease on her body, she fell and injured her eye. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I was walking along the bypass one day and I fell. Other pedestrians helped me up. It was the first symptom, and it was because my muscles could not sustain the movement. It’s then that I realised the seriousness of the condition. I felt unsafe and traumatised, and that was the last time I was out on my own,” says Njeri. 
+
+“I have fallen so many times since then, and sometimes I get stranded even in the washrooms,” she adds. 
+
+“Sometimes, I can be up and about doing dishes and cooking, then the next minute, I am unable to rise from my seat, which might make someone think that I am being pretentious,” she adds. 
+
+She has also experienced double vision, which is another symptom of the disease. “If you are walking in town, you might wonder about the number of cars you are seeing, or whether they are too close or too far. It affects your judgment,” she states. 
+
+Other symptoms include fatigue, blurry vision, and inability to do the simplest of tasks. 
+
+“The fatigue can be so heavy you struggle to do simple things like combing your hair, taking a shower, brushing your teeth.” she explains, adding that she only does such chores when she feels strong. 
+
+Due to weak and rapidly tiring muscle, chewing and swallowing food can be a struggle, and can lead to choking. Due to this, she explains that whenever she felt too weak to chew and swallow, she would stop eating completely. 
+
+Sometimes, she states that her face muscles stay in one position, making her face maintain one expression. She could be very happy, but be unable to smile, she explains, recalling an incident in 2013. She was working as an Independent Electoral and Boundaries Commission (IEBC) presiding officer at Kibera Primary School. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I had been taking steroids at the time, which puffed up my face. As a presiding officer, I needed to show authority, but my face had no expression, which was a challenge,” she says. 
+
+The toughest thing she has had to deal with has been the heavy toll the condition has taken on her love life. 
+
+“I have to always be with someone, either at home or out. No one will approach you with such limitation and demands,” she says. 
+
+Unable to go back to work, the condition has now forced her to stay home, as she cannot train or teach with the risk of falling down. 
+
+“I started learning how to crotchet in 2015,” she says smiling, while gesturing to some of her products hanging on a section of the wall. I needed something to keep me busy, plus I needed money for my medication and treatment, which is very expensive,” she notes. 
+
+Patients are constantly on medication, then there’s the doctor’s fee, tests, transport, consultation fees and money for emergencies. 
+
+“I used to take Sh30,000 worth of medicine monthly before I had a surgery to remove my thymus gland last year,” she explains. 
+
+The thymus gland, is abnormally large for some people with myasthenia gravis, says the Mayo Clinic website. Since the gland can develop tumours, there’s a risk of them being cancerous. 
+
+It is for this reason that her thymus gland was removed in August 2020. To speed up her recovery, she was put on immune-depressants. That meant her immunity was vulnerable, and contracting Covid-19 became a constant worry. 
+
+“I take about six tablets a day, and when Covid-19 came, I was worried about how I would get my medication, in case of a total lockdown. I even talked to my chemist and requested a home delivery for my medication in case the worst came to be,” she says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+But there are worse conditions, she explains, that are so grave they can lead to death. One is called myasthenic crisis. This is when the muscles that control breathing become too weak to do their job. Emergency treatment is needed to help the patient breathe on their own again. 
+
+People with the condition are also under the risk of developing either an underactive or overactive thyroid gland. If the gland is underactive, a patient may have difficulties dealing with cold, weight gain and other issues. An overactive thyroid can cause difficulties dealing with heat, weight loss and other issues. People with myasthenia gravis might be more likely to have autoimmune conditions, such as rheumatoid arthritis or lupus. 
+
+Even when faced with the possibility of having to endure such complications, Njeri finds ways to unwind. 
+
+Her daily routine, apart from taking her medication early in the morning, is to make her breakfast and do dishes. She then takes her other medication, then gets to work, taking orders for her crotchets and organising for deliveries. On Monday evenings, she attends bible study sessions to take care of her spiritual and emotional health. 
+
+“I usually try to go outdoors and take short walks. But that also means that I have to make plans in advance to avoid inconveniences. Before Covid-19 came, I would go to Uhuru Park with a relative, or for lunch or dinner with friends. I pray that Things will get better,” she concludes. 
+
+****** 
+
+On the other side of town, Diane Ayoo is going about her daily activities. Her three-year-old child, who has Primrose syndrome, is playing with her friends. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Her pregnancy with her firstborn was uneventful, explains Ayoo, and at birth, her daughter Musu was delivered through vacuum extraction. Bouncy and healthy, she and her husband took their baby home. 
+
+“The first few weeks were uneventful. My baby was happy, held eye contact and developed her social smile as is required. She was meeting her milestones as expected. However, at around six to seven weeks, she became inconsolable, crying throughout the day. At four months, she became withdrawn, and soon I realised that she had regressed in meeting her milestones,” says Ayoo. 
+
+At six months, when Ayoo went back to work, she was sent out of the country for about a week, leaving her baby with her mother and sisters. While there, her sister noted that Musu, the baby, was not as responsive as she used to be. 
+
+“My sister told me that my child was staring too much and hitting her head. So I went on the internet.  Her symptoms matched those of a child with autism. But people told me it was too early to diagnose autism. When I came back, my child did not recognise me, yet it was the first time we had been separated. It was a red flag,” says Ayoo. 
+
+Before she went to hospital, she met a friend, who pointed out that her child had a squint eye. 
+
+
+
+
+
+
+Diane Ayoo with her daughter Musu Kargbo during the interview. 
+Photo credit: Lucy Wanjiru | Nation Media Group
+
+ 
+
+“I had not noticed that myself. So I took out her photos then and compared them to the ones we took when she was a newborn. There was a notable change. Musu’s eyes were moving inwards,” says Ayoo. 
+
+Concerned, she rushed to see Musu’s paediatrician who had received her at birth and had been monitoring her. Ayoo questioned him on how he could have missed the signs, beginning with the milestone regression, but he had no answer. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+A second paediatrician noted immediately that Musu’s head circumference was too big. 
+
+“I gave the new paediatrician Musu’s clinic cards, which revealed that her head circumference was also big at birth, yet I had not been told about it. It should have been the first red flag. Musu also failed three hearing screening tests, leading to the discovery that she had bilateral hearing loss,” says Ayoo. 
+
+It was then recommended that at nine months, Musu would start using hearing aids. 
+
+“I was a new mother, and I mourned at the idea of my baby having to use hearing aids. I was wondering how she would look and interact with others,” Ayoo says. 
+
+Later, the doctor conducted an MRI scan to check Musu’s brain. The results indicated that the corpus callosum -- a nerve fiber bundle that connects the left and right cerebral hemispheres of the brain had not fully formed. The family was then referred to a neurologist. 
+
+Once there, Ayoo described her baby’s situation, and the neurologist took a genetic test. Her diagnosis was that the baby had seizures, but Ayoo felt that the diagnosis was wrong. She took the seizure medication and kept it on her shelf, never administering it to her baby. 
+
+At the second neurologist’s office, she was told not to worry, and despite the fact that Musu was regressing in her milestones, she was told that she would eventually catch up. She sought a third opinion. 
+
+“When the genetic test results came from the first neurologist, it showed that Musu’s chromosomes were okay. But the neurologist labelled the baby as intellectually challenged, yet she was only six months old. When I consulted another neurologist, he said there are people out there that live with no corpus callosum or with one that is not fully formed, and that they live normal lives,” says Ayoo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Even with the assurance, Ayoo’s heart was not settled. She decided to seek an opinion outside the country. 
+
+“I contacted Boston children’s hospital and explained our situation, and a neurologist we were assigned to suggested that we do an online assessment.  We sent him all images, hearing reports, and MRI scan results. He could not explain the regression, but from the documents we had sent him, he said there was a deeper issue,” states the mother of two. 
+
+When Musu reached nine months, Ayoo and her husband flew her to the United States. After extensive tests, they flew back, leaving blood samples for further tests. This was in February 2018. Nine months later, results of an exome sequencing revealed that Musu had the rare genetic condition called Primrose syndrome. 
+
+“The condition was new, even to the doctor, and he admitted that he had not dealt with a patient with that condition before. When I got the news, I got so depressed I stayed in bed unmoving for three days. The more I read about it, the more it scared me. The internet talked about the rain calcifying and other sad things. However, we were glad that we finally had a diagnosis, something we may not have got had we stayed in the country,” she says. 
+
+Now her child’s fierce advocate, she sought support, starting with Facebook pages of parents with children with the same condition. She explains that at that time, there were only 18 children with the syndrome worldwide. Not much about the syndrome had been studied. 
+
+“I got to the internet and searched for all the 18 children with the condition. I studied each of them extensively, trying to find one whose condition matched my daughter’s. They all had different symptoms, but they all had down slated eyes,” says Ayoo. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“As parents, we resolved that we would not define Musu by the syndrome. In fact, we rarely talk about it. The good thing is that there is no medical issue that has come with her condition, so we only deal with the smaller issues as they come up,” she adds. 
+
+With Musu already on occupational therapy, they hired a speech therapist to teach her how to communicate and express her needs. Then Ayoo dived into research. 
+
+“I was in Facebook groups that discuss hearing loss, corpus callosum, speech therapy groups and others,” she says. 
+
+Even then, not all of Ayoo questions had been answered, the baby’s regression being one of them. She read widely, and at some point, came across the idea of hyperbaric oxygen therapy. This is a form of oxygen therapy where a person breathes in pure oxygen delivered in tubes, in a pressurised room or chamber. 
+
+“Instinctually, I felt Musu needed that therapy, which is usually done to reduce inflammation in the brain. So we booked an appointment in India. After a month of the therapy, she sat up on her own and started crawling, something she had not done before,” says Ayoo. 
+
+“Her learning and receptive language also started developing. This was only an alternative form of treatment that has not been tested, but it worked,” adds the 39-year-old. 
+
+She also thought about trying stem cell therapy. Being pregnant then, the family went to the US once again, but not before asking friends to step in and raise funds for the expensive procedure. Once there, the doctor obtained stem cells from the growing foetus, and used the cells to treat Musu, and the family flew back. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-9");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+When Musu turned two years and three months, they flew to South Africa to see a vision therapist, who prescribed spectacles for her. 
+
+“Before then, I had been pressured to have my daughter undergo surgery. But I felt that the squint eye was only a symptom. You could correct the eyes, but if you did not deal with the root cause in the brain, then the eyes would squint again,” says Ayoo. 
+
+“I also wanted my daughter to see another specialist to check on her back. She would sit for a while and then slide over to her side, so I thought her spine had a problem. But it was okay,” she says. 
+
+She explains that when they got back and stayed a while, Musu started removing her spectacles. When Ayoo reached out to her ophthalmologist, they ran a test on Musu, and realised that her sight had improved. 
+
+“The only thing we could point the change to was the stems cell therapy. Soon after, she said her first words, star and flower,” says Ayoo, smiling at the memory. 
+
+“We were supposed to take her back for another stem cell therapy, but Covid-19 came and we had to postpone it. We have had to also employ other interventions such as behavioral therapy” she adds. 
+
+In such therapy, Musu’s therapists teach her how to do specific tasks. When she does them well, she is reinforced with something she likes such as a toy. In class, she sits next to her shadow teacher/therapist who teaches her at her own pace. 
+
+With behavioural therapy, Ayoo explains that the therapist looks at a child holistically, taking into account her development, skill acquisition, speech, play, and how to work with them. 
+
+“Improvements are then implemented throughout the day-at meal times, dressing, playing and other activities. The activities are made fun, and Musu now thinks the therapist is her friend. As they grow older, the therapist integrates life skills to ensure that the child becomes independent as she grows,” says Ayoo. 
+
+“This is a child who can now play with her friends in school. Initially, we struggled with her maintaining eye contact, but she does that now,” she adds. 
+
+Just like Njeri, Ayoo agrees that the most challenging thing in dealing with a rare condition is the heavy financial obligations that come with it. Ayoo’s daughter for example, has vision, speech and behavioral therapy which are expensive and not covered by medical insurance companies. 
+
+“Whether you have a rare condition or are a guardian of someone with the condition, you have to read widely, seek answers, try different things, listen to your intuition and not give up. A neurologist won’t always have answers to the challenges you experience,” Ayoo says. 
+
+Roselyn Kanja and Christine Mutena are mothers of children with rare conditions, and are the co-founders of Rare Disorders Kenya, an organisation that brings together people with rare diseases. 
+
+“The organisation, founded in 2018, stemmed from seeing the challenges that people with rare diseases were dealing with, and the lack of support they had to fight around. These stories of misdiagnosis, delayed treatment, stigma and financial challenges are repeated all over, just in different forms,” says Kanja. 
+
+“We are a growing organisation, so we use our own money to fund the organisation’s activities. The sponsors we have pay directly for our needs, whether it’s rent or stationery,” she adds. 
+
+Sometimes patients with rare diseases, especially those who live in rural areas and have little to no exposure, are told that they are cursed or that they are being punished for doing something bad. As a result, it is important to create awareness among the public, doctors and even the government. 
+
+“People need to realise that there are rare diseases among us. Medical professionals should take their time to study such conditions to avoid misdiagnosis and wrong treatment that can sometimes be fatal,” says Mutena. 
+
+Mutena explains that people with such rare conditions also need support from others faced with the same condition, but it is usually not enough since rare diseases only affect a small percentage of the population. 
+
+According to the organisation, there are more than 6,000 rare diseases globally, cumulatively affecting about 300 million people. 
+
+Out of these diseases, 72 per cent are congenital, chronic, and can cause long term disabilities. Fifty per cent of these diseases also affect children, 30 per cent of whom may not live past five years. 
+
+In Kenya, the founders raise concern over the lack of a national rare disease database, lack of newborn screening as a protocol and inadequacy of specialised healthcare providers such as genetic counsellors. 
+
+They also decry the expensive management of the conditions, which are rarely covered by insurances or are capped at a lower limit and the high risk of psychological issues arising in patients and/or caregivers. 
+
+A campaign to raise awareness about rare diseases culminated in the observation of what is called Rare Disease Day, which is usually marked on the last day of February each year. 
+
+The first Rare Disease Day was celebrated in 2008 on 29 February, a ‘rare’ date that happens only once every four years. Since then, Rare Disease Day has taken place on the last day of February. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
