@@ -1,0 +1,73 @@
+The annual events were initially scheduled for Cairo, Egypt before they were moved to Sousse, Tunisia after the Egyptians failed to confirm they would host the event in time.CAVB also cited the restrictions surrounding the coronavirus situation in Egypt. The Confederation of African Volleyball (CAVB) on Thursday announced yet another change in venues for the men and women's African Clubs Championship. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The annual events were initially scheduled for Cairo, Egypt before they were moved to Sousse, Tunisia after the Egyptians failed to confirm they would host the event in time. CAVB also cited the restrictions surrounding the coronavirus situation in Egypt. 
+
+The men's event, which was primed for April 16-28 in Sousse will now be held in Tunis while the women's tournament - which was set for April 19 to May 1 in Sousse  - will now go down in Kelibia. 
+
+The dates for the two events remain unchanged. 
+
+CAVB in a communication to national federations on Thursday said the move was to try and organise the competitions in the "safest conditions." 
+
+General Service Unit, Kenya Ports Authority (KPA) and Kenya Prisons are scheduled to represent the nation in the men's championship while Prisons, KCB and Kenya Pipeline will compete in the women's event. Africa Clubs Championships is set for set for April 16-28 in Sousse, Tunisia. KPA will be making their inaugural appearance at the African Clubs Championship. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
