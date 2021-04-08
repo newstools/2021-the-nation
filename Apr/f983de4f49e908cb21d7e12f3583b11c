@@ -1,0 +1,149 @@
+Narok County is mourning the loss of a senior local government official, who succumbed to Covid-19 complications on Thursday morning. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+County Roads Executive John Marindany died while undergoing treatment at a Nairobi hospital, becoming the first high ranking official in the county to die of the disease. 
+
+According to Angata Barrikoi chief Joseph Kirui, Marindany developed breathing problems while he was in his rural home for the Easter holiday.  
+
+“He was rushed to Lolgorian Hospital and was later referred to Tenwek Hospital in  Bomet County. 
+
+"While there, he was diagnosed with Covid-19 and further referred to a Nairobi hospital. Yesterday, at around 3pm he developed more breathing problems and died minutes later,” said Mr Kirui, who confirmed the death. 
+
+The Nation learnt that the CEC had also been diagnosed with hypertension and diabetes. 
+
+After the Covid-19 diagnosis was confirmed on April 6, his immediate family members and other people who had interacted with the CEC were placed on quarantine. 
+
+Dedicated and selfless leader 
+
+Governor Samuel Tunai condoled with Marindany's family, describing the leader as hardworking, dedicated and selfless. 
+
+“I have learned with shock and difficulty of the very untimely death of John Marindany, who until his death, served as a devoted County Executive Committee Member for the Department of Roads and Public Works. 
+
+"My administration has suffered a big blow following the death. He was a  dedicated member of the County Executive, whose services were a major knob in service delivery,” said the governor in his condolence message. 
+
+He said his diligence, attention to detail and sacrifice were all evident in the responsibilities he held within the county executive since 2013. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+sayagie@gmail.com The petitioners accuse the county government of deliberately increasing levies. He had saved up the money to buy a new printer and boost his cyber business. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
