@@ -1,0 +1,149 @@
+Health officials in  Kakamega County have clarified that only six people died after falling ill from a mysterious disease in Isukha West. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kakamega County Health Executive Dr Collins Matemba said even though eight people from Malimili and Obulonji villages died within the same period, only six presented similar symptoms. 
+
+“A team of doctors led by Dr William Olaka (Director of Public Health) and John Otieno (County director health services) visited the two villages and established that the only six people died from the mysterious disease,” said Dr Matemba. 
+
+He further clarified that only four people who were critically ill had similar symptoms. 
+
+“The patients get affected on the less dominant hand. If you are a right-handed person, the left hand gets affected while those who are left-handed get affected on the right hand,” added Dr Matemba. 
+
+He said the first mortality case was reported on January 5, 2021, the second one on February 15, 2021, third case on March 10, 2021 while the fourth and fifth cases succumbed on April 3, 2021. 
+
+The county official said the six cases were from a neighbouring village whose death details were not readily available immediately. 
+
+Most of the patients including those who succumbed to the symptoms had been treated at St Elizabeth Mukumu hospital. 
+
+He noted: “We have convinced two of the patients to move to the County General Referral Hospital so that we conduct tests to establish the cause of the disease. But we dispel the possibility of anthrax because only men get affected. And what is surprising is that when they approach their last minute before death, their genitals swell.” 
+
+Initially, residents had indicated that the victims started complaining of the pains days after consuming illicit brew allegedly stolen from one of the dens in the village. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Majority of those who suffered were said to have consumed the brew and majority of them were men aged between 30 and 45 years. 
+
+Dr Matemba said the disease is not witchcraft-related and asked the villagers to remain patient until laboratory reports are out. 
+
+The victims exhibited similar symptoms including severe pains, left hand swelling, skin peeling off and death after a few days. Governor Samuel Tunai has eulogised John Marindany as a dedicated and selfless leader. The petitioners accuse the county government of deliberately increasing levies. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
