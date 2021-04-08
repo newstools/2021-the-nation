@@ -1,0 +1,149 @@
+As the world is fixated on the Covid-19, some governments have de-escalated the war on terrorism. Understandably, coronavirus’ devastation warrants attention and investment. However, countries should not lose sight on fight against terrorism, an existential threat to humanity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Coincidentally, the two tragedies have common characteristics, especially their invisibility and indiscriminate choice of victims. Just like terrorism, the virus keeps mutating; hence, it’s likely to take an indefinite time to eliminate it. 
+
+That forced some governments to invoke war strategies in combating it. Last year, French President Emmanuel Macron and USA’s Donald Trump declared war against the virus, rhetoric associated to the war on terrorism. 
+
+But as governments struggle to mount a formidable response against the virus, terrorist groups are taking advantage of the situation to escalate their activities. This is despite a UN call for a ceasefire on all conflicts, especially in Syria, Yemen and Somalia, to provide ample time to fight the pandemic. 
+
+The UN resolution called for a durable humanitarian pause of violence to enable safe and unhindered delivery of humanitarian aid, medical attention and evacuations. However, it fell on deaf ears as terrorist groups carried on with attacks. In fact, al-Shabaab’s initial response to the coronavirus was that it was divine retribution to nonbelievers. 
+
+Crafted propaganda 
+
+The Al-Qaeda-linked terrorist group has continuously crafted its propaganda around the pandemic, even claiming to have set up a coronavirus treatment centre at its headquarters in Jilib. In its latest disinformation campaign, it advised Somalis to reject the AstraZeneca vaccine, claiming it’s ‘harmful’. 
+
+Its heightened propaganda around the pandemic was a desperate attempt at remaining relevant. Thousands of militants contracted the virus with many succumbing to the disease for lack of medical care. This explains a slight lull in its activities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In a bid to capitalise on the insecurities and vulnerabilities brought about by the pandemic, al-Shabaab made false promises to provide humanitarian aid to suffering Somalis for political legitimacy and attempts to win the hearts of the populace. 
+
+The strategic move by most governments to shift their focus and resources from countering violent extremism and counter-terrorism to enforcement of health protocols to contain the pandemic also gave terrorists leeway to conduct their activities. They sow distrust in governments, incite citizens and breed disobedience to lawful authorities. 
+
+Terrorists have enhanced online radicalisation and recruitment during the pandemic. Buoyed by weak cybersecurity laws and extended closure of learning institutions, they prey on naïve children. 
+
+Both the coronavirus and terrorism are modern threats to national security that must be fought concomitantly to mitigate their severe effects. Deliberate efforts must be made to counter the propaganda, conspiracy theories and disinformation campaigns spearheaded by terrorist groups. 
+
+lbenyawa@gmail.com. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
