@@ -1,0 +1,229 @@
+Lamu's Ndeu village has no electricity despite hosting a substation supplying power to neighbouring communities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+None of the households, in the village hosting 150 families, have been connected to electricity since December 2015 when the substation was put up. 
+
+Residents of this village still have to use lanterns and fires to light their houses, while their neighbours simply reach for switches on their walls, with the main supply line being from the Ndeu substation. 
+
+Nation.africa established that no house had electricity connection despite efforts by locals to fill forms to have their homes supplied with power. 
+
+Angelica Wamboi Kiara, an elder at Ndeu village, said they have been subjected to an expensive lifestyle of buying kerosene daily to light their houses so that their children can study at home. 
+
+Ms Kiara questioned why the government was reluctant to connect their homes to electricity. She also expresses disappointment that most villages in remote areas of Hindi are connected with power while Ndeu is left behind. 
+
+"We were promised to be prioritised for electricity connectivity after the substation was put up in our village in 2015.  They lied to us. We have been filling forms to have our homes connected to electricity almost monthly, but nothing has materialised," said Ms Kiara. 
+
+
+
+
+
+
+
+
+
+
+
+Mzee Muiruri, the headman at Ndeu Village in Lamu. He questioned why  village having a main substation supplying electricity to other villages and towns of Lamu, dwellers at Ndeu have no electricity connected to their houses.
+Photo credit: Kalume Kazungu I Nation media Group.
+
+ 
+
+Reuben Kariuki, a Nyumba Kumi official at Ndeu-KenGen village, said their streets and homes have been in the dark for years. He says criminal gangs have taken advantage of this and are now robbing locals returning home late from work. 
+
+He appealed to the concerned agencies, including Kenya Power and the Rural Electrification and Renewable Energy Corporation (Rerec), to intervene and have their homes connected to electricity. This, Mr Kariuki says, will go a long way in stemming insecurity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We are in the sixth year since we started applying for electricity connectivity here. Our streets are left in darkness. Boda boda operators are being robbed of their motorcycles almost daily. We are appealing to KPLC, Rerec and other concerned agencies to address this problem. We have a right to electricity," he said. 
+
+Peter Muiruri, a youth leader at Ndeu accused both State utility firms of double standards and demanded a change in the situation. 
+
+"The Ndeu substation can't be supplying electricity to other places in Lamu yet this village as the host of the substation doesn't enjoy the same. We have made frequent requests for the government to have our homes connected but it's like we are treated like second-class citizens of this country. It's unfair," said Mr Muiruri. 
+
+Rerec Chief Executive Officer, Peter Mbugua, however, says the firm has not received any official request from either area leaders or locals at Ndeu concerning the matter. He advised the villagers to approach their MP, after which the legislator can make an official request to Rerec to have the village powered.  
+
+"The area MP is in a good position to have the matter solved. He can appeal to us since he is directly in charge of those projects. Once an official request is made and a budget allocated, we will move in to implement the electricity connection project at Ndeu," said Mr Mbugua. 
+
+Lamu West MP Stanley Muthama said the process to have homes in Ndeu connected to electricity is underway. 
+
+"We have connected villages such as Hindi, Safirisi, Ungu, Witu, Mpeketoni and surrounding areas to electricity with over 4,000 households having already benefited. Currently, we are undertaking a project to connect 2,000 households to electricity at Manda Island. The next stage will be connecting electricity to Ndeu homes. We urge for patience," said Mr Muthama. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The MCA was found guilty of six charges, including an attempt to jail break three convicted drug traffickers in 2017. The designer confessed that he was unaware that the portrayal of the mosque on their T-shirts would end up in sacrilegious joints. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
