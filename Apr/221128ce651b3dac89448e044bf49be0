@@ -1,0 +1,279 @@
+Kenya has perfected the art of making promises to the International Monetary Fund (IMF) in exchange for bailout loans, only to retreat until the next cycle. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A detailed review of the latest commitments given by Nairobi as it sought the Sh257 billion loan from the Bretton Woods institution shows that the government is making promises it has made in the past that it has never followed through. 
+
+Covid-19-related expenditure 
+
+For instance, the National Treasury says in the document that the Auditor-General will publish an audit of all the Covid-19-related expenditure and by the end of May for action. 
+
+At the height of the Kenya Medical Supplies Authority (Kemsa) procurement scandal last year, President Kenyatta directed agencies to complete their investigations in 21 days and have the suspects charged. But more than eight months later, the culprits are still walking free. 
+
+An earlier forensic report for the spending of the Kemsa covering the March 13 to July 31 period was presented to Parliament in September last year. 
+
+It found numerous violations of the Procurement and the Public Finance Management Acts and inefficiencies in the procurement process. But this is where it ended. 
+
+Wastage of public resources 
+
+Kenya has also promised, for the umpteenth time, to cut down wastage of public resources, reduce the wage bill and halt new projects until the other ones are completed, which has become a permanent feature in all government economic papers. 
+
+But what has become a joke is the promise to do fiscal consolidation, reduce government deficit as well as borrowing. The Parliamentary Budget Office (PBO) has on numerous occasions called out the national government for making the budget deficit a moving target, with new revisions every year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Also on the list of reforms is a promise to consolidate wealth declarations by public officials. 
+
+The intention of wealth declarations was to allow Kenyans to monitor public servants who were becoming overnight millionaires once appointed, or those who could not explain their sudden source of wealth. 
+
+But politicians tempered with the law, which gave public officials a chance to make the declarations in private, defeating the intention of the drafters. 
+
+When seeking the new loan, Treasury notes that after successfully undergoing completion of the United Nations Convention Against Corruption (UNCAC) peer review process, the government has initiated the review of the current legal framework of asset declarations and conflict of interest rules for senior public officials to bring it in line with international best practices. 
+
+Treasury says the enhancement of the legal framework will consolidate the wealth declarations and interest declarations of public officials into one uniform disclosure regime. 
+
+It says it will also rationalise the responsibility of analysing and verifying the disclosures and imposing adequate sanctions for false declarations or failure to declare in a single agency, and enhance the role, responsibilities and capability of enforcement agencies to investigate, prosecute and sanction perpetrators of illicit enrichment and other corruption offenses. 
+
+But for now, Kenyans can only wait to see if public officials will ever declare their wealth. Treasury is once again promising to operationalise the access to Information Act, four years after it was enacted.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Enacted in 2016, this critical piece of legislation is overdue, and next steps to fully implement it – through the enactment of the regulations and introducing proactive disclosure across ministries – are key to enhancing transparency and accountability,” the IMF says in a document explaining what Kenya signed up for in the exchange for the new loan. 
+
+“Standards for digitisation and automation of records also will be developed to ensure compliance with minimum access to information requirements,” the document reads. 
+
+Procurement information 
+
+ Once again, the government is promising to make public all procurement information. 
+
+In the document, the Treasury says it will ensure that comprehensive information on public tenders, including beneficial ownership information of the awarded entities, are publicly available on the government procurement information portal, and that bidders are subject to dissuasive sanctions for non-compliance. 
+
+Treasury says work on the State Procurement Portal is being expedited to be completed by end of April 2021. This will be complemented by reforms in train to strengthen procurement in public investment. This is not the first time the government has made such a promise. 
+
+Several directives by President Kenyatta on the same have gone unimplemented as procurement entities chose the tenders to upload and when. Some agencies upload the tenders several years down the line making the information stale or overtaken by events. 
+
+ The government is also once again committing to implement the 2015 Public Procurement and Asset Disposal Act with the issuance of the 2020 Public Procurement and Asset Disposal Regulations, which provides a legal framework for implementation of electronic procurement by all public entities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+ The Public Procurement Information Portal (PPIP) was launched in July 2018. Under Executive Order No.2 of 2018, public procuring entities are to publish comprehensive information on all awarded public tenders including beneficial ownership information. The PPIP portal is yet to publish beneficial ownership information. 
+
+In the IMF document, Kenyan authorities say they have adopted a broad anti-corruption legal framework and enacted laws that are contributing to enhanced governance and transparency such as the Access to Information Law (2016), the Leadership and Integrity Act (2012), Ethics and Anti-Corruption Commission Act (2012), Public Officer and Ethics Act (2003), Anti-Corruption and Economic Crimes Act (2003) and Law on Bribery (2016). 
+
+Operationalisation and effective implementation of these laws, however, remains incomplete. Recently, additional resources were provided for the law enforcement agencies (LEAs), including the Ethics and Anti-Corruption Committee (EACC) and the Department of Public Prosecution (DPP), who are now able to hire specialised experts to assist in the prosecution of corruption cases. 
+
+ pwafula@ke.nationmedia.com IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance. Court grants Nairobi-based activist Sh500,000 cash bail. They forced their way into her house while making monetary demands. He had saved up the money to buy a new printer and boost his cyber business. IMF warned Kenyans protesting its loans to the government that they face job cuts, tax increases and expensive loans without its assistance.
