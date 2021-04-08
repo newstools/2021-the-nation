@@ -1,0 +1,151 @@
+Intercommunal clashes in Sudan's West Darfur region have left at least 132 people dead in recent days, its governor said Thursday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Members of the Massalit and Arab communities have fought since Saturday in and around the state capital El Geneina, trading gun and heavy weapons fire. 
+
+Sudan's government has declared a state of emergency in the region. 
+
+"According to medical reports, the number of dead is now 132," Mohamed Abdallah Douma, the governor of the region bordering Chad, told a press conference in Khartoum. 
+
+"The situation is now relatively stable," he said, adding that there was "looting" but "no more fighting". 
+
+Sudan is in the midst of a rocky transition following the toppling of long-time president Omar al-Bashir in April 2019, following mass protests against his rule. 
+
+The transitional government has pushed to build peace with rebel groups in Sudan's main conflict zones, including Darfur, where UN peacekeepers were recently withdrawn. 
+
+Thousands have fled the latest outbreak of violence, some escaping into Chad, according to the United Nations. 
+
+The clashes have seen a power station destroyed, an ambulance attacked and a rocket-propelled grenade hitting the key Sultan Tajeldin Hospital. 
+
+It is the latest outbreak of violence between the communities since January, when over 100,000 people fled their homes, according to the UN. 
+
+The vast Darfur region was previously ravaged by a civil war that erupted in 2003, leaving around 300,000 people dead and 2.5 million displaced, according to the UN. 
+
+It flared when ethnic minority rebels rose up against Bashir's Arab-dominated government. 
+
+Khartoum responded by unleashing a notorious Arab-dominated militia known as the Janjaweed, recruited from among the region's nomadic tribes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bashir is wanted by the International Criminal Court on charges of genocide during the Darfur conflict. It is unclear what sparked the latest violence. UNMISS currently has 14,500 military and 2,000 police peacekeepers across the country. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year.
