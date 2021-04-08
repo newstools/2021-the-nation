@@ -1,0 +1,273 @@
+ Air travellers across Africa can now enjoy faster clearances at airports, thanks to a common continental Covid-19 digital passport innovation developed by the African Union (AU) through its lead health agency, the Africa Centres for Disease Control and Prevention (Africa CDC), and private sector technical partners PanaBIOS and Econet. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Delays and long queues at airports are gradually becoming a thing of the past for passengers boarding Kenya Airways, Ethiopian Airlines and Asky Airlines. 
+
+Ethiopian Airlines alone serves 40 African nations, Kenya Airways 37 countries in the continent while Asky Airlines flies across 25 African cities, together forming a huge chunk of Africa’s air traffic that will use the digital passport and portal. 
+
+Passengers in the continent are now finding it more convenient travelling within and outside their countries, as AU’s innovation dubbed Trusted Travel Pass enables them securely and easily verify compliance with Covid-19 test or vaccine travel requirements to their destination of choice. 
+
+"We are incredibly proud to be part of AU and Africa CDC's journey of ensuring hassle-free and compliant travel across the world, while preventing cross-border spread of Covid-19 infection," noted Julius Thairu, Kenya Airways acting chief commercial officer. 
+
+Vaccination certificates 
+
+The platform has been designed to be incorporated into airlines' own apps, so air travelers can easily understand what they need before they fly. They can also be used as standalone systems. 
+
+ It is also becoming easier for passengers to share the test and vaccination certificates with authorities and airlines to facilitate travel through the Trusted Testing Code (TT Code) which shows that the test was done in an approved Trusted Lab. 
+
+“Previously, I found it hectic to travel outside Kenya. But since they started asking us to use the new Covid-19 passport verification portal, travel has been smooth,” Joyce Muthua, a passenger, told the Nation at the Jomo Kenyatta International Airport. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ International travel 
+
+The TT Code is used as evidence of the test to generate a Travel Code (TC) for international travel. TT Code and TC are now Africa-invented standard travel clearance requirements for international travel in a health emergency. 
+
+Africa CDC has so far mobilised a broad multi-stakeholder public private partnership with the help of its strategic partners, the PanaBIOS Consortium and Zimbabwe's Econet, aiming to erase hurdles in accessing accurate health information, high costs and inconvenience in cross border travel, and poor data for health policy and biosecurity planning. 
+
+ Getinet Tadesse, Chief Information Officer at Ethiopian Airlines said the solution will help to validate test and vaccination certificates and verify that they are sufficient for different routes and share testing or vaccination certificates with airlines and authorities to facilitate travel. 
+
+ He noted that the innovations will also help immigration officials keep fraudulent documentation at bay and make air travel more convenient. 
+
+ "We are pleased to have introduced a digital platform that will be pivotal in increasing the number of passengers while making air travel safer. We are striving to make travel safe and seamless especially with regard to the implementation of Covid-19 prevention strategies," he said. 
+
+ Ahadu Simachew, chief executive officer of Asky Airlines notes that improved quality in travel regulation management across Africa will be key to help restore travel, tourism, trade, investment, cultural exchange and Pan-African integration to the positive and uplifting trajectory that underscores the Africa Rising narrative. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ "As the airline set up to promote Africa's socioeconomic transformation, Asky couldn't be prouder of its support for and promotion of Africa's leadership in developing and rolling out ahead of the rest of the world innovations that de-risks full reopening of societies and economies but one that does so without leaving any African behind," he said. 
+
+ Dr John Nkengasong, director of the Africa CDC, observes that partnership with all African airlines will be critical in the present context. 
+
+ "The scale of the challenge presented by Covid-19 demands an unprecedented level of both innovation and cooperation, which is why decisions by Kenya, Ethiopia, West and Central Africa to adopt the Trusted Travel platform marks a milestone in the continent's ongoing fight against this pandemic's potential to suppress Africa's development ambitions," he said. 
+
+ But globally, experts have questioned whether a coronavirus vaccine passport needs to be different from the vaccine card system already in place. 
+
+Wearing face masks 
+
+"I honestly don't think there's a need for it to be a separate thing," says Henry Raymond, an epidemiologist and associate professor at the Rutgers School of Public Health. "The vaccine is not a free pass to get out of wearing a mask." 
+
+The European Union recently proposed a Digital Green Certificate to facilitate the safe and free movement of citizens within the EU during the Covid-19 pandemic. 
+
+It said it would be digital proof that the person has been vaccinated, tested negative or recovered from the coronavirus. Africa's move to join digital solutions remains in tandem with the EU's travel measures, ensuring Africans travel to European countries without much restriction. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The UNDP has sponsored a complementary Global Haven system that ensures that travellers from outside Africa can also use lab records from their countries of origin  in the Trusted Travel digital verification process. 
+
+ fmailu@ke.nationmedia.com The passport may become a requirement to land in some airports, especially in Europe and the US. It would not be an immunity passport, which is supposed to assure that its carrier is protected against the disease. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
