@@ -1,0 +1,79 @@
+A section of Muslim leaders is now urging Kenyans to turn to negotiated democracy, a practice of agreeing how to distribute political positions in advance of an election, as an alternative to by-elections witnessed across the country so as to save taxpayer money. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+According to them, the country is currently facing financial challenges and economic turmoil brought about by effects of the Covid-19 pandemic, hence no money should be wasted on mini polls. 
+
+Led by the Council of Imams and Preachers of Kenya (CIPK) Organising Secretary, Sheikh Mohamed Khalifa, the leaders say this is the way to go especially now that there’s a pandemic.  
+
+Their calls come barely a week after elders and leaders from Garissa County settled on businessman Abdikadir Haji to succeed his late father as the devolved unit’s Senator, a move Sheikh Khalifa has lauded. 
+
+On Tuesday, the Independent Electoral and Boundaries Commission (IEBC) in a notice gazetted Mr Haji as senator-elect after no one challenged him for the seat. 
+
+The agency made a declaration of no contest, declaring him as the duly elected Senator for Garissa County. 
+
+Sheikh Khalifa noted that if the country follows this approach instead of conducting by-elections, the electoral body will save taxpayers money and reduce the toxic politics that comes with campaigns. 
+
+He also noted that people disregard Covid-19 Health protocols during elections. 
+
+ “With less than a year to the general elections, we need to give Kenyans a break from politicking. Going the negotiated democracy way is an alternative we can embrace as a country. Kenyans have witnessed the violence caused by the campaigns in Matungu, Kabuchai and Nakuru,” Sheikh Khalifa stated.  He was accused of willfully exposing himself in public while suffering from Covid-19. Residents still have to use lanterns and fires to light their houses. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
