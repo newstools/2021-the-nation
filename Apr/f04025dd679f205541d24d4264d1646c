@@ -1,0 +1,223 @@
+It is Thursday, January 18, 2001. Bob Kioko, the host of the Nation FM (now defunct) Changamka talk show, allows a Mr Maina to go on air. He describes him as “a regular contributor”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Maina reports that it was about 7.15 that morning when a white Peugeot 405 car burst into a parking lot in Westlands at a speed of about 80 to 90 kph. 
+
+“The car has three young men and at that speed they are unable to control the car and the car slams into (sic) a stationary Nissan.... The young boys reversed the car and moved from the accident scene, got out of the car and bounced off towards the parking office and guess what!!! The three spoilt brats are sons of a Cabinet Minister!!” 
+
+Sued for defamation 
+
+This narration, including the multiple exclamation marks, is straight from the records of a court case, John Joseph Kamotho & 3 others v Nation Media Group Limited & 2 others, in which the then-Local Authorities Minister and Secretary-General for the ruling party Kanu, Joseph Kamotho, and his three sons — Charles, James and David — sued NMG for defamation. 
+
+In three subsequent news bulletins on the same Thursday morning, Nation FM and Nation TV reported that the Kamotho sons were involved in the incident. However, the court found the three sons were not present in the area when the incident happened, nor did the Kamothos own a white Peugeot 405. 
+
+So, Justice Jackton Ojwang, in his judgment on July 1, 2005, found NMG had defamed the Kamothos and awarded them a total of Sh14 million in damages. 
+
+Joseph Kamotho was implicated because he was the father of the three men. In its stories the Nation implied, among other things, that he had not brought up his sons well, that they were “spoilt and irresponsible”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In ethical journalism, a relative who has no nexus to a wrongdoing should not be linked to the wrongdoing. Just as the Bible says, one should not visit the sins of the son upon the father or vice versa. 
+
+This brings us to a complaint this week from a reader, Zoeb Tayebjee. He says that after reading the Daily Nation front-page headline of April 3, “State bans Ruto-linked vaccine”, he expected to read “a red-hot story”. Instead, the story only said Deputy President William Ruto was vaccinated with Sputnik V. 
+
+Demean Ruto 
+
+“Does taking Russian vaccine mean [Dr] Ruto was in any way involved in its importation or scandal of any type? The front-page banner clearly meant Nation had an agenda to demean Ruto,” Mr Tayebjee writes. 
+
+While there is no evidence in the story of a Nation “agenda to demean Ruto”, there is no evidence either of a connection between him and the importation of Sputnik V. Senior Counsel Ahmednasir Abdullahi was also vaccinated with Sputnik V but nobody said the vaccine is linked to the “Grand Mullah”. 
+
+Journalists shouldn’t implicate a person in wrongdoing unless the linkage is real. 
+
+The NMG editorial policy states that journalists “should generally avoid identifying relatives or friends of persons convicted or accused of crime, or otherwise unfavourably featured in news stories, unless the reference to them is necessary for the full, fair and accurate reporting of the crime.” 
+
+The statutory “Code of Practice for the Practice of Journalism in Kenya” takes the same position. 
+
+The Society of Professional Journalists, a leader in professional ethics, also requires journalists to balance the public’s need for information against potential harm or discomfort. “Pursuit of the news is not a licence for arrogance or undue intrusiveness,” it says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ethical journalism is akin to the biblical saying: “The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son.” 
+
+The Public Editor is an independent news ombudsman who handles readers’ complaints on editorial matters including accuracy and journalistic standards. Email: publiceditor@ke.nationmedia.com. Call or text 0721989264. President Kenyatta said the project seeks to enhance Kenyan’s self-reliance through local production of security equipment. The country had placed an order of 1.5 million doses in February this year. Sudan's government has declared a state of emergency in the region.
