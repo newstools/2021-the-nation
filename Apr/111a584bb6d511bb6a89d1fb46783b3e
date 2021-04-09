@@ -1,0 +1,225 @@
+The government should sell its stake in profit-making parastatals to boost revenue and minimise external borrowing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Addressing the press on Wednesday, MPs supported a proposal by the Nairobi Securities Exchange (NSE) aimed at creating alternative sources of cash to avoid expensive external loans. 
+
+The chair of the National Assembly’s Committee on Finance and Planning, Homa Bay Woman Rep Gladys Wanga, said the government should trade its shares in cash-rich parastatals such as Kenya Pipeline Company, Kenya Airports Authority and Kenya Ports Authority. 
+
+“We can clearly see that alternative measures exist that we can use to raise funds because our market is currently depressed and the borrowing will not help,” said Ms Wanga. 
+
+NSE chief executive Geoffrey Odundo told MPs that the government could raise Sh792.6 billion from the sale of stakes in listed firms, such as Kenya Commercial Bank (KCB), KenGen and Kenya Re. 
+
+“Listing of companies and selling more stake is a clear intervention to raise internally raise money and reduce the debt, you can even use some of the money to offset the expensive debt… The Treasury should consider offering secondary listings through sell-downs and additional shares issues, whilst still maintaining significant ownership and control in select entities in which the government has a key stake,” said Mr Odundo. 
+
+“In view of foregone income through dividends, this will be substituted by higher income resulting from enhanced governance practices and improved earnings through higher tax revenues,” he added. 
+
+To attract substantial institutional investment into Kenya, it is imperative that the country moves from its Frontier Market Status (FMS) to Emerging Market Status as assessed by the Morgan Stanley Capital International, he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In its analysis of 47 new IPOs and subsequent listings on the bourse between 1984 and 2007 that raised Sh50 billion, NSE reveals that successful (oversubscribed) IPOs by state-owned enterprises generated significant interest in the market, thus attracting a good number of private companies. 
+
+“It was noted by the team, in its analysis, that the dividend yield received by the government in a number of the listed companies had over the last 5-10 years generated a lower return than the weighted average for the 364 T-Bill which has averaged 11.04 percent,” said Mr Odundo. 
+
+The sale of a 10 per cent stake in KCB could raise Sh15 billion while cutting the government stake in KenGen from 70 per cent to 40 per cent could bring Sh12 billion. 
+
+A KPA initial public offering (IPO) could raise Sh400 billion through the sale of a 40 per cent stake. The NSE says the government has the potential to raise Sh150 billion by reducing its stake in Safaricom to 25 per cent from the current 35 per cent. 
+
+The government in 2008 raised more than Sh50 billion after selling a 25 percent stake, or 10 billion shares, in Safaricom. 
+
+Safaricom, East African Breweries Limited, Equity, KCB Group and Co-operative Bank account for 79.36 per cent of the market value of the companies listed at the bourse. 
+
+Profitable firms like Safaricom and KCB, for instance, offer the government an opportunity to realise big capital gains from stock sale. 
+
+The Capital Markets Authority has previously said that it needs a fresh listing of high-value companies and small and medium enterprises as a way of increasing diversity within the Kenyan market and correct imbalance. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Three of the dominant firms — Safaricom, Equity and Co-operative Bank — came into the market during the IPO boom between 2005 and 2009. 
+
+The committee has scheduled a meeting with the Treasury to discuss ways of implementing the recommendations by the NSE. 
+
+“As a way forward, we have scheduled a meeting with the Treasury next week to discuss the issues raised by NSE as a way of reducing our appetite for loans,” Ms Wanga said. 
+
+smundu@ke.nationmedia.com Kenyans on social media criticise international lenders for advancing Jubilee administration more loans. Once again, the government is promising to make public all procurement information. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
