@@ -1,0 +1,249 @@
+305 - Appearances made by Reus for Dortmund since his 2012 transfer from Gladbach. He has contributed 134 goals and 93 assists in that time.22 - League goals scored by Eintracht Frankfurt striker Andre Silva this season, putting him second only to Lewandowski (35).22 - Consecutive Bundesliga matches in which Frankfurt have scored, their longest run since 1977. Berlin, Germany 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Union Berlin are steeling themselves for a challenging trip to Bayern Munich in the Bundesliga on Saturday as the European champions look to shake off their midweek defeat by Paris Saint-Germain. 
+
+Bayern's Champions League defence is under threat after PSG striker Kylian Mbappe inspired the French giants to a 3-2 victory in Munich on Wednesday, leaving Hansi Flick's side up against it heading to the Parc des Princes next week. 
+
+Union are just outside the top six in Germany and bidding to qualify for Europe next season for the first time in the club's history, but their Swiss coach Urs Fischer expects a tough time at the Allianz Arena. 
+
+"I assume that they will try to make up for the (PSG) defeat against us," Fischer said Thursday. Bayern are seven points clear at the top of table and on course for a ninth straight league title. 
+
+"They've shown more than once this season that they can handle setbacks well." 
+
+Even with Bayern's top scorer Robert Lewandowski sidelined by injury, Fischer knows his side need a "perfect day" to take points in Munich, but sees cause for hope in the fact Bayern converted only two of their 31 chances against PSG. 
+
+Union punched above their weight by holding Bayern to a 1-1 draw last December in Berlin, where they have beaten both Borussia Dortmund and Bayer Leverkusen this season. 
+
+Bayern have left-back Alphonso Davies suspended while Germany pair Leon Goretzka and Niklas Suele picked up knocks against PSG. 
+
+Having lost 1-0 at home to Bayern in last weekend's top-of-the-table clash, second-placed RB Leipzig are desperate for victory at Werder Bremen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Spanish left-back Angelino, who racked up eight goals and 11 assists before injury struck in February, could return with defenders Dayot Upamecano and Nordi Mukiele both suspended. 
+
+Leipzig also face Bremen away in the German Cup semi-finals on April 30 and Nagelsmann wants to throw down a marker. 
+
+"We don't have time for experiments," said Nagelsmann, who is set to name his strongest team. 
+
+"You can make a statement towards the cup in terms of the way you perform." 
+
+Eintracht Frankfurt, in fourth and edging towards Champions League qualification for the first time, host third-placed Wolfsburg on Saturday. 
+
+Frankfurt head coach Adi Huetter is facing repeated questions about rumours he will replace Marco Rose at Borussia Moenchengladbach next season. 
+
+Eintracht backed up a 5-2 thrashing of Union with a 2-1 win at Dortmund last weekend, giving them a seven-point cushion in their quest for Champions League football.One to watch: Marco Reus 
+
+The 31-year-old Dortmund captain scored what could prove a vital goal in Tuesday's 2-1 defeat at Manchester City in the Champions League after a superb pass from Erling Braut Haaland. 
+
+After struggling with injuries and a loss of form, Reus is rediscovering his touch at a critical juncture with Edin Terzic's side fighting to salvage a disappointing season. 
+
+Dortmund go to Stuttgart on Saturday hoping to avenge December's 5-1 home defeat, in a tune-up for Wednesday's return leg against City in Germany.Key stats 
+
+305 - Appearances made by Reus for Dortmund since his 2012 transfer from Gladbach. He has contributed 134 goals and 93 assists in that time. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+22 - League goals scored by Eintracht Frankfurt striker Andre Silva this season, putting him second only to Lewandowski (35). 
+
+22 - Consecutive Bundesliga matches in which Frankfurt have scored, their longest run since 1977. 
+
+Fixtures (all times 4.30pm EAT unless stated) 
+
+Friday 
+
+Arminia Bielefeld v Freiburg (9.30pm) 
+
+Saturday 
+
+Bayern Munich v Union Berlin, Eintracht Frankfurt v VfL Wolfsburg, Hertha Berlin v Borussia Moenchengladbach, Werder Bremen v RB Leipzig, VfB Stuttgart v Borussia Dortmund (7.30pm) 
+
+Sunday 
+
+Schalke 04 v Augsburg, Cologne v Mainz (7pm) 
+
+Monday 
+
+Hoffenheim v Bayer Leverkusen (9.30pm) Wolfsburg have not finished in the Bundesliga's top four since 2015. Confirmation of Boateng's exit is causing tension. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
