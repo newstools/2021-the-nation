@@ -1,0 +1,241 @@
+There is something wicked brewing in Kosovo, and residents are at a loss over its cause and what can be done to get rid of its insidious roots. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Like its namesake in the 1990s Balkans where murder and mayhem held sway, this backwater settlement in Naivasha Sub-county is synonymous with bloodshed, and the authorities are having a hard time dealing with it. 
+
+In a shocking incident on Monday, a man accused of hacking his wife to death with a machete in a dispute over Sh2,000 allegedly released a three-minute-thirty-second long video confessing to the crime. 
+
+In chilling detail, the 26-year-old recounts how his 20-year-old wife used the money that he had put aside to hire a piece of land to farm on without his consent. Nation yesterday established that the suspect, who is in police custody, was also furious with his wife for allegedly having aborted twice without his knowledge. 
+
+“After killing her, I decided to turn myself in at Kongoni Police Station but later changed my mind,” says the suspect in the video. He instead left for his parents’ Njoro home in the dead of night. His mother noticed that he appeared nervous. 
+
+‘I had killed my wife’ 
+
+“My mother was the first to notice my uneasiness before I finally owned up that I had killed my wife,” he said, adding, they had kept their relationship secret. 
+
+“Only a few of our family members knew about our relationship despite us staying together,” said the suspect. 
+
+Area chief Asaf Kariuki said immediately after the killing, the suspect called his wife’s cousin asking her to go to the house, without telling her why. 
+
+“When she arrived at the house on Saturday evening, she found her cousin lying lifeless on the floor,” said the administrator. The cousin informed the chief and, together with police officers, they visited the scene. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We referred the matter to Naivasha Police Station for further action,” Mr Kariuki said. 
+
+Officers from the Directorate of Criminal Investigations (DCI) were able to trace the suspect to his family’s home in Njoro where he was arrested. 
+
+Witness statements say the couple’s relationship was rocky, with constant fights. The suspect is expected to be arraigned after police complete their investigations. His wife’s body is at Naivasha Sub-county Hospital mortuary. 
+
+Tucked in a remote part of Naivasha Sub-county, the village that was named after the European country, whose internecine war hogged global headlines in the 1990s for its gory blood-letting is living up to its billing. 
+
+On January 2, 2019, a 24-year-old man was stabbed to death by his cousin over a Sh70 debt. The two picked a quarrel on New Year’s Eve over the unsettled debt, with the alleged killer stabbing his cousin on the chest before fleeing. 
+
+In October 2016, a farmer was hacked to death and four houses torched following flare-ups pitting two communities. 
+
+Earlier in the same month, a 40-year-old herder was speared to death after two communities fought over a piece of land. 
+
+In September 2019, an administration police officer on a private errand at the state-owned Agricultural Development Corporation (ADC) farm was shot with an arrow. He died on the spot while his motorcycle and a tractor belonging to the agency were both torched. 
+
+The incident occurred during a protest by youths, who were angry that the management of the farm had decided to survey afresh the 2,000-acre plot, which local herdsmen laid claim to. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Local Nyumba Kumi official Luka Muchai said the rising cases of murder have been fuelled by an influx of people who come to the area to farm. 
+
+“We have people of questionable character finding a home in Kosovo. We should have a mechanism where newcomers are thoroughly vetted before being allowed to settle,” he said. 
+
+Isolated incident 
+
+He urged the government to ban the use of makeshift structures as homes, saying, settlers should stay in permanent housing. Mr Kariuki added that the crime rate had drastically reduced after the flushing out of some of the illegal settlers who had taken over private land. 
+
+“We’ve seen a reduction in crime and the recent killing of the 20-year-old woman by her lover was an isolated incident,” the administrator said. 
+
+He, however, acknowledged that the authorities had had a tough time dealing with runaway crime. 
+
+Naivasha Sub-county Police Commander Samuel Waweru said the establishment of a patrol base had brought order to the troubled village. 
+
+“The security situation has greatly improved with police carrying out regular patrols,” he said. The fertile land is popular with both large and small-scale farmers, who enjoy bountiful harvests. 
+
+Machariamwangi2008@gmail.com The 20-year-old woman is said to have used the cash without her husband's consent. Mathare and parts of Lavington have been named as the most unsafe places in Nairobi. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
