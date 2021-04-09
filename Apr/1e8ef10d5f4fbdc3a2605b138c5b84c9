@@ -1,0 +1,294 @@
+You see it coming out, first a huge flame, which takes a few moments, and then a thick blanket of smoke. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+As you get closer, the rustic ambience welcomes you to Mwoki village in Tigoi, Vihiga County. Mwoki means smoke in the local dialect of the Luhya language. 
+
+The name tells it all and sure enough, a lot of smoke rises from this area. It is eerie. It’s unclear whether the name derives from the smoke or it is all a coincidence of nomenclature. 
+
+As you walk deeper into the village, rugged hills and valleys lead you to the lowest point of Nyabera stone mining site, where smoke spews from different corners. 
+
+
+
+
+
+
+
+
+
+
+
+James Olwenyi, gravel miner at the Nyabera mining site in Mwoki village, Vihiga County.
+Photo credit: Pauline Ongaji | Nation Media Group
+
+ 
+
+Large stones 
+
+Here, groups of villagers armed with primitive mining tools crush large stones into pea gravel, which is then sold to contractors. 
+
+They usually burn the stones, then pour water on them so that the instant contraction breaks them easily into smaller pieces. 
+
+Fred Lihanda, 47, has been ‘mining’ these stones for almost two decades. A workaholic who breaks his back daily to put food on the table, he toils between 8am and 6pm. 
+
+“I make at least Sh4,000 weekly, which enables me to support my family. After primary school, I went to Nairobi but could not secure a job, so I returned home and this is what I decided to do,” he offers. 
+
+James Olwenyi, 34, is a father of four who has been crushing stones for a decade-and-a-half.  “I make between Sh15,000 and Sh20,000 a month, thus my family can live comfortably,” he says. 
+
+Stone crushing is a huge economic activity here. In many homesteads, people have abandoned environmentally friendly practices such as farming to venture into this quick money-making activity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+So profitable is the business that anyone who tries to convince them otherwise is considered a threat to their survival. 
+
+
+
+
+
+
+
+
+
+
+
+Part of the crater that was left after years of stone mining in Mwoki village, Vihiga County.
+Photo credit: Pauline Ongaji | Nation Media Group
+
+ 
+
+Sensitise the locals 
+
+“At one point, county leaders had a meeting to try and sensitise the locals about the dangers that come with this practice. It ended in chaos, as they wouldn’t have any of it,” says a Vihiga County official. 
+
+Interestingly, this is where China Overseas Engineering Group Co. Ltd (Covec) Kenya – which was involved in the construction of the Kisumu-Kakamega Highway – used to extract its raw materials for nearly six years. 
+
+The Chinese packed their bags in 2019 and, other than the new road, they also left behind tears from the years of pollution. Needless to say, the environmental destruction is unfathomable. 
+
+Continuous mining on the same site has created a huge crater, almost the size of a football pitch. There’s also a deep water hole – deep enough for a jumbo to drown in. 
+
+The damage has caused an uproar among locals who appreciate the importance of conservation and experts in the region. 
+
+Dr Richard Boiyo, the county chief officer of environment, energy and natural resources, says the stagnant water provides a breeding ground for pests and parasites that cause diseases. 
+
+“This deep water hole also poses a danger to the locals. The topography of this region has been destroyed. It used to be a forested area, but the trees are gone. This means there is a massive loss of biodiversity,” he says. 
+
+Dr Boiyo lays fault at the door of Covec Kenya for its role in the destruction of the environment during the road construction. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The amount of raw materials they extracted from this area was huge. They did it using heavy machinery as compared to what the locals are using,” he observes. 
+
+Our efforts to reach the company were futile. 
+
+Dr Boiyo also points an accusing finger at the National Environment Management Authority (Nema), whose responsibility is to ensure construction companies are accountable. 
+
+Any blame 
+
+“They are the regulatory body with the mandate of conducting the Environmental Impact Assessment (EIA) and the Environmental and Social Impact Assessment studies, thus they should follow up on such matters,” he offers. 
+
+The Nema deputy director of field operations, Ali Mwanzei, however, absolves Covec Kenya of any blame. 
+
+
+
+
+
+
+
+
+
+
+
+Fred Amuka Lihanda, gravel miner at the Nyabera mining site in Mwoki village in Vihiga County.
+Photo credit: Pauline Ongaji | Nation Media Group
+
+ 
+
+“The company did not flout environmental regulations in this area. However, we are yet to clear them,” he notes. 
+
+The company was surprisingly given a decommissioning clearance certificate to leave Iribo village in the neighbouring Nandi County, which was its gravel crushing site for the stones coming in from Mwoki. 
+
+Shockingly, Mr Mwanzei blames the locals for contributing to the destruction of their environment. 
+
+“It was the responsibility of the community to oversight the company’s operations and assist the authority in case of pollution. The company fenced off the area to limit access to the site, but the locals destroyed it to engage in quarrying,” he says. 
+
+pongaji@ke.nationmedia.com Waterholes dot the landscape despite construction having come to an end in 2019. Residents still have to use lanterns and fires to light their houses. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
