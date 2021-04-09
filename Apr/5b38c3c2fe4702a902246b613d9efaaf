@@ -1,0 +1,77 @@
+The United Nations special envoy's office to Burundi will close on May 31, five months after the isolated regime requested it shuttered, the secretary-general announced Thursday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A highly political issue, the UN's presence has been a source of tension for years between the organisation and Burundian authorities, which have contested the need for UN Security Council observation mission. 
+
+The office was established after the central African nation was plunged into political crisis in 2015, when then-president Pierre Nkurunziza ran for a disputed third term, sparking violence that claimed at least 1,200 lives. 
+
+General Evariste Ndayishimiye was elected in May 2020 to succeed Nkurunziza, who died in June. UN investigators said in September that rights abuses have continued under Ndayishimiye. 
+
+Burundi notified the UN in November last year that its office would be closed by December 31, Secretary-General Antonio Guterres said Thursday in his letter to the Security Council. But the two sides agreed that the UN needed more time and settled on May 31. 
+
+In a unanimously adopted declaration, the Security Council called on Burundi late last year to "cooperate" with the UN in promoting national reconciliation and the rule of law. 
+
+"There is important work ahead to advance national reconciliation, promotion of the rule of law and of an independent and effective judiciary," said the declaration. 
+
+After the UN envoy's office closes, the United Nations is expected to continue monitoring Burundi via the special envoy to the Great Lakes region, China's Huang Xia. Guterres said talks should seek "common ground" on the UN's future involvement with the country. Five months after the death of Pierre Nkurunziza, Ciugu Mwagiru casts a look at a man he first saw during the Burundi peace negotiations. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
