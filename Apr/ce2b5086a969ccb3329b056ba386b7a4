@@ -1,0 +1,217 @@
+The Uganda Revenue Authority (URA) yesterday ordered former presidential candidate Robert Kyagulanyi, aka Bobi Wine, to return his bulletproof car for fresh tax re-verification. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In an April 8 letter to the National Unity Platform (NUP) leader, the taxman demanded that he presents the bulletproof car on Friday. The latest directive followed a recent ruling of the High Court in Kampala in which the judge dismissed Wine's application that sought to block tax re-evaluation of the vehicle. 
+
+“Further reference is made to our earlier communication to your client Hon Kyagulanyi Ssentamu Robert to voluntarily deliver motor vehicle, Toyota Land Cruiser, UBJ 667F to URA for re-evaluation exercise. You subsequently sued URA seeking orders to stop going ahead to re-verify the said motor vehicle and your application seeking the said orders was dismissed on the 6th April, 2021,” the URA letter reads in part. The letter was addressed to Bobi Wine's lawyers at Wameli and Company Advocates. 
+
+“In light of the court ruling, we reiterate our earlier request to present the said motor vehicle to URA Nakawa inland port for re-verification exercise in the presence of your appointed agent not later than Friday, 9th  April, 2021 at 9 O’clock without fail,” the letter written by Acting Commissioner of Customs, Mr Asadu Kigozi Kisitu, adds. 
+
+On Tuesday this week, presiding judge Emmanuel Baguma, in his ruling, stated that re-assessment of Wine’s car by the tax body would not cause him any irreparable injury that cannot be atoned in terms of damages. 
+
+Further, the judge noted that the politician had failed to prove to court that the said car was the only means of transport he has, hence he would be unable to move around. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“It is, therefore, my considered view that the applicant (Mr Kyagulanyi), has not adduced evidence to show that the recalling of the said vehicle for re-verification will cause him irreparable injury which cannot be compensated by award of damages,” Justice Baguma ruled. 
+
+“In the final result, this application is not a proper one to grant a temporary injunction. The application, therefore, fails and it’s hereby dismissed.” he added. 
+
+When contacted last evening to comment on whether Bobi Wine would comply with the URA directive, NUP spokesperson Joel Ssenyonyi said he was not aware of the letter. 
+
+“We spent the better part of today at Rubaga Cathedral at the burial of Archbishop Cyprian Kizito Lwanga and I have not seen the said letter by URA. To that effect, I can’t comment about it.” Mr Ssenyonyi said. His boss, Bobi Wine, was unavailable for comment. 
+
+However, sources close to URA told Daily Monitor that in the event Bobi Wine fails to take his bulletproof car to Nakawa for tax reverification, the next course of action would be to impound the car in accordance with the law. 
+
+Background 
+
+Early last month, Wine petitioned a Kampala court seeking to block URA from recalling his car for fresh tax assessment. This followed a communication from the tax body to the politician saying his car had been undervalued as an ordinary car and yet it was bulletproof. 
+
+However, Wine went on and rejected the directive, arguing that URA did not have powers to do so, especially after his vehicle had already passed through their hands. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The said car was allegedly donated to Mr Kyagulanyi by his supporters in the diaspora shortly after the January 14 presidential poll.  
+
+Report by By Anthony Wesaka Khalid says he followed the right procedure to get the vehicle to Uganda. The Ugandan politician and some of his supporters were demanding the release of people missing since the election. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
