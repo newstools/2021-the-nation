@@ -1,0 +1,255 @@
+Jesse Lingard is a revitalised player since joining West Ham on loan from Manchester United, where he had become a forgotten man.The England midfielder flourished in the early days of Ole Gunnar Solskjaer's reign at Old Trafford but became an increasingly peripheral figure as Bruno Fernandes assumed the main creative role. London, United Kingdom 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Liverpool return to Premier League action on Saturday knowing they must rediscover the magic at home or risk finishing outside the top four for the first time since 2016. 
+
+At the bottom, Fulham have a chance to lift themselves out of the relegation zone while Manchester United will seek revenge at Tottenham after their 6-1 humiliation earlier this season. 
+
+AFP Sport looks at some of the main talking points ahead of the weekend action in the English top-flight. 
+
+Can Liverpool stop Anfield rot? 
+
+When Liverpool beat Tottenham 2-1 at Anfield in mid-December it appeared to be business as usual for Jurgen Klopp's side. 
+
+But little did they know that they would reach April with no further wins on their home turf and a paltry two goals to show for their efforts. 
+
+The Premier League champions take on mid-table Aston Villa on Saturday with a chance to clamber back into the top four, at least temporarily. 
+
+Liverpool suffered a chastening 3-1 defeat at Real Madrid in the first leg of their Champions League quarter-final in midweek but results in the Premier League last weekend went in their favour. 
+
+Klopp described their 3-0 win at sorry Arsenal as a "very important statement" but his side must rediscover the winning formula at home after six successive defeats in the league. 
+
+Lingard leads charge for hungry West Ham 
+
+Jesse Lingard is a revitalised player since joining West Ham on loan from Manchester United, where he had become a forgotten man. 
+
+The England midfielder flourished in the early days of Ole Gunnar Solskjaer's reign at Old Trafford but became an increasingly peripheral figure as Bruno Fernandes assumed the main creative role. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But the 28-year-old has made up for lost time since arriving at the London Stadium in January, scoring six goals in eight Premier League matches. 
+
+He has also won back his place in Gareth Southgate's England squad. 
+
+West Ham, who host Leicester on Sunday, are fourth in the Premier League table, one point clear of Chelsea with eight games remaining. 
+
+Lingard, who scored a spectacular goal and played a part in the other two in Monday's 3-2 win against Wolves, has urged his team-mates to stay level-headed. 
+
+"We need to maintain our focus in each game," he said. "We've got a tough run of fixtures but the lads are ready and we'll prepare for the next game." 
+
+Newcastle fight to stay clear of drop zone 
+
+Newcastle, who have been flirting with the relegation places, could find themselves in the bottom three by the time they kick off on Sunday if Fulham beat Wolves. 
+
+Steve Bruce's side have won just two of their past 21 games in all competitions but the manager has dismissed suggestions of a split in the camp. 
+
+"That is the big thing that frustrates us all, a so-called mole in the dressing room, certain players unhappy, blah, blah, blah, the spirit is not good, this nonsense," he said. 
+
+The Magpies can take some confidence ahead of the game against Burnley from last weekend's 2-2 draw with Tottenham. 
+
+Fulham themselves have not taken advantage of Newcastle's struggles but would climb above them on goal difference if they beat Wolves on Friday. 
+
+Manager Scott Parker said his team would "fight and scrap" to stay in the division. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Bottom-placed Sheffield United appear doomed but there is a flicker of hope at 19th-placed West Brom, who hammered 10-man Chelsea 5-2 last week. 
+
+Fixtures (EAT) 
+
+Friday 
+
+Fulham v Wolves (10pm) 
+
+Saturday 
+
+Manchester City v Leeds (2.30pm), Liverpool v Aston Villa (5pm), Crystal Palace v Chelsea (7.30pm) 
+
+Sunday 
+
+Burnley v Newcastle (2pm), West Ham v Leicester (4.05pm), Tottenham v Manchester United (6.30pm), Sheffield United v Arsenal (9pm) 
+
+Monday 
+
+West Brom v Southampton (8pm), Brighton v Everton (10.15pm) United had to survive a frantic opening period. Arsenal came into the match after a chastening 3-0 defeat against Liverpool last weekend. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
