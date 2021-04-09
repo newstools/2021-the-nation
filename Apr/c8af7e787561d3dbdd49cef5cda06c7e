@@ -1,0 +1,235 @@
+Voting began Friday in Djibouti where Ismail Omar Guelleh is seeking an all but assured fifth term as president of the small but strategically located nation he has ruled for 22 years. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some 215,000 citizens are registered to vote in the ballot pitting Guelleh, 73, against a little-known businessman widely seen to pose little threat to the strongman, who inherited power in 1999. 
+
+Polling stations opened at 6:00 am (0300 GMT) across the arid Horn of Africa nation, which overlooks one of the world's busiest trade routes at the crossroads between Africa and the Arabian Peninsula. 
+
+"I am always the first to vote. I am a Djiboutian, I have to vote," said 64-year-old Ahmed Abdillah Hadi after casting his ballot at a polling station in the capital city. 
+
+"I am with President Ismail. I voted for him, I love him." 
+
+Election observers said the process was rolling out smoothly, although voters were in no rush to cast their ballots. 
+
+"In general, the morning is quite calm. It's the beginning of the weekend, people take their time," said Gouled Ahmed Youssouf, who heads one of the nearly 530 polling stations in the capital.  
+
+Voting closes at 7:00 pm and the results are expected by the evening. 
+
+Djibouti's main opposition parties boycotted the vote, leaving Zakaria Ismail Farah, a 56-year-old political newcomer and importer of cleaning products, as Guelleh's only challenger. 
+
+Campaign posters were scarce in the capital, where most of Djibouti's one million people reside. 
+
+Guelleh, who has clinched at least 75 percent of the vote in every presidential election he has contested, held his final campaign rally on Wednesday, urging voters to turn out in large numbers. 
+
+Supporters in the packed stadium donned T-shirts emblazoned with his popular initials IOG but few wore face masks, despite Djibouti experiencing a recent surge in Covid-19 cases. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Under Guelleh, the country has exploited its geographical advantage, investing heavily in ports and logistics infrastructure.  
+
+In 2018, seeking to become a trade and logistics hub, the country launched the first phase of what will be Africa's biggest free-trade zone, financed by China. 
+
+Mohamed Assad, an unemployed 23-year-old, said Guelleh had a strong record on the economy and he planned on voting for the veteran leader. 
+
+"But I ask you Mr President to help the youth to have a great future. I ask for help for those who are like me," he said. 
+
+Iron fist 
+
+Flanked by Somalia and opposite Yemen, Djibouti has remained stable in a volatile neighbourhood, drawing foreign military powers such as former colonial ruler France, the United States and China to establish bases there. 
+
+But the country has also seen an erosion of press freedom and a crackdown on dissent as it has courted foreign interest. 
+
+Guelleh, and his extended family, have controlled Djibouti with an iron fist since he was handed power. A rare wave of opposition protests in 2020 were brutally suppressed. 
+
+His predicted fifth term will be his last, under a 2010 constitutional reform that scrapped term limits while introducing an age limit of 75, which would lock him out of future elections. 
+
+Farah -- who had to renounce his dual French citizenship to join the race -- complained he was not offered security services for his rallies. 
+
+He had styled himself as the "flag bearer of poor Djiboutians" and held a few small rallies before cancelling the rest in the days before the polls. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The country's economy shrank by one percent in 2020, but is expected to grow seven percent this year, according to the International Monetary Fund. 
+
+Djibouti's GDP per capita income is about $3,500, higher than much of sub-Saharan Africa, but some 20 percent of the population lives in extreme poverty and 26 percent are unemployed, according to the World Bank.  The country's main opposition parties boycotted the vote. Octogenarians re-elected to the helm of Cameroon’s two houses of parliament. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
