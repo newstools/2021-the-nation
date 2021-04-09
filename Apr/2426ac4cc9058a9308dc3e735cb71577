@@ -1,0 +1,237 @@
+You are now used to lockdown life. You have even adapted to working from home. You have purchased all requisite technologies to keep your business rolling. But are you prepared if a future pandemic required you to live alone to survive its ravages? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The current Covid-19 pandemic only requires us to maintain social distance, stay at home and armed with a mask, we can physically interact normally. 
+
+E-commerce delivery agents only need to wear protective gears to deliver the items you ordered online to your doorstep. Sometimes you even pay in cash. 
+
+But even with such simple rules to follow, millions have perished from the virus, livelihoods have been lost, economies have crumpled while poverty margins have soared. 
+
+Populations around the world must learn from the current pandemic that a future pandemic in four or five decades to come will be deadlier, with slippery mutations that will confine every person to a solitary life. 
+
+Climate change 
+
+A pandemic that totally separates you from your family and friends is something I feel may happen one day, given the current changes in climate change and disease mutations. How people behave will change drastically. 
+
+Prepare your mindset for a time when you will be older, with a less energetic body, and living in an enclosed space but still needing to communicate with friends, family and business associates. 
+
+With Kenya now boasting of the first 5G network deployment in the eastern Africa region, prepare for an advanced personal Internet of Things (IoT) system connecting millions of devices through all frontier technologies merged together. 
+
+In 50 years' time, we will have moved from 5G speeds to 6G, and shared online services will be the norm. 
+
+Virtual and Augmented Reality, blockchain, cloud computing, quantum computing, robotics, 3D printing, Big Data analytics and Artificial Intelligence will combine to form a complex web of IoT, ultimately creating what tech experts now call the Concept of Singularity. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The idea that human history is approaching a 'singularity', where ordinary humans will be overtaken by artificially intelligent machines and cognitively enhanced biological intelligence, has moved from the realm of science fiction to a reality that will be with us in the near future. 
+
+Next revolution 
+
+I have seen Kenyans already protesting against Elon Musk's plan to insert microscopic computer chips into the human brain but nothing will stop the next revolution – the Fifth Industrial Revolution (5IR), because implementing computer-brain interfaces will become a valuable necessity for human survival. 
+
+In the current Fourth Industrial Revolution (4IR), you are, in effect, already a cyborg since you have an additional digital layer of your life, thanks to the smartphone you own. 
+
+But in the 5IR, the rate at which information flows from the human brain to a machine will be real-time. That means job interviews will be conducted in the brain, and employers will pick right candidates with less hassle about their qualifications and character, within seconds. 
+
+Am confident about this because if AI continues to develop at its current dizzying rate, an upgradable intelligent agent will eventually enter a runaway reaction of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an explosion in intelligence and result in a powerful super intelligence that qualitatively far surpasses all human intelligence. 
+
+Holograms 
+
+It is such possibilities that humans must prepare for, as they would be key in dealing with a pandemic that requires you to know what is in your family members', friends' or employer's brain without seeing them, so you can make the right decisions faster. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+With singularity, which could come about around 2060, marketing companies, political parties, churches and mosques must start learning about holograms, where virtual clones of a marketer, politician or preacher can be designed and sent to various audiences. 
+
+The thought that you need a hot cappuccino from Java will translate to the drink landing in your house in the next few minutes, brought to you by extremely speedy silent drones. 
+
+Forget about the current state where a church streams a sermon via social media, with singularity, expect a cloned pastor to land in your living room every Sunday to deliver the scriptures to you personally. 
+
+The same will happen to politicians seeking various seats. With political parties being a tradition of the past in future, election commissions will only need to literally read the minds and hearts of voters in an accountable manner and declare winners within minutes. That's how rigging will be buried. 
+
+That means all cases of online evils schemes will come to an end. You will be able to know someone is a fraudster and is targeting your money, you will easily identify corrupt souls. 
+
+Thence, nothing will be sweeter to enjoy than a just society where no one thinks about evil because it can be detected by close people in a jiffy. 
+
+fmailu@ke.nationmedia.com Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
