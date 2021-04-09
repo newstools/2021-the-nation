@@ -1,0 +1,78 @@
+Ten students of Anestar  Bahati Boys' Secondary School in Nakuru County are sitting for their Kenya Certificate of Secondary Examinations(KCSE) from a police station after they were arrested on Thursday night. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Police said the students were arrested for sneaking a girls’ dormitory at the nearby Anestar Precious Girls' Secondary School. 
+
+Nakuru County Commissioner Erastus Mbui said the schoolboys, whose mission still remains unclear, were arrested before they caused any harm. 
+
+“Tens of boys stormed the dorm under the cover of darkness. However, police officers from the nearby Githioro Police post responded swiftly after the girls raised alarm, “said Mr Mbui. 
+
+He said only 10 boys were arrested as the others escaped into the darkness. 
+
+The Directorate of Criminal Investigations (DCI) in a tweet said police used tear gas to disperse the boys, who nearly overpowered the police. 
+
+
+Ten KCSE students from Anestar Bahati Boys in Nakuru, are in custody after they broke into a girl’s dormitory in the nearby Anestar Precious Girls secondary school. The boys whose mission still remains unclear, had sneaked out of their school in their numbers and gained access— DCI KENYA (@DCI_Kenya) April 9, 2021  
+
+“Not even the arrival of the police scared away the defiant boys, who  kept hovering around the dormitory," DCI said on Twitter. Locals have abandoned environmentally friendly practices such as farming. Most of the rustlers are illiterate and a majority are groomed for the job at a tender age. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
