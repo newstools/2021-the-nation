@@ -1,0 +1,397 @@
+On April 13 last year, Kenyans were just beginning to adapt to a new life under a partial economic shutdown occasioned by Covid-19. About 9, 000 kilometres away in Beijing, Kunlun Tech Co Ltd chief executive Yahui Zhou had just tendered his resignation from the gaming firm he founded in 2008. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Aside from his famous gaming company, Mr Zhou was known for having reached one of the most expensive divorce settlements in China, having given his ex-wife Li Qiong Kunlun Tech shares worth $1.1 billion (about Sh119 billion). He had opted to leave Beijing Kunlun to become full-time CEO of Oplay Digital Services. 
+
+Oplay owns three Kenyan firms that offer loans through mobile phone apps without any security, and which have all significantly grown since entering the lending business between 2018 and 2019. They are Okash, Opesa and Credit Hela. 
+
+Mr Zhou runs several digital lending firms in Africa and Asia through an intricate web of shell companies registered in several countries. At the top of the pyramid sits Opera Limited, whose core product is a popular web browser by the same name. 
+
+While Opera Limited is headquartered in Norway, it is formally registered in the Cayman Islands, a popular destination for businessmen and companies looking to lower their tax liabilities. 
+
+Video games 
+
+The firm was founded in 1995 and went public in Norway nine years later after listing on the Oslo Stock Exchange. Beijing Kunlun Tech Co turned Mr Zhou into a billionaire after marketing and selling several popular video games in China. 
+
+In 2016, he paid Opera’s shareholders $1.23 billion (Sh133 billion) to acquire the browser. Between 2016 and 2019, the tycoon went on an aggressive investment drive. Opera later bagged a deal to manage Opay Digital Services. Opay is registered in Hong Kong but with subsidiaries across the globe. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Read: Digital loan shock for the jobless, students 
+
+Opay in turn owned TenSpot Pesa Limited, a special purpose vehicle that launched the Okash digital lending platform in March, 2018. Opay and TenSpot Pesa were also at the time running a digital payment service that enabled users to buy mobile phone airtime at discounted rates. 
+
+In December 2018, Opera made a move on Opay, and bought the firm and its assets, including Okash for $9.5 million (about Sh1.03 billion). Interestingly, Okash began operations before it was registered in Kenya. TenSpot Kenya Ltd started operating Okash in March, 2018. TenSpot was registered on May 23, 2018, more than two months after operations had started. Hong Kong-registered TenSpot Pesa Limited owns 20,000 shares in the Kenyan firm. 
+
+Oplay Digital Services, registered in Mexico, owns 200 shares in TenSpot Kenya, which has two directors, Li Cao and Kun Wang, both Chinese. 
+
+A few months into 2019, Mr Zhou’s network of companies launched Opesa through TenSpot Kenya. On November 4, 2019, the group incorporated a new company, O-Stream Credit Limited. O-Stream owns Credit Hela, the third of Mr Zhou’s digital lending firms. O-Stream is owned by Opay Digital Services, which is registered in the United Kingdom. Mr Wang and Han Fang are listed as O-Stream’s directors. 
+
+The three are among the biggest digital lenders in Kenya. When Opera was listing in the United States, the firm filed regulatory documents that gave an insight into its operations, including just how profitable the industry is. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Initially, the service primarily marketed top Opera browser users. In the fourth quarter of 2018, Okash generated $1.7 million (Sh184 million) of revenue from 280,000 microloans, and held active licenses to provide similar microfinance products in four other countries,” Opera said in disclosures to the United States Securities and Exchange Commission. 
+
+Mobile loan apps like Okash, Opesa and Credit Hela may be minting millions in profits from loans, but their recovery methods and interest rates have raised red flags that have now seen legislators push to have them regulated by the Central Bank. 
+
+Read: Club warns loan seekers of fake mobile apps 
+
+Interest rates of up to 876 percent have been declared steep by financial experts across the world, with some terming the apps as predatory. 
+
+Digital lending 
+
+Before Mr Zhou ventured into digital lending, he tried to expand his portfolio to social media when he purchased American gay dating platform Grindr for $93 million (Sh10.1 billion) in 2016. 
+
+US authorities were unwilling to risk letting sensitive health data on Americans leak to the Chinese government through Grindr. Barely a month before resigning from Opera as CEO, Mr Zhou sold Grindr for $608 million (Sh66 billion). The corporate veil covering the owners of Kashway and Ipesa, two other popular lenders, is thick. 
+
+Nation could not establish the owners, but traced them to Hong Kong. The global financial and trading hub has become a popular tax haven for businessmen looking to invest in other countries without having their identities revealed. The closest individual link to Ipesa and Kashway is in directorships of the two firms running the lending platforms. Chinese national Junjie Zhou and Kenyan Elijah Ng’ang’a Ikahu are directors in XGO Kenya Limited, which operates Ipesa and Wakanda Credit Limited, which manages Kashway. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Hong Kong-registered MIB Network Limited sits atop the chain of companies behind the two lending applications. MIB Network owns XGO Kenya Limited and Wakanda Credit Limited. XGO Kenya was registered as a company on May 15, 2019, and began operations as Ipesa. On August 2, 2019, the individuals behind Ipesa registered Wakanda Credit Limited, which then started operating the Kashway platform. 
+
+American nationals Mathew Joseph Flannery and Daniel Kyung Joon Jung were among the early entrants into the industry, with Branch International. Working from San Francisco, California, they began operations in Kenya on April 2, 2015. Two years later, they joined the list of businessmen looking to shave their tax liability, as they incorporated Branch International Holdings in Mauritius. 
+
+They then transferred all 8.5 million shares from the Kenyan firm to the Mauritian entity. Its profits attracted $170 million (Sh18.4 billion) from private equity firm Foundation Capital and Visa in 2019. At the time, the firm expected to earn $70 million (Sh7.5 billion) from its African markets alone. It has issued over 15 million loans to more than two million Kenyans. 
+
+Also headquartered in San Francisco is Tala, one of the first players to join the mobile lending industry. It was founded by Shivani Bassant Siroya, who owns the app through Inventure Mobile Limited. The parent company is US-registered Inventure Capital Corporation (998 shares) and Ms Siroya (two shares). Ugandan businessman Joseph Kyeswa Ivan Mbowa is listed as a director. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+When the International Consortium of Investigative Journalists (ICIJ) published a list of companies and individuals using Mauritius to avoid taxes, Mr Mbowa featured under Umati Capital, an institution that offers credit to agribusinesses, retailers and suppliers of fast moving consumer goods. 
+
+Mr Mbowa is the firm’s chief executive. Other shareholders are Information Cabinet Secretary Joe Mucheru, Dominic Kiarie, Anne Marie Van Swinderen, Ace Micro Services Limited, Dataposit Limited and Munyutu Waigi. His Nairobi residence status shows Mr Mbowa calls the shots at Tala’s operations. 
+
+Much like MIB Network, we were unable to establish the owners of Zenka Finance Limited. Zenka Finance runs a platform by the same name and it’s owned by Poland-registered Pocco S.A. Its board chair Lukasz Ewangelis Notopulos and company vice president Konrad Marcin Bartnik are listed as directors in Zenka Finance, alongside Chilean businessman Walter Felipe Sanhueza Valle. 
+
+One of the few locals that has penetrated the saturated industry is billionaire Stanley Ng’ethe Kinyanjui, who owns Berry. He is a close ally of President Uhuru Kenyatta, and was part of a group of influential businessmen and politicians – ‘Friends of Jubilee’ – that raised at least Sh1 billion towards Jubilee Party’s 2017 election campaigns in under two hours. 
+
+To many Kenyans, Magnate Ventures is an advertising company with several billboards scattered across the country. But the firm has become synonymous with public procurement. 
+
+Magnate Ventures could be supplying prepaid metres to Kenya Power today, security equipment to the Kenya Airports Authority tomorrow, and building a road the third day. It is such mega contracts that have built Mr Kinyanjui a vast empire estimated to be worth billions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+On May 29, 2018, Mr Kinyanjui registered Finberry Capital Limited. Finberry Capital owns the Berry mobile loans application. The sole shareholder of Finberry is Adept Capital Limited, which was incorporated on February 23, 2018. 
+
+Adept Capital is owned by Mr Kinyanjui, Robert Kamau Kinyanjui and Magnate Securities Limited. Magnate Securities is owned by Magnate Ventures (900 shares), Mr Kinyanjui (60 shares) and Robert Kamau Kinyanjui (40 shares). 
+
+Other lenders thriving in the mobile loans industry with locals as shareholders are Zazipay trading as MyCredit, Okolea International Limited and Kuwazo. 
+
+Zazipay owners 
+
+Everlyne Rotich, George Mbira, Hellen Kithinji, Mamili Limited, Robert Odhiambo, Victoria Muya, Jackline Kirima, Lewis Muriti, Ian Kingara, Charlene Waweru, Michael Mbira, Priscilla Kimani, David Wangai, Vincent Ndirangu, Mary Maina, Sally Muenesi, Jeremy Muyela, and Nchi Nzuri Limited. Others are Julie Ogutu, Peter Kinyanjui, Scholastica Ndirangu, Johnson Mwangi, Patrick Mugo, Armstrong Kituku, Rages Investment Limited, Ken Kaberia, Mark Mbuthia, John Antony Jude Fernandes, Joshua Ojall, Stephen Kamau, Neil Ribeiro, Bubbles Personal Care and Kairu Mbuthia. 
+
+ 
+
+Okolea International 
+
+Julius Githira, George Mburu, Sarah Karingi, Cosmas Mulumba, Wilson Kamau, Third River Solutions, Eliud Kibe, Peter Njoroge Muraya and Lillian Njeri Njehia. 
+
+Kuwazo 
+
+UK national Ian Groome and Zambian Victor Chicha. Others are former football referee Gilbert Moore Titus Ottieno, Ng'ethe Chege, Catherine Mutua, Edwin Migiro, Richard Kinyua Kinyanjui, Edwin Nduati, James Katende, Antony Kamigwi, Patrick Alando, Victor Nyanjom who hold their shares through Dagham Holdings. Others are Rose Maruru, Roy King'uri, Allan Ngugi, Samuel Magecha, Christopher Rwengo, Moses Kiboi and Lasoi Mukuru. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+bwasuna@ke.nationmedia.com Data shows women play second fiddle in the utility of Safaricom’s fintech products, M-Pesa, M-Shwari and Fuliza. Millions of Kenyans who want to borrow money from dozens of mobile lenders have encountered rejections. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
