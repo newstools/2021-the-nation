@@ -1,0 +1,79 @@
+Shujaa had stunningly lost to Chile 14-12 in the Cup quarterfinals.France settled third after blowing away Chile 47-0 in the playoff. Johnstone Olindi scored a hat-trick of tries as Kenya thrashed Uganda Cranes 38-5 to lift the Plate as the second leg of the Emirates Invitational Sevens ended at the Sevens Stadium, Dubai. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kenya raced to a 19-0 lead with two tries from Olindi as Jacob Ojee also scored in between with Daniel Taabu adding the extras. 
+
+The Ugandans would touch down only for Alvin Otieno to hit back and give Kenya a 24-5 lead at the break. 
+
+Olindi completed his haul as Vincent Onyala went for Kenya’s last try before Taabu wrapped up proceedings with the conversions. 
+
+Kenya, who had earlier beaten Spain 27-15 in the Plate semis, finished fifth, which was a drop in performance from the first leg where they settled third. 
+
+Argentina crushed Canada 45-0 to win their second consecutive event in Dubai, the victory coming a week after they had beaten France 19-7 in the final of the first leg. 
+
+France settled third after blowing away Chile 47-0 in the playoff. 
+
+Kenya Lionesses finished sixth and last in the women’s tournament after losing to Japan 43-0 as France beat Canada 17-12 to win the category. 
+
+Shujaa had stunningly lost to Chile 14-12 in the Cup quarterfinals. Ayimba captained the national 15s and Kenya Sevens teams. France hammered Uganda 33-7 while Canada edged out Japan 29-12. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
