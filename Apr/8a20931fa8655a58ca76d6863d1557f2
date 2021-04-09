@@ -1,0 +1,77 @@
+Mogadishu, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Somali National Army (SNA) said Friday its forces have launched a major security operation against Al-Shabaab in Galgaduud region in the central part of the Horn of Africa nation. 
+
+The SNA said the troops from the 21st Division are advancing to Eel-lahelay, a key stronghold of the terrorists near El Buur district to flush out the militants behind insecurity in the region, the military radio reported. 
+
+The Friday morning operation comes after the SNA troops liberated many villages in the region from terrorists in the last two weeks. 
+
+Mohamed Tahlil Bihi, SNA infantry commander said the troops captured new bases in areas which are Al-Shabaab strongholds and inflicted heavy casualties on the militants. 
+
+Meanwhile, the troops also carried out an operation in Mubarak area of Lower Shabelle region, southern Somalia on Thursday. 
+
+The SNA said the house-to-house operation which was conducted in Al-Shabaab areas saw the forces destroy several militants' bases. 
+
+The Al-Qaeda allied terrorist group was routed from Mogadishu in 2011 by the allied forces and has had to abandon most of its strongholds, but it still controls vast rural areas and remains the key threat to peace in Somalia and also carries out attacks in neighboring Kenya. Three women and a child were among those killed when a suicide bomber blew himself up. Nairobi claims Kakuma and Dadaab camps have become breeding grounds for terrorism. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
