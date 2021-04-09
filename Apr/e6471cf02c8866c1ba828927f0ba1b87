@@ -1,0 +1,155 @@
+Beijing hit back angrily on Friday, claiming that the US measures aimed to "curb China's development". Washington, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The United States on Thursday restricted trade with top Chinese supercomputing centers, saying that Beijing's growing efforts in the field could have military uses that pose dangers. 
+
+The seven centers or entities were put on the US government's entity list, which means they require special permission for exports and imports from the United States. 
+
+"Supercomputing capabilities are vital for the development of many -- perhaps almost all -- modern weapons and national security systems, such as nuclear weapons and hypersonic weapons," Commerce Secretary Gina Raimondo said in a statement. 
+
+She said the commerce department would "use the full extent of its authorities to prevent China from leveraging US technologies to support these destabilizing military modernization efforts." 
+
+The centers hit with the restrictions include the National Supercomputing Center in the eastern city of Wuxi, home to the Sunway TaihuLight, which was considered the world's fastest when it was launched in 2016 -- the first time a supercomputer took the rank without using any US technology. 
+
+The latest Top500 list, compiled by researchers to identify the most powerful supercomputers, as of late 2020 considered Sunway TaihuLight the fourth-fastest, with the top three in Japan and the United States. 
+
+Alleged suppression 
+
+Beijing hit back angrily on Friday, claiming that the US measures aimed to "curb China's development". 
+
+"US containment and suppression cannot block the pace of Chinese technological development," said foreign ministry spokesman Zhao Lijian at a routine briefing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"China will take necessary measures to firmly uphold Chinese companies' legal rights and interests." 
+
+China has amassed by far the greatest number of supercomputers, a growing field with implications for cloud computing, climate research and advanced mechanics -- along with military research. 
+
+Washington has become increasingly alarmed by what it believes is a concerted Chinese push to gain ostensibly technical knowhow to modernize its military. 
+
+Tensions have soared between the world's two largest economies over the past several years on issues including US allegations that China is rampantly stealing its intellectual property. 
+
+Other points of contention include Beijing's increasingly assertive military moves in Asia and its human rights record, including its clampdown in Hong Kong and mass incarceration of Uyghur Muslims. 
+
+US President Joe Biden has vowed to keep up pressure on China, in a rare point of agreement with his hawkish predecessor Donald Trump. Beijing insists Xinjiang is an "internal affair" and has gone into attack mode as Western opprobrium mounts. US Secretary of State Antony Blinken says his country will be returning to the council to reform it from within. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
