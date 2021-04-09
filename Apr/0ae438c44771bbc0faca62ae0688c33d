@@ -1,0 +1,319 @@
+Kenyans have been dodging roadblocks set up after President Kenyatta restricted movement into and out of five counties with high Covid-19 infection rates. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+However, the illegal routes travellers intent on evading the roadblocks use have turned dangerous, with rapes reported in Nakuru County. 
+
+Nation has established that authorities in Nakuru and Kericho counties are investigating the rapes reported by travellers who were sneaking into and out of Nakuru. 
+
+Rogue bodaboda operators are taking advantage of desperate travellers to commit the offences in forests they take their clients through. 
+
+One of the rape victims reported the incident at Londiani Police Station in Kericho County over the weekend, leading to a suspect’s arrest. 
+
+In an exclusive interview, Londiani Sub-county Police Commander Rashid Ali revealed that a pillion passenger reported that she had been sexually assaulted by a bodaboda rider. 
+
+‘Suspect was arrested’ 
+
+“The suspect was arrested and charged before a Molo court on Tuesday,” Mr Ali said. 
+
+Nation established that the passenger, aged 32, was travelling from Nairobi to Western region when she was attacked. She had paid Sh300 to evade the Londiani roadblock. 
+
+Police said the incident happened on Wednesday last week. The victim was examined and treated at a private hospital in Kericho, before she reported the attack to the police. 
+
+
+
+
+
+
+A Police officer gesturing at a road block in Malili on the Machakos-Makueni border on March 29, 2021.
+Photo credit: Evans Habil | Nation Media Group
+
+ 
+
+Police in Nakuru and Kericho counties are now investigating the possibility of more such cases in the areas. 
+
+In three days, three women are said to have reported sexual assault by bodaboda operators at Londiani Police Station. The attacks occurred as they tried to evade roadblocks. 
+
+Yesterday, Molo Sub-county Police Commander Samuel Mukusi promised to investigate the matter. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“So far, no rape case has been reported to any police station in Molo, but we’ve launched investigations into the matter,” he said. 
+
+On Monday, Tayari chief Hassan Waweru said travellers had reported at least three rapes  in the area. 
+
+“It’s sad to see some bodaboda riders taking advantage of travellers. I’m urging Kenyans to adhere to the travel restrictions because this is the best way to prevent the spread of the virus and it’s not a punishment,” Mr Waweru said. 
+
+By Wednesday, at least 20 bodaboda riders had been arrested for assisting travellers to flout the Covid-19 restrictions. 
+
+There is fear that many rape cases could be going unreported by victims afraid of arrest for flouting the Covid-19 restrictions. 
+
+“The number of rape cases might be high, but only a few get to report because the majority fear being arrested for using the panya (illegal) routes to evade road blocks. 
+
+“We’re in hot pursuit of perpetrators,” said a police officer manning the Londiani roadblock. 
+
+This comes as Rift Valley Regional Coordinator George Natembeya revealed that security officers in Nakuru and Kajiado have tightened security at the road blocks and plan to use drones to catch those moving into and out of areas under lockdown. 
+
+He said police are mulling introducing drones to catch ‘“suicidal Kenyans” skirting the barriers. 
+
+“The technology will enable us to arrest the bodaboda riders helping travellers to escape. We must do everything possible to tame suicidal Kenyans from irresponsible movments that can cost them their lives,” added the administrator. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Police at a roadblock at Del Monte area that borders Kiambu and Murang'a counties on March 29, 2021.   
+Photo credit: Simon Ciuri | Nation Media Group
+
+ 
+
+He said drones will be fitted with high definition cameras able to monitor any movement from a distance of five kilometres. The gadget, he said, will greatly boost operations at the roadblocks. 
+
+Crooked ways 
+
+Mr Natembeya said more roadblocks will be erected to enforce other security and Covid-19 containment measures. 
+
+The administrator also warned police officer against accepting bribes to allow people to flout the containment measures. 
+
+“There are good citizens who are heeding the government directives, but there are others devising crooked ways to dodge the police and get in or out of the restricted areas. Kenyans must take personal responsibility, because it’s their lives that are at risk,” Mr Natembeya added. 
+
+A spot check of various roadblocks in Nakuru on Monday evening showed that commuters continue using tricks to evade them, including use of bodabodas. 
+
+Nation also learnt that some rogue motorists are paying bribes of between Sh2,000 and Sh8,000 to police to pass through the road blocks. 
+
+A bodaboda rider, Paul (not his real name) said he and his colleagues have been helping travellers evade police at the borders at a fee of between Sh500 and Sh1,000 per person. 
+
+“We all need money in these difficult times,” he quipped. 
+
+At the Londiani roadblock, travellers without proper documents were on Monday barred from moving in and out of Nakuru County. 
+
+More than 50 public vehicles using the highway from Kericho, Western and Nakuru were sent back after they failed to present the required travel papers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Kenyans have come up with tactics of evading the roadblocks. Some travellers are forging burial permits, the majority are those going to the western part of the country. Traffic police officers have arrested them and they will be charged in court,” Mr Natembeya said on Monday. 
+
+In his address on the Covid-19 pandemic nearly two weeks ago, President Kenyatta declared Nairobi, Kajiado, Machakos, Kiambu and Nakuru the hardest hit by Covid-19 and ordered cessation of movement into and out of the counties. 
+
+Devastating third wave 
+
+Later, the government clarified that the public can move freely within the zone, but they are prohibited from travelling into and out of it. 
+
+In a bid to tighten the Covid-19 measures to contain a devastating third wave, Mr Kenyatta also suspended all physical gatherings, including worship, within the zoned area. Family says he passed away peacefully this morning at Windsor Castle. They require special permission for exports and imports from the United States. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
