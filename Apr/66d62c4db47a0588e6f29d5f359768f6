@@ -1,0 +1,291 @@
+Antonio Sena was flying a single-prop Cessna 210 over the Brazilian Amazon when the engine suddenly stopped, leaving him minutes to find a spot in the jungle to crash-land. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He survived with no injuries, but was stranded in the middle of the world's largest rainforest -- the start of a 38-day trek he says taught him one of the biggest lessons of his life. 
+
+
+
+
+
+ 
+
+Sena, 36, was hired to fly a cargo run from the northern town of Alenquer to an illegal gold mine in the rainforest, known as the "California." 
+
+Flying at an altitude of about 1,000 meters, he knew when the engine stopped halfway there he would not have much time. 
+
+
+
+
+
+ 
+
+He managed to bring the plane over a valley, and landed as best he could. 
+
+Covered in gasoline, he grabbed whatever seemed useful -- a backpack, three bottles of water, four soft drinks, a sack of bread, some rope, an emergency kit, a lantern and two lighters -- and got out of the plane as fast as possible. 
+
+
+
+
+
+ 
+
+It exploded not long after. 
+
+That was January 28. 
+
+The first five days, he said in an interview at his home in Brasilia, he heard rescue flights overhead, searching for him. 
+
+But the vegetation was so dense the rescuers didn't see him. 
+
+After that, he heard no more engines, and assumed they had given him up for dead. 
+
+"I was devastated. I thought I would never make it out, that I was going to die," he said. 
+
+
+
+
+
+ 
+
+He used what battery he had on his cell phone to find where he was with GPS, and decided to walk east, where he had spotted two air strips. 
+
+Jaguars, crocodiles, anacondas 
+
+He followed the morning sun to stay on course, and dredged up what he remembered of a survival course he had once taken. 
+
+"There was water, but no food. And I was vulnerable -- exposed to predators" like jaguars, crocodiles and anacondas, he said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He ate the same fruits he saw the monkeys eating, and managed to snag three precious blue tinamou bird eggs -- the only protein of his entire ordeal. 
+
+"I had never seen such untouched, virgin rainforest," he said. 
+
+"I discovered the Amazon isn't one rainforest, it's like four or five forests in one." 
+
+The thought of seeing his parents and siblings again kept him going, he said. 
+
+Sena was born in Santarem, a small city at the junction of the Amazon and Tapajos rivers. 
+
+He calls himself a native "Amazonian" and lover of the rainforest. 
+
+
+
+
+
+ 
+
+But he says the coronavirus pandemic left him with little choice but to take a job working for one of the thousands of illegal gold mines scarring the forest and polluting its rivers with mercury. 
+
+A trained pilot with 2,400 hours of flight time, he had opened a restaurant in his hometown several years ago in a change of pace. 
+
+But Covid-19 restrictions forced him to close it. 
+
+"I had to make money somehow," said Sena. 
+
+"I never wanted to (work for an illegal mine), but that was the option I had if I wanted to put food on the table." 
+
+'Never again' 
+
+In all, Sena walked 28 kilometres, losing 25 kilos on the way. 
+
+On the 35th day, he heard the sound of something foreign to the rainforest for the first time since the rescuers gave up looking for him: a chainsaw. 
+
+He started walking toward it, and finally came to a camp of Brazil nut collectors. 
+
+Startled by his unexpected apparition from the forest, they helped contact his mother to tell her he was alive. 
+
+The matriarch of the camp was Maria Jorge dos Santos Tavares, who has been gathering and selling nuts in the forest with her family for five decades. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"She gave me food and clean clothes," Sena said. 
+
+"I have tremendous affection for them." 
+
+He found meaning in the fact he was saved by a family that lives "in harmony" with the forest, after working for people who are destroying it. 
+
+"Despite the circumstances that led me to that flight, being found by a family of gatherers who work in harmony with nature, who don't damage the forest -- that was magical," he said. 
+
+"One thing's for sure: I'll never fly for illegal miners again." Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
