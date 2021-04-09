@@ -1,0 +1,155 @@
+The Spanish football federation, which has the final say on disciplinary matters, still has to make its ruling on the incident that has received widespread coverage in Spain. Madrid 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+La Liga said Friday it had found no evidence that Valencia's Mouctar Diakhaby was racially abused by Juan Cala of Cadiz during a La Liga match last weekend. 
+
+The Spanish football federation, which has the final say on disciplinary matters, still has to make its ruling on the incident that has received widespread coverage in Spain. 
+
+A furious Diakhaby walked off the field after being involved in a heated exchange with Cala and claimed the Spanish player had used a racist slur towards him in the first half of the game in Cadiz on Sunday. 
+
+Valencia's players left the pitch in solidarity with Diakhaby, becoming the first top-flight Spanish team to make such a protest. 
+
+The players later returned to resume the match, with the club claiming they were told they would be punished if they refused to return. 
+
+Cadiz won the match 2-1, finishing the game without Cala, who was substituted at half-time. 
+
+"After analysing the elements, no proof has been found in any of the means available to La Liga that the player Juan Torres Ruiz (Juan Cala) had insulted Mouctar Diakhaby using the terms claimed," La Liga said in a statement. 
+
+La Liga said it used an external company to analyse TV pictures, sound recordings and material from social media. 
+
+Spanish radio station Cope said microphones picked up Cala telling Diakhaby "Damn it, leave me alone", then apologising by saying: "Sorry, don't get angry." 
+
+But it reported that investigators had found no evidence that Cala had used racist language. 
+
+Diakhaby, a 24-year-old former Lyon player who has been at Valencia since 2018, said on social media that he had been racially insulted, adding: "That is intolerable, I cannot allow that and you have all seen my reaction." 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Valencia squad lined up behind Diakhaby at their training ground in a public display of support. 
+
+But Cala, a 31-year-old defender, told a press conference on Tuesday he had been a victim of a "circus" and a "witch-hunt" and he was "astonished and embarrassed" when Valencia left the pitch. 
+
+"There is no racism in Spanish football," he said: "There are black players on all teams, they are all super-integrated." 
+
+The Spanish football federation (RFEF) has launched an "extraordinary procedure" against Cala. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
