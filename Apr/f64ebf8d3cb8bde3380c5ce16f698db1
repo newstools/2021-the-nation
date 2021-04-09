@@ -1,0 +1,187 @@
+The attackers reportedly forced their way into the house and started demanding money from her family. Police investigations into the murder of veteran journalist Betty Barasa inside her house on Wednesday night have narrowed down to two possibilities; either her killers were on a robbery mission or she was a target for elimination. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Betty, who worked as a producer with the Kenya Broadcasting Corporation (KBC), was shot dead inside her bedroom by hooded men who had accosted her upon arrival at her residence in Oloolua in Ngong. 
+
+The attackers reportedly forced their way into the house and started demanding money from her family. 
+
+
+
+
+
+
+A detective from the Directorate of Criminal Investigations (DCI) entering the home of the late KBC journalist Betty Barasa on April 8, 2021.
+Photo credit: Kanyiri Wahito | Nation Media Group
+
+ 
+
+According to the police, she arrived home at about 8:30pm. Her friends told Nation that she left her place of work at about 7:30pm in her silver Toyota Prado registration number KBM 994T. 
+
+“As she was driving into the compound, three young men all wearing masks emerged from the darkness, one armed with an AK47 rifle. They commandeered the house help, who had come to open the gate, together with Betty, and forced them into the compound,” said a police report on the incident. 
+
+“They ransacked the house before robbing them of one laptop, a Dell model, worth Sh90,000 and two mobile phones, valued at Sh20,000 and Sh18,000 respectively at gunpoint,” the police said. 
+
+According to her family, however, Betty, who was also a master’s student at Kenyatta University, arrived home in the company of her friend identified only as Tony. The two, who were classmates, were supposed to finalise their theses on Wednesday night. 
+
+Hooded man 
+
+On arrival, the house-help went to open the gate, as she always did, accompanied by the journalist’s son. 
+
+The journalist’s husband, Mr Geoffrey Namachanja, who had been working on a presentation, had reportedly walked to the verandah to meet his wife. 
+
+The house-help said a hooded man wielding a gun accosted her upon opening the gate and forced his way inside. She screamed but was ordered to shut up. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“They threatened to shoot me,” said the house help. 
+
+Meanwhile, a second man, whose face was also covered with a mask, escorted the journalist to the main house. 
+
+All this while, Mr Namachanja was on the verandah, too shocked to comprehend what was happening. His wife and her armed captors walked past the spot where he stood to the sitting room. 
+
+“If I was to be shot, I would have been the first one,” he recalled. 
+
+Upon realising they had passed Mr Namachanja on the verandah, one of the gunmen came back for him. He was still rooted to the same spot. 
+
+
+
+
+
+
+A detective from the Directorate of Criminal Investigations (DCI) taking a picture of a mobile phone believed to belong to the late KBC journalist Betty Barasa who was shot dead by a gun man in her house in Oloolua, Ngong. 
+Photo credit: Kanyiri Wahito | Nation Media Group
+
+ 
+
+By this time, the house-help, who had been left at the gate, realised her luck and ran away as the gunmen demanded money inside the house. 
+
+“I told them that I did not have any money,” recalled Mr Namachanja. 
+
+“They ordered us to lie flat as one of them took my wife upstairs,” he narrated. Two shots rang upstairs, before the gunman came down and told his colleagues, “Huyo nimemalizana naye (I am done with her).” 
+
+The gunmen then left hurriedly and disappeared into the night. 
+
+Terrified, Mr Namachanja ran upstairs to check on his wife. He found her lying on the floor and bleeding profusely. She had been shot in the head. Her body was moved to Montezuma Funeral Home as police embarked on hunting for the killers, who are still at large. 
+
+dogetta@ke.nationmedia.com They forced their way into her house while making monetary demands. A teenager decapitated his grandmother and casually took the severed head in a bucket to the police station, where he surrendered. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
