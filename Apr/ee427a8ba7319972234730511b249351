@@ -1,0 +1,277 @@
+Grief has engulfed Kironge village in Mwatate, Taita-Taveta County, following the shocking incident where a police officer from the area reportedly shot dead his wife and turned the gun on himself on Wednesday in Nairobi. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The story of 33-year-old Hudson Wakise, who worked as a General Service Unit officer seconded to Interior Cabinet Secretary Fred Matiangi’s security detail, shocked not only his family but also the whole village, which looked up to him following his successful career as a young police officer. 
+
+At his home, relatives and friends have been gathering as they try to come into terms with the shocking news. 
+
+Family members who spoke to nation.africa said they could not figure out what could have made their “God-fearing, kind and humble” kin to kill his wife Pauline Wakasa and later take his own life. 
+
+A WhatsApp conversation with his family members painted a picture of a young man who had his life well figured out, with huge promises for his parents and siblings. 
+
+A three-bedroomed house he was building lies unfinished, with construction materials stacked inside half-done structure.  
+
+
+
+
+
+
+
+
+
+
+
+The incomplete house Police Constable Hudson Wakise was putting up in his Kironge village in Mwatate, Taita-Taveta County.
+Photo credit: Kevin Odit I Nation Media Group.
+
+ 
+
+His family said Wakise was planning to complete the house, organise thanksgiving prayers and then move in with his family.  
+
+Speaking to nation.africa, Wakise's sister Esther Wakesho said her brother hardly picked quarrels. Instead, she said, he was a pacifier. 
+
+Ms Wakesho revealed she had talked to her brother on the fateful day and that he did not at all sound like a troubled man. 
+
+"He posted gospel songs on his WhatsApp status. When I asked him about it, he assured me that he would always be there for us. 
+
+He told me how he loved our parents and that he would do anything for them to live a happy life," she said. 
+
+Ms Wakesho added that they came to learn that his sister-in-law had moved out from her matrimonial home after the gruesome incident. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"The couple had always shown their undying love for each other and always seemed happy whenever we visited them at their Nairobi home," she added. "We loved Pauline. She was like a sister to us and we have never had any issues with her." 
+
+Wakise, the seventh-born in a family of nine, went to Kironge Primary School and later Mwanyambo Secondary School. He joined the General Service Unit (GSU) in 2013, where he met his wife Pauline. They had two daughters.  
+
+Wakise took part in the rescue mission at Dusit D2 complex terror attack in Nairobi in January 2019.  
+
+Until his death, he worked at the Ministry of Interior, in the VIP protection unit. 
+
+"My parents later revealed that they received a call from him saying he wanted them to travel to Nairobi to reconcile him and his wife. Due to the current lockdown, my mother called my sister and asked her to go and talk to them. Unfortunately, she could not make it due to work-related commitments," she says. 
+
+However, Wakasa's relatives paint a different picture of their in-law, who had married their sister for six years. 
+
+They said Pauline had always complained to them about her husband. They cited alcoholism, infidelity and occasional violence as the reasons that made her move out of her matrimonial home. 
+
+As his family prepares to lay Wakise to rest in Kironge, Taita-Taveta County on Thursday next week, Pauline’s family has made arrangements to have her body buried at her home in Matsakha B village, Kakamega County, on Sunday. 
+
+"Our wish was for us to bury our children here. We know this is a very difficult moment for both our families but they should allow us to inter them at one graveyard," said Wakise's uncle, Mr Nashon Mwambanga. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A pensive Nashon Mwambanga, the uncle to Police Constable Hudson Wakise's at their home in Kironge village,  Mwatate, Taita-Taveta County.
+Photo credit: Kevin Odit I Nation Media Group.
+
+ 
+
+Mr Mwambanga described his nephew as a young man of many firsts in the village.  
+
+He was the first person to get employed in the security forces, the first to buy a matatu – which plied the Ronge-Voi route – and to construct a modern house in the remote area.  
+
+"We have always told our children to follow in his footsteps. He used to advise his peers to work hard," he says. 
+
+Another resident, Ms Agnes Mwang'ombe, said the whole village is mourning Wakise.   
+
+"Everyone is shocked because we had hopes that one day he would rise to help this village,” she said.  
+
+She narrated how they would get excited whenever they saw him on television while accompanying Dr Fred Matiang'i. 
+
+"There was a day we all rushed to the TV just to see him behind the CS. We hoped he would go far and one day make us prouder," she said. 
+
+Due to the Covid-19 restrictions, only a few members are gathering at the deceased’s homestead to console the family. 
+
+"We are waiting for more information from those in Nairobi. The family is planning to conduct the burial on Thursday," his brother Wilson Mwanjila said. 
+
+lmkanyika@ke.nationmedia.com  Inspector General of Police Hillary Mutyambai said the couple had a quarrel before the shooting incident. GSU officer shoots dead his wife of six years then turns deadly weapon on himself. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. Prince Philip didn’t feature anywhere in the line of succession.
