@@ -1,0 +1,161 @@
+DP Ruto and his troops have recently toned down their attacks on the ODM leader, with their allies openly saying they could be secretly crafting an alliance. ODM leader Raila Odinga on Friday hosted his deputy Wycliffe Oparanya at his Karen home in Nairobi, barely 48 hours after the Kakamega governor held a meeting with Deputy President William Ruto. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The meeting at Mr Odinga's home allowed Mr Oparanya to brief his boss about his Wednesday meeting with Dr Ruto. 
+
+According to the governor, the DP had proposed an alliance between the two though the significance of the proposal was not immediately clear as the parties insisted the meeting had not been planned. 
+
+DP Ruto, who was accompanied by former Cabinet Secretaries Mwangi Kiunjuri and Rashid Echesa, met Mr Oparanya at Mahali Mzuri, a camp owned by Sir Richard Branson in Olare Motorogi Conservancy, in the Maasai Mara. 
+
+On Friday, Mr Oparanya confirmed meeting Mr Odinga at his home "where I had an opportunity to brief him on party matters and also about my impromptu meeting with the DP". 
+
+"Just a coincidence" 
+
+Mr Oparanya said Kenyans should not read too much into his meeting with Dr Ruto. 
+
+"People are making the meeting look so big yet it was not even planned. It was just a coincidence and as usual, politics could not miss out because we are politicians," Mr Oparanya said. 
+
+Devolution Cabinet Secretary Eugene Wamalwa was also present at Mr Odinga's home but nation.africa could not reliably establish whether he was also part of the talks as he declined to comment when reached. 
+
+Mr Oparanya has in recent days taken an unusual stand on Mr Odinga’s pet project —the Building Bridges Initiative (BBI). He told a meeting weeks ago that a referendum in the middle of a pandemic should not be a priority, a narrative popular with the Ruto camp. 
+
+In an uncharacteristic departure from the ODM script, the Kakamega county boss asked the government to shelve plans for the plebiscite and instead spend the money on buying Covid-19 vaccines. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The second-term governor, alongside his contemporary in ODM, Mombasa Governor Ali Hassan Joho, has also sought the party’s ticket to contest the presidency. 
+
+Attacks fewer 
+
+DP Ruto and his troops have recently toned down their attacks on the ODM leader, with their allies openly saying that they could be secretly crafting an alliance. 
+
+The attempt to bring Dr Ruto and Mr Odinga together comes following the formation of the One Kenya Alliance bringing forth party leaders Kalonzo Musyoka (Wiper), Musalia Mudavadi (ANC), Gideon Moi (Kanu) and Moses Wetang’ula (Ford K) who are said to have President Kenyatta –or his team’s- soft spot. 
+
+On Friday, ANC deputy party leader Ayub Savula told nation.africa that Mr Oparanya's latest moves have "confirmed our fears that he has been dripping towards (Dr) Ruto's Tangatanga." 
+
+"The Luhya Nation now know their enemies. We have all along said Oparanya is leaning towards Tangatanga to divide the community's votes and this is now clear,"  he said. 
+
+"We must remain steadfast against such characters eager to divide Mudavadi's votes." 
+
+jjochieng@ke.nationmedia.com Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. Tangatanga lawmakers want the Sh14.39bn allocated for the exercise to be channeled towards war on pandemic. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
