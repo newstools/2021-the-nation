@@ -1,0 +1,320 @@
+Her grave is completely overgrown with grass. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+If it were not for a little plant that apparently sprouted from one of the flower cuttings put into the fresh soil on the day of her burial, one would not tell whether a body was interred here just four years ago. 
+
+The life of nine-year-old Stephanie Moraa Gisemba was snuffed out by a single bullet fired by a trigger-happy police officer during the 2017 General Election. 
+
+
+
+
+
+
+
+
+
+
+
+Stephanie Moraa (center) who was shot dead at Mathare North area 2 protests on August 12, 2017. The protestors were demonstrating against reelection of President Uhuru Kenyatta.
+Photo credit: File
+
+ 
+
+At her parents’ home in Kitutu Chache North Constituency, Kisii County, there is, however, little to remind you of the sad incident. 
+
+Her photos have long been removed from the sitting-room wall and kept in the bedroom, as the family struggles to cope with their loss. 
+
+But her mother, Ms Damackline Marube, says the shooting incident is still fresh in her mind and no matter how much she tries to forget it, it just won’t go away. 
+
+“I have tried everything I could to forget the pain of losing my daughter most horrifically, but it is as if it has just happened. Every day, the incident is fresh in my mind. The recent loss of her court case was the last nail in the coffin of our long search for justice,” said Ms Marube at her home in Manga-Isecha village. 
+
+
+
+
+
+
+
+
+
+
+
+Relatives and friends view the body of the late Stephanie Moraa ahead of her burial on August 25, 2017.
+Photo credit: File
+
+ 
+
+2017 General Election 
+
+Moraa was shot dead as she played with other children on the balcony of their home in Mathare North Area 2 in Nairobi during the protests that followed the 2017 General Election. 
+
+The identity of the officer who fired the fatal shot remains unknown. 
+
+“The case has taken very long and eventually no justice for my little girl. The suspected killer never showed up in court throughout the entire proceedings,” said Ms Marube. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The 37-year-old says the government should at least compensate them to wipe away their tears. 
+
+“Now that the court case has not yielded any justice for our daughter other than adding us more pain, we plead with the government to compensate us for the loss we suffered. She would by now be a Standard Eight candidate,” said Ms Marube. 
+
+
+
+
+
+
+
+
+
+
+
+Ms Damackline Marube stands next to the disappearing grave of her daughter Stephanie Moraa, who was shot dead by police in 2017.
+Photo credit: Ruth Mbula | Nation Media Group
+
+ 
+
+Ms Marube left Nairobi after the Covid-19 pandemic hit the country in March last year. She had been doing menial jobs in the capital city just like her husband, Mr George Mokaya. 
+
+Mr Mokaya remained in Nairobi to help fend for his family. 
+
+Moraa’s parents say the Building Bridges Initiative, whose agenda is to stem the cycle of electoral chaos every five years and unite Kenyans, now means little to them. 
+
+They say it is a good idea to call for peaceful elections and ethnic cohesion, but that would remain a pipe dream as long as old wounds are not treated and left to heal through justice for affected families. 
+
+Third-born child 
+
+The couple has since been blessed with a third-born child who is now aged two years. 
+
+Their firstborn is now in Form One. The late Moraa was the second-born. 
+
+
+
+
+
+
+
+
+
+
+
+George Mokaya, the father of Stephanie Moraa.
+Photo credit: File
+
+ 
+
+Efforts by the Independent Policing Oversight Authority (Ipoa) and the Director of Public Prosecutions (DPP) to have the identity of the killer known through an inquest have proved futile after the police service decided to protect one of their own from facing justice. 
+
+"I am almost certain that if the police service wished to identify and bring to book the officer who took away the life of Stephanie Moraa Gisemba, it would not take them a day to do so. I find that the death was by deliberate shooting by a police officer whose identity has been frustrated by fellow police officers covering for one another under the blue code of silence," Milimani Chief Magistrate Francis Andayi said last month while closing the inquest. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Cylock Bogonko, Moraa’s cousin, says things have never been the same for the family. 
+
+“Her mother is always in tears. She needs counselling to help her deal with the trauma that emanated from the scene of crime and the condition of her daughter at the time of her death. She watched her daughter die and that picture has never left her mind,” said Mr Bogonko. 
+
+Moraa had a hole in the chest and lay in a pool of blood. 
+
+Mr Bogonko says the family was treated unfairly, since other victims, such as Samantha Pendo, who was also killed in Kisumu during the 2017 election protests, got justice. 
+
+The inquest into the killing of Baby Pendo ruled that the National Police Service was liable for the death of the six-month-old. 
+
+A Kisumu court found police commanders on the night Baby Pendo was clobbered in their house in Nyalenda slums Kisumu culpable for her death. 
+
+
+
+
+
+
+
+
+
+
+
+Chief magistrate Francis Andayi.
+Photo credit: Ruth Mbula | Nation Media Group
+
+ 
+
+Resident Magistrate Beryl Omollo said evidence adduced in court overwhelmingly indicted senior police officers. 
+
+rmbula@ke.nationmedia.com The baby was clobbered to death by a policeman in the aftermath of the August 2017 general election. Magistrate says police employed what has been described as the 'blue code of silence' in this case. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
