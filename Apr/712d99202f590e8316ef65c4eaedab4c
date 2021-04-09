@@ -1,0 +1,249 @@
+25 - Top scorer Cristiano Ronaldo's goals10 - Inter Milan's league winning run8 - AC Milan's wins in 15 league games in 20214 - Juve's points from their last three games Milan, Italy 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+AC Milan travel to relegation-threatened Parma desperate to cling onto second place in Serie A this weekend and stay on course for the Champions League as city rivals Inter can tighten their grip on top spot against lowly Cagliari. 
+
+Seven-time European champions Milan have taken four points from their last three games to drop 11 points behind Inter who are closing in on a first Serie A title in over a decade. 
+
+Zlatan Ibrahimovic's Milan had been leading at the winter break as they target a first 'Scudetto' since 2011, but have faltered since January. 
+
+Champions Juventus are just one point behind Milan in third before hosting 13th-placed Genoa with Atalanta a further point adrift ahead of their trip to Fiorentina, who will be without suspended midfielder Franck Ribery. 
+
+Despite their poor home form, Milan have lost just once on the road and take on 19th-placed Parma who have won just three games this campaign. 
+
+"We're heading into the decisive part of the season," said Milan coach Stefano Pioli as they seek a return to the Champions League for the first time since the 2013-2014 season. 
+
+"But it's a bit premature to be doing these (Champions League) calculations, especially as we still have a lot of games against direct rivals still to play." 
+
+Antonio Conte's Inter are riding high with 10 consecutive wins and take on Cagliari, who are in the relegation zone, and on a three-game losing run. 
+
+"Every time we win, it's another big step forward, it also weighs heavily on those who are pursuing us," said Conte. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We're now much more mature and solid than we were in the past. It'd be great to win a trophy again after such a long time and end Juventus' streak." 
+
+The race for Champions League football next season remains tight. 
+
+Napoli are two points off fourth after losing their midweek clash at Juventus, and next travel to mid-table Sampdoria. 
+
+Juve's win against Gennaro Gattuso's side gave novice coach Andrea Pirlo some breathing space as the champions' nine-year reign looks set to end. 
+
+"Mistakes? Yes, there are things that I messed up, but the first year of a coach is not easy. It will serve me well in the future," said Pirlo. 
+
+"We must learn from these mistakes as we want to play our last 10 matches as best we can and get ready for the Coppa Italia final." 
+
+Lazio, in sixth, play away at Hellas Verona without coach Simone Inzaghi, who tested positive for Covid-19. 
+
+Behind in seventh, city rivals Roma host Bologna looking to end a three-match winless league run boosted by their 2-1 Europa League quarter-final, first leg win at Ajax.One to watch: Paulo Dybala 
+
+Juventus can again count on Paulo Dybala who returned after three months out with a knee injury to score against Napoli. 
+
+"When you have a player like him, you try to play him as much as possible, he raises the level," said Pirlo. 
+
+The Argentina international has scored 99 goals in 245 appearances for Juventus since joining in 2015 from Palermo.Key stats 
+
+25 - Top scorer Cristiano Ronaldo's goals 
+
+10 - Inter Milan's league winning run 
+
+8 - AC Milan's wins in 15 league games in 2021 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+4 - Juve's points from their last three games 
+
+Fixtures (times GMT) 
+
+Saturday 
+
+Spezia v Crotone (1300), Parma v AC Milan (1600), Udinese v Torino (1845) 
+
+Sunday 
+
+Inter Milan v Cagliari (1030), Hellas Verona v Lazio, Juventus v Genoa, Sampdoria v Napoli (all 1300), Roma v Bologna (1600), Fiorentina v Atalanta (1845) 
+
+Monday 
+
+Benevento v Sassuolo (1845) Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
