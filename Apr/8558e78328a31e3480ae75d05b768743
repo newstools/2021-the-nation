@@ -1,0 +1,153 @@
+Seven-year-old Sammy (not his real name) is playing hide and seek in the dusty slums of Lake View, one of Nakuru's sprawling informal settlements unaware that his mother is not at the house. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Sammy, who lives in the slum which is home to more than 3,000 people, says his mother left two weeks ago in search of food and has never returned. 
+
+This is not an isolated incident for many children in the slums of Nakuru including Manyani, Kaptembwo, Kwa Murogi, Flamingo, Kivumbini, Kwa Rhonda among others have been abandoned since the outbreak of Covid-19. 
+
+Ms Grace Apiyo Juma from the slums of Lake is a mother of five including one-year-old triplets. 
+
+"Life in these slums of Lake View has not been easy since the outbreak of Covid-19. My husband left us and has never returned and this has seen me carry a big burden of feeding the children which is increasingly becoming difficult," said Ms Apiyo. 
+
+She said that sometimes, she locks up the children in the house as she goes to look for menial jobs in the neighbouring estates such as Racecourse and Pangani. However, since the lockdown to tame the spread of Covid-19 was put in place, she has not been lucky. 
+
+"My clients have been also hard hit by the lockdown, having lost their jobs," said Ms Apiyo. 
+
+She said that getting clean water and paying house rent has become difficult due to loss of income. 
+
+"We buy water and a 20 litre jerrycan costs Sh20, this is not enough for domestic use," she added. 
+
+Along the busy Eldoret road, Ms Priscilla Kimani is staring at her kiosk which is virtually empty. 
+
+"I used to stock fresh vegetables but today I'm counting losses as my customers are no longer coming. I leave my three-year-old girl in the house. It's risky, but it is better to be out rather than stay indoors," she said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Ms Irene Muli Nzuki recently mobilised well-wishers to buy foodstuffs and clothes for one of the residents who is struggling to feed her triplets. 
+
+"These are hard times and I appeal to wealthy residents and churches of Nakuru who have food and clothes to help the residents who are suffering due to the pandemic," said Ms Muli 
+
+Pastor Stephen Wambua of Christ Seekers Ministry Lanet, Nakuru appealed to Kenyans to assist the poor in the slums. 
+
+fmureithi@ke.nationmedia.com Lobby group says thousands have lost their livelihoods yet the government is not offering solutions. The number of confirmed cases in the country has risen by 1,091 to 144,154. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
