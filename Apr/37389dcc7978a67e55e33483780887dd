@@ -1,0 +1,349 @@
+Kenya has rejected a United Nations agency roadmap for the closure of refugee camps that stretches to December 31 next year. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenyan government on March 23 decided to close Dadaab and Kakuma refugee camps, which collectively host over 500,000 people, a majority of whom are from Somalia, and gave the United Nations High Commissioner for Refugees (UNHCR) two weeks to present a plan for the shutdown. 
+
+Nairobi said the two camps that have been in operation since the early 1990s, when Somalia plunged into civil war, have turned into breeding grounds for terrorism, including planning of terror attacks against Kenyans by al-Shabaab militants. 
+
+On Tuesday, UNHCR responded that finding an alternative home for the refugees requires time and proposed a repatriation plan whose implementation “leading to the camps’ closure lasts until December 31 2022”. 
+
+However, the Kenyan government regrets UNHCR is buying time through an open-ended process and has instead demanded another proposal with a “reasonable timeline”. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International organisations fault Kenya’s move to close down refugee camps
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Interior Cabinet Secretary Fred Matiang’i will next week lead Kenyan officials in fresh talks with the UN team led by UNHCR representative in Kenya, Ms Fathiaa Abdalla, at which the government will communicate rejection of the roadmap and ask for a definite closure date. 
+
+Dr Matiang’i has, however, assured that Kenya will give diplomacy a chance because “we are a responsible government that wants to play by the rulebook”.  
+
+But Nairobi hastened to add that it reserves the right to act to protect Kenyans if there’s no amicable agreement. 
+
+“We are willing to listen to guidance but we must bring this to an end. Refugee camps are not permanent features. They are supposed to be temporary facilities. How can we continue shouldering the burden for three decades?” Dr Matiang’i posed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Read: Fewer refugees willing to leave Dadaab for Somalia- UN 
+
+As of February 28 this year, Kenya was hosting 512, 494 refugees and asylum seekers – 224,462 in Dadaab and 206,458 in Kakuma. Some 81,574 are in urban areas. 
+
+Nairobi wants a definite date for the camps’ closure, citing the collapse of another repatriation plan in 2016 that was blamed on lack of goodwill from the international community. 
+
+At the time, donors reneged on a deal to contribute towards the repatriation plan, with Kenya the only contributor, having put in $10 million (Sh1 billion).   
+
+Closing facilities 
+
+Kenyan officials term the UNHCR plan unreliable, saying it proposes 100,000 refugees would be moved to other countries like Ethiopia, South Sudan, Canada, Burundi and the US, but is silent on the fate of more than 400,000.  
+
+Kenya wonders why refugees from stable East African countries should be in refugee camps if UNHCR and the international community were committed to closing the facilities. 
+
+A majority of the 512,494 refugees are from Somalia (274,299) while the rest are from neighbouring countries. The refugee economy involves big money. Between 2016 and the end of last year, UNHCR says it received $549 million (Sh54.9 billion) from the donor community in support of the refugee programme in Kenya. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenyan govt explains why it wants to close refugee camps
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Kenya hosts 127,412 refugees from South Sudan, DRC (46,024), Ethiopia (29,718), Burundi (17,286), Rwanda (1,917), Eritrea (1,955), Uganda (2,739), Sudan (10,199) and 945 from other nationalities. 
+
+“Can there be a justification for having Ugandans, Burundians and Rwandese in Kenyan camps? A decision must now be made by UNHCR. If they don’t, they can’t take away our right to determine our internal affairs and protect our citizens,” said a Kenyan official.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Last week, Dr Matiang’i held a meeting with ambassadors of East African countries whose nationals are in Kenya as refugees. 
+
+Besides straining resources, Kenya has protested that the two sprawling camps pose a threat to security, undermine the country’s economy through illicit trade and abet environmental degradation. 
+
+“This thing is like marking time. We must now prepare exit visas for those departing to other countries, and the rest will be taken to the border for their country to take them up. We can’t continue spending too much money thwarting terror attacks when we can resolve the problem by closing the camps,” added another official. 
+
+The urgency to shut down the camps was sparked by three terror attacks that claimed the lives of more than 100.  
+
+Kenya cited intelligence that terror attacks on Westgate mall in 2013, Lamu’s Mpeketoni in 2014 and Garissa University in 2015 were planned from the camps. 
+
+Sources say Kenyan security services have also foiled attacks targeting a church and a school. Suspects were traced to the camps. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Womb of Terror: Is Dadaab camp a security threat to the country?
+
+
+
+
+window.hasEmbeddedVideo = true;
+ 
+
+Besides abandoning Kenya to foot the bills alone, Nairobi has also protested that the world powers have frustrated attempts to have the al-Shabaab, who operate from bases in war-torn Somalia, designated as a terrorist organisation. 
+
+Shabaab operations 
+
+A resolution to brand the militants a terror group has in the past been shot down at the United Nations Security Council, with opponents saying doing so would hamper humanitarian work in war-torn Somalia. 
+
+Nairobi says proceeds from the contraband trade including smuggling of sugar from Somalia into Kenya have been used to finance al-Shabaab operations.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Kenyan officials have denied the decision to shut down the refugee camps had anything to do with the maritime boundary case with Somalia, arguing that the repatriation process started in 2016, before the dispute had been filed at the ICJ. 
+
+andegwa@ke.nationmedia.com Family says he passed away peacefully this morning at Windsor Castle. They require special permission for exports and imports from the United States. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
