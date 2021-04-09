@@ -1,0 +1,519 @@
+Much like the rest of the world, Kenyans are excited about the availability Covid-19 vaccines in the hopes getting the jab will reduce possibility of serious illness in the event that they contract the deadly virus. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+There are already two vaccines in the market: the government is offering the Oxford-AstraZeneca drug for free in several public and private hospitals while the Russia-made Sputnik V vaccine is available in various private facilities for a fee. In a news briefing last week, however, Health Cabinet Secretary Mutahi Kagwe announced that the government has banned importation, distribution and administration of vaccines by the private sector, which leaves the fate of the Sputnik V vaccine in the Kenyan market uncertain. 
+
+That said, should you decide to go for either of the two vaccines, here are more than 600 health centres where you can get them: 
+
+AstraZeneca vaccine  
+
+Nairobi County 
+
+Kenyatta University Teaching Refferal and Research Hospital Mama Lucy Kibaki Hospital - Embakasi Mutuini Sub-District Hospital Mathari Hospital Kenyatta National Hospital Moi Air Base Hospital Pumwani Maternity Hospital National Spinal Injury Hospital Memorial Hospital Mbagathi District Hospital Nairobi Adventist Hospital Better Living Hospital Ruaraka Uhai Neema Hospital St Francis Community Hospital (Kasarani) The Mater Misericordiae Hospital Jamaa Mission Hospital Jumuia Hospital Huruma Coptic Hospital St Mary's Mission Hospital Mediheal Hospital Parklands Garden Specialist Hospital Health Gate Hospital RFH Specialist Hospital Radiant Group Of Hospitals Kasarani Sportsview Mediheal Hospital Eastleigh Drive-In Nursing Hospital-Ruaraka The Nairobi Hospital Warwick Outpatient CenterBristol Park Hospital Utawala Radiant Hospital Kasarani Annex South C Hospital Limited(South C) Lions Sightfirst Eye Hospital Melchizedek Hospital Karen The Mater Hospital (Westlands) Mariakani Cottage Hospital Utawala Juja Road Hospital (Nairobi) Ladnan Hospital St Louis Community Hospital Bristal Park Hospital South B Hospital Ltd St Mac's Hospital Nairobi Womens Hospital Adams Nairobi Hospital MP Shah Hospital (Westlands) Meridian Equator Hospital Mariakani Cottage Hospital Ltd St Francis Com Hospital Umoja Hospital Mother & Child Hospital Dorkcare Nursing Home Langata Hospital Kayole Hospital The Karen Hospital Gertrudes Childrens Hospital Guru Nanak Hospital Huruma Maternity Hospital Compassionate Hospital Avenue Hospital Aga Khan Hospital Nairobi Womens Hospital (Hurlingham) 13117 PrivateMelchezedek Hospital Radiant Pangani Hospital Nairobi West Hospital Metropolitan Hospital Nairobi Nairobi South Hospital  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kiambu County  
+
+ACK Emmanuel Mission Hospital Oasis Mission Hospital Holy family catholic hospital githunguri Kalimoni Hospital (Ruiru) Neema Hospital (Ruiru) Nazareth Hospital (Ruiru) Cure (AIC) International Hospital Kalimoni Mission Hospital (Juja) Mary Help of The Sick Hospital Kikuyu (PCEA) Hospital Nazareth Hospital St Mulumba Mission Hospital Kijabe (AIC) Hospital Immaculate Heart Hospital Kereita Immaculate Heart of Mary Hospital Wangige Sub-County Hospital Nyathuna Level 4 Hospital JKUAT Hospital Kihara Sub County Hospital Igegania Sub-District Hospital Gatundu District Hospital Lari Hospital Thika Level 5 Hospital Tigoni District Hospital Ruiru Sub-County Hospital Kiambu County Referal Hospital Karuri Level 4 Hospital Lusigetti Sub-county Hospital Kigumo Level 4 hospital Life Point Hospital Oakwood Hospital Thika Nursing Hospital St Joel Community Hospital Wendo Hospital Gatukuyu St.Marys Mother & Child Hospital (Kiambu Town ) Kabete Gardens Hospital Arise Hospital Limited Juja Modern Hospital & Maternity Caritas community hospital Avenue Hospital Thika 226 Radiant Group of Hospital (Kiambu) St.Teresa Hospital Kiambu St Marks Hospital St Judes Nursing Home Hospital Mercylight Hospital Central Memorial Hospital Naidu Hospital Kahawa Wendani Hospital Eddiana Hospital Vineyard Hospital Ruiru Hospital Limited Mt Sinai Nursing Home Caritas community hospital (Township) Thika Nursing Home  
+
+Machakos County 
+
+Mwala Level 4 Kathiani Level 4 Muuma Andu Level 4 Athi River Level 4 11936  Public 134 Kangundo Kangundo Level 4 Matuu Level 4 Masinga Level Nguluni Level Mutuini Level Mutyambua Subcounty Hospital (Level IV) Mukuyuni Subcounty Hospital (Level IV) Tawa Subcounty Hospital (Level IV) Matiliku Subcounty Hospital (Level IV) Makindu Subcounty Hospital (Level IV) Mbooni Subcounty Hospital (Level IV) Kisau Subcounty Hospital (Level IV) Sultan Hamud Subcounty Hospital (Level IV) Makueni County Referral Hospital (Level V)  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nakuru County 
+
+Bahati District Hospital Optimum Current Health Care Hospital Mediheal Hospital (Nakuru) Annex Soin sub county hospital St Joseph RiftValley Hospital Gilgil Military Regional Hospital Elburgon Sub-District Hospital Mirugi Kariuki Sub County Hospital Bondeni Sub County Hospital Mediheal Hospital Nakuru Baraka Maternity Home Naivasha District Hospital Kabazi Sub County Hospital Nairobi Women hospital - Nakuru CBD Subukia Sub County Hospital Langa Langa Hospital Polyclinic Hospital Sunrise Evans Hospital Nakuru Provincial General Hospital Gilgil Sub County Hospital Olenguruone Sub-District Hospital Keringet Sub County Hospital Nakuru Nursing Home Molo District Hospital Njoro Subcounty Hospital Annex Hospital (Nakuru) Nakuru War Memorial Hospital The Karen Hospital Limited (Naivasha) St Mary's Hospital Egerton University Nairobi Women's Hospital Valley Hospital Alexandria Cancer Centre & Palliative care Hospital Mercy Mission Hospital - Annex Nakuru  
+
+Kajiado CountyKajiado County Referral Hospital Loitokitok Sub-County Hospital Kitengela Sub-County Hospital Ngong Sub-County Hospital Ongata Rongai Sub-County Hospital  
+
+Mombasa County 
+
+Coast General Teaching and Referal Hospital Port Reitz Hospital Tudor Sub County Hospital Likoni Sub County Hospital Aga Khan Hospital Mombasa Mombasa Hospital Pandya Memorial Hospital Jocham Hospital Premiere Hospital  
+
+Kwale County 
+
+Msambweni CRH Kwale Sub County Hospital Kinango Sub County Hospital Samburu Sub County Hospital Diani Beach Hospital Kinondo Hospital  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Kilifi County 
+
+Kilifi county hospital Malindi sub county hospital Mariakani sub county hospital Bamba sub county hospital Jibana sub county hospital Tawfiq hospital Meridian hospital Star hospital Afya hospital Josmori hospital Mariakani military hospital Swiss hospital Watamu hospital  
+
+Tana River County  
+
+Hola County Referral hospital Ngao Sub county hospital 32 Bura Sub County hospital 
+
+Lamu County 
+
+Lamu Refferal Hospital Faza Sub County Hospital Mpeketoni Sub County Hospital  
+
+Taita Taveta County 
+
+Moi County Refferal Hospital Mwatate Sub County Hospital Wesu Sub County Hospital Taveta Sub County Hospital St Joseph Shelter of Hope River Jordan Medical Centre  
+
+Garissa County 
+
+Dadaab Sub-County Hospital Balambala Sub-District Hospital Ijara District Hospital - Masalani Modogashe Sub-County Hospital Bura District Hospital Hulugho Sub County Hospital Iftin Sub-District Hospital Garissa County Referral Hospital Ifo Hospital MSF Dagahaley Main Hospital Hagadera Hospital Medina Hospital  
+
+Wajir CountyEldas Sub County Hospital Tarbaj Sub County Hospital Wajir County Referral Hoaspital Bute Sub County Hospital Habaswein Sub County Hospital Griftu Sub County Hospital  
+
+Mandera CountyMandera County Referral Hospital Subcounty Hospital Mandera West Sub county Hospital Lafey sub county Hospital Mandera Central Sub County Hospital Banissa Sub county Hospital Kutulo Sub county Hospital Laisamis Sub county Referral Hospital(Marsabit South)  
+
+Marsabit CountyMoyale Sub county Referral Hospital 12544 Public Marsabit County Referral Hospital 12472 Public Kalacha Sub County Referral Hospital (Chalbi) 12142 Public Catholic Hospital Laisamis 16215 FBO Ismc Hospital 12066 Private Sololo Mission Hospital 12739 FBO  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Isiolo CountyIsiolo County Referral Hospital Garbatulla Sub County Hospital Merti Sub County Hospital  
+
+Meru CountyMikumbune Sub-District Hospital 12526 Public Muthara Sub-District Hospital Cottolengo Mission Hospital Nyambene District Hospital Mikinduri Sub-District Hospital Consolata Mission Hospital (Nkubu) Githongo District Hospital Giaki Sub-District Hospital Kangeta Health Centre Imenti South Kanyakine District Hospital Buuri St Theresa Hospital (Kiirua) Kinoro Sub-District Hospital Mbeu Sub-District Hospital Maua Methodist Hospital Mutuati Sub-County Hospital St Ann Hospital Buuri Timau Sub-County Hospital St John of God Hospital Tigania Miathene District Hospital  
+
+Tharaka Nithi County96 Chuka county referral hospital 97 PCEA Chogoria hospital 98 Magutuni sub-county hospital 99 Tharaka subcounty hospital 100 Komarock Modern hospital 101 Kibung'a hospital 102 Gatunga hospital 103 st Orsola Hospital  
+
+Embu County 
+
+Embu Level 5 hospital Runyejes Level 4 hospital Mbeere Level 4 hospital Ishiara Level 4 hospital Embu Children's Hospital Tenri Consolata Kyeni Mission Hospital  
+
+Kitui CountyNeema Hospital Ltd. Annex The Kitui Family Care Hospital Zombe Sub-County Hospital Katulani Sub-County Hospital (Kitui) Mutomo Sub-County Hospital Mutitu Sub-County Hospital Muthale Mission Hospital Migwani Sub-County Hospital Kitui County Referral Hospital Jordan Hospital Our Lady of Lourdes Mutomo Hospital Kauwi Sub-County Hospital Ikanga Sub-County Hospital Ikutha Sub-County Hospital Kyuso Sub-County Hospital Mwingi Sub-County Hospital Kanyangi Sub-County Hospital Neema Hospital Tseikuru Sub-County Hospital Nuu Sub-County Hospital  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Makueni CountyKibwezi Subcounty Hospital (IV) Kambu Subcounty Hospital (IV) Mtito Andei Subcounty Hospital (IV) Kilungu Subcounty Hospital (IV) Kikoko Mission Hospital (IV) Ralpha Hospital Royal Star Hospital Ponya Hospital Kilome Nursing Home Mulatya Memorial Hospital  
+
+Nyandarua CountyJM Kariuki County Referral Hospital Engineer County Hospital North Kinangop Catholic Hospital The Pine Hospital Pinnacle Flyover Hospital  
+
+Nyeri CountyNyeri County Referral Hospital KNH AnnexMt Kenya Hospital  
+
+Kirinyaga CountyKerugoya county referral hospital Our Lady of Roudes Mwea Mission Hospital Kimbimbi Sub-county Hospital Sagana Sub-county hospital Kianyaga Sub-county hospital ACK Mt Kenya Hospital Kerugoya Medical Centre Mwea Medical Centre  
+
+Murang'a County Murang'a County Referral Hospital Muriranjas Sub-county Hospital Family Heritage Hospital Kangema Sub-county Hospital Maragua Sub-county Hospital Kenol Hospital Kirwara Sub-county Hospital Kandara Sub-county Hospital Githumu Hospital Gaichanjiru Hospital Kigumo Sub-county Hospital Kiria-Ini Mission Hospital  
+
+Turkana CountyLodwar County Referral Hospital Lopiding Sub-county Hospital Lokitaung Sub-county Hospital Kapedo Sub-county Hospital Kakuma Sub-county Hospital Lorugum Sub-county Hospital Kanamkemer Sub-county Hospital Katilu sub county Hospital Lokichar Sub-county Hospital Lokori Sub-county Hospital Elelea Sub-county Hospital Kaikor Sub-county Hospital Kakuma Mission Hospital Ammusait General Hospital  
+
+West Pokot CountyKapenguria County Referral Hospital Sigor Sub-county hospital Chepareria Sub-county hospital Kacheliba Sub-county hospital Ortum Mission Hospital  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Samburu CountySamburu Central Samburu County Referral Hospital  
+
+Tranz Nzoia CountyKitale County Hospital Mt Elgon Hospital Kwanza Sub-county hospital Endebess Sub-county hospital Matunda Sub-county hospital Cherengany Sub-county hospital Kapsara Sub-county hospital Saboti Sub-county hospital  
+
+Uasin Gishu CountyKapseret Kapteldon Sub county Hospital 14779 Public Kesses Kesses Sub County Hospital 14841 Public Soy Ziwa Sub County Hospital 15788 Public Ainabkoi Burnt Forest Sub County Hospital 16347 Public Turbo Turbo Sub County Hospital 15753 Public Moiben Moiben Sub County Hospital 15206 Public Moiben Uasin gishu district Hospital 15758 Public Turbo Huruma Sub County Hospital 14555 Public Ainabkoi Mediheal Hospital-Eldoret 15167 Private Ainabkoi Moi Teaching & Referral Hospital Public Ainabkoi Eldoret Hospital 14435 Private Turbo Moi Barracks-Eldoret Military  
+
+Elgeyo Marakwet County Keiyo North Iten County Referral Hospital  
+
+Nandi CountyKapsabet county referral hospital Nandi Hills County hospital Kaptumo sub county hospital Meteitei sub county hospital Kabiyet sub county hospital Chepterwai sub county hospital Mosoriot sub county hospital  
+
+Baringo CountyKabarnet Bliss Medical Center Mogotio Sub-County Hospital Baringo Marigat Sub District Hospital Mercy Hospital Baringo County Refferal Hospital Chemolingot District Hospital Eldama Ravine District Hospital Kabartonjo Referral Hospital Tangulbei Sub county Hospital  
+
+Laikipia CountyNanyuki Teaching and Referral Hospital 298 Nyahururu County Referral Hospital  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Narok CountyNarok County Referal Hospital Lolgorian Sub District Hospital Baraka Hospital The Shepherd Hospital Limited Narok Cottage Hospital Medicatia Hospital Ololulunga District Hospital Transmara West Sub County Hospital St Joseph Hospital  
+
+Kericho CountyKapkatet Sub County Hospital AIC Litein Hospital St Gabriel Hospital Roret Sub County Hospital Sigowet Sub County Hospiotal Sosiot SCH Kericho County Referral Hospital Kericho Nursing Home Siloam Hospital St Leonards Hospital UTK Central Hospital Green View Hospital Londiani Hospital Kipkelion Sub County Hospital Fort Ternan SCH Kipchimchim Hospital  
+
+Bomet CountyBomet East Longisa County referral Hospital  
+
+Kakamega County Kakamega General and Referral Hospital Likuyani Sub County Hospital Lumakanda County Hospital Malava County Hospital Shinyalu Model Health Centre Iguhu County Hospital Khwiseo Health Centre Butere County Hospital Matungu Sub County Hospital Navakholo Sub County Hospital Mumias West Sub County Hospital Shianda Health Centre  
+
+Vihiga CountyHamisi sub county hospital Sabatia sub county hosp Lemuhaya subcounty hospitalKaimosi mission Coptic mission hospital Sabatia Eye Hospital  
+
+Bungoma Hospital Bungoma county referral hospital Bumula subcounty hospital Kimilili subcounty hospital Chwele subcounty hospital Mt Elgon subcounty hospital Sinoko subcounty hospital Naitiri sucounty hospital Cheptais subcounty hospital Sirisia subcounty hospital Bokoli subcounty hospital Webuye county hospital Lugulu Mission Hospital St Damiano mission hospital Elgon view hospital Bungoma west hospital Lifecare hospital Fountain health care Korry family hospital Khalaba medical centre Dreamland medical centre  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-9");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Busia County Busia County Referral Hospital Port Victoria Sub County Hospital Khunyangu Sub County Hospital Nambale Sub County Hospital Sio Port Sub County Hospital Holy Family Nangina Mission Hospital Teso North Sub County Hospital Alupe Sub County Hospital  
+
+Siaya County Ambira Sub-County Hospital Bondo County Referral Hospital Got Agulu Sub-District Hospital Rwambwa Sub-county Hospital Siaya County Referral Hospital Madiany Sub County Hospital Sigomere Sub County Hospital Uyawi ACH Ukwala SCH Gem Yala SCH Matibabu Ukwala Clinic (Hospital) Sagam Community Hospital Sega Cottage Hospital Sega Mission Hospital Siaya Medical Centre St Elizabeth Lwak Mission Health Centre Bama Hospital Dolphil Nursing & Maternity Home Inuka Hospital & Maternity Home  
+
+Kisumu County Migosi Sub County Hospital Kisumu County Referral Hospital Jaramogi Oginga Odinga Teaching and Referral Hospital Lumumba Health Centre Gita Sub-county Hospital Nyahera Sub-County Hospital Chulaimbo County Hospital Ober Kamoth Sub county Hospital Ojola Sub County Hospital Kombewa County Hospital Miranga Sub District Hospital Manyuanda Health Centre Muhoroni County Hospital Nyang'oma Sub County Hospital Masogo Sub County Hospital Nyakach County Hospital Katito Sub County Hospital Sondu Sub County Hospital Nyamarimba Sub County Hospital Ahero County Hospital Nyangande Sub-County Hospital Rabuor Sub-county Hospital Avenue Hospital Kisumu Aga Khan Hospital (Kisumu) Nightingale Milimani Hospital St. Elizabeth chiga Maseno Mission St Jairus Portflorence Koru Mission St Vincent Depaul Nyabondo Mission Awasi Mission Hospital Ahero medical clinic  
+
+Homa Bay County St Lawrence Hospital Mbita Sub-County Hospital Homa Bay County Teaching and Referral Hospital Kabondo Sub-County Hospital Nyandiwa Level IV Hospital Nyangiela Sub District Magunga Level IV Hospital Ogongo Sub-County Hospital Asumbi Mission Hospital Marindi Sub County Referral Hospital Suba Sub-Couty Hospital Sori Lakeside Hospital (Sindo) Kendu Sub-District Hospital Kendu Adventist Hospital Ndhiwa Sub-District Hospital Rachuonyo District Hospital Kisegi Sub-District Hospital Matata Nursing Hospital Rangwe Sub-District Hospital Kandiege Sub-District Hospital  
+
+Migori CountyMigori county referral hospital Uriri subcounty hospital Oyani subcounty hospital Othoro subcounty hospital Awendo subcounty hospital Rongo subcounty hospital Nyamaraga sub county hospital Macalder subcounty hospital Karungu subcounty hospital Muhuru sub county hospital Isebania subcounty hospital Kehancha subcounty hospital Kegonga subcounty hospital Ntimaru sub county hospital St. Josephs mission St. Camillus sori Sori lake side hospital Rapcom hospital Royal hospital Akidiva memorial hospital Samjomen hospital Ojele memorial hospital Lwala Community Hospital Neocare memorial hospital Ulanda mission hospital Wima Hospital Enockhan Hospital Pastor Machaje Hospital Lenmek Hospital Rongo Annex St Akidiva Mindira Hospital - Mabera  
+
+Kisii CountyNyamache Sub County Refferal Hospital Nyacheki Sub Couny Hospital Kenyenya Sub Count Referral Hospital Gucha Sub County Referral Hospital Misesi Sub County Hospital Iyabe Sub County Referral Hospital Nyamagundo Sub County Hospital Bonchari Marble Hospital Marani Sub County Referral Hospital Getembe Kenyara Hospital Kisii Teaching and Referral Hospital Iranda Sub County Referral Hospital Mediforte Hospital LTD Care and Cure Hospital The Nairobi Family Hospital Oasis Specialist Hospital Nyangena Hospital Ram Hospital Getembe Hospital Bosongo Hospital Hema Hospital Keumbu Sub County Referral Hospital Ibeno Sub County Hospital Christamarrianne Hospital Nyanchwa Adventist Hospital Gesusu Sub County Refferal Hospital Masimba Sub County Hospital Ibacho Sub County Hospital Nyamasibi Sub County Hospital St Cathrine Ichuni Mission Hospital Nduru Sub County Referral Hospital Etago Sub County Hospital Tabaka Mission Hospital  
+
+Nyamira County Manga District Hospital Holsoms Nursing Home Nyangena Sub District Hospital (Manga) Nyamira County Refferal Hospital Oasis Maternity and Nursing Home Kinara Hospital Nyamusi Sub-District Hospital Ekerenyo Sub-District Hospital Esani Sub-District Hospital Gesima Sub-County Hospital Masaba District Hospital Kijauri Sub County Hospital Nyansiongo Nursing Home  
+
+Sputnik V vaccination centres 
+
+
+
+
+
+
+A health worker holds a package containing five doses of the Sputnik V vaccine. 
+Photo credit: Juan Mabromata | AFP
+
+ 
+
+Embu County 
+
+Bliss Medical Centre  
+
+Kakamega County 
+
+Bliss Medical Centre  
+
+Kisumu County 
+
+Inuka HospitalBliss Medical Centre  
+
+Kiambu County 
+
+Medicross Medical  
+
+Nairobi County 
+
+Bliss Medical Centre- Embakasi, Westlands, College House CBDApple + Senses (SVG Healthcare LTD)Dorkcare Health ServiceSouth B HospitalHoughton Medical CentreQuiver Medical CentreReliance Hospital 
+
+Nakuru County 
+
+Medicross Medical  
+
+Nyeri County 
+
+Bliss medical centre 
+
+Uasin Gishu County 
+
+Medicross Medical - Eldoret 
+
+mchelangat@ke.nationmedia.com, knasibo@ke.nationmedia.com  Abstain or reduce alcohol intake for the first 48-72 hours after vaccination. Health CS Kagwe warns those offering Covid-19 vaccine at a fee contravenes that they risk prosecution. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
