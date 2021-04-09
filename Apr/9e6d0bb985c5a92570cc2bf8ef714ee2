@@ -1,0 +1,179 @@
+The agitated rapper -- who reigned over the late 1990s and early 2000s with hits including "X Gon' Give It To Ya" and "Party Up" -- was among hip-hop's darkest stars. New York, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+DMX, the hardcore hip-hop star whose ominous, snarling raps chronicled the violence and struggles of the American street, has died. He was 50 years old. 
+
+The rapper's longtime lawyer confirmed DMX's death to AFP, after a statement from his family widely shared on social media said the artist born Earl Simmons died after nearly a week on life support following a heart attack. 
+
+"Earl was a warrior who fought till the very end," the statement read, saying the rapper died at White Plains Hospital north of New York City, with his loved ones by his side. 
+
+"He loved his family with all of his heart and we cherish the times we spent with him," the statement read. "Earl's music inspired countless fans across the world and his iconic legacy will live on forever." 
+
+
+
+
+
+
+Ex-wife Tashera Simmons (centre) and fiancée Desiree Lindstrom (right), surrounded by friends of hospitalised rapper Earl Simmons, aka DMX, attend a prayer vigil hosted by the Ruff Ryders to the Rescue Foundation at White Plains Hospital on April 5, 2021 in White Plains, New York.
+Photo credit: Angela Weiss | AFP
+
+ 
+
+The family said information on a memorial service was forthcoming. 
+
+The agitated rapper -- who reigned over the late 1990s and early 2000s with hits including "X Gon' Give It To Ya" and "Party Up" -- was among hip-hop's darkest stars, laying his inner demons out for the masses in gritty, hard-driving anthems that gained him commercial and critical acclaim. 
+
+
+
+
+
+
+Fans of hospitalised rapper Earl Simmons, aka DMX, holds a sign as he attends a prayer vigil hosted by the Ruff Ryders to the Rescue Foundation in front of the White Plains Hospital on April 5, 2021 in White Plains, New York.  
+Photo credit: Angela Weiss | AFP
+
+ 
+
+Raised in the New York suburb of Yonkers, the artist endured a grim childhood, growing up in the projects with his mother and siblings where he suffered abuse. 
+
+At 14, he entered a cycle of incarceration that would persist throughout his life, committing robberies that regularly landed him in jail. 
+
+Even after he achieved celebrity for his artistry, DMX continued to have run-ins with the penal system, with charges including drug possession, animal cruelty, reckless driving, failure to pay child support, and tax evasion. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Fans of hospitaliSed rapper Earl Simmons, aka DMX, hold baloons as they attend a prayer vigil hosted by the Ruff Ryders to the Rescue Foundation at White Plains Hospital on April 5, 2021 in White Plains, New York.
+Photo credit: Angela Weiss | AFP
+
+ 
+
+But while his colorful criminal record made headlines, it was his blunt, confessional raps delivered with his singular deep-throated growls that left an indelible mark on hip-hop's sound in the late 1990s and early 2000s. 
+
+"DMX was a brilliant artist and an inspiration to millions around the world. His message of triumph over struggle, his search for the light out of darkness, his pursuit of truth and grace brought us closer to our own humanity," said Def Jam Recordings, the label with whom DMX released some of his most iconic albums, a statement following his death. 
+
+"DMX was nothing less than a giant. His legend will live on forever. Family says he passed away peacefully this morning at Windsor Castle. Albert Gacheru was the most vocal voice against music piracy in the country. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
