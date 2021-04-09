@@ -1,0 +1,244 @@
+Some say the Clasico has lost its lustre, but suddenly Spain's two giants meet for the chance to go top of La Liga, at least for 24 hours.At the start of February they were 10 points behind leaders Atletico Madrid, each having played a game more. Paris, France 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The winner of the Clasico will go top of La Liga, while Germany's surprise Champions League contenders face off and Paris Saint-Germain cannot afford to be distracted by thoughts of Bayern Munich. 
+
+AFP Sport selects some of the standout action in Europe this weekend: 
+
+Crunch Clasico 
+
+Real Madrid v Barcelona, Saturday 10pm EAT 
+
+Some say the Clasico has lost its lustre, but suddenly Spain's two giants meet for the chance to go top of La Liga, at least for 24 hours. 
+
+At the start of February they were 10 points behind leaders Atletico Madrid, each having played a game more. Atletico's form has since dipped, while Real and Barca have been relentless. Zinedine Zidane's reigning champions have won seven and drawn two of their last nine, while Barcelona are unbeaten in 19, including 16 wins. 
+
+Now Barcelona are just one point behind Atletico, while Real are three points behind the leaders but have the head-to-head advantage. 
+
+Even without fans at Real's training ground, the stakes are as high as they have been in this fixture in a long time. 
+
+Can Lionel Messi score against Real for the first time in three years after six games drawing blanks? Will Real be distracted by the prospect of their Champions League quarter-final return against Liverpool? 
+
+Germany's surprise top-four clash 
+
+Eintracht Frankfurt v Wolfsburg, Saturday 4.30pm EAT 
+
+Wolfsburg have not finished in the Bundesliga's top four since 2015, Eintracht since 1993. Both are on course to finish there this season, with the Wolves third and Frankfurt fourth. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Eintracht have lost just once in 16 games since Wolfsburg beat them 2-1 in December and last weekend's 2-1 win at Borussia Dortmund left them seven points clear of Erling Braut Haaland's team in fifth with seven matches left. Wolfsburg, four points better off, have lost once in 13. 
+
+Both are coached by an Austrian, with Eintracht's Adi Huetter and Wolfsburg's Oliver Glasner spending time at Red Bull Salzburg before leaving their home country. Their methods are not the same though: Wolfsburg's success is based on a solid defence, while only Bayern Munich have scored more goals than Frankfurt, whose leading marksman Andre Silva has 22 goals. 
+
+PSG play catch-up 
+
+Strasbourg v Paris Saint-Germain, Saturday 6pm EAT 
+
+PSG claimed a stunning win in the snow in Munich in their Champions League quarter-final first leg on Wednesday. The return leg is on Tuesday but in the meantime Mauricio Pochettino's side have a crucial trip to Strasbourg in Ligue 1. 
+
+A 1-0 defeat by Lille last weekend saw them slip three points behind their conquerors at the top with seven games left, while Monaco and Lyon are still in contention. 
+
+PSG have lost and drawn on their last two league visits to Alsace and go to the Stade de la Meinau without the suspended Neymar. The Parisians have already lost eight league games this season and must be wary of a Strasbourg team who recently drew in Lille and beat Monaco. 
+
+Atletico to respond? 
+
+Betis v Atletico Madrid, Sunday 10pm EAT 
+
+Diego Simeone's Atletico will know the outcome of the Clasico before taking to the field against Betis as they return to the city where they lost 1-0 against Sevilla last weekend. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In two months Atletico have seen a 10-point lead atop La Liga fritter away on a run of just four wins in 10, and they are without injured top scorer Luis Suarez as well as the suspended Marcos Llorente for the visit to sixth-placed Betis. 
+
+Moscow derby 
+
+Lokomotiv Moscow v Spartak Moscow, Sunday 7pm EAT 
+
+Gazprom-backed Zenit Saint-Petersburg are on course to win a third straight Russian title, but if they are to slip up then a quartet of Moscow's grandees are queueing up. 
+
+Among them are second-placed Spartak and third-placed Lokomotiv, who meet on Sunday, with CSKA and Dynamo further back. 
+
+Lokomotiv are seeking a sixth straight win since the league came out of its long winter hibernation, while Spartak are looking for a fifth consecutive victory fuelled by the goals of Aleksandr Sobolev and Jordan Larsson, the Swedish son of Henrik rumoured to be a target for Dortmund. Messi is not expected to consider offers to renew his contract until the end of the season but Laporta has been pulling hard on the heart-strings. Munich, Germany
+Kylian Mbappe netted twice as Paris Saint-Germain secured a thrilling 3-2 win at holders Bayern Munich in Wednesday's Champions League quarter-final first leg, in a repeat of... Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
