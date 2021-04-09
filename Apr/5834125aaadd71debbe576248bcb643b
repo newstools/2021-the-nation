@@ -1,0 +1,157 @@
+Beer drinkers lock themselves inside bars to drink till morning without a care in the world. The recent ban on Kenyans intending to enter the United Kingdom is a timely reminder that Covid-19 is not a government project but a global pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+First, the strategy deployed by the Kenyan government seems to favour the rich, with disastrous consequences. For instance, international flights to and from the country are allowed, leading to importation of the South African variant of the coronavirus, which has led to the British ban. 
+
+Secondly, the don’t-care attitude of most Kenyans is slowly starting to sink in the minds of foreign countries doing business with Kenya. Kenyans can be found in almost all developed, war-ravaged, pandemic-infested countries, some even enemies of Kenya, with or without a visa. 
+
+When it comes to obeying the law, starting with the government itself, it seems glued in our DNA to break any law of the land. 
+
+Most people only wear face masks at the sight of a police officer. Family get-togethers still go on yet the virus is no respecter of families. Beer drinkers lock themselves inside bars till morning without a care in the world. Others converge on open fields, sharing glasses and bottles, or simply idle at shopping centres, creating unnecessary crowding. 
+
+People with no business across quarantine zones use every trick in the book to go across the roadblocks. Those who normally don’t visit their kin upcountry all of a sudden want to travel. 
+
+They are the people you see perched precariously on motorcycles speeding on private farms and woodlands to evade arrest. 
+
+The British ban must be a wake-up call for the Kenya’s government and citizens to take Covid-19 seriously and respect containment measures. Otherwise, tomorrow, mainland Europe, the US, Russia and others might copy the British and maroon us. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Robert Musamali, Nairobi 
+
+* * * 
+
+The world is battling the worst pandemic in a century. No health challenge has pushed the world to the limit like Covid-19. It has disrupted economies and social life. Millions are out of work and students out of school. 
+
+Kenya has not been spared the disaster with the third wave of the pandemic ravaging the country, forcing the government to impose another lockdown to tame the spread of the virus. 
+
+What is annoying is the laissez-faire attitude of most Kenyans, who don’t follow the health and safety protocols — yet they demand that the country be reopened for business! 
+
+But we must do everything possible to flatten the curve before easing movement restrictions. Blind easing of restrictions will worsen an already bad situation. 
+
+More effort should be directed towards mass testing and vaccination, especially in the locked-down ‘red zone’ counties, in addition to an aggressive countrywide public awareness drive. 
+
+ Let us adhere to the protocols. 
+
+Benard Amaya, Nairobi  Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
