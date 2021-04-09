@@ -1,0 +1,83 @@
+Raila reckons his scoring record in friendly matches deserved to earn him a place at K’Ogalo attacking department which had failed to deliver goals this season. Migori Youth striker Dickson “Agwambo” Raila says he doesn’t regret leaving Gor Mahia after failing to get a single league game to his name. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ The 19-year-old striker signed a three-year contract with K’Ogalo in July last year after moving from second division side Masawa FC of Kisumu but never featured for the club in the league. 
+
+He decided to leave the club and look for playing time. 
+
+He was initially destined for Mwatate United last month before Migori Youth acquired his services. 
+
+The striker said the changes in the coaching department at K’Ogalo dimmed any chances of him playing for the 19-time champions. 
+
+During his short stint with K’Ogalo, Raila worked with coaches,  British Steven Polack, Brazilian Roberto Oliviera and Portuguese Carlos Manuel Vaz Pinto. 
+
+Confidence 
+
+“I had a lot of confidence after joining Gor Mahia from Masawa FC where I was the leading goal scorer with 18 goals. I had foreseen a bright future but things turned out against me after Polack and Oliveira left. Vaz Pinto preferred playing senior strikers,” said Raila. 
+
+Raila reckons his scoring record in friendly matches deserved to earn him a place at K’Ogalo attacking department which had failed to deliver goals this season. 
+
+In the friendlies, the striker says he bagged 15 goals but wondered why Vaz Pinto opted for other players ahead of him. 
+
+“If Oliveira had stayed, I would have still been at Gor because he kept on encouraging me to work hard and assured me I would play in the league.” Club Secretary General Sam Ochola urged the playing unit to focus on winning the league. Mwendwa said clubs will not receive their monthly Sh880,000 grant from league title sponsor BetKing. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
