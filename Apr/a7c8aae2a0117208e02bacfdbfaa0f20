@@ -1,0 +1,177 @@
+PM Abiy's tenure has been marred by persistent, grisly ethnic violence, and c Clashes involving Ethiopia's two largest ethnic groups killed more than 300 people over several days last month, a federal official told AFP Friday, the latest sign of instability ahead of elections expected in June. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The violence began March 19 and unfolded in two zones of the Amhara region, said Endale Haile, Ethiopia's chief ombudsman. 
+
+The Amhara region is dominated by the ethnic Amhara group -- Ethiopia's second-largest -- but one of the affected zones, Oromo special zone, is populated mainly by Oromos, the largest group. 
+
+"Our findings show that the number of dead are 303, injured people are 369 and there were 1,539 burnt homes," Endale said. 
+
+His office collected data from local officials and members of the security forces and plans to submit a report on the violence to lawmakers on Monday. 
+
+The dead were mostly killed by gunfire and included civilians and members of the security forces, Endale said, though he could not provide a breakdown or details on how the violence started. 
+
+He declined to say how many of the fatalities came from each ethnic group. 
+
+"We are not willing to identify based on their ethnicity. They are human beings, so we should consider them as human beings rather than classifying them as Oromo and Amhara," he said. 
+
+What happened 
+
+Jemal Hassen Mohammed, chief administrator of the Jile-Temuga area in Oromo special zone, told AFP that the violence began March 19 after an ethnic Oromo imam was shot dead outside a mosque, sparking clashes between Amhara security forces and ethnic Oromo civilians. 
+
+The following day, when ethnic Oromos injured in the clashes tried to get medical treatment, they were attacked by a mob that killed 10 people using "a combination of blunt weapons including machetes, knives, cement blocks, sticks and stones," Jemal said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+A total of 68 people were killed and 114 injured in Oromo special zone, while 40,000 people were displaced and 815 houses were burnt to the ground, he said. 
+
+His account could not be independently verified, and officials from the other affected zone, North Shewa, could not be reached Friday. 
+
+
+
+
+
+
+Members of the Oromo community march in protest after the death of musician and revolutionary Hachalu Hundessa on July 8, 2020 in St. Paul, Minnesota.
+Photo credit: Brandon Bell | Getty Images | AFP
+
+ 
+
+Grisly attacks 
+
+Prime Minister Abiy Ahmed came to power in 2018 after several years of anti-government protests fuelled by widespread participation by Amhara and Oromo youth. 
+
+But his tenure has been marred by persistent, grisly ethnic violence, and analysts warn that hotly anticipated national elections scheduled for June 5 could bring further insecurity. 
+
+Earlier this week officials said dozens of civilians died in fighting over land disputed by the Afar and Somali regions. 
+
+And late last month the government blamed the Oromo Liberation Army (OLA) rebel group for a "terror attack" it said killed dozens of civilians in the Oromia region. 
+
+The OLA denied any role in those killings. 
+
+Endale, the ombudsman, called on the federal government to intervene to prevent further bloodshed. 
+
+"The government is responsible to protect and secure the civilians," he said. 
+
+"The actions that are made by the government are too slow according to our findings." US State Department also calls for "full and unhindered access" to Tigray. US Secretary of State Antony Blinken called for dialogue to resolve the conflict. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
