@@ -1,0 +1,430 @@
+Warfare and cattle rustling in Kenya is as old as the migration and settlement of pastoralist communities. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The macabre practice dates back to the pre-colonial era and was mainly ascribed to the territorial expansion of the Maasai, Pokot and Turkana. 
+
+Spears and arrows were the main weapons. But with the proliferation of automatic weapons, such as AK-47s and M16s, the ‘battleground’ has totally changed. Common among the Ilchamus, Tugen, Samburu and Marakwet communities in the North Rift, the raids have become more sophisticated. 
+
+
+
+
+
+
+A girl teachers her brother how to use bow and arrow in Baringo. 
+Photo credit: Cheboite Kigen | Nation Media Group
+
+ 
+
+In the past, stolen cattle were redistributed or used to pay dowry, and the raids were not frequent. But with population explosion, climate change and tough economic times, cattle rustling has turned into a form of organised crime. 
+
+Most of the rustlers are illiterate and a majority are groomed for the job at a tender age. Boys are separated from their mothers early and taken to herding camps where they are trained survival skills in harsh conditions. 
+
+Julius Akeno is an author from Tiaty Sub-county, one of the regions prone to cattle rustling. 
+
+
+
+
+
+
+Youths reenact the dangers of cattle rustling during a peace meeting in a past event. Some Pokot warriors have ditched the archaic tradition for other income-generating ventures.
+Photo credit: File
+
+ 
+
+“Young boys in the Pokot community are separated from their mothers as early as eight years and tasked with the responsibility of looking after livestock. They normally go far away from their homes for example Kapedo, Napeitom, Paka, Silale, Naudo Kapedo, Kasarani and Ng’elecha hills in search for pasture, especially during dry seasons,” offers Mr Akeno. 
+
+“During such periods, it is a mandatory for herders to be armed to protect their animals. They also become social misfits because they have been separated from the community for a long time, sometimes for years.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+They only visit their parents for essentials. It is in these grazing fields that herders become the decision makers and because of the guns, they raid other communities without the knowledge of elders. Most parents learn of their children’s actions when they are either killed, or when the stolen animals are traced to them. 
+
+********* 
+
+Suspicious of educated peers 
+
+In ‘Patrons of wild Suguta Valley, Akeno writes:“At a tender age, boys were separated from their mothers and were not allowed to sleep in their mother’s huts. Their place is aperit, an open fireplace in the compound. They were trained to be alert always, even when asleep. They were told to sleep with their eyes closed, but opened ears. No one should walk in unheard and find them asleep. It would be mistake punishable by several lashes of the cane. The rough handling of young boys will make them hardy to prepare them for a tough life ahead.” 
+
+Cattle rustlers are always alert and suspicious of their educated peers, whom they view as government spies. 
+
+
+
+
+
+
+Women and children migrate to safer grounds in Samburu North, which has experienced cattle rustling and conflicts over pasture and water. 
+
+ 
+
+ “It is difficult to single out the bandits as most of them mingle freely with the people. This helps them to act as spies for their colleagues in the bush, because no one can suspect them of any ill motive,” offers Mr Akeno. 
+
+ Those who mingle with the locals are friendly to gather information on such things as security operations, patrols and views from local administrators. 
+
+“This group participates in communal work, like attending Kokwo, a community gathering to discuss different issues. This is where they gather information on what the elders, chiefs and government officials are planning. They then relay it to their colleagues in the bush,” he says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+********* 
+
+The categories 
+
+There are two groups of criminals in the conflict-prone areas: ‘Cattle rustlers’ and ‘highway bandits’. Cattle rustlers stay away from home to herd livestock, and sometimes – with blessings from elders – raid other communities for animals. This is their specialty. Highway bandits, on the other hand, are school drop-outs who ambush motorists and wealthy homesteads for easy money and valuables. 
+
+“Highway robbers or bandits do not go for cattle because they want easy targets. They normally attack bordering communities for quick cash,” says Mr Akeno. 
+
+Sometimes, they attack their own people. “The community normally rewards men who stage raids far away. But those who attack their neighbouring villages are considered weak and cannot protect their communities.” 
+
+
+
+
+
+
+guns
+Photo credit: File
+
+ 
+
+Battle-hardened rustlers who have successfully conducted several missions and are well known in their locality often leave – sometimes for years – as a security measure. 
+
+“Let’s say a cattle rustler has been known in Ribkwo village and has been warned several times by the chiefs, he will move far away to the remote villages like Nadome, Lomelo, Silale or even Malaso in Samburu County. This is no-man’s land, far from government agencies, and a hide-out for rustlers from different communities,” says Mr Akono. 
+
+********* 
+
+Tough recce missions 
+
+Intelligence gathering is one of the toughest assignments before a raid. 
+
+“There are rustlers who are skilled in intelligence gathering; their only job is to spy on other communities. Only those who have been tried and tested can carry out such missions. These people are well respected because this is the toughest assignment than the raid itself,” he says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+In his book, he explores how spies surveyed a village far away before a raid. 
+
+“For the whole day they monitored the movement of animals and the herders in detail. They noticed that only armed men were herding the cattle. Two groups headed straight to one of the nearby highest hills to have better view of the surrounding land. Mortolee had chosen a small hill that could not attract the attention of the herders. He knew places to avoid. Herders in patrol liked climbing high places to view their livestock,” he writes. 
+
+“Their mission was the most difficult of all the others that they had ever been involved in. They were used to only locating homesteads and assessing the level of defense. They could also map out the region, including escaping routes and dead grounds.” 
+
+Like in many other African communities, a rustler who defends his people is considered a hero. 
+
+“When a rustler goes to war to defend his community or bring back livestock, he is treated like a hero. Those who plan a raid or a retaliatory attack successfully are also heroes. However, modern raids lack community blessings. It’s more of organised crime for money,” offers Mr Akeno. 
+
+ Organised crime? Yes. The Nation learnt that most cattle rustlers are wealthy. 
+
+ “A poor person cannot afford to buy firearms and ammunition. In fact, most bandits come from rich families. They use the guns to accumulate riches by invading other communities and driving away livestock,” he says. 
+
+********* 
+
+Military-like ranks 
+
+In their training, as Colonel (Rtd) Moses Kwonyike observes, cattle rustlers usually sleep outside, mostly on river beds or cow sheds, so that they can be privy to what is going on in their surroundings. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+They also wake up early to monitor all the routes, track footprints and other details. “The checks done at dawn are part of the morning briefs given to the elders during a public gathering, Kokwo,” says the colonel. 
+
+Like the military, rustlers too have ranks. Those who kill have markings on their bodies, depending on the number of trophies they have collected. 
+
+“For instance, when a rustler kills a man, four cuttings are done on his body. The more cuttings you have, the more you are respected and glorified. They are termed as generals and these are some of the indications sustaining the age-old practice,” says Col (rtd) Kwonyike. 
+
+Two decades ago, a young boy in Riong’o in the banditry-prone Silale ward in Tiaty, shot and killed a police commander from the neighbouring Samburu County, who had accompanied security officers on a mission to recover stolen livestock. 
+
+It is reported that a group from the Pokot laid an ambush on the officers at a drift along the road and killed the police boss. To date, the drift has earned the name ‘OCPD’ and the killer – who is also referred to by the name – won praises from the community. 
+
+ ********* 
+
+Wind of change 
+
+Efforts to stop the practice have yielded little fruit because women fuel it by ridiculing children who embrace education.  
+
+“Women are the catalysts because when their sons stage raids and bring more cattle, they compose songs to praise them while those who come back empty or avoid such missions are ridiculed. They don’t encourage their sons to go to school,” says the colonel. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+A spot check by the Nation established that men who come out unscathed during raids are normally respected than those who die in battle. 
+
+ When a rustler dies in a raid, his counterparts take his rifle and his body is left in the bush for wild animals to feast on, an indication that their ultimate goal is not only to steal livestock, but also to come out alive. 
+
+There’s, however, a wind of change blowing in some communities. Rustling is no longer considered glorious among the Tugen, Marakwet and the Ilchamus, who have embraced religion and education. Seizing guns is not easy for the chiefs who have to pursue armed criminals in an area prone to banditry. The curfew was imposed on January 25 to complement efforts to end bandit attacks. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
