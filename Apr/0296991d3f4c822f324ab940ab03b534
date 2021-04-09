@@ -1,0 +1,221 @@
+In many communities, salt is added in food for preservation, during cooking and on table after serving.Sodium reduction can further be achieved through monitoring sources of salt, population salt intake and by educating the public on the merits and demerits of high salt consumption. Traditionally, and even in modern society, salt denotes many things. Biblically, it is an essence of things and, in particular, life itself, a symbol of procreation, and among the Romans, a sacred article of food and the first to be placed on table and the last to be removed from the table after a meal. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In some cultures, it was used to ward off the evil eye as it was believed that the devil was afraid of salt. It was used in purifying and preserving food. These, among many others, increased its importance from just a mere chemical obtained from the ground or recovered from the sea to a sacred and valued commodity, the qualities of which far exceeds its natural properties. 
+
+Salt rapidly evolved from magical to medicinal and now to a product that should be controlled. In around 1700 BC, the Chinese lamented: “Therefore, if large amounts of salt are taken, the pulse will stiffen or harden.” But what is salt, and how should salt and sodium be reduced? 
+
+Cooking salt, whose chemical name is sodium chloride (chemical formula NaCl), is a combination of 40 per cent sodium and 60 per cent chloride. Sometimes, sodium and salt are used synonymously, although other forms of salts exist — such as potassium chloride and sodium glutamate. 
+
+The main source of sodium in our diet is salt, although it can come from sodium glutamate, a commonly used food condiment and hidden salt in the food matrices. Ready-to-eat foods; processed meats such as bacon, ham and salami; cheese; salty snack foods; and instant noodles are particularly high in salt. 
+
+Foods that are consumed more often and in large amounts, like breads and processed cereal products, increase salt intake.  In many communities, salt is added in food for preservation, during cooking and on table after serving. 
+
+Sodium is an essential nutrient necessary for maintenance of plasma volume, acid-base balance, transmission of nerve impulses and normal cell function. There is overwhelming evidence that excess consumption of sodium raises blood pressure. Sodium consumption of greater than two grammes per day, equivalent to five grammes of salt per day, contributes to high blood pressure and increases the risk of heart disease and stroke. However, most people consume too much salt — on average, nine to 12 grammes per day, or twice the WHO-recommended maximum. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The management and treatment of high blood pressure and other non-communicable diseases (NCDs) is costly. WHO says NCDs top the list of mortalities globally. There is a need to reduce consumption of sodium and salt in the population. Reducing salt intake, particularly sodium salt, is one of the most cost-effective measures countries can take to improve population health outcomes. 
+
+WHO member states have agreed to reduce the world’s intake of salt by a relative 30 per cent by 2025. This will prevent about 2.5 million deaths every year. Some 32 nations have developed and implemented sodium and salt reduction strategies. These demand a population-based, multi-sectoral and culturally relevant approaches. 
+
+Government policies and strategies should create environments that enable populations to consume adequate quantities of safe and nutritious foods that make up a healthy diet, including low salt. 
+
+The policies should include technical regulations and standards to ensure availability of affordable and healthier foods. The private sector and industry should promote availability and accessibility of low salt food products. 
+
+Sodium reduction can further be achieved through monitoring sources of salt, population salt intake and by educating the public on the merits and demerits of high salt consumption. The best strategy for population-wide sodium reduction is to change the food environment so that the default option is a healthy option.  
+
+That means changing the sodium content of processed and restaurant foods, which contribute about 77 per cent of the sodium we consume. The same products that we buy would still be on the shelves; the only difference is that they will be lower in sodium, thus better for you. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Reducing sodium content in food gradually will allow the appetite for salt to adjust with very little awareness of the change. To promote compliance and adoption of low salts in food products, a culture of compliance can be driven from food formulation, production to selling. The key players here are the competent analytical laboratories both at the industry, private and regulators levels that can assure unequivocal amounts of sodium in products in agreement with set threshold in technical regulations or standards. 
+
+Compliance can be industry-driven based on reformulation of food products, pack labelling schemes, consumer awareness and government interventions. 
+
+There is a need to balance the population need for iodine, especially in fortified products, where it is deliberately added to address micronutrient deficiency diseases such as goitre. This being a delicate balance, analytical capabilities in industry and regulators facilities is very important. 
+
+   karaugm2@gmail.com. 
+
+Mutuma Mathiu’s column will resume next week. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
