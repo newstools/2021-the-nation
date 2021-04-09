@@ -1,0 +1,170 @@
+The price of commodities in Tana River County has taken a sudden hike following shortage of supplies occasioned by disrupted transport network. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+This is after heavy rains cut off the Garissa -Hola at Bilbil,four kilometres from Bura, forcing truck owners to change the route to access the Tana River market through the longer Mombasa-Malindi route.  
+
+Most affected are traders in the horticultural business whose products are perishable, resulting in losses worth hundreds of thousands, while trucks with manufactured goods have been forced to drive back to Garissa. 
+
+As a result, the traders have been forced to incur extra costs to have their goods delivered through the Mombasa-Malindi route hence the increase in the cost of commodities. 
+
+Habiba Abdulahi, a greengrocer in Hola told the nation.africa that she expected her goods from Nairobi three days ago, but impassable road has now forced the truck to drive back to Nairobi. 
+
+
+
+
+
+
+
+
+
+
+
+Habiba Abdulahi a greengrocer serves customers at her grocery shop in Hola, Tana River County.
+Photo credit: Stephen Oduor I Nation media Group.
+
+ 
+
+"When the transporter has to go back to Nairobi, then you must negotiate extra costs to have your goods through the Mombasa route, "she says. 
+
+She says that despite raising the price of her commodities, the profit made was meagre compared to the usual earnings.Also, she noted that being the rainy season has always been tough on the horticultural traders, as farmers upcountry also raise the price for their products. 
+
+" Right now, I'm forced to sell a tomato for Sh25 and onion for Sh10, what we are receiving from the farmers upcountry is expensive and not negotiable," she says. 
+
+Some of the grocery stores have run out of stock and closed as they cannot afford the sudden rise in the cost of doing business.Shop owners are also bleeding. From running out of airtime supplies to a shortage of basic commodities, the traders are afraid that the trend may worsen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In some shops, prices for commodities have been increased, with a kilo of sugar now selling and Sh150 from Sh90, eggs selling at Sh20 from Sh15, and 1kg floor selling at Sh70 from Sh50. 
+
+Residents have been forced to cut down on their domestic consumption, while hotel owners fear that if the current situation persists, they will have to hike food prices. 
+
+"If that road is not fixed soon, we shall either start boiling food without additives or we increase our prices a bit," said Laban Nyaoke. 
+
+Vehicles carrying goods are currently caught in a snarl up along the Hola-Bura road, while others have decided to make a turn to the nearest towns of Hola and Garissa. 
+
+County Assembly Chairman of the Trade Committee Ishmael Kodobo called on the county administration to wave levies for traders for the next 90days to help them recover. 
+
+Mr Kodobo says that relief on levies will save businesses from closing and also facilitate the reduction of prices of commodities. 
+
+"Any reasonable county administration ought to do this for the traders during such times, else we will end up with poor and hungry people," he says. Four villages and a part of Bura town have been marooned by water. The flash floods have cut the road at Bilbil area, 4 kilometers from Bura town. Family says he passed away peacefully this morning at Windsor Castle. Coalition? A potentially huge political undertaking is on the cards following talks between the DP and ODM deputy leader Oparanya. US State Department also calls for "full and unhindered access" to Tigray.
