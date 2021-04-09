@@ -1,0 +1,223 @@
+Once upon a time, it would have been foolhardy to excoriate the government for any act of omission or commission. Anyone courageous enough to do so was labelled a dissident, and his life turned upside down. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+To disagree publicly with the government was enough to be declared a dangerous radical. To do the same thing with the President was regarded as lese majeste, subject to severe punishment. 
+
+Today, if you do either of these two things, you are deemed to be a patriot and an army of stalwart cyber warriors galvanised on your behalf should there be any attempt to hold you to account for any utterance you make. Today, if, for instance, you petition the International Monetary Fund not to lend to this country struggling with the aftermath of failed policies, you become an instant hero even when you don’t have the faintest idea of what must be done to make things right. 
+
+I have straddled both eras, and I can readily testify that I have never experienced such suppressed discontent as has permeated this country, particularly in the past two years. In the past, even when things were bad, there was a feeling that the fabled resilience of Kenyans would come into play, but not this time. They are not merely angry; they are seething with justifiable indignation at everyone else. They are mad with their representatives in county assemblies and Parliament for their avarice and lopsided sense of priorities. They feel the legislators have failed them in their hour of need. 
+
+They are angry at the Judiciary because they still believe that not only is justice still on sale, it goes to the highest bidders, who happen to be the moneyed class. 
+
+Not only are they aware that nobody of any importance has ever been jailed in this country even after stealing hefty sums of money, they cannot understand all the excuses delivered by magistrates and judges in highly abstruse terms for not incarcerating the high-flying looters. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Suspect concoctions 
+
+They cannot understand, for instance, why their neighbour’s son was jailed for drinking suspect concoctions to ease the pain of deprivation while their other neighbour who robbed a coffee factory of millions is still walking among them without a care in the world. 
+
+Despite all the talk about leaving no stone unturned while unearthing high-level crime, they know that the rich thieves do not even hide under stones anymore; they are very much in evidence. 
+
+Most of all, they are disillusioned with the entire government machinery for its abject failure to fight corruption, which is baffling. For instance, since the National Youth Service scandal broke out in 2018, in which billions were looted by a few individuals, there has been a great deal of bluster, arrests, court appearances and whatnot, but nobody of note has faced jail-time. It can be assumed that the latest scandal involving the procurement of Covid-19 medical supplies will take the same path and die off to be replaced by another. 
+
+But their anger knows no bounds: they are also annoyed with themselves for electing MPs who have no desire to oversight the government. 
+
+Long gone are the days when there used to be robust debates about any subject on earth, when we were under real dictatorship. I remember coming across a couple of Hansard copies of the early 1960s owned by an uncle who used to be an MP. I perused them so often they became tattered. I have been waiting to read similar accounts when MPs were both erudite and fearless, but all in vain. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Transition 
+
+Today, the official opposition sounds like the party in government while the dissidents in the ruling party sound like the opposition, albeit without the fire and passion. Is it any wonder Kenyans are so confused? 
+
+Is it any wonder that MPs no longer even pretend to represent the interests of their voters and are only interested in Number One? In a word, Kenyans are tired of their representatives, but also resentful at themselves for having elected them in the first place. Yet they will do the very same thing next year. 
+
+Right now, the political situation is in a deep state of flux, every politician positioning themselves for the transition, yet the common people have no one to look up to for redemption. 
+
+All they see are the same old faces, people who have never had a fresh idea in decades but who are now promising them paradise. That is probably why some people, in a high dudgeon, say they wish the whole lot went home next year and a new crop emerged. 
+
+Indeed, there is a case for a generational change. It may be wishful thinking but Kenya desperately needs a leadership that is a lot more responsive to their needs and one that is aware of what, exactly, ails this country with the intention of seeking a possible cure. Right now, to quote the poet, too many Kenyans have been wallowing in the Slough of Despond and something has to give. 
+
+andrewngwiri@gmail.com Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
