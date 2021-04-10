@@ -1,0 +1,151 @@
+The sides meet again in the return leg next Tuesday.Before that PSG travel to Strasbourg on Saturday in a key game in the Ligue 1 title race.Mbappe is the top scorer in Ligue 1 this season with 20 goals from 26 appearances. Paris 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Kylian Mbappe is not distracted by rumours of a possible move to Real Madrid, Paris Saint-Germain coach Mauricio Pochettino insisted on Friday. 
+
+The France World Cup-winning superstar has long been linked with an eventual move to Madrid, who courted him as a teenager before he signed for first club Monaco. 
+
+His current contract with PSG is due to expire at the end of next season. 
+
+The player and PSG are in talks over a possible extension, but Spanish television station Cuatro this week claimed Mbappe wants to move to Real and has decided not to sign a new deal in Paris. 
+
+The story was denied by sources close to Mbappe, who spoke to French broadcaster RMC Sport. 
+
+"This is something we are accustomed to at the top level, when we talk about big clubs and great players like Kylian, there are always rumours," Pochettino told reporters in a press conference on Friday. 
+
+"The most important thing is that Kylian is at peace and is focused on helping the team to achieve its objectives. 
+
+"He is so mature despite his youth and both he and the club are focused on trying to reach an agreement so that Kylian stays here for a long time. 
+
+"That is what the club wants. We can't control everything that happens outside the club but all that stuff has no impact on the team." 
+
+Mbappe, 22, scored twice as PSG beat Bayern Munich 3-2 away in the first leg of their Champions League quarter-final tie on Wednesday. 
+
+The sides meet again in the return leg next Tuesday. 
+
+Before that PSG travel to Strasbourg on Saturday in a key game in the Ligue 1 title race. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mbappe is the top scorer in Ligue 1 this season with 20 goals from 26 appearances. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
