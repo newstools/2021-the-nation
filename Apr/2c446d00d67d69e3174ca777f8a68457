@@ -1,0 +1,257 @@
+In royal circles, the spouse of the reigning woman monarch is called a consort, meaning the person gained the title through marriage. By the time he died on April 9 aged 99, Britain’s Prince Philip, the Duke of Edinburgh, had chalked up virtually every prestigious title a member of the royal family can possibly acquire. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+From His Royal Highness to royal knight, earl, duke, prince and baron, Philip’s 74-year marriage to Queen Elizabeth II earned him several titles. All, obviously, conferred by his wife the Queen.  
+
+The BBC once described him as ‘‘the world’s most famous husband’’.  
+
+Yet, he wasn’t King Philip. Why? 
+
+Well, the shortest answer for this is he was never in line to take the throne. 
+
+So while a woman who marries a king can be called queen, the case is not the same for a man who is married to the queen. For a male to become the king of England, he can only inherit the throne, like his son Prince Charles, who is first in line to take over from his mother, will do at some point. And his son Prince William after that, and Prince George the next. 
+
+Thus, Prince Philip didn’t feature anywhere in the line of succession. 
+
+
+
+
+
+
+The Flag of Wales flies at half-mast from the Keep at Cardiff Castle in Cardiff, south Wales, on April 9, 2021 following the announcement of the death of Britain's Prince Philip, Duke of Edinburgh. 
+Photo credit: Geoff Caddick | AFP
+
+ 
+
+Gender dynamics 
+
+In royal circles, the spouse of the reigning woman monarch is called a consort, meaning the person gained the title through marriage. 
+
+Really, it’s just gender dynamics at play. If one assumed the title ‘king’ by virtue of being married to the queen, the man would ‘‘outrank’’ his wife through law and custom by his ‘‘sheer maleness’’, according to American historian and philosopher Christian Pelleschi. 
+
+The title ‘‘king’’ denotes more authority than ‘‘queen’’.  So even if a woman were to marry a king and take on the title queen, she would never be considered more powerful than him. 
+
+Even the game of chess borrows from this arrangement, where the king has more value than the queen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Historians attribute this rule to the patriarchal form of government in most royal families, where sons were valued more than daughters. 
+
+The mother of the reigning monarch, Queen Elizabeth II, was referred to as Queen Elizabeth, having been the wife of then King George VI. 
+
+Should Prince William ascend to the throne one day, his wife, the Duchess of Cambridge Kate Middleton, will therefore become Queen Catherine. 
+
+While they’re referred to as Queen, the title is actually ‘‘queen consort’’. It’s also a ceremonial title that doesn’t connote actual powers of a queen that inherited the title by blood – at least not a reigning one. 
+
+
+
+
+
+
+A jogger runs past a billboard with an image of Britain's Prince Philip, Duke of Edinburgh alongside the Clydeside Expressway in Glasgow, Scotland on April 9, 2021, after the announcement of the death of Britain's Prince Philip, Duke of Edinburgh. 
+Photo credit: Andy Buchanan | AFP
+
+ 
+
+History 
+
+Historically, there have been more kings than queens in the different kingdoms of the world. Whenever a king ascended to the throne, he named his wife queen. 
+
+Consequently, the title of queen came to be regarded as ‘‘inferior’’, even when the queen was the reigning monarch. 
+
+In British Common Law, it’s assumed that a woman becomes a man’s property when she’s married to him. But the law was ‘‘modified’’ between 1500 and 1800 to exclude men from attaining titles through their wives – essentially to prevent royal property and titles from spilling to "unintended’’ families.  
+
+The argument behind this system is that inheritance, including of the throne, should be determined by descent rather than ‘‘mere’’ association through marriage. 
+
+So while men have freely bestowed the title queen to their wives even if they weren’t nobles, female sovereigns have been less generous with their husbands. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But Mary, the Queen of Scots, who reigned in the 1500s, threw caution to the wind and conferred her husband, Darnley, with the title 'King of Scots', although with limited authority. 
+
+The social experiment would end in tragedy when Darnley was murdered in what historians argue was a toxic brew of a bloated ego on one hand, and powerlessness on the other. 
+
+Mary would also abdicate her role in 1567. 
+
+jkgitau@ke.nationmedia.com Family says he passed away peacefully this morning at Windsor Castle. The US rapper, real name Earl Simmons, died after nearly a week on life support following a heart attack. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status.
