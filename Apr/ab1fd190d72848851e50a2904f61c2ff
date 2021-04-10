@@ -1,0 +1,393 @@
+The story of Stella Katiwa, popularly known as Miss Katiwa, fits a the script of a short film. Born in a family of four siblings, Katiwa was raised in Kibera slum, Nairobi. She was named after her grandmother Katiwa, which in Kamba means “abandoned”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Growing up in Kibera, she says, going to school was optional and going to bed hungry was not unexpected, as her mother didn’t have a day job. 
+
+“I was raised by a single mother and, as the firstborn, many were the days I skipped school to go in search of menial jobs with my mother to take care of the family,” she recalls with a tinge of sadness. 
+
+“These were not very good days. My mother had all sorts of problems raising the four of us. Without a stable job and with a diabetic sister, we didn’t have much to live for. There are times we would miss school. It was a struggle.” 
+
+Now, in her late 20s, Miss Katiwa is one of the popular female reggae show presenters in the country, even though she has no formal media training. The bubbly and charming NTV Jam Rock show host and HomeBoyz Radio presenter says childhood hardships prepared her for adult life, which got worse before getting better. 
+
+Today, she uses these experiences, especially the hardships, to help those in the same position. Despite relocating from the slum, she never broke her links. 
+
+Whenever Katiwa is not on radio or TV, or working as a brand influencer, she devotes time giving back to the community she grew up in, working with women living with HIV. 
+
+“Through an organisation called Lindi Women Poverty Alleviation, we came up with a project. In its first phase, we were lucky to find donors who helped us in purchasing land in Naivasha and relocated over 30 of these women from the slum. Each received an acre. There was supposed to be a phase two, then corona happened,” she says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Miss Katiwa with  Lindi Poverty Women Group in Kibera.
+Photo credit: Pool
+
+ 
+
+Naivasha is her home. That’s where she relocated her family after she cleared Form Four, using savings from her hustles. 
+
+“While in high school, my mother taught me lots of survival skills. I learnt to save pretty early because this is something she used to do whenever she got a little money. In school I learnt how to plait hair and do make-up, which students paid for. I charged between Sh50 and Sh100, depending on the services rendered,” she says. 
+
+So it was a struggle until she sat the KCSE exams in 2011. But when she walked out of Senior Chief Koinange Girls High School, Katiwa had saved of Sh64,000. With this, plus her mother’s little savings, she bought a piece of land in Naivasha, built a semi-permanent house and they relocated from Kibera. 
+
+Katiwa would then return to Nairobi to start chasing her dreams against her mother’s advice. She was just 17. 
+
+“I told her I couldn't stay. I believed in fate, I knew I wasn’t born to die suffering, so I returned to Kibera, a place I knew all too well, and rented a single room for Sh1,500 a month,” she says. 
+
+Her ambitions then were to be a top model and disc jockey, but she didn’t land any opportunities. So she went on doing odd jobs for her upkeep. Her first “stable” job was that of house help. Then one night she was kicked out by her employer when she found the teenager’s photos in her husband’s camera. She claimed the help was trying to “steal” her husband. 
+
+“I had heard of a modelling agency that needed photos so I used my boss’s husband’s camera intending to delete them once I had them printed but she found them and thought otherwise,” she says, laughing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+During her free time she would hang out at Mizuka DC, a favourite “chill spot” in Kibera with her friends mostly male – many of whom she says are now dead felled by police on suspicion of crime. This spot was where most crimes were planned and bhang was smoked. 
+
+“I witnessed rapes, sex for money and girls struggle with unplanned pregnancies. Some ended up in crime lured by their male gangsters. They would rob with violence, peddle and use drugs and be involved in all sorts of crimes. I lost count of those killed in cold blood.” 
+
+She resisted being lured into gangland, even when her friends returned with good proceeds of crime. 
+
+ “There was a time they sidelined me when word went round that I was dating a policeman. The general feeling was that I would give them up. As it turned out, my dating a policeman was a blessing in disguise because he would tip most of them whenever they were being trailed. Some are lucky to be alive today thanks to my ex," she says. 
+
+On many occasions, she was targeted by men with sexual advances and she had to devise a plan to stay safe. 
+
+“I became a tomboy to protect myself. I was living alone, and many times men would knock at my door because they knew there was no one to protect me. That’s how tough it was,” she says. 
+
+One day, the worst happened. 
+
+ “This huge guy cornered me in an alley and tried to force himself on me. We got into a physical fight and I beat him up so brutally that he needed stitches. This was the genesis of my many fights with the boys.” 
+
+The street fights earned her status in the ghetto. Boys started showing her some respect, and nicknamed her Haleem Diva. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“The street I lived on was known as Haleem City and, to date, that’s how they refer to me whenever I go visiting,” she says. 
+
+ She hustled every day to make a living and one day she landed a job as a personal assistant of a prominent politician. She quit soon after, when he started making unwanted advances at her. 
+
+Dejected, she continued hanging out at Mizuka DC, where the boys played ludo and smoked weed. 
+
+One day, Kriss Darlin, a popular reggae DJ, came around and noticed her. At the time, Kriss was a resident DJ at HomeBoyz Radio. He and Katiwa got on like a house on fire. Their bond grew when Katiwa discovered they had a mutual friend, Miss Towett, with whom Kriss worked at Homeboyz. 
+
+ Kriss then started inviting her to his radio shows. 
+
+“I would sit there for hours just watching Chris do his show. I used to enjoy the vibe. It was a new experience compared to our ‘base’. I did this for eight months then one day, while on air, Kriss asked me to speak to the audience. I don’t remember what words I exactly uttered but that was the turning point in my life.” 
+
+The producer of the show was among the audience who had tuned in and was mesmerised by Katiwa’s voice and eloquence on air. He started nurturing her and whenever Kriss was away, she would be asked to stand in for him and other times they would host the show together. 
+
+ She did this for a year without pay and just when she was about to give up and quit, one of Homeboyz honchos, DJ John Rabar, offered her a contract. 
+
+That’s how Katiwa was slotted in the Mtaani show to add a female voice to the programme that already had the comedian Jaymo Ule Msee and singer Didge. Around this time, in 2017, she also made her debut on NTV’s Jam Rock show. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“Kriss said he wanted to add me to his Jam Rock show cast, which I accepted without hesitation. My job was to read the tweets. That’s how it started.” 
+
+ With every show, Katiwa got better and started standing in for Kriss. Even at NTV she wasn’t paid for about a year and when she was ready to leave, she got a contract. 
+
+“I wanted to quit because of my safety. I hadn’t moved out of Kibera. The show would normally end late in the night and many times I got mugged on the way home.” 
+
+ Katiwa knew most of the muggers. 
+
+“They would tell me I had already made it in life but did not want to share with them. But remember as the sole breadwinner most of my earnings went to the family. It took me a while to get out of Kibera.” 
+
+In September 2019, Katiwa became Jam Rock’s main host, taking over from Kriss Darlin’s after he went into politics to run for Kibra MP in the by-election after the death of Ken Okoth. 
+
+Katiwa, who says in another life she would have been a sexologist, prefers to date tall, dark and well-built men. It has to be the reason she “crushed” on rapper Khaligraph Jones until he got married. 
+
+Then her sights were set on former Harambee Stars goalkeeper Arnold Origi. 
+
+ “He too was my crush for about four years, then it happened that we had a mutual friend I didn’t know about. I would confide in him how much I crushed on him and he would go tell him. When he realised that Origi too was crushing on me, he introduced us and the rest is history,” she says blushing. 
+
+ The two have been dating for over a year now. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+“I love him for many reasons, one being the fact that he is a giver. Other than his projects, he has been involved in some of my Lindi Women projects,” she says. 
+
+tmatiko@ke.nationmedia.com In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
