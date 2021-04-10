@@ -1,0 +1,231 @@
+ Kenyans with dual citizenship will be barred from serving in the foreign service if a proposed law passes as drafted. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Foreign Service Bill seeks to “professionalise” the diplomatic service, making it more accountable and responsible to the changing times. 
+
+Ambassadors, special envoys, consular officials and honorary consuls will constitute the foreign service which will be headed by the Cabinet Secretary. 
+
+Heads of missions will only be appointed from a pool of career diplomats with more than 10 years of experience or other professionals with a similar duration of experience in public affairs. 
+
+The bill is sponsored by Kajiado South MP Katoo ole Metito. 
+
+It could be an effort to weed out political appointees who get ambassadorial posts after losing elections. 
+
+But it could also bar people with dual citizenship from serving as heads of missions. 
+
+Foreign policy 
+
+“A person nominated for appointment… shall be a citizen of the Republic of Kenya and shall not during the duration of their appointment be a citizen of another country,” section 23 of the draft law says. 
+
+Mr Metito, who chairs the National Assembly Committee on Defence and Foreign Relations, argues in the memorandum for the bill that it seeks to improve the foreign policy and making the service professional. 
+
+The bill, which has not been subjected to public participation, is being viewed by some Kenyans in the diaspora as a response to the Ms Mwende Mwinzi saga. 
+
+“The Kenya Diaspora Alliance-USA is deeply concerned at attempts to undermine the dual citizenship...as espoused in the Constitution and the constitutive Act of the African Union,” the lobby said.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“The government and the people of Kenya should embrace our intellectual contributions with the same vigour they do the Sh341 billion we send to the country every year.” 
+
+Born in Milwaukee, the US to a Kenyan father and an American mother, Ms Mwinzi was recently appointed Kenya’s ambassador to South Korea. 
+
+Despite being a Kenyan by birth, the National Assembly demanded that she gets the job only after renouncing American citizenship. 
+
+Narok North MP Moitalel ole Kenta, who chairs the Committee on Implementation, told the Saturday Nation that his team was to meet to discuss the impact of Ms Mwinzi’s posting without renunciation. 
+
+The meeting did not take place as President Uhuru Kenyatta ordered a lockdown of Nairobi, Nakuru, Machakos, Kajiado and Kiambu counties on March 26. 
+
+“Parliament made a decision that Ms Mwinzi could only be named ambassador if she renounces her US citizenship and that stands,” Mr Kenta said, referring a February inquiry from a member. 
+
+In March, Foreign Affairs Cabinet Secretary Raychelle Omamo confirmed that Ms Mwinzi had been deployed to Seoul, but added that the matter was beyond her ministry. 
+
+“The Ministry of Foreign Affairs cannot compel Ms Mwinzi to renounce her US citizenship. The ministry exists to facilitate the appointees,” Ms Omamo said. 
+
+The High Court had agreed that she could not be forced to renounce the citizenship of either countries as she had no choice in attaining them. 
+
+Days after the National Assembly demanded that the ministry clarifies whether Ms Mwinzi renounced her citizenship, a Kenyan filed a petition seeking to have a final answer on an enduring debate: Should Kenyans be allowed to serve in government, if they hold dual citizenship? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ newsdesk@ke.nationmedia.com MPs resolve that President Kenyatta's Seoul envoy nominee has to renounce her US citizenship. The National Assembly is on a collision course with the Executive following her appointment to South Korea. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
