@@ -1,0 +1,169 @@
+Twelve decapitated bodies were found after a jihadist raid on the Mozambique town of Palma last month, strewn in front of a hotel where dozens had sought safety, army and private security sources said. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Islamic State-linked militants launched coordinated attacks on the northern town on March 24, ransacking buildings and murdering residents as thousands fled into surrounding bush. 
+
+Close to 200 people, mainly civil servants and foreigners working on a nearby gas project, sheltered in the beachfront Amarula Palma Hotel for several days. 
+
+Officials claim the town is back under government control and have allowed some media in to report on the aftermath. 
+
+Mozambican state television TVM on Wednesday broadcast images of the plundered Amarula, and a local police officer pointing to various spots near the main entrance where he said 12 decapitated bodies were scattered. 
+
+The officer, Pedro da Silva Negro, told reporters he personally "took charge" of burying them under a nearby mango tree.    
+
+"Their hands were tied and they were in an advanced state of decomposition," he said. 
+
+The grim finding was later confirmed by a private security source and a military commander. 
+
+"There were 12 bodies, they were all beheaded, one of my officers was there," Lionel Dyck, owner of Dyck Advisory Group (DAG), a private South African security company contracted to help Mozambique fight the insurgency, told AFP on Friday. 
+
+Chongo Vidigal, head of operations to regain control of Palma, also verified the reports on TVM, adding that a forensic team would be sent to disinter and identify the victims. 
+
+"Work is being done on this, but I don't know when the forensic team will arrive," Vidigal said Thursday. 
+
+Ambushed 
+
+During the multi-day raid, militants prevented helicopters from rescuing the group from the Amarula, firing into the sky as they attempted to land. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On March 27 they ambushed a convoy of military trucks that had managed to evacuate around 80 people from the hotel, killing at least seven. 
+
+Ten of the convoy's 17 vehicles are still unaccounted for. 
+
+Those remaining in the hotel eventually went to nearby military barracks on the beach and were ferried away on boats. 
+
+Palma's attack escalated a violent insurgency that has wreaked havoc across Mozambique's gas-rich Cabo Delgado province since 2017. 
+
+The violence has claimed more than 2,600 lives and forced over 750,000 from their homes, according to estimates. 
+
+Dozens more were killed in the latest assault, according to provisional government reports, including a British and a South African national. 
+
+Security concerns have pushed French oil giant Total to abandon a nearby multi-billion dollar gas project, despite President Filipe Nyusi assuring the militants had been "chased" from the area. 
+
+DAG's contract with the Mozambican government ended earlier this week, amid widespread doubts about the army's ability to fend for itself.   
+
+Cabo Delgado's jihadists are a shadowy group known as al-Shabaab, although they have no known ties to the Somali militants bearing the same name. 
+
+They pledged allegiance to the so-called IS in 2018 and aim to establish a caliphate. Nyusi said "the terrorists have been chased from Palma." Islamic State-linked militants launched attacks on the northeastern town of Palma on March 24, ransacking buildings and beheading civilians. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
