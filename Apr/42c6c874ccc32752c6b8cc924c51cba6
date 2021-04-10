@@ -1,0 +1,445 @@
+It is 7pm on a typical Saturday in Bamburi, Mombasa County. It’s nightfall but here, life begins just hours to the curfew. The streets are full. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Loud music from clubs, which are full of revellers, rocks the neighbourhood. 
+
+Matatus, their horns blaring, take up every little space along the paved roads. 
+
+On the main street, motorcycles and vehicles are honking in frustration as they simply can’t move. 
+
+The 14-seater matatus, which pick and drop passengers anywhere, are the main cause of this traffic jam. 
+
+
+
+
+
+
+Tourists enjoy a boat ride at the Bamburi Beach Hotel Beach front in Mombasa on February 20, 2021.   
+Photo credit: Kevin Odit | Nation Media Group.
+
+ 
+
+Bamburi, a suburb of Mombasa, has witnessed rapid growth over the past five years to become not only Mombasa’s entertainment hub, but also the main residential area for the majority of lower-middle-class people under the age of 40. 
+
+Previously, the neighbourhood was laid back, with only a few Swahili houses and undeveloped land that was all bushy. This made it a favourite for young families. The home of Bamburi cement manufacturing plant, the estate was the preferred residential area for those who did not manage to get space at the company’s staff quarters. 
+
+Today, it boasts a new face and an urban feel. 
+
+Availability of social amenities, a reliable public transport network, affordable and modern housing and availability of clubs and entertainment joints, have made it the go-to estate for the young and upwardly mobile. 
+
+The main street is lined with bars and other entertainment joints. The running joke in Bamburi is that it has more pubs than churches. 
+
+Just like Las Vegas, the entertainment capital of the world, Bamburi is now Mombasa’s entertainment capital. 
+
+Ms Ancilla Okumu, who has been a resident for eight years, says she first moved to the area because of the affordable houses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“I had just completed college and was starting a new life. I found the houses very modern and affordable and that is why I settled here,” says Ms Okumu. 
+
+She says she has watched the town grow over the past five years, with blocks of apartments coming up, businesses being set up and an increasingly younger population flocking in. 
+
+Previously, apartments were only found in high-end estates such as Nyali, Tudor and Kizingo, areas that the young middle class found unaffordable. 
+
+“Everyone who is starting their life in the city is looking for an affordable house. They will want to stay at a place where they can have fun with friends. That is why the majority here are young people like me,” said the 29-year-old. 
+
+It takes just 30 minutes to get to the Mombasa CBD, where most of the residents work, a journey that costs between Sh50 and Sh100 in a matatu, depending on the time of the day. 
+
+There are two routes to Bamburi – one through Kisauni and another through Mtambo – which makes it easier for public and private vehicles to avoid traffic jams. 
+
+Bamburi has been christened the new Mtwapa, with the latter being on its death bed as the coastal entertainment suburb. 
+
+Bamburi is today the only estate that attracts hundreds of revellers daily, with the numbers increasing on weekends. 
+
+On either side of the main street is a chain of more than 20 clubs concentrated in one place, each located less than 20 metres from the next. 
+
+
+
+
+
+
+One of the entertainment joint in Bamburi, Mombasa   
+Photo credit: Kevin Odit | Nation Media Group.
+
+ 
+
+Club owners have invested in large screens, good sound systems, interior decorations and ample parking, making their joints attractive to customers. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Even though the Bamburi nightlife has been affected by the Covid-19 pandemic, with a curfew at 10pm,  life continues until the last minute, when residents get onto motorcycles or walk to their homes. 
+
+Ms Okumu, a confessed party animal, said the nice clubs around here are the reason she has not moved out of the estate. 
+
+This is something she lacked in Mtwapa. 
+
+Like most residents of the coastal county, she partied in Mtwapa in its heyday. 
+
+“I loved going to Mtwapa. That is where all entertainment events were held. But with time some of the main clubs closed. There came a time when transport fares were hiked. So we thought it was too expensive to party there,” she said. 
+
+She added that with time, more clubs were opened in Bamburi and she saw the need to hang out at each one of them. 
+
+“Mtwapa’s clubs were old and no improvements done, and here was Bamburi with a new club every so often, and celebrities were being invited for major events every weekend,” she said. 
+
+But what exactly led to Mtwapa’s downfall? 
+
+Mr Michael Jerry Otieno, whose stage name is DJ Lenium, used to play in some of the famous clubs in Mtwapa such as Lambada about 10 years ago. 
+
+But due to falling demand, he moved to other vibrant clubs, now found in Bamburi. 
+
+“I remember club owners would invite professional DJs like us every weekend to entertain the revellers. But they stopped asking for DJs because of fewer crowds,” he said. 
+
+DJ Lenium, who started his career 17 years ago, adds that the downfall of Mtwapa might have been caused by poor management of some clubs and a fire incident three years ago that razed three of its major joints, including Club Naiz and Bistro. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It has taken more than two years for Club Bistro to reopen while Club Naiz was turned into a second-hand stuff market. 
+
+DJ Lenium said Club Lambada, FunFan and B-Club in Mtwapa all went down when those put in charge failed to manage them properly. 
+
+“Every bar had its theme. Some bars played reggae only, like Club Naiz, while others played rhumba. People would be so many in Mtwapa because they knew exactly what they wanted. This is no longer the case,” he said. 
+
+He added that after the closure of Lollipop, a renowned club in Mtwapa, Mombasa has no strip joints, raising concern about the dwindling x-rated entertainment business that was once a hit. 
+
+The DJ said competition made Bamburi popular, with each club coming up with a unique offering. 
+
+Currently, clubs in Bamburi are inviting famous DJs as guests on the night shows, attracting even more people. 
+
+“For instance, Mint Lounge, which is located at Bamburi Mwisho, had an urban setting like that of Tapas Cielo, Hypnotica and Anuba so they also attracted those who would have earlier preferred to go to these clubs located in Nyali,” he said. 
+
+DJ Lenium, who is also an entertainment manager, said Fisheries estate, where a majority of Bamburi residents live, has some of the most modern but cheap houses, attracting young professionals. 
+
+Sky Lounge, Samba - which was extended to New Samba - The Place, Mint and Drips are also among the clubs in Bamburi that get fully packed over the weekends. 
+
+Mr Samuel Muguna, the proprietor and owner of The Drips House, said due to rising demand, most entertainment establishments like his have had to improve their services. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Owners consider details such as the seats, the number of screens for lovers of football and sanitation. 
+
+
+
+
+
+
+MV Tinitin Tu Fishing vessel  at the Mtwapa Creek in Mombasa.
+Photo credit: File | Nation Media Group 
+
+ 
+
+Besides drinks and music, the clubs also offer food, accommodation, VIP lounges and smoking zones. 
+
+“Competition is stiff right now, that is why we have added a barbershop, restaurant, pub and massage parlour as well as accommodation on our premises,” Mr Muguna said. 
+
+“To stay at the top, we also have WhatsApp groups, have social media managers to engage customers and supervisors who know clients by names.” 
+
+Meanwhile, the Covid-19 pandemic has been blamed for accelerating Mtwapa’s fall from glory. 
+
+Last year when President Uhuru Kenyatta announced the closure of bars and restaurants with a curfew that began at 7pm, there was no life in the once vibrant town. 
+
+The number of boutiques, supermarkets, salons, chemists, bakeries, bars and eateries has reduced, with some shops remaining vacant. 
+
+As darkness falls, shops close, traffic reduces and everyone quickly melts away. 
+
+Despite the bars being allowed to reopen, many of the owners were unable to reopen due to lack of capital. 
+
+Famous clubs like Lollipop, one of the oldest in the Coast region, were permanently closed. 
+
+The once popular Funfan club had already been closed. 
+
+While La Folia, Lambada, Casuarina and Bistro are still active, they now attract fewer patrons. 
+
+According to Kilifi County liquor department records, the number of bars in Mtwapa has reduced by more than half. 
+
+By 2019, while business was at its peak, the total number of bars operating in the area was 500 but data from 2020 shows the number has reduced to 200, with a majority of the establishments being turned into liquor stores. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Due to the increasing population, popular churches like the Jesus Celebration Centre (JCC) have opened branches in Bamburi as well as schools. 
+
+Gated communities are also springing up in areas such as Kiembeni and Utange, where more estates and apartments are also coming up for those who love a quiet life away from the busy and noisy streets. 
+
+scece@ke.nationmedia.com Police said Ngugi, 30, hanged himself using shoelaces inside a cell at Matasia police post on the night of April 3. Stanley Mbugua’s body was found at his home in Elburgon a day after his disappearance. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
