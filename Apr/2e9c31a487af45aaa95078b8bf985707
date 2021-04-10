@@ -1,0 +1,163 @@
+Four-time major winner Rory McIlroy also failed to reach the weekend for only the second time in 13 trips to Augusta National, missing his chance to complete a career Grand Slam for another year.And four-time major champion Brooks Koepka, who battled to play after right knee surgery a month ago, wasn't among the 54 who reached the weekend at the year's first major championship. Augusta, United States 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Top-ranked defending champion Dustin Johnson has more time to prepare for next week's US PGA Heritage Classic than he really wanted after missing the cut at the 85th Masters. 
+
+Four-time major winner Rory McIlroy also failed to reach the weekend for only the second time in 13 trips to Augusta National, missing his chance to complete a career Grand Slam for another year. 
+
+And four-time major champion Brooks Koepka, who battled to play after right knee surgery a month ago, wasn't among the 54 who reached the weekend at the year's first major championship. 
+
+"I worked my ass off just to get here and then to play like this is pretty disappointing," Koepka said. 
+
+Johnson and Koepka each cited putting woes as their reason for being done, although Koepka will get weekend physical therapy and Johnson must put the green jacket on the shoulders of the new Masters champion in a Sunday ceremony. 
+
+"Mostly just the putter. Six three-putts in two rounds, you just can't do that," Johnson said. 
+
+"Didn't drive it great but drove it good enough, and I felt like I never was really too bad out of position. Just the three-putts killed me. 
+
+"I just didn't putt very well. My speed was awful. I just left it short from 10 feet there on the last hole. I just didn't have a good beat on the speed the last two days." 
+
+Koepka and Johnson both shot 75 to finish on five-over 149 while McIlroy, who did not speak after, was on 150 after a closing 74. 
+
+McIlroy has been reworking his swing with coach Pete Cowen and said Thursday he was very much still in a transition process. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"Any time you're working on things with your swing, it's going to feel very different, but it's not as if I haven't done these things before," McIlroy said. 
+
+"It's like you get into these bad habits and that feels normal, and then you get it back into position where I've been a million times before and it just feels a little different." 
+
+Koepka putting woes were major as well. 
+
+"Putter was ice cold. Didn't make any putts," he said. "I don't want to say the speed was off, maybe the reads a little bit. Maybe the start line. A lot of them felt like good putts, and they weren't even hitting the hole. 
+
+"They felt good coming off the face, but they didn't even sniff it." 
+
+Koepka was pleased he had the stamina to walk 18 holes at hilly Augusta. 
+
+"Downhill was tough," Koepka said. "I don't feel as sore as I did yesterday, so I feel better. It's nice to know I can walk 18." 
+
+Koepka will play in next month's PGA Championship at Kiawah Island but wasn't sure if he would play a US PGA event before the next major tournament. 
+
+"Tough to say," he said. "Just for how it feels, how rehab goes and everything. I wouldn't have been playing for another month if it wasn't (Masters) week. So I'll take a nice long break after this." In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
