@@ -1,0 +1,145 @@
+Kenyans were unable to pay Sh3.9 billion to Kenya Power in the last financial year owing to the biting effects of Covid-19 scourge. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The company said electricity use by households during the period gradually rose as more people stayed indoors but payments were hard to come by. 
+
+The monopoly revealed that homes increased power use by six percent while small businesses also used 0.9 percent more power during the period, but the gains were offset by a 3.5 percent fall in power demand by heavy consumers who include industries. 
+
+"During the fourth quarter (April to June 2020), demand for electricity dropped significantly due to the close down of most industries and businesses in compliance with the government containment measures against the spread of the virus," Kenya Power said in its annual report 
+
+"At the height of the pandemic, electricity consumption declined by an average 14.8 percent in the fourth quarter, resulting in a reduction of revenues of approximately Sh5.6 billion between April and June 2020," it said. 
+
+Meanwhile, suppressed demand for power in the second month since reporting of the first Covid-19 case forced KenGen to cut power production by two percent. 
+
+Global economy 
+
+This came as Kenyans cut use of electricity by up to 24 percent within a month of the coronavisus onset. KenGen in its annual report notes that peak power demand fell from 1926.47MW in February to 1465MW in April. 
+
+The firm’s power units sold to the sole off-taker fell 0.5 percent to 8,237GWh over the course of the financial year, down from 8,277GWh units sold in 2019, according to its annual report. 
+
+"During the reporting period, the company operated in a very uncertain environment that was occasioned by the coronavirus pandemic that affected the global economy. The Covid-19 induced economic slowdown led to a drop in electricity demand of up to eight percent, with a system peak demand of 1,926.47MW in February 2020 dropping to 1,465MW in April 2020," said KenGen managing director Rebecca Miano. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+bambani@ke.nationmedia.com Charge reaches a 14-month high while global oil prices jump at last week trading. Blame placed on delay in take-off of mega projects that would have consumed huge amounts of electricity. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
