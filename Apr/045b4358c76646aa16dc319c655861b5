@@ -1,0 +1,89 @@
+A top official from Uganda’s Ministry of Foreign Affairs confirmed that the talks will culminate in the signing of the deals on Sunday Kampala, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tanzania’s delegation for the tripartite meeting with Uganda and oil company Total arrived in Kampala on Friday ahead of Sunday’s signing of the crude oil pipeline deal. 
+
+In a tweet that confirmed the meeting Uganda’s president Yoweri Museveni said he had received special envoys sent by Tanzanian President Samia Suluhu. 
+
+“We discussed, among others, issues to do with land compensation during the oil pipeline construction,” wrote President Museveni. 
+
+The Tanzanian officials, led by Minister of Justice and Constitutional Affairs, Prof Palamagamba Kabudi, all wore face masks at the State House in Entebbe. Many Tanzanians had not been wearing the masks, used to curb the spread of Covid-19, but the country now appears to be changing its position about the pandemic. 
+
+
+
+
+
+
+Tanzanian Minister of Justice and Constitutional Affairs, Prof Palamagamba Kabudi.
+Photo credit: File | Nation Media Group
+
+ 
+
+A top official from Uganda’s Ministry of Foreign Affairs confirmed that the talks will culminate in the signing of the deals on Sunday 
+
+President Suluhu is expected in Entebbe on Sunday for the signing of the agreement, in what will be her first State visit since she taking over from the late President John Magufuli on March 19. 
+
+Magufuli was due in Kampala on March 22 for the three-way signing of the deal with French oil giant, Total, which is the lead investor. 
+
+After he died, Kampala announced that the deal would be signed early in April to pave way for the construction of the 1440km export pipeline from Western Uganda to the Tanzanian Indian Ocean Port of Tanga Construction of the 1,445-km oil pipeline from the oil wells in western Uganda to Tanzania's seaport of Tanga is scheduled to start soon. Dr Magufuli often criticised foreign aid, arguing that Tanzania had the power to fund its own projects. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
