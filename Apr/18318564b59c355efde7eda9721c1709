@@ -1,0 +1,229 @@
+A month ago, Kenya received the first batch of the AstraZeneca vaccine under the Covax facility.  Some 1.02 million doses arrived, and the government announced that priority would be accorded to providers of essential services as well as older citizens. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Frontline health workers, security personnel, teachers, those aged 58 years and above, and such other highly deserving persons were therefore expected to consume the entire delivered batch. Over time, Kenya expects to receive other consignments until its full allocation of 3.56 million vaccines are administered, thanks to the Covax facility. 
+
+As I observed a week ago, the administration of the vaccine on the ground was not just a bizarre departure from the officially stated modalities, it was entirely an unruly mess. Healthcare workers joined the rest of a perplexed populace in search of the elusive vaccine, and there is scanty evidence that other essential service providers fared any better. 
+
+Vigorous youngsters filled the queues of those waiting for their turn to take the shot. As they shot and posted the auspicious event on social media, it quickly became clear that elderly and vulnerable people had somehow been forgotten, just like the frontline workers. 
+
+VIP culture 
+
+When VIPs of all arms of government were lined up for public vaccination, it became clear that there was method to the madness. The declared policy on the administration of the vaccine had collapsed and given way to our VIP culture. 
+
+Nurses could wait. Doctors could wait. Police officers could wait. Teachers could wait. Our seniors could wait.  But under no circumstances could our VIPs wait. 
+
+The attempted explanation for facilitating this outrageous corruption was that the VIPs were essential to encourage mass uptake. In other words, healthcare workers and other deserving cases were wildly averse to taking the vaccine without the endorsement of our iconic VIPs. Yet the batch received was probably insufficient to cover these indispensable influencers, and leave any meaningful amounts for the healthcare workers who dashed frantically from centre to centre in search of the vaccine. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No one is surprised by this turn of events; to find our VIPs at the head of any queue is standard around here. The most privileged people in our society always sign up to benefit from the meagre resources intended for the worst off. 
+
+Legislators and other elected leaders routinely enlist family to benefit from bursaries earmarked for orphans. The Higher Education Loans Board used to allocate the highest amounts to the well-off at the expense of the neediest students. 
+
+On the highway, the law is suspended so that VIPs can do as they wish, often inconveniencing everybody else. I remind you of Chris Nderitu, a disabled man who was riding his wheelchair on the highway, and was run over by a convoy of honchos rushing to a VIP event. It is possible, given our culture, that the end of Nderitu’s life marked the end of the matter, and that everyone concerned has moved on because there is nothing more sensible to do in our circumstances. 
+
+ It should not surprise, therefore, that our leaders hardly stop to attend to our concerns; we are minor inconveniences in the great scheme of things. The comfort of our VIPs is the foremost objective of public policy in Kenya. 
+
+Privileged impunity is what we have in Kenya. It is the permission to completely subordinate the majority’s wishes to a few people’s convenience, and the licence to disregard the objections of the Great Unwashed if doing so pleases the big chiefs. 
+
+A private pact between the nation’s great families, for instance, will be escalated to national emergency status, but enabling farmers to grow more food during the lockdown will not even be considered. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+200,000 signatures 
+
+This week, Kenyans signed an online petition objecting to what they saw as the International Monetary Fund’s indulgence of an intractably profligate regime. Within hours, 200,000 signatures had been collected. The effort has been ridiculed as a gargantuan futility instigated by the mass hysteria of the idle. 
+
+In a country where Parliament — the most significant platform of democratic accountability — is a permanent institutional absentee, citizens have realised that they are on their own. 
+
+By playing dead within their hallowed chambers and pretending to be the people’s champions without, members of Parliament have serenaded our tormentors with ineffectual tantrums and deceived us with lyrical nonsense. All the while, institutions continue to collapse under their watch. 
+
+That is why the people were legislating directly: representing themselves and exercising oversight over the Executive. They were asking the questions and raising objections that should have been litigated in the National assembly and the Senate. 
+
+By resorting to online protest, Kenyans were exercising agency in the face of a tremendous betrayal. In so doing, they expressed the potentialities of diverse strategies for the direct exercise of sovereignty. 
+
+Since Parliament continues to act as the official clearing house of impunity and the gatekeeper of our national VIP culture, We The People must consider novel, radical and initially ridiculous ways of reclaiming the soul of our nation. 
+
+@EricNgeno Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
