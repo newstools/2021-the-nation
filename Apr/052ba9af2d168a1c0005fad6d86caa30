@@ -1,0 +1,145 @@
+The Gabon international, 31, has scored just nine goals in 25 Premier League appearances this season compared with 22 goals last term. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mikel Arteta says striker Pierre-Emerick Aubameyang is "totally" committed to Arsenal even though he has been in and out of the team and he played down comparisons with the Mesut Ozil situation. 
+
+Club captain Aubameyang signed a lucrative new three-year contract last year but has struggled for form this season and was dropped for last month's north London derby after arriving late. 
+
+The Gabon international, 31, has scored just nine goals in 25 Premier League appearances this season compared with 22 goals last term. 
+
+His situation at the Emirates has been compared with that of Ozil, who under-performed despite being on huge wages before eventually being exiled by Arteta. 
+
+The Arsenal boss, though, said he did not see the merits of comparing the two cases. 
+
+"I'm always positive about the future but once you think about things that happen in the past or compare different situations and personalities, I won't do that," he said. 
+
+Asked whether Aubameyang was committed to the Gunners' cause, Arteta, whose side are languishing in mid-table in the English top-flight, added: "Totally."The forward came on as a late second-half substitute in the 1-1 draw with Slavia Prague in the Europa League quarter-final first-leg clash on Thursday, setting up Nicolas Pepe's goal. 
+
+Arteta was pleased with Aubameyang's impact off the bench. 
+
+"In the Europa League everyone has contributed in different ways, the whole squad has been involved and yesterday's role for him (was) he was sat on the bench and to make an impact and he made an impact," said the Spaniard. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"He assisted Nico and should have scored a tap-in with his left foot and that's what the players have to do when they come in." Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
