@@ -1,0 +1,145 @@
+The Covid-19 pandemic has been going on for over a year now. The damage has been immense: lives lost, jobs lost, education interrupted for our children, and many dreams put on hold. I know the UK’s decision to add Kenya to the ‘Red List’ was an unwelcome addition to a year of lives disrupted. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I recognise the strength of feeling and anger, both at the decision itself, the basis for it, and the timing. Our relationship is a partnership, based on mutual respect and trust, and I know many have felt hurt by this. I understand why. Our governments, our businesses, and above all our peoples, are part of the rich tapestry which makes up our relationship – none of us want to be in this situation. 
+
+This is not a reflection of the importance we place on our relationship with Kenya; it was a scientific decision. Other strong friends have also gone on the list. While the UK is emerging from our third, strict lockdown, we have suffered badly.  
+
+This disease disproportionately affects our grandparents and the elderly – in the UK, there are more than three million people over 80. Some 127,000 loved ones have died. Spring has started in the UK: following from the Resurrection, this is a time of hope, joy, new life and fresh starts. But we remain deeply concerned about new variants of Covid, which could result in a fourth lockdown and more lives lost. 
+
+It is worth emphasising that Kenyans who have residency rights in the UK, or who successfully apply for a student visa for future studies, can still travel. Arrivals into the UK have had to self-isolate for many months now. The new approach means they will have to do that same isolation in a government-approved facility. 
+
+We are working closely with our Kenyan friends and colleagues to ensure these restrictions are in place for as short a time as possible. Our Foreign ministers agreed on Wednesday to establish a Joint Emergency Response Committee to allow our scientists, our public health experts and diplomats to address these Covid-19 travel restrictions together. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We know that Kenya is also doing its utmost to protect its population, and has fared better than the UK. All relationships have testing moments, but the Kenya-UK partnership is broad and deep. We know that is why this decision and disruption has hit hard. 
+
+We have a longstanding and strategic partnership, from security, trade, development, people-to-people ties and tackling climate change. The UK’s Foreign Secretary visited in January, confirming the strength of our relationship with President Kenyatta. We have signed a refreshed Security Compact, a health partnership and an Economic Partnership Agreement. Our partnership is enduring. 
+
+We know that none of us are safe until we are all safe. And that includes Kenyans. That is why the UK is one of the biggest donors to Covax (Sh82 billion so far), which has supplied Kenya’s first million vaccinations and will provide more.  
+
+The UK contributes around 10 per cent of Covax funding – so a significant number of vaccines already in Kenya are a result of UK contributions and partnership with this incredible country. 
+
+ As Foreign Affairs PS Macharia Kamau said on television this week, friendships like ours stand the test of time. And that is why we are doing all we can to come through this challenge with Kenya together. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
