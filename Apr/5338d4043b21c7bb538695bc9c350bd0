@@ -1,0 +1,153 @@
+The disease has killed 12 people in the last one month, nine of them in March and three early this week, at the Covid-19 Intensive Care Unit at the Isiolo County Referral Hospital. Isiolo Governor Mohammed Kuti has suspended all non-essential services for one month to stem the spread of Covid-19 following increased cases and deaths. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Several county staff and a number of MCAs, among them Health Chief Officer Ibrahim Alio and Woman Representative Rehema Jaldesa, have contracted the disease. 
+
+The disease has killed 12 people in the last one month, nine of them in March and three early this week, at the Covid-19 Intensive Care Unit at the Isiolo County Referral Hospital. 
+
+Staff offering essential services in the finance, health, water, municipality and fire departments will continue working from their offices for the 30 days. 
+
+However, the teams will be lean to minimise contact as the non-essential staffers work from home. 
+
+Underlying conditions 
+
+County Secretary Ahmed Galgalo, who made the announcement, said staffers aged 58 years and above and those with underlying conditions will work from home until it’s ascertained that it is safe for them to return to work. 
+
+“The work-from-home directive will be reviewed upon assessment of the situation after the lapse of the 30 days,” Dr Galgalo said. 
+
+Members of the public were barred from visiting the offices during the period unless there is an emergency. 
+
+Under this circumstance, departmental heads will be required to make necessary arrangements to ensure the needed services are provided. 
+
+Vaccination 
+
+Dr Galgalo encouraged county staff and residents to take the Covid-19 jab being offered at public health facilities so as to build their immunity against the disease. 
+
+Majority of the county staff, including health workers, have been reluctant to take the jab over concerns about serious side effects. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Efforts by their leaders to have them change their minds have borne little or no fruit. 
+
+waweruwairimu001@gmail.com Residents have reported cases of people dying from Covid-19-related complications. Sarite asks clergy to ensure full compliance of health protocols in mosques. Gunmen, have been robbing, maiming or killing drivers, and burning their vehicles. On the fateful day, he had posted gospel songs on his WhatsApp status. Prince Philip didn’t feature anywhere in the line of succession.
