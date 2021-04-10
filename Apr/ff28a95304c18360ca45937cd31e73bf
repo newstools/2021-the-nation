@@ -1,0 +1,237 @@
+I’ll make a quick correction. This rule actually cuts across the profession, but let’s stick to sports here. There is an unwritten rule in sports journalism that requires scribes to uphold a degree of neutrality when reporting their stories, irrespective of their attraction – or luck of it – to the subject of their stories. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+I’ll make a quick correction. This rule actually cuts across the profession, but let’s stick to sports here. 
+
+Simple as it may sound, in practice this is one area that most sports journalists struggle with for one simple reason. Human beings are naturally biased. 
+
+Impartiality may sound good, but it’s also a rare human attribute. Bias is what often informs human choices. 
+
+In other cases, though, the choice is never there. Like what you hear about all Luos being Gor Mahia fans by birth – that for being born a Luo you have “no choice” but to support the club. 
+
+Strangely, you don’t get to hear too much of that argument when it comes to AFC Leopards. 
+
+But hey, it’s a no brainer from which community the club draws a huge chunk of its fan base. 
+
+Slanted copies 
+
+It’s the same biasness, or being a “born fan”, that often inspires slanted copies from certain writers, some of whose stories I have regaled you with in the past on this column. 
+
+Kenyan football writers are particularly notorious for showing their hand in their copies, more so when they write about the teams they love or hate. 
+
+It’s extremely hard to find an impartial football writer on these shores. 
+
+I guess the factory that used to churn out neutral writers closed shop a long time ago. 
+
+The same blatant partisanship is what justifies the dishonourable actions of some sports journalists who would rather project themselves as guns for hire than practice balanced journalism. 
+
+Granted, it’s fair enough for a journalist to be star-struck, or even to get carried away once in a while. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But it’s a different thing altogether when he or she enlists as part of the vigilante groups that clubs like Gor Mahia and AFC Leopards are known to unofficially operate off the pitch. 
+
+I’m talking about journalists who will take offence at “unfavourable” stories in the media about their beloved teams, never mind how objective or impartial the “offending” stories may be. 
+
+My senior colleague, Charles Nyende, can attest to this having often been targeted with hellfire and brimstone for his critical analysis as was the case recently when he was savagely attacked on social media by one colleague, whose identity I prefer not to reveal here. 
+
+Audacity 
+
+His unforgivable sin? The audacity to mention K’Ogalo in bad light on his column. 
+
+Not to belabour the point, good journalism is only left poorer by such thuggish tendencies. 
+
+That said, match officials, much like journalists, are expected to uphold the same cardinal rule of non-partisanship. 
+
+This explains why that Romanian official in Tuesday’s Uefa Champions League match between Manchester City and Borussia Dortmund raised many eyebrows for seeking an autograph from Norwegian sensation Erling Braut Haaland. 
+
+Some observers, including former England international midfielder Owen Hargreaves – now a TV pundit – rightly criticised the assistant referee’s actions. 
+
+Thankfully, it has now been revealed that the red and yellow cards which Haaland graciously autographed will now be auctioned and the proceeds donated to an Autism centre in Romania. 
+
+All for a worthy cause after all. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+soomondi@ke.nationmedia.com Mulee and his men are not going anywhere. My disinterest in the sport was multifaceted. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
