@@ -1,0 +1,149 @@
+Hay-making normally presents many challenges to small-scale farmers because majority lack the right technology for the job. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The technology that is readily available in the market largely targets large-scale farmers. Fodder growers with less than an acre thus have to bale the grass manually or incur a lot of cost when hiring tractors. 
+
+Nevertheless, there are several innovative gadgets that can help small farmers do the task, one of them which is a hand-held baler that resembles a wheelbarrow. 
+
+The manual baler developed by Qiksearch, a social enterprise, is contributing towards improving dairy farming productivity, as farmers use it to make up to 100 bales in a day. 
+
+Andrew Koriata, the managing director QIKsearch, says the machine targets farmers who cannot afford to own or hire tractors and balers. 
+
+To bale hay using the fabricated machine, Koriata explains that the grass is added through the opening at the top. 
+
+“When full, the plunger is used to compress the grass as more is added until one attains the desired size,” he explains. 
+
+On the back of the baler are two small nails, one on each side that holds the plunger. 
+
+“After adding hay inside the baler, one needs to find a twine. Tie a loop in the twine and attach it to the nails on the back of the baler. Repeat for another length of twine or wire and attach to the nail or cup hook on the other side of the plunger. Run these two lengths of baler twine over the top and down into the interior of the baler.” 
+
+The twines are meant to tie the bale of hay once it slips out of the machine. 
+
+“The manual baler goes for Sh10,000 and is available across the country in Kenya Farmers Association outlets. We also sensitise farmers to grow pastures to curb shortage especially during drought,” says Koriata. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He notes by planting grass and making hay, farmers enhance climate change adaptation at the community level as they are able to produce fodder that they feed their animals in rain or shine. 
+
+satnation@ke.nationmedia.com Eric De Jong offers silage-making services where he harvests maize crop, chops into tiny pieces using machines, compacts and later bales in a business that has seen the investor reap in a sector... The common cause of blindness is pink eye disease or infectious bovine keratoconjunctivitis, caused by highly infectious bacteria called Moraxella bovis. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
