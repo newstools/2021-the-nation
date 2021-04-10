@@ -1,0 +1,157 @@
+Globally, the Covid-19 vaccination programme is designed to ‘tame’ the virus by reducing its ability to cause severe symptoms and death. Yes, you can still get Covid-19 even after vaccination. It is therefore not surprising that former Nairobi Governor Evans Kidero and Meru Governor Kiraitu Murungi have tested positive for Covid-19 after receiving their first jabs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Experts say cases of people testing even after vaccination should neither be surprising nor deter them from getting vaccinated. 
+
+It typically takes a few weeks for the body to build immunity (protection against the virus that causes Covid-19) after vaccination. That means it is possible a person could be infected with the virus that causes Covid-19 just before or after vaccination and still get sick. This is because the vaccine has not had enough time to provide protection. 
+
+“These vaccines may not protect you from infection. They’re designed to lower the risk of symptomatic disease - especially a severe one, which could lead to hospitalisation and/or death,” explained Dr Nelly Yatich, an epidemiologist. 
+
+It is also not a requirement to be tested for Covid-19 before getting vaccinated. 
+
+Taming the virus 
+
+Globally, the Covid-19 vaccination programme is designed to ‘tame’ the virus by reducing its ability to cause severe symptoms and death. 
+
+Studies show that it can take anywhere between two and 14 days for an infected person to move from the incubation and onset of disease, when symptoms such as cough, fever, generalised muscle pain, and body aches first appear, to an acute period when symptoms reach their peak and the illness presents full-on. 
+
+Experts note vaccines are meant to halt this progression of the virus to the symptomatic stage. 
+
+“The ideal vaccine is one that protects the recipient from severe illness and death and it is what these results show,” said Dr Catherine Kyobutungi, executive director of the African Population and Health Research Centre (Aphrc). 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+No virus in vaccine 
+
+Vaccines are developed to help protect you by creating an antibody (immune system) response without having to experience sickness. 
+
+However, Dr Geoffrey Kulabusia, a medical immunologist explained, none of the authorised and recommended Covid-19 vaccines contain the live virus that causes Covid-19. This means that a vaccine cannot make you sick with Covid-19. 
+
+In a post on social media, Dr Kidero said he took a test on Tuesday, together with his family members, after exhibiting Covid-19-like symptoms. 
+
+Scientists are still working to figure out how well Covid-19 vaccines prevent vaccinated people from transmitting the virus to others. 
+
+Health experts have cautioned that until the majority of the people are vaccinated, they should continue to wear masks in public, regardless of their vaccination status. 
+
+emerab@ke.nationmedi.com Should you go for either the AstraZeneca or Sputnik V vaccine, here's where you can get them. Abstain or reduce alcohol intake for the first 48-72 hours after vaccination. In new filings to the ICC in The Hague, Prosecutor Fatou Bensouda alleges a well-oiled bribery and coercion machine headed by lawyer Paul Gicheru. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Kakamega County boss says he called Mr Odinga to inform him of his meeting with the Deputy President.
