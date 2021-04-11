@@ -1,0 +1,328 @@
+Many believe that auctioning art online using NFTs could be the new way to preserve it... or make moneyEarnings are through a new digital currency based on Non-Fungible Token technology When Twitter chief executive Jack Dorsey confirmed on March 22 that the proceeds from the sale of his first tweet as a Non-Fungible Token (NFT) will go to charity across Africa, a new revolution in the sale of collectibles was born. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The tweet, which reads “just setting up my twttr”, posted on March 21, 2006, fetched Sh311 million on bidding platform Valuables and the money will now be used to lift African families out of poverty. 
+
+Days later, a highlight video clip of basketball great LeBron James just fetched Sh21 million on NBA Top Shot, a platform for selling digital collectibles. 
+
+The platform sold more than Sh15 billion in such clips in the last week of February alone. 
+
+Now the revolution has reached Kenya, and celebrity marathoner Eliud Kipchoge is pioneering the new path in the country. On Thursday at 11pm, the bidding of images of him taken at the famous INEOS 1:59 Challenge in Vienna, Austria on October 12, 2019, closed. 
+
+
+
+
+
+
+Eliud Kipchoge celebrates as he crosses finish line and make history to become the first human being to run a marathon in under 2 hours during the INEOS 1:59 Challenge at Prater Park, Vienna on October 12, 2019.
+
+ 
+
+The unique memorable images sold for a total of 17.9 of the Ethereum cryptocurrency, equivalent to $37,351 or Sh4,020,842. The first set of the NFTs was sold for 14.8837 in Ethereum, or Sh3,321,018, while the second attracted 3.1 Ethers, equivalent to Sh691,663. 
+
+Kipchoge’s NFTs included the digital representations of his career milestone on the Ethereum blockchain, which he digitally signed and officially approved himself. 
+
+The auctioning, which took five days, was done on the Momentible platform, which partnered with NFTs marketplace OpenSea to release Kipchoge’s digital trading cards featuring his career highlights. 
+
+“I have always been interested in technology and therefore it fits me well to present my special sports memories on blockchain. I trust that it will help someone around the world to get these positive memories as it has done for me,” Kipchoge wrote on Momentible. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+
+
+
+Eliud Kipchoge (white vest) with his dream team of pacemakers ahead of INEOS 1:59 Challenge in Vienna on  October 12, 2019. Chumo was one of the pace setters.
+Photo credit: File | Nation Media Group
+
+ 
+
+But what, exactly, are NFTs? 
+
+“Non-fungible” means that it’s so unique that it cannot be replaced with something else. For example, the Kenyan shilling and bitcoin are fungible, because you can trade them for another and you’ll have exactly the same thing. 
+
+But a one-of-a-kind trading card or a shopping voucher are non-fungible. If you traded it for a different card or voucher, you would have something completely different. 
+
+NFTs can really be anything digital, such as drawings, music, your thoughts, videos or autographs, but a lot of the current excitement is around using the tech to sell digital art. 
+
+Your original, well-crafted Facebook, Instagram or Twitter posts, and memes qualify to be NFTs. 
+
+
+
+
+
+
+The latest model of the Nike ZoomX Vaporfly shoes called the NEXT% that Eliud Kipchoge wore during the INEOS 1:59 Challenge at Prater Park, Vienna on October 12, 2019.
+Photo credit: File | AFP
+
+ 
+
+Some businesses, such as those in the music industry, envision the NFT as a future way to track interest in a specific asset and then quickly pay the artistes responsible for it. Similarly, when owners sell the asset to someone else, the original producer may even be able to take a cut of the sales price. Blockchain tech enables the hard-to-falsify record of ownership. 
+
+So how do NFTs work? 
+
+NFTs, just like cryptocurrency, are built on blockchain, a decentralised, immutable digital ledger of transactions that holds information in ‘blocks’. The transfer of an interest in NFTs is recorded on the blockchain, putting ownership on a permanent record and making it impossible to falsify. 
+
+At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like Bitcoin or Dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently. It is worth noting that other blockchains can also implement their own versions of NFTs. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Each time an exchange on the blockchain occurs, whether that’s buying and selling an NFT or transacting in Bitcoin, the transaction is made public on the blockchain and marked with a unique digital signature. 
+
+This distinct signature verifies the transfer of ownership of an NFT. But would-be buyers should be clear what they’re getting here. 
+
+An NFT is not a royalty and does not give you an economic interest in, for example, the broadcast of Kipchoge’s clip. Rather, it’s more akin to a piece of digital art or a digital sports card. Or in the case of an album NFT, it gives you the right to a certain asset, which you can then use and enjoy. 
+
+Is this now the new way of art collecting? 
+
+I know that’s the thought that comes to your mind, like whoever paid almost Sh40 million for a 50-second video by Grimes or the person who paid Sh700 million for a video by Beeple. 
+
+
+
+
+
+
+ A billboard erected by Safaricom in Nairobi in this October 2019 photo.
+Photo credit: Simon Maina | AFP
+
+ 
+
+It’s actually more about proof of original ownership of every digital collectible. For instance, you can access any song of Diamond Platnumz, but being able to prove that WCB Records owns the copyright for all songs by the artiste is what NFTs are trying to create. 
+
+Because NFTs are valued in the form of cryptocurrencies, their prices have surged as crypto prices keep skyrocketing. 
+
+What are the risks of NFTs? 
+
+Despite the surge in interest and price, NFTs are no sure investment. In fact, they look much more like a speculative furore. 
+
+The comparison with sports cards looks apt, though one could consider them like other speculative assets such as handbags or art. They produce no cash flow, and conservative investors won’t even touch them. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Naturally, you could also view or digitally save a video clip online for free, but collectors are still paying serious money for the right to own the “authorised” version of the clip or art. 
+
+NFTs don’t give you any royalties, and there’s no guarantee how many of one sort are out there. 
+
+Because NFTs don’t produce cash flow, the only way to make money is if someone else comes along and is willing to pay more for them, what’s called the “greater fool” strategy of investing. 
+
+NFTs also suffer from liquidity risk. If no one wants to buy your NFT, you won’t be able to resell it soon or at all. That’s in sharp contrast to the stock market, which provides ready liquidity. 
+
+If you’re buying an NFT because you really like it and want to own it, there is very little risk because it will be yours forever, or for as long as you wish to own it. If you’re buying NFTs to speculate, that’s another story. 
+
+fmailu@ke.nationmedia.com Without James and Davis, the Lakers had been one of the NBA's lowest-scoring teams over the past couple of weeks. Champions without value, in an unforgiving society. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
