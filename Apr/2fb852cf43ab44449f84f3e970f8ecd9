@@ -1,0 +1,235 @@
+Stuart Dallas scored both goals for Leeds United.Gundogan and Foden were introduced to bring more spark to City's attack, but De Bruyne was surprisingly left in reserve for the full 90 minutes.  Manchester 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manchester City suffered just a fourth Premier League defeat of the season as 10-man Leeds United shocked the runaway leaders thanks to Stuart Dallas's double in a 2-1 win at the Etihad on Saturday. 
+
+Dallas opened the scoring three minutes before half-time, but hope of a famous win for Marcelo Bielsa's men seemed to have disappeared when captain Liam Cooper was shown a straight red card in first-half stoppage time. 
+
+The visitors withstood a City bombardment until Ferran Torres equalised 14 minutes from time. 
+
+But Leeds still summoned the energy to pose a threat on the counter-attack and gained their reward when Dallas slotted below Ederson. 
+
+Bielsa's first win in five meetings against Pep Guardiola propels Leeds up to ninth in their first season back in the English top flight for 16 years. 
+
+"The value of the victory increases because it was achieved in a game where we were dominated and demanded character, effort and personality," said Bielsa, who Guardiola has hailed as one of the major influences on his glorious coaching career. 
+
+"From the adversity and effort of the players it was emotional for me. It was a rebellious team. They weren't resigned to lose." 
+
+Guardiola paid for heavily rotating his side with Wednesday's Champions League quarter-final, second leg, against Borussia Dortmund clearly his priority. 
+
+Kevin De Bruyne, Ilkay Gundogan, Riyad Mahrez, Phil Foden and Ruben Dias, who were among the stars left on the bench with City holding a slender 2-1 lead to take to Germany in midweek. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+"We did not control it. We did not create enough for the forwards," said Guardiola, who surprisingly did not introduce De Bruyne as a substitute. 
+
+"We arrived in the final third and after that we could not create much. At the end (the Leeds goal) can happen because they have a team where the transitions are fantastic." 
+
+City still enjoy a 14-point lead at the top of the Premier League and need just 11 points from their remaining six matches to guarantee a third title in four years. 
+
+But Manchester United could close the gap to eight points should the Red Devils win their two games in hand, the first of which is away to Tottenham on Sunday. 
+
+A two-minute silence was held before kick-off in honour of Prince Philip, who died aged 99 on Friday. 
+
+Raheem Sterling's presence in what was largely a second string side is a reflection of how the England international has fallen down the pecking order in the past few weeks. 
+
+Sterling did not even get on as a substitute in the first leg against Dortmund and did little to further his case for selection in midweek by slicing a great chance wide from Fernandinho's cut-back. 
+
+Leeds had wasted a number of promising attacks with their final ball, but found the finishing touch when Patrick Bamford teed up Dallas to strike low in off the inside the post. 
+
+The visitors' joy was short-lived. Just four minutes later they were a man down. 
+
+Cooper played the ball first before crashing into Gabriel Jesus, but referee Andre Marriner upgraded a yellow card shown to the Leeds' captain to a red after reviewing the incident on the pitch-side screen. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+City were camped inside the Leeds half for almost the entire second-half, but were largely reduced to long-range efforts as Illan Meslier saved from Oleksandr Zinchenko, Fernandinho and Joao Cancelo. 
+
+Torres finally made City's dominance pay with a first-time finish after Fernandinho picked out Silva inside the area. 
+
+Yet, Leeds still went in search of a winner. 
+
+Raphinha outpaced Fernandinho, but was denied by a brilliant tackle by Brazilian compatriot Ederson. 
+
+Moments later, Leeds got their reward as Dallas galloped clear down the middle of a vacant City defence to slot home. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
