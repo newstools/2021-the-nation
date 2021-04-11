@@ -1,0 +1,153 @@
+The Covid-19 pandemic period is an opportune time to take stock of women’s socio- cultural and economic achievements as well as the challenges they face as they actively participate in the implementation of Africa’s development agenda. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+ The theme ‘Choose to challenge’ , adopted for this year’s International Women’s Day last month, must go beyond fighting patriarchal tendencies that relegate women to retrogressive gender-based norms and address other urgent concerns such as climate change. 
+
+It is apparent the 21st century will be disrupted by climate change, ecosystems degradation and pandemics. These problems have no definite solutions and require a higher degree of social intervention. 
+
+There is need to turn to science for short-term approaches as long-term solutions are sought. And women’s voice must be amplified because climate change disproportionately affects them. 
+
+In Africa, climate change, manifested through drought, floods and extreme heat, profoundly impacts economies and the socio-cultural fabrics, with women bearing the brunt. The impact is exacerbated by existing inequities and inequalities. 
+
+Repository of knowledge 
+
+Fortunately, women are a repository of knowledge, gathered through experience and their unique role in agriculture and other forms of livelihood. The United Nations Food and Agriculture Organisation reports that 70 per cent of Africans derive their livelihood from agriculture and women constitute over 60 per cent of this labour force. This knowledge base can be harnessed for effective climate adaptation. 
+
+Intergovernmental Panel on Climate Change (IPCC) assessment reports underscore the need to strengthen climate adaptation. The fifth assessment report indicates adaptation strategies should strengthen livelihoods, reduce poverty and enhance wellbeing, human security as well as access to information and resources. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While adaptation may offer the most immediate way to manage the effects of climate change, there are constraints and limits that require concerted effort. 
+
+Soft limits 
+
+Adaptation limits can be ‘hard’ or ‘soft’. Hard adaptation limits are beyond manipulation. Soft limits are flexible in that they can be achieved in the future through applied transformational strategies. Such tactics may involve a change in attitude, innovation or availability of requisite resources, which women have no access to. Investments in research and development or funding are also a way of addressing soft limits. 
+
+The IPCC reports have necessitated the development of literature on paths to enabling conditions for adaptation and how constraints can be minimised. 
+
+These enablers include collaboration with countries and regional institutions. Institutions such as Partnership for Skills in Applied Science, Engineering and Technology should be lauded for providing these opportunities without gender bias. 
+
+Such efforts, coupled with provision of resources, help women overcome constraints and soft limits. 
+
+@fkadenge1; fkadenge@gmail.com The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
