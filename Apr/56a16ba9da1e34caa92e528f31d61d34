@@ -1,0 +1,124 @@
+Liverpool 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Jurgen Klopp admitted a weight has been lifted from Liverpool's shoulders after Trent Alexander-Arnold's injury-time winner secured a 2-1 victory over Aston Villa and ended a record run of defeats at Anfield on Saturday.The English champions had lost their previous six games at Anfield and fell behind again when Alisson Becker failed to keep out Ollie Watkins's first-half strike.Liverpool were then controversially denied an equaliser as a dubious VAR review ruled out Roberto Firmino's reply.But Mohamed Salah levelled before Alexander-Arnold responded in style to the criticism he has received of late."It felt massive to win. A real relief," said Klopp after victory briefly took Liverpool up to fourth in the Premier League."I can't remember the last time we did it easy but it's fine in our situation after losing six home games."Alexander-Arnold was dropped from England manager Gareth Southgate's squad last month and was at fault for Real Madrid's second goal as Liverpool lost the first leg of their Champions League quarter-final against the Spanish giants 3-1 on Tuesday.But the right-back's attacking output has been a prominent part of Liverpool's success in the last three seasons under Klopp and the 22-year-old showed what he can do with a brilliant finish to curl the ball into the far corner."We can stop that chat about Trent, everyone agrees that he is an outstanding player," added Klopp."It's Gareth Southgate's decision what he does for the squad but we don't have to talk about it every week. We don't have to justify the players' status every week."Liverpool have now won three consecutive league games for the first time since the opening three matches of the season to boost their chances of climbing back into the Champions League next season.The first cracks in a difficult season for Liverpool emerged when Villa won their first meeting of the season 7-2 at Villa Park in October.That was prior to the Reds losing Virgil van Dijk to a season-ending injury that has destabilised their entire campaign.Villa have also suffered losing their talismanic talent in Jack Grealish over the past two months.Dean Smith's men have now won only twice in eight games without the England international to see their hopes of a top-four finish come up short.Villa went in front against the run of play. Watkins's strike was straight down the middle of the goal, but had too much power for Alisson's weak hand two minutes before half-time.Liverpool still thought they had levelled before the break when Firmino turned home a loose ball at the back post.However, the goal was ruled out after a lengthy VAR review for offside against Diogo Jota in the build-up despite inconclusive evidence.To their credit, that disappointment did not knock the stuffing out of the hosts as they started the second period on the front foot.Liverpool got their reward on 57 minutes when Salah headed home his 28th goal of the season after Emiliano Martinez could only parry Andy Robertson's powerful strike.Another Egyptian international was inches away from restoring Villa's lead at the other end moments later as Trezeguet's shot came back off the inside of the post.Klopp introduced Thiago Alcantara, Sadio Mane and Xherdan Shaqiri off the bench in a bid for a winner and the changes made the desired impact."We took a risk with the change," said Klopp. "We brought in an extra midfielder and that had a proper impact. It's exactly what you wish for."Martinez produced another stunning save to deny Thiago turning home Shaqiri's cross, but the loose ball came to Alexander-Arnold, who with Southgate in attendance, fired a timely reminder of the quality he possesses. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+} The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
