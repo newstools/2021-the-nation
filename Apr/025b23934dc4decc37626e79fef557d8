@@ -1,0 +1,269 @@
+Benin was considered a healthy democracy for a quarter of a century and in 2020 figured in 13th place out of 54 African nations for governance on the index drawn up by the Mo Ibrahim Foundation. Paris, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Benin, which elects a president on Sunday, was once a beacon of multi-party democracy in West Africa, but critics say dissent is being strangled under President Patrice Talon. 
+
+Five things to know: 
+
+Democracy 
+
+Benin was considered a healthy democracy for a quarter of a century and in 2020 figured in 13th place out of 54 African nations for governance on the index drawn up by the Mo Ibrahim Foundation. 
+
+However, critics of Talon, a cotton magnate in power since 2016, accuse him of authoritarianism. 
+
+Many opposition figures are already in exile or barred from office and in the run-up to Sunday's election a string of opposition figures have been detained. 
+
+They say the vote is already fixed in favour of Talon, who will face just two opponents. 
+
+As anti-Talon protests broke out Monday, a top judge said he had fled the country because he was pressured to detain an opposition leader arrested last month. 
+
+Opposition parties were unable to field any candidates in parliamentary elections in 2019. 
+
+
+
+
+
+
+Incumbent Benin President Patrice Talon arrives to speak to supporters during a campaign rally at Abomey-Calavi, on April 9, 2021. 
+Photo credit: Pius Utomi Ekpei | AFP
+
+ 
+
+Country's history 
+
+The former French colony on the Gulf of Guinea lies between tiny Togo to the west and vast Nigeria to the east. It has a population of around 11.5 million. 
+
+Benin was once the powerful regional kingdom of Dahomey from the 16th century, sometimes warring with its neighbours. The Portuguese were the first Europeans to arrive in 1485 and began trading copper and brass for pepper, palm oil, cloth and ivory. 
+
+Historians are divided about the impact of the transatlantic slave trade on Dahomey itself during the more than 300 years that it lasted. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But an infamous "slave road" cut right through it to the port of Ouidah, where a monument to the victims was built in 1992. 
+
+The town and the trade are chronicled in the 1980 bestseller by Bruce Chatwin, "The Viceroy of Ouidah". 
+
+The town's slave trade era monuments were restored in 2020, part of Benin's drive to ensure that future generations of Africans know their ancestors' suffering. 
+
+Religion 
+
+Ouidah is also held to be the birthplace of voodoo, a religion more often called "vodun" in West Africa, with a hierarchy of deities and tribal nature spirits, embracing magical practices and healing remedies. 
+
+Voodoo absorbed the Roman Catholic roster of saints, notably among descendants of slaves in Haiti, but also uses fetishes and rituals. 
+
+Voodoo was banned by Mathieu Kerekou, a revolutionary figure who came to power in 1972 when he staged a military coup. 
+
+His elected successor, Nicephore Soglo, lifted the ban on the age-old partly animist faith. 
+
+
+
+
+
+
+Beninese singer-songwriter Angelique Kidjo poses in the press room with the award for Best World Music Album for "Celia" during the 62nd Annual Grammy Awards on January 26, 2020, in Los Angeles. 
+Photo credit: Frederic J Brown | AFP
+
+ 
+
+Angelique Kidjo 
+
+Singer-songwriter Angelique Kidjo is Benin's most famous daughter. 
+
+Her more than 30-year career has landed her four Grammy awards and she has been a goodwill ambassador for the UN Children's Fund (Unicef) since 2002. 
+
+She was born in 1960 to a Fon father and a Yoruba mother and sings in the languages of both of Benin's main ethnic groups as well as in French and English 
+
+Politics 
+
+Benin's political capital is Porto Novo but Cotonou is its main port and economic hub. 
+
+Benin's economy is heavily reliant on the informal re-export and transit trade with giant neighbour Nigeria, estimated at approximately 20 percent of GDP. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is now Africa's biggest cotton producer, accounting for 80 percent of the country's exports. 
+
+Nigeria's decision in August 2019 to close its land borders with its neighbours to curb the smuggling of rice and other commodities dealt a massive economic blow to Benin. The borders reopened in December 2020. 
+
+Despite years of economic growth, 38 percent of the population still live in poverty, according to the World Bank. Observers say the country led by President Ismael Omar Guelleh represents what ails Africa in general. The country's main opposition parties boycotted the vote. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
