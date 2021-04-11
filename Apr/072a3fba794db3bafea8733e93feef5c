@@ -1,0 +1,281 @@
+When the International Monetary Fund (IMF) was holding a virtual meeting last week, Kenyans trooped online to protest the move by the lender to give Kenya Sh257 billion loan. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The kind of protest in which Kenyans left thousands of comments on the social media pages of the international lender has now become a norm as more activists and ordinary folks chose to vent their anger and push for change through digital spaces. 
+
+“Whereas we maintain the traditional ways of protesting, social media is picking up fast , since most of the platforms are free and it is a wonderful space to share information,” says Jerotich Seii, an independent consultant and a women human rights defender. 
+
+In the pre-digital era, activism involved physically demonstrating in company of peers and people who believed in the common course. 
+
+The activists we talked to admitted that a lot goes on in one’s mind as they physically agitate authorities. 
+
+Questions like, “Am I a marked man?” “What if my clients see this?” “Am I safe?” “Are they coming for me?” linger. 
+
+But times have changed. Now, it is no longer unusual to come across an online advocacy on social media like #SignThePetition. Ms Seii is among the growing faces of activism in the digital age where pressure in social media circles has helped to realise some of the country’s reforms from stopping major infrastructure projects to leading to the firing of corrupt government officials and putting the government on its toes. 
+
+Accountability 
+
+“It is not a space just for activists who want change but also for Kenyans who are pushing for accountability and better governance,” says activist Mutemi Kiama, who was arrested and arraigned in court for leading anti-IMF protest online. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Some of the notable names and groups that have taken activism to the digital space are Buyer Beware, Social Justice Working Group, Kimani Wanyoike , Cyprian Nyakundi, Ahmed Kadar, Wanjeri Nderu, Boniface Mwangi, the Communist Party of Kenya, Mzalendo.com, Dr John Njenga and lawyers Ahmednasir Abdullahi and Donald Kipkorir. 
+
+The others are Seth Odongo alias Dikembe Disembe, economist David Ndii, Narc party leader Martha Karua, Wandiya Njoya, @Ma3Route, former CJ Dr Willy Mutunga, @kenyapundit, Dennis Itumbi, Robert Alai, Abraham Mutai, Mohammed Hersi , Scheaffer Okore, Tribeless Youth, Patrick Gathara, Gabriel Oguda, Owaahh, Kipruto Kitony, Madina Wa Chege, maskaniconversations, and @maskani254. 
+
+The individuals and groups have been behind various social media campaigns aimed at pushing for reforms, holding the government and its officials accountable and pushing for a more democratic country. 
+
+Some of the campaigns and hashtags that they have been behind include #OccupyParliament, #KenyaFebruary28 , #WanjikuRevolution, #SwitchoffKPLC , #UnlockOurCountry , #LindaKatiba #SaveLamu , #StopLoaningKenya, #DeCOALize , #SaveLamu , #Codiv19billionaires, #BBInonsense, #humanityKe , #SomeonetellCNN and #147IsNotJustANumber. 
+
+The others are #BabaWhileYouWereAway, #DeadBeatKenya, #HotBedofTerror, #HotBedofApologies, #MyDressMyChoice, #LipaKamaTender , #DepotRutoPilot, #EducationCrisis, #IStandWithKDF, #KenyansTellKagame, #StopTheDrunkPresident, #Mollis, #MyPresidentMyChoice and #UhuruVisitsKenya. 
+
+According to the organisers, the #SwitchoffKPLC campaign began in January 2018 in the form of public education and advocacy in support of Petitions 6 and 59 filed in the Constitutional and Human Rights Division of the High Court of Kenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The petitions sought to address the issue of cartels in the health sector, fraudulent and backdated bills, ambiguous and high tariffs, forced use of third-party vendor cartels, irregular tokens and poor customer care by the service provider. 
+
+When the two petitions were closed in unclear circumstances, six applicants known as the Energy Justice 6 resolved to continue with the fight to deal with the KPLC mess. 
+
+The campaign #DeCOALize #SaveLamu piled pressure which led to the African Development Bank to abandon the Lamu Coal Power Plant following environmental concerns. 
+
+The social media campaign #humanityke helped to raise over Sh4.5 million. The funds were shared with struggling families during the start of the coronavirus pandemic. 
+
+After CNN described Kenya as a "hotbed of terror”, Kenyans took to social media through the hashtag #SomeoneTellCNN to put the international media house in check. 
+
+Influencers 
+
+The power of the hashtag came to light during the #ArabSpring with Tunisia kicking off a revolution against oppressive regimes that spread throughout North Africa and the Middle East. Twitter, Instagram and Facebook played a crucial role in the development and progress of the movements and the fall of several regimes. 
+
+Some of the popular social media campaigns in Africa in the recent past include #BringBackOurGirls, #GambiaHasDecided, #FeesMustFall, #BlueforSudan, #FreeStellaNyanzi and #RhodesMustFall. The hashtag Bring Back Our Girls” came after some 276 teenage girls were kidnapped in northeastern Nigeria in 2014 and was used over one million times and attracted notable influencers among them former US first lady Michelle Obama and girls’ rights activist and Nobel laureate Malala Yousafzai. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Bob Njagi, the current chairperson FreeKenya Movement, a platform founded nine years ago to champion for social justices, has been a social activist for as long as he can remember. 
+
+Demonstrations, he says, should always be the last option in the fight for a course. “I do it for the sake of your future,” he says, “That is the response I give my children whenever they ask me why I was on the streets.” 
+
+“When you take to the streets to fight for a social course, there’s always one thing in mind. Just the course that you are advocating for.” 
+
+In the era of coronavirus pandemic and social distancing, an organisation he heads has tried exploring the option of online petitions. 
+
+“But the process is always sticky-slow,” he lamented. “For example, at the moment, we are garnering electronic signatures toward a referendum to enact an amendment of the constitution but we are already behind schedule…” 
+
+A survey conducted in Nairobi in 2019 by the United States International University-Africa (USIU) to ascertain how Kenyans use the top nine social media platforms revealed that the vast majority almost equally use WhatsApp (88.6%) and Facebook (88.5%). The third most used social media is YouTube (51.2%) followed by Google+ (41.3%) then LinkedIn and Snapchat at 9.3% and 9.0% respectively. 
+
+dogetta@ke.nationmedia.com; engisesa@gmail.com Court grants Nairobi-based activist Sh500,000 cash bail. He was arrested over suspected links to Twitter handles @MutemiWaKiama and @WanjikuRevolt. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
