@@ -1,0 +1,153 @@
+This is more demanding than wearing threadbare garments to play the vulnerable, exploited Patsey in 12 Years a Slave. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+It is also tougher than donning a fanciful red outfit to be the besieged Nakia of Black Panther. This requires Lupita Nyong’o to show her true colours, and some Kenyans think she has fallen short. 
+
+Over the past few days, she has been out there posting about Tanzania’s Serengeti National Park. This is weeks after she made similar posts about Lamu. And then on Wednesday she made a post suggesting that she will always answer insultingly to whoever asks her to prove that she loves her country. 
+
+And it struck some as an insult to Kenya. But, as she often does when posting something potentially controversial, she had served it with generous portions of ambiguity. That is why one observer asked whether she was referring to Kenya, Mexico or Wakanda (the main kingdom in Black Panther). 
+
+Lupita attempted to address the many interpretations of her message when she retweeted a comment from a user who had posted: “I think she means she doesn’t have to prove the love.” 
+
+Ravenous Kenyans 
+
+But by then, with all manner of mean tweets flying in, it was clear to her that it doesn’t take too much to make a hater out of a fan, especially when you are dealing with the ravenous Kenyans on Twitter, or KOT, as they are famously known. Or as singer Victoria Kimani saw it, it was yet another sign of the hatred Kenyans have towards their own that have made it elsewhere: “Just say y’all hate Kenyan women who win outside of Kenya.” 
+
+Not too long ago, Tourism Cabinet Secretary Najib Balala said Lupita was inaccessible for five years, which is why his ministry gave up on having her market Kenya internationally. He made the remark as he defended the move to engage British supermodel Naomi Campbell as the international tourism ambassador for Magical Kenya. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The response was vintage Lupita. She tweeted a photo of herself laughing alongside a caption: “Me when I hear the Kenyan Ministry of Tourism has been looking for me for five years.” 
+
+The photo showed her laughing heartily, if not mockingly. Trust an Oscar winner to snap the best pose that packs more than the 1,000 words a photo is said to relay. 
+
+Since her breakthrough role in 12 Years a Slave, criticism has been part of her life. When she played Red in the 2019 horror film Us and later explained what inspired her voice, some groups took issue with the way she portrayed a disorder called spasmodic dysphonia. She had to apologise. 
+
+Then she has had to respond to negative comments about her skin, notably in 2016 when a talent agent was far from flattering when referring to Lupita’s complexion. 
+
+In all, it appears to be Lupita’s full-time job to show her true colours. Cyndi Lauper sang that it can make one “lose sight of it all, and the darkness inside you can make you feel so small”. But Lupita has shown that she will always fire back, armed with irony and other tools in her creative arsenal. 
+
+Probably it is the Nakia line in Black Panther that inspires her: “It is my duty to fight for who I ... for the things I love.” 
+
+eondieki@ke.nationmedia.com They suspect Betty Barasa’s killing was most likely the work of professional assassins. The 41-year-old mother of three made many friends at work and in Ololua where she met her death on Wednesday. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
