@@ -1,0 +1,221 @@
+We must know how productive each employee is. We must report to our investors.Be as generous as you can to your employees and to your customers, and resist the temptation to keep score obsessively. Don’t keep score. That’s the advice Prof Scott Galloway gives people, often imparted on his podcasts. He refers to the habit of tallying that bedevils our closest relationships. Some of us mistake relationships to be merely a series of transactions. You were good to me, so I can return the favour. You were generous yesterday, so I can do the same today. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Or, you have been letting me down of late, so I will also close down. I am disappointed in you, so now it’s time for you to be disappointed. 
+
+If that’s your relationship, folks, you don’t actually have one. You just have a scorecard. 
+
+I recall in my childhood some relatives would have the habit of recording every single gift given and received in an exercise book. Whatever came a family’s way at weddings or birthdays or celebrations had to be tallied. Why? So that something of similar value could be given in return when the gift had to be reciprocated. 
+
+So if someone gave you a low-value item, you would purse your lips and zip your purse in return. If someone surprised you with an expensive gift, you felt the pressure to spend more when your turn came. 
+
+I repeat, these are not relationships. They are just forced conformance to social norms. Those who participate are locked into score-keeping that shrinks the kinships into mere enumeration and reciprocation. I am very glad I broke away from these false relations from an early age. 
+
+Healthy relationships 
+
+As Prof G says, healthy relationships – couples, families, friends – don’t keep score. In his words: “It’s human nature to inflate your own contribution to the relationship and minimise your partner’s. Couples who are always taking notes on who’s done what for whom waste energy, and ultimately both feel as if they’re in the loss column. Decide if the relationship as a whole gives you joy and comfort, and if it does (and it better, at this point), then commit to always being on the positive side of the ledger — aim to be generous and do as much as you can for your partner, as often as possible.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In other words, be you, the best version of you, regardless of the score. If both sides do this, a healthy outcome is possible. Great relationships come from generosity, not the meanness that accompanies score-keeping. 
+
+As I thought about not keeping score in personal relationships, I wondered about how that might apply in business and organisations. It can’t at all, you might think. 
+
+Businesses are about keeping score: we must know our revenues and costs and profit margins to the final dollar. We must record our cash balances and inventory levels. We must know how productive each employee is. We must report to our investors. 
+
+Indeed. But you know what, being preoccupied with the score is ruining the joy of the game for many. If you spend most of your day looking at spreadsheets and think you are looking at your business, you’re missing the point. 
+
+Your business is as much about emotion as it is about numbers; it is as much about the game as it is about the final score. A business is also a sea of feelings. The feelings of belonging and meaning (or not) that employees might have; the feelings of respect and usefulness (or not) that might course through your customers. 
+
+Generous 
+
+To be stuck in score-keeping is to sterilise the experience of running a good business. Here, too, generosity pays – eventually. Be as generous as you can to your employees and to your customers, and resist the temptation to keep score obsessively. Don’t reserve bonuses only for the most productive workers; don’t give extra benefits just to those customers who buy the most. Keep track, but don’t make the score-keeping an obsession. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Most of you will ignore this advice, because it feels foolish. Most of us are schooled in shrewdness, not wisdom. We think a clever businessperson is the one who maximises gains and minimises costs as fast as possible. Who keeps looking at the scorecard and working out where to squeeze a little more out of customers and employees. We lead small lives counting coins. 
+
+A spirit of generosity, on the other hand, will attract both good customers and sincere employees to you, and it will pay off in long-term scores. You will make a little less upfront and probably a whole lot later, through higher staff engagement and better customer satisfaction. The score will be just fine in the end. And oh, you might actually enjoy your life and expand your own spirit in the process. 
+
+www.sunwords.com It is not only Kenya’s public debt that has been growing over the past decade. Eric De Jong offers silage-making services where he harvests maize crop, chops into tiny pieces using machines, compacts and later bales in a business that has seen the investor reap in a sector... The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
