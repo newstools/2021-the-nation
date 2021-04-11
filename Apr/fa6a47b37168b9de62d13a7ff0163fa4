@@ -1,0 +1,219 @@
+The social and economic power of sports has never been in doubt.Charitable companies and individuals have used sports as a vehicle for advancing community projects, thereby lifting populations out of poverty, disease and ignorance.  On Tuesday, the world marked the International Day of Sport for Development and Peace. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Locally, the day passed quietly without the usual social media activity or the full page newspaper advertisements and messages of goodwill that normally announce other important occasions such as the World Malaria Day, World Women’s Day, International Mother’s Day (depending on where you are, you can celebrate this one twice in a year), and International Day of the Girl Child. 
+
+The social and economic power of sports has never been in doubt. According to the United Nations, we mark international days and weeks to educate the public on issues of concern, to mobilise political will and resources to address global concerns, and to celebrate and reinforce achievements of humanity. 
+
+In its 2030 Agenda for Sustainable Development, the UN acknowledges the role of sports in social development and promotion of peace. 
+
+"Sport is also an important enabler of sustainable development. We recognise the growing contribution of sport to the realisation of development and peace in its promotion of tolerance and respect and the contributions it makes to the empowerment of women and of young people, individuals and communities as well as to health, education and social inclusion objectives," the UN says in the document. 
+
+So powerful are the sporting ideals of teamwork and fair play UN Secretary General Antonio Guterres appealed to countries of the world to embrace them if we are to defeat Covid-19 pandemic. 
+
+“Now more than ever we must act as a team to defeat the pandemic, level the playing field for fair and equal vaccine distribution and support each other to recover stronger from the pandemic,” Guterres said in his speech to mark the International Day of Sport for Development and Peace on Tuesday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Locally, we have exploited the power of sports to mobilise populations for worthy causes such as public health campaigns, environmental conservation efforts, raising funds for development initiatives, peace initiatives, among other things. 
+
+These all rely on the power of sports to mobilise populations. Charitable companies and individuals have used sports as a vehicle for advancing community projects, thereby lifting populations out of poverty, disease and ignorance. In return, the organisations benefit through positive publicity. 
+
+They also inculcate a good working relationship with members of the communities from where they make their profits. 
+
+But we have also misappropriated sports for personal gain, and for selfish political ends while investing very little in it. 
+
+I have lamented in this column how individuals nurturing political ambitions have taken over grassroots tournaments to pursue their hidden interests under the guise of nurturing talent. 
+
+The way to tell such tournaments with pinpoint accuracy is to look at the name of the tournament. It will always bear the name of the aspiring politician. 
+
+If the aspiring politician donates football jerseys, his or her name will be emblazoned at the front or back. As if to prove our vulnerability in the face of pandemics, such tournaments have are now on hold indefinitely. 
+
+As if in defiance, Covid-19 has struck at the heart of sports, disrupting sporting activities that we have used as a vehicle to fight disease. 
+
+As we exploit the economic and social power of sports for our own good, let’s think of ways of making it more vibrant after the ravages of Covid-19.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+jmwamba@ke.nationmedia.com Without James and Davis, the Lakers had been one of the NBA's lowest-scoring teams over the past couple of weeks. Kipchoge’s NFTs included the digital representations of his career milestone on the Ethereum blockchain. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
