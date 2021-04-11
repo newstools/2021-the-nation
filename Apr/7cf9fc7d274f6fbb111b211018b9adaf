@@ -1,0 +1,389 @@
+When Prince Philip started his Kenyan tour in 1952, his intention was to go to Sagana, together with Princess Elizabeth, to see their wedding gift – a hunting and fishing lodge at the edge of the forest, which the Associated Press had described as a “$5,600 hunting lodge in the darkest Africa”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When Sagana lodge was mooted, the colonial government announced on November 24, 1949 that there was “no indication at present of any projected visit of her royal highness to Kenya” but described the planned lodge as near some “good fishing in the Sagana River just beyond the front yard, and big game not far away.” 
+
+That gift is now known as Sagana State Lodge after the royal family “donated” it to the new Jomo Kenyatta government, shortly after independence. 
+
+But the other interesting story of the Kenyan visit was that both Prince Philip and Princess Elizabeth were hosted by a well-known former liquor smuggler, Eric Sherbrooke Walker, who had laundered his dirty cash in Mt Kenya region. 
+
+The story of Eric Walker is also the story of Treetops Hotel and Outspan in Nyeri, the two establishments which are getting favourable international mentions after the Friday death of Prince Philip. 
+
+During the 1952 safari, both Prince Philip and Princess Elizabeth were to be hosted by Mr Walker and spent a night at the Treetops, which was famous as a game viewing lodge before returning to their Sagana lodge. Treetops would later be burnt down by the Mau Mau freedom fighters to showcase their anger with continued colonial rule in Kenya. 
+
+
+
+
+
+
+Sherbrook Walker Eric feeds a zebra.
+Photo credit: File | Nation Media Group
+
+ 
+
+Mr Walker and his wife Lady Elizabeth Mary ‘Bettie’, who was daughter of the Earl of Denbigh, shared some dramatic life. It is assumed that both Prince Philip and Princess Elizabeth were attracted to the Mt Kenya region, perhaps because of the stories they had heard about their Kenyan host, Walker, and his character. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Robert Baden Powell 
+
+After being shot down during the First World War, Walker, a former private secretary to Scouts Movement founder Robert Baden Powell, escaped from a prison camp by cutting the fence and walked across Germany to Netherlands. He had apparently received some wire cutters from Powell, hidden inside a ham, via a German girl. His desire after the war was to marry Lady ‘Bettie’, then working at the US Embassy in Washington. But since he had no money, after he got married, he decided to run a liquor smuggling business in the US where alcohol was in big demand due to import prohibition. 
+
+Walker’s description of his first meeting with a known smuggler was epic: “He introduced me to Captain Cook, where the stout sea captain told me that he had been offered command of a ship by a syndicate which was sending out a load of scotch whiskey to sell to the smugglers on the eastern coast of United States… He produced another captain… from whom he was gleaning information about the tricks of the trade. This other fellow was a pale-faced, shifty-eyed individual, whose face bore the stamp of drink and loose living, and he looked as villainous a rascal as one could wish to find in a day’s march.” 
+
+
+
+
+
+
+In this file photo taken on March 13, 2015 Britain's Queen Elizabeth II (L) and Britain's Prince Philip, Duke of Edinburgh, leave St Paul's Cathedral in London on March 13, 2015, after attending a memorial service to mark the end of Britain's combat operations in Afghanistan.
+Photo credit: Ben Stansall | AFP
+
+ 
+
+He had been told that they would anchor the ship outside the three-mile limit and “thirsty Yankees (would come) flocking out in their little boats with pockets bulging with green-backs to buy the whiskey.” The hope was to make 300 per cent profit. 
+
+But there were risks too of pirates “murdering the crew, making away with the ship, cargo and cash” and US authorities who would attack the vessel. The other was the risk of bootleggers “who came out and bought large quantities for cash, paying in counterfeit notes” and dishonest captains. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Although he managed to do some good business, selling his cargo of Scotch whisky in the high seas, a shoot-out once occurred and he was forced to flee to Canada, together with Lady Bettie. In Canada, he wrote a memoir The Confessions of a Rum-Runner under the pseudonym of James Barbican. The couple then escaped to Nyeri where Walker built Outspan Hotel, mostly likely financed with the proceeds from the illegal trade. Outspan opened doors on January 1, 1928. 
+
+By hosting the royal entourage, Walker knew this was a good marketing strategy for his business. It actually worked for him after it became associated with Queen Elizabeth II’s ascension to the throne. More so, Treetops was later featured in the National Geographic magazine and started hosting celebrity guests such as British comedian Charlie Chaplin and the Beatles singer-songwriter singer Paul McCartney. 
+
+National monument 
+
+As a sign of appreciation to Lord Baden Powell for helping him escape the German war camp, he gave him a permanent cottage at Outspan Hotel which is named Paxtu. The cottage is today gazetted as a national monument and hosts the Baden Powell museum in honour of the Scouts movement founder who stayed there from October 1938 to 1941. 
+
+So when Princess Elizabeth and her husband set to make the Kenyan tour of Sagana, the choice of Walker’s Treetops and Outspan as host of their entourage was easier. 
+
+Sagana was to offer the 30-year-old Philip a chance to tour some of the British colonies and Kenya was his first destination and after that, they would sail to Ceylon, aboard HMS Gothic, a passenger-cargo liner that was designated a royal yacht from 1952 to 1954. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+As the two flew to Kenya, they never anticipated that the ailing King George VI, whose cancerous lung had been removed, would die from a blood clot. He had become king by fate after Edward VIII abdicated the throne rather than give up the love of his American socialite, Ms Wallis Simpson, twice divorced. 
+
+Then things changed on the slopes of Mt Kenya. On the morning of February 6, a valet who had gone to draw curtains in the King’s bedroom found his body. He had apparently died that night. 
+
+Prime Minister Winston Churchill was at No. 10 Downing Street when the coded message: “Hyde Park Corner” was delivered by Edward Ford, the King’s assistant Private Secretary. “Hyde Park Corner” was the Palace code for “The King has died.” 
+
+And there was a crisis. The princess who was to take over as the new Queen of England was in Kenya – and the fear was that she might learn about the death from a radio broadcast. 
+
+The clock ticked. A coded message had been sent to Government House (now State House Nairobi) but nobody could decipher the message since the governor had left with the highly secured cipher book for Mombasa, where he was preparing to see off the couple as they sailed on the next day to Ceylon. 
+
+
+
+
+
+
+Britain's Prince Philip. 
+Photo credit: Adrian Dennis | Pool | AFP
+
+ 
+
+Then by chance, Martin Charteris, private secretary to the princess, was by chance having a lunch drink at the Outspan Hotel when Granville Roberts, a reporter from the East African Standard who was covering the royal visit, happened to learn about the newsflash from Reuters. It was now 2pm. He saw Charteris and rushed to him. “The King has died!” said Roberts, breaking the news. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Princess Elizabeth 
+
+From Outspan, Charteris called Mike Parker, Philip's equerry and friend, who was in Sagana. Princess Elizabeth was busy writing letters in an adjacent room. “I have a rumour from the press corps that our employer’s father has died,” some published accounts recall how Charteris broke the news to Philip. “I cannot react to a rumour. Please confirm or deny when sure,” said Parker. 
+
+But rather than wait, Parker picked a shortwave radio and turned on the BBC. And there it was: John Snagge, one of the definitive voices of BBC, was repeatedly announcing from Sandringham that King George VI had died in his sleep. Still, Princess Elizabeth had not heard the news. 
+
+Parker is reported to have walked to Prince Philip’s bedroom. He woke him up from the afternoon nap and broke the news: “He looked as if I had dropped half the world on him. I never felt so sorry for anyone in my life.” Parker later told a biographer. 
+
+“We must have been among the last people in the world to hear the news,” Pamela Mountbatten (now Lady Pamela Hicks), the lady-in-waiting to the princess, also wrote in her memoirs, Daughter of Empire. 
+
+It was at the lawns of State Lodge in Sagana that Philip broke the news to Princess Elizabeth. With her was Pamela Mountbatten. The group watched as the two walked into the lawns of Sagana and as Prince Philip broke the news. Princess Elizabeth was now Queen of England and head of Commonwealth. 
+
+According to Pamela’s account, the Queen “remained completely calm and said simply: ‘I am so sorry. This means we all have to go home.’” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+The royal BOAC was waiting for them in Nairobi – and off they went to start a new life. But the memories of Sagana, Outspan and Treetops remained etched in the royal family’s history. And thanks to the whiskey smuggler - Eric Sherbrooke Walker. 
+
+jkamau@ke.nationmedia.com @johnkamau1 Prince Philip didn’t feature anywhere in the line of succession. Family says he passed away peacefully this morning at Windsor Castle. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
