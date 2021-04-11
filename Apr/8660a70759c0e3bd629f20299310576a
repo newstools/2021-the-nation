@@ -1,0 +1,233 @@
+A cotton tycoon first elected to lead the West African nation in 2016, Talon faces two little-known rivals, Alassane Soumanou and Corentin Kohoue. Cotonou, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Beninese head to the polls on Sunday under a tense atmosphere with critics accusing President Patrice Talon of skewing the race in his favour by sidelining opposition leaders. 
+
+A cotton tycoon first elected to lead the West African nation in 2016, Talon faces two little-known rivals, Alassane Soumanou and Corentin Kohoue. 
+
+Most opposition leaders are in exile, have been disqualified by electoral reforms or targeted for investigation by a special court. 
+
+Once praised as a vibrant democracy in an often troubled region, tensions were on the rise ahead of the vote, with protests breaking out in several cities. 
+
+"The particularity of this election is that it is taking place in an atmosphere of tension and violence," a platform of civil society said in a statement Saturday. 
+
+In central and northern Benin, protesters blocked hundreds of cars and trucks travelling between the coast and the north. 
+
+Demonstrations 
+
+On Thursday, in the central city of Save, two people died and five others suffered gunshot wounds after troops fired tear gas and live rounds in the air to break up a demonstration. 
+
+"I don't understand what Talon is doing... if the president has issues with opponents, he should spare the people," said Philomene M'Betti Tepa, a resident of the northwestern town of Boukoumbe. 
+
+Talon's backers have rejected accusations the election will be fixed, saying all the conditions are there for a fair vote. 
+
+The electoral commission's president Emmanuel Tiando told AFP Saturday that despite delays in dispatching electoral material to the north, there was "nothing preventing this election from taking place". 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+More than 4,9 million people are eligible to vote across 15,531 polling stations. 
+
+The US, German, French and Dutch embassies as well as the EU delegation in Benin all called for calm and for the vote to go ahead in a free and transparent manner. 
+
+Military rule 
+
+Following 17 years of military rule along Marxist-Leninist lines, the former French colony opened up into a multi-party democracy in 1990. 
+
+But since Talon won power as an independent candidate, critics say he has used a special economic crimes and terrorism court and electoral reforms as tools to disqualify the opposition. 
+
+Still fresh in the memories of many is the political crisis and violence across the country that followed a disputed parliamentary election in April 2019. 
+
+Slotted between Africa's powerhouse Nigeria and tiny neighbour Togo, Benin has seen some economic successes under Talon, who has played up his record while campaigning. 
+
+"I support the president because we had so many problems before. Water shortages and power cuts... now it's much better," said Ulrich Adjalla, who lives in the economic capital Cotonou. 
+
+"The president can't be good for everyone," said the unemployed 28-year-old, but "I trust him to create jobs for this country's youth." 
+
+In the final days of campaigning, the economic capital Cotonou was plastered with blue posters backing Talon and his running mate for the vice-presidency, Mariam Talata. 
+
+At a rally in Godomey, Talon said he expected a "KO" -- a knockout victory for which there would be no need for a runoff vote. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Results are expected to be announced on Monday or Tuesday. Benin, which elects a president on Sunday, was once a beacon of multi-party democracy in West Africa Around 215,000 citizens were registered to vote in the ballot. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
