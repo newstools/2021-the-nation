@@ -1,0 +1,271 @@
+In July 2018, the Kenya Revenue Authority (KRA) contracted Keysian Auctioneers for an assignment. Diplomatic Duty Free Ltd, a company linked to Goldenberg architect Kamlesh Pattni, owed Sh2.2 billion in tax arrears and the auctioneer was to issue a notice of distress to recover the money or attach the company’s property. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+But when the auctioneers went to the premises of Diplomatic Duty Free Ltd at the Jomo Kenyatta International Airport (JKIA), there was a new company, Suzan General Trading Ltd (trading as Suzan Duty Free), whose staff denied knowledge of a company by the name Diplomatic Duty Free Ltd and they, therefore, refused to sign the papers. The notice of distress was giving Diplomatic Duty Free Ltd 10 days to pay the arrears or have its property attached. 
+
+At the end of the ultimatum, the auctioneers went back and attached movable goods, including a white Tata lorry registration KBT 462F, which according to records held by the National Transport and Safety Authority (NTSA), is registered in the name of Diplomatic Duty Free Ltd, the company that owed KRA Sh2.2 billion. But Suzan General Trading Ltd, which claimed it was unaware of Diplomatic Duty Free Ltd, claimed ownership of the lorry. 
+
+Two court cases and an appeal before the Tax Appeals Tribunal later, the taxman is now staring at losing the Sh2.2 billion. KRA on March 19, 2021 registered before the Tax Appeals Tribunal a consent with Suzan General Trading Ltd withdrawing the notice of distress issued in 2018 and agreeing to release all the goods the auctioneer had attached and Suzan agreeing to withdraw its appeal. 
+
+Notice of Distress 
+
+“By consent between the parties, the appeal herein is marked as settled…that all goods attached by the respondents and/or their agents/representatives and subject to the said Notice of Distress issued on July 9, 2018 be forthwith released to the appellant at no costs,” the consent reads. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In responses to Sunday Nation questions, KRA says the case was one of a mix-up: Diplomatic Duty Free Ltd were the ones owing KRA but they went for Suzan General Trading Ltd. 
+
+“When this was established, the most prudent thing was to cease enforcement measures against Suzan General Trading and proceed against Diplomatic Duty Free Limited which is the company owing KRA taxes. This was done through the withdrawal of the Notice of Distress and proclamation served and issued against the goods and chattels of Suzan General Trading,” KRA said. 
+
+The taxman says it is pursuing the tax arrears against Diplomatic Duty Free “the taxpayer owing the taxes”. However, the whereabouts of the company is unclear, since its last known address at JKIA is now occupied by Suzan General Trading Ltd, a private limited company registered in Dubai and in Kenya as a foreign company. 
+
+KRA also says that they are not giving up yet in recovering the Sh2.2 billion owed to them. 
+
+“The tax assessment is still live and KRA is pursuing the same against Diplomatic Duty Free Limited, as provided for under the relevant tax laws,” the taxman said. 
+
+Interestingly, though, while Suzan General Trading Ltd claimed that it was unaware of Diplomatic Duty Free Ltd, there is a Mr Asif Abbas whose LinkedIn profile shows that he is the general manager of Suzan General Trading Ltd. He has held that position since November 2013. 
+
+Before that, he held a similar position at Diplomatic Duty Free Ltd from May 2009 to November 2013. So the question is whether the two companies are one and the same thing. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In the meantime, there is a standoff between Suzan General Trading Ltd and Keysian Auctioneers over the implementation of the consent filed at the Tax Appeals Tribunal. 
+
+About a week after KRA and Suzan registered their consent at the Tax Appeals Tribunal, Suzan through its lawyers Nyiha, Mukoma & Company Advocates wrote to Keysian Auctioneers asking that they release the Tata lorry that they had attached as per the conditions of the consent. 
+
+“Take notice that if the above is not done within the next three days from the date hereof (March 30), our peremptory and irrevocable instructions are to institute contempt of court proceedings against yourselves and for recovery of the said loss of use without any further reference to you whatsoever at your own risk as to costs and other consequences ensuing therefrom.” 
+
+Defaulting client 
+
+But Keysian Auctioneers, through AA Mudanya & Company Advocates say that they will not release the lorry until it is paid fees totalling Sh88 million from the defaulting client, “in this case Diplomatic Duty Free Ltd.” 
+
+The auctioneer says it was never consulted on the consent filed at the Tax Appeals Tribunal even though the conditions of the consent bears directly on them, “especially alleging that our client to bear its own costs.” 
+
+The auctioneer says they will be contesting the consent. 
+
+“Be as it may, even if our client was inclined to release the said lorry, then the right company to receive the lorry is the registered owner thus Diplomatic Duty Free Ltd, and not your client who is a stranger in so far as ownership of the lorry is concerned,” Keysian Auctioneers said in their response. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+KRA has also supported the auctioneer’s position and directed that the lorry should not be released to Suzan. 
+
+According to KRA commissioner legal services and board coordination Carol Mburugu, property that was attached belonging to Diplomatic Duty Free Ltd are not subject of the consent. 
+
+“The Tata truck KBT462F registered in the name of Diplomatic Duty Free Ltd should therefore not be released to Suzan General Trading as it is not their property,” Ms Mburugu told the auctioneer. 
+
+wmenya@ke.nationmedia.com Keysian Auctioneers was given permission to attach assets owned by Diplomatic Duty Free. Mr Ngatia, who was at the heart of the dispute when Pattni was evicted in August 2003 says, his advice was not fully taken into account. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
