@@ -1,0 +1,245 @@
+Nairobi has a population of about 4.4 million people with Central at 5.6 million as per the 2019 national census report. Nairobi and Central will receive the lion’s share of the allocation to the National Government-Constituencies Development Fund (NG-CDF) in the next financial year if the proposal to increase the number of constituencies from the current 290 to 360 is passed. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Building Bridges Initiative (BBI) sponsored Constitution of Kenya (Amendment) Bill 2020, currently before Parliament, seeks to create additional 70 constituencies across the country. 
+
+The bill, which seeks to amend Article 89 (1) of the constitution, shows that with 12 and eight extra seats for Nairobi and Central respectively, the two regions will get a good share of the new constituencies, which means enhanced allocation of the NG-CDF funds. 
+
+In the current financial year, Sh39.76 billion was used as a baseline share among the 290 constituencies. The share is calculated at the rate of 2.5 per cent of the latest audited accounts of the national revenue as approved by the National Assembly. 
+
+Each constituency, therefore, got Sh137.1 million in the current financial year. 
+
+A document by the Parliamentary Budget Office (PBO) to the Justice committees of the National Assembly and Senate that are jointly considering the BBI bill, shows that if the same amount is shared among the 360 constituencies in the next financial year, each constituency will receive Sh110.4 million. 
+
+This translates to a reduction of Sh27 million per constituency because of the increased number of constituencies. 
+
+“If Parliament will not appropriate additional money to the fund on the basis of the increased constituencies, the share will reduce,” the PBO document reads adding that Parliament may decide to appropriate additional resources to the fund to finance the additional constituencies. 
+
+Extra funding 
+
+However, if the allocation to the NG-CDF kitty were to remain the same in the next financial year, Nairobi, currently with 17 constituencies, will get an additional Sh1.3 billion with Central currently with 34 electoral units getting an extra Sh800 million. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Nairobi has a population of about 4.4 million people with Central at 5.6 million as per the 2019 national census report. 
+
+Western counties of Kakamega, Vihiga, Bungoma and Busia with a combined population of 5.2 million people as per the 2019 census report, will get about Sh500 million. 
+
+The amount is calculated on the basis of the additional five constituencies they have been allocated on top of the combined 33 constituencies that exist as of now. 
+
+The four Nyanza counties of Kisumu, Siaya, Homa Bay and Migori will get additional Sh300 million having been allocated three new seats. 
+
+The four counties currently have a population of 4.4 million strewn across 29 constituencies. 
+
+The PBO document, however, notes that allocation to the 360 constituencies is projected to rise in the medium-term when the economic slow-down caused by the Covid-19 situation returns to normalcy “may be” by 2022/23 financial year. 
+
+Mr Paul Mwangi, the BBI joint secretary, says the creation of the 70 new constituencies was necessary to safeguard about 27 constituencies that are at risk of being lost through reviews by the Independent Electoral and Boundaries Commission (IEBC). 
+
+“We proposed the creation of these seats to benefit the marginalised groups in the society as well as cure the population issue,” Mr Mwangi says. 
+
+The marginalised groups, according to Article 100 of the constitution include women, youth and people living with disabilities. 
+
+Eastern region 
+
+The lower eastern counties of Machakos, Makueni and Kitui have been allocated four additional constituencies on top of their combined 22. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+While Machakos has three, Makueni has one, which means at least Sh400 million in additional NG-CDF revenue. 
+
+The upper eastern, Meru and Embu counties, that are also part of Mount Kenya region have 16 parliamentary seats. 
+
+The three extra - two for Meru and one for Embu will see them share at least Sh300 million. 
+
+The coastal counties with a combined 26 parliamentary seats have been allocated 10 additional constituencies. 
+
+This means an additional Sh1.1 billion. The constitution says that the electoral boundaries shall be reviewed within eight to 10 years and not less than 12 months to a General Election. 
+
+With the BBI bill promoters keen to have the new electoral units in force before the 2022 elections, it means that with less than 16 months to the next elections, the IEBC will be required to work round the clock to deliver them. 
+
+The first boundary review was done in 2010 by the defunct Interim Independent Boundaries Review Commission (IIBRC). 
+
+But even as this goes on, IEBC chairman Wafula Chebukati has opposed the creation of additional constituencies. 
+
+dmwere@ke.nationmedia.com MPs had threatened to shoot down the Division of Revenue Bill (DoRB) 2021 over the delays in releasing the funds. This means new women and youth groups will not benefit from the fund. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
