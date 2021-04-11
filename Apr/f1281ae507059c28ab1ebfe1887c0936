@@ -1,0 +1,349 @@
+I have been a fan of Wanjiku since my primary school days in the 60s. My parents sent me to school away from home. For five years I lived with my aunt and cousins. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+In my adopted home, my guardian was poorer than a church mouse. The money I saw her count was coins. 
+
+Whenever she came back from Emali market, she brought home bones for meat. 
+
+When a goat or a cow died in the village, it was “Christmas season” for us children. 
+
+Abject deprivation made me abhor poverty. From a tender age, I decided to study hard so that one day I could secure a job, have enough food for my stomach and help fight indigence. 
+
+Barefaced dictatorship 
+
+I grew up believing nobody should be poor. Hence from childhood, I learned to empathise with the underprivileged. 
+
+As university students in the 70s, we believed the Wabenzi held our country hostage. Those were the days of barefaced dictatorship. 
+
+As budding asomi, under the tutelage of Ngugi wa Thiong’o, Willy Mutunga, Raila Odinga and others, we arrayed “comrade power” to defend Wanjiku. 
+
+In the 80s and 90s, as a lecturer, civil society activist and leader of the pro-democracy movement, I was one among those who agitated for multipartism and a people-driven constitution. 
+
+President Daniel arap Moi retorted Wanjiku knew nothing about constitution-making. He wanted Parliament to lead constitutional review. 
+
+During the struggle for the new constitution, “the system” denied us the opportunity to carry out widespread and in-depth civic education as a catalyst to constitution-building. 
+
+I remember one time the police obstructing us from undertaking civic education with Smokin Wanjala, the late Simon Akivaga and others by barricading our venue until sunset. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+We, nevertheless, shared with them our meal of soda and bread. 
+
+Again in Nyahururu, Rev Dr Timothy Njoya was stopped from relaying civic education through drawn-out prayer. But thank God, in 2010 Wanjiku and Kenya adopted, enacted and gave to themselves their constitution. 
+
+Has Wanjiku internalised the values she embraced through the 2010 Constitution or is she trapped within the pre-2010 values. 
+
+What are some of the key values pronounced by the 2010 Constitution? 
+
+All sovereign power belongs to Wanjiku – the people of Kenya. 
+
+Consequently, elected and appointed leaders exercise delegated authority. The constitution is the supreme law and all citizens are bound by it. 
+
+Does Wanjiku realise she wields such immense power? I would say no. 
+
+Article 10(2) establishes national values and principles of governance. These include – “a) patriotism, national unity, sharing and devolution of power, the rule of law, democracy and participation of the people; b) human dignity, equity, social justice, inclusiveness, equality, human rights, non-discrimination and protection of the marginalised; c) good governance, integrity, transparency and accountability; and d) sustainable development.” 
+
+Citizens and the state must dutifully observe these. The values must guide all our national endeavours. 
+
+Rights and fundamental freedoms inherently accrue to each individual and are not gifted by the state. 
+
+They are natural or God-given rights and freedoms. The state or any person is not allowed to “discriminate directly or indirectly against any person on any ground, including race, sex, pregnancy, marital status, health status, ethnic or social origin, colour, age, disability, religion, conscience, belief, culture, dress, language or birth.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Children, persons with disability, youth, minorities and marginalised groups and older members of society (senior citizens) are accorded special constitutional protection. 
+
+Gender equity is also substantially guaranteed. Affirmative action for these categories is a constitutional value. 
+
+Two key principles in relation to land ownership under Article 60 of the Constitution are citizens’ equitable access to land and security of land rights. 
+
+The Constitution further guarantees Wanjiku free and fair elections. 
+
+Political parties must reflect national character and therefore should not be founded on religious, linguistic, racial, ethnic, gender or regional basis. 
+
+According to Article 73, leaders must be sourced on the basis of personal integrity, competence and suitability, or through competitive elections. 
+
+Nepotism 
+
+Such leaders should not practice nepotism, favouritism or corrupt practices. They are to be at the beck and call of Wanjiku. 
+
+Other national values include separation of powers between the national executive, legislature and judiciary; and between the national and county governments; and between each county executive and county assembly. 
+
+The independence of the judiciary is paramount so as to safeguard the impartial administration of justice. 
+
+Devolution of power, resources and service delivery is fundamental under the 2010 Constitution. The 14th function of county governments underscores robust and coordinated participation of communities and locations in governance at the local level. Centralisation should be consigned into the dustbin of history. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+If Wanjiku had absorbed the values and principles embodied in the 2010 Constitution, she would, in the general and other elections, choose leaders not on the premise of ethnically based coalitions and paltry handouts. Wanjiku’s verdict would instead be steered by democratic values. 
+
+It is, therefore, no longer sound to argue Wanjiku is merely held captive by “the system”, mainstream and social media, political money and tribal politics and that she is incapable of her own independent agency. 
+
+If Wanjiku, time and again, realises her tribally manipulated choices do not yield transformation, then she shares blame for her skewed decisions. 
+
+Two-way culpability 
+
+We can’t keep on exonerating her and heaping the blame solely on the political class. The culpability is two way. 
+
+A friend of mine cautioned that I should not bring a hammer down on Wanjiku. He argued that Wanjiku has never been loved or cared for since independence and even during the colonial era because everyone she has known has relished in using her. 
+
+My counter-argument is Wanjiku recently entered into a contract with the country’s leadership, which crowned her the sovereign boss. 
+
+Wanjiku must therefore make the values engendered by the 2010 constitution second nature to her and use them to wield her sovereign power on a daily basis including in the forthcoming general election. 
+
+It is time for Wanjiku to divorce herself from tribal politics and hegemony. 
+
+But when all is said and done, I must confess that Wanjiku – just like my late aunt Nthanze – will forever remain dear to me. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+kivuthakibwana2017@gmail.com The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
