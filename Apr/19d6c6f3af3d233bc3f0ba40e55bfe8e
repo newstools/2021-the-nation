@@ -1,0 +1,221 @@
+ Young people are often promised things. From jobs that will be created for them, to leadership positions to be relinquished to them in future, their lives run on promises. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Of all these promises, many of which are not kept and might not even be kept any time soon, those revolving around their health and well-being cannot be postponed any more. This is particularly critical and urgent for their sexual and reproductive health, which has some of the most glaring gaps. Particularly important is provision of contraceptive information and commodities, without which the young Kenyans’ future would be in greater jeopardy. 
+
+Kenya has repeatedly made global commitments to address these gaps and enhance delivery of related information and commodities. Over the years, these gaps have resulted in alarming outcomes, including maternal deaths and deaths resulting from unsafe abortions, at 6,300 and 2,600 every year respectively. 
+
+Economic stability 
+
+There was a glimmer of hope at the ICPD 25+ conference hosted in Nairobi in 2019, where Kenya joined other countries in committing to universal access to sexual and reproductive health and rights by ensuring zero unmet need for family planning information and services, and universal availability of quality, affordable and safe modern contraceptives. 
+
+However, despite this and other commitments before it, there has been little action. As a result, young people, who are already underserved with contraception, remain vulnerable to shocks such as the Covid-19 pandemic, which saw at least 40 per cent of this social group experience a loss of choice in contraception methods, according to the #formnigani Covid-19 and Contraception Report. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The secrecy that sexual and reproductive health issues have been shrouded in has helped fuel misinformation and incomplete information. This has hurt their choices in this area, threatening Kenya’s social and economic stability. 
+
+As the future of this country, their sexual and reproductive health rights need to be guaranteed. In addition to this, there is a direct link between delivery of sexual and reproductive health information and products and realisation of the demographic dividend of young people for the attainment of socio-economic development outcomes. 
+
+The youth should also be given the space and support to be part of the solution by, for instance, leveraging their digital nativity to partner with government and other non-governmental actors in the development of solutions driven by technological innovation. 
+
+Policy-making processes 
+
+Such solutions can help arm them with information on their sexual and reproductive wellbeing and ensure sustainable access to commodities. 
+
+The other way to participate is by adding their voices to these issues. Young people should be supported to participate more meaningfully in policy-making processes that relate to sexual and reproductive health to ensure their interests are catered for. This includes public budget-making processes and health sector planning forums. Youth-led platforms such as #formnigani and Y-Act offer good avenues for mobilisation. 
+
+Failure by the youth to agitate may see their issues fall off the priority list, or attract half-hearted efforts that are not followed through. For instance, despite contraception being identified as an essential service during the Covid-19 pandemic, policy enactments were not mapped to needs and behaviour of young people. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The Kenya COVID-19 RMNH Guidelines by the Ministry of Health classified contraception as an essential service, yet limited community-based distribution to condoms and oral pills (which are just 22 per cent of the contraception uptake by Kenyans). 
+
+Young people must also recognise their inaction and failure to effectively organise and engage government is part of the reason many political promises and commitments go without action; and enabling policies remain unimplemented. 
+
+Take the National Adolescent Sexual and Reproductive Health Policy, which remains largely unimplemented. If adequate investment and attention are put behind targeted and comprehensive policies, they would help unlock access, particularly if this is backed by proper data that gives insight into service delivery gaps, particularly the regional disparities in prevalence of contraceptives. 
+
+ It would also create a strong rationale for national and county governments to have clear budgetary allocations and budget lines for family planning with prudent accounting to ensure optimum use of funds. This is particularly critical now, with donors halting or slowing down advocacy and community outreach to combat the pandemic. 
+
+If we are going to sort out anything for them, then let it be their sexual and reproductive health rights. Besides the direct risk this poses to the individuals, the nation could suffer too from over-population as unplanned and teenage pregnancies rise, disrupted education and rise in poverty. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
