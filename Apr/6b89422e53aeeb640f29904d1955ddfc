@@ -1,0 +1,147 @@
+A court in Homa Bay has temporarily suspended the burial of Rachuonyo North Assistant County Commissioner James Momanyi Mabeya over a family disagreement. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The court gave orders that the burial of the administrator be suspended until a case filed by a woman claiming to be Mabeya's second wife is heard and determined. 
+
+Mabeya died on April 5 while being treated at a hospital in Eldoret. 
+
+His family had made plans to bury him on Saturday, April 10, at his home in Cheranganyi. 
+
+But the court ordered the family to suspend the burial plans after a woman from Homa Bay filed a case accusing the family of failing to recognise her as Mabeya’s second wife. 
+
+In the case filed under certificate of urgency, Eve Adhiambo Okuku, the complainant, argued that she is Mabeya’s second wife and should be recognised by the family. 
+
+Pacifica Nyaboke, Brian Kegicha, Andrew Mabeya and Jeyi Mabeya have been listed as the first, second, third and fourth respondents in the case respectively. 
+
+Homa Bay Principal Magistrate Joy Wesonga while giving directives, restrained the respondents from burying the deceased in the absence of the complainant. 
+
+“It is hereby ordered that a temporary order of injunction restraining the respondents by themselves, their agents or any other person from removing the body of the deceased from the mortuary and burying him at Cheranganyi home in the absence of the applicant whom they have failed to recognise as second wife to the deceased,” Ms Wesonga ordered. 
+
+The magistrate also ordered police to surrender a car that was at Kendu Bay Police Station to the applicant. 
+
+“The applicant is hereby restrained from disposing off the said motor vehicle pending hearing and determination of this application,” the court ordered. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+An inter partes hearing for the case will start on April 13. Agnes Wangui wants court to allow DNA test to confirm the paternity of her two children she claims she had with the lawmaker. She was stopped from inheriting her late husband's land because she remarried. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
