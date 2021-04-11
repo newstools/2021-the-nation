@@ -1,0 +1,145 @@
+The government is in talks to re-introduce 4K agricultural clubs in private and public schools in Kenya. The 4 Ks in the abbreviation stand for Kuungana (uniting), Kufanya (doing), Kusaidia, (helping) Kenya, which means acting together towards a positive agricultural outcome that can be felt nationwide. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The idea behind this renewal is to stir agricultural interest in the majority youth population. It is hoped that dynamic interest in new and tech-enabled methods of farming can revolutionise the sector, which is said to contribute at least a third of our gross domestic product and employ 70 per cent of the rural population, as well as four out of 10 Kenyans in general. 
+
+It is important to consider the key issues that created the apparent need to renew interest in this field. The first is in the numbers. Data shows that smallholder farms account for 70 per cent of Kenyan agricultural produce in the market. A smallholder farm is defined as two hectares (about five acres) and smaller. A GSMA report on financial inclusion in agriculture indicates only two out of 10 smallholder farmers are covered by formal value chains, which guarantee that one’s wares will be purchased and distributed. 
+
+Poor outcomes 
+
+For everyone else, uncertainty reigns from the planting to harvesting time, after which farmers hope produce will be bought at a fair price. The assertion that the youth are not taking part in agriculture is completely untrue. Kenyan youths all over the country have seen their peasant parents and grandparents humbled repeatedly by poor agricultural outcomes. 
+
+This has been a key driver of rural-urban migration: people do not want to be tied to an unreliable hope, which is the sad truth of smallholder farming as it is now. Until targeted investment is made in smallholder farmers, this sector will not grow as it should. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Another key issue is gender concern. A Food and Agriculture Authority (FAO) report says women comprise up to 65 per cent of the agricultural labour force in Kenya. They are unpaid workers on family farms, besides having to do most of all of the care work in the home. They are lowly paid labourers in other farms and agricultural enterprises and do two-thirds of the work required to grow coffee, for instance. 
+
+Quality seeds 
+
+However, women are less likely to own or rent land than men, and when they do, it is smaller parcels of poorer quality. This lower access to land means women cannot afford inputs like fertiliser, quality seeds and labour. Lack of title deeds also denies them credit from banks. Agricultural support services, such as extension offices, are also unaware of the issues women face, and thus cannot contribute towards bridging them. 
+
+Paying them fairly, offering value for time and effort and giving legitimate respect and work satisfaction will easily attract new entrants to the agricultural field. The youth need not be lured – some would say conned – back into agriculture through trendily branded, cute and shiny clubs, if the right systemic investments are made in the sector to benefit everyone. 
+
+okoreschea@gmail.com The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
