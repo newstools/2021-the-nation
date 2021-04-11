@@ -1,0 +1,239 @@
+Palace's work rate improved in the second half as Chelsea moved into game-management mode with the points in the bag.Benteke reduced the deficit in the 63rd minute with a thumping header from Jeffrey Schlupp's cross. London 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Chelsea boosted their bid to finish in the Premier League's top four as Kai Havertz and Christian Pulisic starred in a 4-1 win at Crystal Palace on Saturday. 
+
+Thomas Tuchel's side blew Palace away with a swaggering first half display inspired by Germany midfielder Havertz. 
+
+Chelsea are up to fourth place and sit two points clear of fifth placed Liverpool. 
+
+West Ham, also two points behind the Blues, would reclaim fourth if they beat Leicester on Sunday. 
+
+Havertz has endured a difficult time since his close-season move from Bayer Leverkusen, but he gave a rare glimpse of his quality with the opening goal in south London. 
+
+The 21-year-old turned provider to set up Pulisic for the second goal before Kurt Zouma put Chelsea three up after 30 minutes. 
+
+Christian Benteke got one back for Palace in the second half, but Pulisic netted again as Chelsea cruised to their first win in three league games. 
+
+Tuchel suffered his first defeat in 15 matches since replacing the sacked Frank Lampard when West Bromwich Albion claimed a 5-2 win at Stamford Bridge last weekend. 
+
+That stunning setback was followed by a training ground bust-up between Chelsea defender Antonio Rudiger and reserve keeper Kepa Arrizabalaga. 
+
+But Chelsea had eased fears of a late-season collapse with a composed 2-0 win against Porto in the Champions League quarter-final first leg on Wednesday. 
+
+This was another confident step in Chelsea's revival under Tuchel, who faces a big week as the Blues take on Porto in the second leg on Tuesday before playing Manchester City in the FA Cup semi-finals on Saturday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Tuchel recalled Pulisic, Zouma and Callum Hudson-Odoi, with the misfiring Timo Werner among those to miss out. 
+
+"On form and on work rate. We used Timo Werner lots and are close to overuse," Tuchel said of his decision to rest the struggling German forward. 
+
+Thanks in large part to Havertz, who started in the central striker's role Werner has failed to fill, Chelsea tore Palace to shreds in a blistering start. 
+
+Havertz has arguably fared even worse than Werner in his first season, but in the eighth minute the German showed why the Blues paid £71 million ($97 million) to sign him. 
+
+Taking Hudson-Odoi's pass on the right-hand side of the Palace area, Havertz advanced with intent before stroking a fine finish in the far corner from an acute angle. 
+
+It was only his second league goal for Chelsea and his first in any competition since January. 
+
+Pulisic is another of Chelsea's forwards who has slogged through a difficult season marred by injuries. 
+
+But the United States winger joined forces with Havertz to double Chelsea's lead 102 seconds later. 
+
+Havertz was the creator with a cutback that Pulisic took in stride before smashing a rising drive past Vicente Guaita from close-range. 
+
+Havertz looked in the groove at last and he showed sublime touch to control Mason Mount's lofted pass, looping it over bewildered Palace defender Gary Cahill for a low strike that forced a superb save from Guaita. 
+
+Chelsea hadn't scored more than two goals in any of their previous 16 matches under Tuchel in all competitions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Zouma ended that streak in the 30th minute as Mount swung in a free-kick and the French defender rose above Cahill to power his header past Guaita. 
+
+Palace's work rate improved in the second half as Chelsea moved into game-management mode with the points in the bag. 
+
+Benteke reduced the deficit in the 63rd minute with a thumping header from Jeffrey Schlupp's cross. 
+
+But Chelsea had the last word when Pulisic bundled home James' deflected cross in the 78th minute. Watkins had given Aston Villa the lead in the first half. Stuart Dallas scored both goals for Leeds United. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
