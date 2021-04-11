@@ -1,0 +1,229 @@
+Manufacturer and overseas competitors with freight can, by appointment, arrange for earlier access to the Service Park. A special medical and rescue team is putting final details to plans for hosting the World Rally Championship Safari Rally. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The team, led by Dr Raj Jutley and Norris Ongalo, will handle about 42 rescue vehicles in addition two helicopters which will be placed at strategic points on every stage of the rally,  just to take care of any incident. 
+
+Jutley is the official Medical Officer for the WRC Safari Rally while Ongalo is the Chief Safety Manager.  
+
+The first batch of 21 vehicles will have three safety marshals. A doctor and nurse will be placed in the next lot. 
+
+“Our job is to visit every stage and point out of any possible incidents or accidents that may require the attention of the team during the competition,”  Ongalo told Nation Sport. 
+
+Tour of the route 
+
+The media’s input in the Safari Rally is considered very vital, and yesterday, rally organisers took journalists on a tour of the last three competitive stages of the World Rally Championship event. 
+
+Anwar Sidi, the main Media Safety and Route Coordinator for the Kenya’s round of the 2021 World Championship, was at the forefront of the team once again giving details of each point along the stages of the competition. 
+
+Sidi led a full team of journalists to the last three stages of the competition and gave a detailed explanation regarding the state of the sections. 
+
+The Elmenteita Stage is five kilometres long and will be tackled twice. Using tracks from Safari Rally of old, the stage takes in roads of the Soysambu Conservancy on the Delamere Estate and features new sections. 
+
+The Delamere Estate has been part of the Safari Rally for decades, and the support the family has given to the event is enormous. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Soysambu is 20.33km long and will also be tackled twice. Soysambu will feature as the WRC Live TV stage. There is a large spectator and hospitality area at the start of the section, and journalists will have an opportunity to get up close with the cars before they start the special stage.   
+
+Spectacular stage 
+
+The last stage of the Sleeping Warrior will be 31km long. In the shadow of a hill that resembles a sleeping Masai warrior, the special stage criss-crosses the natural plain before a rocky finish. 
+
+The longest stage of the event is likely to be tricky for the crews. High-speed sections and coarse lava on the surface of the road will prove a major test for the car tyres.  
+
+The “shakedown test” stage is located in the Ndulele Conservancy in Naivasha. It is 5.40km long and will be open to all participants (it is compulsory for all Priority One drivers). 
+
+The Safari Rally will see modern WRC Rally car drive on African soil for the first time in 19 years. The Main Service Park is located 30.94km from the “shakedown” start and will be used as the main service venue.  
+
+It will have the communication centre, garages, stores and catering Services. Teams will also be allocated areas for servicing their cars. 
+
+The “B1 WRC Cars” like Hyundai, Ford, Toyota and Citroen will be provided with a space of 65 metres by 25 metres. 
+
+A total of 15  “B2” cars will each be allocated spaces measuring 12m by 12m and 10m by 10m.  
+
+Competitors can access the Service Park from June 18 at 10:00hrs. Only competing cars and vehicles with special windshield decals “Service” and “auxiliary” issued by organisers will be allowed in.  
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Manufacturer and overseas competitors with freight can, by appointment, arrange for earlier access to the Service Park. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
