@@ -1,0 +1,541 @@
+You can feel the pride colouring aeronautical engineer Samuel Ndaro’s voice when he describes a design change he introduced on some Boeing aeroplanes. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+When he worked in a department dealing with the 787 series commonly known as the Dreamliner (Kenya Airways has eight of those), he applied his design skills on an aeroplane component called the scuff plate. 
+
+It is a seemingly simple but crucial part of an aeroplane because it can be punctured or develop rust and in effect ruin the main body’s integrity. It is most exposed when a jet bridge is attached to the plane for passengers to walk in or out. 
+
+“When you step onto the plane, there is a metallic thing that you step on,” he says. “It used to be three pieces on the 787 but now it’s one piece. I redesigned that.” 
+
+Even with the limited non-verbal cues that our online call can transmit between Nairobi, Kenya and Missouri, United States, the excitement in the engineer is unmistakable. 
+
+“Every time I fly on that plane, I get really emotional. I can’t imagine a boy from Buxton, Mombasa, designing a 787. And actually I see my parts on an aircraft. It’s just unimaginable,” says Samuel. 
+
+He has been at Boeing since June 2013. In those seven years, he has been promoted every year except in 2015. He currently holds two managerial roles, his official title being “Advance Product Support Leader and Adjacent Programme Manager”. Quite a résumé for a man who is turning 38 at the end of April. 
+
+“I go into offices and I’m always the youngest guy there. And I’m almost always the only black guy there,” he says, laughing. 
+
+How did this numbers geek who went to the US in December 2002 as a penniless but ambitious boy, armed with an A- in KCSE that he had obtained from Alidina Visram High School, rise to a managerial position at Boeing? What are his thoughts on the controversies surrounding the Boeing 737? Why did he serve in the US army for only four years? And is it possible for a Kenyan today to follow the same path he took? 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He answers those questions as he tells his story, which, like a classic novel, has a crucial turning point. It is a story he tells to the point of being overwhelmed by emotion when he remembers the sacrifices his parents made to ensure he progressed. 
+
+And, thankfully, it is a story he gets to explain in more detail because a meeting following our initial 30-minute appointment gets postponed. He has so many meetings in a day that he rarely leaves his desk to have lunch. 
+
+It all started at Buxton in Mvita Constituency, Mombasa. 
+
+The firstborn among three children, Samuel’s first learning institution was Burhaniya Primary School, where he attended classes up to Standard Four then was transferred to Loreto Convent, a private school in the coastal town. 
+
+
+
+
+
+
+Aeronautical engineer Samuel Ndaro with his wife Eve Tsuma and their children inside Boeing premises.
+Photo credit: Pool
+
+ 
+
+Samuel’s father Shadrack Ndaro says the transfer was out of the need to have an academically challenging environment for the young boy who was always on top of his class. 
+
+“There was a deputy headmistress at Burhaniya Primary School who told us that if he continued to be there, he would weaken in upper primary because his constant success would get into his head,” Mr Ndaro told Lifestyle. 
+
+But the transition was easier said than done. Loreto is not a cheap school and Mr Ndaro, a man without post-secondary education who has worked with Kenya Ports Authority for decades, could hardly afford to pay the fees. 
+
+Samuel recalls the culture shock: “Most children were being dropped to school in cars; I took a matatu. And every day I would hope that my parents had money to give me something to buy lunch.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“When that list of ‘you haven’t paid for tuition; you have to go home’ was read, I was always there,” he adds. 
+
+Mr Ndaro was then a records clerk at the KPA registry office. He says Samuel was schooling with the children of his bosses at the port. 
+
+Thanks to the determination of his parents, Samuel stayed put at Loreto, and while there he joined the Missions to Seamen Sea Scouts that soon introduced him to competitive sailing. He sat his KCPE in 1997 and scored 487 out of the possible 700 marks. 
+
+“I was really disappointed (by the score). I expected more of myself,” he says. 
+
+His ambitions of going to a national school quashed, he had to make do with being a day scholar at Alidina Visram. 
+
+In secondary school, he realised that he had a natural connection with subjects that involved numbers. 
+
+“The only thing that I loved in school was math, accounting, and physics,” he recalls. 
+
+He continued with his sailing, and because he had become good at the sport, soon he was heading to other countries for competitions. 
+
+While in Form One, he went to South Africa for the competition. In Form Three, he went to Australia. His return from Australia is what sparked the turning point in his life. There was an exam to determine index numbers for KCSE candidates and he flunked most tests, including mathematics — his favourite. 
+
+“This was my lowest maths result ever,” Samuel recalls. “One of my close colleagues, who is a lawyer right now in Kenya, was like, ‘Hey, Sam, I’m really disappointed. You just didn’t do what you’re expected to do.’ And that hit me hard.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+He made a decision to give more attention to his studies and tone down on some extraneous interests he had, for instance following the English Premier League, and Manchester United in particular, with so much zeal. 
+
+“That was the pivotal moment. So, that weekend, in that disappointment, I went home and created a timetable of how I was going to study until I got to KCSE,” he recalls. 
+
+From then on, his morning studies began at 4am. After classes and supper, he would study well into midnight on some days. This saw his grades improve on all subjects. From position 36 out of 120 in the indexing examination, he progressed gradually and in KCSE he was among the six best students at the school and the 44th of the top 100 candidates in Coast Province. 
+
+That success ingrained a drive in him; a push to always be deliberate about what he does; a desire to plan the end of whatever he gets into. He says that is why he has risen to where he is. 
+
+“I set a target and I work towards it,” he says. 
+
+After KCSE, he began researching on the Internet about institutions that could admit him. He knew he would definitely secure admission at a Kenyan university but his sight was trained overseas. 
+
+“If I went to a Kenyan university, my family would not be where it is today,” he says. 
+
+Wichita State University was the most approachable in his online correspondences. He secured a place to study aerospace engineering. With great difficulty, Samuel’s father managed to raise airfare for him to travel to the US. Samuel also raised some money by being a sailing trainer. But even if he had flown to the US, he could not join school until some fees was paid. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-5");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Mr Ndaro was then stressed thin about where he could get money to enable Samuel join Wichita. By then, Samuel was living with his grandmother’s brother in New Jersey. 
+
+Mr Ndaro is thankful to the then KPA Managing Director Brown Ondego for offering a rare opportunity. Mr Ondego’s son was a friend of Samuel’s from the sailing circles. 
+
+“I think Samuel shared the story that he’d got a chance to fly abroad but he had slim chances of going. I think that young man went to share that at the family table,” Mr Ndaro said. 
+
+Moved, Mr Ondego summoned Mr Ndaro to his office and that started the process of having senior KPA executives raise an equivalent of $200 (Sh21,600) then, which was Samuel’s pocket money. 
+
+Paid his fees 
+
+The KPA boss also had Mr Ondego’s salary advance restrictions waived and that meant he could get an advance to be deducted over 11 months. That is how he got around Sh124,000 that he sent to Wichita and Samuel could finally join university in August 2003. And that is the last amount he ever sent to Samuel. 
+
+In university, Samuel got a job and used the savings to pay for his fees. When the time for internship came, he secured a position at Bombardier Learjet, an aircraft manufacturer. He was engaged with Bombardier between 2005 and 2009. He left there in June 2009, a month after graduating with his degree in aerospace engineering with a minor in mathematics from Wichita State University. 
+
+From there, he joined the US army. 
+
+“I was in the US military as a helicopter engine repairer,” he says. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-6");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+While in the army, one’s education is paid for. Samuel took advantage of the opportunity to join the Embry Riddle Aeronautical University and did a double Master’s in aeronautical science and aviation aerospace management. 
+
+But he did not plan to stay in the army for too long. In May 2013, he left the army. He has a “veteran” tag that makes people very employable in the US. 
+
+“I knew I was going to do four years in the military and then I would get out,” Samuel says. 
+
+In June 2013, he started his engagement with Boeing as a structural engineer in the 787-8/9 programme. 
+
+He held that role for a year and in June 2014, he became the technical lead design engineer in the 787-8/9/10 programme. It was in this position that he led a team into redesigning the body floor grid and door surround structures. 
+
+While dealing with the Dreamliner fleet, he recalls, he once held talks with Kenya Airways executives. 
+
+“I met those people and walked them through the 787 and discussed any issues that they had with the plane and things like that,” he says. 
+
+He was there until April 2016 when he became a technical lead and liaison engineer at the Boeing’s space launch project. 
+
+“At the 787, I was doing really good and then the leadership started noticing that, ‘Hey, this guy is really hard-working; he can give more to the company,’” reasons Samuel. 
+
+
+
+
+
+
+Samuel Ndaro (in graduation gown) with his wife Eve and parents Shadrack Ndaro and Joy Atieno when he obtained his bachelor’s degree from Wichita State University in 2009.
+Photo credit: Pool
+
+ 
+
+Come September 2017, he was on the move again, this time getting his first managerial role when he was appointed the manufacturing operations manager for Boeings’s space launch system. He attributes his fast rise to his passion and innate leadership abilities that caught the attention of his superiors. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-7");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+April 2018 was a movement month again. He became the defence modification and sustainment engineering manager. 
+
+It was during his stint at that post that Boeing grabbed the headlines for all the wrong reasons when an Ethiopian Airlines plane heading to Nairobi from Addis Ababa crashed, killing 157. The problematic Manoeuvring Characteristics Augmentation System (MCAS) in the Boeing 737 aircraft was among the factors contributing to the crash, and it led to grounding of Boeing planes in the series between March 2019 and December 2020. The Ethiopia crash happened just months after a similar aircraft had crashed in Indonesia. 
+
+Samuel says the developments were disappointing. 
+
+“We were all empathetic about the whole situation,” he says. “We never design planes for such things to happen. As a design engineer myself — and I designed 787 — safety is the number one thing that we think about. There is absolutely no designer at Boeing that goes out intentionally to cause harm.” 
+
+He goes ahead to defend the Boeing 737 models that are now back in operation. 
+
+“Right now, I would get on the 737 because I trust the process of everything that we’ve done to put that plane back into the sky. It is actually the safest plane you can get on right now,” he says. 
+
+As a result of the accidents and the grounding of the fleet, he says, Boeing staff missed pay raises and bonuses. 
+
+“And it was like a perfect storm: The pandemic happened; so nobody was flying,” he says. 
+
+In April 2019, he was moved to be senior manager in technical data solutions. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-8");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+Here, he was leading “a cross-functional team of over 180 engineers, nine managers and a budget of $25 million” as indicated in his curriculum vitae. 
+
+He held that role till November 2020 when he took up his current appointment. Some of his current responsibilities include leading the development of next generation technology and starting new fighter programmes. 
+
+“I have four senior managers reporting to me. And they have multiple people under them,” says Samuel. 
+
+He says the catalysts for his rise have been his parents and his wife. He met his wife, Eve, while in the US. She had also flown from Kenya for nursing studies there. Incidentally, they both hail from the Coast. They have a daughter aged nine and a seven-year-old son. 
+
+“And a lot of people say it lightly but, hey, behind every successful man there’s a woman. I truly believe that I would not be here without my wife,” he says. 
+
+“I would never want to go through this journey with anybody else. If I had to do it all over again, I would have wished I met her earlier,” adds Samuel, who wedded Eve in a civil wedding in Kenya. 
+
+His days typically start at 4am when he heads to the gym. He starts his work at 7am with a daily briefing on various projects. 
+
+He likes leaving his workplace as early as possible because he treasures moments spent with his children. 
+
+“I’m involved with what they do; the activities they do and everything. I like to take them to the activities and stuff like that,” he says. 
+
+
+
+
+
+
+Aeronautical engineer Samuel Ndaro with his wife Eve Tsuma.
+Photo credit: Pool
+
+ 
+
+To reach where he is, he encourages people to embrace science, technology, engineering and mathematics (Stem) subjects: “Stem is critical.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-9");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+He also tells Kenyans not to limit themselves to the circumstances around them wherever they are. 
+
+“You have the Internet now. Do the research, set some goals, do all you can to achieve those goals,” he says. “You’ve got to be honest with yourself, evaluate yourself, and work on your weak spots. Everybody has a good side and a weak spot. Make sure you work on the weak spots and improve yourself.” 
+
+Samuel has helped his younger sister relocate to the US where she works with the Bank of America. He has also helped his younger brother in Kenya open a business. 
+
+He has also assisted his parents, who were full of gratitude when they spoke to Lifestyle from their rural home in Ganze, Kilifi County. They have relocated there because Mr Ndaro is set to retire from KPA in June and is on terminal leave. 
+
+“Samuel amenitoa mbali sana. Pale ambapo amenifikisha, ni Mungu tu (Samuel has brought me far. I can only credit God for the far he’s brought me),” said his mother. 
+
+Mr Ndaro said Samuel’s disciplined nature has contributed to his rise. 
+
+“The fear of God is the beginning of all wisdom. Anyone who respects God will respect his parent and his teacher. And whatever small task he gets, he’ll respect his supervisor and will even respect his work and his family,” he noted. 
+
+As for his leadership qualities, Samuel says: “Those things come naturally to me.” 
+
+eondieki@ke.nationmedia.com Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
