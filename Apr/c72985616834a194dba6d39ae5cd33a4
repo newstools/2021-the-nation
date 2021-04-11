@@ -1,0 +1,159 @@
+Safaricom added 14,217 homes and offices to its fixed internet service in the three months to December, driven by growing demand as people worked remotely due to the Covid-19 safety measures. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The latest data from the Communications Authority of Kenya (CA) shows that the telco had 243,623 homes and offices under its fixed internet connections in the period but its share of the market remained un-changed at 35.6 percent. 
+
+This is a jump from 229,406 connections that Safaricom had at end of September as it continues to pull away from its closest rival Wananchi Group-owned Zuku. 
+
+Zuku increased its subscribers to 206,989 in the three months to December from 202,237 connections in September but saw its market share drop 1.2 percentage points to close at 30.2 percent. 
+
+The pair— which controls over 60 percent of the fixed internet market have since March last year banked on the growing demand for internet by people working from home to grow their customer numbers. 
+
+Flexible hours 
+
+Safaricom has been ramping up its investments in the sector and reckons that it remains largely un-tapped. 
+
+“As we increase the richness of our portfolio, new services will fuel further growth – especially as working from home and working longer, more flexible hours become the new normal,” Safaricom says it its latest report. 
+
+“We have opportunities to drive both activity and penetration as we monetise the investment we made in the second half of last year.” 
+
+In the three months to December, the number of homes and offices connected to fixed internet grew six percent to 684, 317 from 644, 816 in September as the service providers increased investments to match the growing demand. 
+
+Demand for fixed internet has been on the rise even after the State eased Covid-19 restrictions from July last year with more businesses and government offices sticking to the work from home policy. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The rise in customer numbers strengthens Safaricom’s push to diversify and ramp up revenues from data and M-Pesa services amid saturation in the voice market. 
+
+Double bandwidth service 
+
+Safaricom says its revenues from fixed homes and offices grew 10.7 percent to Sh8.97 billion in the period to March last year from a year earlier underlining the vast growth opportunity in the sector. 
+
+The telco in March last year launched a double bandwidth service which enables users to access high speed internet at half the price as a way of supporting the government’s call on Kenyans to work from home. 
+
+As part of driving revenues from fixed and mobile data, Safaricom last month launched fifth-generation (5G) mobile Internet services in major urban centres including Nairobi, Kisumu, Kisii and Kakamega that is expected to boost speeds. 
+
+Safaricom became the first operator to offer commercial and superfast 5G services in East Africa with an eye on deepening innovation in sectors such as health and agriculture. 
+
+jmutua@ke.nationmedia.com It is not only Kenya’s public debt that has been growing over the past decade. Eric De Jong offers silage-making services where he harvests maize crop, chops into tiny pieces using machines, compacts and later bales in a business that has seen the investor reap in a sector... The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
