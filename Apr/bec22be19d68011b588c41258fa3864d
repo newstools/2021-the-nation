@@ -1,0 +1,223 @@
+On Saturday, President Hassan received a message of goodwill and an invitation to visit Kenya from President Uhuru Kenyatta. Tanzania’s President Samia Suluhu Hassan has agreed to revive formal interactions with Kenya, which would be done through a joint organ with representatives from the two countries. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+On Saturday, President Hassan received a message of goodwill and an invitation to visit Kenya from President Uhuru Kenyatta. 
+
+But the matter at hand was to bring to life the Joint Co-operation Commission, seen as a better way of handling frequent trade spats between the two countries. 
+
+Saturday’s event at State House Dar es Salaam came as the Tanzanian leader prepared for her maiden trip as Head of State to Uganda, where she is expected to sign a deal for the1,443km oil pipeline from Uganda’s Albertine Basin to Dar es Salaam; a transaction that is expected to boost relations between Dar and Kampala. 
+
+The $3.5 billion (Sh374 billion) project that involves oil giants Total and China’s CNOOC could be a launchpad to more joint projects. The pipeline will need lots of electricity, attendant roads and railway and could provide jobs for the engineers and other related specialists. 
+
+In Kenya, the pipeline project agreed in principle in 2016, is seen as a diplomatic coup by Tanzania, after Nairobi spent years courting Kampala for the project to pass through Kenya. Tanzanians pitched free land, enhanced security and a project that could cost $1 billion (Sh107 billion) less than what Kenya had proposed. 
+
+First delegation 
+
+On Saturday, President Kenyatta, who is the current chairman of the East African Community, sent veteran diplomat Amina Mohamed, the Sports Cabinet secretary, to deliver a message to Dar es Salaam. It was a first such delegation since President Hassan took over power on March 20 after the death of President John Pombe Magufuli. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“We have received assurances that they are ready to work with Tanzania and they are ready to work towards strengthening our relations and that we can work towards the prosperity of our respective countries as well as the East African Community,” the Tanzanian leader told reporters after meeting the Kenyan delegation. 
+
+“There are more issues we will discuss through diplomatic channels so that we can enhance our relations. It was a message of assurance and readiness to continue working with us.” 
+
+The two countries have had trade and health-related spats in the past five years. But their resolution have often been left to administrators, rather than diplomats, to handle. 
+
+Joint commission 
+
+President Hassan’s spokesman Gerson Msigwa said the Joint Commission on Co-operation will be revived and be the main channel of discussing or addressing issues affecting the two countries. 
+
+“The President had directed the ministers and the technical officials who form the JCC, who have not met since 2016, to urgently meet to resolve the various issues affecting the two countries,” Mr Msigwa said. “The President received an invitation for a state visit from President Uhuru Kenyatta. He assured President Samia Suluhu that Kenya is ready to engage with Tanzania at any time for the mutual benefit of the two countries.” 
+
+The JCC was formed during Ali Hassan Mwinyi’s reign in 1988, as his approach to reach out to Kenya’s Daniel Moi’s administration “in order to deepen economic and political ties between the two East African nations.” 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The EAC was dead at the time. But the commission has met only rarely in the three respective presidencies of both countries. 
+
+Under Magufuli, the commission met once, and only after he and President Kenyatta met in Nairobi in October 2016. It had taken four years before that. A meeting of the JCC in December 2016 was incidentally led by CS Amina Mohamed, who was then the Foreign minister, and Tanzania’s Augustine Mahiga. Dr Mahiga died last year. 
+
+Both sides now believe that the JCC will enable permanent solutions to constant trade and diplomatic fights. When Dr Magufli visited Kenya in December 2016, his last official trip here, some 529 companies from Kenya were investing in Tanzania, employing about 56,000 Tanzanians. But continual mistrust or policy mismatch between the two countries has often hindered business flow. 
+
+amutambo@ke.nationmedia.com President Suluhu has started rolling back some of her predecessor’s controversial decisions. The officials are in Uganda for the signing of the crude oil pipeline deal with Total. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
