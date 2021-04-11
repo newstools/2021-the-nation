@@ -1,0 +1,259 @@
+The team began excavations in September between the temples of Ramses III and Amenhotep III near Luxor, some 500 kilometres (300 miles) south of Cairo. Luxor, 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Archaeologists Saturday showed off their finds at what they say is the "largest" ancient city ever found in Egypt, dating to a golden age of the pharaohs 3,000 years ago. 
+
+At the site near Luxor, home of the legendary Valley of the Kings, workers carefully carried ancient pots and showed human and animal remains dug up from the earth as members of the media toured around curved brick walls and rudimentary streets. 
+
+"This is a large city that was lost. It was connected with the god Aton and Amenhotep III," famed Egyptologist Zahi Hawass enthusiastically told reporters Saturday. 
+
+"We found three major districts: one for administration, one for workers to sleep in and another for industry," he said. 
+
+Spaces include workshops for drying meat, making clothes and sandals, and crafting amulets and small statues. 
+
+Mostafa Waziri, head of the country's Supreme Council of Antiquities, said the site was not limited to buildings. 
+
+"We can see... economic activity, workshops and ovens," he said. 
+
+Hawass had announced earlier this week the discovery of a "lost golden city", and the archaeological team said the find was "the largest" ancient city ever uncovered in Egypt. 
+
+"We found one portion of the city only," Hawass told AFP Saturday. "The city extends to the west and the north." 
+
+
+
+
+
+
+A picture taken on April 10, 2021, shows workers carrying a pot at the archaeological site of a 3000 year old city, dubbed The Rise of Aten, dating to the reign of Amenhotep III, uncovered by the Egyptian mission near Luxor.
+Photo credit: Khaled Desouki | AFP
+
+ 
+
+The history 
+
+The team began excavations in September between the temples of Ramses III and Amenhotep III near Luxor, some 500 kilometres (300 miles) south of Cairo. 
+
+Amenhotep III inherited an empire that stretched from the Euphrates River in modern Iraq and Syria to Sudan and died around 1354 BC, ancient historians say. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+He ruled for nearly four decades, a reign known for its opulence and the grandeur of its monuments, including the Colossi of Memnon -- two massive stone statues near Luxor that represent him and his wife. 
+
+Betsy Bryan, professor of Egyptian art and archaeology at Johns Hopkins University, had said in a statement this week that the find was the "second most important archaeological discovery since the tomb of Tutankhamun" nearly a century ago. 
+
+"The archaeological layers have laid untouched for thousands of years, left by the ancient residents as if it were yesterday," the team's statement said. 
+
+Archaeologists have unearthed items of jewellery, coloured pottery vessels, scarab beetle amulets and mud bricks bearing seals of Amenhotep III. 
+
+Hawass said "a large fish covered in gold" may have been venerated. 
+
+
+
+
+
+
+A picture taken on April 10, 2021, shows a worker covering an animal skeleton at the archaeological site of a 3000 year old city, dubbed The Rise of Aten, dating to the reign of Amenhotep III, uncovered by the Egyptian mission near Luxor.
+Photo credit: Khaled Desouki | AFP
+
+ 
+
+Team optimistic 
+
+Jose Galan, head of a separate Spanish archaeological mission near the Valley of the Kings, told AFP Saturday that the site was "a fantastic discovery". 
+
+"We are used to discoveries related to temples and tombs so we know about religious life and funerary habits. But we don't know much about settlements," he said. 
+
+The team have said they were optimistic that further important finds would be revealed, noting the discovery of groups of tombs reached through "stairs carved into the rock", a similar construction to those found in the Valley of the Kings. 
+
+But since the announcement, some scholars have disputed that Hawass and his team have succeeded where others had failed by locating the city. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Egyptologist Tarek Farag posted Friday on Facebook that the area was first excavated more than a century ago by a team from New York's Metropolitan Museum. 
+
+Waziri dismissed these concerns, saying previous digs had taken place further afield to the south the site. 
+
+After years of political instability following the 2011 Arab Spring uprising, which dealt a severe blow to its tourism industry, Egypt is seeking to bring back visitors, in particular by promoting its ancient heritage. 
+
+Last week, the mummified remains of 18 ancient kings and four queens were transported across Cairo from the Egyptian Museum in iconic Tahrir Square to the new National Museum of Egyptian Civilisation, in a procession dubbed the "Pharaohs' Golden Parade" watched by millions. The mummified remains of 22 ancient Egyptian kings and queens will be paraded through the streets of Cairo Saturday. CT Scan shows head injuries and wounds from a suspected execution ceremony. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
