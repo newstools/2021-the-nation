@@ -1,0 +1,263 @@
+Perhaps one of the most influential books in the 20th century is The Power Elite (1965) by American sociologist Wright Mills. The book drew attention to the rise of the power elite as “interwoven interests of the leaders of the military, corporate, intelligentsia and political elements of society”. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The rise of the power elite saw ordinary citizens become a relatively powerless subject of manipulation by this stratum. Because of its unity and consensus, this class became the cornerstone of democratic peace and stability as well as a driver of development. 
+
+The raging accords and discords now rocking the Kenyan elite, which reflect the worldwide crisis of the power elite and the growing uncertainty of liberal democracy, pose a threat to stability and sustainable development. Globally, the surge of rightwing populism and the ascendancy of Donald Trump in 2016 fragmented the power elite and weakened the liberal consensus. 
+
+In Kenya, the March 9, 2018 “handshake” between President Uhuru Kenyatta and opposition chief Raila Odinga signified the return of the power elite and the nationalist consensus to underpin stability and sustainable development. 
+
+From 1966, Kenya’s power elite, itself forged on the anvil of the anti-colonial struggle, became badly fragmented, leading to the rise of parochial ethnic nationalism that still haunts the country. 
+
+The future of the “handshake” formed the thrust of the 2021 Uongozi High-Level Forum on Development under the theme ‘Bridges to Stability: Reforms and Development for Post-COVID-19 Recovery’ held at Villa Rosa, Kempinski in Nairobi on Friday. More than 50 professionals, business captains, diplomats, academics and other players examined the reforms proposed under the Building Bridges Initiative (BBI) as a framework of ensuring sustainable peace, stability and long-term development. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+2010 Constitution 
+
+Reforms under the BBI seek to improve on the 2010 Constitution of Kenya, which engendered fundamental changes in public governance. The law introduced a people-centred bottom-up approach to development, replacing the decades-old top-down centrist model. 
+
+The centerpiece of the 2010 Constitution is a devolved governance system based on 47 semi-autonomous counties as vehicles of grassroots development. It entrenched vertical sharing of power between the national and devolved governments. Laudably, BBI reforms seem to deepen devolution by increasing resources to the counties and devolving public wealth to the smallest unit of democracy – the ward. 
+
+However, it soon emerged the 2010 law lacked broadbased horizontal sharing of power, which would have ensured inclusivity and political stability. Besides, a narrowly cast executive that did not reflect the “face of Kenya” was blamed for the post-election chaos after the 2017 elections. 
+
+Youth bulge 
+
+Moreover, it was necessary to address the scourge of corruption, poor governance and structural violence across gender, generations, ethnic and other social fault lines. 
+
+The reforms have also focused on the youth, recognising the youth bulge as a double-edged sword. Africa’s demographic boom is expected to reach 2.5 billion by 2050 (about 26 per cent of the world’s total) and nearly 4.5 billion by 2100 (about 40 per cent of the world's total). 
+
+ If well-managed, this demographic dividend of the young people could significantly benefit and spur economic development in African nations. Stability is crucial for long-term planning and development to create jobs and spur production of goods and services. However, if poorly managed, the youth population could become a curse, leading to increased problem of drugs and alcoholism, greater instability and civil conflict. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-3");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-3']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+The road to the plebiscite and the 2022 elections is mined by three competing visions of power. 
+
+First is the BBI reform narrative, which seeks a peaceful transition of power in 2022 as its end-game. Sufficient consensus among the power elite is needed to move the “handshake” from a bridge to sustainable peace, stability and inclusive development. It is necessary to acknowledge and manage Kenya’s ethnic plurality to ensure inclusivity, unity, cohesion and stability. This calls for a nation and society based on the culture of the rule of law, integrity in public and private conduct and good governance practices. 
+
+Hustler narrative 
+
+The second is the hustler narrative, whose goal is to drive a wedge between perceived socio-economic classes as a strategy to retain the status quo and win power in 2022. It is necessary to effectively counter ideologies and slogans likely to divide the country, including political tribalism and the “Hustler” Narrative, which exploit the country’s poverty, economic hardships and inequality gap to win the hearts and minds of the poor classes. Reject the us-versus-them configuration of politics, which highlights class, gender or age as fault lines. 
+
+Third is the Jubilee succession game-plan, whose parameters are yet to become clear. At the one level is the succession matrix within the pivotal Mt Kenya region. At the second level is the murky succession politics, now spawning alliances and counter-alliances ahead of 2022. 
+
+The country’s power elite needs to return to the nationalist consensus and reconcile its competing visions of power ahead of the 2022 General Election. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-4");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+}
+
+
+
+
+It is necessary to make strategic compromises to transition the “Handshake” as a short-term truce to sustainable stability and development. This demands a common understanding and vision of building a stable community of shared interests, values and destiny for all Kenyans. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
