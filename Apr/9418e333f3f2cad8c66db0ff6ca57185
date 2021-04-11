@@ -1,0 +1,161 @@
+Local administrators, the police and religious leaders attribute the cases to family conflicts due to infidelity, drug and alcohol abuse especially among the youth, money-related stress and disintegrated families. The number of suicides and murders in families reported to have occurred in Molo and Elburgon, in Nakuru County, in the past three months is alarming. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Leaders, administrators and residents are all at a loss over what is driving people to commit suicides and the murders. 
+
+In two months, at least eight people have lost their lives in suicides and homicides. 
+
+The most recent suicide case was on Wednesday last week. A man’s body was found dangling from the roof of his house in Tayari, Molo. 
+
+He had a rope around his neck. According to Molo sub-county police boss Samuel Mukusi, the married man went missing before his decomposing body was discovered in the house. 
+
+“The landlord had failed to see him for three days. Upon enquiry, neighbours realised the door of his house was locked from inside. Police and residents broke into the house and found him dead,” said Mr Mukusi. 
+
+On February 26, a Form Three student aged 17 at Elburgon DEB secondary school committed suicide in her parents’ house under unclear circumstances. 
+
+In yet another incident, on February 6, a woman identified as Beth Wangui,36, threw herself, her nine-year-old daughter and three-year-old boy into Kamirithu dam. 
+
+Domestic wrangles 
+
+Local administrators, the police and religious leaders attribute the cases to family conflicts due to infidelity, drug and alcohol abuse especially among the youth, money-related stress and disintegrated families. 
+
+Mr Mukusi said some of the cases have been fuelled by domestic wrangles. “Most cases are as a result of infidelity among couples and poor parenting,”Mr Mukusi explained. 
+
+Molo MP Kuria Kimani attributed the suicides to frustrations among the youth especially in Elburgon town, who were rendered jobless after the ban on logging. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-2");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-2']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+“Those who worked as casual workers at Timsales Timber Industry have lost their jobs and are cornered by financial constraints,”said Mr Kuria. 
+
+Dr John Mwaura, a professional counselling psychologist, attributes the murders to unresolved marital conflicts, financial difficulties and addiction to drugs. 
+
+Bishop Charles Obuba, also linked the cases to lack of parental guidance, poor anger management, drugs and alcohol abuse. 
+
+“Some people resort to taking their lives due to issues in the family as they fail to handle domestic issues in the family way,”said Bishop Kariuki. 
+
+Rift Valley regional coordinator George Natembeya attributed the cases of juvenile suicide to how children are raised in families. 
+
+“All these cases are a reflection of moral decay in society, failure by parents to teach their children better ways of facing challenges. However, some cases are sometimes related to drug and substance abuse at a tender age, by minors,” he said. 
+
+ematara@ke.nationmedia.com Three tragic events: A fight over food, a couple’s quarrel, a murderous grandson. Stanley Mbugua’s body was found at his home in Elburgon a day after his disappearance. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
