@@ -1,0 +1,81 @@
+However, Mr Muturi has acknowledged that the several court cases against the proposed constitutional changes are likely to delay the referendum. National Assembly Speaker Justin Muturi is confident that parliamentarians will complete their work on the BBI constitutional amendment Bill within the specified time despite challenges occasioned by Covid-19 pandemic. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Mr Muturi said on Saturday that the joint team of the Senate and National Assembly’s Justice and Legal Affairs committees, led by Mutiri Kigano, will have completed its work by the time the two Houses resume their sittings. 
+
+He asked the committee to embrace virtual sessions in light of rules to contain the spread of the virus, adding that should physical meetings be necessary, he can allow use of the chambers as long as social distancing is observed. 
+
+He said the committee needs to meet physically for only five days in order to complete the work. 
+
+“We are on course but because of the interruption by the Covid-19 pandemic, we have given five days [for members] to wrap up and write a report,” he told journalists at his home in Mbeere, Embu County. 
+
+“On May 4, when the National Assembly resumes sittings, the report must be tabled for debate and voting.” 
+
+However, Mr Muturi has acknowledged that the several court cases against the proposed constitutional changes are likely to delay the referendum. 
+
+The speaker further asked committee members not to dwell on too many views when scrutinising the report, saying they cannot change anything. 
+
+On Thursday, Mr Kigano said the committee was looking at expert views given by various groups during public participation. These groups include the Independent Electoral and Boundaries Commission (IEBC), which spoke about the creation of new constituencies. 
+
+anjeru@ke.nationmedia.com The legislators will be recalled early next week to consider the Constitution of Kenya (Amendment) Bill 2020. The law change drive is facing a timeline nightmare even as Parliament goes on a one-month recess. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
