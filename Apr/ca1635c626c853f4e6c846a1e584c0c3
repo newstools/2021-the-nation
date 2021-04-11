@@ -1,0 +1,77 @@
+A High Court has ordered Equity Bank to pay the Kenya Revenue Authority Sh234 million after dismissing the lender’s appeal on the findings of the tax tribunal that monies written off as bad debts be treated as part of corporate tax. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Justice David Majanja ruled that Equity Bank had failed to demonstrate that it had exhausted all avenues to collect the debt. The judge argued that the bank was required to meet one or more of the prudential guidelines issued by the Central Bank of Kenya to satisfy the criteria for deducting bad debts. 
+
+The guidelines issued in 2013, set out the criteria for deducting bad debts in establishing income chargeable. 
+
+"I do not find any reason to interfere with the tribunal’s decision as the conclusions reached were within the law," stated Justice Majanja. 
+
+Evidence presented in court shows that the Commissioner of Domestic Taxes carried out a tax compliance audit of Equity’s records with regard to corporate tax for the year 2015, excise duty for the period between August 2013 to December 2015 and Pay As You Earn (PAYE) for 2016. 
+
+The taxman then issued a tax assessment in June 2017 for Sh1.7 billion inclusive of penalties and interest. KRA said Sh346 million was on account of corporate tax in respect to bad debts written off by Equity, Sh1.1 billion on account of excise duty and Sh234 million on interest and PAYE on the employees share ownership plan (ESOP). 
+
+The Tribunal held that the ESOP was established by Equity in 2005 for the purpose of encouraging and facilitating its employees and those of its subsidiaries to acquire shares. Justice Majanja declined to overturn the tribunal’s ruling. 
+
+bwambugu@ke.nationmedia.com Safaricom, East Africa Breweries among causalities as bourse sheds Sh90 billion. Group nets Sh10 billion in nine months on high loan loss provision during the period. Treasury says it will ensure comprehensive information on tenders is available on the government portal. They suspect Betty Barasa’s killing was most likely the work of professional assassins. Ping-pong between the President and Odinga in the wake of alliance rumours illustrate a relationship built on shaky political grounds.
