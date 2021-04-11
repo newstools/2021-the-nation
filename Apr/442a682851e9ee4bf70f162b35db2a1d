@@ -1,0 +1,83 @@
+The qualifying standard is 20.24sec but Otieno has a season's 20.86sec.The qualifying period ends in June hence giving Otieno and other Kenyan sprinters more time to qualify for the Summer Games. Former national 100m champion Mark Otieno is inching closer to qualifying for Tokyo Olympic Games after he shattered his personal best by 0.3 seconds during the All Comers Athletics Meet at the National Heroes Stadium, Lusaka on Saturday. 
+
+
+
+if (shouldRenderAd(true)) {
+googletag.cmd.push(function () {
+googletag.display("mobile-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['mobile-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+
+
+if (shouldRenderAd(false)) {
+googletag.cmd.push(function () {
+googletag.display("desktop-article-ad-1");
+});
+// Initial load (before ad refresh)
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 5000);
+setInterval(function refreshAds() {
+googletag.cmd.push(function adCommands() {
+googletag.pubads().refresh([window.adSlots['desktop-article-ad-1']]);
+});
+// During ad refresh
+setTimeout(() => {
+const ads = document.getElementsByClassName('content-page-ad');
+ads.forEach(ad => {
+ad.classList.remove('center-align-ad');
+ad.offsetHeight > 0 && ad.offsetHeight < 250 && ad.classList.add('center-align-ad');
+});
+}, 2000);
+}, 90000);
+}
+
+
+
+
+Otieno clocked 10.19 seconds to win his 100m semifinal race before storming to victory in 10.11 seconds in the final. 
+
+The feat saw Otieno erase his previous personal best of 10.14 seconds when winning the national title in 2017. 
+
+Interestingly,  Ferdinand Omanyala also ran 10.11 sec during the National Relay Series on January 23 at the Nyayo National Stadium but it was judged to be wind-assisted. 
+
+However, Omanyala finally downed the National Record on March 30 when he won his 100m during the Betking MoC Grand Prix at Yabatech Complex in Lagos. 
+
+The performance was enough to see Omanyala attain the Tokyo Olympic Games qualifying standards, beating the target of 10.05sec but his previous ban for doping violation locks him out. 
+
+This is after the government and Athletics Kenya moved to lock out any athlete who committed any doping offence from representing the country. 
+
+Athletics Kenya is yet to ratify Omanyala's time from Nigeria but has written to Nigeria Athletics to provide the official results and doping tests results from the championships before they can ratify the record. 
+
+Otieno's performance in Lusaka fell short of the Olympics qualifying time of 10.05 but the athlete will take another shot at the 200m on Sunday. 
+
+The qualifying standard is 20.24sec but Otieno has a season's 20.86sec. 
+
+The qualifying period ends in June hence giving Otieno and other Kenyan sprinters more time to qualify for the Summer Games. The two countries have had trade and health-related spats in the past five years. Health minister Mutahi Kagwe also reported 1,030 new infections and a positivity rate of about 12.4 per cent. Devotha Mdachi's suspension follows revelations of massive misuse of public funds and other resources.
